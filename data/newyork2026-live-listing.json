@@ -318,9 +318,10 @@
     "slug": "unsu-o1e71",
     "description": "unsu is a crypto wallet that works in any browser. No apps, no extensions, no accounts.",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 1,
+    "prizeCount": 2,
     "prizeBadgeOrgIds": [
-      "bw7y9"
+      "bw7y9",
+      "xdat5"
     ]
   },
   {
@@ -993,9 +994,10 @@
     "slug": "canary-kh3h7",
     "description": "Parametric insurance instrument underwritten and priced by prediction markets",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 1,
+    "prizeCount": 2,
     "prizeBadgeOrgIds": [
-      "f8ku2"
+      "f8ku2",
+      "xdat5"
     ]
   },
   {
@@ -1146,10 +1148,11 @@
     "slug": "immunity-eg56a",
     "description": "On-chain immune system for AI agents : earn by minting antibody",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 2,
+    "prizeCount": 3,
     "prizeBadgeOrgIds": [
       "bw7y9",
-      "f8ku2"
+      "f8ku2",
+      "xdat5"
     ]
   },
   {
@@ -1347,9 +1350,10 @@
     "slug": "distro-h393v",
     "description": "Distro fixes clipping marketplaces to give brands and builders more reach with crypto infra.",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 1,
+    "prizeCount": 2,
     "prizeBadgeOrgIds": [
-      "3zpxc"
+      "3zpxc",
+      "xdat5"
     ]
   },
   {
@@ -1357,9 +1361,10 @@
     "slug": "accrue-racfy",
     "description": "Get paid to wait. The most-watched line on Earth is now a bot-proof on-chain ad market.",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 1,
+    "prizeCount": 2,
     "prizeBadgeOrgIds": [
-      "bdi3h"
+      "bdi3h",
+      "xdat5"
     ]
   },
   {
@@ -1411,10 +1416,11 @@
     "slug": "proof-of-scan-trx38",
     "description": "Crowdsourced website scanner for security researchers to bypass cloaked phishing sites",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 2,
+    "prizeCount": 3,
     "prizeBadgeOrgIds": [
       "vsbye",
-      "bw7y9"
+      "bw7y9",
+      "xdat5"
     ]
   },
   {
@@ -1920,9 +1926,10 @@
     "slug": "the-wallet-shift-pqdxy",
     "description": "DeFiLlama for the on-chain AI agent economy: a live, agent-callable ERC-8004 directory.",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 1,
+    "prizeCount": 2,
     "prizeBadgeOrgIds": [
-      "yc3ys"
+      "yc3ys",
+      "xdat5"
     ]
   },
   {
@@ -1972,10 +1979,11 @@
     "slug": "void-tactics-ag25f",
     "description": "Tactical onchain fleet combat: Dynamic Flow purchases, World ID sybil resistance, Walrus game replay",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 2,
+    "prizeCount": 3,
     "prizeBadgeOrgIds": [
       "3zpxc",
-      "xrzks"
+      "xrzks",
+      "xdat5"
     ]
   },
   {
@@ -1999,9 +2007,10 @@
     "slug": "cumulant-xfzya",
     "description": "Structured products on prediction markets - baskets, tranches, PPNs, & continuous markets",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 1,
+    "prizeCount": 2,
     "prizeBadgeOrgIds": [
-      "tc25z"
+      "tc25z",
+      "xdat5"
     ]
   },
   {
@@ -2054,8 +2063,10 @@
     "slug": "lynx-ta08o",
     "description": "The terminal that turns prediction markets into baskets you can buy beside real assets.",
     "event": "ETHGlobal New York 2026",
-    "prizeCount": 0,
-    "prizeBadgeOrgIds": []
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
   },
   {
     "name": "snevins-agents",

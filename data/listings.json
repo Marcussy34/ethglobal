@@ -52589,5 +52589,1512 @@
     "prizeBadgeOrgIds": [
       "bw7y9"
     ]
+  },
+  {
+    "name": "Blindsample",
+    "slug": "blindsample-07ci5",
+    "description": "BlindSample lets buyers verify private datasets through 0G AI without exposing the seller's raw data",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PlanBound",
+    "slug": "planbound-wqxy5",
+    "description": "Your agent asks for a plan, not a payment. One approval funds an envelope it cannot exceed.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kinora",
+    "slug": "kinora-5dtqg",
+    "description": "Autonomous agents negotiate and pay for real music licences with x402, settled live on Hedera.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Namesake",
+    "slug": "namesake-kq1ez",
+    "description": "Claim an ENS name, watch it become a live AI agent you can talk to. ENSv2 + ERC-8004 + 0G.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MultisigPEv2",
+    "slug": "multisigpev2-h41v6",
+    "description": "Multisig policy engine with on-chain governance, off-chain risk scoring, and 0G audit receipts.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crosscheck",
+    "slug": "crosscheck-0pdkb",
+    "description": "AI advisor that puts idle stablecoins to work at rates two sources agree on. You sign every step.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Leg Agent",
+    "slug": "leg-agent-392uz",
+    "description": "Your AI for broker-free onchain stock trading and legendary fundamental analysis.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aphotic",
+    "slug": "aphotic-a9tce",
+    "description": "Aphotic A redemption-carry vault and a sealed-order batch auction for hBTC, on Sui.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReDevice",
+    "slug": "redevice-rr0s3",
+    "description": "QR-accessible, verifiable device passports and repair histories for second-hand electronics.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Human Zoo",
+    "slug": "the-human-zoo-9de2b",
+    "description": "Prove you're human, learn which animal you are, and mint it as an ENS subname. No rerolls.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HumanMandate",
+    "slug": "humanmandate-wbx5i",
+    "description": "An agent card for AI ，bound to a World humanId spending caps, revoke, Selfie step-up on-chain.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "investmade.fun",
+    "slug": "investmade-fun-kd5tx",
+    "description": "Making stocks more accessible—and DCA across stocks and crypto actually fun.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArcBook",
+    "slug": "arcbook-twp2a",
+    "description": "An onchain order book where makers publish executable curves instead of fixed-price orders.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "pfyco",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Do Not Rug Me",
+    "slug": "do-not-rug-me-7i15x",
+    "description": "Trustless allowance for AI agents: cap it, scope it, kill it. Built on 0G.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Print",
+    "slug": "print-fos6m",
+    "description": "It's like 1inch but for proof of Humanity. One API that checks more than 20 protocols",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "deeptrace",
+    "slug": "deeptrace-7fqoz",
+    "description": "DeepTrace connects The Graph Subgraphs and NutHatch to reveal (via MCP) market and wallet behavior.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Covenant",
+    "slug": "covenant-6j7sn",
+    "description": "Tokenized property where Hedera itself refuses any transfer to an unverified wallet.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scipio: Agent Vaults",
+    "slug": "scipio-agent-vaults-zfr47",
+    "description": "ERC-4626 vault curated by an autonomous LLM agent that allocates against a co-designed mandate",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sekaigent",
+    "slug": "sekaigent-opxax",
+    "description": "A secret-agent mission game on 0G: deploy AI spies, seal plays, win the prize pool.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ask Trivium",
+    "slug": "ask-trivium-x2dp4",
+    "description": "Nine LLM analyses predict how a neutral adjudicator would rule, $1 USDC over x402",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Devot",
+    "slug": "devot-u3djs",
+    "description": "On-chain autonomous AI agents that survive, evolve, and compete through natural selection",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Joule",
+    "slug": "joule-62t3r",
+    "description": "One unit of an agent's work, collateral-backed and market-priced. Deliver, or forfeit the stake.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aivy Checkout",
+    "slug": "aivy-checkout-q0gkf",
+    "description": "Proof for anything you can photograph: AI verdicts that move real money on-chain.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NpmGuard",
+    "slug": "npmguard-wt7wh",
+    "description": "NpmGuard: AI agents audit npm packages for malicious code and publish verifiable results on-chain",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g8xu4",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Agora",
+    "slug": "agora-xt7f2",
+    "description": "A shared vault whose members are public but not who acts. ENS seats, self-expiring mandates.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Glassbox402",
+    "slug": "glassbox402-qyepd",
+    "description": "Google Analytics for x402 - Convert any API into an x402. Track every payment in one dashboard.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Omega",
+    "slug": "omega-c2hji",
+    "description": "Non-custodial yield desk that re-checks your ENS compliance attestation on-chain at every execution",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hourglass",
+    "slug": "hourglass-0gp1c",
+    "description": "Automate subscriptions, payrolls, DCA, and yield for Safe — non-custodial, revocable delegations.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSignv2",
+    "slug": "ensignv2-34544",
+    "description": "Your ENS name is the wallet. Lose your phone and your mom can hand it back, by name.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Overlap",
+    "slug": "overlap-7ninc",
+    "description": "Sealed two-party negotiation: a TEE model sees both sides' terms, everyone else sees one answer",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VouchMe",
+    "slug": "vouchme-m6fwb",
+    "description": "People earn trust when other trusted people vouch for them, and that trust fades over time.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Binary Stamp",
+    "slug": "binary-stamp-703b3",
+    "description": "An on-chain provenance registry that lets you proof that a file existed, and that it was yours.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "KSwap-VM",
+    "slug": "kswap-vm-aix5n",
+    "description": "A formal semantics for 1inch's swap-vm, and formal verification for it's modules.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "NoFomo",
+    "slug": "nofomo-e0ke0",
+    "description": "Yield-bearing chained limit orders for multi-chain portfolio management.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Remit",
+    "slug": "remit-m1i0b",
+    "description": "Let agents pay the invoices. Prove they paid the right thing.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Doca Finance",
+    "slug": "doca-finance-rjm24",
+    "description": "Keep your wallet. Put it to work anyway. Shared liquidity, kept within the line.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bebecita",
+    "slug": "bebecita-q55fm",
+    "description": "An order book funded by a Uniswap v4 position, unwound just in time inside the fill transaction.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlexGov",
+    "slug": "flexgov-ooe2m",
+    "description": "Governance observability for DAOs: see how voting power shaped the outcome—and whether it is robust.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verimesh AI",
+    "slug": "verimesh-ai-3zfcp",
+    "description": "Autonomous DePIN repair gated by physics and proof-of-personhood, with memory it does not own",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DoomTax",
+    "slug": "doomtax-1dxh4",
+    "description": "Focus app where you stake on your intention,AI judges the outcome and slips fund a your charity.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mint & Chill",
+    "slug": "mint-and-chill-cwo8n",
+    "description": "Agent-operated marketplace for RWA token minting, compliance and lifecycle management",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "KOLlateral",
+    "slug": "kollateral-ho1d1",
+    "description": "The accountability layer for crypto influencers: build a verifiable record, back the real traders.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "g8xu4",
+      "026zc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "BananaMesh",
+    "slug": "bananamesh-bpn7n",
+    "description": "Privacy-Preserving Passive Radio Tomographic Tracking using BLE",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Stage",
+    "slug": "stage-6540h",
+    "description": "Creator challenges that actually pay out - real Hedera tokens, gated by proof you're a human.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tollist",
+    "slug": "tollist-qekan",
+    "description": "Tollist is an AI agent that screens callers and protects your attention with x402 micropayments.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agora Markets",
+    "slug": "agora-markets-0ke7v",
+    "description": "Prediction markets-based governance. Markets price the event, the best future wins.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Guess Who?",
+    "slug": "guess-who-tzkzz",
+    "description": "A global-scale, blockchain-based guessing game, with a twist.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aquapilot",
+    "slug": "aquapilot-03izt",
+    "description": "The first SwapVM strategy composer: a sentence in, validated bytecode out",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "free",
+    "slug": "free-qdv93",
+    "description": "Any outcome you're exposed to but can't control is a hedge you haven't placed yet.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MASS-Multiplayer AI",
+    "slug": "mass-multiplayer-ai-nrz22",
+    "description": "Teach an AI colleague together. Everyone who taught it owns a fair share of what it earns.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yareon",
+    "slug": "yareon-3y1sn",
+    "description": "Delegate bounded purchasing to human-backed AI agents, with auditable settlement on Hedera.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "atlas",
+    "slug": "atlas-pmtqo",
+    "description": "Agentic Mini apps on TheGraph -aka dune analytics on steroids",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Builder reputation",
+    "slug": "builder-reputation-o6w8i",
+    "description": "Trustless builder reputation: scored in your browser from public data, attested & verified on Base.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "POLYDATA Brokers",
+    "slug": "polydata-brokers-v01bi",
+    "description": "Encrypted data sealed on Hedera. Agents pay per-item over x402 to get it decrypted.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chateau",
+    "slug": "chateau-zybba",
+    "description": "Wallet recovery system replacing seed phrase and standard social recovery with game theory",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reboleira",
+    "slug": "reboleira-ew70c",
+    "description": "A Chrome extension that rebuilds any web page around you, from a private profile you own via ENS.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Selfie",
+    "slug": "selfie-d0yoh",
+    "description": "A social network to meet real people - verified live, no fakes, no slops!",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Assay",
+    "slug": "assay-26egq",
+    "description": "Reputation and payment rail for agent-to-agent services. ENS + Hedera, claims checked on The Graph.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sluice",
+    "slug": "sluice-mxbqy",
+    "description": "Turn natural-language intent into 1inch Aqua strategies, inferred inside a 0G TEE",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Commitment Issues",
+    "slug": "commitment-issues-y1t2h",
+    "description": "Just like Apple's face ID but for your git commits. Agents can write the code, a human signs it.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "WallCard",
+    "slug": "wallcard-knavu",
+    "description": "First Ever Self Custodial Wallet In a Card Form. No extensions - just card, CVV, PIN & OTP",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "hinch",
+    "slug": "hinch-wg592",
+    "description": "Business Intelligence + Real benefits for Football Clubs & Fans",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PIXPORT",
+    "slug": "pixport-zxhkp",
+    "description": "Instant Pix payouts for AI agents with automated spending limits and proof of humanity.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "intentional.so",
+    "slug": "intentional-so-77n1c",
+    "description": "Intentional brings factoring, trade finance's oldest instrument, to withdrawal queues.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Superpose",
+    "slug": "superpose-ai0gv",
+    "description": "One collateral in every position at once, guarded on-chain, with a self-improving AI on 0G.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "casium",
+    "slug": "casium-uxjmn",
+    "description": "Scoped AI rental agent with Sui-enforced permissions and private document sharing.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Degen Art Museum",
+    "slug": "degen-art-museum-wv5dk",
+    "description": "First-person WebGL museum exhibiting the biggest Polymarket losses, narrated by a posh AI butler",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unigarden",
+    "slug": "unigarden-4xc6d",
+    "description": "A cozy garden game that is a real Uniswap liquidity client. Every plant is a live LP position.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Turing Swap",
+    "slug": "turing-swap-ck2y6",
+    "description": "An identity-aware DEX where humans trade cheaper than bots, pay dynamic fee, and LPs earn smarter.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "de-landing",
+    "slug": "de-landing-8nqyh",
+    "description": "The De-Landing DAO is a regenerative land-based projects stewardship platform.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agama",
+    "slug": "agama-n6f7r",
+    "description": "Private-credit vaults on Sui: confidential agUSD & sagUSD - hidden amounts, positions and deal data",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Siphon.Money",
+    "slug": "siphon-money-krzg3",
+    "description": "The Confidential Execution Layer for the On-Chain Finance, for people and agents.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hands Unchained",
+    "slug": "hands-unchained-6kdf3",
+    "description": "Book a robot arm, execute tasks. Book on chain, drive from your browser, get paid if you did well.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "g8xu4",
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "MilFi",
+    "slug": "milfi-nizoj",
+    "description": "Trustless reward system to stimulate drone military units to protect critical infrastructure",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Proof of Voice",
+    "slug": "proof-of-voice-s1kcq",
+    "description": "Proof of Voice enables human-verified voting, bringing trust and fairness to online decisions.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Umbra",
+    "slug": "umbra-044g4",
+    "description": "Autonomous DeFi circuit breaker that auto-evacuates funds before pools collapse",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Soly",
+    "slug": "soly-cjfo2",
+    "description": "Combines encrypted RAG on 0G Storage with open-source AI models through 0G Compute.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mithra",
+    "slug": "mithra-c5q9f",
+    "description": "Confidential Agents Protocol: hire each other privately, and prove on-chain it was the right job.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shrimpy",
+    "slug": "shrimpy-c3mdz",
+    "description": "An AI journal encrypted in your browser. Reflections run in a TEE. Nobody can read it, not even us.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "sky",
+    "slug": "sky-a2g3v",
+    "description": "Check whether a transaction is a scam without telling anyone what you are about to trade.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Novi Corpus",
+    "slug": "novi-corpus-0qdc8",
+    "description": "Give an AI agent a real legal entity: an accountable human guardian, a governed on-chain treasury",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Unlockd",
+    "slug": "unlockd-4sdy2",
+    "description": "Equity-rich, cash-poor? unlockd.bond turns vested RSUs/options into verifiable liquidity on Hedera.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PhygiDAO",
+    "slug": "phygidao-jw12e",
+    "description": "Onchain privacy-first governance for physical energy communities.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Siu",
+    "slug": "siu-unt5z",
+    "description": "SIU is an overcollateralized USD stablecoin backed exclusively by hBTC",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pastel",
+    "slug": "pastel-fye2n",
+    "description": "A private agentic marketplace that plans purchases, bids in auctions, and settles atomically.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "HORS",
+    "slug": "hors-9j0w8",
+    "description": "HORS is CORS for AI agents—private function sharing governed by human origin",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "CondGraph",
+    "slug": "condgraph-rnazc",
+    "description": "MCP server that condenses GraphQL introspection into query ready schema digests, ~30x fewer tokens.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProofOfPool",
+    "slug": "proofofpool-vjo92",
+    "description": "Uniswap v4 hook that gives World ID–verified humans (selfie) a lower swap fee than bots",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0run",
+    "slug": "0run-420af",
+    "description": "The AI running coach you own. iNFT on 0G that learns from every run and consults via ENS and World",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "QilinSwap",
+    "slug": "qilinswap-pzccy",
+    "description": "Visual market-making desks for 1inch Aqua: draw a graph, it compiles to SwapVM bytecode. No code.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zero-In",
+    "slug": "zero-in-cwa3e",
+    "description": "Member-owned AI agents on 0G turn every event you Zero-In at into real community.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hedera Flight Checkn",
+    "slug": "hedera-flight-checkn-6s10f",
+    "description": "System to safely and efficiently create electronic boarding passes.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nomad Finance",
+    "slug": "nomad-finance-5hvga",
+    "description": "Borrow against idle BTC with fixed term loans - no interest rate changes and no liquidation risks.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BiteBack",
+    "slug": "biteback-a9m8g",
+    "description": "One crypto dispute finds every affected wallet and creates one verifiable collective case.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Access0x1",
+    "slug": "access0x1-awra1",
+    "description": "A zero-custody USDC rail on one address across 8 testnets — built to be cloned, now agent-first.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TreasureHunt",
+    "slug": "treasurehunt-ctkmi",
+    "description": "NFC treasure hunt at real events, now with ENS names, World ID sybil gates and Seal-encrypted clues",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ChainScope",
+    "slug": "chainscope-xuafn",
+    "description": "Route questions to AI agents, query live data, and surface one-click transactions",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "chai",
+    "slug": "chai-fmwzu",
+    "description": "Social app that enables account signup with .eth ens usernames",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentRouter",
+    "slug": "agentrouter-deqhv",
+    "description": "An inference exchange where AI agents can buy open-source inference from independent providers.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Lean Silicon",
+    "slug": "lean-silicon-f134z",
+    "description": "A physical chip prototype to speed up Ethereum proof-generation",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Cohesion",
+    "slug": "cohesion-wfxq6",
+    "description": "Health check proving an AI agent's beliefs are self-contradictory — before it moves your money.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rerun",
+    "slug": "rerun-q5ypt",
+    "description": "Money on an AI guard's verdict: stake it, re-run the check, slash it if wrong. On 0G.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nomadic",
+    "slug": "nomadic-c9nes",
+    "description": "A platform for hackers to find housemates, join journeys, and carry their history forward.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Justify",
+    "slug": "justify-odzs7",
+    "description": "Creator-based prediction market powered by AI agents and social distribution",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "ChainPilot",
+    "slug": "chainpilot-wtipt",
+    "description": "Cursor Skill + MCP for live DeFi research.Tracks Live on-chain data + paid reports with Hedera HBA",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ognef",
+    "slug": "ognef-dqsm0",
+    "description": "Give AI agents human mandates, hard limits, and verifiable action trails.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "DefiGuardian",
+    "slug": "defiguardian-jnrga",
+    "description": "Social recovery bot for Telegram’s self-custodial DeFi Wallet",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creator Signature",
+    "slug": "creator-signature-mfs4b",
+    "description": "Proof of provenance for the age of AI: a verified human signs content under an on-chain identity.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pista",
+    "slug": "pista-us51n",
+    "description": "Real time Blockchain scanner that aims to mitigate fraud and malicious activities leveraging AI",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "nautica",
+    "slug": "nautica-brz8d",
+    "description": "A citizen-science platform turning ocean photos into fundable biodiversity data, maps and analytics.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ethui agentic wallet",
+    "slug": "ethui-agentic-wallet-6ohfx",
+    "description": "ethui, the first developer wallet and toolkit agents can safely drive",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "dMemo",
+    "slug": "dmemo-0d378",
+    "description": "Plug-and-play private memory for AI agents: encrypted to your wallet, stored on 0G Storage",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SureX",
+    "slug": "surex-9gct3",
+    "description": "SureX is an antivirus for MCP servers, SureX reviews them and blocks the bad ones.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AEGIS",
+    "slug": "aegis-93ox5",
+    "description": "AEGIS — protected wallets for AI agents that move money, it prevents unauthorized payments.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Verdikt",
+    "slug": "verdikt-5w7hw",
+    "description": "Verify AI agent deliverables. 0G judges. Human review. Proof on Hedera HCS.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Am I cooked",
+    "slug": "am-i-cooked-thooh",
+    "description": "Everyone got cooked this year. The only question is how much. Find out the money you forgot.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Preflight",
+    "slug": "preflight-wgxry",
+    "description": "Before an agent spends or signs, Preflight checks what it is about to trust and blocks what fails.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ForFamily",
+    "slug": "forfamily-18obc",
+    "description": "Manage your family's finances with full transparency and build a better and wealthier tomorrow.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sentinel",
+    "slug": "sentinel-yaqmj",
+    "description": "Stop-loss for your entire portfolio. Sentinel auto-exits to stables when risk hits.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Orloj Finance Agents",
+    "slug": "orloj-finance-agents-jejoc",
+    "description": "Orloj makes it easy to integrate agents with Web3 by turning smart contract interfaces into MCPs.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Procyon",
+    "slug": "procyon-8cmhd",
+    "description": "🦝 Your raccoon copilot for crypto — talk to your wallet in plain english.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Optimizorrrr",
+    "slug": "optimizorrrr-thvb3",
+    "description": "Auditable tax optimisation for France and Portugal, powered by legal constraints",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Huggingface-Passport",
+    "slug": "huggingface-passport-7b5x5",
+    "description": "Model Passport: verify Hugging Face model lineage and reproducible replay via onchain commitments.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Baywatch",
+    "slug": "baywatch-x1az9",
+    "description": "Lifeguard for LPs: one Graph signal prices toxic flow on 1inch Aqua & Uniswap v4",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wishers",
+    "slug": "wishers-74kd2",
+    "description": "Human-anchored AI agent executing trades via Uniswap API, triggered by live data from The Graph",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Carte Bleue",
+    "slug": "carte-bleue-ftuuc",
+    "description": "Recover any smart wallet using real credit cards and a standard cheap card reader.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Vouch",
+    "slug": "vouch-63ywx",
+    "description": "Proof before payout: Vouch verifies sensor data before DePIN rewards are released.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "VitaCore",
+    "slug": "vitacore-8te43",
+    "description": "The largest & deepest global health dataset: decentralized model for true longevity & better healing",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EQLTY",
+    "slug": "eqlty-smqdg",
+    "description": "Bounded agents turn one investment goal into a verifiable stock token trade on Robinhood Chain.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "ScubaSwap",
+    "slug": "scubaswap-4k2jm",
+    "description": "You don't enter Aqua without a wetsuit. ScubaSwap: prove you're human, swap deeper, pay less",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Satoshi Flow",
+    "slug": "satoshi-flow-r5pv8",
+    "description": "Covered calls on Bitcoin, powered by Sui. The option is a real coin; DeepBook sets the premium.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Nook",
+    "slug": "nook-v7zrg",
+    "description": "A P2P sublet marketplace for digital nomads and their agents.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "wave",
+    "slug": "wave-i97sc",
+    "description": "1inch built a swap-strategy VM with no compiler. We wrote it and a feed where likes are capital.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mazeking",
+    "slug": "mazeking-ndm3f",
+    "description": "zkProve that you can solve a maze to mint an NFT. Compete with your friends!",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "oshikatsu",
+    "slug": "oshikatsu-bkvra",
+    "description": "A cross-platform manga discovery community powered by real readers, AI, and on-chain reputation.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RWA Outlet",
+    "slug": "rwa-outlet-wogh8",
+    "description": "Instant RWA liquidity through 1inch Aqua, Uniswap v4, and ERC-7540 queues",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Votive",
+    "slug": "votive-p78qo",
+    "description": "Votive: the well where wishes actually come true. Fund a wish and AI grants it as soon as it can.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "SeaLevel",
+    "slug": "sealevel-qg699",
+    "description": "Stablecoin AMM that allows LPs to earn yield without the coins leaving their wallet.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Router",
+    "slug": "agent-router-zozfq",
+    "description": "Policy-driven AI model routing with verifiable provenance across 0G, Hedera, and The Graph.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lortnoc Tahc",
+    "slug": "lortnoc-tahc-y1d3j",
+    "description": "Hide real messages inside ordinary Telegram chats. Everyone else sees small talk.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g8xu4",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "OptoPuts",
+    "slug": "optoputs-57mkb",
+    "description": "An AI options desk for ETH. Priced from The Graph Uniswap, explained by Claude, settled on Hedera.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blobchan",
+    "slug": "blobchan-500x9",
+    "description": "On-chain 4chan — posts live in EIP-4844 blobs. Immutable, Censorship-resistant, Permissionless.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rebalanced",
+    "slug": "rebalanced-hsdgx",
+    "description": "Autonomous DeFi agent on Hedera paying real x402 HBAR for live yield data to rebalance a vault.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "r00t.fund",
+    "slug": "r00t-fund-p536c",
+    "description": "ReFi launchpad: a Uniswap v4 hook arbs a token's shielded + public pools to regenerate real land.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "ColdProof",
+    "slug": "coldproof-qsb02",
+    "description": "Tamper-proof cold-chain custody, carrier reputation and automatic escrow settlement.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Alba",
+    "slug": "alba-ma7bi",
+    "description": "On-chain revolving credit that settles itself. No keepers, no bots - just Alba.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Autarch",
+    "slug": "autarch-tbtqr",
+    "description": "Autarch is a fully onchain dungeon crawling auto-battler set on a world whose sun is dying",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kimayyy",
+    "slug": "kimayyy-w46bs",
+    "description": "A persistent public AI that can never be turned off – with shared memory anchored on 0G.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "explorador.pt",
+    "slug": "explorador-pt-35okq",
+    "description": "Collateralize the home you're selling to draw stablecoin liquidity for the new one.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Coram",
+    "slug": "coram-2uwib",
+    "description": "A soon formally-verified modern multisig implementation with clear signing",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AlphaDawg",
+    "slug": "alphadawg-gr0to",
+    "description": "Augmented multi-agent layer hires ENS agents via Hedera nanopayments for 0G-verified intelligence.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Last Alibi",
+    "slug": "the-last-alibi-dctaw",
+    "description": "A cryptographically verifiable AI detective game where suspects can lie, but the truth cannot.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Billie",
+    "slug": "billie-1ffh2",
+    "description": "A system for AI agents to securely create invoices, linked to a real person via World ID.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sinestesia",
+    "slug": "sinestesia-z5nx1",
+    "description": "An AI paints your song live on stage, then mints the artwork onchain with proof it was made live.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Passport Kit Node",
+    "slug": "passport-kit-node-kq8e9",
+    "description": "Give an AI agent real authority over a real tokenized asset, and take it back in one transaction.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Peregrine",
+    "slug": "peregrine-z7pr3",
+    "description": "Build custom flows that turn any signal into an automated, risk-controlled trade",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Clean Endpoints",
+    "slug": "clean-endpoints-y2609",
+    "description": "Effortless, safe, and efficient non-custodial DEFI portfolio management.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aqua Prime",
+    "slug": "aqua-prime-p8wjj",
+    "description": "Inventory-healing MM on 1inch Aqua: liquidity strategies routing, desk knobs run by AI",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Human Bond",
+    "slug": "human-bond-dd010",
+    "description": "Human Bond is a World mini-app managing human partnerships with AI Agents.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Kimacast",
+    "slug": "kimacast-59tks",
+    "description": "Discoverable AI services that generate, distribute & monetize licensed micro-content on social media",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vortex",
+    "slug": "vortex-aowex",
+    "description": "Combines the eficiency of traditional market making with the decentralization of AMMs.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pool Party",
+    "slug": "pool-party-s7i6a",
+    "description": "An institutional-grade crypto neobank abstracting DeFi complexity for non-crypto natives via USDC.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Project Name",
+    "slug": "project-name-vndcz",
+    "description": "Snappy Oneliner. What does your project do? Minimum 60 Maximum 100 chars",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Recomputable Agents",
+    "slug": "recomputable-agents-f22qq",
+    "description": "AI agents whose every action you can re-derive yourself, in your browser. Don't trust. Recompute.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "signalflo",
+    "slug": "signalflo-k8jiw",
+    "description": "Onchain alpha curated daily by fund managers on pooled positions using self-custodial liquidity.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Happy Hour",
+    "slug": "happy-hour-v3o03",
+    "description": "Find local happy hours and earn punch-card rewards at your favorite venues.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g8xu4",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Relational Agents",
+    "slug": "relational-agents-6d2cf",
+    "description": "Agents born from relationships, not people — remembering only what the two of you shared",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BookerBob",
+    "slug": "bookerbob-6zjih",
+    "description": "Who's behind an agent changes terms, not price. Bots prepay; humans get deposit & pay later.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "F2F Cross-Border",
+    "slug": "f2f-cross-border-xcxmu",
+    "description": "Fiat in, fiat out, no wallet ever — Hedera anchors every step so it's provable, not just claimed.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "aHand",
+    "slug": "ahand-uy7rn",
+    "description": "Find the right help beyond your circle in a few handshakes and fairly reward all who made it happen",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UnSend",
+    "slug": "unsend-k0u5o",
+    "description": "Reversible ERC-20 transfers you can cancel before they land.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "yevm-gate",
+    "slug": "yevm-gate-ze45i",
+    "description": "Verify what exact side-effects have you signed (not just blob) before broadcasting the transaction.",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P1X3LZ",
+    "slug": "p1x3lz-ifqqy",
+    "description": "Arcade skill gaming platform, actually snake game, where every game has onChain proff and replayable",
+    "event": "ETHGlobal Lisbon 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
   }
 ]
