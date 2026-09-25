@@ -1,0 +1,1857 @@
+[
+  {
+    "name": "Football",
+    "slug": "football-gvaa8",
+    "description": "on-chain football manager game that leverages the privacy that TEN Protocol provides to hide players' strategies from opponents.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "TheGen",
+    "slug": "thegen-5xkcw",
+    "description": "Farcaster Frame for creators with temporary 'stories' gated by paid monthly membership.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "🤜🏻Concordia🤛🏻",
+    "slug": "concordia-44uec",
+    "description": "Concordia, whose name is  inspired by the god of peace, agreement, well-being and harmony in Roman Mythology, is a project announcement platform that aims to bring together people working in different fields in web3 in the most harmonious and easiest way.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "SmartCompiler",
+    "slug": "smartcompiler-43q2j",
+    "description": "With a focus on the user, SmartCompiler transforms Solidity compilation by providing a feature-rich suite that prioritizes security, performance, and accessibility. With a paymaster system, account abstraction, and one-click deployment across several chains.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "VerifyLearning",
+    "slug": "verifylearning-orhg3",
+    "description": "Machine Learning data should be private. It requires high computation and hence not scalable",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "z0Wallet",
+    "slug": "z0wallet-8hj73",
+    "description": "Z0Wallet Is a privacy focused multi sig wallet powered by the risc0 stack",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "axdu9",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "AuthChain:FHE Auth",
+    "slug": "authchain-fhe-auth-61m9b",
+    "description": "AuthChain is a decentralized authentication app leveraging blockchain, passkeys, and Fully Homomorphic Encryption (FHE).",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "onchain data frame",
+    "slug": "onchain-data-frame-97dk1",
+    "description": "A frame generator for on chain data , starting with trx hash details and accoutn details on that network summarized onto a frame",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "ConWal",
+    "slug": "conwal-ic7ss",
+    "description": "ConWall is a protocol enabling secure connections between decentralized applications (dApps) and cryptocurrency wallets. It facilitates seamless interaction by scanning QR codes, allowing users to securely access their funds",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verificador",
+    "slug": "verificador-6x1tw",
+    "description": "Deep-fake verification platform using C2PA protocol to verify media file's metadata",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Token Wizard",
+    "slug": "token-wizard-gh1uf",
+    "description": "TokenWizard lets users to effortlessly Mint and Deploy their ERC-20 or ERC-1115 Tokens on Arbitrum Blockchain – No Coding Skills Required! 😉",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Rollup Attest",
+    "slug": "rollup-attest-mbb7q",
+    "description": "Redefining attestation storage with micro rollup through Sign Protocol integration",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NeonPay (SDK)",
+    "slug": "neonpay-sdk-v116g",
+    "description": "Integrate payments seamlessly on your website with NeonPay SDK. Accept transactions via EVM and Solana with blazing-fast speed.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlobMerger",
+    "slug": "blobmerger-na7ob",
+    "description": "Blob submission service to allow payments as per your data usage",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "ECourt",
+    "slug": "ecourt-jcec7",
+    "description": "Blockchain justice: eCourt cuts costs & delays. Sign Protocol verifies verdicts.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "RestakeSafe",
+    "slug": "restakesafe-hnkbo",
+    "description": "Explore blockchain security with our Decentralized Safety Factor Calculator on Bacalhau! It dynamically evaluates economic vulnerabilities by calculating Safety Factor in real-time.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkSocial",
+    "slug": "zksocial-q1b7z",
+    "description": "This project introduces a novel approach by integrating Zero-Knowledge Machine Learning (ZKML) into social media interactions",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Shadow Pay",
+    "slug": "shadow-pay-ke4se",
+    "description": "Shadow Pay is a privacy preserving p2p transaction platform where only the parties directly involved have knowledge of the transfer details, i.e., the receiver's details is only known to the sender and the receiver",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anti-Sandwich 🚫🥪",
+    "slug": "anti-sandwich-q9gmv",
+    "description": "Anti-Sandwich: Verifying canonical order of transactions in a multicall execution using RISC Zero proofs.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PixelPulse",
+    "slug": "pixelpulse-ovyyv",
+    "description": "An innovative social media platform where your experiences come to life through text and AI-generated images. Each post becomes an memory through NFT masterpiece shared across social media platforms!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WitnessBase",
+    "slug": "witnessbase-gc864",
+    "description": "WitnessBase: Creates proofs for unregistered product innovations with blockchain verification. Say goodbye to lengthy registration processes and hello to streamlined authenticity protection.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Warrlord",
+    "slug": "warrlord-j91hz",
+    "description": "Warlord is a game inspired by COC and built around Defi + Account Abstraction + RISC0-ZKVM",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cryptoCrep",
+    "slug": "cryptocrep-o95re",
+    "description": "CryptoCrep is an AI-driven investment platform offering smart contract auditing, user-friendly interfaces, and automated copy trading",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arbitrum Polling",
+    "slug": "arbitrum-polling-0z0tn",
+    "description": "SimplePoll manages poll creation, voting, and tallying. It enforces a minimum contribution for voting, thus, poll creators can earn.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "FleetFaceoff",
+    "slug": "fleetfaceoff-v28je",
+    "description": "classic Battleship game that leverages zero-knowledge proofs and blockchain technology",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gnosis-Social",
+    "slug": "gnosis-social-hnkd0",
+    "description": "Gnosis Social: Simplifying DAO creation and management with innovative features, seamless integration, and enhanced security for decentralized collaboration.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Rollup Records",
+    "slug": "rollup-records-99mi9",
+    "description": "Revolutionizing DeFi with our tailored micro-rollup, empowered by Stackr's SDK and RiscZero zkVM for efficient order matching",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkCraft",
+    "slug": "zkcraft-xs9q2",
+    "description": "Own and evolve unique AI-powered fighters in a revolutionary game with dynamic NFTs",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "GreenDotPush",
+    "slug": "greendotpush-0b003",
+    "description": "Addressing the challenge of renewable energy integration, our project incentivizes individual contributions to the grid, making sustainable energy more accessible and rewarding.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FHE Vickrey Auction",
+    "slug": "fhe-vickrey-auction-3iyxh",
+    "description": "We implements a Vickrey auction, a type of sealed-bid second-price auction, using fully homomorphic encryption (FHE) with Zama's Fhevm library. FHE allows data to be computed while encrypted, providing privacy for bidders while maintaining accurate auction results.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Memester",
+    "slug": "memester-q0peq",
+    "description": "Memester: Create, Share, and  Earn — Where Your Memes Matter",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GreenLink",
+    "slug": "greenlink-03763",
+    "description": "GreenLink is a revolutionary project that aims to transform waste recycling practices by leveraging blockchain technology and sustainability principles.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "EconoTrust",
+    "slug": "econotrust-s8ion",
+    "description": "EconoTrust Layer: Enhancing Filecoin's ecosystem with a secure cryptographic framework. We're pioneering trust via Restaking, optimizing capital with IPC Subnets, and boosting network integrity and growth. #Blockchain #Filecoin #Cryptoeconomics",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QuadFund",
+    "slug": "quadfund-dacph",
+    "description": "Open platform for project funding and support, where individuals can present their projects, and each person gets one vote per project.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LoyaltyLinx",
+    "slug": "loyaltylinx-9tfiz",
+    "description": "LoyaltyLinx demonstrates how blockchain technology can be leveraged to create innovative loyalty market systems that reward user engagement and foster community interaction.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NovaStride",
+    "slug": "novastride-7gnec",
+    "description": "DAO for managing hackathons where the community plans the pre-hackathon phase.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omnichain Deployer",
+    "slug": "omnichain-deployer-ai1d9",
+    "description": "A hardhat plugin that allows developers to deploy contracts to exact same addresses and verify them on multiple networks (Layer 2 or any EVM compatible network) with few commands.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vy7pe"
+    ]
+  },
+  {
+    "name": "zKode",
+    "slug": "zkode-q5x5t",
+    "description": "Revolutionizing Code Verification and Work Trust in Development",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "prepaidGas",
+    "slug": "prepaidgas-zf59k",
+    "description": "PrepaidGas allows to buy Gas in advance and use it later. First ETH Gas futures market",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TxFusion",
+    "slug": "txfusion-mytji",
+    "description": "TxFusion is a platform that allows users to perform multiple transactions in a single call and signature using the new EIP5792",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Pompom Protocol",
+    "slug": "pompom-protocol-tjm5t",
+    "description": "Borrow money for your hackathon stake with your credit score",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Caramel",
+    "slug": "caramel-dofn3",
+    "description": "Our tool automates the deployment of Rust smart contracts across blockchain networks by translating them into multiple languages using AI, streamlining development and enhancing scalability.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Coincast",
+    "slug": "coincast-26ima",
+    "description": "Empowering creators to deploy and distribute ERC1155 NFT collections via Farcaster Frames, leveraging multi-chain support and Farcaster's 50k+ DAU distribution layer for audience growth.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Sage Wallet",
+    "slug": "sage-wallet-ihd8a",
+    "description": "Sage is an ERC 4337 wallet with MPC(TSS) key management that uses attestation, device and Oauth factors for better UX and a highly secure experience",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "5e2gc"
+    ]
+  },
+  {
+    "name": "ZkProof Portal",
+    "slug": "zkproof-portal-1jjg5",
+    "description": "ZKProof Portal  is a decentralized marketplace where developers can list zero-knowledge proof tasks and provers can bid to complete them.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "Next Pay",
+    "slug": "next-pay-f8t38",
+    "description": "Next pay enables Buy Now Pay Later financing on top of Gnosis Pay card.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "FI",
+    "slug": "fi-t8yjp",
+    "description": "Welcome to Finance! Report errors, earn rewards 💰, drive digital innovation.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhostPay",
+    "slug": "ghostpay-9vs0x",
+    "description": "Defi application that let you send and receive funds anonymously with just a link",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SignKaleidoscope",
+    "slug": "signkaleidoscope-nbi9f",
+    "description": "Explore attestations on Sign Protocol with a dynamic graph visualization!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "qdgjh",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Tradier",
+    "slug": "tradier-2cpmv",
+    "description": "A decentralized algorithmic trading bot marketplace and platform.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkPoapCommunities",
+    "slug": "zkpoapcommunities-40wjr",
+    "description": "Prove you own a POAP from a specific event, without revealing your wallet address!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "axdu9"
+    ]
+  },
+  {
+    "name": "🔥 Emulated pairings",
+    "slug": "emulated-pairings-71hzt",
+    "description": "Fiat-Shamir and Schwartz-Zippel for Faster Emulated Pairings",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EventPass",
+    "slug": "eventpass-7hsu0",
+    "description": "The EventPass is used to issue event tickets for your event using blockchain.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CAOS",
+    "slug": "caos-5gr8d",
+    "description": "Web3 All-in-one property management software to cultivate a more integrated and transparent environment through improved resource management practices.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TokenForge",
+    "slug": "tokenforge-62cjn",
+    "description": "TokenForge: Forge Your ERC20 on Polygon Mumbai This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai chain and It is also Your ERC20 Token maker Dapp fully compatible with polygon-mumbai chain now But in future it will compatible with most of chains",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyPics",
+    "slug": "onlypics-redop",
+    "description": "Social Network made by humans, to humans. We believe in human interactions and a little bit on fun in the bidding of pictures.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dukkan",
+    "slug": "dukkan-u1902",
+    "description": "Smart Contract Debuger. A modern, clean version of Scaffold-ETH with NextJS, RainbowKit, Wagmi and Typescript.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reuwu",
+    "slug": "reuwu-39kps",
+    "description": "Platform to post reviews about movies and earn tip for quality reviews.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrivPay",
+    "slug": "privpay-krzdn",
+    "description": "Priv-Pay, the DeFi application to receive and send payments with just simple Link, no need to reveal your address. Make Payments with Privacy",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hi",
+    "slug": "hi-h9ujj",
+    "description": "NAhttps://bruh.xyzhttps://bruh.xyzhttps://bruh.xyzhttps://bruh.xyzhttps://bruh.xyz",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeleGate",
+    "slug": "delegate-0fmr0",
+    "description": "DeleGate is a smart contract wallet that leverages Sign Protocol’s attestation for role-based access management, enhancing automation, team management, and transparency in decentralized operations.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Promise",
+    "slug": "promise-nou06",
+    "description": "A Reliable Digital Promise Verification Platform where 2 users can create promises",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoWebGen",
+    "slug": "cryptowebgen-fn7xw",
+    "description": "Decentralized Website Generator with Ethereum Integration, Decentralized Website Generator with Ethereum Integration is a groundbreaking platform that empowers users to create, deploy, and manage custom websites in a decentralized manner.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthereumL10nService",
+    "slug": "ethereuml10nservice-v65cs",
+    "description": "decentralized translation network with AI & human attestors, to onboard next billion users of Ethereum",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "AI CHAIN",
+    "slug": "ai-chain-syy57",
+    "description": "This project is a basic React application integrated with Ethereum, enabling users to manage AI model states via a blockchain interface developed in Rust using the Stylus SDK.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Waves",
+    "slug": "waves-fh3ka",
+    "description": "Waves is a Decentralised Social Network built on Arbitrum Sepolia",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Handshake",
+    "slug": "handshake-4b9fr",
+    "description": "Handshake allows two parties to engage in secure chat sessions and sign the conversation as a proof of their interaction. Once the chat is signed, it is stored on the blockchain, providing an immutable and verifiable record of the conversation.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "BalanceCraft",
+    "slug": "balancecraft-xyw8p",
+    "description": "BalanceCraft: Send ETH, mint unique NFTs. Each transaction creates personalized NFTs, adjusting attributes based on deposited ETH. Accumulate ETH to unlock prestigious ranks. Withdraw funds anytime.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Certified",
+    "slug": "certified-66f7m",
+    "description": "Simplifying Certification on Blockchain. Identity infrastructure that facilitate on-chain certificate issuance and management for customers without a wallet, powered by Sign Protocol. Certificates can be shared to LinkedIn, X, and more platforms effortlessly with one click.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WASM-IPFS-Serverless",
+    "slug": "wasm-ipfs-serverless-aa7q5",
+    "description": "WASM-IPFS-Serverless is an innovative framework that seamlessly integrates WebAssembly computing with IPFS storage and retrieval, offering a robust serverless solution for decentralized applications (dApps).",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "StylusZeppelin",
+    "slug": "styluszeppelin-d943d",
+    "description": "A Rust Crate for secure smart contract development For Arbitrum Stylus",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "FilFetch",
+    "slug": "filfetch-d4xis",
+    "description": "Tool to download files directly from Filecoin miner to your local system or view file in the browser.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "frameEcom",
+    "slug": "frameecom-30xx6",
+    "description": "Sellers can sell products on arbsepolia chain by create accounts via Google, upload products with fixed price then get their sharable frame links. Buyers view the product details, purchase items, entering shipping addresses post-payment for seller visibility and for shipping",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "ipme",
+    "slug": "ipme-7uf4m",
+    "description": "Integrating Story and Sign Protocols ensures the integrity of licensing terms, making it straightforward for creators to monetize their work and for users to trust and verify IP transactions on the blockchain.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "NeoNexus",
+    "slug": "neonexus-e3doc",
+    "description": "NeoNexus overcomes traditional AMM challenges with a high-performance, fully on-chain order book, enabled by Neon's low-cost, high-volume transaction capabilities. Experience the future of trading with enhanced stability, market depth, and seamless execution.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "sceth",
+    "slug": "sceth-wtqp7",
+    "description": "Developing a light client for ethereum , proving the consensus through zero-knowledge , effectively making it a zk-Light Client enabling to make trustless zk-Bridges",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PropShare",
+    "slug": "propshare-miw16",
+    "description": "PropShare: Empowering fractional ownership and transparent rentals through blockchain technology and the Sign Protocol",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkbiometric",
+    "slug": "zkbiometric-p8nva",
+    "description": "Our system enhances authentication by securely verifying biometric onboarding data against a real-time challenge within a zkVM, using zero-knowledge proofs to ensure robust identity confirmation and maintain user privacy.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "axdu9"
+    ]
+  },
+  {
+    "name": "DeCoupon",
+    "slug": "decoupon-2pczu",
+    "description": "Get visibility and start marketing by providing coupons based on users on-chain activity",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "TokenBound 6551",
+    "slug": "tokenbound-6551-r8c4k",
+    "description": "ERC6551 Token Bound Account Project enables creation of token-bound accounts associated with ERC721 NFTs on Arbitrum Sepolia. Mint an NFT, then create an account bound to it. Verified contracts deployed.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Ascend",
+    "slug": "ascend-0cbx1",
+    "description": "Unlocking Social Capital with a Cross-Chain xNFT Marketplace for Tokenized Social Assets",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "NFT Marketplace",
+    "slug": "nft-marketplace-w9pq7",
+    "description": "Revolutionize the art world with our cutting-edge NFT marketplace. Empowering creators to tokenize and sell their digital assets securely and transparently, while offering collectors unparalleled access to unique and authenticated digital art pieces.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockEstate",
+    "slug": "blockestate-zovqn",
+    "description": "Revolutionize renting with our decentralized app! Seamlessly transition from renter to owner through flexible payment options, smart contracts, and transparent processes. Say hello to hassle-free homeownership!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "De Bulletin",
+    "slug": "de-bulletin-zn7f2",
+    "description": "De Bulletin is a decentralised bulletin board of users. Users can publish an article for instance and other users can interact with the article and reward the creator.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MoonSpin",
+    "slug": "moonspin-72ooz",
+    "description": "Multi-Modal AI Powered Adventure Game! Explore the Dungeons as a Warrior, Fight Demons and Find Treasures (NFTs) that convert into Real world Money!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "eCouponsWeb3",
+    "slug": "ecouponsweb3-a3bo2",
+    "description": "A webapp to enable vendors to create eCoupons offering discounts on different products/services and enable users to mint eCoupons to be used on e-commerce marketplaces in which products are purchased at a lower price using the minted eCoupon",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Code Insurance",
+    "slug": "code-insurance-8adts",
+    "description": "Demonstration of creating proofs for code deployment using Witness",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eth Garage",
+    "slug": "eth-garage-hin4g",
+    "description": "Track, trace and record repair work orders, invoices and receipts for vehicles using Sign Protocol, DeSoC using Farcaster on Gnosis Chain and Arbitrum SDK, analytics tools on Filecoin and Arbitrum Stylus Testnet and Web3 ecosystem tools on Avail.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "0p5er",
+      "9zj01",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "NillionHealthcare",
+    "slug": "nillionhealthcare-b8t2c",
+    "description": "Program to showcase blind computation between healthcare datasets.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HeartToFind",
+    "slug": "hearttofind-3m8qh",
+    "description": "Unlock your word search prowess and earn HeartBits along the way!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "NeonPay",
+    "slug": "neonpay-3vfxo",
+    "description": "A simple experience to use solana pay on top of neon evm. You can send tokens from neonevm to solana.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0p5er"
+    ]
+  },
+  {
+    "name": "zkora",
+    "slug": "zkora-r3dej",
+    "description": "A platform where you can write JS scripts that run in a ZK-VM to offload on-chain Solidity computations.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "axdu9"
+    ]
+  },
+  {
+    "name": "Power Probe",
+    "slug": "power-probe-gd1s1",
+    "description": "Power Probe utilizes Power Loom nodes to track performance metrics, offering a user-friendly dashboard for insightful analytics.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vggw5"
+    ]
+  },
+  {
+    "name": "TrustPoint",
+    "slug": "trustpoint-5u227",
+    "description": "TrustPoint revolutionizes loyalty programs with blockchain technology. This dApp allows brands to create token-based rewards, supporting permissionless co-branding to attract new customers. Users earn and redeem points across brands, leveraging NFTs for transferable rewards.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Colibri",
+    "slug": "colibri-iixxk",
+    "description": "Colibri is a tool to create verifiable omni-chain balances.Colibri works with Risc0 and IPC. Users need to create a wrapped token representing the balance of a user for a certain token, then Colibri asks risc0 to create a proof of balance.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "axdu9"
+    ]
+  },
+  {
+    "name": "Locker",
+    "slug": "locker-509zq",
+    "description": "Smart accounts that automate moving cash when you get paid on-chain.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Identicall",
+    "slug": "identicall-b0904",
+    "description": "a tool designed to assist unique-identity platforms, which depend on social graphs, in fighting small-scale Sybil attacks",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verithereum",
+    "slug": "verithereum-ht1b0",
+    "description": "This project has been created to provide users with attested Gilts",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "AI Planet",
+    "slug": "ai-planet-qzpnm",
+    "description": "A crypto platform to launch and monetize AI apps without code",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "ReturnX",
+    "slug": "returnx-kuuxc",
+    "description": "Proof-of-Concept on reinforcement learning based Arbitrage Bot ( Cross-DEXes )",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "910t9",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "BattleshipX",
+    "slug": "battleshipx-0gc9h",
+    "description": "Secure On-chain Battleship using Nillion's Blind Computation and EthSign Attestations",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0accc",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "HASHI-XTF",
+    "slug": "hashi-xtf-85rfn",
+    "description": "Integration of Gnosis-Hashi in a multichain protocol of crypto ETF for improving security (RAIHO)",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "nfl",
+    "slug": "nfl-w7yg3",
+    "description": "Use Nillion for training federated learning models while keeping datasets private.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gnosis Lounge",
+    "slug": "gnosis-lounge-3dqdk",
+    "description": "A proof of concept of a loyalty and rewards infrastructure built on top of gnosis pay that allows gnosis pay card holders access airport lounges and other benefits",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "zkWarden",
+    "slug": "zkwarden-nka1v",
+    "description": "The Farcaster tool employs zero-knowledge (zk) proofs for verifying user details like age and location, allowing access to restricted group chats. In a demo, users verify eligibility to receive a soulbound token, granting entry to NFT-gated communities.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "OpenAnalyze",
+    "slug": "openanalyze-5wdue",
+    "description": "OpenAnalyze is a platform where the users get incentivised for sharing analytics on chain",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "FilCRM",
+    "slug": "filcrm-33net",
+    "description": "FilCRM is a Decentralized CRM for lead management for businesses.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Happy Corn",
+    "slug": "happy-corn-7jdzg",
+    "description": "A user-friendly Ecommerce Marketplace for Digital Products. Seamlessly integrated with NFT minting capabilities, our platform empowers digital artists, content creators, and collectors to buy, sell, and mint customized digital products as NFTs with ease.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Promptles",
+    "slug": "promptles-i4ghk",
+    "description": "Promptles is an onchain game blending AI art with quick-witted guessing ! Create challenges, guess prompts, and compete for a spot on an onchain leaderboard secured by Sign Protocol attestations.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "FundPoint",
+    "slug": "fundpoint-8wvd8",
+    "description": "Mediated proof of fund requests for banking/verification with signature and attestation",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vy7pe",
+      "9zj01",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "3Metrics",
+    "slug": "3metrics-mp9hk",
+    "description": "3Metrics is a project for Scaling Ethereum, more coming soon...",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Life of Game",
+    "slug": "life-of-game-pmkfj",
+    "description": "aims to provide players with an immersive and engaging experience of taking care of a virtual pet cat.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FruitRush",
+    "slug": "fruitrush-xpbr8",
+    "description": "Easy l3 roll ups deployments with custom DA + F.H.E and Z.K.P secured",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Complace",
+    "slug": "complace-7v01t",
+    "description": "This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "BlisterB",
+    "slug": "blisterb-jbsc7",
+    "description": "This project is for sneaker lovers and creators. Support and create a sneaker project using blockchain.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Telepathy",
+    "slug": "telepathy-m9adx",
+    "description": "Telepathy is an on-chain game built on IPC. It allows users to join in as a subnet validator in order to take part in the game. It is a multiplayer strategy game which uses IPC upgradable subnets",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Project Survivor",
+    "slug": "project-survivor-69jgk",
+    "description": "Survive Waves, Level Up, Conquer Foes - All with Your NFT using IPC by protocol laps",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "EtherMatch",
+    "slug": "ethermatch-wr60s",
+    "description": "A web3 dating platform where crypto enthusiasts go to find their true love!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StylusTools",
+    "slug": "stylustools-r6suk",
+    "description": "A set of EVM smart contracts written in Rust, which make using Arbitrum Stylus much easier",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FS Hub",
+    "slug": "fs-hub-y0op6",
+    "description": "Building a digital sports engagement hub commonly referred as Fantasy Sports (FS) as a modular and sufficiently decentralised solution using a collection of individual ephemeral micro-rollups representing each real-life match as events built with Stackr SDK on top of AvailDA",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKT Oracle",
+    "slug": "zkt-oracle-vgigx",
+    "description": "Compliance oracle using on-chain/off-chain consensus integration.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "cryptopatrons",
+    "slug": "cryptopatrons-yqkj4",
+    "description": "Empower your creativity with CryptoPatrons! 🚀 A unique platform for creators to receive crypto donations instantly and securely, using blockchain technology. Sign up in seconds, get real-time alerts, and engage with your supporters",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "ScaleML",
+    "slug": "scaleml-dvofo",
+    "description": "Decentralized machine learning platform on Ethereum, allowing data and model sharing, monetization, and collaboration.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fuse Pay",
+    "slug": "fuse-pay-wvhwv",
+    "description": "Fuse Pay is a decentralized payroll platform that enables businesses to seamlessly make monthly payments to their employees.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Museum 3",
+    "slug": "museum-3-60y5j",
+    "description": "A Multi-Chain Web3 museum with zero-knowledge proof where users can visit museum and collect artifacts.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Scientify",
+    "slug": "scientify-eo7jw",
+    "description": "A incentive mechanism for open-source scientific research using ERC 1155",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "qdgjh",
+      "5e2gc",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Monadic DNA",
+    "slug": "monadic-dna-h7k7q",
+    "description": "Privacy preserving personal genomics for health and ancestry",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "qdgjh",
+      "0accc",
+      "axdu9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Supply Trace",
+    "slug": "supply-trace-s66cj",
+    "description": "Transparent tracking and provenance of supply chain. |  Built using sign protocol",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "TimeShare",
+    "slug": "timeshare-d3fd0",
+    "description": "\"TimeShare\" is a revolutionary dApp that brings fractional ownership to everyday high-value items. Through blockchain technology, users can collectively own luxury cars, vacation homes, electronics, and more.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "BoostX",
+    "slug": "boostx-mz2nm",
+    "description": "Bootstrap your community by engaging members through incentives, powered by ERC-20 tokens.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClosedAI",
+    "slug": "closedai-5xqqd",
+    "description": "Store and validate AI training data without a centralized storage. Closed to regulators, open to everyone else.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Planck",
+    "slug": "planck-e3v9t",
+    "description": "A pre-market trading platform that lets you trade points and airdrop allocations as ERC-404 tokens",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Carbon Credits",
+    "slug": "carbon-credits-6oy79",
+    "description": "Tokenized Carbon Credits Trading Platform: This idea has strong potential due to its relevance in today's eco-conscious market. It addresses a real and urgent global need—carbon footprint reduction—while leveraging the blockchain for transparency and security in transactions",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Sketch-stylus",
+    "slug": "sketch-stylus-x2wuz",
+    "description": "This is a hand written and optimized machine learning library written in Rust using Arbitrum's Stylus consisting of KNN, ML math , etc.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Stylus hook",
+    "slug": "stylus-hook-uy5n3",
+    "description": "Push back the limits of what's possible with a uniswap hook thanks to arbitrum's stylus technology.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "spp1v",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "NoCodeSol",
+    "slug": "nocodesol-ckw6r",
+    "description": "No-code visual design tool for Smart Contracts with no specific technical knowledge required",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "vy7pe",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "endorse3",
+    "slug": "endorse3-sn1y1",
+    "description": "Anyone can endorse anyone, and the endorsement will be onchain.  The use case is in a project or DAO, it is a decentralized reputation system. Imagine anyone will own a reputation and identity.  And it will be integrated into app.fairsharing.xyz dapp as well.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "OpenWeb",
+    "slug": "openweb-th6j4",
+    "description": "Decentralized & open social media website which integrates zklogin and decentralized storage using filecoin and using witness protocol for timestamping of data.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi Balance Booster",
+    "slug": "defi-balance-booster-o3y4n",
+    "description": "A Gnosis Pay expansion using DeFi protocols like Yearn and Ajna",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "DeFab",
+    "slug": "defab-8jskk",
+    "description": "a decentralised fabrication process - we want to bring crypto and blockchain to 3d printig",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Memecoin cooker",
+    "slug": "memecoin-cooker-bbbmd",
+    "description": "Tired of getting scammed while trading memecoins ? Introducing Memecoin cooker, a framework to build safe memecoins, trust our platform to keep your memes spicy and your investments secure. Ready to become the meme chef you were born to be?",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "MarryMe",
+    "slug": "marryme-r4icb",
+    "description": "MarryMe is a project for proposing on-chain and obtaining an on-chain marriage certificate, built upon the Sign Protocol.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "forge flamegraphs",
+    "slug": "forge-flamegraphs-0gr0p",
+    "description": "Flamegraphs for solidity that help to spot optimisation opportunities!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Easy Key",
+    "slug": "easy-key-qwtq3",
+    "description": "Easy Key is a simple payment solution using phone numbers & zk for authentication. Send and claim low-cost crypto payments with your contacts hassle-free.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "axdu9"
+    ]
+  },
+  {
+    "name": "EmailEon",
+    "slug": "emaileon-ixsn6",
+    "description": "A decentralized email marketing platform pioneering the use of Nillion encryption to safeguard user email addresses",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "AddressMe",
+    "slug": "addressme-5urum",
+    "description": "AddressMe is a private address book which stores encrypted data on the blockchain for data protection and constant availability. Its purpose is to provide an address book for everyday usage of any kind.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5e2gc",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Proof Of Testimonial",
+    "slug": "proof-of-testimonial-mfhs3",
+    "description": "Bringing the power of decentralised verifiable attestations to your testimonials. Ensuring every review is genuine and credible",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0p5er"
+    ]
+  },
+  {
+    "name": "ChainSweep",
+    "slug": "chainsweep-73c4m",
+    "description": "Validate all blocks without bugs in this fully on-chain game",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "spp1v",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ZKnockXI",
+    "slug": "zknockxi-jydjm",
+    "description": "A Fully On-Chain Cricket Game Powered by Zero Knowledge Proof",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fk9gm",
+      "9zj01",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "zkAPI",
+    "slug": "zkapi-4ej8x",
+    "description": "For building onchain applications that can verify offchain api calls.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlobFusion",
+    "slug": "blobfusion-fjcjd",
+    "description": "Ride sharing but for blobs. Make blobspace more affordable for everyone. by combining tiny blobs that don't fill a full EIP-4844 blob into one",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Staked Steps",
+    "slug": "staked-steps-euwx0",
+    "description": "We are building a gamified fitness app where users can join public or private challenges by staking cryptocurrency. Participants aim to meet a minimum step count within a set timeframe to win. Winners receive cryptocurrency prizes and unique NFTs.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrivyCal",
+    "slug": "privycal-i1gub",
+    "description": "PrivyCal allows you to schedule meetings with people, without sharing the entire calender. It's completely decentralized - no middle man needed!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0accc"
+    ]
+  },
+  {
+    "name": "BuildFi",
+    "slug": "buildfi-1ey02",
+    "description": "Raise funds for your project from day 1 and discover up and coming protocols to invest in. BuildFi enables small developers who build in public to raise funds from people who believe in the future of their projects",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "axdu9",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "GitSplit",
+    "slug": "gitsplit-pkp5d",
+    "description": "Gitsplit: an open-source crowdfunding platform revolutionizing support for open projects. Having a seamless way to register your projects and and showcase on our beautiful dashboard. Contributors get direct shares from donations via fair algorithms.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ODESEC",
+    "slug": "odesec-hru8o",
+    "description": "ODESEC stands for On-chain Database of Emergency Security Event Contact. Through this database and the corresponding mechanism, project teams can filter out spam, quickly receive effective emergency vulnerability reports, and make timely responses.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "axdu9"
+    ]
+  },
+  {
+    "name": "Z",
+    "slug": "z-6e79a",
+    "description": "New Social Networking Service with check tool as nft use case",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Marcello Protocol",
+    "slug": "marcello-protocol-car5r",
+    "description": "Simple lending protocol                                            .",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blueband",
+    "slug": "blueband-u0o0t",
+    "description": "Transforming public health information. Blueband delivers swift identification, verification, and response to public health queries on vectorized datasets stored on Filecoin.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PartSign",
+    "slug": "partsign-08z95",
+    "description": "PartSign is a project where the authorised dealers can attest a verified bill. If any problem occurs in the parts then the service center can easily verify the attestation and validate that the part was purchased from an authorised dealer.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KiipWallet",
+    "slug": "kiipwallet-gi4bk",
+    "description": "Send money to everyone and onboard your friends in two secounds",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Bags",
+    "slug": "bags-vi4eu",
+    "description": "Bags is an new NFT project built on the ERC-6551 standard, empowering NFTs to have their own wallets. With Bags, users can define asset allocations for their NFTs, enabling automatic splitting and allocation of incoming ETH payments.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Web3 Spaces",
+    "slug": "web3-spaces-7myog",
+    "description": "Social project that allows you to create fun, personalised page and host it on decentralized web",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ERC7551",
+    "slug": "erc7551-dz4xg",
+    "description": "Our project introduces a novel cross-chain integration protocol specifically designed for TBAs. This protocol addresses the critical need for trustless and secure cross-chain interactions while prioritizing user confidence.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mindmesh",
+    "slug": "mindmesh-fnmj9",
+    "description": "AI generated content powered social media network that lets users express creatively/",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "NFT Friends",
+    "slug": "nft-friends-gzwt4",
+    "description": "Find your NFT Friends, Find and follow users that shared your NFT collections on Farcaster",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ideating",
+    "slug": "ideating-dtqnb",
+    "description": "I have yet to figure out what I'm going to work on. I have yet to figure out what I'm going to work on.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Report DAO",
+    "slug": "report-dao-z42ah",
+    "description": "ReportDAO is a decentralized crowdfunding platform that empowers users to request and fund web scraping reports",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Attestation Station",
+    "slug": "attestation-station-x4ryq",
+    "description": "Secure attestation engine for verifiable NFT agreements for use in Defi",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TipMe (Melon)",
+    "slug": "tipme-melon-wrc62",
+    "description": "Learn, Pay, Earn. The DeFi experience at one click with Melon Wallet",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "NotYourJewels",
+    "slug": "notyourjewels-etnm9",
+    "description": "Not Your Jewels is a DeFi project based on trusting in students who are one of the most untrusted people in the traditional finance system. This project offers microloans for students for study expenses.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Thumper",
+    "slug": "thumper-dbvy2",
+    "description": "Creating more structured zk setup ceremonies with trustless coordination, privacy, sybil-resistance, and zk-proven results",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "axdu9"
+    ]
+  },
+  {
+    "name": "Dapp Canvas",
+    "slug": "dapp-canvas-8ewxu",
+    "description": "Your Wix for Web3. Seamlessly craft shareable UIs for on-chain contracts with intuitive drag-and-drop tooling.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quasar",
+    "slug": "quasar-m8xcv",
+    "description": "Quasar, an initiative for the Post-Quantum Ethereum Era  Prepare for the Q-day with our Account Abstraction, wallet extension, and three quantum secure signature libraries.  Quasar aims to advance quantum-secure cryptography for production.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vy7pe",
+      "910t9",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "AttestCaster",
+    "slug": "attestcaster-3fu9p",
+    "description": "A feature on Farcaster that allows users to fact-check and add context to casts by issuing attestations.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "IPFS FAISS KNN INDEX",
+    "slug": "ipfs-faiss-knn-index-wmbdz",
+    "description": "KNN index dataset search, showing how items can be searched without a traditional search engine.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Location",
+    "slug": "proof-of-location-wrxsq",
+    "description": "Proof of Location, prove you are within a certain range of a location",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "ghilli",
+    "slug": "ghilli-msx5w",
+    "description": "A web3 bot to attest and verify the transactions on chain, easily!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Marketplace",
+    "slug": "ai-marketplace-ytkbr",
+    "description": "AI Marketplace, pay per invocation of LLMs with onchain settlement",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DataFreak",
+    "slug": "datafreak-wn32g",
+    "description": "I created Dao for  Znosis, Morp. Resell  old  Item marketplace for NEON.  Data storage to store  the details of corporates  employees for IPC and One marketplace for Filecoin",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "KeyNest",
+    "slug": "keynest-nqd72",
+    "description": "Disrupting Real Estate!  This Web3 & ML platform uses blockchain for secure transactions & ML for personalized searches.  No scams, outdated data, or wasted time!  #realestate #web3 #ML #PropTech",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lucky Draw",
+    "slug": "lucky-draw-bh42b",
+    "description": "Web3 Raffle: Secure & verifiable lucky draws on the blockchain",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0p5er",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Bundle",
+    "slug": "bundle-pp24x",
+    "description": "Merging multi-step data conditions and on-chain actions into single bundles",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Decent Portfolio",
+    "slug": "decent-portfolio-to9t6",
+    "description": "A decentralized portfolio tracking app utilizing a decentralized database",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CertifiETH 4 Moodle",
+    "slug": "certifieth-4-moodle-0fs0f",
+    "description": "A plugin for LMS to deploy academic certificates based on validations through attestations and NFTs.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "qdgjh",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Face in Clouds",
+    "slug": "face-in-clouds-a8jzr",
+    "description": "A data commons for open educational resources leveraging IPC & ZK VM",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NectarFinance",
+    "slug": "nectarfinance-34wxh",
+    "description": "RWA-Collateralized Loans secured on the blockchain to unlock the $16T in illiquid assets globally",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vy7pe",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Polar",
+    "slug": "polar-p0f2b",
+    "description": "A web3 auth provider that privately stores user data in decentralized storage and selectively reveals it to the client app.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "samsar.gg",
+    "slug": "samsar-gg-qebnp",
+    "description": "Open-source AI enabled image editor with tokenized incentives and verifiability of original-content.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fk9gm",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "chAInsight",
+    "slug": "chainsight-voyi6",
+    "description": "Decentralized Global events data aggregator and predictor utilising the power of Chainlink Functions and Gemini AI model.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Certificates",
+    "slug": "certificates-zgo6p",
+    "description": "The project gives central authorities a simple framework to issue and revoke certificates, granting anyone the ability to easily verify their legitimacy, leveraging blockchain advantages while abstracting its complexity for a seamless user experience.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meme DAO",
+    "slug": "meme-dao-mhz96",
+    "description": "A project to create a meme VC with DAO. With the m3m3 DAO, anyone can participate in sales like a VC. Any buyer of NFTs can propose a new meme project. Among the proposed meme project  the first place meme token will be presold to the voters.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "MayaVerse DAO",
+    "slug": "mayaverse-dao-jbxuu",
+    "description": "In this game players are thrust into the gritty and dangerous world of organized crime, where alliances are fragile, betrayal is commonplace, and power is the ultimate currency.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RegenHands",
+    "slug": "regenhands-jesix",
+    "description": "A powerful vault for users to lock funds until the value 3X, 10X or 100X in fiat terms and/or lock funds until a specific block height (1/5/20 years). It's a contract to remove narrative driven speculators’ capacity to sell their tokens too early.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Adlink",
+    "slug": "adlink-c60gi",
+    "description": "Adlink provides an infrastructure for anyone to integrate and display advertisements over their transactions and incentivize users for transacting on-chain.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "910t9",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Smartr-Contracts",
+    "slug": "smartr-contracts-2fup4",
+    "description": "Providing L2 Smart contract developers with tools to develop bug free smart contracts",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "RoboSaver",
+    "slug": "robosaver-1t5eh",
+    "description": "RoboSaver turns your Gnosis Pay card into an automated savings account!",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "CreateToolBelt",
+    "slug": "createtoolbelt-iami5",
+    "description": "A robust suite of tools for Ethereum developers to deploy contracts deterministically across chains, enhancing security against front-running and with our CREATE3DEPLOYER proposal.",
+    "event": "Scaling Ethereum 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "spp1v",
+      "xdat5"
+    ]
+  }
+]

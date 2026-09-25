@@ -1,0 +1,3140 @@
+[
+  {
+    "name": "ChatGPT 4 Public Goods",
+    "slug": "chatgpt-4-public-goods-66si0",
+    "description": "ChatGPT 4 Public Goods is an AI-based trading program similar to the hamster / goldfish stock traders people have made. The idea is to convince chatGPT it is playing a video game and have its choices reflected in real cryptocurrency buying-selling decisions.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "proof of primate",
+    "slug": "proof-of-primate-niac0",
+    "description": "https://github.com/34r7h/primatehoodhttps://github.com/34r7h/primatehoodhttps://github.com/34r7h/primatehoodhttps://github.com/34r7h/primatehood",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockhead: ETHTokyo 2023",
+    "slug": "blockhead-ethtokyo-2023-kx4rh",
+    "description": "Track, visualize & explore all of crypto, DeFi & web3 with Blockhead's crypto portfolio tracker, cross-EVM block explorer, and interfaces for your favorite dapps and web3 infrastructure.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "2mig9",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "CryptoTipJar",
+    "slug": "cryptotipjar-pyxc9",
+    "description": "CryptoTipJar is a dApp that enables content creators to receive micro-donations from supporters, integrated into social media profiles or personal websites, using Metamask. It fosters community by showcasing recent messages from donors.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Taikonomics",
+    "slug": "taikonomics-ww3px",
+    "description": "Taiko is a type 1 zkEVM L2 which uses ETH as a native token to pay for fees. This design makes value capture more difficult; Taikonomics is a token economic architecture which captures value to TKO in accordance with technical and design constraints.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qfmej"
+    ]
+  },
+  {
+    "name": "Widget Protocol",
+    "slug": "widget-protocol-e6iya",
+    "description": "The Widgets Protocol is the iPhone widget version of the Appstore. Anyone can develop dApps widgets and place them on the iPhone home screen.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jywri",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Takarakuji",
+    "slug": "takarakuji-d1xak",
+    "description": "DApp that Let's you play Takarakuji scratch-off online uses ZK rollups",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "XA^2",
+    "slug": "xa-2-2zxdx",
+    "description": "Chain & Account Abstraction solution to make any DApp x-chain enabled.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "1inch Fusion Dashboard",
+    "slug": "1inch-fusion-dashboard-96pev",
+    "description": "On-chain analytics of Resolver activity on 1inch Fusion Swap",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Bot or Not",
+    "slug": "bot-or-not-oox84",
+    "description": "Bots are taking over the world and are dangerooooous. It is up to us the users the start contributing to fight against them. Let's go. Be the superhero. Earn blockchain cred by executing your insights on-chain.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "grteacher",
+    "slug": "grteacher-v0a23",
+    "description": "A web-based quiz app that uses CELO blockchain and graphprotocol. The questions are preparation for the initial interviews for the Graph Advocates program.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blood-D-Tokens",
+    "slug": "blood-d-tokens-fjbsw",
+    "description": "Here we are simulate a Decentralised Blood Bank system, where users are rewarded as they donate Blood.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Chaos Distribute",
+    "slug": "chaos-distribute-vdxzj",
+    "description": "Chaotically distribute NFTs, Tokens across many chains in a dice/array format where users submit their desires into each slot and the server chooses a slot every 15ish minutes",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DAOAD",
+    "slug": "daoad-ks9ww",
+    "description": "A fair and open advertising platform using DAO.A fair and open advertising platform using DAO.A fair and open advertising platform using DAO.A fair and open advertising platform using DAO.A fair and open advertising platform using DAO.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Galaxy Throne Warfare + ZK NFT Bridge",
+    "slug": "galaxy-throne-warfare-zk-nft-bridge-x1cdt",
+    "description": "We've built a trustless #ERC721 open access #NFT bridge connecting L1 #Ethereum to L2 #Taiko & #Polygon zkEVM!🌉 Also, introducing a fully on-chain turn-based strategy game on Taiko, Polygon zkEVM & Gnosis🎮. Plus, an easier zkEVM merkle proof backend!💻 #blockchain #innovation🚀",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DeFi Gaurdian",
+    "slug": "defi-gaurdian-5dvr8",
+    "description": "Introducing a general purpose rate limit contract guardian to detect hacks and minimize losses at the smart contract level!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "10a1v",
+      "qy8m3",
+      "qfmej"
+    ]
+  },
+  {
+    "name": "Shin Protocol",
+    "slug": "shin-protocol-1umv9",
+    "description": "Proving your human credibility on-chain without losing anonymity",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Interest Carry-Trade Arbitrageur",
+    "slug": "interest-carry-trade-arbitrageur-4scrx",
+    "description": "Automated token carry swap bot 🤖 exploits interest rate 💰 differentials 24/7",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "k3g5g",
+      "gt566"
+    ]
+  },
+  {
+    "name": "Lens Network Graph",
+    "slug": "lens-network-graph-6jxwr",
+    "description": "Visualize the network of any lens profile in an interactive graph format.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK Governance",
+    "slug": "zk-governance-18b0x",
+    "description": "Zero Knowledge verification for governance participants that allows voting with anonymity.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Commit-Reveal Schema Exploration",
+    "slug": "commit-reveal-schema-exploration-nj9v7",
+    "description": "This is an educational projects to learn more about the sharing secrets on a blockchain.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Axel",
+    "slug": "axel-0j1yc",
+    "description": "Marketplace where developers can upload their saas products and get paid for usage all on chain! using zk we have abstracted the tedious process of client approvals and are ensuring quick and easy service utilisation",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Developer Community as a Service",
+    "slug": "developer-community-as-a-service-96cyc",
+    "description": "A tool built for making delightful developer experiences, powered by Lens and Chat GPT.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Squirrlideology",
+    "slug": "squirrlideology-o6hfg",
+    "description": "This is an AI scenario generator that can create scenarios based on conflict of NPCs of different ideologies in a fictional or reality-based setting.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Murasaki",
+    "slug": "murasaki-2gpnq",
+    "description": "Bridge between Polygon zkEVM and Layer1 using Hyperlane. In addition, Wrap route can be used to easily issue tokens that can be used in various chains",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperBuidl Platform",
+    "slug": "superbuidl-platform-4am37",
+    "description": "Community-oriented payment management platform for DAO workers with continuous payment through Superfluid governed by UMA Oracle",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v",
+      "qy8m3",
+      "x59d1",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "ZK Vendor Credentialing",
+    "slug": "zk-vendor-credentialing-jdvv4",
+    "description": "A Zero Knowledge app for Vendor Credentialing in Healthcare powered by MINA Protocol and zk-SNARKs.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Confide.id",
+    "slug": "confide-id-zj7b8",
+    "description": "Decentralising community trust. Aiming to solve the problem of digital trust and identification by relying on the most reliable metric: human relationships. Users can validate people they know, creating a web of trust that can be queried to form new networks and test legitimacy.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9q77n"
+    ]
+  },
+  {
+    "name": "H3aven - Gata (Governance for Data)",
+    "slug": "h3aven-gata-governance-for-data-x94o4",
+    "description": "Tokenized Access Control Application for Granular Data Governance",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "9zj01",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "verPor",
+    "slug": "verpor-pd787",
+    "description": "A way to verify onChain the experience  and work that developers have.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xFable",
+    "slug": "0xfable-a6uuo",
+    "description": "Progress on a game, but nothing really running yet, move along!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buidl",
+    "slug": "buidl-r3gnp",
+    "description": "Buidl enables a tool for wallet creation that provides the legos  to customize and create a wallet with popular libraries, using the ERC4337 standard. Through an intuitive plug and play interace, users can design their own wallets by specifying the parameters for each library.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "CreatorCollect",
+    "slug": "creatorcollect-cyf9a",
+    "description": "Tool for creators to bring utility to their Lens post collects - to token gate their events and special work or anything based on if someone has their particular post collect. Also allowing gated Livepeer video.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arb-L2-deposits",
+    "slug": "arb-l2-deposits-3aurf",
+    "description": "Arbitrage Opportunity: Bridging ETH on Optimistic Bridges for Higher APY",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoPal",
+    "slug": "ghopal-h5bhr",
+    "description": "GhoPal is the fast and safe way to send money to anyone, anywhere. Harnessing the power of Safe auth kit, relay kit, GHO and Lens. GhoPal creates a frictionless way to create an account abstracted vault that allows anyone to send GHO to any address via their lens domain.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChadGPT",
+    "slug": "chadgpt-kikng",
+    "description": "ChadGPT is Grammarly for Smart Contracts using the power of ChatGPT trained with a repository of 189 smart contract vulnerabilities and fixes.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Shingo",
+    "slug": "shingo-7mzh0",
+    "description": "Shingō app is a social impact network that let's you signal the solutions you want to see in the world, and rewards the makers of public goods.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9q77n",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "RediFlow",
+    "slug": "rediflow-7kqqj",
+    "description": "A pay-as-you-watch video platform powered by Web3 technology.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Vitae",
+    "slug": "vitae-vxtw1",
+    "description": "Consist in creating a new Lens module, and integrate Soul Bound Tokens, to verify people's working background.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "LoyalFi",
+    "slug": "loyalfi-47yks",
+    "description": "Loyalfi is a simple and no-code tool that enables web3 protocols to incentivize their users based on loyal behavior. With Loyalfi, protocols can easily reward their loyal users for their continued support and engagement.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Abstracto",
+    "slug": "abstracto-5x1xd",
+    "description": "Abstracto simplifies the user onboarding process for decentralized applications (dApps) by offering trial versions without the need for signups, wallet creation, or private key management.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Social Wallet",
+    "slug": "social-wallet-w4bit",
+    "description": "This app aims to make creation of personal smart accounts easy and intuitive.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ubf: the universal blockchain frontend",
+    "slug": "ubf-the-universal-blockchain-frontend-ufkqc",
+    "description": "UBF is a universal blockchain frontend that makes blockchain technology accessible to everyone with payments, identity, GUI, and natural language. It uses AI  for the best results and is open-source.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Worldname",
+    "slug": "worldname-xuaoy",
+    "description": "A trustless sybil-resistant L2, ENS subdomain issuer and resolver built on Polygon.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "SourceLink",
+    "slug": "sourcelink-nevma",
+    "description": "A DeFi project funding platform built on the Ethereum blockchain can be a powerful tool for creating a decentralized ecosystem where anyone can create, fund, and support projects without intermediaries.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Balus",
+    "slug": "balus-6pef0",
+    "description": "Balus is a tool that supports simultaneous posting on multiple protocols using the Lens protocol. In the crypto industry, it is common for multiple protocols to send the same tweet at the same time for marketing purposes. Balus enables this functionality on Lens as well.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "OpenGalaxy",
+    "slug": "opengalaxy-m1rwt",
+    "description": "ERC721P2P which enables peer-to-peer trust-less transactions, and uploading full on-chain SVG mechanism.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "AbswapX",
+    "slug": "abswapx-jmefw",
+    "description": "An automation module to enable limit orders and scheduled strategies for DeFi",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "026zc",
+      "qy8m3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "AI Protector 1.5.1",
+    "slug": "ai-protector-1-5-1-j4iig",
+    "description": "SAFE Creator Guard to protect you from getting fooled by ChatGPT utilizing WorldCoin proof of humanity",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "novusys paymaster",
+    "slug": "novusys-paymaster-w2h9j",
+    "description": "A payment widget that enables users to pay for transactions with Stripe or ERC-20 tokens using the ERC-4337 paymaster to sponsor the entire transaction (value + gas fee)",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DeFuture",
+    "slug": "defuture-g31hx",
+    "description": "Defutures, a decentralized futures trading exchange, meets users expectations to invest in a way it provides back both stability and constant high yield returns. It is designed to be extremely simple and straightforward - any crypto beginners are also able to use easily.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Catch",
+    "slug": "catch-znfs1",
+    "description": "An RPC cache for 10x faster requests. Save time, money, and the environment!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "inotq",
+      "qfmej",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Mercle",
+    "slug": "mercle-bzpsr",
+    "description": "Mercle is the credentialing tool for communities to run KPI driven campaigns to attract new customers, increase engagement from existing customers and reward the most valuable customers of the community.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Etheremon",
+    "slug": "etheremon-60g8y",
+    "description": "On-chain Pokemon inspired battle game with machine learning monsters.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Voincs",
+    "slug": "voincs-wpm3n",
+    "description": "A voting system using zero-knowledge proofs enables anonymous, secure voting without revealing individual choices.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "ERC721F - refungible NFTs",
+    "slug": "erc721f-refungible-nfts-i3sjr",
+    "description": "ERC721 NFTs that can be treated as ERC20s or vice versa for instant composability with AMMs and defi primitives.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Minacle",
+    "slug": "minacle-m6vcx",
+    "description": "Using Mina as an oracle while leveraging Hyperlane to transport the data to your chain of choice!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Nice Vote",
+    "slug": "nice-vote-0oxa4",
+    "description": "This privacy voting tool combines Intmax, Scroll, and PolygonZkEVM. Privacy tokens issued by Intmax can be used to vote for voting contracts in Scroll and ZkEVM. Voting can proceed without knowing who has voted, and future updates can hide the current vote status, etc.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "48dft",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "EthMonsters",
+    "slug": "ethmonsters-hze33",
+    "description": "Pokemon-style battler game with dynamically generated characters. Each EthMonster has original artwork and a unique moveset, stored fully on chain.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "BlitzSquad",
+    "slug": "blitzsquad-2jt43",
+    "description": "Play, your favorite games , stream the action live, and place bets with confidence with BlitzSquad.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "v693n",
+      "qy8m3",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Invisible Empires",
+    "slug": "invisible-empires-wkg3b",
+    "description": "Invisible Empires is a fully on-chain implementation of the Risk board game. Built with Mina protocol, we prove that all game execution factors (such as allocating territory and rolling dice) is fair and trustless.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Non disclose nft",
+    "slug": "non-disclose-nft-dop1b",
+    "description": "Nft and documents content is not disclosed until you buy them from vendor/marketplace",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Let's ENScrypt",
+    "slug": "lets-enscrypt-3h88x",
+    "description": "We considered a service that issues X.509 certificates for ENS-based domains, and have considered a world where Web servers can be accessed via the ENS domain in the future.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Celo Proof of Participation",
+    "slug": "celo-proof-of-participation-hd7df",
+    "description": "Dynamic NFT that showcases how much a user has participated on Celo",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "gass less token",
+    "slug": "gass-less-token-dn070",
+    "description": "Utilizes Account Abstraction (AA) protocol letting community tokens cover gas fees in DAOs. Aiming at non-marketable tokens, it lets members use tokens for dApp gas fees, with treasury covering real costs. Boosts dApp dev, incentivizes token use & supports community growth.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "dApp/Contract Verifier",
+    "slug": "dapp-contract-verifier-jxa0h",
+    "description": "Decentralized entity registry with Metamask snap that verifies dApp & smart contract address",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Brownie Points",
+    "slug": "brownie-points-7yq3s",
+    "description": "Building Zero Knowledge based Metamask for personal browsing history",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "litu safu",
+    "slug": "litu-safu-m9tja",
+    "description": "Use LitPKP to create and sign safes - currently supports oauth (but can later also support",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "t4bwy",
+      "weaax"
+    ]
+  },
+  {
+    "name": "Habit Hacker",
+    "slug": "habit-hacker-46chx",
+    "description": "Our service promotes consistent habits like exercise, healthy eating, and learning. Users can bet on their success with real money, increasing motivation, and compete with others who have similar goals, fostering a competitive mindset.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "9q77n",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "TornadoMina",
+    "slug": "tornadomina-ee3wr",
+    "description": "TornadoMina: Tornado Cash on Mina protocol.   We implemented TornadoCash protocol on Mina protocol. TornadoCash realize the mixing of the tokens or native currency.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Smart SAFT",
+    "slug": "smart-saft-fehev",
+    "description": "On-chain process for legal documents and verifiable money movement.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Github verified Lens",
+    "slug": "github-verified-lens-fytrg",
+    "description": "Verifying github contribution for pseudonymous Lens profiles",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "qy8m3",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Chatshire",
+    "slug": "chatshire-4iama",
+    "description": "Introducing Blockchain Data Search Wizard: Cast Your Spell and Unveil The Magic 🧙",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Salt Wallet",
+    "slug": "salt-wallet-415ar",
+    "description": "Pair Contract wallet, public one and private one. Only public one can send NFTs to private one.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Clamp",
+    "slug": "clamp-s04dr",
+    "description": "Digital asset index for crypto newbies in less than thirty seconds",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "ri4uk",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Asset proof experiment",
+    "slug": "asset-proof-experiment-b021o",
+    "description": "Trusted-setup-free, serializable, poseidon hash, foreign field zkp arithmetization experiment",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Private Guardian",
+    "slug": "private-guardian-536ma",
+    "description": "A account abstraction wallet with privacy-preserving social recovery",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prompt NFT Tree",
+    "slug": "prompt-nft-tree-9fbj5",
+    "description": "Prompt NFT Tree is a service that makes the prompt to be grown with everyone. Making NFT from AI prompts. Rewards are paid to developers each time the prompt is reused. Tracing the prompt's purchase history with blockchain technology makes us to watch the prompt's growth.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qfmej"
+    ]
+  },
+  {
+    "name": "ENS Expiry Notice from MetaMask",
+    "slug": "ens-expiry-notice-from-metamask-40mej",
+    "description": "MetaMask Snap that reminds users of soon-to-expire ENS names in their wallet.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "DocHuds",
+    "slug": "dochuds-8hj1i",
+    "description": "Marketplace for all your goods, sell anything you want at any cost you like",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DogAdminO(link)",
+    "slug": "dogadmino-link-casj5",
+    "description": "Dog Sharing is a solution for individuals who desire to have a pet but cannot commit to the responsibilities of ownership. Through sharing pets, people can easily try having a pet, and those who already own pets can act as contributors.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GaaS",
+    "slug": "gaas-exadm",
+    "description": "Gate any app with arbitrary on-chain activity! Coming soon: JavaScript SDK and Rest API.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "t3zyt",
+      "10a1v",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "MENTAL POKER",
+    "slug": "mental-poker-p6n6e",
+    "description": "An On-chain poker game that you can connect your wallet, bet any tokens you like(So ApeCoin is available!), set NFT as an profile and send chat messages straightly to the wallet.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Ethers Studio",
+    "slug": "ethers-studio-s38qo",
+    "description": "Compile your Solidity into TypeScript and your TypeScript into JavaScript in tandem, in a single watch-mode console output.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swape",
+    "slug": "swape-zyfoh",
+    "description": "Uniswap fork that connects Smart Wallet to allow swaps using ApeCoin as gas token",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "edzy",
+    "slug": "edzy-cv0pg",
+    "description": "edzy: on-chain ZK powered tutoring platform eliminating the need for third-party services. Ensures personalisation. transparency and holistic academic identity",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "v693n",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Karma Perks",
+    "slug": "karma-perks-rm7xq",
+    "description": "At Karma Perks, we help community members gain on-chain recognition and rewards for their every contribution by providing a platform to crowdsource help and distribute rewards in the form of NFTs and crypto tokens.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "EtherEye",
+    "slug": "ethereye-9s1jg",
+    "description": "EtherEye is API designed to enrich the user experience of Etherscan by providing a more feature-rich. With EtherEye, users can easily track their transactions, optimize gas fees, and manage their asset portfolios.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SocialSecuritySnap",
+    "slug": "socialsecuritysnap-b5vyt",
+    "description": "MetaMask Snap enhances security through: 1) Lens Protocol integration, displaying contract interactions by followed users to flag potential spam 2) GPT-4 reviewing transaction methods, highlighting risks 3) Worldcoin KYC authentication. Prevent accidental spam contract approvals!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "3zpxc",
+      "vxwti",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Documenteasy",
+    "slug": "documenteasy-3bkbj",
+    "description": "Incentivizing documentation creators by storing encrypted files on IPFS using FVM and rewarding them based on usage",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WorldRadio",
+    "slug": "worldradio-1i4ok",
+    "description": "WorldRadio is an FM radio station where people from all over the world can equally broadcast their own voice.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Chain Review",
+    "slug": "chain-review-f2800",
+    "description": "Blockchain browser extension, incentivizing, rating and tracking peer reviews on arXiv",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RestRivals",
+    "slug": "restrivals-w3fo6",
+    "description": "Improve your sleep in our sleeping pods! Stake your tokens, make sure to get good sleep, and earn. Powered by the wonderful Oura ring.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SunEthTokyoProject",
+    "slug": "sunethtokyoproject-xz5sh",
+    "description": "Robo-advisor for Bitcoin. Invest in advanced Bitcoin portfolio management strategies.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "O-Hashi x Censorship Oracle",
+    "slug": "o-hashi-x-censorship-oracle-j1jqa",
+    "description": "An optimistic hash bridge for Ethereum and Gnosis which fallsback on the security of the Gnosis Hashi bridge aggregator. Optimistic hash claims are accepted as long as the on-chain censorship oracle test passes!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Zen Garden",
+    "slug": "zen-garden-bc71z",
+    "description": "A game that lets you virtually own and care for a forest, with our actions performed in the real world.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "BAILOUT",
+    "slug": "bailout-ia6s1",
+    "description": "A security pipeline that securely moves assets between EOA, Contract Wallet, and Cold Wallet.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "t4bwy",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "BillBoard",
+    "slug": "billboard-8s872",
+    "description": "BillBoard is your keyword ad space stored in the blockchain. You can replace the display if you pay the price, which increases 5% every time the keyword is updated",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Save the tree children",
+    "slug": "save-the-tree-children-96480",
+    "description": "We are a team trying to make our planet a greener place by utilizing blockchain. We want to be a trusted source of opportunities for holders in the Ethereum ecosystem to use some of their capital to green the planet.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Subs",
+    "slug": "subs-ru9k7",
+    "description": "A subscription system which is developed with tradeable cashflow contract powered by Superfluid",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScandalPrediction",
+    "slug": "scandalprediction-za1ca",
+    "description": "A prediction market platform focused on stock price fluctuations caused by scandals. The platform would allow users to bet on the percentage drop in stock prices and earn rewards for accurate predictions. It's a specialized version of an existing platform for this purpose.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MAID - Multi Access Incentive Distribution",
+    "slug": "maid-multi-access-incentive-distribution-9fh5s",
+    "description": "A coupon factory that allows protocols to rewards users with custom ERC3525 coupons based on custom requiremetns and conditions",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4i0qt",
+      "4i0qt",
+      "oiv32"
+    ]
+  },
+  {
+    "name": "AdTokenVerse​",
+    "slug": "adtokenverse-6dj2f",
+    "description": "Tokenized digital signage: 100% transparent, zero intermediate fees. On-chain content moderation is ready for real-world use.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "EthTokyoZKProject",
+    "slug": "ethtokyozkproject-ghmin",
+    "description": "our project belongs to zero knowledge by using semaphore zk-protocol",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defendooooor",
+    "slug": "defendooooor-mgsnx",
+    "description": "Hack prevention through automated protocol pausing powered by ZK proofs",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKVoiceKey",
+    "slug": "zkvoicekey-zeufj",
+    "description": "ZKVoiceKey is a protocol that allows users to recover their private keys using only their voice; by using Fuzzy Commit and ZKP, authentication is possible through a fuzzy match of voice without storing voice information directly on the blockchain.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bht2g",
+      "362vt",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "AirdropDAO",
+    "slug": "airdropdao-rt5u2",
+    "description": "Airdrop DAO is designed to allow anyone to hold a crypto wallet through AccountAbstraction and social authentication.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "burnerwallet3",
+    "slug": "burnerwallet3-jo7q6",
+    "description": "Based on the asset level of players in blockchain games, provide wallet solutions with varying degrees of security.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Play Protect",
+    "slug": "play-protect-74wvv",
+    "description": "Play Protect allows artists and musicians to enforce digital rights management for their music using threshold encryption.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "alphagram with p2p nft trading in chat",
+    "slug": "alphagram-with-p2p-nft-trading-in-chat-796q9",
+    "description": "Social experience for P2P NFT trading directly in Telegram chat UI with token-enabled smart contracts for a convenient and secure NFT market.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LayerHorizon",
+    "slug": "layerhorizon-bq5st",
+    "description": "LayerHorizon is a tool that visually illustrates how Layer 2 protocols connect with the main blockchain. The goal is enhancing transparency and deepening understanding of blockchain technology in the Ethereum ecosystem.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AniMATE",
+    "slug": "animate-f9pc3",
+    "description": "AniMATE is a decentralised anime streaming platform that uses zero-knowledge proof for age verification and rewards users with an NFT, allowing them to upload and watch anime content.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "mdb6w",
+      "qy8m3",
+      "9zj01",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "solsearch",
+    "slug": "solsearch-kncw1",
+    "description": "Solsearch is a CLI tool for semantically searching over Solidity code. Search queries can be written in a custom Domain Specific Language (DSL) that closely resembles the Abstract Syntax Tree (AST) representation that's used internally by the Solidity compiler.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shima",
+    "slug": "shima-n10ac",
+    "description": "Shima is a decentralized RPC platform that connects anyone who wants to become an RPC provider by making their blockchain infrastructure available to the world and those who use these APIs access to the blockchain networks every day without having to run their own nodes.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "inotq",
+      "qfmej"
+    ]
+  },
+  {
+    "name": "Zaisan",
+    "slug": "zaisan-6dxue",
+    "description": "Create promotions. Earn rewards without revealing data. Build the infinite community.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "3zpxc",
+      "4i0qt",
+      "qy8m3",
+      "gt566"
+    ]
+  },
+  {
+    "name": "MLMP",
+    "slug": "mlmp-96ncx",
+    "description": "Discover a decentralized platform for secure ML data storage using IPFS & web3.storage. Ensuring data integrity, transparency, and quality, our marketplace fosters collaboration, monetization, and accelerates ML projects in a trusted ecosystem.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "LINKSTART",
+    "slug": "linkstart-fkdua",
+    "description": "We manage secret key at lit protocol and create AA（ERC4337） wallet from google account by stackup and access to web3 services and do web3 actions by its  AA wallet on LINKSTART.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Megaxis",
+    "slug": "megaxis-wvxrq",
+    "description": "the decentralized platform for tokenizing AI prompts. With the integration of Web3 infrastructure and tokenomics, MEGAxis creates a new revenue stream for prompt engineers while also making the AI industry more accessible, efficient, and sustainable.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "qy8m3",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "MINAmal VRF",
+    "slug": "minamal-vrf-ap9t9",
+    "description": "A Library that provides developers with Trustless Verifiable Randomness proven by Recursive ZK Technology",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "6wi0d",
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "Uwabe",
+    "slug": "uwabe-92hme",
+    "description": "Uwabe is a UI tool for smart contracts. Once you have created a smart contract, you need to think about the UI to get people to use it. If you create a smart contract, no matter how great it is, if people don't know how to use it, it will never reach many people.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Report Card 〜for the web3 Community〜",
+    "slug": "report-card-for-the-web3-community-i53rp",
+    "description": "Revolutionize DAO task management & gratitude on blockchain. Built with React, ethers.js, Material UI & Emotion. Boost collaboration on Polygon & EVM networks, while ensuring transparency & decentralization in recognizing contributions. Elevate DAO communities!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "ETHFarm",
+    "slug": "ethfarm-mc4u0",
+    "description": "ETH Farm: A DeFi-gaming fusion where players farm virtual mushrooms representing Uniswap v3 fees. Buy plants with USDC, earn & harvest fees. Powered by Predy Finance v3.2 & Graph protocol. A seamless blend of gaming & DeFi!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Kyosou",
+    "slug": "kyosou-zzxss",
+    "description": "Decentralized platform to organize fair and free contests like hackathons",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "安定",
+    "slug": "-x8q1p",
+    "description": "Antei: trustless liquid vaults leveraging ethereum account abstraction BLS signatures",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Great Gas Grants",
+    "slug": "great-gas-grants-vigiv",
+    "description": "Great Gas Grants is an innovative, credential-based gas grants service that harnesses the power of the Account Abstraction Paymaster to provide users with access to gas grants tailored to their credentials.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Splend",
+    "slug": "splend-yb3d1",
+    "description": "A decentralized peer to peer lending protocol to connect social impact conscious lenders to borrowers who do not have access to capital",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "pfyco",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "TaikoSwap",
+    "slug": "taikoswap-p8zrz",
+    "description": "Cross Chain Swap between Ethereum and Taiko by using cross-chain messaging.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UFO ~ Live Streaming from Video on Demand",
+    "slug": "ufo-live-streaming-from-video-on-demand-tttrs",
+    "description": "UFO is establishing the first internet radio station built with web3. Watch Party allows creators to stream live, establish a catalog, access video on demand content and embed in their own websites. Curating and hosting social content experiences with their communities.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "GardenGrower 🌹",
+    "slug": "gardengrower-ynd62",
+    "description": "Multisignature verifier for public goods. Users lock ETH into the contract and can refund their ETH if a proposal has expired.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "YORU",
+    "slug": "yoru-4si1p",
+    "description": "YORU is a privacy-preserving DApp for social crypto payment. YORU leverages account abstraction and stealth address to make a token transfer. Token is sent to a one-time address, which is owned by the receiver and only known by the sender and the receiver.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "UwU Link",
+    "slug": "uwu-link-v9exf",
+    "description": "Sign any transactions by scanning a QR code, without having to connect your wallet",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHGPT",
+    "slug": "ethgpt-yx4sp",
+    "description": "ETHGPT: a GPT-powered ChatBot for accurate Ethereum info. We've compiled resources like go-ethereum and ethresear.ch to enhance ChatGPT's knowledge, keeping you updated on Eth's latest developments. ETHGPT streamlines access to Ethereum-related info, benefiting users/developers.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Strawberry App",
+    "slug": "strawberry-app-ti0sk",
+    "description": "Strawberry App connects the crypto community with Non Profit Organisations who are looking for donations.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GamefiWormhole",
+    "slug": "gamefiwormhole-bviux",
+    "description": "a crosschain NFT collateral solution that makes gamefi easily accessible",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HatsWallet",
+    "slug": "hatswallet-1soqo",
+    "description": "HatWallet introduces role-based rewards, tying streamed rewards and compensation with a given role rather than specific addresses",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "POMPoarding",
+    "slug": "pompoarding-yis1w",
+    "description": "The easiest way to onboard communities to web3 through a simple type form",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "weaax",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SuperPlay",
+    "slug": "superplay-5zr28",
+    "description": "Your gateway to web3 gaming. Hassle-free onboarding with email registration and gas-less transactions with Safe and Superfluid. Try out new games today!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "bht2g",
+      "qy8m3",
+      "x59d1",
+      "9z8z1",
+      "weaax",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Apeify",
+    "slug": "apeify-stp4i",
+    "description": "Our Shopify template enables ApeCoin DAO members to launch global brands and start accepting ApeCoin within seconds, contributing to the continuous growth of the ApeCoin DAO ecosystem.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "qy8m3",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Web3 from A to Z",
+    "slug": "web3-from-a-to-z-zzehj",
+    "description": "This website offers bite-sized explanations to web3 term in order to help anyone to understand what web3 is, how it works and how it can change the world.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OMZ",
+    "slug": "omz-kszfc",
+    "description": "OMZ is a MultiChain OTC market with notification function for p2p trading",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "10a1v",
+      "qy8m3",
+      "gt566"
+    ]
+  },
+  {
+    "name": "DayPass",
+    "slug": "daypass-jf7vx",
+    "description": "Send an NFT and automatically cover the recipients gas! Daypass allows the distribution and organization of gas sponsorship via NFTs or \"Daypasses\". It's easy to use, and leverages the composability of NFTs for AA based gas sponsorship.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "qy8m3",
+      "362vt",
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "Kukuponpon",
+    "slug": "kukuponpon-c4goa",
+    "description": "Kukupon is a voucher wallet for blockchain games. We simplify gaming by offering anonymous verification, free sponsorships, and promotion budgets to attract players. Join the GameFi revolution!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Saturn",
+    "slug": "saturn-ofzti",
+    "description": "We issue academic certs & diplomas as SBTs on blockchain, easily verified by stakeholders. zk-SNARKs & zero-knowledge proofs ensure privacy/security of holders while allowing verification.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Streamyx",
+    "slug": "streamyx-zvsvs",
+    "description": "Streamyx allows creators to schedule token-gated content, collect crypto payments and conduct revenue-sharing with collaborators.  Streamyx also enables sponsors to remunerate creators according to real performance.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Mottainai",
+    "slug": "mottainai-swy8t",
+    "description": "Your wallet account holds your blockchain journey and memories, like POAPs and SBTs.   Tidy up unwanted tokens and keep using it long-term!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Hikyaku Protocol",
+    "slug": "hikyaku-protocol-run4m",
+    "description": "Hikyaku Protocol makes it a breeze to send web3 assets to anyone with just an email address, even if you don't know their web3 address.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "bht2g",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "ZKChat&Pay",
+    "slug": "zkchat-and-pay-sc9wr",
+    "description": "Decentralised ZK messaging with Defi Features X Fund the best Public Good Projects with Zk.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "Sponsored Voting: Governor Extension",
+    "slug": "sponsored-voting-governor-extension-p9p0o",
+    "description": "Extending OpenZeppelin Governor contract to sponsor the gas fees of proposal votes",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Accio.NFT",
+    "slug": "accio-nft-c1tkj",
+    "description": "A one-click magic for buying NFTs with cross-chain liquidity.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4pn9u",
+      "if0ri",
+      "gt566"
+    ]
+  },
+  {
+    "name": "Pansy AMM",
+    "slug": "pansy-amm-7330w",
+    "description": "Pansy AMM is an AMM that utilizes a currency basket-style liquidity pool to achieve greater profitability and lower impermanent loss. This is made possible through the implementation of active liquidity control and rebalancing mechanisms.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "🥭MPR",
+    "slug": "mpr-7r4n5",
+    "description": "Mango Farmers Club: The first community token project on Polygon zkEVM",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DeCast",
+    "slug": "decast-pp7jn",
+    "description": "DeCast is an open-source and extensive live-streaming platform for creators.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "App-chain-template",
+    "slug": "app-chain-template-fgbb4",
+    "description": "Create, customize & deploy your own blockchain with our app! Choose from DeFi, GameFi, NFT, DAO templates, simulate, test & manage your chain with our all-in-one platform! #blockchain #DeFi #NFT",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smoood Wallet",
+    "slug": "smoood-wallet-4j4b9",
+    "description": "Payment wallet that even your grandma can use , built with Safe and Account Abstraction along with Security Qn based Wallet Recovery",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "Wave 🌊",
+    "slug": "wave-b806a",
+    "description": "Wave allows web3 natives to manage their currently fragmented internet identity, while building and maintaining its subsequent social graph",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Taste Journey Ticket",
+    "slug": "taste-journey-ticket-da85u",
+    "description": "This project aims to provide a restaurant reservation system using NFT to solve the problems associated with centralized reservation platforms.  1. Transfer reservation.  2. Use NFT as proof of attendance  3. Gourmet record 4. Enable restaurants to visualize their fans.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "bitFlyer Governance",
+    "slug": "bitflyer-governance-dvd5u",
+    "description": "Our project uses proof of reserve to offer a more accessible and secure way for users to participate in governance. With our NFT, users can easily vote on proposals using their exchange-held assets, without needing to worry about security or high network fees.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Streaming NFT with wallet",
+    "slug": "streaming-nft-with-wallet-n559o",
+    "description": "A Wallet with a NFT rental function that allows you to rent when you need it and lend it when you don't need it. Rentals can be from just 1 second to indefinitely and Renter just pay for while using.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "ZKredentials",
+    "slug": "zkredentials-costv",
+    "description": "ZKredentials: Decentralized, trustless resume verification for anon devs. Powered by zk-SNARKs, Ethereum & IPFS. Showcase skills, maintain privacy, & prove expertise in a secure ecosystem. Join our mission to revolutionize talent discovery & validation!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "3zpxc",
+      "pfyco",
+      "10a1v",
+      "qy8m3",
+      "qfmej",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "CTFhub",
+    "slug": "ctfhub-4sy78",
+    "description": "CTFhub is a one-stop-shop for CTF competitions. Now all the CTF rockstars are in one place and players can boast their CTF record in their on-chain resume and socials. Organisers can deploy competitions in a permissionless way, and benefit from CTFhub's widespread adoption.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "splash X",
+    "slug": "splash-x-25aff",
+    "description": "SplashX is a video platform that streams rewards to their earliest and most devoted fans",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "pfyco",
+      "qy8m3",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "Artsy Wave",
+    "slug": "artsy-wave-e03w7",
+    "description": "NFT Multi Level Marketing protocol that promotes creativity.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Gogaku!!!",
+    "slug": "gogaku-es5jv",
+    "description": "Learn foreign languages with a voice-based game using LINE Talk & ChatGPT interface. Easily practice listening & speaking with NFT conversation scenarios—buy, exchange & complete to earn proof NFTs",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "TheDAO Reunion",
+    "slug": "thedao-reunion-bsanp",
+    "description": "Introducing TheDAO Reunion, inspired by the decentralized autonomous organization of 2016. Investors who participated in The DAO transactions will receive membership NFTs, fostering a positive outlook. Members can communicate through Discord-like chats and attend offline events.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "I AM HERE.",
+    "slug": "i-am-here-t2384",
+    "description": "Your AI Web3 Assistant to help you plan your next hackathon trip more efficiently",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Satori Drop",
+    "slug": "satori-drop-n2r33",
+    "description": "The platform is designed to use Airstack to detect targeted users for airdrops.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Mud Explorer",
+    "slug": "mud-explorer-u1wr9",
+    "description": "a Visualisor for MUD based games, where it shows each entity, component and system and how they are linked together",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DID ECO (DAO ID)",
+    "slug": "did-eco-dao-id-yj2u3",
+    "description": "DID.eco empowers NFT collectors, DAO enthusiasts & communities to amplify social awareness in Web2 & Web3 via ENS. Enables ENS domains as a key base for DAO & NFT projects, offering unified IDs for members. Leverages LayerZero for cross-chain functionality, boosting ENS reach.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Rate & Trust OTC",
+    "slug": "rate-and-trust-otc-12gdt",
+    "description": "This OTC Deal Rating feature allows users to rate each other on a scale of 1-5. This promotes transparency and builds trust, while also discouraging fraudulent behavior, and incentivizing trustworthy users.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shishi-odoshi",
+    "slug": "shishi-odoshi-2jgvo",
+    "description": "Discord-integrated party game, that boosts communication within DAOs.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Trustfer",
+    "slug": "trustfer-cn66s",
+    "description": "streamlines damage compensation in the real life in Japan via joint guarantee agreements.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Universal Paymaster",
+    "slug": "universal-paymaster-a2fyy",
+    "description": "Long term yield bearing swap powered by a universal paymaster.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "dLottery",
+    "slug": "dlottery-o6mum",
+    "description": "A lottery auto generator platform with a reverse lottery as its main feature. Unlike traditional lotteries where one person wins and everyone else loses, in this system one person loses and everyone else wins!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "FundTogether",
+    "slug": "fundtogether-cu3xp",
+    "description": "The Ultimate Platform for Asset Management and Public Goods Funding",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trustless Trust Exchange",
+    "slug": "trustless-trust-exchange-ba6im",
+    "description": "A World of “Trustless“ Trust Exchange  -Leverage reliable, third-party evaluations for trust-building -Fair and unbiased decision-making for DAO and project collaborations -Prevent false self-reporting and promote transparency -Escape the \"honest people suffer\" scenario",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Web4",
+    "slug": "web4-hdnqv",
+    "description": "Web4 aims to simplify crypto portfolios by interfacing with GPT-4s natural language processing instead of confusing webapp GUIs. Our framework offers an intuitive alternative that is network-agnostic and easy for developers to build their own modules.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NBond-BY-gusto",
+    "slug": "nbond-by-gusto-783rc",
+    "description": "NFT corporate bond platform for companies. We will transform traditional paper-based corporate bonds into smart contract-based bonds, making them accessible for anyone to invest in",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "probablynothing.works",
+    "slug": "probablynothing-works-qgrrf",
+    "description": "A protocols that allows web3 communities to generate revenue from advertising, without censorship.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ManekiNeko",
+    "slug": "manekineko-h31iy",
+    "description": "A gamification and visualization tool to make defi more fun!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "JuryDAO",
+    "slug": "jurydao-8gz4i",
+    "description": "A DAO-driven security system for online gaming that uses blockchain technology to promote fairness and discourage cheating.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Glimpz",
+    "slug": "glimpz-a9vyo",
+    "description": "Glimpz, is a Web3 social network built for sharing and monetizing generative ai content. It enables and encourages users to take a glimpse👀 of their curiosity, ideas and inspirations through unlocking and reviewing prompts.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "zkBadge",
+    "slug": "zkbadge-mr4gi",
+    "description": "Onboarding user's off-chain/on-chain reputations  to web3 world by granting SBTs (Soul Bound Tokens) after on-chain zero-knowledge proof verification based on DIDs.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Penguin Network",
+    "slug": "penguin-network-jhkvu",
+    "description": "L1 bond aggregator to give an secured network into Ethereum ecosystem and use this bond for decentralized trusless cross-chain arbitrary messaging.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "qy8m3",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "EchoKitty",
+    "slug": "echokitty-77ysy",
+    "description": "EchoKitty is a multi-chain copy trading protocol, which introduces a permission-less way to mimic the trading strategies of any on-chain wallet. It ensures real-time execution with an ultra efficient botnet as well as trust-less depositing and swapping of funds.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Airdropper for GitHub Contributors",
+    "slug": "airdropper-for-github-contributors-o87db",
+    "description": "Airdropper for Github contributors is a SuperFluid-based dApp that simplifies reward distribution for open-source developers. With 2 UIs for admins & developers, it ensures fairness, transparency & incentivizes more contributions.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BrainWallet2.0",
+    "slug": "brainwallet2-0-ipbq4",
+    "description": "In an age when seed phrases are routinely being phished from unsuspecting users or getting lost outright and forgotten, the necessity for a seedless self-custodial wallet is becoming apparent. By improving upon the unknown Brain Wallet concept, we aim to bring Web3 to everyone.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tanuki",
+    "slug": "tanuki-s8ew9",
+    "description": "Tanuki is a trustless wallet scoring protocol. It uses ZKP’s to trustlessly read historical on-chain activity to calculate wallet scores. Wallet scores are modular enabling use cases like paymasters with loyalty-based subsidies and lending protocols with variable rates.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "jzpj5",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "engagement ring　contract",
+    "slug": "engagement-ring-contract-xq7g8",
+    "description": "I created a dapp that allows you to submit a marriage certificate to a meta-state without having to register the marriage certificate with the real state. This allows people from countries where same-sex marriage is not recognized to register their marriages in the meta-state.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "4esee",
+    "slug": "4esee-xu1be",
+    "description": "Prediction platform for future events built on Mina using SnarkyJS",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "OmniSwap",
+    "slug": "omniswap-vhg0o",
+    "description": "Revolutionizing NFT Trading with Layerzero + L2 Cross-Chain Matchmaking",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zk3 Alpha",
+    "slug": "zk3-alpha-609hp",
+    "description": "Create and Embed zkProofs into Lens posts, use the proofs to moderate the govern interactions with your content.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Blockreview",
+    "slug": "blockreview-isqqt",
+    "description": "Blockreview is an on-chain review system to promote trust & transparency among the web3 community.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Asguard",
+    "slug": "asguard-ihv05",
+    "description": "Asguard provides the most secure and easiest way to onboard users to DApps or Wallets and ensures that they never have to worry about losing access to their wallet in unfortunate events.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "4pn9u",
+      "weaax"
+    ]
+  },
+  {
+    "name": "Fluid Sense",
+    "slug": "fluid-sense-ogerd",
+    "description": "Decentralized Advertising for Humans targeted to web2 and web3 users",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "vxwti",
+      "qy8m3",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Myna",
+    "slug": "myna-uxzdd",
+    "description": "Browser wallet for Japanese residents that lets them use their government issued ID (My Number Card) as a hardware wallet.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "362vt",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Memento",
+    "slug": "memento-424hk",
+    "description": "Memento lets your loved ones recover your account without using a wallet, a centralized guardian or paying gas. Create Mementos, save lives.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "HackathonAttestation",
+    "slug": "hackathonattestation-5zhge",
+    "description": "- Empowering Sustainable Development with Attestation-based Donations. Our hackathon proposal involves creating a product that allows post-hackathon projects to receive donations from potential future users, based on attestations from sponsors.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "IDQ ｜Soul Wallet",
+    "slug": "idq-soul-wallet-2ds24",
+    "description": "Unique and secure IoT hardware that allows enterprise companies to customizable. Web 3 Wallet and DIDs and connects data to all.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ZKAFI",
+    "slug": "zkafi-70e80",
+    "description": "A zero-knowledge Real World Asset (RWA) lending protocol. Use Credentials and private collaterals to borrow money in web3 world.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "qfmej"
+    ]
+  },
+  {
+    "name": "Pay3",
+    "slug": "pay3-ghp9f",
+    "description": "Pay3 is a smart contract based subscription payment system.  User can start and stop the subscription easily. Service provider can use this system only deploying contract this.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OkiScan",
+    "slug": "okiscan-o79ru",
+    "description": "A mobile-optimized Ethereum blockchain explorer with AI-assisted contract search, prioritized Read/Write methods, and an on-chain watchlist.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Sciemurai Donations 🥷",
+    "slug": "sciemurai-donations-1qmtf",
+    "description": "a decentralized platform that helps scientists, students, professors, institutions, philanthropists, and people to protect their intellectual ideas through a decentralized and transparent way using blockchain technology to document research paper journeys from start to finish.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "3zpxc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "onChallenge",
+    "slug": "onchallenge-pe5qk",
+    "description": "Introducing a gasless and endless donation platform for web3 enthusiasts looking to make a positive impact. With our user-friendly interface, you can donate to those in need without worrying about gas fees. Join us in sharing the wealth and making changes today.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "LFGroup",
+    "slug": "lfgroup-rho18",
+    "description": "LensTalk is a smart chat tool based on Lens relationships, it allows users to interact with each other through chat based on Lens.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi Anime",
+    "slug": "defi-anime-hnfxh",
+    "description": "Animation of a Uniswap V3 USDC/WETH pool over different time periods",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "SafePanicModules",
+    "slug": "safepanicmodules-a9koj",
+    "description": "perform emergency functions on your multisig safe without needing all signers",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "qy8m3",
+      "9z8z1",
+      "weaax"
+    ]
+  },
+  {
+    "name": "Mastaa",
+    "slug": "mastaa-ee43f",
+    "description": "How to make new users come to your platform? Especially if they know nothing about web3? With Mastaa, we offer a simple and modulable paymaster to help you facilitate the onboarding of new users and 100% adaptable to your needs, using ERC-2535 Diamonds proxy implementation.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "3zpxc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "tips-works",
+    "slug": "tips-works-zd2wh",
+    "description": "Tips-Work is a fully anonymous web3-based crowdsourcing platform. It allows for a world where factors like gender, age, and background are fairly assessed without being visible.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "snarkyjs-img",
+    "slug": "snarkyjs-img-xyvne",
+    "description": "A cutting-edge SnarkyJS library for secure image verification using zero-knowledge proofs! Preserve privacy & trust in HD images with our efficient zk-img inspired solution. Verify authenticity, fight deepfakes!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Web322",
+    "slug": "web322-y2q42",
+    "description": "Tamper-proof Web2 data sourcing on the blockchain without relying on costly repeated API calls. Web322 allows for public verification that the call was sent to the right server, harnessing HTTPS’s enncrypted traffic to prevent tampering from bad actors.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Easy NFT",
+    "slug": "easy-nft-0rym3",
+    "description": "The easiest way to mint an NFT. No need for wallet or gas! Help bring the next million into crypto.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DeedHub",
+    "slug": "deedhub-vddad",
+    "description": "NFT loan marketplace and aggregator designed for advanced users and traders",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3TREE",
+    "slug": "3tree-gzm9j",
+    "description": "Send and receive token via SNS-id. Integrate your Identities.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "ChatGroupWallet",
+    "slug": "chatgroupwallet-dvv0y",
+    "description": "Using the chat function of the push protocol, create a group chat and then create a new wallet for the group.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PolyDraw",
+    "slug": "polydraw-h8ga9",
+    "description": "A decentralized and transparent platform for fair product lotteries, featuring physical items on the blockchain. Powered by Web3, Polygon ID, Chainlink VRF, and smart contracts. #blockchain #lottery #fairness #physicalproducts",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Dumpling Farm",
+    "slug": "dumpling-farm-kdjp9",
+    "description": "Democratising financial freedom by bringing web3 lending to web2 borrowers",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GPTutor (🤖,🤖)",
+    "slug": "gptutor-igkwd",
+    "description": "A VS Code extension for smart contract development, including \"tutor\", \"audit\" features and a efficient preprocessing system",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mango",
+    "slug": "mango-azfbe",
+    "description": "Identity preserved multisig wallet management & airdrops for GitHub orgs. Empower moderators & contributors with Sismo Connect & Safe. Decentralized rewards, privacy-first! 🥭🔐 #DeFi #blockchain",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "weaax"
+    ]
+  },
+  {
+    "name": "Ichimatsu",
+    "slug": "ichimatsu-jj5ok",
+    "description": "\"Ichimatsu\" is the first step for live music artists to explore new possibilities with web3.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "HyperCartridge",
+    "slug": "hypercartridge-66mhs",
+    "description": "HyperCartridge: Mintable Collaborative Application Cartridges, which allow a single or multiplayer app to be minted to an NFT, and served as a static site or via ENS.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Moonlight",
+    "slug": "moonlight-vhpgj",
+    "description": "In-chat payments creating utility at the intersection of crypto and decentralized social.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Autopilot",
+    "slug": "autopilot-gps9k",
+    "description": "Configure/Schedule/Automate your wallet's future actions seamlessly",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "qy8m3",
+      "362vt"
+    ]
+  },
+  {
+    "name": "Hippocratic Island",
+    "slug": "hippocratic-island-c8jez",
+    "description": "It is a web3 platform for patients to communicate with each other, providing a safe and comfortable forum for those with physical and mental illnesses to share experiences and seek help.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qfmej"
+    ]
+  },
+  {
+    "name": "towerbattle",
+    "slug": "towerbattle-roter",
+    "description": "simple application for sending ETH on the Ethereum blockchain network,",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YUMEGIK",
+    "slug": "yumegik-fp3bg",
+    "description": "For you in the future, and for you in the present who are contemplating whether or not to process memories such as the pictures you drew and the photos you took in the past. I suggest using a and b to store those memories instead.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Emojimon 3D",
+    "slug": "emojimon-3d-7y3xp",
+    "description": "A Unity3D frontend for a fully on-chain game. Using Unity, we've created a 3D frontend, running in browser, for Emojimon, the existing 2D on-chain game provide as the example game for the MUD framework.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Soul Bound Credentials",
+    "slug": "soul-bound-credentials-nwovz",
+    "description": "SBT(soul bound token) verification platform that helps integrate VC(verifiable credentials) with on-chain protocols",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "3zpxc",
+      "10a1v",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "zeim",
+    "slug": "zeim-4yhq3",
+    "description": "Zeim is Etherscan for Human - Make tax preparation easier for non-techies by creating user-friendly transaction records.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Proof of Location",
+    "slug": "proof-of-location-0kyyp",
+    "description": "Proof of location. This protocol preserves GPS coordinates on chain, verified Safe with a little help from your fren.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "flap.sh",
+    "slug": "flap-sh-nypdu",
+    "description": "Flap.sh gives NFT collectors a second chance to buy a blue chip NFT at an extremely low price, and it also creates an incentive for NFT traders to bridge their NFTs from L1 to L2.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NetworX",
+    "slug": "networx-zi08g",
+    "description": "NetworX is Zk talent matching platform to make all hiring free from discrimination",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "DeFi Struct",
+    "slug": "defi-struct-045tr",
+    "description": "DeFi strategies with clear risk/reward information, offer greater insight, and hold individuals who promote or develop strategies more socially accountable",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "oiv32",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "GeoMoneyStream",
+    "slug": "geomoneystream-pgzqe",
+    "description": "Real-time income/revenue based on mobility geolocation information",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MultiAirDropSBT",
+    "slug": "multiairdropsbt-6jk7m",
+    "description": "You can airdrop SBTs as ERC1155 to mulitaddress. If you are master of a event, an event is attached to one ID.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkBookReview",
+    "slug": "zkbookreview-wkbks",
+    "description": "We address the issues of existing book e-commerce and review sites by saving reviews on blockchain to prevent censorship and using zero-knowledge proofs to identify reviews written by those who have read the book.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Recursive ZK State Channels",
+    "slug": "recursive-zk-state-channels-ymke6",
+    "description": "A Lightning Network (state channels) built using recursive ZK-Snark Proofs",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Emaverse",
+    "slug": "emaverse-jtamf",
+    "description": "This project is to increase opportunities for people to experience Ethereum and Metaverse in Japan. The theme of the project was a shrine, a sacred place for Japanese people, and the culture of \"Ema (wish tags)\"and \"Intoku (secret charity)\" was developed.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xMarket",
+    "slug": "0xmarket-u0kea",
+    "description": "0xMarket, an account marketplace, enables trading of non-tradable assets with ownership transfer using ERC-4337, creating new value streams for users. Trade whitelist spots or early vesting wallets and find your ideal wallet to easily adapt to the web3 ecosystem.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "fp1x1",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Wishing Pool",
+    "slug": "wishing-pool-v65jb",
+    "description": "The Wishing Pool is a community infrastructure system, where users make wishes by signing a declaration and minting a community NFT to obtain wish power. Signers can add wishes to the pool and pay wish power to bless them, making consensus wishes visible to more people.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ConnectCare",
+    "slug": "connectcare-d52m6",
+    "description": "A donation platform for collecting funds quickly in the event of a disaster.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyFinancialProject",
+    "slug": "myfinancialproject-q1enx",
+    "description": "A next-generation financial system that automates existing financial services using blockchain technology.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PromptMintSite",
+    "slug": "promptmintsite-va0f1",
+    "description": "Prompt NFT mint site that allows users can mint their original prompts through this site and earn with it.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Thrift",
+    "slug": "thrift-fjbwd",
+    "description": "Thrift is website based Savings application which allows user to join clubs with Random users and save money with the security of Smart Contracts.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PolyNFT",
+    "slug": "polynft-dfvt5",
+    "description": "PolyNFT is an NFT marketplace with copyright granted upon minting/registering on the platform. With copyright, artists can register their works for derivative creations and earn customised charges. Users can also fuse multiple NFTs to advance the attributes, images or data.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mimiku",
+    "slug": "mimiku-g0fkw",
+    "description": "Mimiku offers a royalty-based model hub that enables IP providers to monetize their data and AI prompt engineers to generate content, with the royalty distributed fairly between both entities. By creating a sustainable AI-generated content market, Mimiku encourages innovation.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "vxwti",
+      "qy8m3",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "DeDeal",
+    "slug": "dedeal-oc5ev",
+    "description": "DeDeal is a decentralized escrow protocol for off-chain deals without any 3rd-party Intermediaries through self-sovereign sanction. DeDeal prevents fraud by depositing into a smart contract in advance and the other party's deposit can be burned If one frauds the other.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "qfmej"
+    ]
+  },
+  {
+    "name": "Prompt Monsters",
+    "slug": "prompt-monsters-7f13y",
+    "description": "Fully decentralized generative blockchain game using AI as the game engine",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Commit Rewarder - Open-Source DAO Tool",
+    "slug": "commit-rewarder-open-source-dao-tool-jew1o",
+    "description": "Our hackathon project uses Github Action and ChatGPT as the backbone to support our token reward system managed by CommitRewarder. We incentivize high-quality code contributions to open-source projects, promoting sustainability in the crypto world.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "INT MUSCLE",
+    "slug": "int-muscle-crhj6",
+    "description": "This  is a web app that allows you to get a healthy body while having fun in the prediction market. In addition to the subjects, two other parties, an observers and a cheers with different incentives, are introduced and asked to place a multiplier on the prediction market.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Vibe",
+    "slug": "vibe-o61ob",
+    "description": "Vibe is a fully on-chain social participation protocol that helps you enhance events, and capture their memories",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "AyAy",
+    "slug": "ayay-64zt9",
+    "description": "AyAy is ERC-4337 account abstraction wallet transforming daily payments. Experience offline transactions securely with your Face ID. Convenience, security, and innovation combined!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Atomicflow",
+    "slug": "atomicflow-s9nwc",
+    "description": "Subscription protocol using INTMAX and Scroll. It enables flexible Dapps subscriptions powered by ZKP.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "48dft"
+    ]
+  },
+  {
+    "name": "Harberger Nouns",
+    "slug": "harberger-nouns-do14c",
+    "description": "A Nouns fork based on Harberger Taxation Model for public goods funding. As far as we know, nothing of this sort has been done yet.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Consolidation of DAO Forum opinions using GPT",
+    "slug": "consolidation-of-dao-forum-opinions-using-gpt-twwws",
+    "description": "Chrome extension that uses GPT to concisely summarize the large volume and complexity of discussions in DAO's forums.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GoshuinSoul",
+    "slug": "goshuinsoul-xm0r6",
+    "description": "GoshuinSoul: your Soul-bound Goshuin digital passport. Secure and immortalise your shrine and temple visits with Polygon ID and support local communities!",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Cryptalk",
+    "slug": "cryptalk-822kh",
+    "description": "Cryptalk: A User-friendly crypto swaps via intuitive conversational interface. #ETHTokyo2023 #Cryptalk",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "4pn9u",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "BorrowFi",
+    "slug": "borrowfi-ore25",
+    "description": "BorrowFi is an aggregator that lets you borrow at the best rates possible",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "pfyco",
+      "qy8m3",
+      "oiv32"
+    ]
+  },
+  {
+    "name": "ZKfightsAI",
+    "slug": "zkfightsai-f8mk5",
+    "description": "ZKP_FIGHT_AI is a project designed to help users distinguish genuine human-created digital content from AI-generated fakes. We use a novel zero-knowledge proof signing method to do this.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FanThree",
+    "slug": "fatthree-wt0jz",
+    "description": "FanThree is a video-specific service that supports creators with ongoing support from fans. Web3 service similar to Patreon and the famous Fantia,FANBOX in Japan.  Features include second-by-second payment by encryption and videos that can only be viewed by subscribers.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "ri4uk"
+    ]
+  },
+  {
+    "name": "safedealtokyo",
+    "slug": "safedealtokyo-myy2k",
+    "description": "CtoC's future depends on secure methods like smart contracts. Safe Deal, a Web3 service, offers guarantees without high margins, replacing businesses' role in verifying identity and payment in CtoC, cutting costs.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Dex on Taiko",
+    "slug": "dex-on-taiko-wqqsu",
+    "description": "The first community developed decentralized exchange on Taiko",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prediction based Quadratic Funding Protocol",
+    "slug": "prediction-based-quadratic-funding-protocol-vrasm",
+    "description": "Prediction based Quadratic Funding Protocol for public good projects",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5e2gc",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "PPSwap",
+    "slug": "ppswap-84ikz",
+    "description": "A compliant ZK AMM that allows for shielded withdrawals, deposits, transfers, and swaps",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "2mig9",
+      "3zpxc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "zkMoku",
+    "slug": "zkmoku-5rtdr",
+    "description": "Secret White List app using Zero Knowledge Set Membership. We prove only belonging",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "dKeeper",
+    "slug": "dkeeper-3ma7r",
+    "description": "dApp access control by using signature created by Lit Protocol.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "MangaNFTService",
+    "slug": "manganftservice-g6fna",
+    "description": "Upload PDFs on our platform to convert to epub & upload to storage servers/IPFS. Create collections w/ erc721. Buy, sell, rent, browse. Full access for NFT holders; sample pages for others.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NexaCrowd: Case#1 Save Jpn Milk Crisis",
+    "slug": "nexacrowd-case-1-save-jpn-milk-crisis-jeuig",
+    "description": "We built a web3 crowdfunding/sourcing to help small to medium local businesses and individuals who need both funding and help from talent pool. We initially focused on Japanese Milk Farmers who are currently enduring historical economical crisis.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "MilEyes",
+    "slug": "mileyes-4j0hw",
+    "description": "Project aims is to elaborate a Decentralized token curated registries (TCR) database by users for users about sustainability information of worldwide products and services to bring real change through responsible consumerism.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gighub",
+    "slug": "gighub-z1xax",
+    "description": "GigHub is financial wellness platform that offers payday loan service to people work in Web3. We support employ benefits by letting them to borrow against their next paycheck.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "inotq"
+    ]
+  },
+  {
+    "name": "inviteAPE",
+    "slug": "inviteape-f4i0e",
+    "description": "NFT Utility Generator for BAYC with temporarily delegatable on-chain user right.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t3zyt"
+    ]
+  },
+  {
+    "name": "Justmint",
+    "slug": "justmint-tiuio",
+    "description": "Justmint is a SaaS tool that provides web3 loyalty service like Starbucks Odyssey for consumer goods companies",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "SUSHI Career",
+    "slug": "sushi-career-gxgjp",
+    "description": "Send OSUSHI to your co-workers to say thank you!　This is a Web3 Service that can be easily used by web2 users",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Metascope, for Data NFTs",
+    "slug": "metascope-for-data-nfts-ocx4j",
+    "description": "Metascope is a dApp that analyzes and displays the metadata of Data NFTs. It lists properties, detects standard NFT types like Uniswap V3, Superfluid, OceanProtocol, etc. and renders a linked image. The dApp parses metadata content and makes it human readable in a UI.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5e2gc"
+    ]
+  },
+  {
+    "name": "NFT Trait Pricing (Pawn Shop)",
+    "slug": "nft-trait-pricing-pawn-shop-4xjd2",
+    "description": "Pricing oracle for NFT collections with pricing individual traits On-Chain! This allows to create custom NFT Pawn Shops and price NFTs based on rarity with ability to proof and verify the data.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MBNV ( Most Beautiful NFT Viewer )",
+    "slug": "mbnv-most-beautiful-nft-viewer-0zc8c",
+    "description": "What NFTs do you possess and how do you see them? The real experience of owning an NFT is provided through the iOS app.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IP License NFT platform",
+    "slug": "ip-license-nft-platform-u6cdi",
+    "description": "IP content license NFT. The purchaser can use the IP for a certain period of time.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "🌊Waveprotocol",
+    "slug": "waveprotocol-73zzz",
+    "description": "Hackathon protocols to create ongoing, long-term connections with hackers who contribute to the project",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Qi",
+    "slug": "qi-2oagg",
+    "description": "Qi is a transaction auction platform that reduces transaction cost for transactions. The cost reduction comes from three places 1. MEV redistribution 2. transaction exeuction 3. and gas fees",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "qfmej"
+    ]
+  },
+  {
+    "name": "Jokio - Open Market for Web3 Games",
+    "slug": "jokio-open-market-for-web3-games-yg65w",
+    "description": "Open Market for Web3 Games - Decentralised AppStores owned by communities",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "FUGA",
+    "slug": "fuga-cn3cs",
+    "description": "FUGA, the Federated User-Generated Avatar, unites Blockchain and Federated Learning, crafting AI chatbots for individuals. Users contribute to AI training, earn rewards, and shape policies, securing data privacy, ownership, and fair rewards in a sustainable AI ecosystem.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Octoplorer - block query made easy",
+    "slug": "octoplorer-block-query-made-easy-pdgmt",
+    "description": "Octoplorer is an AI-powered blockchain explorer (for Ethereum and Polygon) that makes querying blockchain data as easy as typing in natural language. Get human-readable answers in formats like tables, images, and graphs, so you can obtain any data you need for your Web3 journey.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Consesus Score",
+    "slug": "consesus-score-ns7kz",
+    "description": "\"Consensus score\" refers to the average score of how much people trust you, and you can have a way of indicating how much trust you have without revealing your score to others.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pok3mon - An Onchain PvP battle game",
+    "slug": "pok3mon-an-onchain-pvp-battle-game-bjuiz",
+    "description": "Onchain PvP Battler powered by cross chain messaging and commitment & reveal scheme",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DAOlingo",
+    "slug": "daolingo-zduk5",
+    "description": "Unlock the world with DAOlingo! Our APP allows you to connect, learn and practice languages with ease while promoting financial inclusion.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "v693n",
+      "qy8m3",
+      "inotq"
+    ]
+  },
+  {
+    "name": "Try subscription model in crypto",
+    "slug": "try-subscription-model-in-crypto-99xkm",
+    "description": "Automatic extension of subscriptions based on pre-set allowance",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "pfyco",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "MARM(Music Assets and Rights Management)",
+    "slug": "marm-music-assets-and-rights-management-67q65",
+    "description": "Protocols that allow artists to proactively and freely define music copyright management",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "AQA Protocol",
+    "slug": "aqa-protocol-b5ok4",
+    "description": "A privacy data pool for personalization. We collect viewing history data from Lens apps allow users to control the access. All Lens apps, if they have consent from users, can use the data for personalization. We focuses on private data while Lens Protocol does on public data.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "qy8m3",
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "SnapPay",
+    "slug": "snappay-wrpb9",
+    "description": "Event ticketing systems. business owner or company or group can easily create event with the power of any evem compatible blockchain, just deploy the pool and good to go.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "no lens no problem",
+    "slug": "no-lens-no-problem-rsjcq",
+    "description": "We let people without lens profiles to post on our profile \"nolensnoproblem.lens\". We achieve this by creating wallets for our users and paying for their txs using erc-4337. To avoid paymaster sybil attacks and spam, we require users to verify with sismo or worldcoin.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "4i0qt",
+      "vxwti",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DKTP",
+    "slug": "dktp-wo7jm",
+    "description": "New kind of Gaming Media - Decentralized Knowledge Trading Protocol -",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3PortfolioWallet",
+    "slug": "web3portfoliowallet-5f7bk",
+    "description": "This portfolio wallet consolidates the information that shapes one's identity (DID, VC, NFT) without the need for private key management. DID Name Service convert DID into an easy-to-understand name. Tokens and the social score are granted according to the activities.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DoppeL.ink",
+    "slug": "doppel-ink-w4c7g",
+    "description": "Wallet that allows high-performance AI real-time voice changers to be rented on a pay-as-you-go basis or bought and sold as NFTs",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Multiple access wallet",
+    "slug": "multiple-access-wallet-ee26p",
+    "description": "Jerry Finance, a cutting-edge Web3 payroll service, unifies FIAT and crypto salary payments while offering employees flexible payment options and frictionless onboarding through non-custodial smart contract accounts created by employers.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3",
+      "qy8m3",
+      "weaax"
+    ]
+  },
+  {
+    "name": "SubsCrypt",
+    "slug": "subscrypt-v10cv",
+    "description": "How many subscriptions are you currently signed up for?   SubsCrypt allows you to pay for all your subscriptions with ETH💰  The future of subscriptions is right here 🌍",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "HyperBob",
+    "slug": "hyperbob-fz6rz",
+    "description": "HyperBob’s ERC4337-compliant wallet implements the one-click private transfer feature that allows the account to send any stablecoin anonymously. It integrates zkBOB, an anonymous stablecoin transfer solution and Hyperlane, an interchain bridging and messaging protocol.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "gt566",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "0xfin",
+    "slug": "0xfin-6hck8",
+    "description": "0xFin - The Everything Everywhere All in One Crypto Mobile Application.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeAcu: A decentralized auction market",
+    "slug": "deacu-a-decentralized-auction-market-m95sn",
+    "description": "DeAcu: A Web3 eBay/ヤフオク auction market for ERC20 tokens and ERC721 NFTs, it supports ERC4337 wallet and L1/L2 chains",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Ourstock",
+    "slug": "ourstock-o3om9",
+    "description": "A decentralized marketplace for stock Images. Solving for high fees, copyright management issues and user-friendly Mobile UX, through NFTs for transparent and effective ownership management",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Gas-Free Token",
+    "slug": "gas-free-token-7sne4",
+    "description": "Introducing GasFree Token API service for emerging DAOs, providing free temporary tokens with essential functions like Create, Mint, Transfer, Burn, and BalanceOf. Cloud-stored balances seamlessly migrate to ERC20 tokens on mainnet launch, saving gas costs and manual effort.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MISO NFT Trading Cards",
+    "slug": "miso-nft-trading-cards-hp6c5",
+    "description": "This is a community-building project for MISO created from discarded bread. This MISO will contribute to reducing food loss and CO2 emissions. MISO is traditional Japanese food.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wendigo",
+    "slug": "wendigo-jgkoe",
+    "description": "Wendigo is a collection of tools to enhance onchain trading of perps and trading/liquidity provision for small market cap tokens.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Musubi",
+    "slug": "musubi-5b9n6",
+    "description": "Web3 Engineering Skills Evaluation & Global Hiring Platform.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "362vt"
+    ]
+  },
+  {
+    "name": "Joba",
+    "slug": "joba-vesyr",
+    "description": "Joba is a platform that is empowering humans for a more flexible future of work.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Guardian GPT - Account Recovery Bot",
+    "slug": "guardian-gpt-account-recovery-bot-5max2",
+    "description": "Account Recovery Bot using ChatGPT, compatible with ERC-4337",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qfmej"
+    ]
+  },
+  {
+    "name": "D-listing",
+    "slug": "d-listing-k1td6",
+    "description": "An auction-style matching service using Web3 technology for house owners and real estate agencies.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kizuna Protocol",
+    "slug": "kizuna-protocol-51cxq",
+    "description": "This is a lending platform that uses proof of humanity based on WorldID, allowing borrowers to access higher loan amounts than their collateral value.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "3zpxc",
+      "5e2gc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "AokiApp NFT",
+    "slug": "aokiapp-nft-1t8k7",
+    "description": "AokiApp NFT is a full-onchain NFT collection. It introduce a new image compression technology suited for mass-production NFTs, and achieves image decompression and manipulation on EVM. This shows that Ethereum can also handle image processing, not just finance.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "De_Terminal",
+    "slug": "de-terminal-id92i",
+    "description": "De_Terminal is an open-source tool to help traders understand complex Defi products using ChatGPT.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "mycel",
+    "slug": "mycel-evqa4",
+    "description": "A Decentralized DNS Integrated with Exisiting Wallet Name Services",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OUCHI POD - Meet&Date Wellbeing Partner",
+    "slug": "ouchi-pod-meet-and-date-wellbeing-partner-b6bqz",
+    "description": "OUCHI POD is an application that creates encounters with a focus on Wellbeing.",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crossbow",
+    "slug": "crossbow-qb6r5",
+    "description": "Google Analytics for Web3 | For Builders, Investors, & Researchers",
+    "event": "ETHGlobal Tokyo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jywri"
+    ]
+  }
+]

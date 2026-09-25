@@ -1,0 +1,2971 @@
+[
+  {
+    "name": "Random poly gatos",
+    "slug": "random-poly-gatos-2q33j",
+    "description": "random poly gato is a NFT project using erc1155 token standard and chainlink VRF,",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperFun.Social (SFS)",
+    "slug": "superfun-social-sfs-dmdfp",
+    "description": "Like Hackathons are the way to reward developer community to build on Web3, Superfun.Social is a gamified platform to reward all tech non-tech users of Web2 and Web3 for each of their actions from connecting wallets, playing games to creating NFT.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Teacher Bai's Friend Metaverse World",
+    "slug": "teacher-bais-friend-metaverse-world-bkpmj",
+    "description": "This is the project for NFT in Metaverse for Teacher Bai's Best Friend - Xiao Shan!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "World of Wordle",
+    "slug": "world-of-wordle-0r3mz",
+    "description": "Bringing wordle into web3 using play to earn wow tokens and nfts",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Passport",
+    "slug": "passport-gxyq2",
+    "description": "Decentralized \"Ticketmaster\" on Polygon",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Cahoot",
+    "slug": "nft-cahoot-4tjiq",
+    "description": "A L2-L1 ERC20 token bridge which can be invoked by smart contracts, and project using this bridge to pool funds to buy NFTs.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "The Blockchain Land",
+    "slug": "the-blockchain-land-po8aa",
+    "description": "The Blockchain Land is a LongTerm Strategy Game. A combo of the most popular :) and my favorite",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Triton Instant Messenger",
+    "slug": "triton-instant-messenger-0thzc",
+    "description": "Triton is an instant messenger built on the Polygon blockchain. The Dapp is fully on-chain, and allows for MATIC and MATIC tokens transfer.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Risk",
+    "slug": "risk-uq9b3",
+    "description": "Speculate on NFT floor prices in betting pools, and even trade the pool rewards as an NFT.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "OnChain NFT Designer",
+    "slug": "onchain-nft-designer-y1k2g",
+    "description": "Do you like anonymice? This tool will allow you to create your own anonymice like on-chain NFT project.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Mottoverse",
+    "slug": "mottoverse-8i7bg",
+    "description": "Mottoverse is where you can stake your motto and territory using fungible and non-fungible tokens. Collect letters, create words, and place your motto in physical space.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "RankTableGenerator",
+    "slug": "ranktablegenerator-ijcfp",
+    "description": "This project consists in a generator of Ranking Tables, these tables will consist on several accounts where we will see their ratings. A user can make as many tables as he wants and put as many accounts as he wants.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Factory",
+    "slug": "nft-factory-gzevt",
+    "description": "Create and deploy NFT collections on Polygon (or other chains) via Covalent NFT Collection Dashboard",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Perk Studio",
+    "slug": "perk-studio-xqtg5",
+    "description": "Central place for all Web2 brands to issue membership cards and reward tokens for their consumers",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Pepe's Skool",
+    "slug": "pepes-skool-vevig",
+    "description": "An encycolpedia documenting the crypto-related meme culture.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "monet",
+    "slug": "monet-w2tk6",
+    "description": "\"monet\" is a decentralized business directory, where you find services or list your services.  Craigslist on Steroids.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "EventDAO",
+    "slug": "eventdao-2geka",
+    "description": "Open Protocol for In Real Life Events using Dynamic NFT's  for the Web3 Space",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PiggyCross",
+    "slug": "piggycross-yh6eo",
+    "description": "A cross-network wallet for instant transactions. Spend on any network no matter where your funds are.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DAOfront",
+    "slug": "daofront-mixgk",
+    "description": "Platform for managing DAOs. Users can find the list of members and the list of upcoming events for their DAO.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Slyde",
+    "slug": "slyde-nbcpz",
+    "description": "At Slyde, we build infrastructure that makes onboarding users to L2 systems as cost-efficient and accessible as possible.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "KryptoMinters",
+    "slug": "kryptominters-tsr62",
+    "description": "KryptoMinters is an NFT Marketplace where users can upload there work in the form of short streams and users could mint and become the owner of the NFTs.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "NFT Social Club",
+    "slug": "nft-social-club-57ye0",
+    "description": "NFT Gated Content Sharing Platform that content creator can exclusively share their content to NFT holders.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "IronDice",
+    "slug": "irondice-m9c3y",
+    "description": "Iron Dice is a six dice roll game that uses Chainlink VRF and you can bet ERC20 tokens  built on Polygon",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AR NFT Explorer",
+    "slug": "ar-nft-explorer-q88ph",
+    "description": "Finding interesting NFTs is so boring -- let's spice things up and navigate the web of NFTs in AR!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Whose NFT?",
+    "slug": "whose-nft-gmooe",
+    "description": "A web app that allows you to find the owner of an NFT across different chains.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Survey DAPP",
+    "slug": "survey-dapp-zagnb",
+    "description": "Dapp using which users can fill up surveys as well as get their surveys filled. Kind of a decentralised version of google forms but more.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "♄oro",
+    "slug": "oro-94oyo",
+    "description": "Online identity rotator & avatar HUD with Gnosis Zodiac for synthetic biology",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "INTERPLANETARY ID SYSTEM -  Digital Passports",
+    "slug": "interplanetary-id-system-digital-passports-8hbp3",
+    "description": "PLANET EARTH Digital Identity - Putting ID Passports on a New Blockchain of Planet Earth.  Planet Earth Identity Wallet System--> Proof of Identity --> Planet Earth Digital Passports",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChessBet",
+    "slug": "chessbet-71izk",
+    "description": "A website that allows users to bet on live chess games.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Continuum",
+    "slug": "continuum-rrbcm",
+    "description": "Continuum is a decentralized application using which users can buy crypto using systematic investment process.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFTickets",
+    "slug": "nftickets-1g41g",
+    "description": "A dapp where tickets are sold as NFTs. They are exclusive. Any and all types of events can be listed. Users earn royalties through referrals.",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "uyxnw",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "NFTEscrow",
+    "slug": "nftescrow-0uvni",
+    "description": "This project is a P2P trustless NFT transfer app using Moralis SDK",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unifolio",
+    "slug": "unifolio-hd9af",
+    "description": "View all of your coins and NFTs, across all your wallets, on a single page.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Interesting Bridge",
+    "slug": "interesting-bridge-j3gmu",
+    "description": "Next Generation Bridge which provides 2X Leverage for Crypto Assets",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "StreamDeposits",
+    "slug": "streamdeposits-th5hw",
+    "description": "This is an application that allow users to deposit funds into DeFi protocols using superfluid's streams",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "What's The Plan?",
+    "slug": "whats-the-plan-5q3d4",
+    "description": "Say bye to scribbled notes, abandoned plans or the never ending search for the perfect hangout spot. WTP(What's the plan) is a one-stop planning platform that allows you to search, make lists, share, and even earn credits.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyFinance",
+    "slug": "polyfinance-sb07x",
+    "description": "All-in-one DEX platform for Decentralized Finance . We want to provide seamless experience of Defi platform to people in Web3( they will able to do everything from one single platform).",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Lucky By Chance",
+    "slug": "lucky-by-chance-es52i",
+    "description": "Decentralised reward distributor, lottery etc with Luck By Chance Dapp.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Hotel Booking",
+    "slug": "decentralized-hotel-booking-kdssi",
+    "description": "Decentralized Dapp for Hotel Booking and you can rent out your place by connecting wallet",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentralisedCoupons",
+    "slug": "decentralisedcoupons-n9zpn",
+    "description": "NFT-ising consumer coupons. The goal of this project is to create a complete ecosystem around the coupon creation and redemption for all companies.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoneX11",
+    "slug": "cryptonex11-y6xym",
+    "description": "A provably-fair and verifiable randomly minted collection of 145 NFTs",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Apes 2 Punks",
+    "slug": "apes-2-punks-v8gt5",
+    "description": "Apes 2 Punks are dynamic, on-chain generated, evolutional NFTs. The Apes are living on the blockchain and evolving as time passes.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DinoPixaverse",
+    "slug": "dinopixaverse-j03k0",
+    "description": "Play with your favourite dino, collect items as NFTs, use existing NFT to skin the dino",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Cyber Matrix",
+    "slug": "cyber-matrix-hwywy",
+    "description": "This project uses a browser plug-in and website to make NFT mint and trade easier for Web 2.0 users",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Karma Coin",
+    "slug": "karma-coin-s066v",
+    "description": "More good you do, more you get back. Donate 1 matic to charity and get 1 karma coin.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "coshare",
+    "slug": "coshare-aqzyd",
+    "description": "An app to share videos that are published on Polygon. This means it cannot be taken down.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "kliq.club",
+    "slug": "kliq-club-d4h8w",
+    "description": "Kliq gives creators and their communities a mobile first zero knowledge platform to create their own digital economy and grow together",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Snake3.0",
+    "slug": "snake3-0-y3hzi",
+    "description": "A classic snake game with a ranking system and NFT implementation",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFTPledge",
+    "slug": "nftpledge-4t7c1",
+    "description": "I've been experimenting with representing a legal agreement as ERC721 token",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Travel and Tour Assistant",
+    "slug": "travel-and-tour-assistant-9rrxh",
+    "description": "A Travel Assistant DApp that users can rely on to get information from google maps for places, hotels, restaurants,s, and cool tourism sites.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Polygon NFT Stats",
+    "slug": "polygon-nft-stats-0i6ks",
+    "description": "Polygon NFT Stats, The main idea behind this project to showcase what's actually happening inside the market in terms of NFT transactions, NFT collections, unique wallets and NFT growth.",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "My First NFT",
+    "slug": "my-first-nft-8w9ps",
+    "description": "NFT Onboarding and Education for non-crypto natives, beginners and skeptics",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Superfluid: Bi-directional Flow Agreement",
+    "slug": "superfluid-bi-directional-flow-agreement-vhbc0",
+    "description": "A derivative contract that uses Superfluid's Constant Flow Agreement (CFA) protocol.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyJokes",
+    "slug": "polyjokes-x8r7i",
+    "description": "You're so funny... it's about time to own your jokes thanks to this decentralized app on Polygon.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Portfolio tracker (Android app)",
+    "slug": "nft-portfolio-tracker-android-app-uagfu",
+    "description": "A Native android app that shows all the NFT collections of users in their fingertips.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "HealthChain",
+    "slug": "healthchain-atq0h",
+    "description": "Make a blockchain based solution to address any issues in Healthcare.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rill",
+    "slug": "rill-8na31",
+    "description": "Rill is a platform that will be used for e-sport tournaments. Players get rewarded instantly or after a gameround has been concluded and distribute prizes depending on their achievements",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "LOCK3R",
+    "slug": "lock3r-drf6k",
+    "description": "An on-demand Smart Locker service running on Polygon Smart Contract!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "ZK Commitable NFT",
+    "slug": "zk-commitable-nft-qsw31",
+    "description": "Commit to a hidden subset of your owned NFTs for on chain gaming!",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyMarket",
+    "slug": "polymarket-ibz3s",
+    "description": "General NFT Marketplace for polygon protocol with moralis framework",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "De-Pay",
+    "slug": "de-pay-8wor8",
+    "description": "A simple peer to peer payment Dapp that supports multiple tokens",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Global Explorer",
+    "slug": "nft-global-explorer-8y1w6",
+    "description": "NFT Global Explorer - NFT Dashboard displays all collection data addresses and their market data and minting Nft",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "NFT Lending Pools",
+    "slug": "nft-lending-pools-zr7kh",
+    "description": "NFT Lending Pools creates more value for NFT collectors by giving them the ability borrow USDC using their NFTs as collateral.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "ZKDP",
+    "slug": "zkdp-30roi",
+    "description": "ZKDP - You can join NFT holder limited events without revealing your address",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Upcoming Sports Stars",
+    "slug": "upcoming-sports-stars-4k6hz",
+    "description": "This project allows fans to support their favorite upcoming sports  stars.",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "0xSamurai",
+    "slug": "0xsamurai-vynaj",
+    "description": "Generate personal tokens that enable young challenger raise their funds.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DonateDAO",
+    "slug": "donatedao-u4qfd",
+    "description": "Smart Contract solution to pledge a certain amount of $ to a non-profit when your portfolio reaches a limit",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Gibble",
+    "slug": "gibble-ym35b",
+    "description": "Manage ETH donations and explore unique fundraising opportunities as part of a transparent, future-forward giving community.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "uyxnw"
+    ]
+  },
+  {
+    "name": "LearnDAO",
+    "slug": "learndao-6pi8n",
+    "description": "We are creating LearnDAO which is build by the developers for the developers. Devs can join the DAO, write educational content and get incentives for doing so from DAO’s treasury. DAO members votes on which tutorial/edu content to be accepted and get incentives in tokens.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Watch 2 Earn",
+    "slug": "watch-2-earn-3ipon",
+    "description": "Watch2Earn rewards customers for watching online advertisements. Businesses create campaigns for new products they wish to promote. While consumer is rewarded with NFT voucher which allow him to claim merchandise from the advertiser driving customer brand loyalty",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "SparkFi",
+    "slug": "sparkfi-h3wkr",
+    "description": "A Decentralized Crowdfunding platform to kickstart new ideas",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "wgmi.id",
+    "slug": "wgmi-id-hp2po",
+    "description": "Bring your Web 3 identity wherever you are online with wgmi.ID. One brandable address to showcase who you are across Web 2 and 3.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Polysign",
+    "slug": "polysign-06s2w",
+    "description": "Polysign is an esignature collection platform backed by IPFS and Polygon smart contracts",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "i90pd",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Cygnus Zero",
+    "slug": "cygnus-zero-iiuhg",
+    "description": "I have created a game that connects to a web3 wallet (Metamask).",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "One Bit Friends",
+    "slug": "one-bit-friends-issg0",
+    "description": "Create one bit characters using an editor and store them on-chain.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "halla",
+    "slug": "halla-btjnj",
+    "description": "Twitter with better censorship. With smart contracts, users can coordinate with their ingroup to select which of their content is made public.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tweet@Polygon",
+    "slug": "tweet-polygon-aj8qu",
+    "description": "Own any tweet as an NFT @Polygon display in a Dapp and query in Discord with a BOT",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Non-Fungible Bets",
+    "slug": "non-fungible-bets-bnz27",
+    "description": "Betting platform that awards exclusive NFTs for selected sporting events on top of the prize money for the highest bettors.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "dPatreon",
+    "slug": "dpatreon-h6jwr",
+    "description": "Decentralized platform allowing developers/creators raise fund without middleman",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Prezzy Cards",
+    "slug": "prezzy-cards-03tdx",
+    "description": "The Prezzy Cards is a cards issuance protocol that enables users to mint NFTs as any kind of cards",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "0xcorgis",
+    "slug": "0xcorgis-j08mz",
+    "description": "Decentralized Doulingo + Microsoft Clippy that would make documentation into a play-to-earn game.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Emergent Engine - Synchronicity",
+    "slug": "emergent-engine-synchronicity-edvpk",
+    "description": "Emergent Engine - Synchronicity is a proof-of-concept, decentralized, chain-native, state and computation engine built to power the metaverse. Together we manifest emergent metaverse metaphysics from collective cryptonautic consciousness.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "iCHiBA",
+    "slug": "ichiba-oppwd",
+    "description": "A Marketplace for tokens and exchange in the web3 space using latest from NEXT.js for frontend running on polygon and IPFS storarge.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "On Chain NFT from Scratch",
+    "slug": "on-chain-nft-from-scratch-ubbkg",
+    "description": "This project provides a way to convert an SVG photo to a on chain NFT that can be used a profile picture.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "super-nft-pool",
+    "slug": "super-nft-pool-ws1jg",
+    "description": "SuperNFT is a platform where you can receive money streams for your NFT, and bid on others NFTs for a chance to win from the pool prize",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f8ku2",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "RobinMania",
+    "slug": "robinmania-kpizg",
+    "description": "A 2D RPG game where the player discovers treasures and is able to mint them and then buy/sell to others.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "ProjectPlant",
+    "slug": "projectplant-i7sar",
+    "description": "ProjectPlant would allow community gardeners and aspiring non profit starters to fundraise before having the backing of a board, and allow community to  have ownership in the efforts",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Transparent NFTs v2",
+    "slug": "transparent-nfts-v2-8zqgn",
+    "description": "A multi-chain interface explorer, to make NFTs available to people with disabilities",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Scribe",
+    "slug": "scribe-vfusn",
+    "description": "A compact transpiler to convert Yul code to the Polygon Miden VM.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Metaplex",
+    "slug": "metaplex-9ss0t",
+    "description": "Visualise your NFT, with superpowers in your metaverse, with great powers comes great responsibility",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "deShare",
+    "slug": "deshare-r56tb",
+    "description": "deShare is a new sharing platform to share thoughts, projects, and ideas. It is decentralized, on polygon chain.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Fundmatic",
+    "slug": "fundmatic-xs42g",
+    "description": "A crowdfunding paradigm to promote campaign planning and reduce risk.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PolyBees",
+    "slug": "polybees-b0zhd",
+    "description": "Web3 escrow service to pay influencers for completed work in web2. Eliminate fraud from influencer marketing with help of web3 technologies.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT IP License Builder",
+    "slug": "nft-ip-license-builder-8cxxu",
+    "description": "NFT IP License Builder - DApp that helps adding IP licenses to any new NFT contracts",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Stroller Protocol",
+    "slug": "stroller-protocol-3x6sy",
+    "description": "Stroller Protocol is a Top Up service built on SuperFluid, Chainlink and Moralis for the Super Tokens which doesn’t restrict users to wrap all their precious assets without earning from them.",
+    "event": "Road to Web3",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "qy8m3",
+      "f8ku2",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Beat&Buddy",
+    "slug": "beat-and-buddy-wavv1",
+    "description": "An online music streaming service allows user to listen, share and upload their own music.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DspytAI",
+    "slug": "dspytai-y2ut9",
+    "description": "First Uniswap centered Dapp that utilizes on-chain data to model potential price fluctuations in real-time.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Delta Racers",
+    "slug": "delta-racers-gndot",
+    "description": "Delta Racers is an experimental Game similar to Zed run where cryptocurrency prices affect the functioning of the User built NFT Car. People can enter races and win a prizes if they come in the first 3 spots.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "bundlr",
+    "slug": "bundlr-czxzo",
+    "description": "bundlr can create on-chain loot boxes/bundles which can be redeemed and traded, built for WEB3 Games",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DeIP",
+    "slug": "deip-1668z",
+    "description": "Allow artists to generate NFTs of their work, and have a crowdfunding function that will allow contributors a percentage of future royalty payments to be earned, based on initial donations.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReGIST DAO",
+    "slug": "regist-dao-8q404",
+    "description": "A platform to license, verify and register your brand, technology, patent, copyright, trademark etc. and monetized it on the blockchain.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Little Rooms",
+    "slug": "little-rooms-k1kvq",
+    "description": "Little Rooms is an NFT that you can decorate and customize and that can be viewed and interacted with on Opensea",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyTribe DAO",
+    "slug": "mytribe-dao-ao048",
+    "description": "Web3.0 powered e-commerce that tokenizes the store ownerships and gives out weighted dividends to hodlers",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Tree Poetry NFT’s airdrop coin and NFT reward",
+    "slug": "tree-poetry-nfts-airdrop-coin-and-nft-reward-sp00r",
+    "description": "I'm creating a Dapp to airdrop NFTs’ holders with token ingame currency to spend for more NFTs that aid charities",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Michi",
+    "slug": "michi-qkwye",
+    "description": "Michi is a decentralized course marketplace, where all the courses are stored as NFTs and the content streamed from IPFS",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Townsland",
+    "slug": "townsland-cr30o",
+    "description": "We want to create interactive NFTs and bring a pinch of gaming experience into common NFTs world.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Dpots",
+    "slug": "dpots-7yxuf",
+    "description": "Dpots is a one stop platform for sharing crypto collection between people for any event. you can use it for everything from friends birthday party funds or your businesses funds.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Tripleeet",
+    "slug": "tripleeet-89gk5",
+    "description": "Tripleeet is a Patreon for Web3. Build a community of tripleeet. Streaming crypto memberships with NFT badges for member benefits. Creators get their own token which streams to Tripleeet as a reward.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Yogaverse",
+    "slug": "yogaverse-7c154",
+    "description": "A global yoga community for the  real word and the metaverse!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Metafied",
+    "slug": "metafied-d3ah1",
+    "description": "A Gaming Platform, where players can earn rewards and then convert them to NFTs, which are interoperable between different games inside the ecosystem.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "MetaNation - Luxury Used Car Marketplace",
+    "slug": "metanation-luxury-used-car-marketplace-c4uq0",
+    "description": "MetaNation is a decentralised used luxury car marketplace where people can trade or rent cars.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Meet",
+    "slug": "meet-g2j2k",
+    "description": "Live streaming app for conferences, parties and other events conducted via video call or livestream",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "mew2earn",
+    "slug": "mew2earn-uec0x",
+    "description": "Web3 pokemon battle metagame forked from a game with 100k DAU",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "zxd3n"
+    ]
+  },
+  {
+    "name": "prana:",
+    "slug": "prana-fqs4g",
+    "description": "An ebay-like ebook publishing platform based on NFTs where users can buy, resell and rent their copies.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Web3chatservice",
+    "slug": "web3chatservice-0xtbf",
+    "description": "Real time anonymous communication plugin for Dapps for one to one real time communication",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Ollie Share",
+    "slug": "ollie-share-vioby",
+    "description": "A Dapp that enables NFT Creators to distribute revenues to all NFT owners dynamically even when there is a change of NFT ownership.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Gigs",
+    "slug": "nft-gigs-qj4mb",
+    "description": "A decentralized permissionless gig matketplace where anyone can post their products and services",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DecentralizedPromotions",
+    "slug": "decentralizedpromotions-z31zp",
+    "description": "Decentralization of Giveaways(hosting and participation), Learn to earn(about project), Promote to earn, Social profile managing platform  and Donation to social cause(buy a unique nft).",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hundi DAO",
+    "slug": "hundi-dao-eobpy",
+    "description": "A community based savings and reward platform (DAO version of Kitty Party and ROSCOE)",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RareKart",
+    "slug": "rarekart-63x4a",
+    "description": "RareKart is a shopify plugin which provides the capability to add wallet, discounts on basis of balance and mint the NFT's for physical purchase",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NextFrame",
+    "slug": "nextframe-i74tk",
+    "description": "NFT asset Marketplace which lets creators compose multiple NFTs and create a new usable contract that streams value when consumers consume it and compensates the NFT owners in realtime.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Mandi House",
+    "slug": "mandi-house-7v0xr",
+    "description": "Marketplace to Mint your Ideas and any Digital resources as NFT",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolygonBurn",
+    "slug": "polygonburn-p61ez",
+    "description": "Community Run Burning of Matic, burn matic get rewards in form of collectible NFTs, see insights on gas use patterns over time.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Tones",
+    "slug": "web3tones-crnht",
+    "description": "Web3Tones is an NFT marketplace of music and generative art .",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Fundrasing platform",
+    "slug": "fundrasing-platform-aeuqz",
+    "description": "Polyseed - fundraising project for social causes using web3 payment systems",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Comodi",
+    "slug": "comodi-tv96y",
+    "description": "The problem is the entire world's exchange of goods is still on web2. Meaning, businesses can't use web3 tech to leverage their most important assets- their products. A clear solution that can convert physical products to digital assets is needed to launch a web3 era.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "MintFolio",
+    "slug": "mintfolio-sfios",
+    "description": "MintFolio is a one-stop Dapp for all your NFT needs, Whether you are a dev, artist or a new collector. Our Dapp allows you to mint, burn, check rarity, sell, list, generate ... NFTs. Fork and launch your new NFT collection/project in minutes!",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yrwii",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "datreon",
+    "slug": "datreon-8222i",
+    "description": "Datreon is a decentralised platform where creators can showcase their artworks and the consumers can support their favourite artists and creators by tipping their work or directly donating to them.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Zenith",
+    "slug": "zenith-x2q8n",
+    "description": "An NFT collection deployed to polygon Network, frontend available to mint and view NFT stats",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Crypto Wordle",
+    "slug": "crypto-wordle-r8jry",
+    "description": "Play Crypto Wordle puzzle against real people to win real money",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Analytics Dashboard",
+    "slug": "nft-analytics-dashboard-kp2qx",
+    "description": "NFT Dashboard is a website to watch the nft market, create your own nft collections and mint them and display your nfts from your wallet.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Metacubes Wallet",
+    "slug": "metacubes-wallet-m8y6q",
+    "description": "This is a blockchain based application that provides banking services to users. Users can deposit, transfer, withdraw, borrow and swap digital currencies. It also provides functionality for decentralized organizational management.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Social Fundraiser",
+    "slug": "social-fundraiser-gqg3p",
+    "description": "A crowdfunding dapp for projects with funds being put in a time lock contract",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Alchemy",
+    "slug": "nft-alchemy-jrqmk",
+    "description": "A Web3 version of the popular game Little Alchemy, where players forge different tokens to mint newer ones",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Narval",
+    "slug": "narval-i9b3h",
+    "description": "A marketplace to borrow & lend productive gaming NFTs, aka the Guild of Guilds",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NiftyChat",
+    "slug": "niftychat-4buj1",
+    "description": "Web3 based Discord with Blockchain level authentication feature.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hello Anon",
+    "slug": "hello-anon-f9dxj",
+    "description": "Hello Anon are NFT based profiles that help you get to know Anons on the web3 discord groups",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Dashboard Bounty",
+    "slug": "dashboard-bounty-a1hp0",
+    "description": "A user dashboard to view user's wallet across multiple chains.  Also to view NFTs and coin data, for the user's wallet.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "MPTY",
+    "slug": "mpty-5rmkp",
+    "description": "MPTY is a curated fine art NFT platform with a twist: Art works are invisible and only reveal when donated to a museum.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Notum",
+    "slug": "notum-5dy2x",
+    "description": "A platform where universities can create non transferrable NFTS (NTTS) for college certificates and where the NTTS represent the ownership of the diploma to each student",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DocV Protocol",
+    "slug": "docv-protocol-mbu06",
+    "description": "DocV Protocol is a blockchain-based workflow for institutions and legal entities for certifying any documentation and verification flow.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Unio",
+    "slug": "unio-t6qcp",
+    "description": "Unio is a DEFI payment app that supports NFT Profile cards. Send any Token to anyone now, and they will receive what they want automatically using the power of UniSwap.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "CharacterHub",
+    "slug": "characterhub-ryv7g",
+    "description": "CharacterHub is a place where you can transfer and engage your beloved L1 NFTs in fields and games on L2",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QuickMint",
+    "slug": "quickmint-bf4ei",
+    "description": "NFT Generator for helping  the users to BUIDL their own NFT collection quickly.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockchain Investor Network",
+    "slug": "blockchain-investor-network-amzse",
+    "description": "The Blockchain Investor Network(BIN) connects startups with verified accredited investors in the blockchain space complying with new and evolving securities regulation.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SavePanther",
+    "slug": "savepanther-joq0e",
+    "description": "SavePanther NFT  An initiative to create awareness of endangered Panther species by creating unique Panther NFT Collectibles",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Events tickets",
+    "slug": "nft-events-tickets-4vnsy",
+    "description": "Event ticketing platform using NFTs. This project seeks to create a platform to move to Web3 a event ticketing service.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFTCal",
+    "slug": "nftcal-oiu4m",
+    "description": "NFTCal provides an easy way for creators to share calendars and schedule meetings with NFTs. This will also give creators a way to increase the utility of NFTs by not giving their fans a way to engage with them but also, monetizing their time!",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTThirdYou",
+    "slug": "nftthirdyou-0t40c",
+    "description": "The ability to mint your NFT. OnBoard 2.0 users into a Web 3.0 experience.  - **Convenient** For people who is not crypto savyy. - **Secure** Web3Auth using Google Login and MetaMask Login - **Innovative** Few options out there to do this.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Nugao",
+    "slug": "nugao-si1yt",
+    "description": "Strategic Blockchain Game on Polygon that tests player's ability to predict and counter opponent's moves.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DEXPort",
+    "slug": "dexport-ndfhq",
+    "description": "Make history of DEX trader transparent.  Learn, improve and share with your friends",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Go Ape Into It",
+    "slug": "go-ape-into-it-9a9k2",
+    "description": "Want to reach a goal? Set a deadline, an amount of crypto. If you fail, you pay.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "FluidAds",
+    "slug": "fluidads-aqmom",
+    "description": "Polygon based real time payment display ad network with fully d",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Layeralize",
+    "slug": "layeralize-g76hi",
+    "description": "Deploy layer-based NFTs collections on Polygon Mumbai. Your ERC-1155 NFT Collection listed on OpenSea (testnet) as far as you can use the webapp!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Neptune Halo",
+    "slug": "neptune-halo-mxzxb",
+    "description": "Implementation of Prize-linked savings account on Polygon Chain.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Donation-DAO",
+    "slug": "donation-dao-s0b1i",
+    "description": "A censorship-free, decentralized crowdfunding platform built for transparency",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Crypto Recycling Machine",
+    "slug": "crypto-recycling-machine-mg0pz",
+    "description": "Crypto Recycling Machine - A PoC of the bottle recycling machine which pays in crypto",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Decentralized Notice Board",
+    "slug": "decentralized-notice-board-hts9e",
+    "description": "This Decentralized Notice Board is used for mainly post notices by colleges and schools .",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "freedomland",
+    "slug": "freedomland-eh9rs",
+    "description": "freedomland - democratizes real estate by improving accessibility for everyone.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "WooCommerce NFT",
+    "slug": "woocommerce-nft-o50rw",
+    "description": "This project is a plugin to sell and mint NFTs from WooCommerce Products, it remplaces the default WC downloads panel from where you can see and transfer your current NFTs",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FiveToken with Polygon",
+    "slug": "fivetoken-with-polygon-1ewhe",
+    "description": "FiveToken offer a professional encrypted multi-sig wallet with services including asset management tools for miner node creation, owner alteration, and fil transaction and cluster status monitoring tool, support filecoin to link other chains to build seamless interoperability.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hashscan",
+    "slug": "hashscan-rw5ay",
+    "description": "Hashscan is an aggregated web3 user analytics. It's focuses on users rather than protocols. It allows to compose user segment from on-chain activity and get event-based analytics for that segment",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Enershare",
+    "slug": "enershare-qfcqg",
+    "description": "Enershare is a platform to invest in renewable energy projects through security tokens.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Yieldboard",
+    "slug": "yieldboard-iwuco",
+    "description": "Yield Farming Dashboard for DeFi Degens to tract their earnings.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "0xTree",
+    "slug": "0xtree-zv460",
+    "description": "0xTree bridges Web2.0 social networks with emerging Web3 digital assets. 0xTree is inspired by Linktr.ee providing a gallery, marketplace and social homepage all in one space.",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "zxd3n",
+      "yrwii"
+    ]
+  },
+  {
+    "name": "Dostana",
+    "slug": "dostana-jrdi3",
+    "description": "an privacy preserving recommendation service  and infrastructure for the future  of web3 based advertisement  .",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTFaciem",
+    "slug": "nftfaciem-z0q26",
+    "description": "Convert your image into NFT and this NFT can be your login details",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyBingo",
+    "slug": "polybingo-btpsw",
+    "description": "PolyBingo  - A number calling game styled as a slow casino. Now Play Bingo on the Blockchain!",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "DeTweet",
+    "slug": "detweet-q1ptd",
+    "description": "This project aims to develop the decentralized version of social media- Twitter. Basic features like tweeting, liking tweet, creating user profile , following other users etc are slated for the MVP",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Tippy",
+    "slug": "tippy-ux3fd",
+    "description": "A platform for content creators to receive tips from their fans and in turn make an exclusive relationship with them.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Transfer Market",
+    "slug": "nft-transfer-market-rrowm",
+    "description": "A NFT market place you can swap your NFTs with anyone else in the world.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DSI Protocol",
+    "slug": "dsi-protocol-uu5cd",
+    "description": "Decentralized social identity Protocol for Dapps to easily onboard users free of cost.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DecentraBlog",
+    "slug": "decentrablog-e14f6",
+    "description": "A  simple blogging website on Polygon (Matic). The dapp allows users to visualize their name, biography and the feed of all the posts. The user can also publish posts.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Charity Casino",
+    "slug": "charity-casino-0xkip",
+    "description": "Charity Casino uses the power of web3 to reliably send profits from chance games to charity, turning gambling addicts into philanthropists using Polygon and Chainlink.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DPMI",
+    "slug": "dpmi-gv3cj",
+    "description": "A distributed version of DOI/CrossRef, i.e. a way to assign numerical identifiers to media works to find metadata and backlinks.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nftherium_Side_Scroller",
+    "slug": "nftherium-side-scroller-kvsqt",
+    "description": "GAME BASED ON BLOCKCHAIN LOGIN INTO METAMASK, the game was expected to login into wallet and fetch the nfts.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TokenComrade",
+    "slug": "tokencomrade-tr2a6",
+    "description": "Create event tickets, mint them on the site, and scan them at the event.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Construction DAO",
+    "slug": "construction-dao-vwtuf",
+    "description": "A DAO for the Construction Industry.  Members of the DAO can submit and vote on proposal.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "mETH",
+    "slug": "meth-n7j13",
+    "description": "DAO for deciding how donations should be distributed to beneficiaries",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Link",
+    "slug": "nft-link-xqkd2",
+    "description": "Embed an NFT into a url and send it to anyone with ease using magic links",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bounty",
+    "slug": "bounty-43n6z",
+    "description": "Inverted Kickstarter. Fans propose bounties and contribute funds for their favorite creators, with all disbursement in the form of on-chain voting.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Poly Care: A Web3 Healthcare Marketplace",
+    "slug": "poly-care-a-web3-healthcare-marketplace-eqnv2",
+    "description": "The future Web3 healthcare marketplace, built on the Polygon network.  The project uses the current United States healthcare system and applies smart contracts and tokenized plans to build a faster, healthier,  less expensive, yet more lucrative system.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PyramiDAO",
+    "slug": "pyramidao-aoxvu",
+    "description": "PyramiDAO is a novel dapp that allows users gain leveraged exposure to undercollateralized assets through Total Return Swaps it facilitates, which before now has been impossible in DeFi.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DSC Score Keeper",
+    "slug": "dsc-score-keeper-i6h20",
+    "description": "An Interscholastic Track and Field Discus decentralized Score Keeper App that leverages Web3 Authentication and NFTs",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Spheres",
+    "slug": "spheres-sjejc",
+    "description": "Creating a social space for members of NFT collections to interact with each other",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "wayval",
+    "slug": "wayval-1qq55",
+    "description": "Mint an ERC-721 representation of an account's assets to provide verifiable account information (wallet validation).",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Web3 Comic Blocks NFT",
+    "slug": "web3-comic-blocks-nft-9ejhx",
+    "description": "Dapp which users can create their own comic-like NFTs and mint to the Polygon chain",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "City Passport",
+    "slug": "city-passport-qr36o",
+    "description": "Retroactive funding dashboard for the Cities Protocol development",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Sweetgum",
+    "slug": "sweetgum-d2ng6",
+    "description": "Sweetgum is a carbon inclusive ecosystem where individuals can participate in gamified carbon offset projects on blockchain and monetize personal carbon reduction. We are building Web 3 infra for carbon market.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Vegalabs",
+    "slug": "vegalabs-zmqcb",
+    "description": "On-chain risk management for DeFi apps. We assess an economical impact of every transaction for a better protection. Contact us: [email protected]",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "OnlyDefans",
+    "slug": "onlydefans-7u7jq",
+    "description": "A subscription social platform for sharing private content for crypto. Works on Polygon Blockchain",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MintGuard",
+    "slug": "mintguard-p2j78",
+    "description": "Anti-scam web extension to detect NFT scam sites and scammy addresses",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "TXN Carbon",
+    "slug": "txn-carbon-nt3aa",
+    "description": "TXN Carbon shows the carbon cost on the environment of each transaction.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "StackUp",
+    "slug": "stackup-552qv",
+    "description": "A pool based crypto Defi App, a smart way to borrow and save",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Fractionalized NFT Portfolio Analysis Tool",
+    "slug": "fractionalized-nft-portfolio-analysis-tool-i794i",
+    "description": "A site that allows a user to connect their metamask and view a gallery of all their NFT's + more",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "DropIt",
+    "slug": "dropit-itubo",
+    "description": "DropIt -  a NFT mint and drop manager tool to distribute NFTs fast and easily.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Coyotl",
+    "slug": "coyotl-u6go1",
+    "description": "Dynamic NFT that changes data and visualization based on Chainlink oracles",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT-Personalized",
+    "slug": "nft-personalized-e7x8b",
+    "description": "A Hub for Personalized NFT collection for NFT Creators and Traders",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyPortal",
+    "slug": "polyportal-ckvvm",
+    "description": "PolyPortal is a Web3 On-Boarding Platform for interacting with DApps on Polygon",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "026zc"
+    ]
+  },
+  {
+    "name": "NFTTickets",
+    "slug": "nfttickets-bc4f5",
+    "description": "We are working on a ticket service that allow anyone to create a batch of tokens that act as tickets for a given event.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "The Oyster",
+    "slug": "the-oyster-bbxcz",
+    "description": "The Oyster is a designer objects marketplace where each purchase is rewarded by an NFT",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Embark",
+    "slug": "embark-cicgf",
+    "description": "Embark! upon your inevitable Web3 journey.  From newsletters specifically curated for beginners to getting airdropped your very first NFT all for the grand fee of $free.99. Experience it all with us at Embark!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "oMatcher",
+    "slug": "omatcher-y8jc8",
+    "description": "For this phase we strive to offer limit trade orders that can use the same token funds on multiple offers, for example to catch a price dip among multiple target assets.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Twinter",
+    "slug": "twinter-kb7ff",
+    "description": "The idea of this app is that people can paste their own twitter profile, image they want to convert to NFT that they want their followers to get, and go.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AFRIDEX",
+    "slug": "afridex-nv29j",
+    "description": "Decentralized exchange like UniSwap & SushiSwap using Moralis and OneInch.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTREON",
+    "slug": "nftreon-xxkzr",
+    "description": "A NFT project for creators, mostly artists to interact with their fans, sell their contents as NFTs and also receive donations and support.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Organik DAO",
+    "slug": "organik-dao-srob6",
+    "description": "Organik DAO is a Funding DAO built on Polygon. Farmers get their projects funded with MATIC and Sponsors get rewarded with Organik Tokens. Sponsors can trade these Tokens for free Food, Education and Lodging within their local communities. An OSS DAO built for future generations.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "SettleFirst",
+    "slug": "settlefirst-tqqbj",
+    "description": "DAO Infrastructure for Talent, Events and Business Management",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Meedayu",
+    "slug": "meedayu-c09s4",
+    "description": "A photo sharing social media dApp with NFT functionality. Meedayu takes the concept of a web2 social media and enhances it with web3 features",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "CryptoBaskets",
+    "slug": "cryptobaskets-zmbtn",
+    "description": "Our DApp CryptoBaksets allows retail investors to invest in custom thematic baskets and Dollar Cost Average their Crypto Investments with the click of a single button!",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "026zc"
+    ]
+  },
+  {
+    "name": "LeaseNFT320",
+    "slug": "leasenft320-fwbtz",
+    "description": "LeaseNFT320 is a protcol implementation of collateral based lending of NFT. Using our protocol, anyone can rent NFT for a specified collateral and rental price for a set duration. We hope to make renting NFT feature available on all NFT marketplaces.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Well Done!!",
+    "slug": "well-done-umvax",
+    "description": "You stake your chain's native currency and complete some task daily, so you get back your stake.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Repurposing",
+    "slug": "nft-repurposing-f9r9x",
+    "description": "Combine a users “Junk Drawer” of NFT’s into literal “Collectable” and find a way to add some game dynamics.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Cryptolancer.in",
+    "slug": "cryptolancer-in-svary",
+    "description": "Cryptolancer.in a decentralized freelancer Marketplace on L2 ecosystem like polygon.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Midas Test",
+    "slug": "midas-test-bdynr",
+    "description": "A decentralized prototype and designs testing platform where testers get paid for their contribution to product designers",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Hodefy: The real estate NFT marketplace",
+    "slug": "hodefy-the-real-estate-nft-marketplace-5s9t6",
+    "description": "Global marketplace to accelerate transactions and improve the traceability of the purchase, sale and lease of real estate through blockchain technology in order to ensure a greater transparency in any operation involving an exchange of ownership of real estate.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TaiShangWorldGenerator",
+    "slug": "taishangworldgenerator-pmp50",
+    "description": "The random map generation currently available on the market is done off-chain to generate a random map.This project decided to start from this point, on-chain data that can not be tampered with data will be the seed for the generation of abstract maps.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Non-Fungible Travel",
+    "slug": "non-fungible-travel-e1g29",
+    "description": "Non-Fungible Travel is a service that travelers can mint memorial NFTs. The NFTs include metadata such as a photo and a map. Let's engrave your travel memories on the blockchain!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Event Loupe",
+    "slug": "event-loupe-nytd1",
+    "description": "There are plenty of events being emitted every block. You can see them all, but what if you are interested in specific type of event? Or you're looking for events related to specific token?  We solve this problem, making the blockchain world a bit friendlier for users!",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lore",
+    "slug": "lore-zo7id",
+    "description": "Lore a project onboarding interactive experience built on Polygon, Livepeer, Moralis, NFTPort and Covalent!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Map - Mint NFTs of Pictures on a Map",
+    "slug": "nft-map-mint-nfts-of-pictures-on-a-map-p7noz",
+    "description": "The fastest way to take a picture and upload it as an NFT to be viewed on a global map of the world!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "MaxBeth",
+    "slug": "maxbeth-3roz3",
+    "description": "Decentralize and develop a new way of online gambling where players own, visualize and exchange their bets like NFTs",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Adopt",
+    "slug": "adopt-mba53",
+    "description": "We’re building a Dapp that will quickly and clearly onboard beginners to the basic Web3 tools.  Let Web3 adopt you!",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NEX",
+    "slug": "nex-20ret",
+    "description": "NEX is a novel trustless NFT-to-NFT exchange, here two people can exchange their NFTs with ease.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Debuy",
+    "slug": "debuy-tk7d0",
+    "description": "Decentralised e-commerce service based on escrow smart contract design pattern.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "HubbaHubbaNFT",
+    "slug": "hubbahubbanft-zkbiz",
+    "description": "HubbaHubbaNFT is a Proof of Attendance token generating a digital badge",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WAGSI Discord Bot",
+    "slug": "wagsi-discord-bot-eao2h",
+    "description": "Discord bot to host and authenticate subscription-based paid communities powered by crypto payments.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Looker",
+    "slug": "nft-looker-oy01t",
+    "description": "NFT Looker is a simple way to view NFTs for wallets on Polygon.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Lever Finance: Compliant Lending on Polygon",
+    "slug": "lever-finance-compliant-lending-on-polygon-z7yf4",
+    "description": "Lever is a low fee compliant lending platform on Polygon with Molecule Protocol",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Altima Cards",
+    "slug": "altima-cards-appf1",
+    "description": "Altima Cards is a super addictive strategic NFT trading card game on the Polygon blockchain.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "LingoSwap",
+    "slug": "lingoswap-b6ohs",
+    "description": "LingoSwap is a new educational DAO which provides Learn2Earn app. You can earn money while you either teaching or learning.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Agora - Automation for Web3",
+    "slug": "agora-automation-for-web3-w0wbd",
+    "description": "Agora is an NFT marketplace with bot automation of all NFT management operations. It has mainly 2 components, Agora-web, which is a web based NFT marketplace with seed-phrase less Sequence wallet & Agora-bot, which is a Telegram bot for performing all NFT management operations",
+    "event": "Road to Web3",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "5 AM Clapp",
+    "slug": "5-am-clapp-gknq0",
+    "description": "Five AM Clapp is an application that helps users stay motivated for commitments such as waking up at 5 A.M.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gurukul DAO",
+    "slug": "gurukul-dao-xehnw",
+    "description": "Decentralized, Crypto based online educational platform. Create, Learn and Earn Courses like never before!",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Buckets",
+    "slug": "buckets-ackc3",
+    "description": "Buckets is a one-of-a-kind NFT marketplace that allows users to invest in the liquidity of the NFT market. We provide the ability for NFT holders to fractionalize their NFTs, other users to own fractionalized NFTs, and offer investment in a brand new DeFi security: NFT Buckets!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "2sq.xyz",
+    "slug": "2sq-xyz-c576s",
+    "description": "2Sq is a project that creates a homepage for NFT holders to post content and connect with their community.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "yrwii"
+    ]
+  },
+  {
+    "name": "BornToday",
+    "slug": "borntoday-j9tto",
+    "description": "A NFT  lootbox  to celebrate when your baby is born. BornToday!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Sociofy",
+    "slug": "sociofy-bct1j",
+    "description": "Sociofy is a social media platform for NFTs. Currently beginners find it very difficult to search for genuine and meaningful NFTs. Learning from other users on what they are buying and holding can be a game changer for how NFTs are traded.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Web3 LEarn",
+    "slug": "web3-learn-qxg4a",
+    "description": "An online interactive platform that offers free Web3 courses.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlogStream",
+    "slug": "blogstream-3j0dw",
+    "description": "We are making a BlogStream where users will only pay for what they read. And hence the money will be directly sent to authors account. So this helps support genuine writers.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Tulip",
+    "slug": "tulip-a9y5p",
+    "description": "Movie ticket booking platform that lets users book their movie tickets as NFTs",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Blaze",
+    "slug": "blaze-1ndo0",
+    "description": "polygon mobile wallet, make it for people to move to stable tokens on polygon and earn profit by joining uniswap pools",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Slabbed",
+    "slug": "slabbed-bdbjo",
+    "description": "Creates a slabbed NFT from provably owned NFTs across multiple chains onto Polygon, factoring in numerous quality related attributes; imitating PSA from traditional trading cards",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "POMPOM",
+    "slug": "pompom-1wdbx",
+    "description": "POMPOM is a Proof Of Meeting recording service hosted on polygon blockchain that helps users to register their worth mentioning meeting records",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "CrypTrip",
+    "slug": "cryptrip-e3or2",
+    "description": "A web3 based loyalty app around tours and travels leveraging the utility of NFTs to enhance user experience.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PlayNFT",
+    "slug": "playnft-285hz",
+    "description": "We are a cross-chain NFT utility platform. PlayNFT connects NFT holders and NFT Collection creators to in-game content of blockchain enabled games.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "LimiDEX",
+    "slug": "limidex-xstzs",
+    "description": "DEX Aggregator with Trade2Earn mechanics and PRO trading tools",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IStoleThis",
+    "slug": "istolethis-f499e",
+    "description": "IStoleThis NFT and all I got was a poo NFT. Right-Click stealing has never been as fun!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Asset Zoo",
+    "slug": "asset-zoo-q8qeq",
+    "description": "Application that allows anyone to invest in a predefined portfolio of cryptos (like an ETF)  quickly and easily.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Contractlist",
+    "slug": "contractlist-9fpvx",
+    "description": "Contractlist is a service providing a comprehensive list of smart contract addresses of popular DApps and Protocols",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Minty.art",
+    "slug": "minty-art-ogkhy",
+    "description": "Minty is a community driven NFT marketplace with rewards on Polygon",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "The Loan Stream",
+    "slug": "the-loan-stream-vp2cc",
+    "description": "A DeFi protocol which allows DAOs with large treasuries & other DeFi users to collateralize their treasuries, and take out loans in the form of streams – without having to sell assets to do so!",
+    "event": "Road to Web3",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "qy8m3",
+      "f8ku2",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Referrer NFT",
+    "slug": "referrer-nft-s2can",
+    "description": "List your NFT,  get rewards for shilling your NFTs -> The new affiliate marketing in Web 3",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "High Five Rewards Program",
+    "slug": "high-five-rewards-program-uc4vu",
+    "description": "A marketplace platform for rewards and community building. Helps shops/sellers create dynamic and fun rewards using NFTs and crypto assets, and it helps buyers find relevant rewards programs they can use everywhere, easily and in a fun way.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "GazellePay",
+    "slug": "gazellepay-92zpc",
+    "description": "GazellePay is the GoFundMe for Opensource entities built on the web3 ecosystem.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Imaginary",
+    "slug": "imaginary-xd8mr",
+    "description": "Unique Lending/Liquidity Protocol - Use an asset and it's value independently.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Fluidium",
+    "slug": "fluidium-dsn5c",
+    "description": "Fluidium, a Dapp Hackathon project that aims to create the right tool to engage mass adoption of money streaming by providing users the ability to stream money to phone numbers.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HabitCult",
+    "slug": "habitcult-nekm7",
+    "description": "A decentralized protocol to build/break habits and communities around them",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Web3 Influencer Marketplace",
+    "slug": "web3-influencer-marketplace-rmyow",
+    "description": "On-chain marketplace to source & hire influencers. NFT & Web3 projects should have access to an open, transparent marketplace for hiring an influencer.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liverse",
+    "slug": "liverse-1wbze",
+    "description": "Using superfluid auction method, winners image will be displayed on the decentraland billboard.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BrandAid",
+    "slug": "brandaid-9wwhq",
+    "description": "BrandAid is a Web 3.0 AdTech platform for Advertisers to run NFT-based ad campaigns across popular gaming/metaverse publishers! Using BrandAid, brands can mint NFTs and setup campaign smart-contracts.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "3SAFE",
+    "slug": "3safe-0e09v",
+    "description": "Simply verify your email address and generate an NFT for it.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Feesible",
+    "slug": "feesible-9mybv",
+    "description": "A tool kit that can allow the monetization of any website, we want to enable content creators",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "leili had gotten me ice",
+    "slug": "leili-had-gotten-me-ice-msbaa",
+    "description": "PolyList is a decentralised freelance hiring DApp built with trustless escrow contracts & payment streams whilst providing easy to onboard web2 experience",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GM Space",
+    "slug": "gm-space-vu85j",
+    "description": "GM Space is a web-based social metaverse with virtual apartment NFTs. Each member of our community will own, design and build an interactive “home” as a virtual apartment NFT.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "2048-CardGame",
+    "slug": "2048-cardgame-pv34v",
+    "description": "Play and earn 2048 nft cards to challenge other players for a reward",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Death Wallet",
+    "slug": "death-wallet-x4ohm",
+    "description": "A Product that secures your crypto assets by giving you an option to choose Nominee of your assets and NFTs in case of any unlikely events like Death or Lost Wallet",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Beyond Meta (ONE Wallet)",
+    "slug": "beyond-meta-one-wallet-eqc5j",
+    "description": "Interface that allows token transfer to various EVM chains using QR Code",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Bridge",
+    "slug": "nft-bridge-dw87e",
+    "description": "API that can provide web2 developers all the functionality involved in creating and managing NFTs over a REST API interface",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Spark",
+    "slug": "spark-mbp6i",
+    "description": "Kickstarter for open-source projects. Crowdfund your favourite OSS creators with crypto.!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Superpay",
+    "slug": "superpay-um39i",
+    "description": "Superpay is the payroll platform of the future. Built using Superfluid, Superpay enables employees to swap their paychecks for real-time streams of money aiming to help break the prevalent paycheck to paycheck cycle.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spect Tribes",
+    "slug": "spect-tribes-98f4m",
+    "description": "Spect Tribes is a DAO tool to help working groups within DAOs to value contributions as a decentralized team and pay conrtibutors",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Bookm3",
+    "slug": "bookm3-c32sb",
+    "description": "A revolution in booking technology! Conveniently schedule your meetings, with no more no-shows!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "BRAND3D",
+    "slug": "brand3d-hxssf",
+    "description": "BRAND3D is a PaaS, enabling companies to create digital exhibitions by tokenising their assets, renting to us, sharing their brand story and even earn a passive income from it. A simple, convenient and interactive way to amplify their brand awareness anytime and anywhere!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Road2Web3-pfp",
+    "slug": "road2web3-pfp-bznf8",
+    "description": "A dApp to generate a mintable profile picture (PFP) using a selection of images layered on top of a stick figure",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "File Verifier",
+    "slug": "file-verifier-8zdq4",
+    "description": "Verify the integrity of your files with Polygon File Verifier. Import file and get its hash. Choose to store the hash in the blockchain or verify if it has been stored before with its address of origin. Ensure your downloads are exactly what they pretend to be!",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Pay My API",
+    "slug": "pay-my-api-c72n7",
+    "description": "Zero-code, self serve platform to monetize your Web2 APIs using crypto, protect them with authentication and rate limits AND get a bonus dashboard to monitor them.",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Energy8",
+    "slug": "energy8-cbguk",
+    "description": "nergy8 represents innovative technology in the field of DeFi Games.  The uniqueness of our technology brings new opportunities to the world of the crypto industry/",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zeno",
+    "slug": "zeno-r4uk1",
+    "description": "Buying Crypto(Matic) with fiat, Send crypto from Fiat,  Lending already held tokens, Swapping your tokens, All on the blockchain with lowest gas fees and as easy as buying donuts.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "NFT Ads",
+    "slug": "nft-ads-ptc46",
+    "description": "NFT Ads is an AD delivery tool for Web3 users, including individuals, DAOs and other crypto teams.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Perpetual NFTs Protocol",
+    "slug": "perpetual-nfts-protocol-vwaer",
+    "description": "NFTs are speculative and static in nature; once purchased, the value is set by potential buyers. If no one wants to purchase yours, you will lose all of your money. Using your NFT, we want to establish a warranty for your mint, produce value, and let you take out loans. :D",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Trove Protocol",
+    "slug": "trove-protocol-jym6v",
+    "description": "Trove Protocol allows the creation of location-based entities.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DAO Preview",
+    "slug": "dao-preview-ju9jj",
+    "description": "Making DAOs more inclusive by reducing the barriers to entry. Its fun!",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOVinci",
+    "slug": "daovinci-hgrue",
+    "description": "NFT auction based DAO. Empowers artists be valuing true art through governance. All money goes to treasury which is divided among governors.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "META ZYN APP",
+    "slug": "meta-zyn-app-5f21t",
+    "description": "Meta Zyn is a wallet to wallet chat app enabling a breadth of in-app features powered by our mode of connection. From transferring assets between peers to trading NFTs to enabling groups with airdrops our app is speeding up day-to-day transactions.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Utro",
+    "slug": "utro-f1x7f",
+    "description": "A habit improvement Dapp :). Read Description for more. u have 3 incentives to use it . 1) improve ur schedule, 2) keep ur stake, 3) opportunity to win other participant's stakes",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Projection finance",
+    "slug": "projection-finance-wp19w",
+    "description": "Simulator of crypto investment : easily create projections and scenarios",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Affinity NFT",
+    "slug": "affinity-nft-zbzw7",
+    "description": "Affinity  is a  decentralized platform for the content creator community.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Web3Player",
+    "slug": "web3player-980i2",
+    "description": "An open-source Web3 enabled video player for you to embed in your website.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Allocate",
+    "slug": "allocate-vo0tq",
+    "description": "Teach your kids crypto. Real-time allowances. Earn, Save, Stake, Invest!",
+    "event": "Road to Web3",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "uyxnw",
+      "x59d1",
+      "qy8m3",
+      "zxd3n"
+    ]
+  },
+  {
+    "name": "NFT to Apple Wallet",
+    "slug": "nft-to-apple-wallet-g73km",
+    "description": "NFT to Apple Wallet is a tool that let's owners of NFTs on Polygon to add the NFTs as coupons to Apple Wallet",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Easier Times Token & Sacred Farm",
+    "slug": "easier-times-token-and-sacred-farm-ubja6",
+    "description": "Building a token that aims to end world poverty using the Sacred Coin Protocol, and building a staking mechanism for the token  to reinforce the coin's aim",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DefiNFT",
+    "slug": "definft-jg7ve",
+    "description": "Decentralized NFT collateralization platform with a vested escrow component that allows liquidity providers to earn rewards",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Certi",
+    "slug": "certi-woxgh",
+    "description": "Security tool to register and validate signatures upon documents hashes from a user friendly interface.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DDID DAO",
+    "slug": "ddid-dao-djy3w",
+    "description": "DDID DAO will serve as a platform for aggregating NFT projects and customizing exclusive badges. NFTs issued by DDID will be able to participate in governance.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "The Launchpad Club",
+    "slug": "the-launchpad-club-qdy75",
+    "description": "Pool together smaller investors into a DEFI pool/protocol which invests in top tier of the best launchpads  collectively/automatically. Hence earning a venture yield. Pure venture yield.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Airbro - NFT Airdrop Tool",
+    "slug": "airbro-nft-airdrop-tool-osrwi",
+    "description": "Airbro is an airdrop no-code tool for rewarding holders of an NFT collection with ERC20 tokens or other NFTs.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Matunity",
+    "slug": "matunity-y1uom",
+    "description": "NFT Board game with NFT Ad space integration. Players can customize the game globally and earn prizes.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Unbreakable Vows",
+    "slug": "unbreakable-vows-s3gvt",
+    "description": "Ricardian contracts in polygon to make binding peer to peer agreements",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Semicolon Fingers",
+    "slug": "semicolon-fingers-ouy4t",
+    "description": "Mint a [heartwarming] story with a semicolon tattoo as an NFT",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Bid To Earn",
+    "slug": "bid-to-earn-bap3h",
+    "description": "A NFT bidding protocol where all the participants are rewarded for participation without any support from external parties.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "AdFlow",
+    "slug": "adflow-oxrgr",
+    "description": "Connects webmasters with advertisers via streamable NFTs, allowing peer to peer adspace sales, and payment by the second instead of a lump sum.",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Reverb Finance",
+    "slug": "reverb-finance-0s2xs",
+    "description": "Gateway for crypto investors to fund real world fast-growing subscription businesses",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "SocialAnimal.Earth",
+    "slug": "socialanimal-earth-rn7g3",
+    "description": "Science & Faith Series ( Combination between technology and Ethics & Ethos ) in Educational gaming using Blockchain Technology on Matic Network.",
+    "event": "Road to Web3",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Mango Jelly @ Road to Web3",
+    "slug": "the-mango-jelly-road-to-web3-6t4ut",
+    "description": "Web3 based crowdsourcing and monetization platform for UGC NFTs",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Foofa NFT Dapp",
+    "slug": "foofa-nft-dapp-hnuhq",
+    "description": "Solving NFT liquidity problem by providing NFT owner with ERC1155 tokens in return of the NFT which can be sold anywhere freely  with some other cool features",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Tux3do Marketplace",
+    "slug": "tux3do-marketplace-u36je",
+    "description": "a full-stack NFT Marketplace on Ethereum with Polygon and Next.js",
+    "event": "Road to Web3",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "web3-lottery",
+    "slug": "web3-lottery-bfs9m",
+    "description": "A lottery that allows users to stake their MATIC and if they are lucky, they will win the jackpot",
+    "event": "Road to Web3",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  }
+]

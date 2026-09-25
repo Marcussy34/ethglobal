@@ -1,0 +1,4504 @@
+[
+  {
+    "name": "NFTDocs",
+    "slug": "nftdocs-h540r",
+    "description": "One step close to  safety",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Social Eye",
+    "slug": "social-eye-iakj7",
+    "description": "Visualize the connections",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RagTag",
+    "slug": "ragtag-sfepc",
+    "description": "Buy, sell, rent, gift digital assets",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "HEFA",
+    "slug": "hefa-4ymbu",
+    "description": "Everything Insured in one place",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Time When I Built A FIFA Prediction NFT Raffle",
+    "slug": "the-time-when-i-built-a-fifa-prediction-nft-raffle-t1hjq",
+    "description": "A Simple NFT Raffle pool to predict Ongoing FIFA World Tournament.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CallSo",
+    "slug": "callso-gagg3",
+    "description": "Future of Web3 Communications.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "jywri"
+    ]
+  },
+  {
+    "name": "Project Two Sixty",
+    "slug": "project-two-sixty-h7r85",
+    "description": "Project 260: Securely manage your assets with Zodiac & Safe - the trustless, permission-based, self-custody solution for scaling web3 asset management.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flaq",
+    "slug": "flaq-ivtb2",
+    "description": "Flaq is an edtech platform for onboarding web2 users to web3 through interactive simulations, offline educational events and structured easy-to-understand content.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MYON - Make Your Own Notifications",
+    "slug": "myon-make-your-own-notifications-iv0ka",
+    "description": "Make Your Own Notifications is a No-code tool for pushing real-time notifications over all kinds of protocols and smart contracts",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Vaidya",
+    "slug": "vaidya-5o0oz",
+    "description": "Decentralized Healthcare application",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3gram",
+    "slug": "3gram-u8cux",
+    "description": "gram is a privacy focussed decentralized web3 photo and video sharing application.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Crown Collectibles",
+    "slug": "crown-collectibles-gueom",
+    "description": "Experience the royal treatment with our exclusive royalty program and collectable Dynamic NFTs",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "juzwo"
+    ]
+  },
+  {
+    "name": "Snip3d",
+    "slug": "snip3d-1pn99",
+    "description": "Social Profile, Trade Analytics & Utility Discovery for the ENS ecosystem.\nOne-stop for everything ENS.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Briv App",
+    "slug": "briv-app-4mtf3",
+    "description": "A completely decentralized chatting application that focuses on the privacy and security of the users.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vyomanaut.io trading and NFT card game implemented",
+    "slug": "vyomanaut-io-trading-and-nft-card-game-implemented-no8bk",
+    "description": "Vyomanaut is a Free-to-play strategy-based trading, staking, and resource management NFT card game, to build and evolve as a mission director.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crime Bound Token",
+    "slug": "crime-bound-token-vwj3q",
+    "description": "Criminal Records using Soul Based Tokens",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Gram",
+    "slug": "web3gram-iztcz",
+    "description": "A Decentralised Social Networking Platform",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "10a1v",
+      "ke9sy",
+      "xefox",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Sihita",
+    "slug": "sihita-rgh5y",
+    "description": "Delivering healthcare discreetly",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jiffy-scan",
+    "slug": "jiffy-scan-aei79",
+    "description": "Transaction explorer for account abstracted wallets",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "pfyco",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "BlockPe",
+    "slug": "blockpe-ngszt",
+    "description": "Crypto Payments for India and the world. Built for merchants.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "wb7qe"
+    ]
+  },
+  {
+    "name": "Dream Date World (DDW)",
+    "slug": "dream-date-world-ddw-kdvfj",
+    "description": "A Dating Metaverse Platform design on the “Chat Before Match” Framework to facilitate Hangout Culture",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Decentralised Learning Platform",
+    "slug": "decentralised-learning-platform-w51nr",
+    "description": "A decentralised learning platform to meet the supply and demand of teachers and students in general as well as specific niches.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Orb.fi",
+    "slug": "orb-fi-rzkgj",
+    "description": "Send any token on any network  to anyone in an instant without having native gas token",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "Heal.eth",
+    "slug": "heal-eth-cgm9e",
+    "description": "Opensea-like NFT platform for medical health records.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v",
+      "xefox",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "DBinder",
+    "slug": "dbinder-z6ihv",
+    "description": "\"PAY AS YOU READ\" x \"EARN INDEPENDENTLY\"",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "METAGAMEHUB",
+    "slug": "metagamehub-r6xec",
+    "description": "Allowing users to be rewarded for being active in the metaverse",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IdentiGo",
+    "slug": "identigo-uxnah",
+    "description": "The Infra Layer For Decentralized Identity on Polygon ID",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "xefox"
+    ]
+  },
+  {
+    "name": "CryptoCares",
+    "slug": "cryptocares-4to64",
+    "description": "A DeFi + NFT protocol that allows domain experts to incentivize donation to a cause from others in exchange for a few hours of their time.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Web3One Wallet",
+    "slug": "web3one-wallet-mti2u",
+    "description": "All in one wallet, with account abstraction, cross chain multisig and a lot more features",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "enkg5",
+      "bw7y9",
+      "9z8z1",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "ZaPP",
+    "slug": "zapp-yc34s",
+    "description": "Collaterizing NFTs to give loans on a platform where lenders meet borrowers.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ONE Peace",
+    "slug": "one-peace-mp09f",
+    "description": "A Collective DAO Framework",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Octagon",
+    "slug": "octagon-nq9nj",
+    "description": "Unlock the power of on-chain data with iPhone screen widgets and a marketplace of customizable insights",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "enkg5",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Decntrr",
+    "slug": "decntrr-cvgny",
+    "description": "A decentralized discord for DAOs",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bi-Ticket",
+    "slug": "bi-ticket-vwrj0",
+    "description": "\"Revolutionizing ticket sales with blockchain technology.\"",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gassed",
+    "slug": "gassed-kb5hm",
+    "description": "Transfer any ERC20 token to any address without owning ETH. Technically Pay gas with ERC20. This can be replicated to work with any ERC20 & also for all contract calls making them ETH-free for gas",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DappTube",
+    "slug": "dapptube-5tix4",
+    "description": "A Youtube for all",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dev Angel",
+    "slug": "dev-angel-zxbzr",
+    "description": "Any developer can seek instant video mentoring on their issues",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "pfyco",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Dewards",
+    "slug": "dewards-yaxp5",
+    "description": "One stop SDK integration for easy 'degen' rewarding",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BLOOMBOT",
+    "slug": "bloombot-rb7d4",
+    "description": "Bloombot, a virtual assistant, retrieves web3 learning materials in one click. Using push chat, wallet sign-in, and biconomy,  we improve web3 resources and provide personal interaction.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cat Ears",
+    "slug": "cat-ears-c9ipk",
+    "description": "A Kawai Way to Citizen Journalism",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentForms",
+    "slug": "decentforms-m89fe",
+    "description": "Decentralized forms with abilities to check for elligiblity and mass reward system",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Drift",
+    "slug": "drift-mrryo",
+    "description": "A decentralised platform to get updated with all the DAOs you're member of",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Peer to peer car pooling",
+    "slug": "peer-to-peer-car-pooling-v3pn5",
+    "description": "Ride like you own it",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Disconnect",
+    "slug": "disconnect-91k3v",
+    "description": "A blue-chip DeFi aggregator platform with a social layer. Your gateway to web3.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "jywri"
+    ]
+  },
+  {
+    "name": "Oasis",
+    "slug": "oasis-c9mfq",
+    "description": "Supercharging the creator economy by increasing ownership, engagement and providing more monetization channels.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "WebFiverr",
+    "slug": "webfiverr-k5sii",
+    "description": "Empowering content creators and consumers through blockchain technology and connecting the world's best minds to crowdsource the future of content",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moonshot",
+    "slug": "moonshot-vwzkt",
+    "description": "An innovative DeFi ecosystem for betting on Real World Events on Shardeum",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "06qyw"
+    ]
+  },
+  {
+    "name": "DPI - Decentralized Payments Interface",
+    "slug": "dpi-decentralized-payments-interface-vfv0m",
+    "description": "We are the  web3 UPI,No Gas, No Complexity ,Simplest UX , One Address for any chain.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "bw7y9",
+      "f7o0p",
+      "i27s1"
+    ]
+  },
+  {
+    "name": "Chain Aid",
+    "slug": "chain-aid-gnv1b",
+    "description": "Easily integrable help-line-chat SDK for decentralized applications",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "TruFi",
+    "slug": "trufi-pq1uh",
+    "description": "Get Loans Based on your Contribution and Credit Score",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "f7o0p",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "KIRITSU",
+    "slug": "kiritsu-1ywa3",
+    "description": "The Decentralized Discipline",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Docify",
+    "slug": "docify-wxu7n",
+    "description": "Apply for loans or any other similar documents and get it verified in ease.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Developer Adda(अड्डा) - One stop shop 4 Developers",
+    "slug": "developer-adda-one-stop-shop-4-developers-q14zi",
+    "description": "Developer Adda(अड्डा) - One stop shop for all the Developers. Developers help each other and earn tokens which they use later to get into a paid learning platform. Dey play games and accumulate token",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "Popcorn",
+    "slug": "popcorn-f4c5q",
+    "description": "We entertain the decentralized world and also help connect keen viewers and little-known creators to make their content available to the world. Creators and viewers are both benefitted.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Niche: MIS & fraud alert 4 web3 investor portfolio",
+    "slug": "niche-mis-and-fraud-alert-4-web3-investor-portfolio-uhc1y",
+    "description": "Real-time financial and people analytics of companies for web3 investors to track their portfolio companies",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "10a1v",
+      "enkg5",
+      "bw7y9",
+      "jkakt"
+    ]
+  },
+  {
+    "name": "Ballot on Chain",
+    "slug": "ballot-on-chain-q9cfd",
+    "description": "Bringing voting on your fingertips using blockchain securely, accurately and keeping the secrecy of ballot sacrosanct",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "Crypto Ninja",
+    "slug": "crypto-ninja-p7zow",
+    "description": "A Hyper Causal Cross-Chain Web3 Game",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Superior Social Wallet Recovery",
+    "slug": "superior-social-wallet-recovery-pybqt",
+    "description": "Better, and REAL social recovery. Have the best of both worlds, where both your social network and you favorite blockchain network come to consensus to help you recover your seed phrase.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Zemoo-ETHIndia",
+    "slug": "zemoo-ethindia-wjes2",
+    "description": "A web3-ecommerce platform focused on implementing Proof Of Personhood and minting/issuing a NFT anytime they buy a product aliasing actual world delivery and using WorldCoin for incentivising users.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "xefox",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "W3Pass",
+    "slug": "w3pass-2j45o",
+    "description": "One stop solution for your decentralized Password Management needs powered by self-custodial web3 encryption.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "De_FL",
+    "slug": "de-fl-5x7av",
+    "description": "Our project trains AI model accurately and uses Blockchain for incentivisation and transparency, It implements the method of training an AI model in a more secure and cryptic key.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "ZKJob -Fully Anonymous Video based Linkedin-",
+    "slug": "zkjob-fully-anonymous-video-based-linkedin-g2c6y",
+    "description": "Anonymous job matching, and maximize your appeal by submitting your own PR video! Fully Anonymous Video based LinkedIn powerd by web3 with meeting app buildin.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "SubNFT",
+    "slug": "subnft-gp93t",
+    "description": "Web3 Subscriptions using NFTs",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Peer-3",
+    "slug": "peer-3-fx24g",
+    "description": "A decentralized Social Media Platform.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "ETH India Game",
+    "slug": "eth-india-game-h3g53",
+    "description": "A  game to experience ETH India Hackathon from a BUILDers perspective and earn some NFTs and Tokens on the way!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "HexOil",
+    "slug": "hexoil-s6104",
+    "description": "The trustless way to explore Upstream Oil Industry",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Bima Coin",
+    "slug": "bima-coin-w20tp",
+    "description": "Bima for the people, Bima by the people",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "enkg5",
+      "enkg5",
+      "buucz"
+    ]
+  },
+  {
+    "name": "ZKardo",
+    "slug": "zkardo-dm6a3",
+    "description": "Creating democratic anonymous voting for nft communities using zkp.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DigiGo- One Reward to Rule them All.",
+    "slug": "digigo-one-reward-to-rule-them-all-ngzao",
+    "description": "DigiGo Loyalty Protocol Eats the World of Rewards Programs. We transition users to Web3 with payments that leverage account abstraction, defi yields, and wallet push notifications.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "weaax"
+    ]
+  },
+  {
+    "name": "Bermuda",
+    "slug": "bermuda-vkf0d",
+    "description": "Data is the new Mystry",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "Portfolio NFT",
+    "slug": "portfolio-nft-xcb5z",
+    "description": "Manage different investments in a DeFi platform through NFTs. Creating, managing and trading the investment portfolios in a single paltform by one single click.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrYnTr",
+    "slug": "cryntr-v1kbv",
+    "description": "Invest, Analyse, and Immerse",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LensTree",
+    "slug": "lenstree-cqvub",
+    "description": "A decentralized digital identity verifier and aggregator to have all your profiles under one handle.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Recognify- Recognification simplified",
+    "slug": "recognify-recognification-simplified-yry6t",
+    "description": "Building the new identities of tomorrow . Creating provable credentials for the physical representation of the you.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "Eventify-DApp",
+    "slug": "eventify-dapp-6rq0j",
+    "description": "Let us handle your next event using the power of web3 and blockchain.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "EthPay",
+    "slug": "ethpay-qpdq0",
+    "description": "Accept Ethereum as payment on your website",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DGym",
+    "slug": "dgym-oen82",
+    "description": "Proof of fitness",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "PolyGossip",
+    "slug": "polygossip-b01mr",
+    "description": "Interchain MEssaging system For Polygon-Edge using Graph and Chronos (Cosmos-IBC)",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "pfyco",
+      "26gjy"
+    ]
+  },
+  {
+    "name": "Firewallet",
+    "slug": "firewallet-tv8k6",
+    "description": "Firewallet is an ERC4337 compliant secure contract wallet that enables you to create roles that limit the amount of money that can transfer and the contract that call.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "FVM smart contract Wallet",
+    "slug": "fvm-smart-contract-wallet-xyw15",
+    "description": "wallets with unique abilities due to the power of smart contract functionality",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DClips",
+    "slug": "dclips-gnknq",
+    "description": "A Censorship Resistant - resilient - video sharing platform",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "BEN Wallet",
+    "slug": "ben-wallet-t2yaj",
+    "description": "Event-based conditional wallet account recovery",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Encryptex",
+    "slug": "encryptex-b7sbs",
+    "description": "Your personal decentralised private cloud storage",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentraDial",
+    "slug": "decentradial-1x55m",
+    "description": "A decentralized business directory for the modern web.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "Omnichain Naming Service",
+    "slug": "omnichain-naming-service-rs1hg",
+    "description": "A unique Naming system built for all the chains",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "TickEth",
+    "slug": "ticketh-htqhp",
+    "description": "Seamless NFT Ticketing Platform",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Gnosis Safe Module tools",
+    "slug": "gnosis-safe-module-tools-0fgvy",
+    "description": "Recovery Tools, Family accounting managed for you",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cac2O",
+    "slug": "cac2o-fdbqd",
+    "description": "Cac2O is decentralized 3D game developed by us in Unity. In this game Cactus which should drink water and avoid dirt for survival.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "EventX",
+    "slug": "eventx-xxwcx",
+    "description": "Reimagine events via E2E Event Management, offering pre-during-post event soulns. With NFT-based ticket issuance, chain attendance, IRL phygital mgmt system, unique ways of networking and memories!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "TryFit",
+    "slug": "tryfit-wnp6t",
+    "description": "We Build Your Story of Success",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "True Voting",
+    "slug": "true-voting-k5mqj",
+    "description": "Voting is now transparent and verifiable.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kangaroo - FEVM Data Dao Starter Kit",
+    "slug": "kangaroo-fevm-data-dao-starter-kit-67ic7",
+    "description": "The easiest way to create a Data DAO on FVM",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Vanilla Mint",
+    "slug": "vanilla-mint-nv5ae",
+    "description": "Vanilla Mint allows users to eliminate any smart contract risks and private key thefts by allowing quick and easy recovery of funds through a simple decentralized asset wrapping mechanism.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "goShare - Share your memories on blockchain",
+    "slug": "goshare-share-your-memories-on-blockchain-svinx",
+    "description": "Store your memories forever and share them with world to earn, share beautiful photos which people can like and give a tip.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fracto Farm",
+    "slug": "fracto-farm-87g12",
+    "description": "Cross-chain Fractionalization of NFTs while mapping the fractional tokens to real-world utilities.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "f7o0p",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Unisauce",
+    "slug": "unisauce-kp895",
+    "description": "A covered-call option primitive based on top of Uniswap-v3 - Uniswap on steroids",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Velvet 4337",
+    "slug": "velvet-4337-0kqtk",
+    "description": "Streamlining Cross-Chain DeFi with ERC-4337",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "wuc6g",
+      "weaax",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "WAGBI",
+    "slug": "wagbi-k9dni",
+    "description": "Future of On-Chain Lending",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Etherverse",
+    "slug": "etherverse-4f263",
+    "description": "Ethereum cross-chain metaverse.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "1nz66",
+      "1nz66",
+      "xefox",
+      "f7o0p",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "ENSBoundBadges (EBB)",
+    "slug": "ensboundbadges-ebb-bshb6",
+    "description": "ENS bound, non-transferrable on-chain badges with Push notifications",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "pfyco",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Sync",
+    "slug": "sync-ncaca",
+    "description": "Scheduling tool with web3 at its core.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Poly.edu",
+    "slug": "poly-edu-t2h8m",
+    "description": "Proof of Education, Own what you learn.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "pfyco",
+      "wb7qe"
+    ]
+  },
+  {
+    "name": "Create Protocol",
+    "slug": "create-protocol-hidpu",
+    "description": "An NFT utility delegation tool that lets NFT owners to delegate their utilities to the interested parties  for a specific time period & price, without transfering NFT from the owner wallet",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GivETH - Decentralizing a better world",
+    "slug": "giveth-decentralizing-a-better-world-s9pga",
+    "description": "Empowering individuals to make a lasting impact on the world, one block at a time.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "CoOwn",
+    "slug": "coown-e23z2",
+    "description": "Make owning simpler!!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Least imperfect Governance",
+    "slug": "least-imperfect-governance-0mevt",
+    "description": "Democracy in broken, spreading out the control among a larger chunk of people helps solves many issues.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAM It(Digital Asset Manage It)",
+    "slug": "dam-it-digital-asset-manage-it-riixw",
+    "description": "Get closer to managing your digital assets by 'DAMing it in a single click'\nIt a comprehensive built-in brand assets management Dapp.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "enkg5",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Squad: On-Chain Encrypted AES-RSA File Management",
+    "slug": "squad-on-chain-encrypted-aes-rsa-file-management-sw0p0",
+    "description": "Squad is a 100% on-chain dApp that helps teams manage and share their files with a unique encryption layer between IPFS and their workflows, allowing for access control within different teams.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "10a1v",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Professional Credentials Validated (web3)Resume",
+    "slug": "professional-credentials-validated-web3-resume-c587j",
+    "description": "Trustless, zero knowledge, Soul bound token(SBT) based Professional Credentials Validated Resume",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Splittle",
+    "slug": "splittle-6so0d",
+    "description": "Split and Settle, Save yourself from hassle.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "zkDoc",
+    "slug": "zkdoc-pg421",
+    "description": "Access all your medical records with just your Phone Number!\nAn elegant solution to healthcare and hospital backend systems that bring Access, Security & Ease to ALL patients.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "shiv",
+    "slug": "shiv-e7dyv",
+    "description": "Attax",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liria - Free Speech",
+    "slug": "liria-free-speech-gvoup",
+    "description": "A privacy preserving community driven publication platform to empower authors/whistle-blowers and readers.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "🚀🔥💰MetaEstate🥇😎🚀",
+    "slug": "metaestate-ksv4r",
+    "description": "🥇🤖An aggregator for metaverse real estate.💰🔥",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "VeriWe",
+    "slug": "veriwe-9dd5h",
+    "description": "Reviews for all, one-from-one!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Nftfy",
+    "slug": "nftfy-hb5ga",
+    "description": "Registration and Ticketing system using web3",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "SnapLoad",
+    "slug": "snapload-x4ou9",
+    "description": "A Metamask snap for decentralized file storage and management with FEVM and IPFS along with PUSH notifications.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Event driven transactions",
+    "slug": "event-driven-transactions-ws2my",
+    "description": "Register a condition and transaction to run when that condition is true (for example see ETH when its price > $5K on Uniswap). Anyone else can call that transaction when that condition becomes true.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GrayBox",
+    "slug": "graybox-1yi9w",
+    "description": "Decentralized File Storage with/without Encryption and Access Control",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Griffin",
+    "slug": "griffin-ypx2i",
+    "description": "A unified portal to calculate the best fee on liquidity pools, hop to the optimal chain and invest on uniswap for maximum returns.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "1nz66",
+      "1nz66",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "DeFeit",
+    "slug": "defeit-jgaoh",
+    "description": "Defeit Counterfiet Drugs in the market",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeSpotify",
+    "slug": "despotify-bjf16",
+    "description": "Make music , make nfts",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XVote",
+    "slug": "xvote-ku0vv",
+    "description": "Vote from any chain you want",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "TrueResQ",
+    "slug": "trueresq-2svzd",
+    "description": "Non-custodial Social Recovery and Inheritance Protocol",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "PROJOINT",
+    "slug": "projoint-5vqmy",
+    "description": "Lightspeed Transaction",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "DePay",
+    "slug": "depay-skz6b",
+    "description": "Decentralized Payment method to send and receive crypto on your account by just providing the phone number which acts as a unique identifier built around Polygon ID’s identity framework.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 8,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "10a1v",
+      "xefox",
+      "pfyco",
+      "bw7y9",
+      "f7o0p",
+      "jywri",
+      "jkakt"
+    ]
+  },
+  {
+    "name": "F.I.R. Registration System",
+    "slug": "f-i-r-registration-system-avsaj",
+    "description": "It is a F.I.R registration system which can be used to make the current policing system more trustworthy, transparent and immutable.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unnati",
+    "slug": "unnati-9p0ib",
+    "description": "A donation-based dApp on Polygon where users can start a fundraising project for anyone to contribute and support the campaign by pledging the amount of their wish.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "DeCentra-Land",
+    "slug": "decentra-land-cn3pi",
+    "description": "Web3 Marketplace for lands",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Credify Uncollateralized Lending & Credit Score",
+    "slug": "credify-uncollateralized-lending-and-credit-score-vc5yu",
+    "description": "Providing Uncollateralized loan by risk analyzing the profile of the user and assigning him a credit score.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHIndia Partner Data Insights Analytics",
+    "slug": "ethindia-partner-data-insights-analytics-xs1vf",
+    "description": "Building Data-Driven Web3",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "DE slam",
+    "slug": "de-slam-thgyc",
+    "description": "CONNECT WITH FRIENDS",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Verifiable Docs By NFTVerse",
+    "slug": "verifiable-docs-by-nftverse-ogoxh",
+    "description": "A white-label solution for universities, schools, and organizations to issue and verify certificates",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trinity22",
+    "slug": "trinity22-2nhk0",
+    "description": "We aim to build a Capital-Efficient stablecoin and a Credit Default Swap (CDS) market in order to facilitate higher Loan-To-Value ratio, and utilise CDS to insure the platform against defaults.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LPSwap",
+    "slug": "lpswap-0besc",
+    "description": "A seamless multiple LP swapping experience",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PoW'rd",
+    "slug": "pow-rd-np6rr",
+    "description": "Paychecks for the decentralized economy made simple through ENS based payroll",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "UPCI (Unified Crypto payment Interface)",
+    "slug": "upci-unified-crypto-payment-interface-xhf14",
+    "description": "Experience UPI on Chain with power of Crypto",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "ke9sy",
+      "1nz66",
+      "xefox"
+    ]
+  },
+  {
+    "name": "TracEX",
+    "slug": "tracex-qidme",
+    "description": "A transparent , anti-counterfeiting and fair supply chain system to provide pandemic supplies ( covid vaccine) through 4 stages i.e. Manufaturer -> Supplier -> Vendor -> Customer using blockchain.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "Data Proof",
+    "slug": "data-proof-244q1",
+    "description": "Allowing safe sharing of data through zero-knowledge proofs without compromising privacy to support government programs.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Legacy",
+    "slug": "crypto-legacy-9tf4a",
+    "description": "Pass on your crypto legacy",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "W3Gram",
+    "slug": "w3gram-tz3ei",
+    "description": "we are bulding w3gram chat app + wallet",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WowLuvIt",
+    "slug": "wowluvit-4sj2n",
+    "description": "A decentralized Web 3.0 social media app sharing the ad-revenue with the user-community.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "fee ninja",
+    "slug": "fee-ninja-oc6hr",
+    "description": "a fun way to know & share how much gas you have spent on different blockchains",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "enkg5",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "0xGlitch",
+    "slug": "0xglitch-b33kw",
+    "description": "Tear down your bills, because we have stored it for you",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "NFTFier",
+    "slug": "nftfier-0teva",
+    "description": "A short all in one NFT place which has different usecases.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "f7o0p",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Ahoy",
+    "slug": "ahoy-0drxj",
+    "description": "Making IRL events better",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bounce Protocol",
+    "slug": "bounce-protocol-czhv3",
+    "description": "Bounce is a settlement protocol that allows users to simply create cross-chain yield aggregation positions. Bounce Protocol helps reduce gas fees and reduces slippage.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "PeerStreams",
+    "slug": "peerstreams-8attq",
+    "description": "Twitch of Web3 but more better,Decentralized and with some Analysis",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Cal3",
+    "slug": "cal3-2kkhm",
+    "description": "Calender for Web3",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "pfyco",
+      "bw7y9",
+      "jkakt"
+    ]
+  },
+  {
+    "name": "PerByte",
+    "slug": "perbyte-g7y9z",
+    "description": "A decentralized perpetual file storing and wallet-to-wallet file sharing platform and storage marketplace",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "3zpxc",
+      "xefox"
+    ]
+  },
+  {
+    "name": "Da CRJ",
+    "slug": "da-crj-qczxj",
+    "description": "A Decentralized, Autonomous, Anonymous, incentive based, Censorship-Resistant Jornalism WebApp. Journalism is often censored and nor everyone has the technical skills of using the onion service (Tor)",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "Payzzy",
+    "slug": "payzzy-s5b17",
+    "description": "Payzzy is a hassle-free cross-chain pay-easy solution",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "1nz66",
+      "1nz66",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "PlayAstra",
+    "slug": "playastra-nsc3w",
+    "description": "PlayAstra is a Decentralised Community Governed Quiz and Knowledge Platform",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "gt566",
+      "am855",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Qwack",
+    "slug": "qwack-g4xyg",
+    "description": "Socialize, Make Money",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "AlkyneFi",
+    "slug": "alkynefi-nampv",
+    "description": "Socializing Finance to simply trading",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "10a1v",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "zkPOD",
+    "slug": "zkpod-22r3u",
+    "description": "Zero Knowledge On Chain Verification for your medical degree.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P2P_CoinFlip",
+    "slug": "p2p-coinflip-cdzom",
+    "description": "Coin flip game",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prop3rty",
+    "slug": "prop3rty-3h712",
+    "description": "Real Estate deals now easy and safer like never before. An application underlying with Zero Knowledge Proof and faster deal settlements than any traditional way.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kort",
+    "slug": "kort-3kxns",
+    "description": "Decentralized Alternative Dispute Resolution Platform",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "1Pay",
+    "slug": "1pay-koj71",
+    "description": "Reduce the gas, Reduce the cost!!!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockBuster",
+    "slug": "blockbuster-7gj13",
+    "description": "We help you make your simple threads BlockBuster. Forming stories by analysing blocks, transactions & wallet addresses is now easier than ever",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "ZK KYC",
+    "slug": "zk-kyc-8mf5t",
+    "description": "zk KYC of Aadhar, Driving License and other Documents.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "W3Build",
+    "slug": "w3build-hdn67",
+    "description": "Web3 Event Gallery",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LensView",
+    "slug": "lensview-fkimk",
+    "description": "An Omnipresent Social App For Yours View",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "SafeBatch",
+    "slug": "safebatch-9ky13",
+    "description": "Record and batch-send transactions to save time & gas!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "Atoms by TFNFT",
+    "slug": "atoms-by-tfnft-bt59m",
+    "description": "Carbon credits liquidity pool for farmers",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "M-Eth",
+    "slug": "m-eth-dqgc2",
+    "description": "Medicine + ETH Unified medicine redemption system, built on the blockchain to now prevent double spending of prescriptions in online pharma.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "certify-eth",
+    "slug": "certify-eth-a87n3",
+    "description": "An open and trusted platform for digitial certifications",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OhJi Chat",
+    "slug": "ohji-chat-snad4",
+    "description": "Personal Messenger on Web3. As easy as WhatsApp ;)",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChargeSwap",
+    "slug": "chargeswap-d9fzr",
+    "description": "A Blockchain-based EV-Battery swapping solution",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3",
+      "10a1v",
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "Metaguard",
+    "slug": "metaguard-badvz",
+    "description": "Preventive security insights based on simulated transaction trace",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "m46sz"
+    ]
+  },
+  {
+    "name": "PokoPlan",
+    "slug": "pokoplan-q4r0w",
+    "description": "Planning Poker App which can be used in video/audio calls.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SafeLoans: A P2P Lending Borrowing Platform",
+    "slug": "safeloans-a-p2p-lending-borrowing-platform-0fuvd",
+    "description": "A decentralised & trustless P2P Lending Borrowing platform giving Fiat Currency loans with Crypto assets as Collateral.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EventCheif",
+    "slug": "eventcheif-75erc",
+    "description": "Know what's happening in the blockchain community and get RSVP'd for the events",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenSci.",
+    "slug": "opensci-8wwtv",
+    "description": "We aim on building a Decentralized self-sustaining Scientific Research Community, promoting freedom and accessibility of cutting edge scientific research.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bytekode",
+    "slug": "bytekode-hk2i4",
+    "description": "Custom block explorers for your DApps and Wallets",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Web3Patreon",
+    "slug": "web3patreon-2k0ci",
+    "description": "Premium content access for users!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "Athena",
+    "slug": "athena-ufgwk",
+    "description": "The only Informal Secure P2P Credit Service to ever exist.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zephyr Wallet",
+    "slug": "zephyr-wallet-bo0cx",
+    "description": "Next-gen smart contract wallet to serve the needs of a new age in Web3, one with account abstraction at the core",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "gunnefftee",
+    "slug": "gunnefftee-9ymb3",
+    "description": "Multiplayer FPS game; custom gun mods are minted as NFTs on the NFT Marketplace; React.js Website; Unity game; ERC721 contracts; Deployed on Polygon Mumbai Testnet",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "OwnChain",
+    "slug": "ownchain-fgtjz",
+    "description": "An on-chain physical asset ownership management dApp POC",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Partnr Network",
+    "slug": "partnr-network-6y8tp",
+    "description": "https://www.loom.com/share/3530f7b0ccee4e7cbbe83293751fbe24",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "VeriFi",
+    "slug": "verifi-deupw",
+    "description": "A Decentralised Autonomous Identity Management System (DAIMS) that enables seamless transaction of data between organizations about a user while maintaning privacy and also guaranteeing data validity.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaBorrow",
+    "slug": "metaborrow-er1z0",
+    "description": "MONETIZE YOUR GAMING ASSETS",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "10a1v",
+      "iydyv"
+    ]
+  },
+  {
+    "name": "Sadaiv C.I. (सदैव)",
+    "slug": "sadaiv-c-i-mr44d",
+    "description": "A continuous integration pipeline that backs up your GitHub contributions on the Decentralized Network without you worrying about it.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3",
+      "pfyco",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "SmartVerifier",
+    "slug": "smartverifier-by4os",
+    "description": "A platform to provide verified and trusted source of documents with the help of decentralised, peer to peer storage of data.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LandsDAO",
+    "slug": "landsdao-do1fk",
+    "description": "LandsDAO is a blockchain based fractional property investment and governance solution for the next generation of real estate and property owners.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dwill",
+    "slug": "dwill-17n9z",
+    "description": "Recovery is possible now !",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RefiNext",
+    "slug": "refinext-vhsy0",
+    "description": "Cross chain position transfer made easy.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "NFTorNOT",
+    "slug": "nftornot-gv2ji",
+    "description": "Experience the 2000s craze Hot-or-Not revived and transformed into a sensational social experiment: NFT or not! Every 24 hours you can join in on a thrilling showdown of A.I. generated images where yo",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "InterPlanetary Compute System",
+    "slug": "interplanetary-compute-system-cgx8h",
+    "description": "Decentralized alternative for ec2 instances and lambdas.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "TRIKL",
+    "slug": "trikl-48h0g",
+    "description": "Social Media with Sustainable Engage & Earn Engine",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "xefox",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "Purple Pay",
+    "slug": "purple-pay-gv2qp",
+    "description": "Scan and pay payment protocol to send and accept cryptocurrency payments globally",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "GraphLane",
+    "slug": "graphlane-4vnej",
+    "description": "Track your liquidity pool gains and impermanent loss.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Staple",
+    "slug": "staple-my8kb",
+    "description": "Organize all your content in one place",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReviewD",
+    "slug": "reviewd-bo39p",
+    "description": "Nothing is easy, when you're lazy.\nEverything is easy, ,when you're crazy.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "Ethcode",
+    "slug": "ethcode-n86od",
+    "description": "One click Ethereum abstraction account paymaster template code generation tool",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "Gated-Content",
+    "slug": "gated-content-rww1c",
+    "description": "The project is focused on developing token-gated video delivery",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Push Snap",
+    "slug": "push-snap-5x112",
+    "description": "Get Push protocol notifications directly in metamask.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "DeCode",
+    "slug": "decode-8t99m",
+    "description": "Decentralised Coding Platform",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "DIVIDEND",
+    "slug": "dividend-yehkq",
+    "description": "Divided but not the end!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LensMaxi",
+    "slug": "lensmaxi-5ac1h",
+    "description": "Maximizing content impact",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "dePay Decentralise Payment Gateway",
+    "slug": "depay-decentralise-payment-gateway-ndpn6",
+    "description": "Scale, Secure, Decentralise",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "ETHGuard",
+    "slug": "ethguard-q7gru",
+    "description": "Responsive ML based Smart Contract Vulnerability Detection for VSCode",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "GetSetGo",
+    "slug": "getsetgo-tcxts",
+    "description": "Kahoot! on Web3",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Storehouse",
+    "slug": "storehouse-ica3j",
+    "description": "Decentralized and secure cloud storage on chain leveraging IPFS with a better UX.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Web3 Play Store",
+    "slug": "web3-play-store-7zgov",
+    "description": "Decentralised and censorship resistant platform for hosting apps",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "CreatorsLane.",
+    "slug": "creatorslane-77o7o",
+    "description": "The Heaven for Aspiring Creators",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "Buidl11",
+    "slug": "buidl11-c1tk3",
+    "description": "Invest and grow! Play and Earn",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "VISCA: State Channel Powered Layer-H Protocol",
+    "slug": "visca-state-channel-powered-layer-h-protocol-k0fpk",
+    "description": "Virtually Integrated State Channels Anonymization Unlocking Medical History With Anonymized Non-Fungibility.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsqgj"
+    ]
+  },
+  {
+    "name": "ETHProperty",
+    "slug": "ethproperty-s0ggh",
+    "description": "A Secure & Decentralized way of managing your property records for Transparency and Zero Fraud property transfers.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Govi",
+    "slug": "govi-1j5hn",
+    "description": "Good Vibes only",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SafeGuard",
+    "slug": "safeguard-5uav2",
+    "description": "Customisable on-chain financial controllers on Safes",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "weaax"
+    ]
+  },
+  {
+    "name": "CodeSol",
+    "slug": "codesol-9q8tc",
+    "description": "A one-stop platform for all kinds of smart contract devs to learn, practice, and showcase their solidity development skills.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dygnify",
+    "slug": "dygnify-ki4oq",
+    "description": "World’s first on+off chain smb credit reputation scoring system, which can democratise access to credit for small businesses. This is built on top of our existing Defi protocol Dygnify for SME credit",
+    "event": "ETHIndia 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3",
+      "10a1v",
+      "xefox",
+      "wuc6g",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "EasICO",
+    "slug": "easico-v3hsy",
+    "description": "Easiest way to create an ICO for your DApp's and many more!!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DataQuest - Quest, Queries and Earn",
+    "slug": "dataquest-quest-queries-and-earn-41t13",
+    "description": "A decentralized platform, that is permissionless, and transparent, with no limit to 'what tokens' and focuses on helping people who want data, meet people who get data, and get incentivized for fit.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "10a1v",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "MakeFrens",
+    "slug": "makefrens-21wfb",
+    "description": "Meet strangers, on a troll-free platform. Like omegle, without the ********. \nImpossible on web2, made possible by web3.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "BMS - Blockchain Mail Service",
+    "slug": "bms-blockchain-mail-service-na4vw",
+    "description": "The Truly Blockchain Based Mail Service",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Global Health Records",
+    "slug": "global-health-records-zttg4",
+    "description": "Decentralizing the healthcare network",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Last Man Standing",
+    "slug": "last-man-standing-3y55q",
+    "description": "Be the Last Man Standing",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "jkakt"
+    ]
+  },
+  {
+    "name": "Gullak",
+    "slug": "gullak-v4pg5",
+    "description": "Goal based shared wallets 💜",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stable",
+    "slug": "stable-4irk5",
+    "description": "Generate NFTs from your crazy thoughts",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOcracy",
+    "slug": "daocracy-fhwm6",
+    "description": "Democracy is where you go down when feels like your vote doesn't count",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Sequencers for Optimism rollup",
+    "slug": "decentralized-sequencers-for-optimism-rollup-1o98i",
+    "description": "We are building a Proof of Concept (PoC) decentralized sequencer for the optimism bedrock rollup network.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DEW",
+    "slug": "dew-z9g0j",
+    "description": "Decentralized Warranty",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "HabETH - Habit Tracking & Accountability",
+    "slug": "habeth-habit-tracking-and-accountability-8op09",
+    "description": "We all have tried and failed sticking to habits, with us you need to stake ETH to follow a habit & a failure leads to loss of the staked amount & it's interest to accountability partner",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "MeData",
+    "slug": "medata-3zj58",
+    "description": "Health Compute Engine using ZKP",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "BREIT - Commercializing Emeralds",
+    "slug": "breit-commercializing-emeralds-9fhk7",
+    "description": "Making Commercial Real Estate Accessible and Affordable to any Indian in a transparent, liquid and secured way. Indians can now have a diversified commercial real estate portfolio.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liquidity Sprinkle SDK",
+    "slug": "liquidity-sprinkle-sdk-oonxr",
+    "description": "One stop developer tooling for dispersing an asset to any assets on multiple chains at a time.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "DeFi Simplified",
+    "slug": "defi-simplified-7xbyb",
+    "description": "DeFi Investment Evaluation Framework",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "juzwo"
+    ]
+  },
+  {
+    "name": "Aadhaar.eth",
+    "slug": "aadhaar-eth-m05d9",
+    "description": "Verifiable Aadhaar on-chain.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "youpoli",
+    "slug": "youpoli-8oaik",
+    "description": "Real humans, Real thoughts!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "xefox"
+    ]
+  },
+  {
+    "name": "Automati",
+    "slug": "automati-umoq8",
+    "description": "Making services decentralized",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "buucz"
+    ]
+  },
+  {
+    "name": "FlashBag",
+    "slug": "flashbag-hjc0y",
+    "description": "🔀 Bridge your complex DeFi positions across chains for the best yield 🤑",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "pfyco",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "ASAP Finance",
+    "slug": "asap-finance-tm972",
+    "description": "Universal Gateway to your web3 world",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Medi-Fund",
+    "slug": "medi-fund-prctc",
+    "description": "A decentralised platform for medical crowdfunding that allows users to start their own campaigns to raise money for their medical treatments as well as contribute to other campaigns.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "WEB3TV",
+    "slug": "web3tv-wzo43",
+    "description": "Web3TV is a decentralised video sharing platform for content creators where each early supporter of the creator is awarded with a dynamic NFT which is associated with the growth of their channel.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v",
+      "mdb6w",
+      "bw7y9",
+      "jkakt"
+    ]
+  },
+  {
+    "name": "Project: CitadeLite",
+    "slug": "project-citadelite-9iwo1",
+    "description": "Social media where real humans liev and one that rewards you...",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "xefox"
+    ]
+  },
+  {
+    "name": "Web3 Hackathon Portal",
+    "slug": "web3-hackathon-portal-baudi",
+    "description": "Web3 Dev Hub! \nWhen we are building on web3, Why should Hackathon remain on web2",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "AA Snap",
+    "slug": "aa-snap-fa9za",
+    "description": "AA Snap is the easiest tool to integrate and use Account Abstraction.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "m46sz"
+    ]
+  },
+  {
+    "name": "creepz",
+    "slug": "creepz-t5b1f",
+    "description": "Decentralized truecaller: Identity reputation system / protocol",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalletScore",
+    "slug": "walletscore-dvqwm",
+    "description": "WalletScore — A hyper-targeted wallet based B2B NFT distribution solution. Made by degens, with degens and for degens.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MultiMon",
+    "slug": "multimon-u2srt",
+    "description": "Cross-chain gaming containing dynamic 998 NFT's which changes with each chain's culture.Similiar to pokemon go with pvp and intresting mechanisms.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "i90pd",
+      "iydyv"
+    ]
+  },
+  {
+    "name": "TRESC PROTOCOL",
+    "slug": "tresc-protocol-rt26u",
+    "description": "TRESC Protocol is an Escrow Protocol that adds a layer of trust & security to your business. TRESC Protocol allows users to integrate with any workflow or platform & make transactions trustlessly.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox"
+    ]
+  },
+  {
+    "name": "LensPlay",
+    "slug": "lensplay-squ7q",
+    "description": "Lensplay is a decentralized video-centric social graph built on top of Lens Protocol. It is designed to empower creators to own their social graph,forming a fully composable, user-owned social graph.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meet3Club",
+    "slug": "meet3club-2wt52",
+    "description": "Meet3Club is a video/voice chat platform that connects people randomly and is made using Huddle01​​.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "enkg5",
+      "bw7y9",
+      "f7o0p",
+      "i90pd",
+      "v693n"
+    ]
+  },
+  {
+    "name": "FLYOVER",
+    "slug": "flyover-zk4nd",
+    "description": "A gaming protocol that offers a no-code infrastructure to any game, allowing developers to make their game NFT compatible and provide players the opportunity to make money from it.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "DuneTelegram Bot",
+    "slug": "dunetelegram-bot-uqtrr",
+    "description": "With this bot, you can get Dune Analytics, and reply to them without leaving Telegram.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Transparency",
+    "slug": "transparency-7a6fm",
+    "description": "An open complaint system that employs decentralization to address transparency issues and provides incentives to the common man so that no complain go unreported.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CodeCrunch",
+    "slug": "codecrunch-tbsmd",
+    "description": "CodeCrunch is Dev community focused tech forum to help developers get real \"Value\" and not just an illusionary value of \"Upvotes\" 😐 for contribution of time and precious knowledge.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox"
+    ]
+  },
+  {
+    "name": "JYanco",
+    "slug": "jyanco-nmpv4",
+    "description": "JYanco is building the NFT Explorer with GPT-3 (integration using NFTport and Covaland APIs Generates social media content for the NFT Promotion)",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "enkg5",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "BeQuest Protocol",
+    "slug": "bequest-protocol-yua52",
+    "description": "Your assets are your legacy,\nKeep them safe forever!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "bw7y9",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Praxis Finance",
+    "slug": "praxis-finance-vm3av",
+    "description": "Trade Onchain Perpetual futures built over AAVE's Deep liquidity",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Twelv12",
+    "slug": "twelv12-f62wr",
+    "description": "Multi-Sig Treasury for Web3 Game Assets",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Storemate",
+    "slug": "storemate-0j9ro",
+    "description": "Storemate helps you to prevent losing your IPFS data thereby preserving the on chain assets built on it",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "10a1v",
+      "f7o0p",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "FluidPay",
+    "slug": "fluidpay-vzktu",
+    "description": "Enabling innovative business models using stream pay!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Whisper Chain",
+    "slug": "whisper-chain-qxtpv",
+    "description": "Whisper Chain is a fun social experiment. This is our take on the famous game of Chinese whispers or telephone.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "UZUMETA",
+    "slug": "uzumeta-hmhvb",
+    "description": "UZUMETA is a ERC-4907 based NFT game rental protocol to help gamers easily start Web3/blockchain games. A user can borrow a game item NFT, play the game with the items, and share the earnings.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v",
+      "26gjy"
+    ]
+  },
+  {
+    "name": "Funcsion",
+    "slug": "funcsion-eohdv",
+    "description": "Enabling functionalities to be cross chain",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "gt566",
+      "6absf"
+    ]
+  },
+  {
+    "name": "Yuu",
+    "slug": "yuu-2z903",
+    "description": "Decentralized advertising marketplace",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "LensSocial",
+    "slug": "lenssocial-4fhs9",
+    "description": "Lensocial is a decentralized, reputation-based permissionless social media web3 app built on Lens protocol with push notifications and chat enabled.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Whale 🐳",
+    "slug": "whale-yg0ct",
+    "description": "The Only DAO / Community product you will need",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Gig3",
+    "slug": "gig3-4i7zu",
+    "description": "Gig3 is a marketplace for freelance projects with the focal point being a smart contract escrow wallet that holds the decided budget for each project.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JaMoon",
+    "slug": "jamoon-9zhsi",
+    "description": "Indexing LIFI swap using The Graph.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1nz66",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "xCompute Protocol",
+    "slug": "xcompute-protocol-62qpq",
+    "description": "Faster computation & lesser gas fees on blockchains!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "BlockuSign",
+    "slug": "blockusign-8qce8",
+    "description": "E-Notary System is a blockchain-based secured Digital Notarization system which gives institutions as well as common people privilege to sign the aggrements in a secured way. Its gonna be revolution.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT-LOTTERY",
+    "slug": "nft-lottery-xsm41",
+    "description": "NFT lottery based on dynamic nfts with storage on IPFS",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Knowallet",
+    "slug": "knowallet-u1j0x",
+    "description": "ZK-based AI-powered fully-anonymous enduser-consent-first with fallback-secure-investigation-enabled identitification layer for web2/3 companies.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "10a1v",
+      "xefox",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Hashmate",
+    "slug": "hashmate-3hp8x",
+    "description": "A decentralized password manager built using IPFS with simple encryption and wallet DIDs.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PredictNow",
+    "slug": "predictnow-9pmm3",
+    "description": "PredictNow allows anyone, with or without a crypto wallet, to predict sports tournaments such as World Cup 2022 and obtain a dynamic NFT that updates on each outcome powered by Open AI.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "ke9sy",
+      "xefox",
+      "iydyv"
+    ]
+  },
+  {
+    "name": "Technical Implementation of Proof of Solvency",
+    "slug": "technical-implementation-of-proof-of-solvency-75ug4",
+    "description": "An audit tool to find proof of liability and proof of reserve",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dUni",
+    "slug": "duni-nu3g3",
+    "description": "dUni (Decentralized University) offers a fully decentralized platform to create universities, create courses, conduct live classes and give License NFT Degrees.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "0xPlore",
+    "slug": "0xplore-1aa26",
+    "description": "Explore Through Streams!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Asset Vault",
+    "slug": "asset-vault-19dc5",
+    "description": "Make asset flow securely",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Puppy Fortress",
+    "slug": "puppy-fortress-eq5ma",
+    "description": "Puppy Fortress is a tower defense web3 game. You have to protect your house from the cat's attack, using your slingshoot you can impact the cats or use the environment to receive some help.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "Subscription based Decentralised Exchange",
+    "slug": "subscription-based-decentralised-exchange-nvbhs",
+    "description": "Coin swap in a gasless manner",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kuber",
+    "slug": "kuber-47mvz",
+    "description": "p2p lending",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "khaaliJaeb",
+    "slug": "khaalijaeb-eshof",
+    "description": "Empty pockets, full wallets",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SafePay",
+    "slug": "safepay-5dgeu",
+    "description": "SafePay is an on-chain mandate payment. \nA protocol to swiftly manage customarily periodical transactions both in ETH & in ERC20.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "SourceHunt",
+    "slug": "sourcehunt-t1yao",
+    "description": "SourceHunt- Github for DApp Developers",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "zk-mobile number verifier",
+    "slug": "zk-mobile-number-verifier-uq5yh",
+    "description": "Verify on chain accounts with off-chain phone numbers including area-wise segregation based on country codes",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "HexAds",
+    "slug": "hexads-o4cng",
+    "description": "web3 Ad-Management and analytics protocol",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "juzwo"
+    ]
+  },
+  {
+    "name": "Warreth",
+    "slug": "warreth-rgvf2",
+    "description": "A decentralized platform for issuing warranties for purchased products/items.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox"
+    ]
+  },
+  {
+    "name": "link3",
+    "slug": "link3-m5die",
+    "description": "Your passport to web3 in a link. An easy way to use your ENS as your link-in-bio.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Gatekeeping Protocol",
+    "slug": "gatekeeping-protocol-eid56",
+    "description": "One-stop entry management solution for everything that you wanna gatekeep.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "bw7y9",
+      "jkakt"
+    ]
+  },
+  {
+    "name": "Push pro",
+    "slug": "push-pro-nv62a",
+    "description": "Just an enhanced idea for push protocol",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeShare",
+    "slug": "deshare-ezpbx",
+    "description": "A Decentralised Content sharing with web2 like experience, and Smart contract based Incentive",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Santa Slay",
+    "slug": "santa-slay-0as57",
+    "description": "Santa Slay is a play-to-earn gateway into Web3. This meme game app, with its own beginner friendly NC wallet, will be a super fun “first Web3 experience” for a lot of people.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CreatorForce",
+    "slug": "creatorforce-2zfxo",
+    "description": "Empowering the Creator",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MilesPay",
+    "slug": "milespay-6acx5",
+    "description": "Mint a Dynamic NFT Invoice to manage the whole lifecycle of the shipment order and ensure timely payments via an escrow account.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "No Code Dynamic NFT creator",
+    "slug": "no-code-dynamic-nft-creator-jmvty",
+    "description": "Create no code NFTs which change the NFT design dynamically after certain defined time",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "zkFundRaise",
+    "slug": "zkfundraise-8iavg",
+    "description": "Your one stop privacy solution for anonymous fund raising and donations",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "New2Web3",
+    "slug": "new2web3-06mip",
+    "description": "Complete this 12-step guide to start your Web3 journey!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "bw7y9",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Nodify",
+    "slug": "nodify-vutf4",
+    "description": "Custom web3 push notifications now made easy with nodify",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Transfer Of Value Protocol",
+    "slug": "transfer-of-value-protocol-q800n",
+    "description": "The protocol that governs the rules of tomorrow.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InnovETH",
+    "slug": "innoveth-xhhn9",
+    "description": "Connecting innovators having enthusiasm with innovators having experience. InnovETH is a Web3 platform that fosters a supportive and inspiring atmosphere for innovation in the blockchain domain.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "Mar-Cat",
+    "slug": "mar-cat-8gwj1",
+    "description": "Find the new and upcoming dApps here and let all the other users know how you like them.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TheFlowX",
+    "slug": "theflowx-nc08o",
+    "description": "A No-Code solution to take various actions based on contract events using customizable blocks.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "pfyco",
+      "enkg5",
+      "wb7qe"
+    ]
+  },
+  {
+    "name": "SigmaZK",
+    "slug": "sigmazk-81d5x",
+    "description": "Proof of Work in a Zero knowledge way.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Bellatrix Protocol",
+    "slug": "bellatrix-protocol-ras1q",
+    "description": "Publicly Verifiable Private Blockchain",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Grid1",
+    "slug": "grid1-503sy",
+    "description": "Fork The One",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Live Nonce Video(qsocial)",
+    "slug": "live-nonce-video-qsocial-84dg1",
+    "description": "A Decentralized social media app",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deduplication layer on Filecoin",
+    "slug": "deduplication-layer-on-filecoin-7us53",
+    "description": "Store more, pay less",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "LensPay",
+    "slug": "lenspay-hudh5",
+    "description": "LensPay is a payment dapp built on top of lens protocol, Anyone with the lens handle can sent Payment/ERC20 tokens to user who also hold lens profile.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT-Minter",
+    "slug": "nft-minter-9s7si",
+    "description": "Mints NFTs",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenEmojis Nft",
+    "slug": "openemojis-nft-tntv5",
+    "description": "nft generative art project is the tool used to create multiple different art work based on your provided layers nft minting dapp is the dapp where person can mint their nft on their blockchain",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof Of Trust",
+    "slug": "proof-of-trust-sgam5",
+    "description": "No more insolvency, a protocol layer to audit and validate reserves against liabilities of Centralised Exchanges.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01",
+      "vsqgj",
+      "i27s1"
+    ]
+  },
+  {
+    "name": "AnimeOrg",
+    "slug": "animeorg-hs0gc",
+    "description": "Get your Anime in your city in nearest theaters on public demand",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KeepMyRecords",
+    "slug": "keepmyrecords-mcf1i",
+    "description": "Storing of medical records in a common place instead of across many healthcare services, and make anonymized data available for large scale research purposes (to analyze outbreaks).",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM Credential",
+    "slug": "fvm-credential-d9whd",
+    "description": "A tool that allows developers to create a secure credential store through the FVM and IPFS without compromising user data or sacrificing user experience",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Undercollateralized",
+    "slug": "undercollateralized-o4mx9",
+    "description": "Undercollateralized loans using zero-knowledge proofs and Lighthouse.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mirai Protocol",
+    "slug": "mirai-protocol-6m1da",
+    "description": "First of its kind, truly cross-chain lending protocol with optimized interest rate model.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "10a1v",
+      "pfyco",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Crowdies",
+    "slug": "crowdies-2b8u6",
+    "description": "A solution to help solve and streamline public crowdfunding solutions",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "PolyBikeRental",
+    "slug": "polybikerental-wtiv0",
+    "description": "Rent your bike through a seamless decentralized process with no  upfront cost and 100% trustless and secure protocol.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zk Lancers",
+    "slug": "zk-lancers-p7403",
+    "description": "A decentralised and distributed Freelancing platform enabling zero-knowledge transparency and authentic business between clients and freelancers based on a reputation system.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "xefox"
+    ]
+  },
+  {
+    "name": "Autopay",
+    "slug": "autopay-cusp4",
+    "description": "Enabling cross-chain recurring payments on-chain",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Synapse NFTmarketplace",
+    "slug": "synapse-nftmarketplace-2avjo",
+    "description": "A marketplace with unique identification using Privacy-Preserving Proof-of-Personhood Protocol (PPPoPP) to ensure that if a person is doing something for the first time.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "P2P Social Recovery",
+    "slug": "p2p-social-recovery-mdtcy",
+    "description": "P2P Social Recovery System for secure backup/recovery of your secrets without engagement of any centralised infrastrcuture (equally scalable to Web3 Wallets, Web2 Authenticators or Password Manager)",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "Panda Wallet",
+    "slug": "panda-wallet-ho171",
+    "description": "Where Web3 meets the Lazy!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "10a1v",
+      "bw7y9",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "ChainLess",
+    "slug": "chainless-ywobm",
+    "description": "Easily bridge assets through chains",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gitnft",
+    "slug": "gitnft-xf3op",
+    "description": "A personalized Github NFT for your resume. Just type your github username and we provide you with your personalised NFT. to prepare you for different job profiles.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Ghar On Chain",
+    "slug": "ghar-on-chain-7qpqr",
+    "description": "Easy Buy, Easy Sell",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "buucz",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "SellMyInvoice",
+    "slug": "sellmyinvoice-dno0c",
+    "description": "Sell invoices at a discount and get paid in crypto right now! \nWe aim to offer a decentralized invoice factoring service. \nSafe, secure, and encrypted storage !",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainPe",
+    "slug": "chainpe-4p82v",
+    "description": "Crypto to UPI",
+    "event": "ETHIndia 2022",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "10a1v",
+      "1nz66",
+      "1nz66",
+      "xefox",
+      "enkg5",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Augmnt Freelance Platform",
+    "slug": "augmnt-freelance-platform-1kujv",
+    "description": "Using NFTs for a real business use case. A freelance platform where the project request submitted by the client is minted as an NFT and a freelancer purchases this NFT to get client contact details.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "pfyco",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "dAd Space",
+    "slug": "dad-space-in47o",
+    "description": "Decentralized Ad Network -  You'r gateway to web3 Ad's",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "10a1v",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Butter",
+    "slug": "butter-waxu9",
+    "description": "UPI for crypto - go gasless",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GameZK",
+    "slug": "gamezk-7s0r1",
+    "description": "Implementing zk on games to make the experience better!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UnleashNFTs-Snap",
+    "slug": "unleashnfts-snap-fct1o",
+    "description": "Forensic and AI-powered NFT analytics that fight wash trading, fraud and give accurate value for digital assets.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Battery Swapping solution for Electric Vehicles",
+    "slug": "battery-swapping-solution-for-electric-vehicles-tx1zg",
+    "description": "You are limited by Mind, Not by battery of your Electric Vehicles.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ringa",
+    "slug": "ringa-v1y03",
+    "description": "Ringa is a new way to own and play games. You can now play games through minting NFTs and sell them anytime. Game creators will also earn royalties on every secondary sale.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lensium",
+    "slug": "lensium-1x3jf",
+    "description": "Decentralized Web3 Blog Dapp built on Lens protocol",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bowled",
+    "slug": "bowled-d0w8j",
+    "description": "Live your dream of owning a T20 cricket team!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "The Mafia",
+    "slug": "the-mafia-unpwa",
+    "description": "He is amongst us...",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hideme.lol",
+    "slug": "hideme-lol-xtjdc",
+    "description": "ZK-Infrastructure - by using zk proofs, hideme.lol allows you to CHOOSE a subset of some data and PROOF that it belongs to a whole set which has already been commited on-chain.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "pfyco",
+      "26gjy"
+    ]
+  },
+  {
+    "name": "Kleio",
+    "slug": "kleio-h6okq",
+    "description": "On-chain discovery protocol based on individual's browsing history with ZK to protect user privacy!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "6wi0d",
+      "am855"
+    ]
+  },
+  {
+    "name": "JobPortal",
+    "slug": "jobportal-9hh77",
+    "description": "One stop for Web3 Jobs",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkPayroll",
+    "slug": "zkpayroll-3y9po",
+    "description": "Privacy preserved payroll management and payment on Blockchain.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "Diebetes - Redefining Diabetes Pharmaceutics",
+    "slug": "diebetes-redefining-diabetes-pharmaceutics-2bikw",
+    "description": "Disrupting Pharmaceutical monopolies by bringing transparency and democracy while creating active awareness amongst the diabetes community.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "ke9sy",
+      "xefox",
+      "pfyco",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "D-Tree",
+    "slug": "d-tree-rjg3s",
+    "description": "Your One Stop Decentralized Portfolio",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "vPay",
+    "slug": "vpay-aj9my",
+    "description": "Say goodbye to test transactions on Mainnet",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "KillSwitch Engage",
+    "slug": "killswitch-engage-w2x5m",
+    "description": "Deadman's switch leveraging Account Abstraction",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Caddle",
+    "slug": "caddle-v9xdo",
+    "description": "Caddle is a data aggregation tool for the data science community to share large datasets for purposes ML Training and Data Analytics.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DegenWrap",
+    "slug": "degenwrap-5z7o7",
+    "description": "DegenWrap showcases hodlers a reflection of their nightmarish investments over the year 2022.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "juzwo"
+    ]
+  },
+  {
+    "name": "United States of Mind",
+    "slug": "united-states-of-mind-orrm2",
+    "description": "A silly game to help people coalesce around their values and found self-soverign states",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Soulens",
+    "slug": "soulens-qqdzd",
+    "description": "A sybill resistance for lens.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Astro - The Future Portal",
+    "slug": "astro-the-future-portal-b5t9c",
+    "description": "Build the future. Build the fortune.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "06qyw"
+    ]
+  },
+  {
+    "name": "Journal3 - Live on-chain Resume",
+    "slug": "journal3-live-on-chain-resume-5cafu",
+    "description": "Allowing data scientists and devs to create on-chain credentials from their validated work on Kaggle, Google Colab, Github, and Research Publications",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Mintix",
+    "slug": "mintix-1atch",
+    "description": "NFT movie ticketing solution",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dragd",
+    "slug": "dragd-95g5u",
+    "description": "Super simple creator tools to make websites and dapps.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "enkg5",
+      "enkg5",
+      "bw7y9",
+      "jkakt"
+    ]
+  },
+  {
+    "name": "Finesse",
+    "slug": "finesse-x9ut6",
+    "description": "A DeFi-powered ecosystem for fans to get exclusive access to their favorite songs and music artists.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "ke9sy",
+      "i90pd",
+      "v693n"
+    ]
+  },
+  {
+    "name": "Simon",
+    "slug": "simon-dqn0a",
+    "description": "The problem Refugee Help solves.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LaunchYourCoin",
+    "slug": "launchyourcoin-bsmdt",
+    "description": "zzA no-code ERC20 token generator which lets you set up liquidity pools, create customized airdrops and create utility for your token, all at one single place.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Cryptons",
+    "slug": "cryptons-naugq",
+    "description": "Coupon-ization of crypto tokens for easy to claim (gasless) Giftcards | Fair Airdrop | Crypto Payouts and infinite posible use cases.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v",
+      "1nz66",
+      "xefox"
+    ]
+  },
+  {
+    "name": "Sound Blocks",
+    "slug": "sound-blocks-rjude",
+    "description": "Decentralized Audio Sharing Platform",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "ChainCompute",
+    "slug": "chaincompute-nymeg",
+    "description": "Run expensive computations off-chain and push the result back on-chain",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTweet",
+    "slug": "nftweet-to2n0",
+    "description": "Every tweet is a story, mint your story into colours today!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Block Alerts",
+    "slug": "block-alerts-5e9uw",
+    "description": "Block Alerts provide a platform to set up alerts in your smart contracts.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "NFT CrossRoad",
+    "slug": "nft-crossroad-dz24x",
+    "description": "Swiss Knife for NFTs!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Smart Contract Wallet",
+    "slug": "smart-contract-wallet-ifig4",
+    "description": "Enable subscriptions in web3",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Terrafirmask",
+    "slug": "terrafirmask-c4a1i",
+    "description": "Claim your land on our decentralized network to avoid any disputes!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reputation V2",
+    "slug": "reputation-v2-tpi00",
+    "description": "A blockchain based ratings system which closely resembles a real life ratings model with a more balanced power model between a merchant/service-provider and the consumer.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ease NFTs",
+    "slug": "ease-nfts-ndrxp",
+    "description": "for hassle free and seamless buying experience...",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "enkg5",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "CourtX",
+    "slug": "courtx-py750",
+    "description": "Transparent, Tamper-proof & Decentralized Litigation",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "A.live Composable, Remixable NFT Protocol",
+    "slug": "a-live-composable-remixable-nft-protocol-e3x3s",
+    "description": "The a.live remix tool allows you to permissionlessly mashup any piece of music and mint user generated content as a new NFT.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeathNameService",
+    "slug": "deathnameservice-kzunc",
+    "description": "Come mint an ultra rare (.death) domain on Polygon!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LensParty",
+    "slug": "lensparty-6if6s",
+    "description": "LensParty, community profiles now on Lens Protocol!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "LensTok",
+    "slug": "lenstok-44a5b",
+    "description": "Decentralized Short form video content creation platform with a composable and decentralized social graph.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v",
+      "xefox",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "tinyQR",
+    "slug": "tinyqr-0u235",
+    "description": "Polygon Blockchain URL Shortener",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Smart Contract Farming",
+    "slug": "smart-contract-farming-1c5g2",
+    "description": "An exploration of demand-driven IRL contract-farming using smart contracts on Polygon, decentralized storage on LightHouse/IPFS, verifiable push notifications of payments using Push protocol.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dao keep",
+    "slug": "dao-keep-9js0i",
+    "description": "test",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Account2",
+    "slug": "account2-f9q1s",
+    "description": "A unique account abstraction implementation.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockTime Capsule",
+    "slug": "blocktime-capsule-tvma1",
+    "description": "Capture your memories. Relive them anytime.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPfy",
+    "slug": "ipfy-gvmvy",
+    "description": "Intellectual Property Licensing Platform: Advancing Innovation without Compromising\nCommerce",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Cryptster",
+    "slug": "cryptster-r1br9",
+    "description": "Cryptster is a decentralized, and permissionless crowdfunding app built with Lens Protocol 🌿.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Safe Notifications",
+    "slug": "safe-notifications-6dpbt",
+    "description": "Keep your web3 community up to date with on-chain and off-chain notifications delivered directly from your Safe multisig.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "enkg5",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Confimo",
+    "slug": "confimo-a7pu5",
+    "description": "Decentralised, anonymous, secure and efficient credential issuance protocol. Built a off-chain credentials system with client-side verification using Polygon ID and Worldcoin.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "10a1v",
+      "enkg5",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Bicotrage",
+    "slug": "bicotrage-8o1fc",
+    "description": "Execute the Arbitrage on the go!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "Yotsuha- Gasless & cross-chain interface",
+    "slug": "yotsuha-gasless-and-cross-chain-interface-b2os0",
+    "description": "User and developer friendly NFT bridge.Users can bridge NFT without paying for gas across multiple chains. We enable developers to use multiple messaging protocols with a common interface.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "gt566",
+      "i90pd",
+      "6absf",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Svinge",
+    "slug": "svinge-r81xp",
+    "description": "RPC Load Balancer",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "horsey: find the best rewards on web3",
+    "slug": "horsey-find-the-best-rewards-on-web3-frmvt",
+    "description": "horsey is a web app that allows protocols a simple way to offer rewards (airdrops, allowlists & more) to targeted groups of users who have completed proof-of-humanity via worldcoin.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "GMPal",
+    "slug": "gmpal-fm0w9",
+    "description": "Paypal for crypto - sending crypto to another user via his Email ID.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "Donate It",
+    "slug": "donate-it-1d2ru",
+    "description": "Donate any ERC20 token to your favourite charities",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Privacy-Auth",
+    "slug": "privacy-auth-5qakm",
+    "description": "Auth yourself without revealing anything sensitive.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zero Pass",
+    "slug": "zero-pass-66ifq",
+    "description": "Users can verify their phone number or solve captcha in this app to mint a NFT.\n\nOther apps can read the NFT to validate phone number, captcha etc.\n\nzk is used for anon profile.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "enkg5",
+      "am855"
+    ]
+  },
+  {
+    "name": "Merkle Math: find log and power with merkle tree",
+    "slug": "merkle-math-find-log-and-power-with-merkle-tree-hcfms",
+    "description": "A gas efficient library to find logarithm and power on chain, inspired by elementary school log tables. Lookup off-chain, prove on-chain. Almost a 50% improvement over ABDK math on gas use.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "Meet-me-3",
+    "slug": "meet-me-3-j6hxi",
+    "description": "A platform where you meet people randomly",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SSS: Secure Semantic Snap",
+    "slug": "sss-secure-semantic-snap-6d89g",
+    "description": "A MetaMask Snap that semantically understands the target contract bytecode of the transaction signed to save the user from malicious smart contracts.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "m46sz"
+    ]
+  },
+  {
+    "name": "nftlaunch.xyz",
+    "slug": "nftlaunch-xyz-s6zg6",
+    "description": "So you're launching an NFT collection. Presenting NFT launch! It recommends a set of people who've previously bought NFTs with similar prices and themes. Coming soon - Option to send them push notifs",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Improving Face Detectors using Data initiatives",
+    "slug": "improving-face-detectors-using-data-initiatives-vahfg",
+    "description": "We improve the fairness and reduce bias in Face Detection algorithms by improving the quality of training datasets as a decentralized data collection initiative with incentives for user and verifiers",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "enkg5"
+    ]
+  },
+  {
+    "name": "KeeperKeeper",
+    "slug": "keeperkeeper-ht3wq",
+    "description": "autonomous chainlink upkeeps manager",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkPay",
+    "slug": "zkpay-teavh",
+    "description": "Zero Knowledge Payment Gateway for a Privacy Focused Future",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "2x9jd",
+      "xefox",
+      "pfyco",
+      "enkg5"
+    ]
+  },
+  {
+    "name": "Cosmostic",
+    "slug": "cosmostic-j9oi5",
+    "description": "A Cosmos Wallet inside MetaMask using Snaps.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "m46sz"
+    ]
+  },
+  {
+    "name": "🐕 DOG NFT FOR  GOODLUCK✨",
+    "slug": "dog-nft-for-goodluck-0y3kt",
+    "description": "Limited edition NFT based on dogs",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Airbnb-DApp",
+    "slug": "airbnb-dapp-kz3r7",
+    "description": "Decentralized booking platform for airbnb",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IndoriETH",
+    "slug": "indorieth-p4d5q",
+    "description": "A Dapps where we notify users about the cryptocurrency price.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "idasa",
+    "slug": "idasa-wy1iy",
+    "description": "Gift ENS name as a gift card to your loved ones 🎁✨",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "OwnAd",
+    "slug": "ownad-aasop",
+    "description": "Turning your NFTs into Ad-Spaces.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Decentralize drive",
+    "slug": "decentralize-drive-w4ujx",
+    "description": "Every File Link doesn't Expire. Store your important documents safely and securely with decentralized file storage.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "anonph",
+    "slug": "anonph-14cqz",
+    "description": "An anonymous fundraising platform for raising funds for organisations enabling people to contribute anonymously through zkBob.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Consultly",
+    "slug": "consultly-fkw6e",
+    "description": "Secure face-to-face consultations over the P2P network and stream money only for the time used permissionless.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "v693n"
+    ]
+  },
+  {
+    "name": "Web3Rescue",
+    "slug": "web3rescue-xqc7q",
+    "description": "We say, PANIC before you lose your assets",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Judge On Chain",
+    "slug": "judge-on-chain-qq74n",
+    "description": "A Decentralized judicial system with a help option that directly send notification .",
+    "event": "ETHIndia 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "10a1v",
+      "xefox",
+      "enkg5",
+      "bw7y9",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "ETHway",
+    "slug": "ethway-mg1hm",
+    "description": "A new decentralised finance (Defi) app to revolutionize web3 payments.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Cricinshots",
+    "slug": "cricinshots-6kiao",
+    "description": "Cricinshots is a free to play + play & earn cricket strategy game. The game is set in the 31st century, with sustaiable economics and a fun gameplay.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTminter feat. Polygon",
+    "slug": "nftminter-feat-polygon-rek8r",
+    "description": "Nft minter on polygon",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrewS",
+    "slug": "crews-fhops",
+    "description": "CrewS is a No Code Tool to create Data DAOs. With CrewS you can take your crew on chain quickly to manage data along with governance.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RealReview",
+    "slug": "realreview-xfcxc",
+    "description": "First on-chain feedback platform that \nlet user earn rewards",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deefy",
+    "slug": "deefy-v8wbq",
+    "description": "Multi-chain analytics dashboard",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SeedChain",
+    "slug": "seedchain-4akqy",
+    "description": "Trust Delivered To Sow..",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "BankiFi",
+    "slug": "bankifi-3zbc0",
+    "description": "BankiFi is a decentralized platform that can be used to match borrower-lender, for lenders to earn fixed APY, and for borrowers to open a current position with USDC-WETH pair at 2x leverage.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xefox",
+      "bw7y9",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "AnyAEE7",
+    "slug": "anyaee7-oxa8x",
+    "description": "Interact with any existing Dapp using your EIP 4337-compliant smart wallet",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fortuna CrossChain Stable Swap by ContributionDAO",
+    "slug": "fortuna-crosschain-stable-swap-by-contributiondao-cgjnz",
+    "description": "Fortuna: people's stable swap built with heart, we aim to improve users experiences for crypto wallet, improve long-tail stable assets liquidity, improve projects' collaboration on different chains.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Banana Smart Wallet",
+    "slug": "banana-smart-wallet-rmkje",
+    "description": "2FA of Txs with Account Abstraction",
+    "event": "ETHIndia 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "10a1v",
+      "362vt",
+      "weaax",
+      "9z8z1",
+      "i27s1"
+    ]
+  },
+  {
+    "name": "ZK Worth",
+    "slug": "zk-worth-g5n10",
+    "description": "Proof of Worth using ZK",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tether Insights",
+    "slug": "tether-insights-rt9sd",
+    "description": "Combining Dune and Observablehq, \"Tether Insights\" describes uncommon insights from analyzing the tether stable coin.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "juzwo"
+    ]
+  },
+  {
+    "name": "ZeroTier",
+    "slug": "zerotier-3w24a",
+    "description": "Micro transactions to empower the creators building todays web3 culture",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tsunami",
+    "slug": "tsunami-9rups",
+    "description": "Tsunami is a protocol for PRIVATE token streaming at a per-second rate - without revealing information about the stream or its participants. Powered by zkSNARK tech.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "06qyw"
+    ]
+  },
+  {
+    "name": "Persona bot-wallet detection",
+    "slug": "persona-bot-wallet-detection-t62i8",
+    "description": "Identify bots to help dapps engage with real web3 users",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Hashi",
+    "slug": "hashi-jzfmo",
+    "description": "Hashi is bridge in japanese. The Hashi will leverage hyperlane interchain messaging api to transfer funds from one chain to another.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StationX.network",
+    "slug": "stationx-network-pt216",
+    "description": "We're a protocol for DAOs enabling anyone to create and manage a DAO for any use-case in under 60-seconds using our no-code platform with customisable templates.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crolio",
+    "slug": "crolio-numn1",
+    "description": "Invest in Ideas",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Open Rewards",
+    "slug": "open-rewards-8katx",
+    "description": "Incentivised open source",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Marketplace",
+    "slug": "nft-marketplace-e9h4i",
+    "description": "Secure decentralized chat application",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiLens",
+    "slug": "defilens-i3z22",
+    "description": "Build a social graph for Defi. So open discussions platform can be made on defi.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Donnor's Choice",
+    "slug": "donnors-choice-9xz35",
+    "description": "the corruption in department of organ donation & the ever-increasing waiting for organs donor",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Securus",
+    "slug": "securus-pdbpb",
+    "description": "A smart contract wallet that is recoverable using a otp",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Mercle",
+    "slug": "mercle-kah9a",
+    "description": "The easiest way to create and manage communities using the blockchain infrastructure.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "CredX p2p",
+    "slug": "credx-p2p-h94cx",
+    "description": "p2p - crypto to fiat DeX \n\nDeX version of localbitcoins.com or Binance p2p on polygon. \n\nWe are bridging on-chain token with off-chain fiat transfers using using polygon ID.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "D-news",
+    "slug": "d-news-jfvnf",
+    "description": "A Decentralized way of postig the news",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EasyLern",
+    "slug": "easylern-gkyxc",
+    "description": "EasyLern is a decentralized learning platform which uses some unique methods to ensure a safe and happy learning environment in a trustless environment.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VNS (VIT-AP Name Services)",
+    "slug": "vns-vit-ap-name-services-exoak",
+    "description": "Your Immortal API on the blockchain!",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smart Stamp",
+    "slug": "smart-stamp-ns8si",
+    "description": "Blockchain based stamps",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Governance Coin Dao Voting platform",
+    "slug": "governance-coin-dao-voting-platform-8s8qe",
+    "description": "Vote with or delegate your GovCoin tokens to help protect the integrity of the protocol",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTMusicPlayer",
+    "slug": "nftmusicplayer-2g2dc",
+    "description": "NFT music player with NFT marketplace where users can buy/sell there NFT's",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TransparentCharity",
+    "slug": "transparentcharity-b2wni",
+    "description": "Blockchain project aimed at ensuring complete transparency in Charity transactions.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trigger Protocol",
+    "slug": "trigger-protocol-sz9hu",
+    "description": "Trigger protocol democratises on chain actions, fixing fragmented actions/bot merkets.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Staking Paymaster",
+    "slug": "staking-paymaster-rknvw",
+    "description": "Pay gas with your staking rewards",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hackersGuild",
+    "slug": "hackersguild-ibi40",
+    "description": "One place for hackers and hackathon projects.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PUSH RGU Hub",
+    "slug": "push-rgu-hub-vcgd1",
+    "description": "Notices to your fingertips.\nPowered By Push Protocol (prev. EPNS)",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "De-ChainBook",
+    "slug": "de-chainbook-skv5z",
+    "description": "De-Chainbook enable buyers and sellers to engage with one another for the buying and selling of eBooks. The payment is done via cryptocurrency and login is enabled through web3Auth, and the books are",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bazaar - a PoC for buiding web3 native communities",
+    "slug": "bazaar-a-poc-for-buiding-web3-native-communities-jycv5",
+    "description": "Community interactions. Native.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "`Freedom of Speech",
+    "slug": "freedom-of-speech-bhhny",
+    "description": "First Law of Metaverse | Speak & Get Paid to Shut Up",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Litmosis",
+    "slug": "litmosis-auuej",
+    "description": "Enabling Financial Institutions to monetize their Fiat or Crypto treasury by launching their own white-labeled stablecoins, pegged to any local currencies using Proof of Reserves/Multi-sig.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Kicktsarter",
+    "slug": "decentralized-kicktsarter-c2z73",
+    "description": "The decentralized kickstarter allows the backers to see what the money they have pledged is being used for and maintains the transperency between the backers and the campaign creator.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS support for beaconcha.in",
+    "slug": "ens-support-for-beaconcha-in-x46dm",
+    "description": "This feature adds support for searching domains registered via ENS. Also contains support for search ahead to predict ENS domain search.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentraBanks",
+    "slug": "decentrabanks-jdf1r",
+    "description": "Banking Awareness over decentraland",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "+Votereum",
+    "slug": "votereum-nmsm4",
+    "description": "Voters can vote conviniently by connecting to their Metamask wallet using this platform. Admins can register candidates participating in the election.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "De-Man",
+    "slug": "de-man-w0fj7",
+    "description": "A \"Decentralized Management\" for for managing employment at an organisation",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiLoom",
+    "slug": "defiloom-a5p71",
+    "description": "A CLI tool that uses PowerLoom's DeFi API to discover Arbitrage and LP APY opportunities.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vggw5"
+    ]
+  },
+  {
+    "name": "Polysnap",
+    "slug": "polysnap-cbe2r",
+    "description": "Invoke Polywrap Wasm Wrappers on the fly, in the browser with Metamask snaps",
+    "event": "ETHIndia 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "m46sz"
+    ]
+  },
+  {
+    "name": "Lens Dashboard",
+    "slug": "lens-dashboard-oh31x",
+    "description": "Lens Dashboard helps you to manage your social media journey",
+    "event": "ETHIndia 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "CryptoFunds",
+    "slug": "cryptofunds-7a63t",
+    "description": "Our application is a donation application where users can donate cryptocurrency to their\nfavourite content creators.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Test1",
+    "slug": "test1-1jrps",
+    "description": "Only for testing",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "market palce for the cute kitties",
+    "slug": "market-palce-for-the-cute-kitties-gpc93",
+    "description": "decentralised market place",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Covex",
+    "slug": "covex-4zos3",
+    "description": "A DEX info dashboard",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion Times Metaverse",
+    "slug": "fusion-times-metaverse-nb8xf",
+    "description": "Created this Multiplayer metaverse, where you can get the option to roam around Medieval Spain or Modern NYC with a car of your choice.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DDrive - One Stop File Storage",
+    "slug": "ddrive-one-stop-file-storage-oqta9",
+    "description": "A decentralized file storage platform which functions quite similar to Google Drive with static URLs and enhanced Web3 features.",
+    "event": "ETHIndia 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BeyondClub",
+    "slug": "beyondclub-k48zn",
+    "description": "No-code NFT Loyalty Program for real-world brands and customers",
+    "event": "ETHIndia 2022",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "3zpxc",
+      "ke9sy",
+      "xefox",
+      "pfyco",
+      "f7o0p",
+      "i90pd"
+    ]
+  }
+]

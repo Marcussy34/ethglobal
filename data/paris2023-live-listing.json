@@ -1,0 +1,3134 @@
+[
+  {
+    "name": "DigiMedia",
+    "slug": "digimedia-3fqo4",
+    "description": "a solution that helps digital media creator to monetize her content specially at the begining step",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AAbstr.actor",
+    "slug": "aabstr-actor-42x2g",
+    "description": "Wallet for your ERC-6551 Accounts. Log-in to dapps as your ERC-6551 accounts.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Use Flashbots Protect!",
+    "slug": "use-flashbots-protect-e0wgi",
+    "description": "Flashbots Protect: Your Ultimate Defense on the Ethereum Network",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cropay",
+    "slug": "cropay-m2f4y",
+    "description": "An onchain and off chain payment system enabling small scale farmers transport their produce to market",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CloudConnect v2",
+    "slug": "cloudconnect-v2-x0bu1",
+    "description": "The revamped cloud walletconnect dashboard - Brand new experience for all users",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "World Id Telegram Bot",
+    "slug": "world-id-telegram-bot-mgzy0",
+    "description": "A Telegram bot for safe and discreet community governance using ZK signals",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Intentful 4337 Plug-in",
+    "slug": "intentful-4337-plug-in-itjyt",
+    "description": "We integrate the Cow Protocol like Good-after-time order type to the 4337 compliant smart wallet as plug-in, with default MEV rebate functionality enabled by MEV-share",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "mba9h"
+    ]
+  },
+  {
+    "name": "Credit Card",
+    "slug": "credit-card-73qb9",
+    "description": "Making assets interoperable & chain agnostic without adding any time delays and without effecting the security.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "DeLink",
+    "slug": "delink-ydt4d",
+    "description": "Attestation service based on networking fundamentals to help people succeed in finding a connection for a role, contribution, or relationship in a social graph.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FollowDrop",
+    "slug": "followdrop-2u18r",
+    "description": "Leveraging Social Networks for Tokenized Incentives Using Zero Knowledge Proofs",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pérenne",
+    "slug": "perenne-um1x5",
+    "description": "Your memories are worth keeping. Document encryption and sharing between members of a Safe.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ethsurance",
+    "slug": "ethsurance-6oxo7",
+    "description": "Community-driven insurance with proof of attendance, mitigating risks and fostering mutual aid",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1shield",
+    "slug": "1shield-56mbf",
+    "description": "An advanced solution enabling private transactions within DeFi apps and beyond",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0p5er"
+    ]
+  },
+  {
+    "name": "MultiMultiFaucet (Attempt)",
+    "slug": "multimultifaucet-attempt-agi3a",
+    "description": "An attempt at making the best faucet ever (a faucet that drips multiple tokens and NFTs, on multiple testnets)",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto OTC Attestation Protocol (COAP)",
+    "slug": "crypto-otc-attestation-protocol-coap-bkqjk",
+    "description": "Trade Cryptocurrencies OTC with Confidence using SISMO, EAS, and the Graph. On-ramp / Off-ramp with anyone in the world!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Croissant protocol",
+    "slug": "croissant-protocol-vfkbs",
+    "description": "We use MAKER conduits and sDAI to generate yield for subDAO's and end-users. Save more by using croissant protocol on your phone!!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "e3t1p",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "MetaDeployer",
+    "slug": "metadeployer-3aqet",
+    "description": "MetaDeployer acts as a schema or psuedo key value database stored on IPFS. It is intended to provide a simple accessible means for storing metadata on a distributed file system.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Mome",
+    "slug": "mome-zgdu2",
+    "description": "Mome is a social 2.5 platform that allows users to create and participate in daily time capsules containing the 12 most popular posts of the day. These capsules are sealed on-chain as ERC-6551 NFTs, preserving the content forever.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "t3zyt",
+      "pn953",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "Cash Out Protocol",
+    "slug": "cash-out-protocol-teuwn",
+    "description": "Cash out protocol allow users of the protocol to easily aggregate their assets onto one chain natively, and all as one singular token.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "szsmr"
+    ]
+  },
+  {
+    "name": "Linea NFT Indexer",
+    "slug": "linea-nft-indexer-rv5gf",
+    "description": "Index nft create on the linea mainnet blockchain, they are a process who check every 6 seconds new nft events on the blockchain to index it",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Forsage",
+    "slug": "forsage-hodyn",
+    "description": "Automated conditional transactions using Account Abstraction",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Les Snacks",
+    "slug": "les-snacks-d6dnz",
+    "description": "Multi-connect reputation based restaurant application increasing the fun of dining out and decreasing the fud of unverifiable restaurant reviews.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Metamorphic DAO",
+    "slug": "metamorphic-dao-nypyn",
+    "description": "I used Cartesi platform to build a new type of DAO. In this DAO, all the execution logic of DAO is melleable  through governance process. This allows continuous evolution of the DAO runtime logic through governance process.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "buucz"
+    ]
+  },
+  {
+    "name": "CrossChainCircuit",
+    "slug": "crosschaincircuit-zgg1v",
+    "description": "Solution for cross-chain communication for SAFEs using Hyperlane and NOUNS DAO branded artwork",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKC20",
+    "slug": "zkc20-wwdk3",
+    "description": "basically, will amount to a zero knowledge erc20 token standard on Ethereum",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MEV-Share Uni-Sushi Arb Bot",
+    "slug": "mev-share-uni-sushi-arb-bot-veu1e",
+    "description": "A MEV searching bot that does probabilistic Uniswap/Sushiswap arbitrage on MEV-Share",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mba9h"
+    ]
+  },
+  {
+    "name": "Unramped",
+    "slug": "unramped-p170j",
+    "description": "A decentralised peer to peer off & onramp, designed to challenge centralised alternatives.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "Zook",
+    "slug": "zook-mczds",
+    "description": "Payment Channel Solution enabling yield generating transactions",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Payflux",
+    "slug": "payflux-1u9sn",
+    "description": "We offer a personalized gas payment strategy tailored for each business. With our dApp, businesses can define a specific group of users whose gas fees they are willing to cover. They can also define specific conditions for those groups.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Popov",
+    "slug": "popov-2b6rf",
+    "description": "Popov enables the first-ever democratic(one-person, one-vote), Sybil-resistant, and AI-powered on-chain voting for local DAOs/communities.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Griftonite",
+    "slug": "griftonite-gfmoh",
+    "description": "A decentralized transparency platform that allows real professionals and small businessmen to stand out among the grifters, while helping buyers know who they are working with.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bob the Solver",
+    "slug": "bob-the-solver-yxtgp",
+    "description": "Infrastructure for Intent-based transactions for better UX of wallets and dapps.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SubScript.io",
+    "slug": "subscript-io-hfefe",
+    "description": "Create and manage subscriptions with SubScript.io. Fully decentralized, zero-fees and super easy for both merchants and customers.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5b69q",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Proof of Alpha",
+    "slug": "proof-of-alpha-vu5z2",
+    "description": "Prove your trading success and swap history without revealing your wallet address",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "6wi0d",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "GraphID",
+    "slug": "graphid-j6x5p",
+    "description": "GraphID is a self-sovereign knowledge graph platform that promotes data autonomy by enabling users to structure, manage, and visualize their data from various Web2 and Web3 accounts.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pn953",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "TeleSafe 🔐",
+    "slug": "telesafe-q20fy",
+    "description": "A safer alternative to Telegram bot based trading - TeleSafe provides the infrastructure for delegation of certain DeFi activities from a Safe{Wallet} to a hot wallet (utilising Web3Auth) with a simple command interface inside a Telegram bot.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "0p5er",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "Programmatic NFTs",
+    "slug": "programmatic-nfts-kx2gk",
+    "description": "ERC6551 accounts that allow customisable tokenURIs without changing any underlying token, bringing liquidity to loyal holders for practically free.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZAP",
+    "slug": "zap-7oqiz",
+    "description": "ZAP: Zero-Knowledge Attestation Proof! Use Mina protocol to verify on-chain EVM data statements without revealing extra info. Authenticate with MetaMask, connect your Mina wallet, and voila!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Face Pass",
+    "slug": "face-pass-hnn5d",
+    "description": "A wallet based on your face with no access to the seed phrase or private key 👀",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "jywri"
+    ]
+  },
+  {
+    "name": "InflaDash",
+    "slug": "infladash-a6i4f",
+    "description": "Decentralized Inflation Dashboard, based on the initial idea of @Balajis, leveraging decentralized censorship-resistant web3 protocols",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Payzer X",
+    "slug": "payzer-x-jp33q",
+    "description": "Payzer X removes most of the friction associated with using web3 wallets and interacting with dapps.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkDocs",
+    "slug": "zkdocs-djigo",
+    "description": "zkDocs enables counterparts to privately create and sign legal agreements. However, if a rule is violated, it discloses personal data to facilitate legal resolution by the court system. This ensures a secure and transparent process for resolving disagreements.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Review Hunter",
+    "slug": "review-hunter-y9be7",
+    "description": "A Web3-native verifiable review protocol to help projects & brands collect reviews from verified customers.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Xyft",
+    "slug": "xyft-21sku",
+    "description": "A modern Account Abstraction based wallet targeting people who are new to Web3, it ABSTRACTS EVERYTHING. You don't need to be concerned of the chain or token for completing any transaction. You should only be concerned with your money!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "OnlyFrens",
+    "slug": "onlyfrens-vr12g",
+    "description": "Introducing OnlyFrens: A revolutionary hackathon project enabling users to form communities using NFTs under ERC-6551. Easily transfer entire communities to new owners, regardless of collections. Unleash the power of NFTs in building unique, decentralized groups.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK Microphone",
+    "slug": "zk-microphone-8161v",
+    "description": "🎙🔒 ZK Microphone: Trusted audio in the age of deepfakes 🔒🎙 Generative AI is a threat to society. It enables disinformation, manipulation, and political subversion. We've built the world's first attested microphone and used ZK-SNARKs to protect authenticity and privacy.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "992b8",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Connect the Fam",
+    "slug": "connect-the-fam-2kqpu",
+    "description": "Redesigned WalletConnect UX for Seamless Onboarding: Creating a Cohesive User Experience for Self-Onboarding",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "together",
+    "slug": "together-q4mtt",
+    "description": "\"🚀 Introducing 'Together': A revolutionary weighted multi-signature wallet on Mina blockchain! Empowering businesses to customize transaction approvals based on user weights, ensuring secure and flexible collaboration. Privacy-centric with SnarkyJS & TypeScript.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Tolls.",
+    "slug": "tolls-m9104",
+    "description": "Tolls is an on chain mechanism for protecting geographic areas from overloading. Individuals are able to reserve plots of land and a smart contract ensures any visitors to the location are charged at TOLL fee for the right to access.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Délégative",
+    "slug": "delegative-wwptp",
+    "description": "Offchain DAO liquid democracy voting application with identity proofs and vote delegations.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "4i0qt",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Autonomous Artisit",
+    "slug": "autonomous-artisit-fb1qr",
+    "description": "Autonomous artist creates art based on global news through stable diffusion and sustains themselves by selling their artwork on decentralized exchanges. DAO governance is built to ensure decentralization and people can interact with the artist via the DAO.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EZWallet",
+    "slug": "ezwallet-fnpr8",
+    "description": "EZWallet enables simple email signup for multi-chain crypto wallets. Send assets across Ethereum, Polygon, etc using easy-to-remember unique noun identifiers, abstracting away complex addresses.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "y4cxw",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "AutoStark",
+    "slug": "autostark-g24r9",
+    "description": "AutoStark allows users to automate tasks on the StarkNet. It is a secure and cost-effective way to automate tasks such as sending payments, updating smart contracts, and managing user accounts.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "ae-FIL-liate",
+    "slug": "ae-fil-liate-s691e",
+    "description": "Enabling Filecoin-Plus for high-end users without revealing their off-chain data by using ZK-Snark / Recurssive ZK-Snark Proofs.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Deehr Market",
+    "slug": "deehr-market-mvpzu",
+    "description": "Empowering patients with ownership of their electronic health records (EHR) while facilitating medical research through secure, decentralized data sharing.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "GLSwaps (Grandma Leveraged Swaps)",
+    "slug": "glswaps-grandma-leveraged-swaps-gzit8",
+    "description": "Users now have access to spot and perpetual markets from the Uniswap app (app.uniswap.org) using the GLS browser extension routing through GMX as well. This makes the on-chain trading experience as good as Binance unlock huge trading volumes with the slick UX for degens.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "TrustBoard",
+    "slug": "trustboard-r5mtk",
+    "description": "TrustBoard DAO is a decentralized organization dedicated to optimizing the functionality of corporate boards.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "RealMint",
+    "slug": "realmint-5zce3",
+    "description": "RealMint is for minting only Real NFTs! NFTs that do not disappear because the link broke or domain name expired. We empower creators to mint genuine, decentralized NFTs, and raise awareness against faux NFTs using centralized services. These Pseudo NFTs shouldn't exist.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TransactionSafe",
+    "slug": "transactionsafe-h0s66",
+    "description": "Insurance platform offering the possibility to both protect the DeFi ecosystem and increase the yield of yield bearing assets.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Baguette",
+    "slug": "proof-of-baguette-ing99",
+    "description": "Proof of Baguette mints you a Soulbound Token if you are a holder of a passport.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "9z8z1",
+      "362vt",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Promoteur",
+    "slug": "promoteur-j59sh",
+    "description": "Promoteur simplifies Web3 marketing and promotions by targeted messaging and engagement tracking. It's a simple yet powerful tool to reach the right people at the right time.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fb98y",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "CCIP ME",
+    "slug": "ccip-me-ikmyq",
+    "description": "A simple cross chain dapp built using chainlink CCIP to mint nft from one chain to other.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Safe DAO 6551",
+    "slug": "safe-dao-6551-23nbc",
+    "description": "Our project creates a DAO via the ERC 6551 Token Bound Account standard. Users mint an NFT on our platform, which allows them to generate a unique DAO account. This account can accept any form of assets and has a standalone on-chain transaction history.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Melon",
+    "slug": "melon-5evcs",
+    "description": "Melon revolutionizes DAO governance with secure ZKP identity verification via Sismo. Influence is based on Sismo rank, ensuring fair, transparent decision-making. Trust in DAOs, now preserved & enhanced!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dubini",
+    "slug": "dubini-5z9kd",
+    "description": "Governance communication tool for DAOs - Web3 native space governance",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Daoscord",
+    "slug": "daoscord-sa6s5",
+    "description": "The easiest and most convenient way to decentralize your Discord server!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "y4cxw",
+      "sqmih"
+    ]
+  },
+  {
+    "name": "PASS (Public Assembly Sponsorship System)",
+    "slug": "pass-public-assembly-sponsorship-system-yq8of",
+    "description": "Our app showcases a functional ERC4337 account abstraction implementation that programmatically subsidizes transaction gas fees, depending on a user's inclusion on an onchain allowlist, stored in the custom paymaster.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "Community-bound",
+    "slug": "community-bound-y73ys",
+    "description": "Community Bound Tokens (CBTs) are ERC-20 tokens that can only be transferred among members of a community, which can be used for reputation, community merit based governance, opt-in social credit score, coordination games or engagement scores.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Lineaxer: Linea NFT Indexer",
+    "slug": "lineaxer-linea-nft-indexer-foqs5",
+    "description": "NFT (ERC721) indexer with a self-deployed subgraph on Linea Goerli",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4pn9u",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Pixel Link",
+    "slug": "pixel-link-26gw2",
+    "description": "A cross-chain protocol for NFT utility, which provides for a valaue layer (ethereum) where IP lies, and a utalitarian layer (Gnosis), where individual utility may be claimed and traded with low gas fees",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Acid chains",
+    "slug": "acid-chains-z45bc",
+    "description": "Unlocking Ethereum's potential with the Acid chains, pushing scalability to the max, reducing transaction times, cost and fostering innovation, all within existing nodes.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Bandwagon",
+    "slug": "bandwagon-yki6b",
+    "description": "Secure voting system based on homomorphic encryption that combats the bandwagon effect.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Trust Credit",
+    "slug": "trust-credit-w8avm",
+    "description": "Absence of credit scores in web3 lending leads to over-reliance on collateral, inhibiting access to credit for users with limited crypto holdings.Trust Credit creates social ID’s with ERC - 6551 to establish them a credit score and enhance more effective economic interactions.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Private Pass",
+    "slug": "private-pass-dhadi",
+    "description": "A stupidly easy way to verify your identity, to comply with regulations, without sacrificing your privacy.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Wallet Hopper",
+    "slug": "wallet-hopper-db9dw",
+    "description": "Solving the address mapping problem in a backwards-compatible way.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "9zj01",
+      "4pn9u",
+      "2x9jd",
+      "fp1x1",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "ZenetikNFT",
+    "slug": "zenetiknft-1ph5r",
+    "description": "Select images expressed by genetic AI and breed new NFTs. zkML and ERC7007 guarantee that all NFTs are minted with these images. Sign in with your Worldcoin ID to own and breed these awesome NFTs.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "4pn9u",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Poseidon Swap",
+    "slug": "poseidon-swap-avdiu",
+    "description": "Swap your tokens cross-chain at the best rate by avoiding high slippage and price impact",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "StableBanker",
+    "slug": "stablebanker-xrjch",
+    "description": "A telegram bot that leverages zksync's native account abstraction to sell your stablecoins when they start to depeg",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y24y0"
+    ]
+  },
+  {
+    "name": "ghostPay",
+    "slug": "ghostpay-mx9r5",
+    "description": "At the point of submission, ghostPay operates as a widget or plugin, serving as a payment gateway. It comes with an open-source SDK that allows users to link their web2 applications to web3.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DustConduit",
+    "slug": "dustconduit-s2py7",
+    "description": "Interaction with Maker liquidity through the subDAOs leveredging conduits standarised interface",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "ZkMask",
+    "slug": "zkmask-0x1z4",
+    "description": "ZkMask introduces a novel 2FA protocol, leveraging the power of zk-SNARKs and face recognition technology to secure blockchain transactions. ZkMask scans the user's face to generate a cryptographic key, introducing a second layer of security.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Symbiotic Bonding Curves",
+    "slug": "symbiotic-bonding-curves-q11gf",
+    "description": "Symbiotic Bonding Curves enable sustainable funding for DAOS that evolves together with them. Built as an Aragon plugin.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "e3t1p",
+      "sqmih"
+    ]
+  },
+  {
+    "name": "Memories for Sales",
+    "slug": "memories-for-sales-4ux39",
+    "description": "Memories for Sales is a multi-media creative project that offers the first collaborative platform for various creative stakeholders to work on smart contract and on consequent content intuitively.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "GamblingTurtles",
+    "slug": "gamblingturtles-1ebhk",
+    "description": "A game of racing turtles. Stake to play, bet to win (and bring chaos).",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AGI Alignment DAO",
+    "slug": "agi-alignment-dao-dj5n2",
+    "description": "AGI Alignment DAO: Allowing All of Humanity to Control AGI by constructing a constitution for AGI to follow",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "jzpj5",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Web3 Soundbox",
+    "slug": "web3-soundbox-in4kn",
+    "description": "Unified Payment Aggregator for small merchants enabling cross chain payments",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "y4cxw",
+      "hoadp"
+    ]
+  },
+  {
+    "name": "starksplitter",
+    "slug": "starksplitter-2m5j2",
+    "description": "OpenZeppelin payment splitter implemented in Cairo with a react frontend",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "TyphoonCashX",
+    "slug": "typhooncashx-p10yd",
+    "description": "TyphoonCashX is a protocol enabling bridging any ERC20 native tokens across any EVM compatible chain in an anonymous fashion. We embrace the multi chain ecosystem by allowing our users to fluidly navigate their funds across the ecosystem, while preserving their privacy.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "4i0qt",
+      "0p5er",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Edu-Lend",
+    "slug": "edu-lend-zzr1s",
+    "description": "Edu-Lend is a  platform where Samaritans of the world could contribute anonymously or non-anonymously to the budding developers  who are currently facing a entry barrier for participating in events like Hackathons (or) taking up educational bootcamps/courses ,etc",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "pn953",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "LeP2P",
+    "slug": "lep2p-ga5px",
+    "description": "Sybil-resistant decentralized fiat on/off-ramp for crypto that allows users to trade through a smart-contract escrow.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3",
+      "pfyco",
+      "10a1v",
+      "jywri"
+    ]
+  },
+  {
+    "name": "Dynamo Rates",
+    "slug": "dynamo-rates-a6idq",
+    "description": "A dynamic interest rate strategy for SDAI on Spark Protocol using Chainlink Automation.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "🦭🦭 Seal Seal Seal 🦭🦭",
+    "slug": "seal-seal-seal-12j8k",
+    "description": "A sybil-resistant gas sponsoring paymaster that is powered by backrunning!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "link3",
+    "slug": "link3-x5yvb",
+    "description": "Link3 IOS is a lightweight iOS app that utilises enstate.rs for blazingly fast ENS record display.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ishibashi",
+    "slug": "ishibashi-4waas",
+    "description": "This project aims to enable more secure execution of cross-chain messaging.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bubbles",
+    "slug": "bubbles-avp6o",
+    "description": "Bubbles is a voice chat app for onchain communities. Create token-gated rooms based on token ownership, POAP claims, group affiliations and more.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4i0qt",
+      "fb98y",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Cross-ChAAin",
+    "slug": "cross-chaain-17g2k",
+    "description": "Cross-ChAAin: Simplifying blockchain interactions. Swap ERC20s, deposit to L2, or convert tokens without ETH. Powered by our custom smart contract wallet and unique paymaster logic. #UX #Gasless",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "362vt"
+    ]
+  },
+  {
+    "name": "WALA",
+    "slug": "wala-g6nzi",
+    "description": "Wala empowers your communities by covering their gas fees through prepaid gift cards",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "ke9sy",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "D/Wallet -Compliant RWA wallet",
+    "slug": "d-wallet-compliant-rwa-wallet-u9hnv",
+    "description": "D/Wallet: Compliant real world asset management tool. Self-Sovereign Identity, anonymous KYC process, on-chain token metadata, no gas fees delegate transaction",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Key Passport",
+    "slug": "key-passport-hdhmi",
+    "description": "Manage your your keys, attestations, ZK identities & proofs.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "992b8"
+    ]
+  },
+  {
+    "name": "decentralized-git",
+    "slug": "decentralized-git-vdf6w",
+    "description": "Decentralized git-based storage on IPFS with diff-based versioning",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Einstein Summation in Cairo (ZKML Operator)",
+    "slug": "einstein-summation-in-cairo-zkml-operator-sybc0",
+    "description": "We implemented the EinSum, Logical OR and Logical XOR on the Orion repository to increase the amount of possible tensor operations for Zero-Knowledge Machine Learning on Starknet.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "ASAP - As Social As Provable",
+    "slug": "asap-as-social-as-provable-jeqna",
+    "description": "A collaboration tool aimed at companies and DAO to make them able to post on decentralized protocol without the need to give a private key to a 3rd party like a community manager.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4i0qt"
+    ]
+  },
+  {
+    "name": "Gnosis Wallet Search",
+    "slug": "gnosis-wallet-search-85rzj",
+    "description": "Its a text-based wallet analytics search for gnosischain. Imagine ChatGPT and Gnosisscan have a baby.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "whataproof",
+    "slug": "whataproof-04uoq",
+    "description": "Whataproof is a decentralized anonymous content distribution platform with copyright protection. The app is perfect for selling financial research from research firms or confidential information from commercial organizations. Our solution can protect government files..",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Coral - Tools for Media Verification",
+    "slug": "coral-tools-for-media-verification-33c6s",
+    "description": "The project combines image segmentation AI models with blockchain attestation and other cryptographic tools and smart contracts to offer a solution for media verification and authentication in the age of AI. The project can go further to develop a royalty compensation system.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omnichain Governor Standard",
+    "slug": "omnichain-governor-standard-4fy7g",
+    "description": "an advanced smart contract standard enabling seamless omnichain governance integration into DAOs",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "szsmr",
+      "10a1v",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "PayFlow",
+    "slug": "payflow-76g7w",
+    "description": "Pay in any crypto, receive in fiat. All DeFi features at your fingertips with no credit card fees, yet enjoy the universality of a bank transfer.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "46q4i",
+      "jywri"
+    ]
+  },
+  {
+    "name": "Git Attestation",
+    "slug": "git-attestation-sqnfi",
+    "description": "Attestation of originality of source code using EAS and IPFS",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verifying Magic Ben",
+    "slug": "verifying-magic-ben-tmfwf",
+    "description": "An On-Chain Speaker Verification Model to Confirm Speaker Identity on Cartesi Rollup",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vlock",
+    "slug": "vlock-x3cny",
+    "description": "Imagine being able to create votes and cast ballots entirely anonymously; to reward voters, count them down, and do so without ever needing to know their IDs. That's what VLOCK does! On-chain, thanks to our ZKP technology linked to SISMO and EAS.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Humane AI",
+    "slug": "humane-ai-r5m49",
+    "description": "Humane AI is crowdsourced dataset powering future AGI for humanity.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "xDomain",
+    "slug": "xdomain-f5xnp",
+    "description": "Check out #xDomain made at #ETHGlobalParis! A historical cross-domain arbitrage visualization tool powered by odos.xyz/arbitrage. Handy for researchers studying cross-domain market inefficiencies: https://github.com/0xsamgreen/xDomain",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOChat",
+    "slug": "daochat-0q8ws",
+    "description": "Increase engagement and participation in your DAO by bringing governance to the one place everyone is familiar with: a group chat.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "nbyyv",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Parity",
+    "slug": "parity-b6mkg",
+    "description": "a decentralised platform addressing the lack of job market transparency across web2 and web3 through zk-verified insights and optimistic oracles, empowering professionals to make confident career choices.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "zk chess",
+    "slug": "zk-chess-2u7yd",
+    "description": "A Mina zk-app to play on-chain chess with other participants with computation happening offchain and validity proofs being submitted for valid moves on-chain.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "CréditDécentrale",
+    "slug": "creditdecentrale-wbzz4",
+    "description": "CréditDécentrale introduces a decentralized credit score system using zkSNARKs, Decentralized Computation and Storage. It offers personalized and private credit scores, enabling efficient lending without overcollateralization thus enhancing transparency and trust.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "pfyco",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "HelloCelo",
+    "slug": "hellocelo-a31st",
+    "description": "EcoNFTopia - Where Fun Meets Sustainability on Celo! 🌍🌈 Step into a world of whimsical wonders and eco-conscious creativity! 🌱🎨 Our NFT sustainable collection on Celo is here to dazzle you with delightful digital art while leaving a positive impact on our beloved planet. 🌎✨",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoRefund",
+    "slug": "cryptorefund-oosvj",
+    "description": "Offering an incentivized form of shopping with tax-free benefit that can be paid back in crypto",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "ZkAlpha",
+    "slug": "zkalpha-twwtg",
+    "description": "zkAlpha connects quant traders and liquidity providers w/o revealing the strategy trustlessly through the use of ZKML.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "qy8m3",
+      "9zj01",
+      "2x9jd",
+      "0p5er",
+      "0p5er",
+      "inotq"
+    ]
+  },
+  {
+    "name": "Uncensored GPT-5 (Blockchain)",
+    "slug": "uncensored-gpt-5-blockchain-15did",
+    "description": "Uncensored 100% decentralized GPT AI chat running on the blockchain",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTogether",
+    "slug": "nftogether-ak4bt",
+    "description": "NFTogether is a prize savings protocol leveraging the token bound accounts (ERC6551). It is a PoolTogether derivative app where NFTs and specific tokens held in their tokenbound accounts a bonus chance to win on top of the amount of stablecoin user deposits.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "2x9jd",
+      "0p5er",
+      "fp1x1",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "DelegChat",
+    "slug": "delegchat-b0wdm",
+    "description": "DelegChat is a privacy-preserving gated chat app created to improve communication between delegates & delegators.   This app enable confidential communication through end-to-end encryption. Chat access control is token-gated through Sismo with an NFT depending on the delegate.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Voulez-Vous Authenticate",
+    "slug": "voulez-vous-authenticate-ik3ad",
+    "description": "Voulez-Vous Auth is a single-sign on solution for organisations by using account abstraction and zkProofs",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "StarkConnect",
+    "slug": "starkconnect-990jf",
+    "description": "StarkConnect allows you to connect your EVM wallets like Metamask on non EVM chains like Starknet.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CallHook",
+    "slug": "callhook-362hi",
+    "description": "Callhook is an extension for all EVMs addressing the current limitation in smart contracts whereby smart contracts can only be invoked by EOAs. Contracts are unable to initiate calls and this limitation hinders the adoption of flexibily and event-driven paradigms",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "SigmaWallet",
+    "slug": "sigmawallet-tkzye",
+    "description": "A social wallet that allows users to log-in with well-known providers (i.e. Google, Github, etc) and sign transactions with the credentials from these providers.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y24y0"
+    ]
+  },
+  {
+    "name": "NAL - Now Any Loans",
+    "slug": "nal-now-any-loans-un8ed",
+    "description": "Enhanced lending model where users vote to secure the protocol",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "fp1x1",
+      "10a1v",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "BoStaking",
+    "slug": "bostaking-ktr0e",
+    "description": "A decentralized app allowing for staking of XAVA token Avalanche, using Near's BOS and thegraph for indexing",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5b69q",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "noosphere",
+    "slug": "noosphere-ai746",
+    "description": "Explore, curate, and share insightful articles in a community-driven space. Our platform fosters a rewarding ecosystem for public knowledge sharing and growth.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Turnip",
+    "slug": "turnip-5y7ag",
+    "description": "By the power of recursive proofs and parallelizations, Turnip is a ZK-Rollup for Mina that uses Filecoin  as the data layer towards the goal of a faster & improved system.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "ChadSwap",
+    "slug": "chadswap-iek9p",
+    "description": "ChadSwap utilizing smart dynamic routing LP for DeFi and CeFi for verified users.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "Magnet.ID",
+    "slug": "magnet-id-m8pvo",
+    "description": "Magnet merges physical & digital realms, making real-life experiences verifiable on-chain credentials. Users earn badges, connect with like-minded people, while brands reach authentic audiences. Foster meaningful connections & better matchmaking; 'Here for Real, not the Reel.'",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "ZKRPS",
+    "slug": "zkrps-or6tc",
+    "description": "ZKRPS is a Rock Paper Scissors zk game on Farcaster. Cast your play as a zk proof and defy anyone on the Farcaster network.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SafeMail",
+    "slug": "safemail-n8b96",
+    "description": "SafeMail is a simple way to send tokens to any google email address, even if they're not in crypto yet. No private keys, no wallets, just a google sign-in. Fund it with some tokens and you're good to go.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "t4bwy",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "World Chat",
+    "slug": "world-chat-z7he4",
+    "description": "World Chat is a Telegram bot enabling users to send and receive messages on XMTP and Push. Users can message the bot, specify ENS or addresses, and get provisioned wallets to exchange messages with these services.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "SwapChat",
+    "slug": "swapchat-z4cpe",
+    "description": "SwapChat: A smart DeFi app that uses GPT-based AI for seamless crypto swaps. Connect MetaMask, chat about your trading intent, confirm, and trade. Powered by OpenAI, 1inch Fusion SDK, Metamask and React.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sapien",
+    "slug": "sapien-ggt3a",
+    "description": "🔐 Sapiens: omnichain identity verification leveraging zero knowledge machine learning. Say goodbye to invasive proof of humanity methods and stay protected from sybil attacks!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Omnichain Neon NFT",
+    "slug": "omnichain-neon-nft-76iy6",
+    "description": "Was trying to mint a crosschain project on Neon NFT but unable to complete due to issues with utilizing the devnet for Neon.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "C10INDEX",
+    "slug": "c10index-93icp",
+    "description": "An ERC-20 token representing a pool of several assets, like an ETF in traditional finance.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChitChatChain",
+    "slug": "chitchatchain-j1vx0",
+    "description": "ChitChatChain: Your NFT Oasis! Discover, Connect & Engage with NFT owners through seamless XMTP-powered searches, private messaging, group chats & AirStack security. Embrace the NFT revolution now!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Builder's Garden",
+    "slug": "builders-garden-rfj7x",
+    "description": "Crowdfunding platform to empower the next billion wave of crypto builders by funding their journey to ETHGlobal hackathons",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "pn953",
+      "0p5er",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Improving Walletconnect Onboarding UX",
+    "slug": "improving-walletconnect-onboarding-ux-au906",
+    "description": "Improving developer onboarding experience  on walletconnect",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AISwap-X",
+    "slug": "aiswap-x-83wx9",
+    "description": "Cross chain swaps with intents using natural language and a novel OFA model for instant swaps.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Stark Vesting Wallet",
+    "slug": "stark-vesting-wallet-nwg05",
+    "description": "Token vesting standard contract written in Cairo 1 (compiler 2)",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "VeryLongParty",
+    "slug": "verylongparty-vwbzd",
+    "description": "A game played by rolling the dice, advancing through the squares, and executing events (contracts) on the squares.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fuel integration for Hyperlane",
+    "slug": "fuel-integration-for-hyperlane-nd14x",
+    "description": "The primary objective of this project is to seamlessly incorporate the latest 0.43 versions of forc into the existing codebase.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Typeflood Racer",
+    "slug": "typeflood-racer-8g0b6",
+    "description": "Typeflood Racer: Earn tokens by typing faster & accurately! Gamified stress-testing for blockchain networks. Boost your typing skills while powering blockchain development!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Ratatouille500",
+    "slug": "ratatouille500-q782t",
+    "description": "The Ratatouille500 fund captures the value of top cryptocurrencies and projects across several different blockchains, aiming to provide a balanced, diversified portfolio in the ever-growing, ever-changing crypto ecosystem.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hoadp"
+    ]
+  },
+  {
+    "name": "BiconomyBatchNFT",
+    "slug": "biconomybatchnft-bb0mr",
+    "description": "Batchminting of nft where user makes multiple transactions signing only once",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DEFCVX",
+    "slug": "defcvx-ax9qp",
+    "description": "Move Votium claiming fully on-chain using Chainlink Functions and The Graph",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Keyless Accounts",
+    "slug": "keyless-accounts-98vmb",
+    "description": "In-browser smart contract accounts generation with Lit protocol social logins, where gas is subsidized by dApps",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "L3arn",
+    "slug": "l3arn-5teko",
+    "description": "L3ARN: Your gamified gateway to the Web 3.0 world! Explore blockchain, NFTs, and DeFi in a gas fee-free, fun-filled environment. Earn rewards as you learn and create. No seed phrases, just pure enjoyment! Join us now and level up your crypto knowledge!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jywri"
+    ]
+  },
+  {
+    "name": "Blackout",
+    "slug": "blackout-d0ve0",
+    "description": "Blackout intends to create private dark safes, in a unique way.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DocsAlyzer",
+    "slug": "docsalyzer-dbhtt",
+    "description": "DocsAlyer is a platform that enables users to pose questions in everyday language, leveraging internal documents. The responses provided are dependable, supported by quotes and references from the original source material, ensuring utmost trustworthiness.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChampDuel1999",
+    "slug": "champduel1999-t28v8",
+    "description": "ChampDuel1999 is a strategic, turn-based blockchain game where players battle using their NFTs. Players deposit and lock their NFTs to enter the game, with the ultimate victor claiming all NFTs.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NoxFi",
+    "slug": "noxfi-gooco",
+    "description": "NoxFi, an innovative on-chain private double auction DEX, uses ZKP to enable private, large-scale trades with zero market impact. Unlike existing DEXs, NoxFi minimizes slippage, prevents front-running, and is ideal for low liquidity pools and institutional investors.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Halo2 verifier on CosmWasm",
+    "slug": "halo2-verifier-on-cosmwasm-cxzfd",
+    "description": "Putting the Halo2 Verifier by PSE into CosmWasm allows the access of such technology to over 30 Cosmos Chains.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK X Border",
+    "slug": "zk-x-border-15qvk",
+    "description": "Trustless and 0 fee international remittance using ZK proofs",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "4pn9u",
+      "jzpj5",
+      "362vt",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Minotaur",
+    "slug": "minotaur-m7j9u",
+    "description": "Minotaur follows the mythological Greece story of fury, revenge, and betrayal among the Greek gods. The labyrinth, brimming with mysteries and traps, becomes the stage for a gripping tale of heroism and destiny, where mortals and gods collide in a timeless struggle",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "1Wallet",
+    "slug": "1wallet-3e5z6",
+    "description": "1Wallet is a sneak peak into how web3 wallets will look for the next billion users. 1Wallet allows users to swap on 1inch via FaceID / TouchID while keeping the transaction experience completely gasless and stress free",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Follow the zkRabbit",
+    "slug": "follow-the-zkrabbit-7h03s",
+    "description": "Follow the zkRabbit is an innovative and decentralized social adventure game built on the MINA protocol using zkApps (snarkyJS)",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "BlockchainLLM",
+    "slug": "blockchainllm-5bdsw",
+    "description": "Integrating PETALS, a system for efficient fine-tuning or inference of large AI models, with Gnosis Chain/Polygon/ZkSync or Filecoin for improved incentives, privacy, and security. Blockchain-based incentives, zk-proofs for data privacy, smart contracts for security.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unify - Make your AA cross-chain",
+    "slug": "unify-make-your-aa-cross-chain-a4x7h",
+    "description": "AA is the future of web3 wallets, but they have a big problem. If you have an AA in several networks, they can’t communicate with each other. It's a problem when you want to change ownership or sensitive settings. Unify helps AA projects make their AA cross-chain.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PaySplit",
+    "slug": "paysplit-xkqbc",
+    "description": "Split payments between employees and employers on Safe{Protocol} accounts across chains",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hoadp"
+    ]
+  },
+  {
+    "name": "Data4.builders",
+    "slug": "data4-builders-7198z",
+    "description": "Data4.builders provides massive user behavior data for developers without sacrificing users’ privacy. We are building a composable, universal user profile data layer that is high efficiency, privacy-preserving, and fits web3 paradigm.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pn953",
+      "fb98y",
+      "jywri"
+    ]
+  },
+  {
+    "name": "On-Chain Music Doodle Board for Communities",
+    "slug": "on-chain-music-doodle-board-for-communities-6jxij",
+    "description": "Creating sound waves *fully* on-chain and allowing NFT holders to paint music samples on a digital soundboard (grid) — allowing communities to enter into a collaborative experiment to create a soundtrack of all samples painted in each location.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t3zyt"
+    ]
+  },
+  {
+    "name": "Dutch CoWs",
+    "slug": "dutch-cows-m7muy",
+    "description": "Dutch Orders implemented on CoW batches giving users any MEV and Arbitrage upside",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SciWeave",
+    "slug": "sciweave-w2bx3",
+    "description": "A collection of smart contracts and a frontend for scientists to create DAOs to pool funding together and publish research.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "0p5er",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Median Price Oracles (Uniswap v4)",
+    "slug": "median-price-oracles-uniswap-v4-qpof2",
+    "description": "A suite of median price oracles: an alternative to manipulation-prone TWAP",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "SITA",
+    "slug": "sita-tsmvv",
+    "description": "Revolutionizing farming with our inclusive lending platform! 🌾 Tailored credit lines for farmers using real-time soil insights from IoT & satellite tech. Empowering growth, one harvest at a time. 🛰️🌱 #FutureOfFarming #SmartAgri",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Treasury Guard Wallet",
+    "slug": "treasury-guard-wallet-jufdj",
+    "description": "Revolutionizing Treasury Management with Polygon zkEVM Based Treasury Management Wallet",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "All Weather Protocol",
+    "slug": "all-weather-protocol-mzti3",
+    "description": "It's a crypto index fund, which integrates 1inch to zap in into sushiswap pool",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Mantle Vault",
+    "slug": "mantle-vault-yzns7",
+    "description": "modular multistrategy defi vault deployed on mantle. frontend is deployed on goerli to allow interact with an aave strategy with weth, but can modularly add different strategies and their respective weights.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "MinaVest",
+    "slug": "minavest-bizi5",
+    "description": "Vesting protocol enabling secure, decentralized and smooth experience over Mina blockchain. Vesting contracts are secured using schnorr multi-signatures and prepared for completely autonomous deployments through the smooth UI.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Ostraka",
+    "slug": "ostraka-nhpz3",
+    "description": "An onchain/zero knowledge based solution for an anonymous, sybil-resistant voting platform f.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "4i0qt"
+    ]
+  },
+  {
+    "name": "CANTILEVER",
+    "slug": "cantilever-t7os0",
+    "description": "A bridge which uses EIP-4337 and Account Abstraction infrastructure",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LetsConnect",
+    "slug": "letsconnect-8i58f",
+    "description": "A privacy-preserving way for crypto natives to build their social graph",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Marriage",
+    "slug": "proof-of-marriage-4hxah",
+    "description": "A DApp you can use to be married on-chain. Use it during a wedding ceremony, interact with your guests, and get an AES attestion as Proof-of-Marriage.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Neopolis",
+    "slug": "neopolis-tck31",
+    "description": "Neopolis is a blockchain-based browser game where you use tokens to build towers, and with each block you place there's a chance the tower will tumble! If this happens then you get all the tokens used to build that tower!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0p5er"
+    ]
+  },
+  {
+    "name": "HelloWork",
+    "slug": "hellowork-u0qyy",
+    "description": "HelloWork makes hiring someone as simple as sending them a DM!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Transaction Inclusion Proofs Demo",
+    "slug": "transaction-inclusion-proofs-demo-hjcza",
+    "description": "Decentralized gas-free Safe transaction with AA refunds on L2 with Transaction Inclusion Proofs",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "One Chance Marketplace",
+    "slug": "one-chance-marketplace-e4f1b",
+    "description": "One Chance Marketplace delivers a scam-free, bot-free platform, ensuring secure and private transactions through Worldcoin.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "4337 Ultrahand",
+    "slug": "4337-ultrahand-g4631",
+    "description": "A composable DeFi platform by leveraging the account abstraction unique feature, such as batch transaction, fee subsidy, scheduled transactions",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Cypher Deposit",
+    "slug": "cypher-deposit-cnhs5",
+    "description": "Cypher Deposit: Elevating financial privacy in crypto withdrawals. Securely withdraw funds via anonymous transfers & secure transactions, preserving anonymity.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2x9jd",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "LLMBench",
+    "slug": "llmbench-hdeau",
+    "description": "Verifiable on-chain Large Language Models drift benchmarking",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ticketh",
+    "slug": "ticketh-p9qxy",
+    "description": "Ticketh is an attestation-based, cross-chain ticket reputation platform that rewards users for their active contributions. Meanwhile, event organizers can offer perks based on users' reputations or assets.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "pn953",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "zkSwap on iOS",
+    "slug": "zkswap-on-ios-d7qau",
+    "description": "📱🛡️ Swap tokens on DEX aggregators with confidence using our iOS app & Safe plugin! 🔄🚀 Speech-to-text enables easy swaps. Solver guarantees optimal route execution on multiple DEXes. Connect via WalletConnect or MetaMask. Trust zkProof for optimal swaps!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Time to Vote, Anon",
+    "slug": "time-to-vote-anon-gabpc",
+    "description": "TTVA is a modular voting system for conducting elections in a verifiable and anonymous manner. Made of 2 systems: registration + voting. Registration verifies eligibility + register participants onchain using EAS. Voting collects encrypted ballots + tallies results using a FHEVM",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flora App",
+    "slug": "flora-app-nqkw0",
+    "description": "Flora is a micro-lending app for rural smallholders without bank accounts to get short term loans without providing predatory collaterals.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "DAODemic",
+    "slug": "daodemic-kma4g",
+    "description": "DAODemic is a revolutionary platform that bridges the gap between sponsors and students within a dynamic decentralized autonomous organization (DAO).",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GoodBounties",
+    "slug": "goodbounties-j9rvz",
+    "description": "GoodBounties is a platform where small actions compound into real-world impact. Create or fund public goods bounties and make a difference in your local community. The bounty reward can be claimed by anyone who provides a valid proof of completing the bounty.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "zKPG",
+    "slug": "zkpg-dikcv",
+    "description": "Descentralized audivisual content authenticity validation using zero knowledge proofs, user validation and attestations.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Delta V",
+    "slug": "delta-v-9ux1c",
+    "description": "DeltaV is the first, truly actionable data layer. In minutes, you can launch customized on-chain data streams and automated, on-chain actions.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4pn9u",
+      "pfyco",
+      "jywri"
+    ]
+  },
+  {
+    "name": "DRIP (Decentralised TripAdvisor)",
+    "slug": "drip-decentralised-tripadvisor-7mntc",
+    "description": "DRIP (Decentralised TripAdvisor for people to find authentic review using WorldCoin to prove humanity and POAP to attest attendance.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "sunflower",
+    "slug": "sunflower-ogbj9",
+    "description": "Trustlessly use L1 multisig owners to sign txs on L2 using zk proofs",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "GnoFrens",
+    "slug": "gnofrens-ax7kb",
+    "description": "GnoFrens incentivizes users to better remember and reconnect with the people they've met in the past.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Trustky",
+    "slug": "trustky-4ku9u",
+    "description": "Trustky - Your private resume builder. Fetch credentials from GitHub, Worldcoin & more. Control visibility & encryption for ultimate privacy. Build your perfect resume with confidence. 🚀🔒",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Dynamic offer validator",
+    "slug": "dynamic-offer-validator-36i0s",
+    "description": "A neat library that enables marketplace/lending protocol offers to define conditions under which they are valid. Handy for dynamic NFTs 🤙",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aggregate Together",
+    "slug": "aggregate-together-c3qp9",
+    "description": "A set of smart contracts and modules to bring lower gas costs for multisig wallets on EVM rollups via aggregated BLS signatures",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "IEF - Impact Evaluation Framework",
+    "slug": "ief-impact-evaluation-framework-caf4j",
+    "description": "Standardization of Impact Measurement of public goods projects through attestations.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xSybil",
+    "slug": "0xsybil-h9e55",
+    "description": "0xSybil - Zero x'ing the sybil attacks, save the protocol democracy!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "992b8"
+    ]
+  },
+  {
+    "name": "dump-ipfs",
+    "slug": "dump-ipfs-pwvyo",
+    "description": "A decentralized encrypted backup agent for popular DBMS supported by IPFS and Filecoin",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Telegram Sticker Pack",
+    "slug": "decentralized-telegram-sticker-pack-qt6yo",
+    "description": "The Telegram Stickers are administered by the DAO community rather than an administrator",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jywri"
+    ]
+  },
+  {
+    "name": "Zk Recover",
+    "slug": "zk-recover-x2qv0",
+    "description": "A Safe{Core} Protocol Plugin for Zero Knowledge Wallet Recovery",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "SourcerAO",
+    "slug": "sourcerao-fay99",
+    "description": "Enable users of an open-source project to join forces and offer a bounty for the development of a new feature on their project. Development follow-up, delivery and payment are handled by the protocol. The protocol manages delivery disputes thanks to the incentivized community.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sharder",
+    "slug": "sharder-xkyf7",
+    "description": "A dApp to split and share your documents with your contacts.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Starkpass",
+    "slug": "starkpass-3ae6v",
+    "description": "Starkpass: The first decentralized ticketing system for Starknet events. Buy tickets with crypto, lower fees than L1 and prove purchases with Sismo ZK proofs, all powered by Cairo contracts.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "Ousia",
+    "slug": "ousia-08hss",
+    "description": "Ousia is a voting system where your money has no more power than your vote, so everyone is treated fairly when it comes to making important decisions",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hardhat-userOp",
+    "slug": "hardhat-userop-pv3bh",
+    "description": "Hardhat plugin for sending ERC-4337 UserOperations with integrated tasks in hardhat CLI for better user experience.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Photofy",
+    "slug": "photofy-87x0d",
+    "description": "Photofy is a new method of verifying the trustworthiness of online images.  In a time of rising uncertainty as to whether information is real or not, Photofy looks to highlight which images can be trusted and to what degree by storing a modification history on-chain.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sentio",
+    "slug": "sentio-jjdft",
+    "description": "Versatile data API, built for developers!  Sentio covers: search a single user's nfts, get nft metadata, get nft marketplace data, get cohort data, and get custom sql data, all in one place. Moreover, it comes with full visualisation support.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Habitrac",
+    "slug": "habitrac-mduzq",
+    "description": "Habit-Building Game Where Friends Can Hold Each Other Accountable Using Smart Contract Deployed In Polygon zkEVM And XMTP Token-Gated Chat. Users Stake Joining Bets In ETH And Earn Real Prizes Directly Deposited Into Appropriate Blockchain Wallets",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "Kinetex Light Clients (MMR)",
+    "slug": "kinetex-light-clients-mmr-uvzr1",
+    "description": "Kinetex Light Clients for Cross-Chain Resolving (based on ChainLink CCIP, Hyperline, Axelar, ZetaChain & Hashi)",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "szsmr",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "HyperDAO",
+    "slug": "hyperdao-kw6mv",
+    "description": "HyperDAO: Empowering cross-chain DAOs with HypERC20 tokens & Hyperlane's interchain capabilities. Create Interchain DAOs, vote, govern & interact across chains. Connecting Mumbai & Sepolia for seamless DAO operations. Solve fragmented governance & promote adoption.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Steward tokens",
+    "slug": "steward-tokens-hyyvt",
+    "description": "Introducing Stewards Tokens. Blending hard-to-measure impacts with existing carbon credits so small farmers get a share of the carbon market.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainFunds",
+    "slug": "chainfunds-98brj",
+    "description": "ChainFunds: Web3 project from EthCC 2023. Democratizes finance via Gnosis & QuickNode RPC. Users invest in funds via MetaMask. Managers create NFT-based funds, ensuring transparency with ERC6551 protocol. Web3+NFT+DeFi fusion for the future!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProofOfHack",
+    "slug": "proofofhack-kssv2",
+    "description": "Proof of Hack enables whitehat hackers and security researchers to demonstrate their ability to identify vulnerabilities in a protocol without actually exploiting them.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2x9jd",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "MinaMix",
+    "slug": "minamix-dz9gc",
+    "description": "Mixer for Mina built on SnarkyJS. Put funds in, get funds out, but without sacrificing on privacy.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "🔥 Decentralized Circuit Breaker",
+    "slug": "decentralized-circuit-breaker-96q8q",
+    "description": "A decentralized approach of the Circuit Breaker (EIP-7265) ... Resolving a triggered Circuit Breaker by Governance",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0p5er",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Arbora",
+    "slug": "arbora-xju5u",
+    "description": "Arbora is a platform designed to simplify the management of NFTs owning a token-bound account (ERC 6551). Users can perform smart contract operations on them (transfer, merging) and visualize a tree structure of the NFT’s relationships.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Fruity Friends",
+    "slug": "fruity-friends-88kyq",
+    "description": "A social dApp for real humans with private match-making and on-chain messaging features.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "jzpj5",
+      "jzpj5",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Flashbots Protect",
+    "slug": "flashbots-protect-1f25k",
+    "description": "A custom nextjs website that enables anyone to easily add the Flasbots Protect RPC to their wallet, with clear, beautiful data on rebates to convince them about why it matters.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mba9h"
+    ]
+  },
+  {
+    "name": "Starship",
+    "slug": "starship-uwg85",
+    "description": "Let's be sure the code we ship will work in Production. How to sleep in peace??  Answer is Tests, Tests, Tests....... Starship is an automated way to spin up infra using a simple Yaml file. That infra can be used to do all kind of testing (Frontend, Backend, Chain Upgrades, etc.)",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tokenization of RWAs Data Curation",
+    "slug": "tokenization-of-rwas-data-curation-brryj",
+    "description": "Project about tokenization of real-world assets curated list",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RWA Yield",
+    "slug": "rwa-yield-529u5",
+    "description": "Unlock the potential of blockchain for real-world assets! Our project seamlessly integrates with Maker SubDAOs to enable on-chain borrowing to fund investments in real world assets.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "Made it Together",
+    "slug": "made-it-together-8237y",
+    "description": "Goal Achievement Service, support people in improving habits or achieving goals. It allows you to make a deposit and get reimbursed when you complete a mission.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CCIP Limit Order",
+    "slug": "ccip-limit-order-mxgxy",
+    "description": "A Multichain Limit Order powered by chainlink's CCIP",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "GeoQuête",
+    "slug": "geoquete-xvijf",
+    "description": "A treasure hunt game based on geolocation, using zk-proofs to hide the location.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5b69q",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "ZkWhistle",
+    "slug": "zkwhistle-8dgya",
+    "description": "Secure whistleblower identity manage tool using ZK for compliance to european directive and spanish Law",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "blockGTP",
+    "slug": "blockgtp-kg64d",
+    "description": "A conversational wallet  Manager that processes securly  all user crypto needs",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "pfyco",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Seabass (CBaaS)",
+    "slug": "seabass-cbaas-tycyc",
+    "description": "A Circuit Breakers as a Service platform. It's a constructor for circuit breakers that triggers pre-set risk management functions based on specified asset price fluctuations within a defined time period.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sneed",
+    "slug": "sneed-wvqzb",
+    "description": "Automatic hedging against impermanent loss using V4 hooks and options",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VoiceSense",
+    "slug": "voicesense-yfzpq",
+    "description": "VoiceSence leverages the power of AI voice recognition to make web3 more inclusive.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Chainstalker",
+    "slug": "chainstalker-obyzv",
+    "description": "Chainstalker - is a plugin that unveils onchain reputation (data) of other users / wallets while you browsing your socials, news, art or gaming platforms.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Funnel",
+    "slug": "funnel-z8f80",
+    "description": "Creation of onchain condition-gated discussion & threads-like channels.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "NFT Wizardry",
+    "slug": "nft-wizardry-poxgy",
+    "description": "NFT integration and community rewards of a card gaming app. Card NFT gift for first-time users, incorporating a sybil-resistant login mechanism with Sismo. No-fee NFT minting on ImmutableX.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Social Impact Crowdfunding",
+    "slug": "social-impact-crowdfunding-o6wgo",
+    "description": "blockchain platform fueling sustainable philanthropy in emerging markets. Enables traceable donations, promoting transparency, and cultivating direct donor-project interactions.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hotparis.eth",
+    "slug": "hotparis-eth-xfsbc",
+    "description": "Allow anyone to access your IoT-based information by just paying you. Want to know how hot it is at ETHParis? Go to hotparis.eth.link and find out!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Segment",
+    "slug": "segment-hk2iu",
+    "description": "The project \"Segment\" is an NFT indexer developed on the Consensys layer 2 platform called Linea. The indexer is written in Golang and is highly portable, requiring only an Infura API key and a PostgreSQL database to index the entire blockchain.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Biconomy Social Login - Next.js 13 Starter",
+    "slug": "biconomy-social-login-next-js-13-starter-zy2pm",
+    "description": "Biconomy Social Login is a starter template for Next.js 13, facilitating seamless integration of social login and gasless transactions in dApps, streamlining blockchain interactions.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PixelRental",
+    "slug": "pixelrental-knngw",
+    "description": "A NFT based Rentable Game Account utilising EIP4907 and EIP6551",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Transend",
+    "slug": "transend-dksjv",
+    "description": "Send and receive crypto through a cross platform mobile application!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trevi Fountain - Manifest your dreams",
+    "slug": "trevi-fountain-manifest-your-dreams-4t2h9",
+    "description": "Dive into Trevi Fountain, a blockchain revolution where wishes transform into unique NFTs. Toss a coin into our pool for a chance to win big and see your desires immortalized in digital art!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tami Assistant",
+    "slug": "tami-assistant-0k8wt",
+    "description": "This project aims to develop an AI-based system for predicting the price of cryptocurrencies. Using historical data and machine learning algorithms, the system will analyze market trends and provide accurate price predictions to assist investors in making informed decisions.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WaaS Pay",
+    "slug": "waas-pay-br0qs",
+    "description": "A no-code platform for organizations to build, customize, and deploy smart contract accounts (ERC4337) on behalf of their employees and vendors to facilitate privacy-preserving payments on-chain - all with a seamless web2 experience.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "weaax",
+      "2x9jd"
+    ]
+  },
+  {
+    "name": "OpenMarketplace",
+    "slug": "openmarketplace-1hktt",
+    "description": "A public good marketplace contracts with full onchain data to trade NFTs without platform fees nor API key",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ADDEX",
+    "slug": "addex-9zd0q",
+    "description": "ADDEX is one of Dex built in some evm blockchain. User doesn't have to pay for that, because advertisement merchant pay for the gas.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Session Cards",
+    "slug": "session-cards-ybr67",
+    "description": "An NFT based game that uses session keys to change how users are interacting to blockchain",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "weaax",
+      "ke9sy",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "ethmedbridge",
+    "slug": "ethmedbridge-iedit",
+    "description": "Our solution allows patients to keep their medical information in self custody and helps clinical research institutions with the recruitment of study participants.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "On-chain messaging aggregator",
+    "slug": "on-chain-messaging-aggregator-3eshd",
+    "description": "Aggregate all web3 messaging app into S3nd! 🌐 Your one-stop hub for all Web3 messaging apps. Easy single sign-on, Human verification with Worldcoin ✔️ , & native on-chain messaging support. No bots, only genuine convos!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "pn953",
+      "fb98y",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ReNFTaissance",
+    "slug": "renftaissance-tapvw",
+    "description": "We built a NFT auction house to enable people to mint NFTs for their real-world assets to auction them. In that way, we add more utility to real-world assets like gold coins, historical money, stamps and paintings..",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Socrates' Protocol",
+    "slug": "socrates-protocol-knwtq",
+    "description": "Socrates is the credibility quantification protocol. User votes and their calculation allows to go from feelings to maths, when it comes to define whether a piece of information is true or false.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TxAuthenticator",
+    "slug": "txauthenticator-0ycio",
+    "description": "2FA for self-custodied Ethereum wallets. Users can set their own daily transaction limit & add a security key (like YubiKey) to authenticate high-value transactions. TxAuthenticator is an extra security layer for web and mobile-based wallets.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "Binder",
+    "slug": "binder-9h864",
+    "description": "Social relationships for your NFTs that are not tied to your personal identities! Discover your counterparts based on your preferences by staying anonymous using zkProofs! ⚡",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Lindexer",
+    "slug": "lindexer-hyvic",
+    "description": "Hybrid indexer capable of indexing both on and off-chain data in an effcient and decoupled manner. Powered by Envio.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "delegAI",
+    "slug": "delegai-c1qfh",
+    "description": "DelegAI is a AI based delegation tool that reflects the forum community's opinion on this proposals by using the delegators voting power.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Erganism",
+    "slug": "erganism-fmjh9",
+    "description": "Facilitating networks of intersubjective co-creation with on-chain Contribution Graphs of derived works",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Connected Identity - p23",
+    "slug": "connected-identity-p23-qssba",
+    "description": "The purpose of this app is to demonstrate a use-case that integrates Vehicles, Web3 Digital Identity and Web3 messaging. We wanted to take events from a connected vehicle (diagnotics, postiion, etc.) and orchestrate the data one-chain when a critical event occured. We explored:",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "UniFee",
+    "slug": "unifee-w5eba",
+    "description": "Uniswap Fee Calculator is a tool for you to get the approximated fee APR from every trading pair on Uniswap. Currently it supports Ethereum, Polygon, Optimism, and Arbitrum. Users can easily expand the supported trading pairs and chains by editing the config file.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Placeholder 4337",
+    "slug": "placeholder-4337-ep8vv",
+    "description": "Multi-chain derivative strategy platform using account abstraction (ERP4337) to deliver seamless trading",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ODX",
+    "slug": "odx-rkoe7",
+    "description": "ODX is an advanced decentralized orderbook exchange that propels DeFi to new heights on the decentralization spectrum. Its front and back ends are fully decentralized, empowered by innovative sponsor solutions.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5b69q"
+    ]
+  },
+  {
+    "name": "ZkChat and Pay",
+    "slug": "zkchat-and-pay-3ks2j",
+    "description": "Chat and pay to your friends family with ease and security using zkBob, World Coin, and video calling using Push Video",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "2x9jd",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Emeth",
+    "slug": "emeth-a9c94",
+    "description": "Emeth,a revolutionary decentralized and onchain KYC service for secure nodes on multiple blockchains. Utilizing Filecoin for private KYC storage and Worldcoin's proof of humanity, it seamlessly integrates React Native and Solidity, offering an easy-to-use App for user KYC.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Prompt3",
+    "slug": "prompt3-4t3wk",
+    "description": "Prompt3 enables Decentralized Prompt Engineering. Our marketplace of specialized Assistants use SuperPrompts that are generated from paid, licensed prompts submitted by others. Usage is Verifiable with Merkle Trees and Blockchain Anchors managed by Weavechain.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "SP95 Protocol",
+    "slug": "sp95-protocol-ne55s",
+    "description": "A DeFi protocol providing gas price hedging. It allows anyone to use ETH as a collateral to borrow gasETH, an ERC-20 token pegged to the 7-day Ethereum base fee moving average. GasETH's utility can be enhanced by using it as a token paymaster thanks to account abstraction.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAO",
+    "slug": "dao-ekuvp",
+    "description": "A project that enables Web2 business organizations to transition to Web3 business organizations through DAO.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TARS",
+    "slug": "tars-g4ojx",
+    "description": "TARS enables swaps via indirect routes (2+ swaps) on single-chain DEX, increasing liquidity depth, reducing slippage, and concentrating liquidity on a single chain.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stake Garden",
+    "slug": "stake-garden-7tj7j",
+    "description": "StakeGarden is a Self Managed Liquid Staking Tokens Portfolio that allows you to diversify and mitigate the risk keeping you safe and in control.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "e3t1p",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "TrustyOrder",
+    "slug": "trustyorder-y2m89",
+    "description": "Developing a cutting-edge orderbook on Mantle and Polygon! Our project is all about orderbook for seamless trading, ensuring transparency, efficiency & security.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "nft metadata creator",
+    "slug": "nft-metadata-creator-7rjv9",
+    "description": "a script to easily create a metadata file for nft collections",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Harpos",
+    "slug": "harpos-0wpcc",
+    "description": "Leveraging Sismo and XMTP, Harpos is a social network centered on privacy and anonymity where users can choose multiple criteria to select who they want to connect with.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4i0qt",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ZAP (ZK Ad Platform)",
+    "slug": "zap-zk-ad-platform-je3nt",
+    "description": "ZAP is an innovative privacy-conscious ad-buying platform using users onchain history.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "4pn9u",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "SwapConnect",
+    "slug": "swapconnect-tgo5z",
+    "description": "A Defi Protocol for P2P swap with a innovative matching mechanism.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anonymous File Transfer",
+    "slug": "anonymous-file-transfer-ocqjr",
+    "description": "ZKFT is a protocol allowing users to create an anonymous Safe{Core} smart wallet on Gnosis Chain. This protocol leverages ZK Proofs to provide complete security and anonymity.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mobile PayLinks",
+    "slug": "mobile-paylinks-euxtk",
+    "description": "Mobile PayLinks is a native mobile app that lets you send crypto tokens to your friends with just a simple link",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Trust Explorer",
+    "slug": "trust-explorer-rsbio",
+    "description": "Safeguard your blockchain experience! Trust Explorer: a contract scoring system with Ethereum attestation & worldID verification for secure reviews. Say no to untrustworthy contracts. 🛡️",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "992b8",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "DeTax",
+    "slug": "detax-qvv46",
+    "description": "DeTax is a pioneering tool designed to simplify crypto taxation. By simply entering your address, DeTax generates an easy-to-understand, comprehensive tax report based on your selected tokens, transaction history, and different chains.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Headstart",
+    "slug": "headstart-7ty8p",
+    "description": "Onboarding creators onchain. Headstart is bringing web2 profiles to web3 via ERC-6551, Lens Protocol, and SAFE AA-wallet.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Bravo 🍊🥕🍋",
+    "slug": "bravo-q08eb",
+    "description": "Bravo (ACE) => Arbitrary Cartesi composability code Execution library",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "buucz"
+    ]
+  },
+  {
+    "name": "DIVE",
+    "slug": "dive-qa9so",
+    "description": "Decentralized mechanism for verifying ownership of Twitter profiles onchain.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4pn9u",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "gmaas",
+    "slug": "gmaas-y0sop",
+    "description": "GMaas stands for Generative Models as a Service. It is a marketplace for different generative models with verifiable results and NFTs.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OxForm",
+    "slug": "oxform-nqfoo",
+    "description": "🚀 OxForm: Web3 platform revolutionizing data collection. Sybil-resistant with Sismo & Worldcoin. Incentivized submissions & UMA integration. Secure data storage on IPFS & Filecoin. Embrace decentralized, transparent data-driven decisions. Join now!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "fp1x1",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "ArbX",
+    "slug": "arbx-d03n7",
+    "description": "ArbX is the first cross-chain arbitrage protocol to optimize price rates across more than 40 decentralized exchanges on seven EVM chains. By leveraging robust on-chain interoperability networks, ArbX provides a trustless, decentralized, and permissionless solution.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Gaston",
+    "slug": "gaston-8s4dq",
+    "description": "Extract Event types from any contract and turn them into decentralized notifications",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "nbyyv",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Red Black Honey Girl",
+    "slug": "red-black-honey-girl-xti96",
+    "description": "The first on-chain order book exchange via zk-proofs. Ensuring best-execution of orders without compromising efficiency, speed or updateability of transactions. Overcoming the black box issue while setting aside the MEV. Built on Polygon Miden.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "ResuMe",
+    "slug": "resume-ni9w0",
+    "description": "Get attested your skills on Resume from your coworkers! Everything on chain :D",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "PixeLAW",
+    "slug": "pixelaw-kvnqe",
+    "description": "PixeLAW is an attempt to build a very primitive autonomous world that allows players to govern, play and interact at the pixel layer. The granularity of the world allows it to be inherently programmable limiting it only by imagination.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "Uni-explorer",
+    "slug": "uni-explorer-q4an8",
+    "description": "OpenSource UniswapV3 position history tracker powered by The Graph, Viem and the Uniswap SDK",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Arken.fi",
+    "slug": "arken-fi-aak1v",
+    "description": "Premissionless auto compounder factory to let anyone deploy their own auto compounder without any difficulty on top of any ERC20",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0p5er",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Chèque DeFi",
+    "slug": "cheque-defi-ocn6i",
+    "description": "La chèque de DeFi: A system designed for issuing and redeeming physically printed checks.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "2x9jd",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Sybil Resistant DAO",
+    "slug": "sybil-resistant-dao-u3qsc",
+    "description": "We provide a service for DAO which protects them from sybil attacks using a SBT and onchain attestation",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "2x9jd",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Splitooor",
+    "slug": "splitooor-wx679",
+    "description": "User/Owner tokenized separation for smart accounts. Create an NFT able to actively manage an account while its ERC 6551 owner token is used as collateral on a lending protocol, while safely maintaining its value from the lending protocol perspective.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0p5er"
+    ]
+  },
+  {
+    "name": "SansScript",
+    "slug": "sansscript-89u46",
+    "description": "SansScript, is an innovative tool that combines web2 newsletter features with web3 capabilities. It enables users to create, publish, and subscribe to diverse newsletters in a decentralized and censorship-resistant way.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "pfyco",
+      "10a1v",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "DCA.Monster",
+    "slug": "dca-monster-b8157",
+    "description": "DCA.Monster is a novel AMM leveraging ERC20 streams for granular, efficient on-chain DCA. Combining Uniswap V2's power with Token Streaming, we're enabling \"Infinite Granularity DCA\" and a more dynamic DCA experience. Making advanced on-chain DCA",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "buucz"
+    ]
+  },
+  {
+    "name": "Swipe 2 Bribe",
+    "slug": "swipe-2-bribe-89x1e",
+    "description": "Fixing corruption by making it permissionless. It is not as stupid as it sounds.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4i0qt",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "ZkFundMe",
+    "slug": "zkfundme-amwst",
+    "description": "ZkFundMe is a zero-knowledge based donation Platform for every use case. Everyone can upload their crisis and unfortunate events to ask for help from the decentralized community",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "2x9jd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "SourceScan.BOS",
+    "slug": "sourcescan-bos-dyfe9",
+    "description": "Near Smart Contract Source Code Verificator and Explorer made with BOS",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5b69q"
+    ]
+  },
+  {
+    "name": "Stealth Safes",
+    "slug": "stealth-safes-n6aj5",
+    "description": "Stealth Safe: A proof-of-concept enabling Stealth Addresses for Safe multisigs. Facilitating privacy-preserved transactions; pivotal for AA users. No fund traceability.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "weaax"
+    ]
+  },
+  {
+    "name": "Springr",
+    "slug": "springr-4nczg",
+    "description": "Web3 airbnb for the vibe economy using on-chain reputation for recommendations and TBAs for in-app reputation building.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flash_Market",
+    "slug": "flash-market-u5ufc",
+    "description": "A peer to peer flash loan protocol. Any EOA (or contract) can now lend liquidity with his own chosen fees to anyone during a tx.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WOW",
+    "slug": "wow-zd6ng",
+    "description": "WOW is a web3 discovery platform designed to revolutionize how users explore and interact with people, projects, and topics on blockchain by tokenized preferences. It provides a seamless and engaging experience, making it the go-to hub for discovering exciting things in web3.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlueChecker",
+    "slug": "bluechecker-7qzkg",
+    "description": "Dapp for checking ownership of a certain NFT and validates it with a blue check",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHWaldo",
+    "slug": "ethwaldo-64bf3",
+    "description": "Our platform serves as a marketplace for creators seeking sponsorships. Creators can explore listings, or receive partnership offers tailored to their niche. Sponsor funds are held in our vault, ensuring that creators have access to their payment upon completion.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "zkPaymaster",
+    "slug": "zkpaymaster-dbooj",
+    "description": "Introducing zkPaymaster: A Revolutionary Account Abstraction Paymaster utilising Sismo zero knowledge proofs to conditionally sponsor transactions for users.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "4i0qt",
+      "ke9sy",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "Vouch",
+    "slug": "vouch-ogrtp",
+    "description": "Undercollateralised lending protocol based on a merit and vouch system. The higher your merit the lower your APRs are to the protocol. Vouchers only vouch for people they trust and in return get a proportional share of the loan fee.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "inotq"
+    ]
+  },
+  {
+    "name": "SPOT",
+    "slug": "spot-ukr2r",
+    "description": "web3 scores attestation integrated to polygonid to allow a leveraged scores-gating for dapps",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "5b69q",
+      "e3t1p",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Gadus CLI",
+    "slug": "gadus-cli-1c5qd",
+    "description": "CLI package for running 3D surface reconstruction through decentralized compute.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "y4cxw"
+    ]
+  },
+  {
+    "name": "TwitterCampaign",
+    "slug": "twittercampaign-wv9we",
+    "description": "Twitter Campaigns is an A.I.-enabled on-chain DAO-tool aimed at crypto-familiar users where anyone can create, and participate in on-chain Twitter marketing campaigns. This Dapp Leverages Account-Abstraction, fiat on-ramps, gas-free transactions, and copy written by A.I.!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "WorldVote",
+    "slug": "worldvote-8qeqx",
+    "description": "Global opinion polling verified by World Coin (or a selfie video if you are not onboarded yet)",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Freelense",
+    "slug": "freelense-yxw4m",
+    "description": "Messaging app powered by XMTP and TalentLayer, where hiring managers can easily create gig posts, receive and approve freelancer proposals, all within the app, making it a seamless experience for gig workers to get hired and paid for their projects.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "zklottery",
+    "slug": "zklottery-up07g",
+    "description": "zkLottery is a multi-chains decentralized platform for lotteries. It ensures anonymity and eligibility verification using zk's semaphore. Chainlink oracles and Chainlink VRF are integrated for added security.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smart Cookie",
+    "slug": "smart-cookie-neteh",
+    "description": "Smart Cookie - Your decentralized Autonomous agent. It provides a tailored recommendation system while preserving your data ownership by the web3 version of browser cookies.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Love Web3",
+    "slug": "love-web3-ffv7h",
+    "description": "Quickly mint your own Non-Fungible Token (NFT) on the Polygon network using QuickNode's powerful and reliable infrastructure.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SportyAchievers",
+    "slug": "sportyachievers-jpmkd",
+    "description": "Fueling Dreams, Forging Champions. Supporting Athletes to reach their true potential!",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ethXY.com",
+    "slug": "ethxy-com-0s1pu",
+    "description": "10,000 profiles of Web3.  Claim your place as a pioneer of Web3.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "B4B AA",
+    "slug": "b4b-aa-8f36o",
+    "description": "Web3 influencer Ad marketplace with escrow payments and AA for influencers.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "0p5er"
+    ]
+  },
+  {
+    "name": "Xtreamly",
+    "slug": "xtreamly-bqyjk",
+    "description": "Hacked RPC Nodes & LUA Libraries for Scripting as-a-Service!💰🤖 Control Your Ethereum Account with AI-Powered Scripting.🌐 Apple Store-like outlet with Data-driven Scripts for your Accounts,tailored to each protocol.🎯Customize Your DeFi Experience,goodbye multiple  seed phrases",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Signary",
+    "slug": "signary-nu61c",
+    "description": "Signary is a hub of blogs made to benefit from any protocol. Your favourite protocol does ensure reliability or security? Integrate it to Signary and make it accessible to your community or anyone you want. Build customizable blogs with their own rules but with the same UX.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "y4cxw"
+    ]
+  },
+  {
+    "name": "PEERwallet",
+    "slug": "peerwallet-do6c6",
+    "description": "The most secure wallet to interact with web3 sites ever created: Simplified Onboarding, Total Privacy, Decentralized Governance, and Real-Time Chat for Unparalleled Control",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "ke9sy"
+    ]
+  },
+  {
+    "name": "HedgeHog Protocol",
+    "slug": "hedgehog-protocol-ku1pt",
+    "description": "HedgeHog is a DeFi protocol that hedges against the inherit impermanent loss of Uniswap liquidity pools using NFTs. It does that by creating a derivative (NFT) of the expected value of such IL, using heavy off-chain computation in optimistic rollups.",
+    "event": "ETHGlobal Paris",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "buucz"
+    ]
+  }
+]

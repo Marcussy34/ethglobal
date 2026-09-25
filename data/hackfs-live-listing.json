@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "!PiedPiper",
+    "slug": "-piedpiper-4gffj",
+    "description": "Empower users to upload their videos in the public domain while upholding privacy via AI-powered encryption scheme",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pyr",
+    "slug": "pyr-gprso",
+    "description": "Pyr is a DApp allowing creators to publish digital content to the Ethereum Blockchain in the form of an ERC-721 NFT contract. Publishing and managing the content is built using Fleek’s Space Daemon while the content sharing to valid customers is managed using LibP2P and PubSub.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MLB Champions Subgraph",
+    "slug": "mlb-champions-subgraph-59qb8",
+    "description": "A subgraph of the MLB Champions NFT Tokens",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "wiflo",
+    "slug": "wiflo-gr1ca",
+    "description": "wiflo : global mindfulness tool for spirit",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockClip",
+    "slug": "blockclip-54z79",
+    "description": "An Application that would save content from the internet onto IFPS and save the link + title on your own private space",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3 buttons interface",
+    "slug": "3-buttons-interface-t895p",
+    "description": "3 buttons interface hack. File, contact, and payment. Hacking accessible, privacy, and progressive web",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Plasma Connect +",
+    "slug": "plasma-connect--szr4s",
+    "description": "An incentive tool to encourage people to donate blood/plasma for people in need.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Box & Drop",
+    "slug": "box-drop-hvon6",
+    "description": "Pokemon-GO style game based on IPFS",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nonce",
+    "slug": "nonce-1k8b3",
+    "description": "Decentralized web indexer",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "iExecODB",
+    "slug": "iexecodbp2p-ybb8z",
+    "description": "A libp2p based network for sharing iExec ODB orders",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "web3Drive",
+    "slug": "web3drive-ahh6i",
+    "description": "Web3 Drive is the user gate for the decentralized storage world. it acts as a decentralized drive where user can upload, download his large files in a secure way .",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Secured Finance",
+    "slug": "secured-finance-22fp5",
+    "description": "A protocol for financial transactions backed by crypto-assets",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kotal",
+    "slug": "kotal-cf254",
+    "description": "Open source cloud agnostic blockchain infrastructure deployer.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zero Swap",
+    "slug": "zero-swap-vqyha",
+    "description": "ZERO enables collateralized subscriptions for Filecoin and Ethereum via (oracleless) TimeSwap. Includes decentralized chat rooms to discuss web3 and DeFi protocols.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InterPlanetary Container Registry",
+    "slug": "interplanetary-container-registry-0j2rn",
+    "description": "Like Docker Hub, but fully decentralised.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Caramel",
+    "slug": "caramel-eau40",
+    "description": "Adding caramel gooeyness (aka artifact persistence via Pinata's IPFS pinning service) to Truffle 🍬",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rust-CID-npm",
+    "slug": "rust-cid-npm-rg6yk",
+    "description": "Fast and tiny rust library, CLI tool, and npm package to generate CIDs without a full IPFS client",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Docker Hub",
+    "slug": "decentralized-docker-hub-uhwe5",
+    "description": "Decentralized Docker Hub powered by IPFS, Filecoin and ENS",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Linchpin",
+    "slug": "linchpin-mh6a2",
+    "description": "linchpin is a bundle of mini-applications; each one creating content ids or executing a public Ethereum transactions on the blockchain, and sometimes it does both.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unchained Index",
+    "slug": "unchained-index-nsc28",
+    "description": "Exploring how to deliver Web 3.0 native data without resorting to old-fashioned Web 2.0 based APIs.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LokBazaar",
+    "slug": "lokbazaar-m0uwn",
+    "description": "A decentralised marketplace maintaining user privacy and giving shopkeepers the right they deserve.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Upala Digital Identity",
+    "slug": "upala-digital-identity-04d5i",
+    "description": "Anti-Sybil system for DApps and a decentralized digital identity of the future.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blue Coati",
+    "slug": "blue-coati-wsx4n",
+    "description": "Predication market based curation system using off-chain betting",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthQuad",
+    "slug": "ethquad-q1sqx",
+    "description": "Polyglot hack to demonstrate a combination of Filecoin related tooling",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DwebVR",
+    "slug": "dwebvr-ks544",
+    "description": "How-to build decentralized virtual reality worlds in your browser",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPFS Deploy for Java",
+    "slug": "ipfs-deploy-for-java-6zq2p",
+    "description": "Decentralized Java package repositories on IPFS/Filecoin.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DEdit",
+    "slug": "dedit-h9ctx",
+    "description": "A Decentralized image editer",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GoImage",
+    "slug": "goimage-g40ps",
+    "description": "An image filemanagement platform",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiHedge",
+    "slug": "defihedge-1dqtf",
+    "description": "The Decentralized Protocol For Fixed-Rate Lending & Interest-Rate Derivatives",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "crowdStore",
+    "slug": "crowdstore-w3ofi",
+    "description": "Application to store crowd funded documents on IPFS. The app allows users to start contracts on ethereum and collect funds to finance the storage of items on IPFS / filecoin testnet.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VideoShare_web",
+    "slug": "videoshare-web-8bz34",
+    "description": "Share video the web edition.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eat Out Coin",
+    "slug": "eat-out-coin-0su1z",
+    "description": "A web app that reward customers with tokens when they make a purchase from a restaurant",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Azuhntivize",
+    "slug": "azuhntivize-hrv21",
+    "description": "Incentivized ML training",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Satyam",
+    "slug": "satyam-ko6wx",
+    "description": "Many journalist face life threats just because they published something which they are not supposed to talk about, Now consider a network where you can break a story without revealing your IDENTITY, and which is SPAM free at the same time, That's what Satyam is !",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoCreate",
+    "slug": "cocreate-1jxdk",
+    "description": "CoCreate allows song-writers & lyricists to work together with musicians and music producers to create music together.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dtok",
+    "slug": "dtok-onc5b",
+    "description": "A decentralised social media platform with a familiar look ,feel and functionality",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BuildingBlocksTech",
+    "slug": "buildingblockstech-q6x55",
+    "description": "A productivity tool that gives the user incentives when they hit milestones to accomplish a larger goal.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PHONEWORD Workshops",
+    "slug": "phoneword-workshops-7zgfh",
+    "description": "Prototyping a Global Directory to Create Decentralized Naming, Addressing, Numbering & Identity Innovation",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hymn sheet",
+    "slug": "hymn-sheet-rdwny",
+    "description": "A social distance lyrics app for mobile phones",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Grid",
+    "slug": "grid-873y7",
+    "description": "Bootstrapping web3 social networks",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fin-File",
+    "slug": "fin-file-m4v76",
+    "description": "Python Flask app to generate 5-year weekly charts for equities or cryptocurrencies using Textile.io's HUB to store these files on IPFS and Filecoin.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dataloft",
+    "slug": "dataloft-z8xa8",
+    "description": "Encrypted data drive on filecoin",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Speech Archivator",
+    "slug": "speech-archivator-v4cq9",
+    "description": "We detect speeches of influential people in a (live stream) videos. We save these videos in safe decentralized storage, so that no one can modify them and anyone have access to the original versions.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Toyanos",
+    "slug": "toyanos-g29qt",
+    "description": "Distributed virtual identity stored in IPFS and governed by an Ethereum smart contract",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Multiverse",
+    "slug": "multiverse-s91xi",
+    "description": "A decentralized social network with no central authority where users own their data",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Drasil Contacts",
+    "slug": "drasil-contacts-agbxf",
+    "description": "Auto-updating, user-empowering contacts dapp. People control their contact info, how it is shared, and subscribe to the other users to build their address book.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Monetizing Decentralized Content",
+    "slug": "monetizing-decentralized-content-jk2q0",
+    "description": "Interoperable, Non-dependent Microservice Protocols enabling Payments, Distribution, and Authentication for Decentralized Content",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SecureBeam",
+    "slug": "securebeam-ij7ea",
+    "description": "Decentralize your personal cloud storage like Dropbox and Google Drive",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EduVault",
+    "slug": "eduvault-4ae2z",
+    "description": "User owned data for greater EdTech interoperability. Building a human-first foundation for AI-guided education.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mapping The Network",
+    "slug": "mapping-the-network-qtud0",
+    "description": "Visualizing the IPFS network using powergate, altair, pandas",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Everforo",
+    "slug": "erc20rewardengineforonlineforum-ahosx",
+    "description": "Creating a ERC20-based Reward System for Traditional Online Forums where owners can define reward rules and create their own ERC20-based reward token",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Powergate Docker Hub",
+    "slug": "powergate-docker-hub-dpgys",
+    "description": "Docker registry driver for powergate",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Video Vault for Content Creators",
+    "slug": "video-vault-for-content-creators-rtzou",
+    "description": "A video vault for promoting content creators by incentivising the content through votes (or Likes).",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPFS Recovery",
+    "slug": "ipfs-recovery-i5kb7",
+    "description": "Our team is building a way for content to persist on IPFS despite damage to data and the network at large.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "pnlp (i.e. PULP)",
+    "slug": "pnlp-i-e-pulp-vppfy",
+    "description": "pnlp is the open publishing platform for written content on web3. Authors: write and publish on the open web; assemble a following and earn money from your readership. Subscribers: browse the best writing on the open web and support the authors you value most.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yahli",
+    "slug": "yahli-frggd",
+    "description": "Document signing application",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Graphiti",
+    "slug": "graphiti-qiw74",
+    "description": "Decentrally-sourced live graffiti wall gossiped and direct-synced via libp2p and store on IPFS",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dicons",
+    "slug": "dicons-r5wcg",
+    "description": "A registry to upload your icon to IPFS and register it for your smart contract in our ethereum registry",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Project Basic Vibe",
+    "slug": "project-basic-vibe-ju44s",
+    "description": "This project is focused on creating a simple, but powerful implementation of DeFi and dStore",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fights of Ether",
+    "slug": "fights-of-ether-ethereum-fighting-game-mbwii",
+    "description": "Tokenized P2P fighting game built on the Ethereum blockchain",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aurbit",
+    "slug": "aurbit-cnhe9",
+    "description": "Aurbit is an Interplanetary map strategy game built on Ethereum.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Data Exchange & Analytics Automatization",
+    "slug": "data-exchange-analytics-automatization-go8hm",
+    "description": "Service to exchange data and help build data pipeline using ML algorithms",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "coeo",
+    "slug": "coeo-fpmvx",
+    "description": "A privacy-focused collaboration tool",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RedditDAO",
+    "slug": "redditdao-yz9ea",
+    "description": "Imagine incentivizing participation with community specific ERC20 tokens.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fuzzy Network",
+    "slug": "fuzzy-ads-6m35d",
+    "description": "Fuzzy Network is a decentralized advertising network using web3 to preserve user privacy & give transparency to publishers & advertisers.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DFAME",
+    "slug": "dfame-4t3he",
+    "description": "A tiktok alternative that's privacy-first and uses personal tokens to empower creators and creative communities",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "73 and Web3",
+    "slug": "73-and-web3-nbg4v",
+    "description": "My project is a blog aimed at the non-developer community to promote the decentralized web and it's development.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PlanetFlare",
+    "slug": "planetflare-uzzsf",
+    "description": "A decentralized CDN platform that enables anyone to serve content and get paid for it!",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Open Polkassembly",
+    "slug": "open-polkassembly-bbvsq",
+    "description": "A trustless discussion platform",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "oSnap",
+    "slug": "osnap-22us8",
+    "description": "A decentralized social media tangle built with a distributed filesystem.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilcoinPricingMechanism (FPM)",
+    "slug": "filcoinpricingmechanism-fpm-e9e6x",
+    "description": "A decentralized pricing mechanism for Filecoin. FPM connects users with the most suitable storage nodes and derives optimal prices based on supply-demand rules. The solution hides identity of its users and ensures the correctness of the computations with minimal overhead.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Padlock",
+    "slug": "padlock-k3x9y",
+    "description": "Helping artists monetize creative work via the decentralized web.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P-Sign",
+    "slug": "p-sign-uw029",
+    "description": "Enables multiple parties to electronically sign documents without an intermediary.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eridanos",
+    "slug": "eridanos-2ct7h",
+    "description": "We're building provable Verifiable Credentials on Ceramic Protocol / DIDs",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cadbury",
+    "slug": "cadbury-ahktz",
+    "description": "We are building open,neutral, border-less, decentralized and censorship resistance Meetings(Google Meet / Zoom) powered by web 3.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPFS-FPS",
+    "slug": "ipfs-fps-cd61j",
+    "description": "(Unofficial) Interplanetary File System First Person Shooter",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Subsocial",
+    "slug": "subsocial-4fdzz",
+    "description": "A decentralized social media on IPFS + Ethereum with monetization.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shop FS",
+    "slug": "shop-fs-9qgup",
+    "description": "We are Building a Interactive IPFS Ethereum Marketplace where sellers can upload decentralized content and ask for a price to be paid in ERC20 Tokens, and the buyers can buy the content and have private access to it with the help of a smooth payment channel  using Money Streaming",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Distributed  IPFS Via hexagonal Architecture",
+    "slug": "distributed-ipfs-via-hexagonal-architecture-98ju0",
+    "description": "BlockchainFS Using Member list Lib via Hexagonal Technique",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralised Full-Market Directory",
+    "slug": "decentralised-full-market-directory-y44ho",
+    "description": "Data exchange allowing the providers to introduce their products and make them discoverable by the advertisers. The advertisers would drive the consumers attention on the products.  A Three-Way Coasean Bargain to create a win-win-win case!",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "pygate",
+    "slug": "pygate-c561c",
+    "description": "Python interface and tools for the Filecoin network using Textile's Powergate API",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "js-libp2p-biton",
+    "slug": "js-libp2p-biton-v2r67",
+    "description": "An overlay network built around swarms to provide routing and storage with plausible deniability.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RicLoo",
+    "slug": "ricloo-hgeia",
+    "description": "We're going to build a decentralized replacement for Medium based on IPFS+ENS.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "umwelt",
+    "slug": "umwelt-t05v1",
+    "description": "umwelt is a dApp for semantic queries on top of IPFS",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ACCESS_DENIED",
+    "slug": "access-denied-reu58",
+    "description": "Build a blockchain community for producing effective solutions.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anwen-Boosting-Create-and-Share",
+    "slug": "anwen-boosting-create-and-share-suncf",
+    "description": "A decentralized content platform/community which reward authors and valuable readers with FileCoin. We storage articles on ipfs/filecoin to avoid boring 404.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cadencia",
+    "slug": "cadencia-0y2ap",
+    "description": "Lowering barriers to leveraging open data networks.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Customata",
+    "slug": "customata-5gu71",
+    "description": "As IPFS files grow in number, a search engine will be needed. Google search does not crawl IPFS files. The currently existing IPFS search engine at https://ipfs-search.com has defects. So we made this project.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Kyber Project",
+    "slug": "the-kyber-project-v19cu",
+    "description": "Want to know who cares about the issues you're concerned with? By offering a news forum to share and debate your perspectives, our web app will help you see all the politicians that align with your stance on how your country, city, region and more should be run.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClimateDataPool",
+    "slug": "climatedatapool-2hmmp",
+    "description": "ClimateDataPool is a project to unite the reporting of all the nations that support the Paris Climate Accord. We'll build a PoC of an IPFS/Filecoin-based file management app for sharing climate data. Future users are civil servants and researchers; the UN is the intended host.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "prana:",
+    "slug": "prana--a7qo6",
+    "description": "Creating unique copies of ebooks that users can own outright, with the freedom to do what they want with it. Just like how physical copies are owned by users.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DRetros",
+    "slug": "dretros-9w61t",
+    "description": "Enabling project retrospectives with complete privacy and control of all the information. With DRetros your organization and individuals can manage all the data generated throughout the team's retrospectives on the Ethereum blockchain.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bradbvry - Photos",
+    "slug": "bradbvry-photos-wsh3q",
+    "description": "It allows you to store collections of pictures and share them privately on IPFS",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Supply Chain Dapp",
+    "slug": "supply-chain-dapp-crcvh",
+    "description": "A private social network for the Supply Chain sector, Producers, Distributors, Retailers and Customers to talk to each other. They both would build profiles, with relevant stats and history. Customer would be able to message, track orders & make payment.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ISCC Registry",
+    "slug": "iscc-registry-nyxok",
+    "description": "Decentralized Content Identifier Registry",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Código - IoT+ETH <3",
+    "slug": "código-iot-eth-3-ywd9m",
+    "description": "Código is an IoT firmware distribution service. Built as a shop-window for users to manage their IoT devices, it incentivises developers to develop firmware to be securely deployed using a network with no single point of failure.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Browser Streaming",
+    "slug": "browser-streaming-rybho",
+    "description": "Browser Streaming with IPFS storage",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Valist",
+    "slug": "valist-9o5z4",
+    "description": "A decentralized binary data/software notary and global repository, allowing developers and organizations to register public credentials to securely publish and distribute software/firmware/arbitrary data to users. Powered by Ethereum, IPFS, and (soon) Filecoin.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Libertas",
+    "slug": "libertas-—-your-word-is-now-unstoppable--prtgu",
+    "description": "A Censorship Resistant Decentralized Social Network allowing users to create Videos, Live Streams, Articles, P2P calls giving users the power to monetize every second of their content, choosing the advertisements they want to show and build live audiences, global and unstoppable.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "omo.earth",
+    "slug": "omo-earth-20xet",
+    "description": "Creating a first proof of concept of our user-owned, offline-first, encrypted by default subscription based crowdsourcing and crowdfunding marketplace, build on textile threads DB, IPFS and the CIRCLES universal basic income currency protocol",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Watchdog DAO",
+    "slug": "watchdog-dao-txpms",
+    "description": "A DAO to increase government accountability and transparency",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LibreScore",
+    "slug": "librescore-nfvb6",
+    "description": "Sheet music. Free. Forever.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Public Annotation Network",
+    "slug": "public-annotation-network-eqfnc",
+    "description": "Public Annotation Network (PAN) is an open source censorship-resistant web annotation service - driven by Ethereum and IPFS!",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ethsign",
+    "slug": "ethsign-bn9b8",
+    "description": "Ethsign is a decentralized, versioned electronic agreements signing application built on Ethereum, IPFS, and Filecoin (powered by Powergate).",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oya Protocol",
+    "slug": "oya-protocol-tbgjt",
+    "description": "We built a decentralized product listing service and affiliate program for Oya, a decentralized e-commerce protocol.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TheBlock",
+    "slug": "theblock-h59m7",
+    "description": "A web platform where users rent / sell / buy and manage property on a peer-to-peer network",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VP Guilds",
+    "slug": "vp-guilds-97dpu",
+    "description": "Decentralized social media/guild community platform built on NEAR and IPFS (Textile).",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Freemail",
+    "slug": "freemail-hdeqm",
+    "description": "An extensible SMTP-like service that obfuscates senders and receivers by using decentralized storage.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentramall",
+    "slug": "decentramall-7tm0v",
+    "description": "Decentramall is a virtual shopping platform built on Ethereum.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Facts",
+    "slug": "facts-nmxwq",
+    "description": "A news sharing app such that facts can be verified by people themselves.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPFS-scholar",
+    "slug": "ipfs-scholar-uucst",
+    "description": "IPFS-scholar is a distributed file storage system similar to the SCI, which provides a free and rapid release platform for scientific research achievements, academic papers and other materials. It also breaks the status quo that data is monopolized by a few giant enterprises, dec",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "News Buff",
+    "slug": "news-buff-nqqid",
+    "description": "A censorship resistant news platform for citizen reporters so they can inform the public and create a verifiable foundation of news sources.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Azureus",
+    "slug": "azureus-dvf7q",
+    "description": "The team has identified the lack of a frictionless transaction process at toll gates and is designing a decentralized solution that allows a toll authority to conduct secure transactions by cutting out untrustworthy middlemen and on-chain verification.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filecoin123",
+    "slug": "filecoin123-3rr3y",
+    "description": "A blockchain browser to query information on filecoin",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TJ Wallet Lite",
+    "slug": "tj-wallet-lite-619qb",
+    "description": "A professional and reliable digital asset wallet client supporting Filecoin",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fractal",
+    "slug": "fractal-d2ms3",
+    "description": "Fractal is a decentralised accounting tool preserving users privacy and providing insight into interactions with defi protocols.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Big Announcement",
+    "slug": "the-big-announcement-99oy8",
+    "description": "An uncensorable website that displays a single message written by the highest bidder",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Voronoibeam",
+    "slug": "voronoibeam-6o3f9",
+    "description": "The decentralized content delivery based on IPFS for internet service providers (ISPs).",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "sailplane-web",
+    "slug": "sailplane-web-gnxxe",
+    "description": "Sailplane is a peer-to-peer Dropbox in a web app using IPFS + OrbitDB",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DGallery",
+    "slug": "dgallery-mb03n",
+    "description": "Adding IPFS capabilities to the Simple Gallery FOSS application.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Geo Web",
+    "slug": "geo-web-vuk36",
+    "description": "A digital land registry administered with a Harberger tax structure that can be used to create geolocation-based web experiences.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mobility Marketplace",
+    "slug": "mobility-marketplace-wi0iy",
+    "description": "A decentralized data marketplace connecting advertisers and mobility users.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kazan",
+    "slug": "kazan-o5r96",
+    "description": "Kazan is an application where musicians can discover tracks, jam on them and republish for further collaboration",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Myel",
+    "slug": "myel-cersx",
+    "description": "Easy retrieval mining",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Parcel",
+    "slug": "parcel-faxva",
+    "description": "Parcel is a decentralized crypto payroll service with built-in end-to-end data encryption using Filecoin, IPFS, Textile’s Powergate and Sablier for money streaming.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WFIL",
+    "slug": "wfil-d544p",
+    "description": "Wrapped Filecoin (WFIL),  ERC20 Wrapper over Filecoin",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Live-Like Project",
+    "slug": "the-live-like-project-xpnwq",
+    "description": "Decentralized Live Streaming",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TeamSurti",
+    "slug": "teamsurti-8ec66",
+    "description": "Make an decentralized video player with Textile Powegate, Filecoin, IPFS, Ethereum and Fleek Hosting",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HEIBEN",
+    "slug": "heiben-n3s0p",
+    "description": "Our project is item traceability system based on ipfs, ethereum and web3 . It can help to trace the source of problem item  during the COVID-19 epidemic",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3API",
+    "slug": "web3api-0ia60",
+    "description": "The Power of Web3, The Ease of Web2. Interact with smart contracts through decentralized GraphQL endpoints, in any language, no smart contract SDKs required.",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockSig",
+    "slug": "blocksig-zzo74",
+    "description": "A notarized document signing solution backed by proofs on Ethereum and encrypted IPFS",
+    "event": "HackFS",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

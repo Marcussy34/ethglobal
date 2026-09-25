@@ -1,0 +1,2969 @@
+[
+  {
+    "name": "Hashlocked",
+    "slug": "hashlocked-jwaq6",
+    "description": "Trustless EVM ↔ Bitcoin atomic swaps using 1inch battle-tested contracts",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PolyMobile",
+    "slug": "polymobile-9syby",
+    "description": "The Tinder-like UX The core prediction market functionality  The Flow EVM platform",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeroPain",
+    "slug": "zeropain-kqdj0",
+    "description": "Zero-pain cross-chain account abstraction, using LayerZero & the Boop AA stack.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Walrus Showcase",
+    "slug": "walrus-showcase-mfv67",
+    "description": "Walrus sites portal running on Fluence decentralized compute",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Sales Army",
+    "slug": "ai-sales-army-vv612",
+    "description": "A decentralized, incentivized sales network where humans and AI collaborate to find leads",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TEE Trivia Tower",
+    "slug": "tee-trivia-tower-fw8je",
+    "description": "A game without backend using TEE. This doesn't need a backend.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainGains",
+    "slug": "chaingains-4hz9h",
+    "description": "dApp for options arbitrage trading secured by smart contracts.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "eth coin flip",
+    "slug": "eth-coin-flip-87x5k",
+    "description": "2 players stake ETH, flip a coin on-chain, winner takes all!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sir Antoine",
+    "slug": "sir-antoine-nr7ea",
+    "description": "Antoine: god level ETH Global Mentor. Learn from all past submissions to build the future",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK Weather Insurance",
+    "slug": "zk-weather-insurance-w70cc",
+    "description": "A decentralized weather insurance platform that uses ZK-SNARKs.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Globeprice",
+    "slug": "globeprice-21jeq",
+    "description": "GlobePrice turns everyday real-world transactions into trusted sources of global price data",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Z-memo",
+    "slug": "z-memo-a0zfx",
+    "description": "Z-memo: Your real memories, now NFTs on @Zircuit_L2. Share & collect with gas-free ease.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dragon Realms",
+    "slug": "dragon-realms-q0yir",
+    "description": "A fully onchain RPG on Ronin where players mint NFT heroes, complete DeFi quests, and level up.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Context Passport",
+    "slug": "context-passport-b2pcx",
+    "description": "An digital passport for you to own your context across AI apps and for AI agents to know you better",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TruETH Protocol",
+    "slug": "trueth-protocol-vd1y9",
+    "description": "Launch an Investigation, anyone can drop evidence, voters tag truth.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Credura",
+    "slug": "credura-rrsv6",
+    "description": "Crypto-Backed Buy Now, Pay Later Protocol (Powered by Direct Debit Repayments)",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "Strarifi.xyz",
+    "slug": "strarifi-xyz-o9kww",
+    "description": "An Intelligent, autonomous agent for DeFi, optimising yield & liquidity",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deport The Dip",
+    "slug": "deport-the-dip-ckv5t",
+    "description": "Telegram bot + mini-app for one-click DeFi copy-trading with delegated wallets using Privy",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Usora",
+    "slug": "usora-er1ib",
+    "description": "Automated on-chain installment loans with bot-triggered repayments on Flow EVM.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ledger Kit",
+    "slug": "ledger-kit-qp0yy",
+    "description": "Custom Ledger DMK connector for Next.js dApps (wagmi/RainbowKit).",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ContractObituarie",
+    "slug": "contractobituarie-vf879",
+    "description": "Analyzing smart contracts using contracts obituaries using 0G AI and a cool UI",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zivo",
+    "slug": "zivo-1opa0",
+    "description": "Zivo is a virtual crypto credit platform, users borrow on collateral and pay via NFC tap-to-pay.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnInch",
+    "slug": "aninch-z8kcw",
+    "description": "AI Agent that shows you realtime balances of the tokens you own",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeroBlade",
+    "slug": "zeroblade-5ye7f",
+    "description": "Bet on sports. Never lose your stake. Win rewards, or get your capital back: zero-loss betting.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpz6h"
+    ]
+  },
+  {
+    "name": "HumanChain",
+    "slug": "humanchain-wh9am",
+    "description": "A way to check if content on social networks is ai using blockchain protocol",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ronin Rivals",
+    "slug": "ronin-rivals-3iuox",
+    "description": "A web3 turn-based Samurai battle game on Ronin Blockchain, EVM compatible!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ob9r"
+    ]
+  },
+  {
+    "name": "Aledgerly",
+    "slug": "aledgerly-ubdxd",
+    "description": "A Clear Signing assistant that protects users from blind signing and scam transactions.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Shoal",
+    "slug": "shoal-8512v",
+    "description": "Debt issuance through crowdfunding w/ collateralized tokenization of receivables.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayBot",
+    "slug": "paybot-k5jxr",
+    "description": "Discord bot for crypto payments with privy integration: send, receive, refill",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SessionFlow",
+    "slug": "sessionflow-t4ok8",
+    "description": "Session-based wallet solution combining cold storage security with streamlined transaction workflows",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "FewFans",
+    "slug": "fewfans-stg1z",
+    "description": "Cross-chain actions gated by Self zk proofs, executed via LayerZero dispatch",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BillyPay",
+    "slug": "billypay-d4p6x",
+    "description": "Pay your Electricity, Internet and Gas bills from BillyPay the World Miniapp",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "zKYC",
+    "slug": "zkyc-zri0y",
+    "description": "zKYC: Private, AI-powered KYC with ZK proofs—verify once, reuse anywhere.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "borch.",
+    "slug": "borch-1fa3d",
+    "description": "Borch. is the easiest way to manage group expenses. Splitwise was yesterday, meet borch.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yap2Win",
+    "slug": "yap2win-7nuo2",
+    "description": "Telegram bot leveraging ROFL to store keys, judge, and distribute rewards",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Snitch",
+    "slug": "snitch-nr95d",
+    "description": "AI-powered on-chain audit scores for smart contracts—trustless, instant, cross-chain.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BrainID",
+    "slug": "brainid-cvgar",
+    "description": "EEG brainwave identity verification with zero-knowledge proofs, unhackable biometrics.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "PolyBet",
+    "slug": "polybet-p884n",
+    "description": "AI powered, privacy enforcing, prediction market smart router",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "1ijf8",
+      "pjq8a",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Defi Valley",
+    "slug": "defi-valley-iwavi",
+    "description": "Defi Valley lets you earn in a comfy, familiar farming interface.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yuvir",
+      "rpz6h"
+    ]
+  },
+  {
+    "name": "ChromaMind",
+    "slug": "chromamind-4cx83",
+    "description": "Guide your brain. Tokenize your journey.. Enjoy the experience.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ShowUp 🤝",
+    "slug": "showup-handshake-it6vr",
+    "description": "Turn group plans into real meetups with crypto stakes, verified check-ins & shared memories",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qiqkw"
+    ]
+  },
+  {
+    "name": "Easy Flow",
+    "slug": "easy-flow-rd18r",
+    "description": "The project combines a modern user interface with an AI agent to enable users to do DeFi actions",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "wagmi Ledger connect",
+    "slug": "wagmi-ledger-connect-tobn2",
+    "description": "Add Ledger wallet to wagmi connector to allow integration with more developer tools",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "walrusTee",
+    "slug": "walrustee-ug3rc",
+    "description": "Trusted Rust compiler that uploads encrypted projects to Walrus storage",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ijf8"
+    ]
+  },
+  {
+    "name": "Cosmiq",
+    "slug": "cosmiq-fb3e8",
+    "description": "AI platform to build full-stack Web3 apps from prompts, in-browser with Flow and graph intelligence.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "PredictMeBro",
+    "slug": "predictmebro-n224p",
+    "description": "A decentralized, real-time sentiment prediction market made for everyone.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusionad",
+    "slug": "fusionad-9mkcw",
+    "description": "We tried our best but alas we have only used the sdk extensively",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "King of the Flow",
+    "slug": "king-of-the-flow-t8mpg",
+    "description": "A competitive king-of-the-hill-style bidding game on Flow EVM, burning staked liquidity.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrivyCycle",
+    "slug": "privycycle-anndr",
+    "description": "Decentralized period tracker with user-owned data, private sharing, and AI-driven insights.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "ijybm",
+      "qiqkw",
+      "g8xu4",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "MIRA",
+    "slug": "mira-tw2d2",
+    "description": "MIRA is rebuilding financial access for women in crisis—without documents, gas, or exposure.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Birds Arn't Real",
+    "slug": "birds-arn-t-real-a663v",
+    "description": "Inside Job is a prediction market for past events, conspiracy theories,  and ancient technologies",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GitVault",
+    "slug": "gitvault-zau5m",
+    "description": "Defend your code from censorship and boost your on-chain developer reputation with ENS and Walrus!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "vsbye"
+    ]
+  },
+  {
+    "name": "LinguaChain",
+    "slug": "linguachain-5w2v6",
+    "description": "Learn English, earn tokens, and mint soulbound NFT certificates — all on-chain.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Warriors AI-rena",
+    "slug": "warriors-ai-rena-f1owp",
+    "description": "WarriorsAI-rena is a groundbreaking blockchain-based battle arena",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Volta_Loan",
+    "slug": "volta-loan-5r4re",
+    "description": "Black-Scholes powered DeFi lending: 12.5% APR + automatic put option protection",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpz6h"
+    ]
+  },
+  {
+    "name": "walrus-sync",
+    "slug": "walrus-sync-10v78",
+    "description": "A CLI tool for uploading one or multiple files to Walrus and resume uploads that are incomplete.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HyPortal",
+    "slug": "hyportal-wvgnk",
+    "description": "Trade Hyperliquid perps from any chain using cross-chain USDC and a seamless UI",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DevDeploy",
+    "slug": "devdeploy-jap4d",
+    "description": "Deploy frontend & backend on-chain in minutes, costless, with seamless testing and iteration.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Contx.eth",
+    "slug": "contx-eth-jip87",
+    "description": "The context layer of Ethereum, turning an X / Twitter profile into an AI identity in 30 seconds",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "aZ",
+    "slug": "az-v89oa",
+    "description": "Zero-knowledge-backed matchmaking, powered by a purpose-built AI agent.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "le-ultracivic",
+    "slug": "le-ultracivic-pyn5t",
+    "description": "Buy and retire the legal rights for US and EU polluters to emit a ton of CO2, and earn crypto.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "👀Proov!",
+    "slug": "eyes-proov-at10u",
+    "description": "Fotos & Videos with Built-in Truth: Tamper-proof media with ZK verifiable origins and authenticity.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "ToolMarket",
+    "slug": "toolmarket-0ewyj",
+    "description": "Markeplace for building reputation over AI agents, and futher reputation over used agents",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AstroFi",
+    "slug": "astrofi-383f8",
+    "description": "A Web3 astrology platform where predictions earn, reputations matter, and charts go on-chain",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "ZKAge Proof Mobile",
+    "slug": "zkage-proof-mobile-2yroo",
+    "description": "ZK Age Proof Mobile: Verify your age, without revealing any personal information.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwappaTEE",
+    "slug": "swappatee-j0ovm",
+    "description": "A Fusion+ powered cross-chain swap between any EVM-supported chain and XRP Ledger",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "WorldCanvas",
+    "slug": "worldcanvas-xsx4e",
+    "description": "Claim your pixel. Shape the Canvas. Verified humans can place a pixel every 5 minutes",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "SNARKs On A Card",
+    "slug": "snarks-on-a-card-0bnv8",
+    "description": "Intriguing, yet ultimately unsuccessful, attempts to fit Groth16 into a Secure Element.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Helpify",
+    "slug": "helpify-zhc85",
+    "description": "Individuals create donation campaigns, sponsors add incentivization, proof of donation is stored.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ob9r"
+    ]
+  },
+  {
+    "name": "TheEmptyWorldOfCode",
+    "slug": "theemptyworldofcode-1b3m6",
+    "description": "\"In the beginning, there was nothing. Then I pushed to main.\" Welcome to TheMeptyWorldOfCode,",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LifeSignal",
+    "slug": "lifesignal-niysp",
+    "description": "Securely pass your secrets to heirs with a fully decentralized solution after death.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IntentFi",
+    "slug": "intentfi-96de5",
+    "description": "AI agent converting natural language to automated cross-chain DeFi strategies via Chainlink & Flow.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LendyHand",
+    "slug": "lendyhand-3um1e",
+    "description": "An idea for a tool on Zircuit to facilitate loans with crowdsourced collateral.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TopUp junkie",
+    "slug": "topup-junkie-qe658",
+    "description": "A top-up service using USDC, allowing users to montior their services on-chain.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiSalmon",
+    "slug": "defisalmon-nvaty",
+    "description": "Ranged LP positions with built-in leverage and hedging capabilities",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Curve League",
+    "slug": "curve-league-ox0r3",
+    "description": "A platform to propose performance based bonds on footballers representing belief in player's success",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "ProofOfParticipation",
+    "slug": "proofofparticipation-xca0a",
+    "description": "Prove you were in Cannes for the event with your mobile and mint a NFT",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Soham Number 5",
+    "slug": "soham-number-5-8v2r2",
+    "description": "WorldID Human Verified Hiring Platform on WorldChain using Walrus and HardHat",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Edging",
+    "slug": "edging-9xfpb",
+    "description": "A real-time news & social intelligence platform for traders to get a competitive edge.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ERC7730 JSON builder",
+    "slug": "erc7730-json-builder-e3510",
+    "description": "A tool that makes it easy to generate an ERC-7730 JSON file from a smart contract.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "WorldConnect",
+    "slug": "worldconnect-h66hg",
+    "description": "WorldConnect: Secure social platform with World ID biometric verification & QR friend codes",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "proof of learning",
+    "slug": "proof-of-learning-49igu",
+    "description": "A decentralized learning credential system that gives users NFT-based certificates.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MoirPro",
+    "slug": "moirpro-e347p",
+    "description": "Minimal Flutter template for Sepolia on-chain verification via Mopro & Noir.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "X-Lend",
+    "slug": "x-lend-u8b2g",
+    "description": "Borrow cross-chain with tokenized stock puts as collateral. No liquidation, just repay on time.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "onepot",
+    "slug": "onepot-qykfi",
+    "description": "Onepot is a community savings app inspired by chit funds. Pool money and take larger payouts!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Romi",
+    "slug": "romi-kwa9t",
+    "description": "Romi is a simple, secure crypto wallet integrating multiple chains and tokens into a pair (Tok/Cha)",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Revix - ZK ❤️ 7702",
+    "slug": "revix-zk-heart-7702-16c57",
+    "description": "Restore access to wallet using combination of EIP-7702 and passport proofs",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TratoHecho_P2P",
+    "slug": "tratohecho-p2p-ar7dw",
+    "description": "Hybrid P2P market for Latam: Sell onchain, buy with fiat offchain with trustless settlement",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "rating_app_world",
+    "slug": "rating-app-world-eaj9z",
+    "description": "Decentralized IPFS content and rating app using Worldcoin for verified user participation.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Zirconium",
+    "slug": "zirconium-3632e",
+    "description": "Composable Proof System for Composable ZK & Decentralized MultiAgent Coordination",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Async Nakamoto",
+    "slug": "async-nakamoto-zzgew",
+    "description": "An AI-AGENT research assistant that proactively finds opportunities in DeFI",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ChipIn",
+    "slug": "chipin-jq1pz",
+    "description": "ChipIn is a socialfi project which allows people to pool together funds to buy a token together",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smart Hedging",
+    "slug": "smart-hedging-mav2q",
+    "description": "Decentralized platform to exercise PUT options allowing users to hedge against price drops",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hypermaps",
+    "slug": "hypermaps-02r44",
+    "description": "Publicly Collaborative Correlationally Iterative Optionally Private LLM Organizational Environments",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Verified Human",
+    "slug": "verified-human-bcero",
+    "description": "Verify real human BTC and EVM addresses using World ID and SECP256k1 signatures",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Safe Salary",
+    "slug": "safe-salary-dujy1",
+    "description": "Web3 Treasury & Payroll Management - ZK Privacy on employee information",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Carrot",
+    "slug": "carrot-nff42",
+    "description": "Carrot is a SocialFi dApp that transforms ad budgets into real rewards for real people.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "RWALink",
+    "slug": "rwalink-4nyfv",
+    "description": "RWAlink: Crosschain RWA on ERC-7943 with unified compliance & seamless UX",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "PostHub",
+    "slug": "posthub-sjka6",
+    "description": "A content-sharing app with crypto rewards and on-chain proof built in",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Substream",
+    "slug": "substream-msjk1",
+    "description": "Get paid to your Substream ENS and receive the tokens straight into your Intmax private wallet",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "48dft",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "TrueCast",
+    "slug": "truecast-v7nu4",
+    "description": "Decentralized AI news platform where truth is verified by code, community votes, and whistleblowers.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PaintWars",
+    "slug": "paintwars-9724g",
+    "description": "PaintWars is a collaborative and competitive canvas for anyone to draw and fight together onchain.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockchess",
+    "slug": "blockchess-f6p31",
+    "description": "Real-time cross-chain chess game where players vote on moves with USDC stakes and earn rewards",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ProofOfFunds",
+    "slug": "proofoffunds-zczod",
+    "description": "Mobile app that generates ZK proofs of crypto balances without revealing exact amounts",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pace Club",
+    "slug": "pace-club-b6fn6",
+    "description": "Turn “let’s run” into real miles. Meet IRL. Earn points. Repeat.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "RollPay",
+    "slug": "rollpay-3jb6g",
+    "description": "Private payroll platform powered by INTMAX privacy & Zircuit EIP-7702 integration",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "verifyfans",
+    "slug": "verifyfans-syek1",
+    "description": "Talk to flirty AI companions in your browser. Adult-only, age-gated, and feels like real chat.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LedgerFlow",
+    "slug": "ledgerflow-wsxrx",
+    "description": "Improved Ledger TX signing UX with multi-chain explorer support and doc feedback",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Make Cat Fat & Save",
+    "slug": "make-cat-fat-and-save-nbzqj",
+    "description": "Bridge your leftover tokens from other L2s to Zircuit to a savings vault",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "WorldAgent.ID",
+    "slug": "worldagent-id-bpczi",
+    "description": "Agent.ID links agents to verified humans so they can act and complete tasks on their behalf.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "StakeDriven",
+    "slug": "stakedriven-cu7xk",
+    "description": "Polls for crowdfunding new product or feature development from community",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onchain Computation",
+    "slug": "onchain-computation-38sqd",
+    "description": "A library allowing to do arbitrary onchain execution in read calls",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "eTherapy Mini App",
+    "slug": "etherapy-mini-app-n6ovd",
+    "description": "eTherapy: Mental Health Therapy for Humans by Humans on the WorldCoin App",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Bulb.Social",
+    "slug": "bulb-social-hrwsj",
+    "description": "The Bulb project is a decentralized social platform using modern distributed technologies.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hot Potato",
+    "slug": "hot-potato-5bwn2",
+    "description": "Receive an airdrop, don't hold it for too long. On-chain Hot Potato, to make people socialize more.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tykn",
+    "slug": "tykn-6e8c8",
+    "description": "Virtual business card bot on top of Telegram - making networking easier",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Proof or Dare",
+    "slug": "proof-or-dare-q2qre",
+    "description": "Mini app built for World App, designed to build onchain reputation using real wallet activity.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "AI-DAO-President",
+    "slug": "ai-dao-president-bm0ib",
+    "description": "An AI president for your DAO—proposes and executes based on its own beliefs. You just vote.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FairBnb",
+    "slug": "fairbnb-g4oe4",
+    "description": "FairBnb is an app that lets verified hosts list their property with zkProofs of their ownership.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SigmaVault",
+    "slug": "sigmavault-y5msg",
+    "description": "Modern DeFi vault interface for Euler Protocol with real-time analytics and positions management.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yuvir"
+    ]
+  },
+  {
+    "name": "Greenini",
+    "slug": "greenini-j407y",
+    "description": "Carbon emissions is an urgent concern today. Greenini plans to incentivize reducing emissions.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "obsidian-kg-plugin",
+    "slug": "obsidian-kg-plugin-52yp2",
+    "description": "An Obsidian plugin that integrates your notes with The Graph's Knowledge Graph using GRC-20 protocol",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BreedProof",
+    "slug": "breedproof-fu7db",
+    "description": "Mobile-native ZK-powered breed registry with TheGraph, Circom, and Mopro",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AssetSphere",
+    "slug": "assetsphere-0xcfo",
+    "description": "AI managed, cross-chain RWA evaluator that uses real estate API's to provide real time evaluations",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pjq8a"
+    ]
+  },
+  {
+    "name": "MirrorMind",
+    "slug": "mirrormind-jm29f",
+    "description": "Clone yourself as an AI agent that think like you. Verified by digital identity, powered by uAgents.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yield GPT",
+    "slug": "yield-gpt-2bqut",
+    "description": "AI-generated DeFi strategies with one-click execution on Mantle.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "Chainwalkers",
+    "slug": "chainwalkers-ffvj3",
+    "description": "A cross-chain survival game where players from other chains help you survive and win—together.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AIR",
+    "slug": "air-n5w3t",
+    "description": "AIR is an AI-powered chatbot that helps you optimise your wetware.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "circles_subgraph",
+    "slug": "circles-subgraph-kr3cx",
+    "description": "Circles V2 Subgraph + Path Explorer to visualize and understand trust-based flows on Circles Network",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Monumint",
+    "slug": "monumint-e9bwu",
+    "description": "Flow's blockchain NFT project for minting & discovering monument NFTs with interactive maps.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Waltube",
+    "slug": "waltube-vsojp",
+    "description": "WalTube: Decentralized video streaming platform with Web3 wallet integration and Tusky storage",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Tylo",
+    "slug": "tylo-500pm",
+    "description": "The Social Reputation Layer for Blockchain dApps, SocialFi Scoring Standard",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TriggVest",
+    "slug": "triggvest-fucy3",
+    "description": "Automated cross-chain crypto trading triggered by real-world events.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Framino",
+    "slug": "framino-yt9by",
+    "description": "Framino provides seamless Payment by leveraging Circle Paymaster in Camino journey.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "La Kroisette",
+    "slug": "la-kroisette-beoph",
+    "description": "La Kroisette: Omnichain dispute resolution for Kleros's optimistic oracle using LayerZero v2.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zircuit Prolog Preex",
+    "slug": "zircuit-prolog-preex-wuwjk",
+    "description": "Proposed Prolog interpreter for Zircuit pre-execution for improved security and efficiency",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qiqkw"
+    ]
+  },
+  {
+    "name": "LinkMonster",
+    "slug": "linkmonster-wo8yy",
+    "description": "LinkMonster is a mobile social game that blends NFC technology and blockchain",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Luxbridge AI",
+    "slug": "luxbridge-ai-h6zuh",
+    "description": "AI-powered universal RWA liquidity layer - seamlessly trade wine, art & real estate across platforms",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Coin Flip",
+    "slug": "coin-flip-8z8p6",
+    "description": "web-based coinflip gambling app, needs to be 18+ to enter with self",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Builder Coins",
+    "slug": "builder-coins-ifd48",
+    "description": "A decentralized index fund that invests in the most promising builders in the Web3 ecosystem.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Livus",
+    "slug": "livus-9y0k8",
+    "description": "Own your health data, compete in challenges with real metrics from Oura and Whoop, and earn rewards",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "PrivacyLinks",
+    "slug": "privacylinks-y30gr",
+    "description": "A privacy-by-default browser wallet that leverages PrivacyPools for no-effort private Web3 browsing.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Backtest Agent",
+    "slug": "backtest-agent-272z0",
+    "description": "Fetch.ai uAgents & The Graph drive Uniswap backtester: DataAgent fetches events, Backtester tests",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creator Score",
+    "slug": "creator-score-6wwsv",
+    "description": "A reputation score for creators based on onchain impact, not followers.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NexusFund",
+    "slug": "nexusfund-fk8ve",
+    "description": "Donate stablecoin usdc to crowdfunding projects from whatever source chain you want!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "Coach Clone Agent",
+    "slug": "coach-clone-agent-0wf61",
+    "description": "Coach Clone AI: Coaches launch AI clones to scale support and track client growth easily",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Snapthentic",
+    "slug": "snapthentic-s6qfi",
+    "description": "Snaptenthic lets anyone prove photos are real humans using World ID. Snap, verify, earn.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Tap & Flow",
+    "slug": "tap-and-flow-xbt01",
+    "description": "Unlock your Flow Wallet with a single tap of your phone - no app needed.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deal or Not",
+    "slug": "deal-or-not-02njt",
+    "description": "Deal or Not recreates the speculative game popularized on an American TV show fully on-chain",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XO-Ember",
+    "slug": "xo-ember-2gmb7",
+    "description": "Swarm-based AI agent marketplace where orchestrators build workflows like websites or DeFi",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dynamica",
+    "slug": "dynamica-nvc5w",
+    "description": "Perpetual market for predicting future distributions of arbitrary continuous variables.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2ugg8",
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "StreamBeam ENS",
+    "slug": "streambeam-ens-g37v8",
+    "description": "Reward active STREAMBEAM users with free third-level ENS domains",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Walcache",
+    "slug": "walcache-7wx9p",
+    "description": "WCDN - Walrus Content Delivery NetworkOne Line Code, Multi-Chain CDN",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "CryptoFightClub",
+    "slug": "cryptofightclub-2p49r",
+    "description": "Turn-based NFT fighting game on Hedera: mint fighters, stake HBAR, battle NPCs, win rewards!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Race Around Town",
+    "slug": "race-around-town-w3bgo",
+    "description": "Race around the city against the clock! Utilizing Flares FDC feature and GPS data",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Funding rate arb.",
+    "slug": "funding-rate-arb-vuh0s",
+    "description": "Funding rate arbitrage with  hedging on 1inch limit order protocol and Hyperliquid for shorts",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "prism_orders",
+    "slug": "prism-orders-pzs2r",
+    "description": "Automated DCA, TWAP & Grid trading via 1inch Limit Order Book API, smart & gas-optimized.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Meta Lending Vault",
+    "slug": "meta-lending-vault-60wwu",
+    "description": "Meta-Vaults are curated ERC-4626 vaults to simplify and optimize DeFi yield strategies.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WorldCoins",
+    "slug": "worldcoins-zqyya",
+    "description": "WorldCoins: One-person, one-claim memecoin on World Chain. Pay 1 WLD → get 100 WLC.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "BetterBoxd",
+    "slug": "betterboxd-v3zn5",
+    "description": "Sovereign film ratings on Hypergraph—bias-corrected, private, and verifiable.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "That's ok-AI folks!",
+    "slug": "thats-ok-ai-folks-7hrm7",
+    "description": "A template repository to set up automated AI training machines using fluence and walrus",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "b2u1b"
+    ]
+  },
+  {
+    "name": "Omini index fund",
+    "slug": "omini-index-fund-5zyxo",
+    "description": "LayerZero-powered Omnichain index fund - seamless portfolio sync across all chains",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Turtles On Chain",
+    "slug": "turtles-on-chain-jn4x2",
+    "description": "Turtles On Chain is interoperable, cross-chain trading vault built using the LayerZero protocol.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BetFi",
+    "slug": "betfi-0a4i7",
+    "description": "Betting plateform that allows users to bet on the total yield generated by multiple DeFi positions",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClearSign DeFi",
+    "slug": "clearsign-defi-79y1k",
+    "description": "ERC-7730 files for 13 DeFi protocols - making smart contract transactions readable 🔍",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clipdoki",
+    "slug": "clipdoki-6u36q",
+    "description": "Clipdoki is a Chrome extension that acts as your AI mentor guide.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MeowPay",
+    "slug": "meowpay-5rmtq",
+    "description": "MeowPay is a decentralized payroll platform that lets employers pre-fund salaries",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "WiseFrens",
+    "slug": "wisefrens-0mqvf",
+    "description": "Split expenses with friends using Web3 - no gas fees, just passkey login",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayMee Web3",
+    "slug": "paymee-web3-266nv",
+    "description": "The easiest way to pay non Web3 people across chains — secure, seamless, multichain.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ask World",
+    "slug": "ask-world-0007e",
+    "description": "Human voice based feedback through world mini app, validated with AI, and stored in Walrus.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "pjq8a"
+    ]
+  },
+  {
+    "name": "Zenny",
+    "slug": "zenny-ynkim",
+    "description": "Earn passive returns on stablecoins without losing custody. Activate zen-mode, earn pennies.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Greenthumb",
+    "slug": "greenthumb-45kp8",
+    "description": "AI gardening assistant with USDC tipping - making plant care accessible through Web3 💚",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GeoGacha",
+    "slug": "geogacha-ab6dq",
+    "description": "GeoGacha is a Web3-powered exploration app that turns the real world into a loot map.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BeamPay",
+    "slug": "beampay-of4bx",
+    "description": "Seamless eip-7702 payment system with a wallet, supports three chains and multichain, and eip draft",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qiqkw",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "selfcare",
+    "slug": "selfcare-5kc6c",
+    "description": "verified data inside a permissionless federated learning infrastructure",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ipmya"
+    ]
+  },
+  {
+    "name": "Mosaic3",
+    "slug": "mosaic3-zsazi",
+    "description": "Mosaic is a decentralized AI marketplace with blockchain-secured access and creator monetization.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Augmi",
+    "slug": "augmi-aie89",
+    "description": "Platform for creating AI Influencers and monetizing their content on World App.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Hackaverse",
+    "slug": "hackaverse-qgzcc",
+    "description": "An interactive experience to learn more about web3 in a fun way",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "walrus-s3-gateway",
+    "slug": "walrus-s3-gateway-b3oy2",
+    "description": "A high-performance, S3-compatible API gateway for the Walrus decentralized storage network.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BackupBuddy",
+    "slug": "backupbuddy-atchp",
+    "description": "The first zero-friction, social seed recovery tool for mass crypto adoption, simple but secure.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ipmya"
+    ]
+  },
+  {
+    "name": "RealPnl",
+    "slug": "realpnl-w3a59",
+    "description": "An app that enables crypto influencers to prove their actual pnl",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTShield.AI",
+    "slug": "nftshield-ai-7tbvp",
+    "description": "An intelligent AI-powered analyzer that protects users from fraudulent NFT projects",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bidet",
+    "slug": "bidet-gdvtq",
+    "description": "\"Tag\"-like game where people infect other people scanning NFC wristbands with ZK proofs",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossPay",
+    "slug": "crosspay-32iy6",
+    "description": "CrossPay enables gasless, native cross-chain USDC payments, enabling seamless spending",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalrusSDK for iOS",
+    "slug": "walrussdk-for-ios-8q7fw",
+    "description": "iWalrusSDK is an iOS SDK for interacting with Walrus decentralised storage service in iOS",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "n3XUS",
+    "slug": "n3xus-pu35s",
+    "description": "Unlocking true Web3 automation for everyone. Connect, build and deploy, no code required.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RuleSelf",
+    "slug": "ruleself-qguos",
+    "description": "Use Self to apply transfer restriction on token representing financial instrument (e.g stocks)",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DripDrop",
+    "slug": "dripdrop-dfexz",
+    "description": "Café loyalty platform: earn ingredient tokens, craft pixel-art NFTs via recipes, redeem free coffee",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "TrustworthyTransfers",
+    "slug": "trustworthytransfers-fi42b",
+    "description": "Buy tokens with Wise by creating a proof of the receipt on Flare Data Connnector",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "Nudge",
+    "slug": "nudge-t6db2",
+    "description": "Nudge helps first-time investors automate crypto with DCA, alerts, and smart portfolio tools.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Questy",
+    "slug": "questy-02sdd",
+    "description": "Make money taking photos, surveys, or verifying facts (or source sybil resistant data)",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Predicta",
+    "slug": "predicta-bi6s7",
+    "description": "Decentralized prediction platform with XP rewards and real-time leaderboard voting system",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BrainTrade",
+    "slug": "braintrade-4qe1v",
+    "description": "Tokenized AI experts marketplace where each expert has their own ERC-20 token for consultations",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InfraLink",
+    "slug": "infralink-tdnr5",
+    "description": "Decentralized machine access via smart contracts, wallets, and on-chain payments.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Pooleth",
+    "slug": "pooleth-kvrfx",
+    "description": "AI-powered crypto CFO that manages your DeFi portfolio through natural voice conversations",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AInfluencer",
+    "slug": "ainfluencer-moreg",
+    "description": "Autonomous on-chain AI-Influencer that writes and uploads YouTube including subscribers' wishes",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g8xu4",
+      "b2u1b"
+    ]
+  },
+  {
+    "name": "Kill_AI",
+    "slug": "kill-ai-xnwm7",
+    "description": "Verifiable AI Agent Management Protocol: Safety tool as a verifiable kill switch for AI agents",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ascend",
+    "slug": "ascent-znje7",
+    "description": "Ascend lets verified humans claim your assets—private, automated, and cross-chain.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ipmya",
+      "910t9"
+    ]
+  },
+  {
+    "name": "Guess the Number",
+    "slug": "guess-the-number-d9910",
+    "description": "Write a number to guess half the mean of the number written by the others!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LibertyBet",
+    "slug": "libertybet-adct4",
+    "description": "Decentralized local prediction markets for global and niche events, powered by hybrid oracles.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnyAuth",
+    "slug": "anyauth-re0dq",
+    "description": "Permission Management on Hypergraph with Self & ENS Integration",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GasGenius",
+    "slug": "gasgenius-q6nf6",
+    "description": "GasGenie: AI-driven gas fee forecasts, 1inch multi-route cost simulation, and cross-chain execution.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "minipay",
+    "slug": "minipay-pcmy7",
+    "description": "Instant exchange on/offramp using state channels and a hub-and-spoke model.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ViralTrust",
+    "slug": "viraltrust-9wfzb",
+    "description": "ViralTrust rewards referrals with swappable points and tracks growth transparently on-chain.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Open Training Data P",
+    "slug": "open-training-data-p-0phjs",
+    "description": "The Open Training Data Protocol will set your training data free.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "swagme",
+    "slug": "swagme-hf9xb",
+    "description": "SwagMe: Next-gen lead collection for events. QR codes + Web3 + social verification",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "TruEphirE",
+    "slug": "truephire-b2efa",
+    "description": "Infrastructure to bridge data feeds from other providers onto Oasis Sapphire using TEE.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Carmen Sandiego",
+    "slug": "carmen-sandiego-f0emh",
+    "description": "Welcome to the Web3 version of the classic Carmen Sandiego detective game!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Payce",
+    "slug": "payce-4mwm8",
+    "description": "Send USDC to anyone, anywhere, just with their phone number. Cash out directly with Apple Pay.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ijybm",
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "GhostPayroll",
+    "slug": "ghostpayroll-mx2uy",
+    "description": "A payroll system built on the Intmax, enabling fully encrypted payments using USDC",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "48dft"
+    ]
+  },
+  {
+    "name": "⚡ Bodo",
+    "slug": "zap-bodo-rbwnr",
+    "description": "Turn your fitness activities into charitable donations. Run and get paid per km for it!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cross-Chain Swap",
+    "slug": "cross-chain-swap-336de",
+    "description": "🔁 Cross-chain ETH→Sui escrow swap via LayerZero V2 and custom EVM + Move smart contracts",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SygmaOne",
+    "slug": "sygmaone-mgjbv",
+    "description": "On-chain parametric insurance for DeFi transactions using LayerZero.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "livestakes",
+    "slug": "livestakes-sn1wb",
+    "description": "Betting platform creating parallel prize pools for hackathons. Winners earn more, bettors profit.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "TEELeaves",
+    "slug": "teeleaves-5vydv",
+    "description": "TEELeaves lets you run verifiable and private prediction markets, using TEEs",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENDOORS",
+    "slug": "endoors-p96st",
+    "description": "Open Doors to an new world where networking rhymes with actual connection",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NYAnCAT",
+    "slug": "nyancat-p11d3",
+    "description": "NYAnCAT: The cutest and sharpest AI personal banking cat that brings you low-risk returns",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "1ijf8"
+    ]
+  },
+  {
+    "name": "Emberrr",
+    "slug": "emberrr-josz2",
+    "description": "Emberrr.xyz connects early-stage Web3 builders with vetted experts to accelerate their development",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Marathon Message",
+    "slug": "marathon-message-63zah",
+    "description": "Stablecoin payments for digital messages shown to NYC marathon racers",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MobiScale",
+    "slug": "mobiscale-n9vj6",
+    "description": "Cryptographic Photo-Identity Verification using Apple's Secure Enclave and RISC-0 ZK Proofs.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "Galerie",
+    "slug": "galerie-p8mdn",
+    "description": "Buy and trade shares of real-world artworks onchain—accessible, instant, and fully transparent.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clear Signing Studio",
+    "slug": "clear-signing-studio-6hs1z",
+    "description": "An intelligent toolkit for creating, validating, and managing ERC-7730 clear signing metadata",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOversity",
+    "slug": "daoversity-nzvoe",
+    "description": "Create and manage human-verified DAOs with custom governance rules via World App",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "FluxPool",
+    "slug": "fluxpool-vsboi",
+    "description": "Social trading for crypto: follow top traders, copy trades, earn XP, and compete anywhere, anytime.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CCTUP",
+    "slug": "cctup-cp7sa",
+    "description": "Cross-chain management platform for indexing, replaying, and managing blockchain transactions",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "pfyco",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Oeuvre",
+    "slug": "oeuvre-c3no0",
+    "description": "We democratise ownership and governance of physical cultural assets",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LatticeFold+",
+    "slug": "latticefold-kzzsp",
+    "description": "Experimental Implementation of LatticeFold+ written in Rust.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WeMeetAI",
+    "slug": "wemeetai-m3yxb",
+    "description": "Web3 people struggle to recall contacts and follow up on chats — WeMeetAI will make sure you dont",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ERC-7730 AI Builder",
+    "slug": "erc-7730-ai-builder-2g5dd",
+    "description": "Hackathon project improving Ledger’s clear signing builder with AI, schema import, and UX fixes.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "World Attendee",
+    "slug": "world-attendee-472zf",
+    "description": "World Events is a mini app that lets users view upcoming Web3 events around the globe.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Prove Me Wrong",
+    "slug": "prove-me-wrong-2j4ks",
+    "description": "Tag ProveMeWrong on X. Bet YES/NO in-tweet; AI resolves, contract pays",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "Enclimate",
+    "slug": "enclimate-ixdef",
+    "description": "A weather insurance protocol that automatically settled with TEE.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sick Bastard",
+    "slug": "sick-bastard-gv12p",
+    "description": "Get conversations with getting better and sickness verified from real doctor for less pricing.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SPRK",
+    "slug": "sprk-kyzk3",
+    "description": "SPRK is a Zircuit-powered NFT Launchpad for securing early investment in rising influencers.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BioVault",
+    "slug": "biovault-wtbd3",
+    "description": "Trustless, privacy-first health insurance—biometrically gated and decentralized with AI agent claims",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YieldGuard",
+    "slug": "yieldguard-6r2h1",
+    "description": "Invest in any yields across the chains and be insured. Take risks and insure people on the safe pool",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WeatherShield",
+    "slug": "weathershield-ij8b5",
+    "description": "Decentralized Weather Insurance built on the Flare Blockchain",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Doctor Delta",
+    "slug": "doctor-delta-cdccv",
+    "description": "Doctor Delta is an oracle & delta-neutral strategy for Euler enabling users to earn dual-yield.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClearSigningSlashCmd",
+    "slug": "clearsigningslashcmd-xoit4",
+    "description": "Draft an ERC-7730 metadata JSON by simply pasting any contract address",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vibe-it",
+    "slug": "vibe-it-19hc3",
+    "description": "VibeIt is a real-time event tracker powered by community vibes and live reviews",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ZeroNetAI",
+    "slug": "zeronetai-ss71p",
+    "description": "ZeronetAI lets anyone train and run their own AI agent locally",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SparkMind",
+    "slug": "sparkmind-hhp9g",
+    "description": "AI tutors for kids built with verifiable data using Zero Gravity",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PhishStake",
+    "slug": "phishstake-g1d7u",
+    "description": "🐟🥩 - self-updating phishing antivirus software with crowdsourced phishing zero-days",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qiqkw"
+    ]
+  },
+  {
+    "name": "Privestate",
+    "slug": "privestate-0ba3m",
+    "description": "AI-powered real estate insights, unlocked through secure compute-to-data and attestations.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "deal with me",
+    "slug": "deal-with-me-umke4",
+    "description": "deal no deal game against AI. You play a game of chance with and against an AI avatar agent.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ob9r"
+    ]
+  },
+  {
+    "name": "Uni-Lend",
+    "slug": "uni-lend-52bej",
+    "description": "Hyper capital efficient lending protocol, built on top of Uniswap hooks!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "OpinionMARKET",
+    "slug": "opinionmarket-pjrvw",
+    "description": "On-chain Opinion Layer: InfoFi primitive that maps global sentiment in real time",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Block Survivor",
+    "slug": "block-survivor-iu00k",
+    "description": "Block Survivor is a top-down 2D bullet hell survival game based on blockchain development experience",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "POAPrivacy",
+    "slug": "poaprivacy-ykk5a",
+    "description": "Mint POAPs to stealth addresses. Prove attendance without doxxing your physical location.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ClearSign",
+    "slug": "clearsign-kiw61",
+    "description": "All-In-One Clear Signing Portal | Allowing Users To Explore & Create Clear Signing Schemas.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FairLaunch",
+    "slug": "fairlaunch-bo9gt",
+    "description": "Token launchpad with sniper prevention, sybil attack resistance, and fair algorithm distribution",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dr. Gloo",
+    "slug": "dr-gloo-gzzsc",
+    "description": "The simplest token aggregator experience yet. Gloo your tokens!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Revoluzion",
+    "slug": "revoluzion-g5sf1",
+    "description": "Support petitions, drive change, earn $RVZ to launch your own. The Web3 change.org.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Exzek",
+    "slug": "exzek-z2umd",
+    "description": "Your Exzek-utive Assistant AI Agent leveraging ZK to ensure the chain-of-trust for your documents.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StableRoute",
+    "slug": "stableroute-p5508",
+    "description": "Stablecoin payment system that tackles compliance, UX, and misrouted funds for global businesses",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scribe AI",
+    "slug": "scribe-ai-etwqr",
+    "description": "AI agent / CLI that deploys cross chain DeFi strategies from a single prompt.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProjectFinderAgent",
+    "slug": "projectfinderagent-9k533",
+    "description": "AI-powered search for ETHGlobal projects with better results, summaries, and links",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mosaic",
+    "slug": "mosaic-gjm9f",
+    "description": "Shielded token built using MPC with garbled circuits for private, secure on-chain transactions",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ya99k"
+    ]
+  },
+  {
+    "name": "LOGGERHEAD FINANCE",
+    "slug": "loggerhead-finance-npoty",
+    "description": "A consumer app delivering hedge-fund returns by optimizing yields with MCP-powered agentic workflows",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Zkipper",
+    "slug": "zkipper-czc3z",
+    "description": "This projects demonstrates role based access control enforced by EIP-7702, PQC admin, and ZK users",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "Anti Peer-Reviewer",
+    "slug": "anti-peer-reviewer-p3ax6",
+    "description": "Blockchain-powered alternative to peer-reviewed journals, eliminating bias",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WRLD Relief",
+    "slug": "wrld-relief-etts1",
+    "description": "AI & Blockchain unite to deliver transparent, efficient, and private disaster aid worldwide.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Hardhat V3 exp",
+    "slug": "hardhat-v3-exp-bbzvx",
+    "description": "Running an experiment using Hardhat's v3 tooling for testing and deploying",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StableWallet",
+    "slug": "stablewallet-e5p8j",
+    "description": "Privy social wallet + Flow DeFi + CCTP bridges. Stablecoins for everyone, everywhere.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "On-chain Drive",
+    "slug": "on-chain-drive-sympq",
+    "description": "On-chain fully encrypted 'Dropbox'-style file-sharing platform",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RegenReef DeSciAI",
+    "slug": "regenreef-desciai-y3de7",
+    "description": "AI platform for coral reef conservation, offering smart insights to support scalable restoration.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dog Poker Club",
+    "slug": "dog-poker-club-kwn1e",
+    "description": "Dog Poker Club: fair, private blockchain poker with zero-knowledge proofs and seamless play.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Negravis",
+    "slug": "negravis-nx35q",
+    "description": "Negravis is an AI-native oracle where 3 agents verify and deliver real-world data to smart contracts",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Monde",
+    "slug": "monde-kyy5w",
+    "description": "A World Mini App to farm the highest DeFi yields across chains",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Firework",
+    "slug": "firework-q6ubf",
+    "description": "Earn the best cross-chain stablecoins APYs with one click — no DeFi knowledge needed.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Braivo",
+    "slug": "braivo-tnjw5",
+    "description": "Decentralised image storage with Merkle proof using 0G Storage.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RampNet",
+    "slug": "rampnet-xw7or",
+    "description": "Fiat to crypto on-ramping into any chain, powered by Wise, Privy, Flare (FDC + FTSO), and LayerZero.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "GreenStream",
+    "slug": "greenstream-r5ey0",
+    "description": "GreenStream is a CLI tool to stream MP4 video files from blockchain utilising Walrus protocol",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenRelief",
+    "slug": "openrelief-wg12g",
+    "description": "Omnichain disaster relief: verified victims receive stablecoins via cross-chain transfers.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "SEinsight",
+    "slug": "seinsight-fotuh",
+    "description": "A Data Analyst AI Agent built in TEE (Trusted Execution Environment)",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fluxo",
+    "slug": "fluxo-ceu6a",
+    "description": "Fluxo is a platform that simplifies onchain transactions through an AI-powered agent",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "ClearSignKit",
+    "slug": "clearsignkit-ffum9",
+    "description": "Tools to make clear signing easier. Auto generate ERC 7730 files with tx intents.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ya99k",
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Hangouts",
+    "slug": "hangouts-ym00p",
+    "description": "Hangouts helps groups stay off phones by staking. Break focus, get voted out. Others split the pot.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Peer Consensus Layer",
+    "slug": "peer-consensus-layer-mxse0",
+    "description": "PCL is a fully decentralized p2p consensus layer. Developed for XMBL but chain agnostic.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkvote",
+    "slug": "zkvote-evb4w",
+    "description": "A dApp to create and vote on polls. Uses Self Protocol to verify humanity and voter eligibility.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Protect.it",
+    "slug": "protect-it-kpn07",
+    "description": "Decentralized crypto insurance powered by prediction markets and community staking.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IntCash",
+    "slug": "intcash-60zjx",
+    "description": "Stripe like widget with private payments combined with any chains deposit using ZK verifications",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "48dft"
+    ]
+  },
+  {
+    "name": "Pillow",
+    "slug": "pillow-5ddtz",
+    "description": "Grow your ETH with peace of mind—CPPI protects your capital while letting you capture the upside!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "neurotrade.eth",
+    "slug": "neurotrade-eth-2x1me",
+    "description": "Omnichain AI trading dApp with easy web2/web3 onboarding and user-oriented trading options.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoverVault",
+    "slug": "covervault-psqcd",
+    "description": "World's first premiumless and claimless insurance with tokenized & tradeable on-chain risk",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Gamemaker",
+    "slug": "gamemaker-wntt8",
+    "description": "Twitter bot that simulates the colosseum on twitter using ai agents.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "Elara",
+    "slug": "elara-cvb2y",
+    "description": "One-click deployment of secure, decentralized AI agents with full identity & access control.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "TRIGO",
+    "slug": "trigo-g71xa",
+    "description": "Trustless fair-play gambling using TEE and Oasis Sapphire — no cheating, just the game",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ijf8"
+    ]
+  },
+  {
+    "name": "Pay-peer-roll",
+    "slug": "pay-peer-roll-pdnv5",
+    "description": "A decentralized payroll distribution system that uses blockchain for transparent, efficient payments",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AMPLY",
+    "slug": "amply-7du7b",
+    "description": "Amply: Your content, your rules. Real impressions, full ownership. The future of music is human.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Memento Machina",
+    "slug": "memento-machina-xcd24",
+    "description": "Artists and collectors co-create AI art NFTs, archived forever on-chain.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kairos",
+    "slug": "kairos-ytj3y",
+    "description": "Kairos: Authentically capture & permanently own your memories as NFTs. Your digital legacy, secured.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alpha Break",
+    "slug": "alpha-break-o7o3p",
+    "description": "Ultra-personalized, privacy-first dApp that rewards pragmatic, AI-sensed breaks with NFTs",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ImProof",
+    "slug": "improof-rf052",
+    "description": "Conditional donations with verifiable impact via Chainlink and public data.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Future Message Vault",
+    "slug": "future-message-vault-owzpn",
+    "description": "Lock messages and ETH for your future self. A decentralized commitment device on Ethereum",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pool Party",
+    "slug": "pool-party-a07d1",
+    "description": "💰 Make token merges for company acquisition, token migration, and general merges chill 😎",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZooKies",
+    "slug": "zookies-84k26",
+    "description": "Privacy-preserving ads powered by ZK proofs: users get paid, not tracked.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyDanks",
+    "slug": "onlydanks-wi77b",
+    "description": "Private end-to-end encrypted messenger built on blobs, fully anonymous and censorship-resistant.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Seatswap",
+    "slug": "seatswap-p0zr0",
+    "description": "SeatSwap tokenizes airline tickets as NFTs, enabling P2P resale and royalty distribution.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ipmya"
+    ]
+  },
+  {
+    "name": "Omakase Protocol",
+    "slug": "omakase-protocol-3prsj",
+    "description": "Cross-chain OFT staking protocol using LayerZero & Circle CCTP across ETH, Base and Arbitrum Sepolia",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "LAF",
+    "slug": "laf-0rh4a",
+    "description": "LAF: Help retrieve lost items with NFC tags & incentives—find, return, get rewarded!",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ChainCrowdFund",
+    "slug": "chaincrowdfund-z2ri2",
+    "description": "Cross-chain decentralized crowdfunding platform with easy on-boarding and no scammers",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buddy",
+    "slug": "buddy-8tkm4",
+    "description": "Buddy is a multichain social payments platform that uses a new card standard to replace Visa",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "Money Mule",
+    "slug": "money-mule-ewmzq",
+    "description": "A tool for investors and founders to save time and trigger funding based on milestones",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "Full Circle",
+    "slug": "full-circle-b091b",
+    "description": "Full Circle: Multichain gas killer—pay with USDC, not ETH. Stablecoins in, gas pain out.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Solidity Cell",
+    "slug": "solidity-cell-68et9",
+    "description": "Escape room meets Solidity: hack your way out using Hardhat, subgraphs, and 0G AI.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Giant Anteaters",
+    "slug": "giant-anteaters-s4t20",
+    "description": "Cross-chain atomic swaps: trustlessly swap BTC ⇄ ETH using Bitcoin HTLCs",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Anonibara",
+    "slug": "anonibara-pfqjc",
+    "description": "Anonymous identity and access control using zk credentials and ENS for IRL and onchain communities.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "World Chat",
+    "slug": "world-chat-p18us",
+    "description": "Global MiniApp for messaging & money transfer with World Verification, using Walrus for storage",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "XPayr",
+    "slug": "xpayr-b5vwy",
+    "description": "XPayr: instant cross-chain USDC payment & auto-routing via LayerZero + Circle CCTP.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "Uneditor",
+    "slug": "uneditor-x2anf",
+    "description": "Strips academic papers to core insights for faster engineering implementation",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKBridge",
+    "slug": "zkbridge-porid",
+    "description": "A secure cross-chain bridge with zero-knowledge proofs for seamless token transfers between networks",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "Taparoo",
+    "slug": "taparoo-qmfc0",
+    "description": "NFC event wallet, smart spend rules, gasless USDC, instant kill-switch.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "RainGuard",
+    "slug": "rainguard-vgfqo",
+    "description": "On-chain P2P weather insurance protocol using parametric data triggers.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "World Tree",
+    "slug": "world-tree-psi5z",
+    "description": "Genetic & genealogy data to verify, inherit lost relatives, & protect data with TEE, MPC, ZK, & FHE.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Veris",
+    "slug": "veris-pcsdq",
+    "description": "An RWA infra: cross jurisdiction on-chain asset metadata with AI agent, solving gas with USDC.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kitty ICO",
+    "slug": "kitty-ico-sijre",
+    "description": "Private, AI-based ICOs with encrypted bids on Sapphire and atomic settlement on Ethereum",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Love_is_visible",
+    "slug": "love-is-visible-1s5hf",
+    "description": "A shared emotional ledger and wallet — to record love, grow gratitude, and fulfill dreams, onchain.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Purpose",
+    "slug": "the-purpose-ihxka",
+    "description": "Turn video insights into action. Earn NFTs, join group challenges & win crypto from Monthly  Pool",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Inheritance Planner",
+    "slug": "inheritance-planner-8rxgx",
+    "description": "Create secure, on-chain inheritance plans and manage token distribution to your heirs.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PPTP",
+    "slug": "pptp-2onr3",
+    "description": "A token standard where value is determined by real-world performance, not hype or speculation",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "Resonant",
+    "slug": "resonant-a4m2g",
+    "description": "Get paid for your voice! We are building the world's first voice monetization platform.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TinyCloud",
+    "slug": "tinycloud-q1nq3",
+    "description": "World Builder: an AI that chats with you, then auto-creates and deploys TinyCloud-powered mini-apps.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Roll The Credits",
+    "slug": "roll-the-credits-njc2c",
+    "description": "Store secrets In Cannes movie posters & credit scenes - privacy preserving steganography",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "ya99k"
+    ]
+  },
+  {
+    "name": "AEVM – LST Index",
+    "slug": "aevm-lst-index-hmff4",
+    "description": "Crypto Index Funds with Built-in Native Yield from underlying LST/LRT",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TEX",
+    "slug": "tex-yptdq",
+    "description": "The onchain playground - weaving together everything onchain through an MMO as an onchain interface",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKSub",
+    "slug": "zksub-ftk3r",
+    "description": "Decentralized content subscription platform using INTMAX for secure ETH payments.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Humanitree",
+    "slug": "humanitree-rkvep",
+    "description": "Plant a tree with the touch of a button. Convert your Worldcoin to trees in the ground",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Ledger ClearSign GMX",
+    "slug": "ledger-clearsign-gmx-dyeg9",
+    "description": "Clear Signing transaction from unreadable raw data into human-readable information",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Savio",
+    "slug": "savio-32w3s",
+    "description": "Group savings protocol with fixed deposits, random/auction payouts, cross-chain wallets, gasless UX",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "LeBonKoin",
+    "slug": "lebonkoin-zetgm",
+    "description": "A decentralized marketplace for physical goods with multichain USDC payments and secure signing.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "colancers",
+    "slug": "colancers-s90z4",
+    "description": "Join collaborative service teams, get paid fairly, and build verified reputations.",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Skydivingclub on ETH",
+    "slug": "skydivingclub-on-eth-ax26n",
+    "description": "SkydivingClubEscondido.NFT is a unique NFT that grants you a Skydiving experience in Interlaken, etc",
+    "event": "ETHGlobal Cannes",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

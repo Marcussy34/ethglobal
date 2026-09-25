@@ -9,7 +9,25 @@ const outArg = process.argv.find(a => a.startsWith('--out='));
 
 function parseCSV(text){const rows=[];let row=[],field="",inQ=false;for(let i=0;i<text.length;i++){const c=text[i];if(inQ){if(c==='"'){if(text[i+1]==='"'){field+='"';i++;}else inQ=false;}else field+=c;}else{if(c==='"')inQ=true;else if(c===","){row.push(field);field="";}else if(c==="\n"){row.push(field);rows.push(row);row=[];field="";}else if(c==="\r"){}else field+=c;}}if(field.length||row.length){row.push(field);rows.push(row);}return rows;}
 
-const rows = parseCSV(fs.readFileSync('ethglobal-showcase.csv','utf8'));
+// Fallback when the gitignored root CSV is absent: synthesise the same column layout from
+// data/details.json so the corpus still builds. Only pipeline events are available this way.
+function rowsFromDetails(){
+  const PRIZE_N = 12;
+  const fmt = p => `${p.sponsor} - ${p.trackName} (${p.placement || p.prizeType})`;
+  const header = ['Project Name','Event','Description','Prize Count',
+    ...Array.from({length:PRIZE_N},(_,i)=>`Prize ${i+1}`), 'All Sponsors','GitHub','Demo','URL'];
+  const body = JSON.parse(fs.readFileSync('data/details.json','utf8')).map(d => {
+    const prizes = d.prizes || [];
+    return [d.name, d.event, (d.projectDescription || d.description || '').substring(0,500), String(prizes.length),
+      ...Array.from({length:PRIZE_N},(_,i)=> i < prizes.length ? fmt(prizes[i]) : ''),
+      [...new Set(prizes.map(p=>p.sponsor))].join('; '), d.githubUrl||'', d.demoUrl||'', 'https://ethglobal.com/showcase/'+d.slug];
+  });
+  return [header, ...body];
+}
+
+const rows = fs.existsSync('ethglobal-showcase.csv')
+  ? parseCSV(fs.readFileSync('ethglobal-showcase.csv','utf8'))
+  : (console.error('WARN ethglobal-showcase.csv missing: building from data/details.json'), rowsFromDetails());
 const h = rows[0], idx = {}; h.forEach((x,i)=>idx[x]=i);
 const PRIZE_COLS = h.filter(x=>/^Prize \d+$/.test(x)).length;
 

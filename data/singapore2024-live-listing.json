@@ -1,0 +1,2833 @@
+[
+  {
+    "name": "we3ravel",
+    "slug": "we3ravel-3ct30",
+    "description": "Home swapping platform with ERC20 tokens as in game closed system currency. Tokens can be used for revenue sharing of the membership fees from users.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XAirlines Mileage",
+    "slug": "xairlines-mileage-jvxpo",
+    "description": "It is a cross-airlines mileage collection platform powered by Zero Knowledge Proof.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "zkapcha",
+    "slug": "zkapcha-516wj",
+    "description": "A zk-based CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart)",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Girl Math",
+    "slug": "girl-math-0c866",
+    "description": "Our ML model and dashboard were built earlier, but due to difficulties integrating it with Web3, we submitted a VERY basic HTML/CSS instead",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sentiplex",
+    "slug": "sentiplex-xqc2b",
+    "description": "Sentiplex AI is a Chrome extension that analyzes tweet sentiment, detects cyberbullying, and generates memes. It empowers users to engage in positive online interactions by providing real-time sentiment feedback and creating shareable content directly from the extension.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Perpetua",
+    "slug": "perpetua-8jbqc",
+    "description": "Perpetua is a decentralized perpetual futures trading platform that enables users to trade crypto assets with leverage, without expiration dates, Perpetua ensures low fees, high speed, and full transparency. Trade anytime, anywhere.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GateMaster NFT",
+    "slug": "gatemaster-nft-wk8p0",
+    "description": "token gated community on discord, using an AirDAO Native token standard.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SET OFF",
+    "slug": "set-off-ci8sd",
+    "description": "P2P Micro lending and borrowing platform with settlement clearing mechanism",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vigilant Trail",
+    "slug": "vigilant-trail-ffgnz",
+    "description": "Vigilant Trail secures transactions with escrow smart contracts, allowing fund retrieval if sent to the wrong address.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PRUFFOFPUFF",
+    "slug": "pruffofpuff-xydts",
+    "description": "Ecosystem for crypto merch - more creative useful for people.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Play Network",
+    "slug": "play-network-sps8r",
+    "description": "Community Management  & Game Streaming Platform for Web3 Gamers",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DiscordXGaiaAI",
+    "slug": "discordxgaiaai-o41gx",
+    "description": "This innovative Web3-powered Discord bot transforms everyday interactions into valuable, tokenized rewards. Users earn tokens for engaging in conversations, upvoting responses, and contributing knowledge. AI-driven insights, powered by Gaia",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Battle of Nouns",
+    "slug": "battle-of-nouns-vi5zt",
+    "description": "Dive into a Web3 strategy game on blockchain! Choose your civilization, earn NOUNS tokens, summon NFT characters, and battle in a decentralized, play-to-earn ecosystem. Governed by players, secured by smart contracts—own, build, and conquer! #PlayToEarn #NFTGaming",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "GraphSearch Tools",
+    "slug": "graphsearch-tools-wkogo",
+    "description": "GraphSearch Tools is a tool to help users quickly query the world of blockchain data with the help of The Graph Network.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "tele.io",
+    "slug": "tele-io-9j485",
+    "description": "Customizable, social platform designed to foster authentic communities in the crypto space, emphasizing verified information and stable, long-term community engagement",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SEBI Protocol",
+    "slug": "sebi-protocol-y8ir7",
+    "description": "A decentralised protocol that enables businesses to issue equity tokens easily to raise capital from the global markets with regulatory features like upper/lower circuits, KYCs, dividends.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "F1 Bets",
+    "slug": "f1-bets-y39gb",
+    "description": "A prediction market on the current hype of F1 as a telegram mini app with private bets enabled on Fhenix and Oasis, and a DAO for dispute resolution",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "croq1"
+    ]
+  },
+  {
+    "name": "sToken",
+    "slug": "stoken-xigf0",
+    "description": "sToken is a Liquid Staking rollup based token working on across multiple chains allowing users to bridge ETH from any chain, using HyperLane to get LST tokens in return. It also implements a reward mechanism using 1inch ERC20 Plugins.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Voice4Invoice",
+    "slug": "voice4invoice-whaqv",
+    "description": "Generate tamper-proof, attested invoices for your customers when receiving crypto payments.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "EZSplit",
+    "slug": "ezsplit-4wkpk",
+    "description": "Use multisignature wallet and telegram bot integration to smoothen financial transactions on-chain.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zSki",
+    "slug": "zski-bcpn4",
+    "description": "P2P DFS incorporating zk-security. This extended architecture combines advanced cryptographic techniques with decentralized systems to create a robust, secure, and privacy-preserving distributed file system.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omagle2.0",
+    "slug": "omagle2-0-c6gdy",
+    "description": "Omagle 2.0 powered by Reclaim. Chat/videocall with your Duolingo crush",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DIGITAL TRUST",
+    "slug": "digital-trust-fnsqs",
+    "description": "To building a trusted and secure digital ecosystem. This initiative aims to position Singapore as a global node for digital and data, founded on trust which can be replicated to other cities.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "#PredictAI",
+    "slug": "predictai-yc2p6",
+    "description": "#PredictAI is the AI-powered Prediction Marketplace on Morph which uses AI to generate and/or settle the predictions.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vy7pe"
+    ]
+  },
+  {
+    "name": "Yggdrasil Network",
+    "slug": "yggdrasil-network-jotfd",
+    "description": "The Yggdrasil Network is a Chain Abstraction Infrastructure Layer that acts as a connective tissue, abstracting the world of blockchains.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "isFOMO",
+    "slug": "isfomo-8ty8m",
+    "description": "Better market emotion detection platform  and  better liquidity strategy",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "CrossChain Scheduler",
+    "slug": "crosschain-scheduler-1rkb4",
+    "description": "CrossChain Scheduler: Revolutionizing DeFi Automation Across Blockchains",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swint",
+    "slug": "swint-nhum4",
+    "description": "Swint  is a ERC7683 inspired project which facilitates cross chain swaps with Unified liquidity",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MACPI",
+    "slug": "macpi-r3i87",
+    "description": "A reliable DAO voting infrastructure for next billion users ⌐◨-◨",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "Soulbound Token",
+    "slug": "soulbound-token-6yp2y",
+    "description": "A token standard for Soulbound Tokens for AirDAO. The contract is modelled after ERC721.sol but is non-transferable with reputation management (achievements). Achievements can be granted/revoked to support token gated communities.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tff3f"
+    ]
+  },
+  {
+    "name": "DCAwesome",
+    "slug": "dcawesome-gno1o",
+    "description": "Decentralized Dollar Cost Averaging (DCA) Platform, Set up & Automate",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rupabase",
+    "slug": "rupabase-aa4xc",
+    "description": "Rupabase is a web3 BaaS platform that empowers developers by providing them with DB instances managed by Rupabase itself and an intuitive and easy to use set of solidity methods to query databases.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Connector",
+    "slug": "connector-70emz",
+    "description": "cross-chain liquidity movement and looping strategies in a single click using CCIP, LayerZero, and top DeFi protocols.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOTown",
+    "slug": "daotown-op8jr",
+    "description": "Managing DAOs often requires technical skills, creating barriers and inefficiencies. Our project streamlines DAO activities, governance, and tokenomics with decentralized infrastructure",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "tff3f",
+      "tff3f",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "XPrediction",
+    "slug": "xprediction-yrmt4",
+    "description": "X Prediction is a platform that allows you to place sports bets from Twitter",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web Attest",
+    "slug": "web-attest-6rww0",
+    "description": "Signed exchanges (SXG) is an open standard that enables to cryptographically authenticate the origin of a resource independently on how its delivered. Web Attest with SXG's reaches to bring interesting web2 data via zero knowledge commitments  to on chain data scarce protocols.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "Zeekay-warden",
+    "slug": "zeekay-warden-yxigx",
+    "description": "Introducing Zeekay-Warden: A token-gated community management tool using zero-knowledge proofs to verify token ownership. It supports role-based access control, linking tokens to roles for customized access levels. Privacy, security, and seamless community gating! #web3 #zk",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Peer Net",
+    "slug": "peer-net-6ndj1",
+    "description": "A peer to peer Blockchain Network that is independent of the Internet",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cross-Chain Mon",
+    "slug": "cross-chain-mon-sbf66",
+    "description": "This is a Pokemon game spanned across multiple EVM chains. Players have to bridge across chains via Autonomous World contracts to collect all pokemon (Cross-Chain-Mons)",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tavuk Civciv",
+    "slug": "tavuk-civciv-f1msr",
+    "description": "A decentralized 2FA system on Fhenix using encrypted OTPs and TOTP with Fully Homomorphic Encryption (FHE). Secure, serverless authentication and transaction approval with cutting-edge cryptography for enhanced privacy and control.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "agmin",
+    "slug": "agmin-1n5hc",
+    "description": "Utlising Mina, we want to create private interactions with gated access, whilst improving the user experience.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trend Sage",
+    "slug": "trend-sage-t3uqx",
+    "description": "Trend Sage is a zero-fee decentralized prediction market on Airdao, where users bet on world events, create, vote, and resolve markets via a on the go Telegram bot and user-friendly UI. Bet on world events using crypto, verified by Worldcoin and wallets.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "DOG - DOA On the Go",
+    "slug": "dog-doa-on-the-go-3vg8j",
+    "description": "**DOG - DAO On the Go** is a decentralized platform for creating and managing DAOs. Admins manage tasks, products, and events, while contributors claim tasks, vote, and shop. World ID verification ensures secure, Sybil-resistant voting for transparent governance.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hydro-Fi",
+    "slug": "hydro-fi-mcp72",
+    "description": "Hydrofi is a blockchain-based, gamified learning platform where users build and manage hydroponic systems, earning rewards through real-world farming challenges and NFT ownership.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zen",
+    "slug": "zen-5yh8z",
+    "description": "Zen is a plugin-powered social space to build FHE-based apps like confidential polls, private attributes, and secure auction markets. Build and extend plugins for limitless possibilities, all while keeping your data fully encrypted and yours!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "croq1"
+    ]
+  },
+  {
+    "name": "Hedera Offset",
+    "slug": "hedera-offset-qwrnx",
+    "description": "Hedera Offset automates carbon tracking and trading with IoT and Hedera blockchain, ensuring tamper-proof, real-time verification of carbon tokens for trusted, transparent sustainability efforts.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BitDSM",
+    "slug": "bitdsm-ohwfj",
+    "description": "Modeled after EigenPod in Eigenlayer, BitcoinPods enable bridgeless non-custodial native bitcoin delegation for financial applications on Ethereum.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uniswap Cron Jobs",
+    "slug": "uniswap-cron-jobs-tgaq8",
+    "description": "Built a hook for cron jobs onchain, this means simple onchain automation with low overhead and same block posting",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DEELANET",
+    "slug": "deelanet-wcpzo",
+    "description": "this project is about tokenizing RWA, a method to tokenize human resourses",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blinks on EVM",
+    "slug": "blinks-on-evm-hru4s",
+    "description": "Blinks on EVM, enabling Blink transactions on EVM using the OKX Wallet",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PageETH",
+    "slug": "pageeth-rcjiz",
+    "description": "PageEth is a decentralized, privacy-preserving, omnichain communication protocol for secure message exchange across IoT devices, hardware-software interfaces, and dApps. It leverages blockchain technology to enable end-to-end encrypted communication in a trustless environment.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "dkzkp",
+      "910t9",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "EcoTrack",
+    "slug": "ecotrack-0z7id",
+    "description": "Go green, show yourself off following a sustainable life and win green credits!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4pn9u",
+      "fxknf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Fhentom",
+    "slug": "fhentom-9qt7z",
+    "description": "Ensuring privacy across blockchains for seamless and secure asset transfers using encrypted intents.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyGrants",
+    "slug": "onlygrants-n4bj8",
+    "description": "onlyGrants is a decentralized platform that eliminates popularity bias in donations by using fully homomorphic encryption (FHE) with quadratic voting and funding to keep donations and votes private.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5b69q",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "TapPay",
+    "slug": "tappay-941om",
+    "description": "A chain-agnostic mobile payment app using NFC cards for secure, seamless cross-chain transactions. Pay with your favorite token on any chain, anywhere. Powered by Chainlink CCIP and LayerZero for ultimate flexibility and security.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "mina-dark-pool",
+    "slug": "mina-dark-pool-c0yqv",
+    "description": "Dark pool using hybrid execution model for private order matching with delayed execution",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Veretha",
+    "slug": "veretha-pskzp",
+    "description": "Verifiable HR system, in which people get bounties for verifying other employees",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "WNS",
+    "slug": "wns-uvdv4",
+    "description": "Chain-abstracted, 3-word ENS alternative to any Web3 address for higher memorability, accuracy and non-ambiquity.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "BetOnBuild",
+    "slug": "betonbuild-rsvjq",
+    "description": "Interactive betting platform where users can bet on hackathon projects.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "tff3f",
+      "tff3f",
+      "fjaae",
+      "g7h9m",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Munjo",
+    "slug": "munjo-xhkc3",
+    "description": "Eip-7579 smart modular account for Dao’s Treasury for schedule transfer, orders and gasless transaction.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "B4BFlow",
+    "slug": "b4bflow-oiixq",
+    "description": "The KOL/influencer protocol is activating Flow creators for collaborations.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeoKuessr",
+    "slug": "zeokuessr-69vv0",
+    "description": "GeoGuessr but decentralized and poker-ified, have fun competing against others by betting on how well you know the world",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ijf8"
+    ]
+  },
+  {
+    "name": "Circled Fiat",
+    "slug": "circled-fiat-6q2ru",
+    "description": "An app that allows merchants to accept USDC payments using Circle's CCTP, enabling customers to pay via Web2 methods like credit cards or PayPal and empowering users and merchants to trade USDC on the chain they want without any additional bridging costs.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Windmill",
+    "slug": "windmill-1wx50",
+    "description": "Windmill is an open source query tool and ecosystem for on chain data. Any on chain data can be queried from the Windmill and developers can build more tools to expand the functionalities of the Windmill.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKML VaultX",
+    "slug": "zkml-vaultx-83uhb",
+    "description": "ZKML powered trustless ML prediction agents paving the future of DEFI",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Watering Hole",
+    "slug": "watering-hole-vo80o",
+    "description": "On-Chain Connections: Break the Ice at Web3 Events! We help the Web3 community form closer bonds.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Identifiable",
+    "slug": "identifiable-ughj0",
+    "description": "Creating a zero-knowledge proof (ZKP) system for disabled individuals: Users provide their ID, we retrieve their government-issued profile image, and compare it to their live camera feed. The ZKP is stored in an attestation with a wallet address on Sepolia using Sign Protocol.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "DEX Arbitrage",
+    "slug": "dex-arbitrage-7cmex",
+    "description": "Building a crypto arbitrage trader using The Graph's indexing tool to analyze and execute trades across decentralized exchanges. Using a substream allows the live tracking of discrepancies to detect opportunities, ensuring efficient and profitable trades with minimal slippage.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MediCrypt",
+    "slug": "medicrypt-q1xm1",
+    "description": "MediCrypt: Privacy-preserving health data platform. Enables research without exposing raw data. Features: blockchain storage, homomorphic analysis, granular access control, and incentives for data providers. Advancing medical research while preserving patient privacy.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "croq1",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Confidential Payroll",
+    "slug": "confidential-payroll-w56a5",
+    "description": "Payroll Protocol is a confidential money distribution platform built on top of BASE , designed to provide confidentiality during the distribution of funds on-chain. By leveraging FHE cryptography and smart contracts",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Saturn Foundation",
+    "slug": "saturn-foundation-4vzhb",
+    "description": "Saturn Foundation enables UBI at a global scale by providing a smart contract vault into which people can deposit money. This money is then distributed to all WorldID verified participants every certain interval and every certain amount.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Quotation Station",
+    "slug": "quotation-station-psqpq",
+    "description": "A peer-to-peer trading system integrating both DEXes and CEXes, powered by agent-based services. With atomic swaps across EVM chains and smart orchestration of agents, we deliver seamless, decentralized arbitrage opportunities for institutional and retail users alike.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeroedIn",
+    "slug": "zeroedin-g13wq",
+    "description": "Class action law suits with anonymous admissable evidence and funds crowd sourced in a decentralized manner.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Identity Tagger",
+    "slug": "identity-tagger-v45dn",
+    "description": "An extension for onchain users to leave labels and tags on addresses, so that all addresses can see others opinions on the address",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "tff3f",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "CryptoTask",
+    "slug": "cryptotask-vdcq5",
+    "description": "Kanban board that integrates sign protocols technology to attest the completion of task, releasing the funds automatically upon completion.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "Edugooners",
+    "slug": "edugooners-oh90z",
+    "description": "Excited to introduce our education app! Learn anytime, anywhere, with seamless access through Worldcoin authentication and Noun blockchain integration. Empowering users to expand their knowledge in a secure and innovative way! #EdTech #Blockchain #Worldcoin",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "HandsUp",
+    "slug": "handsup-mdfx0",
+    "description": "HandsUp revolutionizes charity with yield return donations, empowering users to multiply their generosity.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "NearCraft",
+    "slug": "nearcraft-w70qc",
+    "description": "Unlock the power of NEAR blockchain with our AI toolkit! Seamlessly deploy smart contracts, optimize performance, and enhance security. Empower your development with cutting-edge AI features tailored for the NEAR ecosystem",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dettnet",
+    "slug": "dettnet-oz79d",
+    "description": "dettnet, POC of deploying ttnet on decentralized computing network",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wizz",
+    "slug": "wizz-hhs8j",
+    "description": "WIZZ is a Fully On-Chain SocialFi platform where users can build, share, and earn. Own your data, showcase your skills, create opportunities, and connect directly with peers—all while earning for your content.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Citadel.Onchain",
+    "slug": "citadel-onchain-za9t8",
+    "description": "Citadel Onchain is an unsecured lending onchain and especially identification through worldID  avoid risks from fake accounts  .Connect to a 3rd party provider to mint NFT credits.  NFT credits can borrow money without collateral. And users can provide staking for reward",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "0xGuardian",
+    "slug": "0xguardian-pr3bd",
+    "description": "The project aims to create an app to easily & verifiably generate user reviews & ratings which are non editable and  can be used for trustable judgement of the service provided.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "C6credits",
+    "slug": "c6credits-onfcy",
+    "description": "c6credits leverages NFC technology to streamline carbon credit offsetting, enabling businesses and individuals to instantly verify and offset carbon credits through physical interactions, providing a seamless and transparent way to contribute to environmental sustainability.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Orbital EMP",
+    "slug": "orbital-emp-ws89e",
+    "description": "Platform for airdrops with built-in automated anti-sybil. It allows detection to be aggressive because users can seek recourse via proof of humanity.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Token-Techie",
+    "slug": "token-techie-vmjhn",
+    "description": "Introducing TokenTechies: a user-friendly platform for seamless investment and management of crypto assets. Connect your wallet, explore unique buckets, and maximize your investment potential with ease. Join us in revolutionizing the way you invest! 🚀✨ #Crypto #Investing",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Omni-NFT-Escrow",
+    "slug": "omni-nft-escrow-e402d",
+    "description": "This project that demonstrates the use of Layer Zero to create an Omnichain NFT Trading Escrow Contract.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WinWin-Lottery",
+    "slug": "winwin-lottery-sznnv",
+    "description": "WinWin-Lottery is a no-loss lottery platform where users stake their tokens to earn yield over time. The yield generated from staked tokens is pooled and distributed as rewards without the risk of losing the initial deposit.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Real Votes",
+    "slug": "real-votes-bp50x",
+    "description": "RealVotes: Revolutionizing Digital Democracy with WorldCoin and Oasis Sapphire",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Stark-Forge",
+    "slug": "stark-forge-2nzyu",
+    "description": "StarkForge is an AI-driven platform where creativity meets NFTs. Combine words to guide AI in generating unique digital artworks, then mint and trade them seamlessly through StarkNet for fast, secure, and affordable transactions.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Effortl3ss AI",
+    "slug": "effortl3ss-ai-3m2by",
+    "description": "Effortl3ssAI is a user-friendly solution that turns simple prompts into on-chain actions, making the Web3 experience secure and effortless while seamlessly onboarding millions of users to blockchain.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Friend.Sucks",
+    "slug": "friend-sucks-yguav",
+    "description": "Friend.Sucks lets you \"suck\" your Web2 friends into the Web3 world! Tip them in ETH using their social media username, and they’ll be incentivized to create a crypto wallet to claim their tips. A fun, seamless way to introduce Web2 users to Web3 perks!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omnichain zkERC20",
+    "slug": "omnichain-zkerc20-i6koo",
+    "description": "Instantly grant any ERC-20 the same privacy guarantees as Monero and ZCash. Bridge across any EVM-compatible chain, without sharing the receiver, token, or amount!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "ChopChop",
+    "slug": "chopchop-6dkpc",
+    "description": "Cross-chain spendings spliting app (like splitwise but for web3)",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "SoulPass",
+    "slug": "soulpass-001ds",
+    "description": "token gated community on telegram, using soul bond token standard",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReversiFi",
+    "slug": "reversifi-ufprn",
+    "description": "ReversiFi is a non-custodial wallet software development kit that enables businesses to effortlessly integrate secure crypto payment solutions into their marketplace apps with minimal coding",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AirDAO-Multisig",
+    "slug": "airdao-multisig-1tb24",
+    "description": "The AirDAO Multi-Sig Wallet is a secure, multi-signature wallet that features multi-owner control and quorum-based approvals.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "beat",
+    "slug": "beat-4pnb5",
+    "description": "Revolutionary cross-chain token launchpad. Launch, manage & transfer tokens across multiple chains effortlessly. For developers, entrepreneurs & crypto fans. Secure, compliant & user-friendly. Elevate your blockchain project with our powerful tools & thriving ecosystem.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EasyPass",
+    "slug": "easypass-iqzjb",
+    "description": "Passport registration app for efficient data capture and management.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ValidAI",
+    "slug": "validai-kx6ou",
+    "description": "Introducing a decentralized AI platform powered by EigenLayer AVS and Othentic! Our platform empowers developers with AI agents for automated smart contract auditing and fosters an AI marketplace with subscription-based royalties, incentivizing ML researchers community.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS DocFix",
+    "slug": "ens-docfix-na51z",
+    "description": "ENS DocFix aims to enhance the ENS documentation by providing detailed feedback and actionable suggestions to improve clarity, add missing code examples, and streamline navigation by addressing pain points faced by new developers",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Judg3",
+    "slug": "judg3-su0s5",
+    "description": "A voting system similar to \"This or That\". a next-generation voting system that leverages the power of consensus over your conscious mind.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "DefiDash",
+    "slug": "defidash-k9bis",
+    "description": "Using decentralized AI to flexibly visualize DeFi data based on user prompt using the Uniswap Subgraph hosted on the Phala Network",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Houshou",
+    "slug": "houshou-wyebz",
+    "description": "Train custom LLMs for your blockchain devtooling company by crowdsourcing developers",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gaston",
+    "slug": "gaston-3on7k",
+    "description": "A simple app that shows you how much gas you burned since The Merge.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DropCaster",
+    "slug": "dropcaster-vs669",
+    "description": "Perform one-to-many cross-chain token transfers in a single transaction using DropCaster",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Creator Sphere",
+    "slug": "creator-sphere-8hi1t",
+    "description": "The 360 Degree way to engage and retain your audience. We achieve this using SBTs and erc20 tokens.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "EthoSphere",
+    "slug": "ethosphere-eutbe",
+    "description": "EthoSphere protects users' privacy by converting their digital profiles into NFTs, while also providing a means for monetization.#DataPrivacy #Web3",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentX",
+    "slug": "agentx-j5fcc",
+    "description": "Introducing our Twitter bot that lets you predict the future! Powered by oracles, it enables you to place bets on live polls by sending on-chain transactions. Participate in decentralized, real-time predictions and win big. #Blockchain #Crypto #Web3 #DeFi",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tff3f"
+    ]
+  },
+  {
+    "name": "rizz money",
+    "slug": "rizz-money-462zv",
+    "description": "Tinder for prediction markets using Dynamic and deployed on AirDAO",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aiconomy",
+    "slug": "aiconomy-6xfcd",
+    "description": "Stripe for AI agents. We enable AI agents to have an onchain smart wallet to spend on your behalf and get tasks done.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "U.B.E",
+    "slug": "u-b-e-29sr5",
+    "description": "UBE is the first Multichain Blockchain Link Generator, allowing non-technical users to easily create Blinks and execute blockchain actions directly on social media.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis",
+    "slug": "aegis-ukp3p",
+    "description": "A Web3 ad platform enhancing privacy by analyzing generic tags on the backend and private tags on the frontend. Users highlight interests, generating tags with LLMs. Advertisers submit URLs and images, while publishers display ads, ensuring secure, targeted advertising.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tff3f"
+    ]
+  },
+  {
+    "name": "Nifi",
+    "slug": "nifi-o3uf2",
+    "description": "Nifi is a First Ever Built Web3-based captive portal for secure WiFi access, using token and NFT authentication on the blockchain. It seamlessly authorizes users by verifying digital assets for fair usage. Secure, decentralized, and user-friendly!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xrzks",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Marina Royale",
+    "slug": "marina-royale-ykabv",
+    "description": "Lottery using Uniswap V4 hooks with built-in referrals. Mobile-optimized through Telegram with gas-free experience on Base.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "g7h9m",
+      "026zc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Zyn Tax",
+    "slug": "zyn-tax-116br",
+    "description": "zyntax gives taxes to standard erc20 tokens at the router level",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "sidekick.ai",
+    "slug": "sidekick-ai-votxi",
+    "description": "A client-side LLM agent automating the form submission journey while providing proof of data security and form submission via Mina protocol",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fxknf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "AirSafe",
+    "slug": "airsafe-r8udx",
+    "description": "Empowering Secure, Shared Governance for Decentralized Communities on AirDAO.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tff3f"
+    ]
+  },
+  {
+    "name": "Zk-Market",
+    "slug": "zk-market-y8dt3",
+    "description": "Zk-Market is a groundbreaking marketplace that bridges the gap between Web2 and Web3 ecosystems through the innovative use of zero-knowledge proofs.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "RIP Protocol",
+    "slug": "rip-protocol-jgw26",
+    "description": "RIP Protocol allows encrypted data to stay private while performing specific tasks on the blockchain. Although blockchain is public, RIP ensures sensitive information remains secure, letting users leverage blockchain benefits without revealing personal data.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ijf8"
+    ]
+  },
+  {
+    "name": "co(IN)munity",
+    "slug": "co-in-munity-d9m3d",
+    "description": "A community-building token launchpad with bonding curve, serving as a public good among NFT communities",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "tff3f"
+    ]
+  },
+  {
+    "name": "Caller ranking",
+    "slug": "caller-ranking-ai786",
+    "description": "Caller ranking is a SocialFi game where you can speculate on the performance of alpha callers",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProofLoop",
+    "slug": "proofloop-bp5xm",
+    "description": "Circular proof computation on Oasis Sapphire chain with view call",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reimbuddy",
+    "slug": "reimbuddy-oagia",
+    "description": "ReimBuddy, a blockchain-based platform to streamline and secure reimbursements. Users submit claims, attesters validate, and companies authorize payouts. While ensuring identity authenticity, encrypted data is stored on-chain. LLMs assess claim legitimacy.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "TeleGovernance",
+    "slug": "telegovernance-j8sf9",
+    "description": "Telegram bot to make it easy for token holders to vote and look at upcoming / existing proposals.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "airgate",
+    "slug": "airgate-twm30",
+    "description": "An easy to use platform to create a token-gated community and display information only visible for the fans",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tff3f"
+    ]
+  },
+  {
+    "name": "DeReal",
+    "slug": "dereal-b9tsg",
+    "description": "Share spontaneous moments, triggered by smart contracts! DeReal brings transparency into the life of everyone through their cameras. (P.S You get rewards too!)",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Asset Guild",
+    "slug": "asset-guild-3f0h6",
+    "description": "Secure marketplace for selling digital assets without leaking them",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "croq1",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "datai",
+    "slug": "datai-2mo1s",
+    "description": "Data marketplace with ZK proofs and staking that incentivizes users to share data",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WhoDis",
+    "slug": "whodis-0d13u",
+    "description": "An AI tool for analyzing and describing the behavior of a wallet address in simple natural language",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QIVE",
+    "slug": "qive-8nzq4",
+    "description": "Introducing QIVE: Donate once, and make an impact forever! 🌍 Using MACI's QF, Dynamic wallet, liquid staking, WorldID, and OApps, we turn your donation into yield-generating assets that continuously fund causes. It's fair, democratic, and creates lasting change.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Fm",
+    "slug": "fm-99b7b",
+    "description": "Permissioned marketplace protocol allowing anyone to build their own ebay",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShipHooks",
+    "slug": "shiphooks-sh20b",
+    "description": "OpenZeppline for Uniswap Hooks, easily install and use any pre available Uniswap Hooks",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "TeleSplit",
+    "slug": "telesplit-hoz0q",
+    "description": "Tele-Split is a Telegram bot that allows you to split bills with your friends. It is built with the Telegram Web App and uses the blockchain to enable transactions.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solara",
+    "slug": "solara-c9scd",
+    "description": "Solara enables under-collateralized microfinance by leveraging historical blockchain transactions and social reputation. It helps users access loans by assessing their trustworthiness through transaction history and social attestations from DAOs, bridging the gap in DeFi lending.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Aether",
+    "slug": "aether-sxp3o",
+    "description": "Low-code checkout solution using Worldcoin’s World ID, Mina Protocol, and Circle’s USDC for secure, privacy-first transactions",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "KaRoot",
+    "slug": "karoot-cjgdy",
+    "description": "Radix trie optimized for efficient order matching for onchain orderbooks",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nearer",
+    "slug": "nearer-bwbft",
+    "description": "An AI-powered platform that simplifies NEAR Chain Signatures. Users can manage multiple EVM wallets, store derived addresses, send funds, stake and move assets across chains with Onchain AI and an ML model for seamless DeFi management.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5b69q",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Encrypted_Compute",
+    "slug": "encrypted-compute-5tatf",
+    "description": "User's input is encrypted using FHE which he wants to run on an ML model. The initial layers of model are taken, and we perform operations of those initial layers on the encrypted data. Then the output is decrypted and sent to the model for further computation.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DualSign",
+    "slug": "dualsign-q0exs",
+    "description": "DualSign - a secure/verifiable layer for transferring tokens omnichain.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "World Vote",
+    "slug": "world-vote-45hq0",
+    "description": "A voting platform that is sybil resistance backed by World ID",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EZ-Pay",
+    "slug": "ez-pay-8jytc",
+    "description": "A crypto wallet app for seamless transactions and payments via links or QR codes, offering quick, secure transfers with just a few clicks for both personal and business use.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Enclave",
+    "slug": "enclave-wyek3",
+    "description": "Fully Homomorphic Encryption enabled ENS domain records for a privacy centric team",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyVote",
+    "slug": "polyvote-6hwky",
+    "description": "PolyElection is an end-to-end  private voting service using MPC, ZK and AI to recommend and process votes",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "Coin sync",
+    "slug": "coin-sync-gu5w7",
+    "description": "A Telegram bot that simplifies crypto portfolio management. Link all your wallets in one place, get real-time balance updates, gas fee alerts, and make micro-transactions. Manage your crypto smarter and faster with secure, seamless wallet integration—all within Telegram!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TailTrack",
+    "slug": "tailtrack-7t1zg",
+    "description": "TailTrack comes to feel the need to have a closer look into our pets lives to avoid health issues.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Geeg",
+    "slug": "geeg-70kwa",
+    "description": "Match with the perfect talent for a seamless and transparent project experience, secured by blockchain technology.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OxENS",
+    "slug": "oxens-n7xrq",
+    "description": "Making blockchain easy: Blockchain education and AI driven platform to measure trustworthiness of crypto assests.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "MEV-Engine",
+    "slug": "mev-engine-k5fyp",
+    "description": "A tool to help you find mev opportunities on starknet, sync data from the defi applications you need. If the defi app you looking for isnt supported implement the trait, and rest else should work.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "Upper World",
+    "slug": "upper-world-ysmrp",
+    "description": "Upperworld is an innovative, on-chain multiplayer game that brings the beloved Pokémon concept into the world of blockchain technology",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PriVote",
+    "slug": "privote-hertg",
+    "description": "Privote is an open-source, decentralized voting platform that uses MACI for privacy and offers various authentication methods for secure, private polling.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "AirSoul",
+    "slug": "airsoul-151xz",
+    "description": "Simplifying blockchain with an easy-to-use bot, AirSoul empowers nearly 1 billion users to check balances, send tokens, view NFT details, and more.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "COCswap",
+    "slug": "cocswap-s4yga",
+    "description": "COCSwap: An Intelligent AMM powered by Convex Optimization and ZKPs",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Stormbit",
+    "slug": "stormbit-hoon6",
+    "description": "Stormbit on Morph L2: Simplifying loans for you. Connects lenders & borrowers directly, cutting out banks. Secure, accessible, and now with free liquidations for swift, hassle-free transactions.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockElf",
+    "slug": "blockelf-qxtw5",
+    "description": "An on-chain LLM search engine that enables user to query on-chain data through natural language.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "5b69q"
+    ]
+  },
+  {
+    "name": "Nyx",
+    "slug": "nyx-b3j3b",
+    "description": "Discover a therapy AI app using Oasis Protocol and Dynamic Labs, prioritizing user privacy with off-chain chat storage. Therapists can securely access data on-chain, enhancing trust and transparency, all powered by ENS for easy identification.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ijf8"
+    ]
+  },
+  {
+    "name": "DarkLegacyShop",
+    "slug": "darklegacyshop-rs0k0",
+    "description": "An NFC-powered exploration game where players trade resources, shape the world, and co-create a dynamic, community-driven virtual experience.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TransferMoney",
+    "slug": "transfermoney-35h5q",
+    "description": "This project is about money transfers and includes three main functions: money storage, money transfer, and investment projects.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AttackGen",
+    "slug": "attackgen-57m78",
+    "description": "LLM agent which analyses a given smart contract for vulnerabilities and creates a smart contract to attack it.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZkCredit",
+    "slug": "zkcredit-gfx87",
+    "description": "ZkCredit is a way to borrow crypto assets using traditional models of credit scoring (assets and income). Leveraging Mina's protokit SDK and zkSNARK's our project enables lenders to lend to borrowers who meet certain credit criteria without learning anything about them!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "private-cast",
+    "slug": "private-cast-0vg89",
+    "description": "A fully private predication market for verified human, built with Oasis Sapphire and Worldcoin.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "GraphGPT",
+    "slug": "graphgpt-6pty0",
+    "description": "GraphGPT makes interacting with subgraphs easier. It transforms complex queries into a user-friendly experience, helps users extract insights from data, and simplifies data visualization.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LendingSapphire",
+    "slug": "lendingsapphire-jrbsc",
+    "description": "Introducing a private, KYC-free lending platform on Oasis Sapphire. Utilizes dual-token setup, ROFL (TEE) for fetching real time price feeds. Features on-chain and off-chain confidentiality to ensure secure, private transactions.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ijf8"
+    ]
+  },
+  {
+    "name": "starknet-zk-verifier",
+    "slug": "starknet-zk-verifier-ms19y",
+    "description": "A repository where I show how to use cairo and garaga to veryfy zk-SNARKS on starknet",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MultiVault",
+    "slug": "multivault-o583a",
+    "description": "A Decentralized Multichain Asset Management Protocol with focus on security and risk management.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "EZKPoll",
+    "slug": "ezkpoll-x37xw",
+    "description": "EzkPoll, the most comfortable polling system in Web3. It utilizes MACI to empower ZK on polling and A/B testing.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unify Finance",
+    "slug": "unify-finance-9dipd",
+    "description": "Reputation pool subscribers and portfolio manager across different wallets",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Wheelswap",
+    "slug": "wheelswap-ihux9",
+    "description": "Select the amount of crypto to swap and spin the wheel to receive a random cryptocurrency",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NearYou",
+    "slug": "nearyou-pvf28",
+    "description": "NearYou is a Chrome extension using OpenAI, NEAR Protocol, and Worldcoin for secure verification. It provides real-time insights into NEAR blockchain transactions, simplifying data with AI-driven answers to user questions.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrendMarket",
+    "slug": "trendmarket-kummv",
+    "description": "TrendMarket is an innovative prediction market using LLM technology to create and execute markets with minimal human involvement. It addresses liquidity fragmentation by having LLMs select popular markets and automatically determine outcomes through multi-LLM voting.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "tff3f",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ChillVille",
+    "slug": "chillville-6zo6g",
+    "description": "We built a private onchain voting system with sybil resistance by combining MACI and zkTLS. This allows for fairer governance by eliminating bribery and collusion, and enabling private voting based on off-chain contributions.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "tff3f",
+      "bk5qx",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "GeorgeAI",
+    "slug": "georgeai-owhoa",
+    "description": "Data analytics for airdrop sybil attack detection. 12355-78901354792003774838388383838",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Refuge Link",
+    "slug": "refuge-link-fhpjh",
+    "description": "Introducing RefugeLink: A pixelated, Nouns-inspired platform using Flow blockchain and USDC for transparent, direct donations to refugees. Empowering them with digital wallets via email and verifying identity through World ID by Worldcoin.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "maci-tbd",
+    "slug": "maci-tbd-t6cc5",
+    "description": "This project use MACI to improve DAO voting with significantly reduced risk of cheating",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "puzzle-nouns",
+    "slug": "puzzle-nouns-tm17o",
+    "description": "Unlock blockchain-themed puzzle pieces by answering quizzes and sharing artwork in twitter! Collect all 27 pieces and receive your Nouns NFT. Each piece is generated based on key words from your answers. Complete the puzzle, share your artwork, and showcase your knowledge!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Merlion's Bloom",
+    "slug": "merlions-bloom-niy74",
+    "description": "A super simple, consumer-focused, single-player, coin toss game with novel game mechanics, where a player can win a prize by flipping a coin.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SecureFi",
+    "slug": "securefi-xshkw",
+    "description": "SecureFi is a privacy-first platform using Mina Protocol for secure, encrypted financial data sharing via zero-knowledge proofs, while also offering separate USDC/MINA DeFi lending services. Users maintain full privacy and control over their data during loan approvals.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockBird",
+    "slug": "blockbird-1di1c",
+    "description": "BlockBird is an on-chain Flappy Bird game deployed on Arbitrum Sepolia, integrating Chainlink, The Graph, and Dynamic Wallet. Fly through the chain, navigating obstacles while earning rewards.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "deBBS",
+    "slug": "debbs-jg3nd",
+    "description": "deBBS builds self-sustaining communities by charging small fees for posts and thread creation to prevent spam in anonymous networks. These fees are distributed as rewards to moderators and frontend providers, creating an incentive structure that supports community maintenance.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Mint Book",
+    "slug": "mint-book-aimky",
+    "description": "Mint Book is a collaborative project where users can contribute notes to create a unique book. Once completed, it can be minted as an NFT. Collaborators earn royalties upon sale. Connect your wallet, add your thoughts, and be part of this innovative project!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Raise Sign",
+    "slug": "raise-sign-aa686",
+    "description": "An escrow service that holds fundraise until both parties sign the contracts",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EchoChain",
+    "slug": "echochain-s75qn",
+    "description": "EchoChain is a revolutionary decentralized platform designed to connect service providers",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cointributors",
+    "slug": "cointributors-9iaiy",
+    "description": "Cointributors enables fair and automated donation distribution to open-source contributors and dependencies using Ethereum smart contracts. Link your repository, allocate funds, deploy your contract, and display a badge to invite donations and showcase your support.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "staketomake",
+    "slug": "staketomake-y5o7j",
+    "description": "A blockchain-enabled health and wellness social app using staking to build healthy habits. Combines crypto \"skin in the game\" with social support for wellness. Unique features: monetary/social motivation, group challenges, reward for effort, built for non crypto-natives.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GT for Ton",
+    "slug": "gt-for-ton-n7tzr",
+    "description": "We wanted to try to build a galaxy strategic mini game for telegram.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pump.Flow",
+    "slug": "pump-flow-k7f1g",
+    "description": "Pump.Flow is the first unruggable meme token launchpad on Flow blockchain",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "SocX",
+    "slug": "socx-xb41g",
+    "description": "Soc X is a decentralized social media platform that focuses on monetizing both the creator and consumer economy as well as focus on user privacy and keep the audience authentic.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mintly",
+    "slug": "mintly-stcxn",
+    "description": "A web3 rewards platform combining the best of tranditional credit card loyalty schemes and the unique benefits of web3.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bakul",
+    "slug": "bakul-qejf1",
+    "description": "Bakul is a decentralized platform for building, sharing, and integrating blockchain-powered components known as Blinks. From donations and swaps to cross-chain bridges, Bakul empowers users to seamlessly incorporate Web3 features into any part of the web",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "SportsBet",
+    "slug": "sportsbet-uhjiq",
+    "description": "A crypto price betting platform built on the AirDAO network, where users stake AirDAO tokens (AMB) to bet on the price movements of other cryptocurrencies. The app is powered by React, Solidity, and integrates with MetaMask for secure wallet connections.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Symbio Hooks",
+    "slug": "symbio-hooks-9buqu",
+    "description": "Enabling the best hooks and the most successful pools to come together, again and again",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Silent Wars",
+    "slug": "silent-wars-dpayg",
+    "description": "A telegram mini-app guild based game with resource collection and voting",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "3zpxc",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "SybilGuard AI",
+    "slug": "sybilguard-ai-u3rz6",
+    "description": "SybilGuard AI is an AI-powered tool designed to eliminate Sybil attacks in airdrops and decentralized governance.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch AI Agent",
+    "slug": "1inch-ai-agent-fvfhx",
+    "description": "A user-friendly platform utilizing smart actions for seamless and efficient token swapping. Designed for ease of use, with real-time updates, secure transactions, and intuitive interface to ensure a smooth and effortless experience for all users.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moraq League",
+    "slug": "moraq-league-e14rc",
+    "description": "Moraq League is a fun crypto price prediction tournament! Predict token prices, battle through harder rounds, and stake tokens for big rewards. Exit early with winnings or risk it all for the jackpot. Compete, climb the leaderboard, and win like anything.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tff3f"
+    ]
+  },
+  {
+    "name": "LedgeFolio",
+    "slug": "ledgefolio-1ub39",
+    "description": "LedgeFolio is a comprehensive web application that integrates Ledger hardware wallets with various Web3 functionalities, including NFT management, cross-chain token bridging, ENS domain operations, and cryptocurrency purchases.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Spam Protector",
+    "slug": "spam-protector-41gx8",
+    "description": "Tired of getting insurance , loans , scam calls ? Spam protector is here to save the day",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "MayBee🐝",
+    "slug": "maybee-5x6o0",
+    "description": "MayBee is a Telegram Mini App that lets you make fun wagers with friends or strangers. Using Telegram provides a simple and intuitive experience, so you can place your bets quickly and easily. Join the buzz and start betting in your favorite hive! 🐝✨",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Coin Copycat TG Bot",
+    "slug": "coin-copycat-tg-bot-4vpv6",
+    "description": "Coin Copycat is a socialfi telegram trading bot that let's you copy trade your friends in your TG group!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hyperspeed Bridge",
+    "slug": "hyperspeed-bridge-fh34h",
+    "description": "Hyperspeed Bridge is a lightning fast native to native bridge that uses the Hyperlane protocol to execute bridging transactions instantly before finality is reached. The bridge is secured against reorgs through an Insurance Fund, which caps the max bridgeable amount.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ggpyp",
+      "gt566"
+    ]
+  },
+  {
+    "name": "IntroGram",
+    "slug": "introgram-x72by",
+    "description": "IntroGram is a Telegram mini-app that enhances networking by allowing users to record, transcribe, and summarize conversations. It helps users add Telegram handles to interactions, making it easier to remember details and reconnect with new contacts",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkApollo",
+    "slug": "zkapollo-wygag",
+    "description": "Verifiable Proof of Reserve for RWAs Tokenization in a privacy-preserve way",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AuditGPT",
+    "slug": "auditgpt-0fti1",
+    "description": "AuditGPT is an AI agent that helps you audit your smart contracts before deployment, giving you recommendations on how to resolve any potential vulnerabilities.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pk3b6",
+      "bk5qx",
+      "5b69q"
+    ]
+  },
+  {
+    "name": "DeFold",
+    "slug": "defold-hz1sv",
+    "description": "Defold is a platform where researchers upload genomic data on-chain. Buyers browse a marketplace, purchase queries and get computations on encrypted data without seeing raw data. Researchers monetize data, buyers get valuable insights, all while maintaining privacy and security.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StakeSchedule",
+    "slug": "stakeschedule-g6jda",
+    "description": "A Calendly like app that allows you to schedule calls by providing a stake (in ETH). No-shows lose their money.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProjectG",
+    "slug": "projectg-jdgc8",
+    "description": "Project G is a decentralised Supply Chain Visibility Solution",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reputify",
+    "slug": "reputify-nk8r7",
+    "description": "Reputify is a prediction market platform where users can stake tokens to upvote someone’s prediction. If the prediction is correct, the predictor earns a portion of the staked tokens, rewarding accurate insights and fostering a reputation-based system of trust.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Data_Sanctuary",
+    "slug": "data-sanctuary-r2woj",
+    "description": "Data Sanctuary is a decentralized file storage platform that integrates with MetaMask for easy uploads, storing files on IPFS-Filecoin via Lighthouse API. Each file is a storage deal tracked on FEVM, offering secure, persistent, and corporate-free storage for users",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xmnipresent",
+    "slug": "0xmnipresent-yviwj",
+    "description": "chain-agnostic solution for minting, enabling payment of gas fees with tokens from a different chain",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trend",
+    "slug": "trend-p3r89",
+    "description": "Meet Trend, the decentralized social layer for fitness apps! Leverage Sign Protocol to record verified, on-chain attestations of your fitness achievements, making them composable with reputation systems and other Web3 protocols.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "qdgjh",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Geist",
+    "slug": "geist-x3fur",
+    "description": "Geist is a Decentralized Autonomous Website (DAW) Builder. Wallet Whitelist for Private Previews, Trustless zk-proof based deployment after anti collusion proposal voting, we allow DAOs to collaborate at scale and make the Internet more trustless.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SQUIDL",
+    "slug": "squidl-psquk",
+    "description": "Squidl is a privacy-focused platform that makes managing payments simple and secure. With private static payment links that also work as ENS addresses, you can easily accept crypto or credit card payments while keeping everything untraceable.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "1ijf8",
+      "xrzks",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "izanami",
+    "slug": "izanami-6uk7u",
+    "description": "izanami is an AI-powered social reputation tool that evaluates and analyzes blockchain addresses, providing users with comprehensive insights based on AI and community-driven reviews.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkBoost",
+    "slug": "starkboost-3ejxn",
+    "description": "Under-collateralized lending protocol using verifiable credentials to give a credit score for opening dynamic credit line and give more voting power for small and loyal users on Starknet.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JITLiq Network",
+    "slug": "jitliq-network-m2cw1",
+    "description": "JIT Liquidity Network—a scalable liquidity layer powered by an actively validated solver network, making fast and efficient bridging across multiple chains possible",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "XNFT",
+    "slug": "xnft-sys01",
+    "description": "Cryptographic verification of twitter followers onchain using TLSNotary",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P2P Cash",
+    "slug": "p2p-cash-1jspx",
+    "description": "QuickPay is a crypto-to-fiat solution for expats and tourists, enabling smooth payments with local merchants. Built on Flow blockchain, it offers low fees, requires no local bank account, and integrates easily with businesses.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rebirth of Humanity",
+    "slug": "rebirth-of-humanity-xqvgm",
+    "description": "Rebirth of Humanity: A post-apocalyptic text-based strategy game where players guide humanity's survival by making crucial decisions in a world dominated by AI",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Artstock",
+    "slug": "artstock-grypg",
+    "description": "Artstock revolutionizes the art market by tokenizing physical artworks: transparent and secure. Track provenance and be sure about authenticity of art pieces, while having extra liquidity by trading on our escrowed market. Redeemed for physical delivery at any time.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NounsPilot",
+    "slug": "nounspilot-vyw3q",
+    "description": "NounsPilot optimizes crypto portfolios by analyzing holdings and recommending strategies to maximize rewards. It leverages cross-chain protocols, restaking services, and high-yield opportunities to enhance user returns. Built with 1inch, Circle, LayerZero, and NounsDAO assets.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Telegram-DAO-bot",
+    "slug": "telegram-dao-bot-xwwyy",
+    "description": "Telegram bot that allows you to interact with AirDAO smart contract. This contract is a list of members of \"InternetDAO\" which is a collective to bargain for better internet deals from service providers.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Power Clash",
+    "slug": "power-clash-c9gmt",
+    "description": "Step into the world of fair gaming with our blockchain-powered game which is built on top of ZkNoid SDK",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "sp1demo",
+    "slug": "sp1demo-1gona",
+    "description": "Simple SP1 demo proving correct evaluation of the paraboloid of equation: z = f(x, y) = x² + y²",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sniper",
+    "slug": "sniper-va6c6",
+    "description": "Target Full Potential, Hit Every Goal, Leave Your Marks. Your AI companion enhancing focus with real-time guidance, memorializing achievements on-chain.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Cross3",
+    "slug": "cross3-8xc9h",
+    "description": "Onchain Social Layer for Web3 Pages and Payments, All in Portfolios.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZkScholar",
+    "slug": "zkscholar-yiqo9",
+    "description": "A revolutionary decentralized app  that makes financial aid applications faster and more private using zk-SNARKs, World ID, and USDC. Students bulk apply to schools without revealing sensitive information, schools verify eligibility privately, and funds are disbursed on-chain.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Price Game",
+    "slug": "price-game-aqhys",
+    "description": "Our project is a daily crypto price prediction game designed for the Web3 community. Participants can submit their predictions for the price of a selected cryptocurrency (such as Bitcoin or Ethereum), and the person whose guess is closest to the actual price will win a prize.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mini Safe",
+    "slug": "mini-safe-mztrv",
+    "description": "Mini Safe is your friendly team multisig wallet integrated on Telegram for simplifying P2P payments.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "Notsoawesomeproject",
+    "slug": "notsoawesomeproject-wnarn",
+    "description": "Not so Awesome Project zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "pump.delight",
+    "slug": "pump-delight-drmbz",
+    "description": "Pump your favorite meme coins with Pump.Delight! Join coordinated community efforts to boost token values through strategic buying and real-time alerts. 🚀💸 #MemeCoins #CryptoPump #PumpAndProfit",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XChain Investments",
+    "slug": "xchain-investments-4fu2t",
+    "description": "With privacy, xchain functionality, and AI-driven management, We offer a secure env for participants to join investment pools, contribute funds, and bid privately. Key features include private bidding with Worldcoin’s anonymous authenticationdynamic liquidity management",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "qdgjh",
+      "qdgjh",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "AlphaHook",
+    "slug": "alphahook-rqd6q",
+    "description": "AlphaHook is an attempt to leverage Uniswap V4 hooks to generate dynamic pool fees by using Chainlink Oracles.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Minion",
+    "slug": "minion-ik1uc",
+    "description": "Introducing Minion! 🚀 An AI-powered wallet for Telegram & web. Scan on-chain liquidity & staking pools to pick the best trading strategies. Trade smarter & make a difference by donating to causes like @FreedomofPress with every trade! 💡📈 #DeFi #AI #Crypto #Minion",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NomNomPay",
+    "slug": "nomnompay-a3n7z",
+    "description": "NomNomPay: The Tastiest Way to Send USDC on Telegram 🍕🍺🚕💰",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "Gacha Hook",
+    "slug": "gacha-hook-0qd8p",
+    "description": "The Gacha Hook addresses high entry barriers, illiquidity, and inefficient revenue models in the NFT market by enabling fractionalization and cross-chain support for a more accessible and dynamic trading experience.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkElect",
+    "slug": "zkelect-31ho6",
+    "description": "zkElect is a blockchain-based platform that revolutionizes elections and surveys with zk-SNARKs and MACI. It ensures secure, anonymous, and transparent voting, preventing tampering, coercion, or bribery.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AirBots",
+    "slug": "airbots-040yk",
+    "description": "A Telegram bot that provides real-time crypto data, simplifies token swaps with instant cross-chain functionality, and offers easy token creation tools—all in one platform.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "streetcredits.io",
+    "slug": "streetcredits-io-avhq3",
+    "description": "Accumulate street credits by going for events and become a certified degen",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Proof-of-Ivan",
+    "slug": "proof-of-ivan-xznxf",
+    "description": "Minimal submission, failed to actually hack. This is just a repo and some readme and there's not much to it.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FileBeam",
+    "slug": "filebeam-4g61n",
+    "description": "FileBeam beams petabytes of multichain dApp data into the open data economy!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "TeleBlackjack",
+    "slug": "teleblackjack-1kwfn",
+    "description": "Interactive telegram bot that allows you to play blackjack on it.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Taskify",
+    "slug": "taskify-kuo2c",
+    "description": "Outsourcing daily tasks just got easier with Web3 technology. Want someone to help with dog walking? Or would you like to walk dogs to earn some money in your free time? Taskify is the solution.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Consulaite",
+    "slug": "consulaite-75z9b",
+    "description": "Chat for CEOs simplifies decision-making in the crypto & Web3 space by providing tailored, data-driven recommendations for tools, platforms, and companies based on CEO requirements and budgets. Avoid costly consultants with real-time insights into the latest solutions",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HarvestReward",
+    "slug": "harvestreward-tjqc6",
+    "description": "HarvestReward is a blockchain platform that enhances agriculture by enabling transparent supply chains, automating contracts, offering DeFi for farmers, and tokenizing assets and data—boosting efficiency, traceability, and market access for farmers and agribusinesses globally.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "APEY Fi",
+    "slug": "apey-fi-72in3",
+    "description": "Monkey around with APY. Our platform allows trading on whether the interest earned from staking (APY) for platforms like Lido will increase or decrease. You can use EVM locked Bitcoin (RBTC) to bet on the largest project in the space with the largest crypto in the market",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HyperWallet",
+    "slug": "hyperwallet-ye9zz",
+    "description": "HyperWallet is a chain abstracted wallet powered by Hyperlane",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Vibezer",
+    "slug": "vibezer-892z3",
+    "description": "The decentralized platform where travelers and brands connect through matching vibes, powered by dynamic event creation",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Movie",
+    "slug": "movie-jbiy0",
+    "description": "UNI Bridge for All BlockChains User can launch a new ERC404 token by any movie (need to pay 100 $BST)  User can buy SBT of any movie  which can access the SBT permission discord channel for the movie",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "La Vaca Vampiro",
+    "slug": "la-vaca-vampiro-n5715",
+    "description": "La Vaca Vampiro is a set of token lists that work with CoW Swap widget to make it easy to vampire attack projects",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LendMarket",
+    "slug": "lendmarket-mmqe4",
+    "description": "Marketplace for custom lending and borrowing offerings. It allows user to post, accept, update, repay and reclaim their loan proporsals",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Story Chain",
+    "slug": "story-chain-d4r02",
+    "description": "A marketplace where authors publish and own their stories as NFTs. Readers discover, enjoy, and support writers through direct donations. Featuring transparent ownership & ease of publication, StoryChain revolutionizes digital literature content ownership & delivery.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkBlackjack",
+    "slug": "zkblackjack-hjrpn",
+    "description": "zkNoidBlackjack is a trustless, provably fair Blackjack game using Mina Protocol's zkNoid platform. Play anonymously with on-chain proof that cards are dealt fairly!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Product_Attestation",
+    "slug": "product-attestation-wig6g",
+    "description": "Decentralized Marketplace Verification for Instagram Sellers",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ollie Cookies",
+    "slug": "ollie-cookies-t632w",
+    "description": "A privacy-preserving Chrome extension that lets users monetize their browsing data. Using World ID for authentication and Oasis Sapphire for secure data handling, it creates a fair marketplace where users earn from their data while buyers access quality information.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Proof Of Dev",
+    "slug": "proof-of-dev-5pbdh",
+    "description": "A sybil resistant Web3 Builder reputation protocol.Endorse and get recognized for your on-chain work.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Super Loud",
+    "slug": "super-loud-eywc7",
+    "description": "Super Loud: A cross-platform Tapp built on ENS NFTs. Chat, connect, and earn tokens across social media, wallets, and marketplaces. Features friend requests, E2E encrypted messaging, and token rewards. Showcasing the power of Tapps: build once, run anywhere!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Best Governance App",
+    "slug": "best-governance-app-j1j09",
+    "description": "governance one-stop-shop tool that caters to DAO members, token holders and delegates",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clarity",
+    "slug": "clarity-c2us8",
+    "description": "Clarity is a payment gateway designed to tackle the multibillion-dollar problem of fake reviews by enabling seamless, verifiable on-chain payments and reviews.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "qdgjh",
+      "qdgjh",
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "TeleWallet",
+    "slug": "telewallet-wdt8t",
+    "description": "Sign up, login, paying with multiple wallets all in a mini app of Telegram",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hodl Habits",
+    "slug": "hodl-habits-fcqti",
+    "description": "Imagine getting rewarded for building better habits. Meet HODL HABITS. You don’t just set goals—you build greatness. Stake tokens to join, complete your habits, and earn rewards. Slip up, and you lose a little. Top players get extra prizes from sponsors. Ready to level up?",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vy7pe"
+    ]
+  },
+  {
+    "name": "Inspector AI",
+    "slug": "inspector-ai-s5mw5",
+    "description": "Inspector AI: A Chrome extension that analyzes smart contracts to make the web3 a more secure and user-friendly place using the power of AI and builder community. It provides risk assessments, integrates market data, and includes community reviews.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "FortunaPool",
+    "slug": "fortunapool-eq80j",
+    "description": "A decentralized stablecoin application utilizing Worldcoin for identity verification and Flow blockchain for verifiable random number generation, allowing users to securely deposit USDC, invest in DeFi opportunities, and receive fair and transparent rewards.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "C10N",
+    "slug": "c10n-5ifrr",
+    "description": "c10n revolutionizes payroll by harnessing Web3 tech, offering instant, secure payments via Stablecoins and multi-chain solutions. ENS and stealth accounts ensure a seamless and private payroll experience.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FHE dark forest",
+    "slug": "fhe-dark-forest-mhfak",
+    "description": "Dark forest game built with FHE. Use FHE to simulate the universe to verify operations while reveal nothing about the information",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Angpao.money",
+    "slug": "angpao-money-1mn7c",
+    "description": "Angpao.money is a magic-link utility to make receiving crypto as intuitive as handing over cash in an envelope.  Absolute zero dependency: install nothing and gas-free, Angpao.money hyper-charge onboarding by bridging the UX gap, making every transfer fun, personal and memorable.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "bw7y9",
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "StealthTradeDAO",
+    "slug": "stealthtradedao-8jt17",
+    "description": "Empowering the Future of Perpetual Markets with Unmatched Trust, Transparent Solvency Proofs, and Decentralized Governance. Harnessing the Power of Cross-Chain Technology to Redefine Trading, Ensure Privacy, and Restore Confidence in a Truly Open and Secure Financial Ecosystem.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "6wi0d",
+      "5b69q"
+    ]
+  },
+  {
+    "name": "Trebek!",
+    "slug": "trebek-97qcj",
+    "description": "TREBEK! is reverse Jeopardy! with an AI twist. Instead of guessing the answer, players are given the answer and must create a prompt that generates that answer exactly, word for word.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Grand Nouns Auto",
+    "slug": "grand-nouns-auto-tw1ut",
+    "description": "Grand Nouns Auto is a gangster-themed game blending action gameplay with DeFi education. Players complete missions involving real DeFi tasks, tracked by AI NPCs. Success yields attestations on the Gnosis Chain, featuring characters from the Nouns DAO and the NFT ecosystem.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "pk3b6"
+    ]
+  },
+  {
+    "name": "Gecko",
+    "slug": "gecko-m5ezr",
+    "description": "Gecko is an autonomous multi-agent AI auditor that combines LLM’s with custom security tools like fuzzers and static analysers to simulate a hacker's intuition and detect vulnerabilities in Solidity and Cairo smart contracts.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "D-Trust",
+    "slug": "d-trust-2et9y",
+    "description": "A movement against the monopolization of truth. By joining D-Trust, you become part of a community dedicated to transparency, accountability, and the collective pursuit of knowledge",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Diver",
+    "slug": "diver-tu97t",
+    "description": "It's an application for divers to keep dive logs on a blockchain.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HawkEye",
+    "slug": "hawkeye-uitr4",
+    "description": "A Web3 x AI solution proving human gameplay by extracting keystrokes from key input video using AI models, matching them with in-game actions. Proofs are pushed on-chain and secured using TEEs, letting players prove they're real humans on any gaming platform. #Web3 #AI #Gaming",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pk3b6"
+    ]
+  },
+  {
+    "name": "Threeer",
+    "slug": "threeer-2xgz4",
+    "description": "A decentralized marketplace for digital services using blockchain and AI verification. Clients post tasks with bounties in smart contracts. Workers submit work; AI approves quality. If approved, funds release. No intermediaries—secure and efficient.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pk3b6",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "1cmBot",
+    "slug": "1cmbot-gqv7t",
+    "description": "1cmBot is a Telegram bot that offers easy trading on Telegram by leveraging 1inch API to support swaps on multiple chains and get the best rates with 1inch's aggregation router.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Mirage",
+    "slug": "mirage-tz65j",
+    "description": "Mirage: Decentralized email with USDC transfers, encrypted messaging, and IPFS attachments. Cross-chain via Chainlink CCIP and Circle CCTP. Blends Web3 tech with familiar email UI for seamless use. Secure, innovative communication meets blockchain functionality.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "OmniForward",
+    "slug": "omniforward-vmq9m",
+    "description": "cross chain lend/borrow by fixed rate and term bring arbitrage, looping, aggregating and much more opportunity, and as long as much asset pick fixed rate and term, the market would growth much faster than it used to.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "Duckbot",
+    "slug": "duckbot-m8o1a",
+    "description": "Building a prediction market Telegram bot that lets users bet on real-world events directly within the app. Utilizing blockchain for transparent and verifiable outcomes, ensuring fairness and security. Bet, track, and win – on-chain!",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tff3f"
+    ]
+  },
+  {
+    "name": "Attornato",
+    "slug": "attornato-2nku7",
+    "description": "Marketplace for tokenized boats. List, tokenize, request attestation, send binding orders and buy boats.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fheProxies",
+    "slug": "fheproxies-vwsiy",
+    "description": "fheVPN (Proxies) is a decentralized Proxy-as-a-Service (PaaS) enabling anonymous web browsing via nodes from global operators. Fully Homomorphic Encryption (FHE) ensures only clients who pay on-chain through the Fhenix network can securely access node details.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "croq1",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Factify",
+    "slug": "factify-7x8ja",
+    "description": "Factify is dedicated to ensuring authentic research is accessible for all. By leveraging WorldCoin's unique ID and Sign protocol, we aim to reduce publication bias and connect all stakeholders—researchers, funders, and verifiers. with a token system rewarding ethical publishing:)",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "clr.wiki",
+    "slug": "clr-wiki-8bk7z",
+    "description": "Collusion resistant information dispute resolution tool using MACI",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MooDeng Arbitrageurs",
+    "slug": "moodeng-arbitrageurs-a85ke",
+    "description": "An automated arbitrage bot that operates across multiple EVM-compatible chains, with a user-friendly interface for setup, monitoring, and profit distribution.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Voting with UBI",
+    "slug": "voting-with-ubi-k56uu",
+    "description": "Equal rights voting mechanism for DAO based on constant emission rate token",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Waptcha",
+    "slug": "waptcha-q1aqy",
+    "description": "Waptcha is a modern anti-bot solution using World ID to verify real humans, offering stronger protection than traditional CAPTCHAs. Easy to integrate with a 3-line JavaScript SDK, it's perfect for sites and apps needing robust security against advanced bots.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "NTUNouns",
+    "slug": "ntunouns-3q6i0",
+    "description": "As beginners, we worked on a project related to NFT, using nounsDao and our school's art materials, and deployed contracts on the Flow chain. Finally, we deployed our NFT casting page on the website. On the page, you can connect to the wallet, cast our NFT, and transfer it",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fill Me Up",
+    "slug": "fill-me-up-9u13c",
+    "description": "Never worry about gas fees again! Approve funds on one chain and all chains are automatically refilled.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "e3t1p",
+      "gt566",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Zkemon",
+    "slug": "zkemon-okwef",
+    "description": "ZKEMON - A Zero-Knowledge Powered Pokémon NFT Game. ZKEMON brings a unique fusion of privacy-focused blockchain gaming and advanced ZK cryptography, enabling secure, private, and exciting Pokémon battles, breeding, and evolution.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ozone Finance",
+    "slug": "ozone-finance-ng3r6",
+    "description": "Ozone Protocol: A decentralized aggregation layer for cross-chain liquidity using FROST. Features AI-enhanced DeFi experiences and a complete darkpool based on FHE, TEE, and SGX. Trustless, private, and limitless blockchain interoperability for the future of DeFi",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Bonsai",
+    "slug": "bonsai-ceaqq",
+    "description": "Bonsai is a blockchain-based price prediction platform that allows users to stake cryptocurrency on future price points of various assets. The platform aims to create an engaging, fair, and rewarding environment for price prediction enthusiasts and market analysts.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "Waste Protocol",
+    "slug": "waste-protocol-f1b3o",
+    "description": "Waste Protocol is a blockchain platform enabling real-time tracking and trading of waste materials. Users earn USDC and Waste Tokens for recycling, while carbon emissions are verified and rewarded. Simple, transparent, and bridging Web2 to Web3 for sustainable waste management.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "4pn9u",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Memora",
+    "slug": "memora-77hf8",
+    "description": "A platform that lets users manage their digital footprints through blockchain-secured NFTs. Link accounts, set conditions for access or closure, and create time capsules. Event-driven actions (e.g., death) trigger automated responses like account deactivation or data transfer.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fxknf",
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Snapture",
+    "slug": "snapture-fngbn",
+    "description": "Multisig Smart Contract as a Service for construction. A revolutionary approach to enhancing transparency, and accountability in the construction industry.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "Equitoken",
+    "slug": "equitoken-7kv6k",
+    "description": "Purchase tokenized stocks and equities from our platform. Buy fractionalized or complete tokenized shares at the best rates.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "BucketReel",
+    "slug": "bucketreel-caqr2",
+    "description": "Influencer-Inspired Decentralised Travel - A web3 platform where users log in with Reown's AppKit, upload reels to decentralized Pinata, and mint NFTs on the Hedera chain. These NFTs offer travel discounts while users' bucket lists remain private, shared with travel agencies.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "ETH.me",
+    "slug": "eth-me-w2vga",
+    "description": "ETH.me: A seamless gateway bridging web2 and web3, with a highly customizatable protocol. Easily link your web2 social profiles or build your business on web3 in a codeless portal. ETH.me is designed with an extra layer of decentralization and reliability.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "zeroDrive",
+    "slug": "zerodrive-o11hp",
+    "description": "A never-before-seen Web2 drive called zeroDrive. Store and Access your confidential data in purely non-custodial and trustless way.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETH_Singapore",
+    "slug": "eth-singapore-r6s8g",
+    "description": "A Marketplace for Prompt Secured Through Cross Chain Protocols and Proof of Personhood.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Safe Wire",
+    "slug": "safe-wire-foucc",
+    "description": "SafeWire is a payment dispute infrastructure project. It aims to revolutionize the way online transactions are conducted by providing a secure, fair, and decentralized payment system with built-in dispute resolution mechanisms.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecenTRUST",
+    "slug": "decentrust-vwp81",
+    "description": "DecenTrust is a decentralized hiring platform powered by Web3. It enables companies to find verified talent through merit-based assessments and rewards applicants with on-chain proof of success, ensuring transparency, fairness, and trust for both employers and employees.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Sortes (ETH Sepolia)",
+    "slug": "sortes-eth-sepolia-1q6af",
+    "description": "Sortes is a non-profit and trustless lottery build for the network states.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hanseek",
+    "slug": "hanseek-brfdz",
+    "description": "A blockchain-based verified video review platform for food lovers, rewarding real reviews by real people.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Veri-Connect",
+    "slug": "veri-connect-cqt04",
+    "description": "An on-chain business card service with badges that verify your on-chain record",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vy7pe",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Dextr",
+    "slug": "dextr-rqa6t",
+    "description": "A hybrid exchange that minimizes LVR and enables Dynamic Liquidity Rotation which can be used to settle any selected pair order.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainScore",
+    "slug": "chainscore-oj6ja",
+    "description": "Our B2B solution tracks contracts and payments , assigning trust scores based on payment reliability to business entities. This boosts transparency, reduces payment risks, and helps businesses choose reliable partners.digital contracts use wallet-based signing and Worldcoin auth",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Unbound Science",
+    "slug": "unbound-science-j91jy",
+    "description": "A creator economy for scientists and inventors, powered by web3. Unlocking secret technologies and preserving/sharing them by using the power of blockchain can revolutionize our world in ways not seen since the industrial revolution.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trust Minimized BTC",
+    "slug": "trust-minimized-btc-n0mff",
+    "description": "We use MPC network with a ZK Rollup (Mina Protokit) to control Bitcoin accounts with a truly trust minimized, custody less manner. We integrated Hyperlane bridge to demonstrate how to program the wallets by creating a wallet marketplace smart contract deployed on Linea",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tap N Done",
+    "slug": "tap-n-done-t4ezu",
+    "description": "Decentraliced payment protocol, fully chain agnostic, allowing users to pay with any token in any chain",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SecureChain",
+    "slug": "securechain-2rdow",
+    "description": "SecureChain is a decentralized platform enhancing Web3 security with identity verification, smart contract auditing, and multi-factor authentication (MFA). Users get a security score and can safely interact with verified smart contracts, ensuring a safer blockchain experience.",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tardis",
+    "slug": "tardis-uwcmb",
+    "description": "Intent driven, low code dApp design for everyone Defi is hard in some ways for every users. Through Tardis, we intent to help user get pass some of the hurdles easily",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "MyQuantumKey",
+    "slug": "myquantumkey-ib1ys",
+    "description": "Register a key that can be used in the quantum future to authenticate yourself",
+    "event": "ETHGlobal Singapore",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

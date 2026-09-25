@@ -1,0 +1,644 @@
+[
+  {
+    "name": "zKeve",
+    "slug": "zkeve-ne637",
+    "description": "Create events for the community and host according to their votes",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ERC420 Multisig",
+    "slug": "erc420-multisig-ypqi5",
+    "description": "tokenized multisig vaults (and other words that make the description box descriptive)",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlexFi",
+    "slug": "flexfi-rb4vd",
+    "description": "Marketplace for tokenised equity offering into Australian-based startups.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "On-Chain Personality",
+    "slug": "on-chain-personality-5nir5",
+    "description": "We classify mainnet users based solely on their on-chain activity and provide additional tooling for exploratory data analysis.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeCorp",
+    "slug": "decorp-9r638",
+    "description": "Form Companies On-Chain. Fully Decentralized and Fully Web3.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dust Auction",
+    "slug": "dust-auction-wvtjg",
+    "description": "Dust Auction is a liquidation protocol for disposing of unwanted assets on a curve that increases over a specified time (similar to a Dutch Auction), such that other users are incentivized to acquire the assets as the discount on them increases.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TurtleSwap",
+    "slug": "turtleswap-5kt5e",
+    "description": "TurtleSwap: A decentralized exchange where only market orders are allowed, leveling the playing field for all traders. Prices fetched from Chainlink ensure fairness. Slow and steady wins the race! 🐢 #DeFi #DEX #Chainlink",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Rizz Camp",
+    "slug": "the-rizz-camp-1juqr",
+    "description": "The Rizz Camp is a mentorship program where tech guys can level up their social game.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Onchain Raffle",
+    "slug": "onchain-raffle-pmgqb",
+    "description": "A raffle type game using ERC721 and ERC20 enabling a unique economic mechanism.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpinionSwap",
+    "slug": "opinionswap-7i953",
+    "description": "🔮 OpinionSwap: Unleash the wisdom of the crowd! 🌍 Predict, bet, and earn on the hottest topics using USDC. 💰 Powered by Base, Optimism, and Mantle. 🌐 Shape the future with every opinion! 📈 #OpinionTrading #Futarchy",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "biwnb",
+      "f8ku2",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "zkenergycrowdfund",
+    "slug": "zkenergycrowdfund-evb84",
+    "description": "A crowdfunding contract for green energy project, with zk to verify sensitive credentials of the project",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "h24ko"
+    ]
+  },
+  {
+    "name": "Zeke",
+    "slug": "zeke-xarwm",
+    "description": "Zeke is the first zero knowledge powered Paypal on/off ramp with Telegram native integration & Account Abstraction for a seemless UX",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "bk5qx",
+      "h24ko",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Vanderlinde",
+    "slug": "vanderlinde-bwgz6",
+    "description": "Vanderlinde is your gateway to onboarding web2 people onto web3.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "Engoggle",
+    "slug": "engoggle-e7pbe",
+    "description": "Spread a little joy and whimsy, make sure you slip slop slap while you're casting by automatically slapping on some noggles to your Farcaster PFP",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Equinet Sydney 2024",
+    "slug": "equinet-sydney-2024-kj5h3",
+    "description": "Combine Real World Asset Ownership with WorldCoin Attestations",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Noun Garden",
+    "slug": "noun-garden-ym4jn",
+    "description": "A virtual garden to take a minute to slow down and catch your breath from the fast pace of web3",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RedEnvelope",
+    "slug": "redenvelope-uc25t",
+    "description": "Onchain chinese culture red envelope that wraps tokens as gift for a selected group of people to redeem",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "BondiDao",
+    "slug": "bondidao-w157h",
+    "description": "A Task List / Crowdfunding Solution on the Blockchain compatible with Australian Law",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Portal",
+    "slug": "portal-1scyx",
+    "description": "The gateway to any token. Instantly purchase or bridge to your favourite token on any chain in one click.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeElection Project",
+    "slug": "deelection-project-498r0",
+    "description": "#Decentralized election system with real-time results! Users can vote for candidates and view election outcomes instantly. Built using blockchain technology for transparency and security. #Web3",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cache Coherence",
+    "slug": "cache-coherence-1nq6z",
+    "description": "Extention of Account Abstract Smart Wallet Using CCIP And World Coin To Recover Lost Keys",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "h5ps8",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "FitWifFrens",
+    "slug": "fitwiffrens-2zo8n",
+    "description": "FitWifFrens,  is a commitment device to encourage frens to stay fit or commit to a trackable task together.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "TipsyTap",
+    "slug": "tipsytap-ix6d1",
+    "description": "TipsyTap lets users tip Web3 hosts/venues with any memecoin on BASE. The total tips received act as a reputation score, incentivizing great service. Hosts/venues can withdraw received memecoins, combining fun meme assets with a reputation system for engaging Web3 experiences.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "pottery",
+    "slug": "pottery-tz6d0",
+    "description": "Pottery is a DeFi protocol that utilises Pendle in order to make a lossless on-chain lottery",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "zkFlex",
+    "slug": "zkflex-4vuyp",
+    "description": "This project aims to provably verify assets that users claim to have without revealing their Ethereum addresses, thus enhancing privacy and security in digital asset verification.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "h24ko",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "ZK Oracle Network",
+    "slug": "zk-oracle-network-6rnv1",
+    "description": "Introducing ZK Oracle Network, a revolutionary blockchain-based solution that leverages Zero Knowledge Proofs (ZKP) to securely and efficiently validate external data inputs for decentralized applications in a free and permissionless manner",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ADGI",
+    "slug": "adgi-y9xr3",
+    "description": "Incubated by Durian DAO, Artificial DeGenerate Intelligence is an AI assistant on Telegram that streamlines the process of generating, refining, and posting proposals for DAOs.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RIP-7212 Onboarding",
+    "slug": "rip-7212-onboarding-zubi9",
+    "description": "Using Coinbase Smart Wallet, I created an onboarding demo where users do not need to install any extension, store any seed phrases, or pay any gas fees while maintaining a top level of security of their wallet's private key using a combination of RIP-7212 and EIP-4337.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Airdroppify",
+    "slug": "airdroppify-5p8nw",
+    "description": "Honest airdrops as a service - stop Sybils and bad actors from ruining new protocol launches!",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "FairRaffle",
+    "slug": "fairraffle-ddt22",
+    "description": "A Raffle contract that uses World ID On-Chain Integration. It allow every person to participate in the raffle for only once.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Privacy Avengers",
+    "slug": "privacy-avengers-9yc3i",
+    "description": "We developed a protocol for verifiable machine unlearning, solving AI privacy issues by securely and efficiently detecting and removing user data. Through backdoor attacks and rigorous validation with hypothesis testing and zero-knowledge proofs, transparency is ensured.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Wooblay",
+    "slug": "wooblay-gygv3",
+    "description": "DAO Creation, development and management platform. Build a DAO with our no code tool, develop it with our on-chain contribution tracking and governance,",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Relief Link",
+    "slug": "relief-link-mbfmy",
+    "description": "\"Sign up to instantly receive aid post-disaster—fully automated through Chainlink Oracles. With Worldcoin and Unlimit enhancing security and simplifying onboarding, quickly fund insurance or access humanitarian aid via wearable NFC technology.\"",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Decentral Domination",
+    "slug": "decentral-domination-b6bws",
+    "description": "Embark on a conquest for global supremacy in Decentral Dominations! Strategize, execute and reign supreme in this Ethereum-based strategy game. #DAO #Ethereum. ⚔️🌏",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Based Accounts",
+    "slug": "based-accounts-hbet5",
+    "description": "Intent based account abstraction. The project implements generic intent plugins for user controlled accounts",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Halo2-merkle",
+    "slug": "halo2-merkle-ocv5k",
+    "description": "This repo is a attempt(NOT COMPLETE) to create a merkle tree proof and verifier using Halo2. Th commitment scheme uses KZG instead of halo2's IPA",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Freema",
+    "slug": "freema-x0nf0",
+    "description": "Freema is a crypto-enabled C2C marketplace operating on Telegram, leveraging chatGPT and Account Abstraction to enhance user experience.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Rebalancor",
+    "slug": "rebalancor-f6pgy",
+    "description": "Automated and decentralized portfolio rebalancing for retail investors based on predefined criteria. Set up a pool with assets, weight bands, and rebalancing cadence, and let Rebalancor handle the rest.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "FiatX",
+    "slug": "fiatx-drggu",
+    "description": "FiatX is an unstoppable onchain fiat on/off-ramp P2P protocol with decentralized adjudication.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "h24ko"
+    ]
+  },
+  {
+    "name": "DeCentralScribe",
+    "slug": "decentralscribe-j0mx9",
+    "description": "DeCentralScribe : Where every story is an asset, and every contribution is cherished 🖊️",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Gohan Layer",
+    "slug": "gohan-layer-ffnsd",
+    "description": "Gohan-Layer is a proof generate reward system. It integrate with DA and ZKP to provides all chain liquidity.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bk5qx",
+      "910t9"
+    ]
+  },
+  {
+    "name": "AlibudaHabitBuilder",
+    "slug": "alibudahabitbuilder-ojo7t",
+    "description": "Start a new habit with our challenge. Commit by staking and maintaining the habit to succeed. If you fail, half of your stake is used to support public goods, while the other half rewards consistent participants.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "biwnb",
+      "e3t1p",
+      "h5ps8",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Agent of W.A.L.L.E.T",
+    "slug": "agent-of-w-a-l-l-e-t-h2bre",
+    "description": "Introducing a Web3 wallet with AI capabilities designed for newcomers. Our AI agents simplify the complexities of Web3, making it accessible and user-friendly for new users.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Smartvest",
+    "slug": "smartvest-3p080",
+    "description": "Smartvest is a crypto investment research platform which leverages AI technology to help crypto investors new or seasoned better navigate the complex world of cryptocurrencies.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ConneKt",
+    "slug": "connekt-6y5hh",
+    "description": "Make real connections, win cool stuff!  ConneKt rewards you for meeting people with unique NFT avatars & raffles. Build a better world together! (278 characters)",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "jzpj5",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "True Reach",
+    "slug": "true-reach-0b2mv",
+    "description": "Proof of personhood ID check and payments off-ramp using MetaMask and Unlimit Crypto",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "refX",
+    "slug": "refx-8hyxg",
+    "description": "Unlock Trust: where employment reference checks meet blockchain. Your Ultimate Solution for Reference Checks!",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "WeatherBetter",
+    "slug": "weatherbetter-qb57w",
+    "description": "a funny, nounish weather betting product to save your mood! It allows users to bet on the weather of a specific place and date by utilizing the technology of Worldcoin, Base, Chainlink, Unlimit andNounsDao",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "biwnb",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Learnr Idle Mining",
+    "slug": "learnr-idle-mining-7pscw",
+    "description": "Introducing \"NFT Reinforcement Learning Adventure\"! Unlike Pokémon, our NFT characters are autonomous, evolving with each move. Join us in revolutionizing gaming and NFTs!",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1assb",
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "HoverChain",
+    "slug": "hoverchain-eqxpi",
+    "description": "HoverChain is your window into Ethereum.  Simply select an address, choose a chain, and dive into the data without ever opening a new tab.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "e3t1p",
+      "jzpj5",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Free the Aid",
+    "slug": "free-the-aid-etztn",
+    "description": "Free the people from dictators and warlords. Give them direct transparent access to humanitarian aid.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Roman Kyoto",
+    "slug": "roman-kyoto-s3uio",
+    "description": "a MASP (multi asset shielded pool) that allows for users to deposit and transfer ERC20s privately",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "h24ko",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PayWizard",
+    "slug": "paywizard-59jqu",
+    "description": "Empowering Just-in-Time Payments for Gas-Dependent Smart Contract based systems",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BackorFade",
+    "slug": "backorfade-pg8eb",
+    "description": "Perpeptual DEX with the Underlying being Sports Teams.  We enable fans to hodl their favourite teams, in the good times, and the bad.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossLink",
+    "slug": "crosslink-owxsp",
+    "description": "Cross Link harnesses Chainlink CCIP for seamless cross-chain USDC transfers between Fuji and Sepolia networks, enhancing blockchain interoperability.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Restake//Regen",
+    "slug": "restake-regen-qjvz4",
+    "description": "An Eigenlayer AVS public good that allows Ethereum validators to pledge their commitment to offset a fraction of the network's carbon emissions by pledging to purchase and retire high-quality carbon credits",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "IMF",
+    "slug": "imf-cu60x",
+    "description": "Deposit memecoins to mint up to 50% of LTV as $CMDC stablecoin (Central Meme Digital Currency). Pair $CMDC with a memecoin and provide liquidity to earn the governance token $IMF (International Meme Fund).",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SigOps",
+    "slug": "sigops-7j3ur",
+    "description": "Basic Schnorr Signing coordination between two signers on {EVM chain} that moves assets from a 4337 account on {Base} using a Paymaster",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GimmeMyBloodyMoney!",
+    "slug": "gimmemybloodymoney-vi6xx",
+    "description": "This project creates a straightforward way of requesting money. Users can generate a link, which others can click to directly sign the correct transaction.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "e3t1p",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Real World Ag Assets",
+    "slug": "real-world-ag-assets-iwf98",
+    "description": "Farmers in the Global South are Stuck in Poverty. Token Gated Access for Private Real World Agriculture Asset",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "SlickCI",
+    "slug": "slickci-h5a0y",
+    "description": "One click deployment of CI/CD workflows on to decentralised cloud infrastructure. Deploy on cheaper, permissionless and decentralised cloud instead of on AWS/GCP",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "biwnb",
+      "1assb",
+      "y9b9g"
+    ]
+  },
+  {
+    "name": "0xPoll",
+    "slug": "0xpoll-4j05w",
+    "description": "one citizen per vote platform allowing citizens to vote on legislation in Federal Parliament for gathering consensus and affecting political change",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "h24ko",
+      "h5ps8",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "AdVisto",
+    "slug": "advisto-6ivcp",
+    "description": "AdVisto redefines advertising: earn rewards via engagement. Our white-label API suite lets businesses integrate user-centric ad models, enhancing loyalty. Discover products, earn crypto, and bridge Web2 with Web3 using our transparent, blockchain-powered solutions.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "hivework",
+    "slug": "hivework-3sfab",
+    "description": "Today’s freelance platforms such as Upwork are becoming riddled with bots.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ChargeMateNouns 46",
+    "slug": "chargematenouns-46-413m8",
+    "description": "ChargeMateNouns 46 is a community to Reward for Eco-Friendly Driving",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Worldcoin Metaverse",
+    "slug": "worldcoin-metaverse-7tnkp",
+    "description": "The project simplifies complexity for users through 3D experiences, offering integrated web assets, non-text-based internet navigation, and visually engaging explanations of concepts like blockchain.",
+    "event": "ETHGlobal Sydney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

@@ -1,0 +1,1098 @@
+[
+  {
+    "name": "StudentDesk",
+    "slug": "studentdesk-z1yeo",
+    "description": "Open education network to learn, teach and connect with fellow students of life.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Teacher Bai's Friend XBTube",
+    "slug": "teacher-bais-friend-xbtube-ehjze",
+    "description": "XBTube is a decentralized video sharing platform on blockchain, thanks Teacher Bai's Friend ecosystem release this new product.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthAddress",
+    "slug": "ethaddress-ppf41",
+    "description": "This project helps in generating Ethereum accounts and signing transactions in Javascript",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BeetFarm",
+    "slug": "beetfarm-dhxvk",
+    "description": "A social media music platform for record producers to truly monetize from their content creation.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "martiann",
+    "slug": "martiann-n7sfs",
+    "description": "decentralized pseudo-anonymous browser-based user and content recommendation(Youtube, Spotify, Twitter, medium, Reddit) with the click of a button on chrome extension upon submitting your browsing history using a model with privacy-focused.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Social",
+    "slug": "social-29zy1",
+    "description": "Social is a playground for testing Lens Protocol and LIT protocol",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aura Reputation",
+    "slug": "aura-reputation-unp5v",
+    "description": "A new reference module that only allows commenting on a post if the owner of the profile nft has enough on chain reputation",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "papyrus",
+    "slug": "papyrus-9ofu6",
+    "description": "---------------------------------------------- substack for crypto natives ----------------------------------------------",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buildster",
+    "slug": "buildster-6tezk",
+    "description": "The Buildster is a venue for Web 3.0 builders, leaders, and individuals to customize their pages and promote their talents, abilities, NFT's, and things they've produced in both the Web 2.0 and Web 3.0 spaces.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Profile Verifier",
+    "slug": "profile-verifier-hxxg3",
+    "description": "Profile verifier will verify your social account using ENS Domain Name.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoCredly",
+    "slug": "cryptocredly-nga14",
+    "description": "A decentralized dapp for professional credentialing to help devs verify their skills in a competitive tech market.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "thetravelneko",
+    "slug": "thetravelneko-dupt4",
+    "description": "Travel hub dapp with decompasable blocks to making travelling easier and cheaper",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "NFT Game Machine",
+    "slug": "nft-game-machine-qfu59",
+    "description": "NFT Game machine as the name suggests is a prototype for a tool where any web 2.0 game can be converted into web 3.0 game",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Twitter  DAO -->  GLOBAL GOVERNMENT",
+    "slug": "twitter-dao-global-government-02sm2",
+    "description": "Twitter forked by a common individual to turn it into  an open DAO for all the humankind--> that belongs to all the planetary citizens of the world. Allowing 8 Billion people to  vote officially by twitter.  To lead the world together being responsibly with ownership of our DATA.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Detok",
+    "slug": "detok-5kkwr",
+    "description": "DeTOK is a decentralized media consumption social media application in lens protocol with secure on-device emotional recognition system in which your private recommendation list is encrypted using lit protocol.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mame",
+    "slug": "mame-i7chz",
+    "description": "Mame is web3 social network application  that creates memes NFT.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jobstars",
+    "slug": "jobstars-as5b9",
+    "description": "Jobstar is a the job track record built on lens. Employers can certify the work of their freelancers & employees. Workers can display attractive and reliable CV-on-chain and gain visibility.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LetsDate",
+    "slug": "letsdate-dg6oo",
+    "description": "A Decentralized Dating App for community works on native DATE Token",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lenster",
+    "slug": "lenster-c6ffv",
+    "description": "Lenster is a open-source composable, decentralized, and permissionless social media web app built with Lens Protocol 🌿",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "GiveDAO",
+    "slug": "givedao-6baxw",
+    "description": "GiveDAO is a blockchain community-driven cross-chain open protocol for the public good industry that innovates a new blockchain-based tokenomics ecosystem for charitable organizations to be more cost-efficient, transparent, and accountable in their daily operations.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LensBook",
+    "slug": "lensbook-9w7r5",
+    "description": "Book club in a book as NFTs powered by Lens, Lit, and Polygon 📚 ⛓",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Share Swap Loto",
+    "slug": "share-swap-loto-8u4wz",
+    "description": "The Share Swap Loto project is social dapp designed to gamify crypto sharing",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FixedCurrencyFeeFollowModule",
+    "slug": "fixedcurrencyfeefollowmodule-05pk9",
+    "description": "This is a follow module that allows the followers to pay fee in any currency. Then the amount paid is being exchanged to the currency specified by the profile owner through uniswap and sent to the profile owner.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Plethora",
+    "slug": "plethora-26ip0",
+    "description": "Plethora is a decentralized streaming platform for game shows. Learn fun facts and earn points by participating in events that can be hosted by anyone.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ainsley Report",
+    "slug": "ainsley-report-qaa9p",
+    "description": "The Ainsley Report is a data analysis dashboard reporting key metrics of Lens Protocol adoption and usage. This is meant to be the go-to place to gauge the health of the network.",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Comseed",
+    "slug": "comseed-f5mxc",
+    "description": "Community owned profile website that fosters sharing of knowledge",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyFounders",
+    "slug": "onlyfounders-7yi00",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LfGrowBOT",
+    "slug": "lfgrowbot-7yb6d",
+    "description": "LFGrowBOT is a Discord BOT to query LENS PROTOCOL trying to onboard users using the API in a simple way.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaStories",
+    "slug": "metastories-rz65c",
+    "description": "Users can create and/or curate content. 360 video content that is. Experience a social WebVR metaverse built on top of lens protocol.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "wigleef",
+    "slug": "wigleef-vz6sf",
+    "description": "full feature front-end social network 'twitter-like' leveraging lens protocol capabilities",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "strike",
+    "slug": "strike-cchne",
+    "description": "A social media dApp built on Lens Protocol, leveraging social graphs",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Summit C (Lens => Events => Team)",
+    "slug": "summit-c-lens-events-team-naf06",
+    "description": "Using Lens Protocol to create a web3 social media platform for event creators, video streamers, and summit attendees @leelakrishnan @fifestarr thanks  @davidesilverman for his feedback",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CyberMatrix",
+    "slug": "cybermatrix-51gcj",
+    "description": "A web 3 social platform based on Lens protocol with features like post, comment, mirror",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MusicShare",
+    "slug": "musicshare-r14ou",
+    "description": "Its NFT based music app where the indie artists can mint and sell their songs as NFT.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaLens",
+    "slug": "metalens-1h9z3",
+    "description": "Explore exiting content in Lens Protocol Metaverse using MetaLens",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "nextsocial",
+    "slug": "nextsocial-8cb79",
+    "description": "Discover, research, and social NFTs, Basically, You can all NFTs and publication data in one place.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xplore",
+    "slug": "0xplore-7kwd7",
+    "description": "0xplore is a social graph build on top of lens protocol and polygon; air drops, token sales, NFT minting and many other cool features all as a part of the post!!",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sessions",
+    "slug": "sessions-b06rw",
+    "description": "Book 1:1 sessions with anyone from anywhere for anything - ride the megatrend of the great wave of digital globalization",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OfficeChain",
+    "slug": "officechain-3c8qi",
+    "description": "Manage your company as a social graph on a blockchain and Interoperate at Global Scale.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flower Basket",
+    "slug": "flower-basket-v59u1",
+    "description": "Pick the beauty from the garden and put it in the flower basket- for storing and sharing users' knowledge system.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polyreel",
+    "slug": "polyreel-ue73c",
+    "description": "A front end app, to interact with the Len's Protocol API and other apps built with the Len's Protocol",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Veli-and-Amos",
+    "slug": "veli-and-amos-8ixz0",
+    "description": "Video streaming Dapp - Livepeer API- https://jwp.io/s/u1hoKVHR",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ecommerce Reinvented",
+    "slug": "ecommerce-reinvented-5k988",
+    "description": "Reinventing Ecommerce based on decentralized social infrastructure",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Crystal Video App",
+    "slug": "crystal-video-app-g184b",
+    "description": "Crystal Social App is an app for video creators who want to be the owners of their content and get paid for it. Crystal as its name is transparent, totally descentralized and non-custodial platform, data is stored in the blockchain using Lens Protocol and LivePeer.",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Patio",
+    "slug": "patio-zk3dy",
+    "description": "A place to relax enjoy and engage with virtual garden. Lens protocol (https://lens.dev/) browser.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hyper Coin",
+    "slug": "hyper-coin-fvgaw",
+    "description": "Hyper Coin is a ERC20 coin features hyperinflation, robbing, hacking using the Lens and Chainlink protocols",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Regenerative Lens",
+    "slug": "regenerative-lens-z171e",
+    "description": "Enable Lens Protocol to create a social network with positive climate impact and gamified system",
+    "event": "LFGrow",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "my3b7",
+      "vxwti",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "0xRig",
+    "slug": "0xrig-vyctz",
+    "description": "A free virtual crypto phone. Download 0xrig and spin a new Crypto Phone to talk with your Peers on LENS.",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Gliss",
+    "slug": "gliss-xfrit",
+    "description": "An attention-mechanised social feed, where influence is money and memes are liquidity",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TW3TTER",
+    "slug": "tw3tter-55i3m",
+    "description": "This will be aTwitter clone converted to web3 using various protocols.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpeakOut",
+    "slug": "speakout-vgy78",
+    "description": "SpeakOut is a web3 social media platform where users can connect and share their experiences",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "PetLife 🐾",
+    "slug": "petlife-106sh",
+    "description": "PetLife is a decentralized version of the Instagram platform",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Arcadrex",
+    "slug": "arcadrex-1w3tw",
+    "description": "Arcadrex is a method of displaying an Ethereum address as two roughly equal lines of text, each line an arc that intersects with the other, such that a 6-digit prefix of the address string and a 6-digit suffix of the address string appear adjacent to one another.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Iris",
+    "slug": "iris-bnw7a",
+    "description": "Iris, messenger of the gods. Twitter x Patreon x Twitch x TikTok, built on Lens",
+    "event": "LFGrow",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "qy8m3",
+      "mdb6w",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PrivateAI",
+    "slug": "privateai-0p5oj",
+    "description": "This project empowers social platform dApp with powerful AI algorithms and guaranteed privacy.",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Chatting dapp",
+    "slug": "chatting-dapp-d29pq",
+    "description": "This is a chatting app where, You can talk to any random person and share your feelings.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "onestack",
+    "slug": "onestack-q1umi",
+    "description": "A decentralized social platform for web3 developers to connect and help each other grow through questions and answers.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Collekt",
+    "slug": "collekt-a1bn7",
+    "description": "A decentralized social network built around on-chain community voting.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LensTube",
+    "slug": "lenstube-82rue",
+    "description": "LensTube is a decentralized video sharing platform built using Lens Protocol and Livepeer",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "VidGrow",
+    "slug": "vidgrow-me5pi",
+    "description": "A developer's hub dedicated to short video submission and live streaming.",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Soclly",
+    "slug": "soclly-yg7ay",
+    "description": "Soclly : a decentralized dapp which streamlines user experience to create the next gen decentralized social media powered by Lens Protocol",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "streamx",
+    "slug": "streamx-8d0dq",
+    "description": "Decentralized live streaming app built on top of lens protocol and livepeer",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Public Square",
+    "slug": "public-square-oprd9",
+    "description": "A online place where Artists, Engineers and Thinkers can join in and create a better world.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Resum3",
+    "slug": "resum3-9383z",
+    "description": "Resume3 is a web3 resume of its own and based on lens protocol.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Owleee",
+    "slug": "owleee-tprkk",
+    "description": "The Decentralised way to connect and look back on moments and forever...",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Overlens",
+    "slug": "overlens-bcbt9",
+    "description": "Personal lens dispatcher with relay and allow list off-chain",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Loop",
+    "slug": "loop-8pwz7",
+    "description": "Loop - A social platform dApp  for music Artists to connect with their fans.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Write Together",
+    "slug": "write-together-urtpp",
+    "description": "Write the next part of other people's stories or start your own story and see how others continue it",
+    "event": "LFGrow",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "vxwti",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "LFGrow Test Project",
+    "slug": "lfgrow-test-project-o1vhj",
+    "description": "(03)-- this is test data for the ETHGlobal Team, please ignore ---- this is test data for the ETHGlobal Team, please ignore --",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentraScholar",
+    "slug": "decentrascholar-6hxa9",
+    "description": "A System that can incentivize Researchers and    make collaboration easier",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Super Cool Streaming Room",
+    "slug": "super-cool-streaming-room-uopz6",
+    "description": "Super Cool Streaming Room - web3 TV where you own your media content",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Avid",
+    "slug": "avid-s1i4j",
+    "description": "A web3 social media platform with creator monetization and live stream capabilities",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Lens Collect Auctions",
+    "slug": "lens-collect-auctions-5xps5",
+    "description": "Run Dutch (decreasing) & English (increasing bids) auctions for collecting Lens posts",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Sup",
+    "slug": "sup-gwqhe",
+    "description": "Sup (short for whatsup)  is a social media dApp based on the lens protocol. Sup operates on the model of using NFTs as a medium to join communities and access existing communities based on existing NFT collections. Plan to be THE social media dApp for both NFT creators and buyers",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Screen",
+    "slug": "screen-wpgc8",
+    "description": "A decentralized add referral system for content creators, where ad revenue is paid directly to the creators and the followers they have.",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Lens Mandala",
+    "slug": "lens-mandala-t9jkr",
+    "description": "Gradual growth of flowers based on NFT and Lens information can make it easier to see how the community is thriving and how people are connected",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "my3b7"
+    ]
+  },
+  {
+    "name": "The Mango Jelly @ LFGrow",
+    "slug": "the-mango-jelly-lfgrow-rbjgg",
+    "description": "Monetization & discovery platform for content creators with a Marketplace for content NFTs",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polydogs Network",
+    "slug": "polydogs-network-axkz9",
+    "description": "A decentralized social network to connect dog breeders/owners/lovers, allow exchange information, help find shelter and food to abandoned dogs, create a safe place to dog breeders do business and more...",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Fungibles",
+    "slug": "fungibles-iinnk",
+    "description": "Fungibles is decentralised 3D NFT Short video content site.  Convert You boring 2D NFT to 3D tiktok videos and share it.",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Fanteract",
+    "slug": "fanteract-adhd6",
+    "description": "A sports NFT / Physical Collectibles Marketplace & Social media platform! A curated platform for all fans to collect and trade their collectibles. Also interact & engage with eachother & their fav athletes/ influencers in a fully immersive video application.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dececode",
+    "slug": "dececode-ky3r5",
+    "description": "Dececode is the first web3 social network based on the lens protocol addressed to \"code-lovers\"",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MemeDAO",
+    "slug": "memedao-jzss6",
+    "description": "How can DAO members collectively manage the DAO's social presence using lens protocol? While anyone can see the DAO's public account, only the gov token holders can see, create or upvote content of the private one. Then, the winning content is auto-mirrored by the public account.",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "LensRaffle",
+    "slug": "lensraffle-0o5bv",
+    "description": "Giveaway module for the lens protocol. Easily give some matic to a truly random follower of a profile. Use it for any dapp built on lens.",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Sepana Lens Search",
+    "slug": "sepana-lens-search-s2e13",
+    "description": "Search and discovery engine for the Lens protocol (including an open API to embed search within other Lens dapps).",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "lens-profile",
+    "slug": "lens-profile-o0ebj",
+    "description": "Take ownership of You with a Web3 Decentralized Identity on Lens Profile",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Karma",
+    "slug": "karma-hm2ms",
+    "description": "A community DApp where helpers earn karma points by donating pantries, cloths and other things that the giver don't use and post their interactions/updates for transparency.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "lenscan",
+    "slug": "lenscan-ejodj",
+    "description": "An etherscan for lens & a LIT DAO toolkit. The toolkit allows encrypted data sharing between DApp and DAO",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agora",
+    "slug": "agora-2bkgq",
+    "description": "Decentralized embeddable comment application , Owners of the websites can be able to crawl their website content and submit publications  as NFT.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BatConnect",
+    "slug": "batconnect-s83ed",
+    "description": "Onboard Twitter users on lens by transferring there twitter data to their lens profile",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "MANADA",
+    "slug": "manada-g0vo3",
+    "description": "Manada is a upcoming decentralized social network designed in a way to empower makeup artists and wig stylists to own the link between themselves and their communities!",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Metacomics",
+    "slug": "metacomics-0dw1q",
+    "description": "Decentralized comics creation platform, where users can create their comics/stories with famous NFT Celebrities, like BoredApe. Сreate your own comics with famous actors!",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Lenstify",
+    "slug": "lenstify-o736h",
+    "description": "Lenstify is a front-end for Lens with a great interface and many features.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Simple Blog using Lens",
+    "slug": "simple-blog-using-lens-3p8jg",
+    "description": "A simple blog Dapp using Lens Protocol API where user can create profile and see posts",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LitChat (This Chat Is Lit)",
+    "slug": "litchat-this-chat-is-lit-atx0n",
+    "description": "Private Chat via Lit/Ceramic, with Read Receipt and Unsend - Extensible to Lens Protocol",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "96pd9"
+    ]
+  },
+  {
+    "name": "Paired01",
+    "slug": "paired01-ukza0",
+    "description": "Paired01: Platform to connect with lens profiles on the basis of POAPs and communicate over huddle01.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mad.finance",
+    "slug": "mad-finance-nqgaf",
+    "description": "A Lens Reference Module that enables real-time monetization of your content.",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Home3",
+    "slug": "home3-8mopk",
+    "description": "Home3 is your start page to web3, a place where you can manage your profiles and the content you consume",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Curator",
+    "slug": "nft-curator-9d94r",
+    "description": "NFT Curator: It is a promotional tool that helps  advertisers to  airdrop  their NFTs in a new way based on Lens Protocol and Polygon technology.",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Artemis",
+    "slug": "artemis-grup2",
+    "description": "Incentivize current lens users to bring more people to the platform",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Punk3",
+    "slug": "punk3-pfdok",
+    "description": "Building the next generation web3 social blogging network for crypto-punks with NFTs.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lens DAOscourse",
+    "slug": "lens-daoscourse-g2x07",
+    "description": "We have built a DAO governance platform (Discourse-like) on top of the Lens protocol.",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "researchReadings",
+    "slug": "researchreadings-ji14i",
+    "description": "[incomplete], ended up just being readings and research,  not a working project this time :( maybe enough focus time next round",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buonfire",
+    "slug": "buonfire-usamg",
+    "description": "A version of Discord using data stored on-chain using the Lens protocol.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyApes",
+    "slug": "onlyapes-nnkh8",
+    "description": "Fan club feedback based on token ownership using Lens Protocol",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Metagram",
+    "slug": "metagram-8bzuu",
+    "description": "A social community built for the purpose of driving content engagement/interaction and content monetisation with NFT technology",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kontext",
+    "slug": "kontext-a9c6g",
+    "description": "Surfacing token sentiment, by tokenizing curated web2 reputation",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PRNTS",
+    "slug": "prnts-ofsq6",
+    "description": "Decentralization hub for artists where fans can invest and manage an artist's projectsUnfortunately a few members dropped out midway through the project.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "b.trax",
+    "slug": "b-trax-mi7o7",
+    "description": "The marketplace that keeps track of your beats, connecting music producers and musicians",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "VMatch",
+    "slug": "vmatch-xsncu",
+    "description": "Vmatch a new experience in online dating. Vmatch a new experience in online dating.",
+    "event": "LFGrow",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "vxwti",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "dPatreon",
+    "slug": "dpatreon-g2aak",
+    "description": "A Patreon clone utilizing the Lens Protocol. Let's users follow a user by purchasing an NFT.",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "socialize",
+    "slug": "socialize-h4shm",
+    "description": "Socialize is a platform for you to meet like minded folks and explore the unexplored!",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "People's",
+    "slug": "peoples-9cmwz",
+    "description": "Project People's - Decentralised Social Media Platform that Connects People from Web 2.0 and Web 3.0",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hackerverse - (Finding) the best LENS Project",
+    "slug": "hackerverse-finding-the-best-lens-project-snquf",
+    "description": "With Hackerverse we built the first Hackathon evaluation utilising the LENS. With escrows, public voting and claiming of prices we make the first step toward a professional network for Web3.",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "\"Open, web3 Tiktok/Instagram\"",
+    "slug": "open-web3-tiktok-instagram-noyvi",
+    "description": "\"web3 Tiktok/Instagram\" - Open, web3 Social Video & Creator Platform",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zilly",
+    "slug": "zilly-b3y8b",
+    "description": "A web3 profile explorer to connect people and communities. Build your network. Show your value. Leverage your connections.",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "MetaLens",
+    "slug": "metalens-78gi2",
+    "description": "A content sharing platform using the Lens Protocol, protected by Ceramic.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solarpunks",
+    "slug": "solarpunks-86vjx",
+    "description": "Decentralized Social Network for Punk Cities based on Lens Protocol",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Qsocial",
+    "slug": "qsocial-a08q0",
+    "description": "Qsocial is a social media dapp for short form  videos using LivePeer and Polygon",
+    "event": "LFGrow",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Specto",
+    "slug": "specto-9sog0",
+    "description": "Specto aims to decentralize the NFT collection away from using Opensea as the source of truth allowing NFT holders to regain control over their collection information.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agora Square",
+    "slug": "agora-square-e5ice",
+    "description": "Web3 Social Platform for Communities providing infrastructure for DAOs and Discourses",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hashchat",
+    "slug": "hashchat-t2hhd",
+    "description": "Hashchat -- wallet-to-wallet / wallet-to-ProfileNFT encrypted messaging",
+    "event": "LFGrow",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Patreeon",
+    "slug": "patreeon-uwz42",
+    "description": "Adding realtime payments to Lens using Superfluid opening Lens to new use cases like being used as a Web3 Patreon or Spotify :D",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "beoble",
+    "slug": "beoble-rq9va",
+    "description": "beoble is a Social Module with API and SDK for Web 3.0, which helps other Web 3.0 services to build social features in just 5 minutes.",
+    "event": "LFGrow",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

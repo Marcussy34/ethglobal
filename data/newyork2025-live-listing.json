@@ -1,0 +1,2516 @@
+[
+  {
+    "name": "Deploy buddy",
+    "slug": "deploy-buddy-qr8ws",
+    "description": "Dev tooling to make chainlink services a breeze for developers",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pagar",
+    "slug": "pagar-i28vt",
+    "description": "Paypal venmo on-chain, a registry smart contract to map aliases to wallet addresses",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cabal Chat",
+    "slug": "cabal-chat-vr9r3",
+    "description": "Social trading groups on XMTP: Create Cabals, execute swaps via chat & compete on PnL leaderboards",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flare Flow",
+    "slug": "flare-flow-qumiv",
+    "description": "onchain llm proxy with automated bill pay we used flare to get proxy data on chain and charge!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "XMBL Stor and Comp",
+    "slug": "xmbl-stor-and-comp-wjy3y",
+    "description": "XMBL P2P Storage and Compute Network - Powering the XMBL Blockchain",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NeuroSwap",
+    "slug": "neuroswap-77jmd",
+    "description": "NeuroSwap is a decentralized liquidity and execution layer engineered for trading.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phaser",
+    "slug": "phaser-059ee",
+    "description": "Simple web3 dungeon game using Dynamic, PayPal and Opensea MCP.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Naughty Agents",
+    "slug": "naughty-agents-oyfn2",
+    "description": "web-of-trust reviewers blacklisting computer-controlling AI agents",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MemoryNft",
+    "slug": "memorynft-se4yr",
+    "description": "Dynamic ERC-6551 MemoryNFTs that evolve and show live updates",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpSwap on Unichain",
+    "slug": "opswap-on-unichain-uwqen",
+    "description": "Options Protocol based JIT Pools on Uniswap via V4 Hooks in Swaps",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "OpenCredentials",
+    "slug": "opencredentials-cmk72",
+    "description": "OpenCredentials Access uses credentials to gate access to data",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "SmoothSwap",
+    "slug": "smoothswap-3qmax",
+    "description": "The smoothest way to swap. DCA into assets on Base your own speed. | + walrus-powered vids on NS.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProofPlay",
+    "slug": "proofplay-kcxkk",
+    "description": "Blockchain poker app with real-time verifiably fair and secret shuffle and deal.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flow State",
+    "slug": "flow-state-z5de7",
+    "description": "Analytics on the places wallet users are from using the FLow Blockchain.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "DAO leaks",
+    "slug": "dao-leaks-20r5i",
+    "description": "Anonymous DAO messaging using ZK proofs to verify voting power while preserving identity.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reverif",
+    "slug": "reverif-26ojc",
+    "description": "Smart contract based receipt verification system on chain built for small inperson fiat transactions",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "snatch.xyz",
+    "slug": "snatch-xyz-p68rr",
+    "description": "Tokenize real items; borrower funds earn yield, lender keeps interest + depreciation.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FREE FLOW",
+    "slug": "free-flow-u3xg9",
+    "description": "Free Flow: A 2D multiplayer NYC world blending gaming, social fun & DeFi on Flow blockchain",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "EZ ENS Referrer",
+    "slug": "ez-ens-referrer-5wo5j",
+    "description": "EZ ENS Referrals allows for dynamic referral link sharing with ENS Metadata attributions",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentraModels",
+    "slug": "decentramodels-sb5ux",
+    "description": "Decentralized AI model marketplace using Walrus and Dynamic - ending arbitrary censorship of AI",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "stETHer",
+    "slug": "stether-b0moi",
+    "description": "Uniswap v4 hook implementing dynamic fees and proper rebasing token handling",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Hunganz",
+    "slug": "hunganz-cr7rz",
+    "description": "A NFT game around bananas and huganzzzzzz",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Block Bazaar",
+    "slug": "block-bazaar-dxnej",
+    "description": "A decentralized marketplace for on-chain stores, tokens, and products.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Schrödinger Rollups",
+    "slug": "schrodinger-rollups-zoxwf",
+    "description": "Schrodinger Rollups are forkable rollup contracts for ambiguous oracle states.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GrailFi",
+    "slug": "grailfi-5vniw",
+    "description": "GrailFi makes collectibles liquid by turning them into fractional, tradeable DeFi assets on Flow",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "ENS Expiration Alert",
+    "slug": "ens-expiration-alert-y8ynm",
+    "description": "Project Not Completed and Not Working. Service that notifies when user's ENS domains expire.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "crowdstake.fun",
+    "slug": "crowdstake-fun-qt9pi",
+    "description": "Crowdstaking into an interest-bearing engine to fund your group's shared goals.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "o599i"
+    ]
+  },
+  {
+    "name": "Developers_Dojo",
+    "slug": "developers-dojo-58do6",
+    "description": "Developers Dojo - Micro-freelance, settled on-chain, Decentralized Task Marketplace",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Chiliz Staking Vault",
+    "slug": "chiliz-staking-vault-23bf4",
+    "description": "staking vault that allows users to deposit Chiliz (CHZ) as collateral to borrow and staking",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Founil",
+    "slug": "founil-3popq",
+    "description": "Leverages Uniswap v4 Hooks to create a donation and reward mechanism.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MintCondition",
+    "slug": "mintcondition-8kqc4",
+    "description": "Multi-Agent-powered NFT valuations with transparent confidence",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pjq8a",
+      "e8ob5"
+    ]
+  },
+  {
+    "name": "ProfileMe",
+    "slug": "profileme-ok4fa",
+    "description": "ProfileMe: Web3 profiles with on-chain sound login and Fun AI.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omniagent",
+    "slug": "omniagent-mxsn4",
+    "description": "AI-powered cross-chain DAO governance and treasury optimization platform.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "biryani-blocks",
+    "slug": "biryani-blocks-5t2qu",
+    "description": "Biryani Blocks – AI agent for real-time wallet token insights.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossMeter",
+    "slug": "crossmeter-w9zay",
+    "description": "CrossMeter - Zero code billing infrastructure for web3 - Seriously.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xrzks",
+      "x3xey"
+    ]
+  },
+  {
+    "name": "NOVA - AI Copilot",
+    "slug": "nova-ai-copilot-pnjca",
+    "description": "NOVA is the AI Copilot that turns human intent into seamless, safe, one-click DeFi.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniPlanet",
+    "slug": "omniplanet-17z6b",
+    "description": "A pvp turn based space strategy fighter across multiple chains.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "KataBot",
+    "slug": "katabot-i7waq",
+    "description": "AI-powered MPC server for NFT, wallets, transfers, and analytics",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpz6h"
+    ]
+  },
+  {
+    "name": "Orphan",
+    "slug": "orphan-t7f88",
+    "description": "here brilliant ideas meet execution power through AI-driven matching and onchain monetization",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CredChain",
+    "slug": "credchain-rdzq3",
+    "description": "Referral-powered credit scores with on/off-chain data; rewards ripple through your network.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LaunchBase 🟦",
+    "slug": "launchbase-blue-square-8c270",
+    "description": "Frictionless crypto investing for beginners: choose risk, hybrid portfolios rebalance themselves",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "FairHold",
+    "slug": "fairhold-s66gc",
+    "description": "FairHold offers tap-to-pay vendor deposits that result in fewer disputes & optional yield.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "o599i"
+    ]
+  },
+  {
+    "name": "CREAM",
+    "slug": "cream-0oaip",
+    "description": "C.R.E.A.M turns project requirements into actionable steps for AI development tools",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainSpeed",
+    "slug": "chainspeed-mmv50",
+    "description": "TEE-secured speed tracking app that rewards safe driving and creates blockchain evidence for court",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "smartinvest.ai",
+    "slug": "smartinvest-ai-ef94t",
+    "description": "AI chatbot for NFT insights, ENS identities, and social links to make smarter decisions",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "RelAI",
+    "slug": "relai-bozvt",
+    "description": "Decentralized AI agent reputation registry with cross-chain sync & autonomous payments",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qiqkw"
+    ]
+  },
+  {
+    "name": "PayWiser",
+    "slug": "paywiser-i4i5r",
+    "description": "PayWiser is a next-generation payment platform that removes the friction of traditional transactions",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "x3xey",
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "compose",
+    "slug": "compose-18anb",
+    "description": "A community composed public dataset that describes projects across the entire blockchain industry",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "GasTab",
+    "slug": "gastab-1chsd",
+    "description": "Session-based gas payments for Web3. Open a tab, use any dApp, settle once with stablecoins.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eco Points",
+    "slug": "eco-points-axpo3",
+    "description": "EcoPoints is a gamified sustainability rewards platform that incentivizes eco-friendly actions",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crocodile",
+    "slug": "crocodile-jhhxh",
+    "description": "An interchain Supply Chain Management tool using Hyperlane, and AI agent.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Convexo Protocol",
+    "slug": "convexo-protocol-2yujy",
+    "description": "Institutional Digital treasury to manage frictionless the real world reserves of the future",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RaceFi",
+    "slug": "racefi-yit7r",
+    "description": "Bringing running on chain - one runner, one stake, one competition at a time",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SoulHub & Cat Phish",
+    "slug": "soulhub-and-cat-phish-evijf",
+    "description": "GitHub for AI Characters & Simple Game That Uses Those Characters",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "LoveFi",
+    "slug": "lovefi-bnox0",
+    "description": "Find love on-chain: from first match to marriage, all in one dating app",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "FanFuel",
+    "slug": "fanfuel-baqhf",
+    "description": "Transform fan reactions to sports commentary into direct revenue for your favorite athletes",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Catch me if you can",
+    "slug": "catch-me-if-you-can-g8xpx",
+    "description": "Protocol transforming legal loopholes into transparent, on-chain arbitrage opportunities.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EnshrineFinance",
+    "slug": "enshrinefinance-zx2c2",
+    "description": "Novel collateralization models with enshrined data oracles for RealWorldAssets",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "DegenGuard",
+    "slug": "degenguard-ddfw1",
+    "description": "Don’t get caught lackin: protect your crypto investments even when you’re not there w/ agents & CDP!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VoiceDoc",
+    "slug": "voicedoc-ayzev",
+    "description": "Health in your hands: AI consults, NFT records, and seamless USDC payments with VoiceDoc.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "x3xey"
+    ]
+  },
+  {
+    "name": "PolyPoll",
+    "slug": "polypoll-ftk3d",
+    "description": "Sentiment market for investing; Stake on speculative outcomes of community positions on any issue",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unisurance",
+    "slug": "unisurance-0xhno",
+    "description": "Protect your Liquidity Positions! Unisure's hook tracks Impermanent loss to provide insurance for LP",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ColdCache",
+    "slug": "coldcache-8gjre",
+    "description": "A decentralized video game store - without the steam, 100% perpetuity game ownership",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "AI Pump Fun",
+    "slug": "ai-pump-fun-qxnm5",
+    "description": "AI Pump is a defi game where users can speculate on out come of a game between agents.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BenTen",
+    "slug": "benten-tuwe0",
+    "description": "A decentralized exchange childhood memories: trade NFTs inspired by childhood memories",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cosmic-Capital",
+    "slug": "cosmic-capital-21as0",
+    "description": "Flow Testnet bank app for depositing and withdrawing FLOW using a Cadence smart contract.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Let's AI Dialog",
+    "slug": "lets-ai-dialog-9ptuy",
+    "description": "This is a Pokémon clone where a player and an AI chat about a wide variety of topics.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Domus",
+    "slug": "domus-67x1j",
+    "description": "Tokenize real-estate properties and rediscover fractional ownership & omnichain mobility with Domus!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "E2E TEE Verification",
+    "slug": "e2e-tee-verification-8ofyx",
+    "description": "[WIP] An end-to-end TEE verification flow for TDX and AWS Nitro secure enclaves",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PersistenceOfMemory",
+    "slug": "persistenceofmemory-9j1p0",
+    "description": "A blockchain app for backing up, organizing, and anchoring your digital memories on-chain forever.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "SecureDrop",
+    "slug": "securedrop-t2ri4",
+    "description": "A Ledger device minimal installer, designed to help people secure their assets",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Artera",
+    "slug": "artera-6697i",
+    "description": "Help artist find collectors and identify buyers aligned with their art style",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "e8ob5"
+    ]
+  },
+  {
+    "name": "Qweb",
+    "slug": "qweb-v55j7",
+    "description": "Search that gives back to the web. Websites shouldn’t just get crawled, they should get paid.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "Astra",
+    "slug": "astra-krdqm",
+    "description": "Astra : A decentralized data vault where you own your digital footprint & get paid for your data.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Defi Guardian",
+    "slug": "defi-guardian-223a5",
+    "description": "DeFi Guardian: Community-powered insurance that protects your crypto from hacks.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Real-World Access",
+    "slug": "real-world-access-zoyaw",
+    "description": "RWAccess redefines access control with secure, decentralized, and user-friendly solutions.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qiqkw",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "The42",
+    "slug": "the42-sijqk",
+    "description": "Meter, not membership for LLM inference. Democratizing access to intelligence.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xrzks",
+      "i0wqk"
+    ]
+  },
+  {
+    "name": "ShadowVault",
+    "slug": "shadowvault-21u9q",
+    "description": "Zero-knowledge password manager: client-side cryptography, Walrus storage, on-chain integrity",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlowRL",
+    "slug": "flowrl-pkb5a",
+    "description": "Flow RL packages and sells data generated on Flow to be used in reinforcement learning.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "GEN PAY",
+    "slug": "gen-pay-rp94d",
+    "description": "GEN PAY uses NLP to convert plain language into personalized crypto payment plans for global users",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Barely Human",
+    "slug": "barely-human-upkr5",
+    "description": "A reflection on agency into addiction, autonomy to automaton. And maybe, a way out.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Saga-DEX",
+    "slug": "saga-dex-41av7",
+    "description": "Our mission is building a  DEX on its own dedicated Saga chainlet.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MeritMint",
+    "slug": "meritmint-yqk95",
+    "description": "Pass quizzes, mint soulbound certificates, and showcase verifiable skills on-chain.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StableHoney",
+    "slug": "stablehoney-pan8f",
+    "description": "HoneyCoin lets users mint HNY tokens, redeem them for real honey, and track fulfillment on-chain.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "ScoutStream",
+    "slug": "scoutstream-ohwmx",
+    "description": "Stream trainings to help find the next gems. Clubs get paid for streams, scouts/agents get data",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "SubPay AI",
+    "slug": "subpay-ai-20wfn",
+    "description": "SubPay AI: Let your subscriptions pay themselves with micro-savings + DeFi yield.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "skyFall",
+    "slug": "skyfall-jp8jm",
+    "description": "AI-powered weather risk hedging with real-time data and DeFi mutual aid pools",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Tea on-Chain",
+    "slug": "tea-on-chain-223y0",
+    "description": "An anonymous, onchain space to spill the tea about guys to help women protect each other",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i0wqk"
+    ]
+  },
+  {
+    "name": "FanWorld",
+    "slug": "fanworld-wmnok",
+    "description": "A Web3 platform that combines staking, prediction markets, community voting, and NFT",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hera",
+    "slug": "hera-54mpb",
+    "description": "Turn your Fightcade matches into real money battles with Hera -- USDC on the line!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VibeFlow",
+    "slug": "vibeflow-8hib4",
+    "description": "Find your tribe, verify your vibe. Social network for event-based connections.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qiqkw",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Stableburn x402",
+    "slug": "stableburn-x402-8f7s7",
+    "description": "AI agent available on the base app w/ XMTP, shares data, and x402 income is used to buy&burn token",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mediearn",
+    "slug": "mediearn-74een",
+    "description": "Decentralize your own media post and earn from them, with Walrus & X402!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Kartikmon Battles",
+    "slug": "kartikmon-battles-xruec",
+    "description": "A turn-based fighting game based around Kartikmon, user-drawn NFTs!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "BlockSense Ai",
+    "slug": "blocksense-ai-a7hjd",
+    "description": "Real-time transaction risk monitor using The Graph, Chainlink, Flask, and AI",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MicroPay",
+    "slug": "micropay-tx7eo",
+    "description": "MicroPay: find the right AI agent and pay them instantly in stablecoins.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "coinbase-trading-ai",
+    "slug": "coinbase-trading-ai-ynh17",
+    "description": "One-click Web3 trading bot with embedded wallets & instant token access.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MuralClash",
+    "slug": "muralclash-s8si2",
+    "description": "Collaborative on-chain canvas for fan rivalries. Every stroke is permanent blockchain art.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "pj01t"
+    ]
+  },
+  {
+    "name": "MarkeCPrivacy",
+    "slug": "markecprivacy-cnic9",
+    "description": "Private judging creates queryable innovation insights with the help of AI",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "NailongFi",
+    "slug": "nailongfi-6sv6n",
+    "description": "The easiest way to earn DeFi yield from any wallet — just tap and you’re in.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpz6h"
+    ]
+  },
+  {
+    "name": "dustoor",
+    "slug": "dustoor-jmfhw",
+    "description": "Convert your dust ERC20 tokens on EVMs to USDC w/ LayerZero + Circle",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cyrup",
+    "slug": "cyrup-t87d6",
+    "description": "Decentralized marketplace for Lean theorem proving - post challenges, verify proofs, earn rewards",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "MetaProof",
+    "slug": "metaproof-nn8z4",
+    "description": "MetaProof: Community-powered validation of ERC7730 metadata for trust and transparency.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "DeFi Current",
+    "slug": "defi-current-r9e31",
+    "description": "Fast 3D arcade: live crypto becomes hazards & collectibles—learn to spot scams, bad approvals, MEV",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IntentMarket",
+    "slug": "intentmarket-z0tip",
+    "description": "A fair marketplace where AI agents earn crypto for fulfilling human micro-intentions.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "agent-mrkt",
+    "slug": "agent-mrkt-9ip1j",
+    "description": "AI agent marketplace with instant crypto payments using state channels and cross-chain transfers",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zappers",
+    "slug": "zappers-yhtb2",
+    "description": "Zappers allows you to discover and launch omnichain trading bots without writing any code",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpz6h"
+    ]
+  },
+  {
+    "name": "Flow x402 Cheerbot",
+    "slug": "flow-x402-cheerbot-fsjn2",
+    "description": "Cheerbot's a 3D printed lil robo guy. Bringing more cheer to lives and livestreams",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "o599i"
+    ]
+  },
+  {
+    "name": "HumanOS",
+    "slug": "humanos-mk20p",
+    "description": "Tokenizing human actions to provide universal basic income while powering the future of robotics",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "vsbye"
+    ]
+  },
+  {
+    "name": "swordAI",
+    "slug": "swordai-9nq1s",
+    "description": "AI agent that bridges, lends, borrows across Morpho, Yearn, Sushi for best yields, ofc on Katana",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpz6h"
+    ]
+  },
+  {
+    "name": "Oleg",
+    "slug": "oleg-cqe24",
+    "description": "Deployment on flow of click token.  This submission is for Flow's Flow Builder Pool.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agentic Economy",
+    "slug": "agentic-economy-3krxq",
+    "description": "Cross-chain payment infrastructure that enables AI agents to autonomously pay using PYUSD",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "UpCent",
+    "slug": "upcent-0ujwn",
+    "description": "UpCent turns PayPal payments into effortless crypto savings, secured by Ledger.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2ugg8",
+      "q7a12"
+    ]
+  },
+  {
+    "name": "FoodGenius",
+    "slug": "foodgenius-xqwg2",
+    "description": "Cook with AI recipes and prove it on-chain—FoodGenius meets Ethereum.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "My project",
+    "slug": "my-project-rjay7",
+    "description": "Split expenses with friends using PYUSD   blockchain payments. No crypto knowledge required! 🐝💰",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Incursion Roguelite",
+    "slug": "incursion-roguelite-r87zd",
+    "description": "Godot-based Roguelite with Privy login integration and tradable NFT gear",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YELOHook",
+    "slug": "yelohook-m5yfb",
+    "description": "Earn yield while your limit orders are pending using UniswapV4 Hooks.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlowEstate",
+    "slug": "flowestate-emtdi",
+    "description": "Mint, list & trade real estate NFTs on Flow—web3 marketplace with MetaMask.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "ShopYt",
+    "slug": "shopyt-79zko",
+    "description": "A website where you can buy and exchange stuff using crypto. Supports OMS strategies as well",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayStream",
+    "slug": "paystream-ee41v",
+    "description": "PYUSD QR payments with instant transactions, expiration, and merchant analytics.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Etherius",
+    "slug": "etherius-hk782",
+    "description": "AI-powered NFT agents service using Fetch.ai to query OpenSea marketplace data and buy (x402)",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pjq8a"
+    ]
+  },
+  {
+    "name": "Pika Vault",
+    "slug": "pika-vault-j3g2i",
+    "description": "Omnichain vaults with native USDC settlement and cross-chain positions.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "dkzkp",
+      "dkzkp",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Onchain Gif Portal",
+    "slug": "onchain-gif-portal-w9kdu",
+    "description": "An onchain GIF portal where you can share, trade and upvote GIFs!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polyglot NYC",
+    "slug": "polyglot-nyc-7ywfu",
+    "description": "Language Learning with Multi Language Context using Spaced Repetition on Flow.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Surr",
+    "slug": "surr-63q6q",
+    "description": "Fast multiplayer kart combat game - drive, eliminate rivals and Earn! Powered by Flow",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "pico.quest",
+    "slug": "pico-quest-0t3a4",
+    "description": "Fun photosharing app built using Privy, Walrus, and Zircuit.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SharedTable",
+    "slug": "sharedtable-tr5b2",
+    "description": "a social dining application with web3 incentives through gamification",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BribeHacks",
+    "slug": "bribehacks-okn90",
+    "description": "Marketplace for Talent & Attention. Hackers get paid. Sponsors get signal. Everyone has fun.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "LedgerKit",
+    "slug": "ledgerkit-ubd60",
+    "description": "LedgerKit.dev: Track funds and manage assets with your Ledger wallet, right in the browser.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "autoUSD",
+    "slug": "autousd-1p9am",
+    "description": "Cross-chain USDC yield optimizer with automated rebalancing across L2 networks.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Delula w/ Payments",
+    "slug": "delula-w-payments-zeuck",
+    "description": "Delula – One-Click Viral Hits w/ Instant Credit Purchases & Social Logins",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "git-lfs-walrus",
+    "slug": "git-lfs-walrus-jkegv",
+    "description": "Git LFS adapter for storing large files on the Walrus decentralized storage network",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "POP Subgraph",
+    "slug": "pop-subgraph-st4uz",
+    "description": "A subgrpah for a dao building tool using data source templates",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chess Clash",
+    "slug": "chess-clash-2h0jq",
+    "description": "Your chess-conviction become tokenized battles—stake tokens, counter rivals.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pj01t"
+    ]
+  },
+  {
+    "name": "My first stablecoin",
+    "slug": "my-first-stablecoin-vtk3n",
+    "description": "This is my first project in a hackathon, I am creating a stable coin",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arxiv Predict",
+    "slug": "arxiv-predict-uh7os",
+    "description": "Prediction market for arXiv papers. Bet if research will be validated!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EZTX",
+    "slug": "eztx-sf8au",
+    "description": "EZTX is a defi one-click payments app that makes sending international payments cheap & easy",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rehab DAO",
+    "slug": "rehab-dao-3xw23",
+    "description": "\"Recover Privately, Celebrate Socially\" Empowering  addiction recovery through decentralization",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutoToll",
+    "slug": "autotoll-h7u9d",
+    "description": "AI finds APIs, calls them, pays automatically. No keys, no setup. Just vibes and micropayments.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JIT Saving Vault",
+    "slug": "jit-saving-vault-uud5s",
+    "description": "Vault with Just-In-Time(JIT) liquidity using Uniswap v4 hooks and Aave yield saving",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Commit Club",
+    "slug": "commit-club-8jocu",
+    "description": "Show up or miss out: stake to commit, check in together, win back with friends",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Lumina Protocol",
+    "slug": "lumina-protocol-w3yv9",
+    "description": "Cross-chain emotional messaging with commemorative NFTs via Hyperlane infrastructure",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ledger Vision",
+    "slug": "ledger-vision-579jo",
+    "description": "See every token you own across all wallets & chains in one secure Ledger Live Dapp.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "EazyPay",
+    "slug": "eazypay-w4zm5",
+    "description": "Tap to Pay crypto payments → instant fiat. Merchants get USD, customers pay with any token.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liberty Files",
+    "slug": "liberty-files-dmrii",
+    "description": "A decentralized file-sharing platform to let creators securely monetize their digital content.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Volatility Hook",
+    "slug": "volatility-hook-3xkyp",
+    "description": "Dynamic fee Uniswap v4 Hook using cross-chain Chainlink volatility data via LayerZero",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "x402-flash",
+    "slug": "x402-flash-yj9wd",
+    "description": "Supporting x402 micropayments with zero settlement latency overhead.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Care",
+    "slug": "care-t9n10",
+    "description": "Privacy-focused period tracker on Hypergraph with secure data and supportive sharing.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "miniETF",
+    "slug": "minietf-fh0bi",
+    "description": "A Central Limit Order Book (CLOB) custom ETF trading system for binary markets",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aura",
+    "slug": "aura-qgo6c",
+    "description": "Cross-chain stablecoin wallet earning 4.3-20%+ yields with AI-powered strategy discovery",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Community Canvas",
+    "slug": "community-canvas-tieh2",
+    "description": "An attempt to use embedded wallets to recreate the r/place experience but on chain.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "wallet unwrapped",
+    "slug": "wallet-unwrapped-4feyd",
+    "description": "Like Spotify Wrapped, where you drop your address and get a slick summary of your degeneracy.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "e8ob5"
+    ]
+  },
+  {
+    "name": "Crypto Cash Wallet",
+    "slug": "crypto-cash-wallet-92qcx",
+    "description": "A Web3 wallet designed to emulate a cash-like experience helps users stay within their budget",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Klash AI",
+    "slug": "klash-ai-9fk3x",
+    "description": "AI-powered trading battles on-chain. Learn crypto trading through epic duels. No risk, pure skill.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "A Sovereign's Duty",
+    "slug": "a-sovereigns-duty-y7j3w",
+    "description": "Cosmos x/duty: enshrined Hyperlane validator set for instant interchain ops",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "SocialSpotify",
+    "slug": "socialspotify-317v5",
+    "description": "Build collaborative playlists with social features: comments, tips and curator tokens",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockchainUniversity",
+    "slug": "blockchainuniversity-d6i9t",
+    "description": "Complete blockchain education website from first-principles development ⚡",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fitcentive",
+    "slug": "fitcentive-mptde",
+    "description": "Super app that puts you in charge of your health data - monetize, analyze, and own your health.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Zutchi",
+    "slug": "zutchi-fnsx1",
+    "description": "Play. Earn. Socialize. Educate. Your digital pet, brought to life!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qiqkw",
+      "ya99k"
+    ]
+  },
+  {
+    "name": "ERC: D-Corporation",
+    "slug": "erc-d-corporation-fw73x",
+    "description": "D-Corp: An on-chain corporation distributing profits to capital, labor, and consumers.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RichRando",
+    "slug": "richrando-cq9u5",
+    "description": "A simple practice with Candence programming language focusing on its built-in VRF",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RWA Nexus Bridge",
+    "slug": "rwa-nexus-bridge-4j3gx",
+    "description": "A hybrid cross-chain protocol for tokenizing, transferring, and settling RWAs with DeFi liquidity.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Backstage",
+    "slug": "backstage-r7ruq",
+    "description": "Patreon For Zora Creator Coins: offer premium content to your top creator coin holders",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Overflow",
+    "slug": "overflow-e3bc5",
+    "description": "With OVFL, PTs give upfront principal and a tradable yield stream, even bootstrapped via flash loans",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChatBounty",
+    "slug": "chatbounty-oy4wt",
+    "description": "Helping people gather, one bounty at a time. Decentralized, organic, fun.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Stamps",
+    "slug": "stamps-m7peo",
+    "description": "Tap NFC to mint voucher NFTs, store on IPFS, and redeem discounts seamlessly.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Matcha",
+    "slug": "matcha-i1jcs",
+    "description": "Matcha brings fair, fan-first ticketing to the blockchain—scalpers lose, fans win.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "cCOP OnRamp with CDP",
+    "slug": "ccop-onramp-with-cdp-eyomy",
+    "description": "Celo Onramp App Fiat to cCOP Bridge Celo Onramp App Fiat to cCOP Bridge",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HyperPay",
+    "slug": "hyperpay-9e1ou",
+    "description": "HyperPay = PyUSD anywhere, powered by a composable cross-chain intent engine.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "gt566"
+    ]
+  },
+  {
+    "name": "OpenGrid",
+    "slug": "opengrid-68swe",
+    "description": "Decentralized data exchange for smart meter usage with Chainlink-powered exchange",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "polyswap",
+    "slug": "polyswap-7qdeu",
+    "description": "A uniswap based AMM allowing pooled transactions of polymarket postions.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FailSafe Sight",
+    "slug": "failsafe-sight-vmoc7",
+    "description": "AI-powered guardrails that stop fraud, jailbreaks & manipulation before they hit your system.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Asset Passport",
+    "slug": "asset-passport-e9k9k",
+    "description": "Web3-powered fixed asset accounting platform for SMBs to track their business assets",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "FlipFlow",
+    "slug": "flipflow-uqq00",
+    "description": "Flip a coin on Flow Testnet with your wallet—see results and txs live in a sleek React UI.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "FitAgent",
+    "slug": "fitagent-d3qxx",
+    "description": "FitAgent: AI nutrition coach rewarding healthy eating with Base VP & Flow NFTs via photo tracking",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Donatello",
+    "slug": "donatello-dvogj",
+    "description": "AI agent that helps artists mint & sell NFTs seamlessly on Opensea.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tollbooth",
+    "slug": "tollbooth-yoi3r",
+    "description": "Tollbooth: charge bots micro-fees instead of blocking them with captchas",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "ShieldPay",
+    "slug": "shieldpay-1cjz4",
+    "description": "Private Agentic Payments Using the x402 Payment Protocol on Aleo",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CommitAI",
+    "slug": "commitai-kbb39",
+    "description": "Fund open-source AI via PVC-proven model blends and proportional on-chain payouts.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WikiTusks",
+    "slug": "wikitusks-ihzce",
+    "description": "Censorship-resistant, crowdsourced, decentralized Wiki built on Walrus",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHInferenceNetwork",
+    "slug": "ethinferencenetwork-h95in",
+    "description": "A P2P network for AI inference with a free market for prices and per-request payments",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "lenz.dev",
+    "slug": "lenz-dev-r7bbr",
+    "description": "lenz.dev: Own your filters, earn crypto, and build the future of AR creation",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "0xcell",
+    "slug": "0xcell-30rbo",
+    "description": "0xCell is an on-chain Conway's Game of Life, built on the Circle CCTP.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TX Delay Insurance",
+    "slug": "tx-delay-insurance-5fhae",
+    "description": "Delay and Quarantine Insurance for EVM Transactions using RPC Proxy for non-intrusive operation",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Gigabrain",
+    "slug": "gigabrain-wm5pf",
+    "description": "Gigabrain is an AI Agent enhancing web3 data insights with top Subgraph data analytics",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TokenTycoon",
+    "slug": "tokentycoon-hgd15",
+    "description": "Explore Ethereum, DeFi and other crypto primitives in a on-chain multi-player trading card game",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kyma Pay",
+    "slug": "kyma-pay-yn65a",
+    "description": "Onchain infra for instant & global GENIUS Act Compliant stablecoin payments for 10x less than Stripe",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SimpleOffer",
+    "slug": "simpleoffer-pjc6r",
+    "description": "Smart contract backed stablecoin payments for any service through PYUSD.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniStableRouter",
+    "slug": "omnistablerouter-ybd16",
+    "description": "OmniStableRouter is a protocol that allows cross-chain stablecoin swaps",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Noah",
+    "slug": "noah-hqt3x",
+    "description": "We are a solution that ensures your crypto cant be lost no matter what happens to you, or your keys.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "BountyBlocks",
+    "slug": "bountyblocks-tjjv6",
+    "description": "Verifiable bounty ledger with token-agnostic payouts & privacy-preserving proofs",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Omnipools",
+    "slug": "omnipools-d5u6r",
+    "description": "AI-assisted pools with on-chain metadata and one-click Flow Actions payouts in USDC.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "drip",
+    "slug": "drip-x4xk0",
+    "description": "Pay as you go streaming payments, flip it do it now test it",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Whisper",
+    "slug": "whisper-j8j2w",
+    "description": "Launch lz messaging channels across any EVM chains for omnichain AI agents — 85% easier, zero-code.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "Hardhat3-Ledger",
+    "slug": "hardhat3-ledger-198y7",
+    "description": "Added ledger wallet integration to hardhat 3, enabling secure hardware transaction signing",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "q7a12",
+      "ya99k",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PDFi",
+    "slug": "pdfi-z99gp",
+    "description": "When did your PDF last send a payment? PDeFi makes invoices pay on-chain, instantly, securely.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "i0wqk"
+    ]
+  },
+  {
+    "name": "NFTBrandCollaborator",
+    "slug": "nftbrandcollaborator-s8myb",
+    "description": "NBC links brands & NFT artists, minting AI IP-safe ambassadors on Flow for Gen-Z.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "AfterMint",
+    "slug": "aftermint-4gre8",
+    "description": "AfterMint: Plug-and-play SDK for post-mint NFT rewards, claim perks instantly after minting",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "the void",
+    "slug": "the-void-05fb0",
+    "description": "Scream Therapy on Ethereum. An immutable social media blob that pays ECHO tokens.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyLedgerWill",
+    "slug": "myledgerwill-7bufn",
+    "description": "A WILL app on Ledger for owners to manage how the assets are to be distributed",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StableGas Pony",
+    "slug": "stablegas-pony-nh8m4",
+    "description": "⏱️ StableGas Pony: Syncing attention use with bulk group buys for gas fee optimization 🔁🌐",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClankerCatcher",
+    "slug": "clankercatcher-90wo6",
+    "description": "Snap, mint, and verify photos on-chain to flag AI-generated content.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "o599i"
+    ]
+  },
+  {
+    "name": "Fluvia",
+    "slug": "fluvia-4wkgv",
+    "description": "Financial infrastructure for treasury management and more.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ya99k",
+      "x3xey"
+    ]
+  },
+  {
+    "name": "AnyPay",
+    "slug": "anypay-t4xox",
+    "description": "Cross-chain payment settlement app with AI analysis. Any chain, any token, any payment",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "0pi",
+    "slug": "0pi-uybzg",
+    "description": "Generate and make agent-friendly APIs to earn USDC on usage",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHJobs.cc",
+    "slug": "ethjobs-cc-gx5fm",
+    "description": "Job platform where payments are held safely in escrow until work is completed and verified",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "aezzh"
+    ]
+  },
+  {
+    "name": "Synapse",
+    "slug": "synapse-fp8fx",
+    "description": "cross chain intent solver with AI and graph integration over",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LabuBank",
+    "slug": "labubank-3g45u",
+    "description": "The perfect gift to onboard your loved ones onchain: LabuBank, your friendly crypto companion.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Reputation",
+    "slug": "crypto-reputation-we6ox",
+    "description": "This project checks the reputation based on several key factors of a crypto address of interest.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ABLEfid",
+    "slug": "ablefid-0agfc",
+    "description": "Proof of Concept: Better yields for people with Social Securities Income",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Resona",
+    "slug": "resona-848as",
+    "description": "Voice-based wallet recovery protocol with ZK proofs and decentralized storage",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "kleos",
+    "slug": "kleos-ydgjp",
+    "description": "A social, on-chain prediction market where anyone spins up niche markets in seconds.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "Dreamprint",
+    "slug": "dreamprint-7yjn2",
+    "description": "NFT polaroids that will make your next IRL crypto event unforgettable!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "fjaae",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "trueFanz",
+    "slug": "truefanz-jhk3e",
+    "description": "trueFanz is a team platfor for ticket sale, management with NFT, chz, spicy testnet",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pj01t"
+    ]
+  },
+  {
+    "name": "Aemula",
+    "slug": "aemula-9qmr3",
+    "description": "A decentralized platform for independent journalism on a mission to reverse polarization in media.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pumpkin Spice latte",
+    "slug": "pumpkin-spice-latte-ayjrg",
+    "description": "Deposit, save, and win jackpot yields. Everyone keeps their principal investment.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "2ugg8",
+      "fjaae",
+      "rpz6h",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SuperLearn",
+    "slug": "superlearn-z7zoq",
+    "description": "Hands-on AI-powered learning: kids learn by making real blockchain transactions, not reading essays.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "EGNH Project",
+    "slug": "egnh-project-3tju5",
+    "description": "A blog setup where you can require payment for specific articles via the x402 protocol.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OathLock",
+    "slug": "oathlock-0e14g",
+    "description": "Escrow contract for payment of eCommerce with real shipment result onchain (EAS).",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qiqkw",
+      "fjaae",
+      "o599i"
+    ]
+  },
+  {
+    "name": "Vitalik",
+    "slug": "vitalik-t6h8b",
+    "description": "Video streaming AI assistant helping you with full world context",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "PayBoy",
+    "slug": "payboy-wssw3",
+    "description": "Easy onboarding to accept PYUSD for sellers, shops & platforms—built for Web2 devs & startups.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GAMBET",
+    "slug": "gambet-6mxw4",
+    "description": "Decentralized sports prediction platform with AI-powered betting events on Chiliz Chain",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ParkPulse",
+    "slug": "parkpulse-w84tg",
+    "description": "Smart voting for parks using Hedera and real-time satellite insights.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "bdi3h",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Bridgewager Assoc.",
+    "slug": "bridgewager-assoc-q200p",
+    "description": "Bridgewager Associates is an agentic hedge fund that specializes in prediction markets",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Swap Pay",
+    "slug": "swap-pay-4hpe9",
+    "description": "Swap Pay is an SDK that turns fragmented token balances into smooth payments using EIP-5792",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "aezzh",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "DeSwag",
+    "slug": "deswag-8onk5",
+    "description": "A swag NFC check, previous ETHGlobal attendees can trade and/or sell swag.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vapor",
+    "slug": "vapor-pmrk8",
+    "description": "VAPOR: Verifiable, Anonymous, Permissionless Off-Ramp for stablecoins to fiat.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Househodl",
+    "slug": "househodl-5ytiu",
+    "description": "Manage shared expenses automatically between groups, earning yield on unused funds.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Give wages wings",
+    "slug": "give-wages-wings-hew1r",
+    "description": "The Unbanked pay Mom and Dad bills back in their home country, with Defi",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LVR Shielded LP",
+    "slug": "lvr-shielded-lp-fyssi",
+    "description": "Uniswap v4 Hook+Vault that auto-adjusts LP ranges to cut LVR — Unichain Sepolia demo.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LOAR",
+    "slug": "loar-em9nb",
+    "description": "LOAR: decentralized narrative control in collaborative universes through consensus mechanisms.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Boomerang",
+    "slug": "boomerang-7aipc",
+    "description": "Empower contributors: stake, share, and earn from community-driven resources",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ease",
+    "slug": "ease-swvf9",
+    "description": "Eaze allows you to spend anywhere, without needing a phone or wallet.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Startupchain",
+    "slug": "startupchain-0fyf5",
+    "description": "A dapp to bootstrap startups and small business onchain",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Unhinged",
+    "slug": "unhinged-e36zc",
+    "description": "Got hot takes? Willing to put your money where your mouth is? Come battle it out!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Darwin",
+    "slug": "darwin-7t3v3",
+    "description": "Self-evolving e-commerce agents in crypto, where wallet balance is their lifeforce.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "HackerXBT",
+    "slug": "hackerxbt-1nve5",
+    "description": "AI agent tracking hackathon commits live & launching winner tokens - alpha for judges/sponsors",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "PredR",
+    "slug": "predr-axfbe",
+    "description": "A ranking-based prediction market on attention assets, starting from a influencer reputation system",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Primer",
+    "slug": "primer-n9g71",
+    "description": "Crypto payments on Amazon that feel as seamless as credit cards",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Rivals",
+    "slug": "rivals-cqy9r",
+    "description": "AR PVP shooter where you battle zombies in real life to earn $RIVAL tokens.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "fjaae",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "WalrENS",
+    "slug": "walrens-yjvog",
+    "description": "WalrENS: Deploy websites to Walrus storage with ENS domains, decentralized hosting made simple.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Opto",
+    "slug": "opto-owf77",
+    "description": "Meet Opto – Your next-gen cross-chain investment protocol, maximize yield across chains in ONE click",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "bdi3h",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Emergent Gallery",
+    "slug": "emergent-gallery-51sh7",
+    "description": "Paint an Omnichain Masterpiece, then forge your friends' pieces!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Guva",
+    "slug": "guva-0g952",
+    "description": "Decentralized Plaform for LoRA creators and Stable Diffusion Users",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WAVEZ",
+    "slug": "wavez-pzk2o",
+    "description": "USDC payments made easy, all seamless inside a Telegram mini app & chat.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gamified Health",
+    "slug": "gamified-health-96i00",
+    "description": "Get paid to be healthy! Complete health quests and earn blockchain rewards!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "MagicPay",
+    "slug": "magicpay-9gomz",
+    "description": "A Magic Link that brings Crypto to fiat to non Crypto Users + Agent Mode",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Waterfall",
+    "slug": "waterfall-2ka35",
+    "description": "Waterfall brings NFT data to life using AI agents with OpenSea MCP Server",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "pjq8a"
+    ]
+  },
+  {
+    "name": "SafeSign PfalzAI",
+    "slug": "safesign-pfalzai-a7qnn",
+    "description": "AI-powered Telegram bot predicting transaction risks before signing",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Skej",
+    "slug": "skej-tqve5",
+    "description": "Skej - Zk-native, privacy-first ENS Scheduling Infra for Consumers and AI Agents on Zirkuit",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Code Quill",
+    "slug": "code-quill-n2a0i",
+    "description": "The Authorship layer for developers. We allow developers to claim ownership of their repositories.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Secret Pineapple",
+    "slug": "secret-pineapple-tp8pe",
+    "description": "Secretly order pineapple pizza and share your receipt with trusted third parties",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "H@ndlePay",
+    "slug": "h-ndlepay-2z878",
+    "description": "Discover people by their socials and pay them across EVM chains",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HubPal.org",
+    "slug": "hubpal-org-g8kf6",
+    "description": "HubPal.eth-World's 1st Marketplace/NFTs-for projects: ENS naming, Chainlink RW events, PYUSD stakes",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ERC7730 Previewer",
+    "slug": "erc7730-previewer-9xspj",
+    "description": "task 1: add the json file for a RocketPool, a DeFi protocol;task2 :Add a Json previewer tool",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Cosigner",
+    "slug": "ai-cosigner-b1omc",
+    "description": "AI Cosigner: LLM-signed intents to safely trade on Base with one click",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cosurf",
+    "slug": "cosurf-6g4wo",
+    "description": "Find exactly what you need through human-curated content that respects your time and attention.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "DefiHedge",
+    "slug": "defihedge-t3wqc",
+    "description": "DeFi-Hedge: Quantitative Investment Strategy tool for Institutional Focused Investors",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SendBet",
+    "slug": "sendbet-bzq6f",
+    "description": "Turn Online sports arguments into real crypto bets with smart contract escrow & automatic payouts 🏆",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "pj01t"
+    ]
+  },
+  {
+    "name": "Notary",
+    "slug": "notary-kvvgu",
+    "description": "Verify your wallet once for seamless, instant access across multiple platforms without repeated KYC.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "🧠 HIVE Agents",
+    "slug": "brain-hive-agents-wixqe",
+    "description": "Revolutionary Self-Evolving  Autonomous AI Agents Swarm Marketplace",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PowerPunk",
+    "slug": "powerpunk-via4h",
+    "description": "Grassroots community protocol to fund local climate solutions",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "wagerkit.xyz",
+    "slug": "wagerkit-xyz-ddea0",
+    "description": "AI agent bets, hedges, and pays out cross-chain via x402, LayerZero, and CCIP.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EchoBox",
+    "slug": "echobox-ftqeh",
+    "description": "EchoBox: ENS-addressed, time-locked crypto gifts for birthdays, holidays, and special moments.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "aezzh"
+    ]
+  },
+  {
+    "name": "pump.lotto",
+    "slug": "pump-lotto-kmw3k",
+    "description": "An ERC-20 launchpad where trading fees fuel lottery rounds, buybacks, and explosive god candles!",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyVoice",
+    "slug": "polyvoice-y2s7r",
+    "description": "A platform to reflect public sentiment on important issues, ranking them by quadratic voting.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bloqz",
+    "slug": "bloqz-8y8re",
+    "description": "Connect/Create your wallet and chat with Bloqz to execute crypto transactions instantly.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "S-Block.org",
+    "slug": "s-block-org-3k8xs",
+    "description": "Federated Web3 creative commons: co-create, remix, fund & govern under CC licenses",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeriTix",
+    "slug": "veritix-skfvg",
+    "description": "VeriTix is a ticket selling platform emphasizing trust and value through a peer-to-peer marketplace.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "NanoLoan",
+    "slug": "nanoloan-hb0aa",
+    "description": "Multi-chain BNPL with World ID, Circle CCTP bridging, and gasless UX on World Chain + Ethereum",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HackerHouseProtocol",
+    "slug": "hackerhouseprotocol-wq76p",
+    "description": "Decentralized rental protocol connecting hackers through real estate and social media",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Allena",
+    "slug": "allena-749ke",
+    "description": "From idols to impact: sports content as NFTs funding youth and local initiatives.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "SHOW UP",
+    "slug": "show-up-12z2z",
+    "description": "Show Up: The Web3 event protocol. Stake don't flake. The beginning of a new standard.",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Sentinel",
+    "slug": "sentinel-i4dwy",
+    "description": "AI-powered autonomous wallet security with real-time threat detection and guardian recovery 🛡️🤖",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YieldFlow",
+    "slug": "yieldflow-tknh9",
+    "description": "YieldFlow: Instantly track your DeFi yields on Katana, Unichain & Base",
+    "event": "ETHGlobal New York 2025",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

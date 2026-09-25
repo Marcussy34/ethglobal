@@ -1,0 +1,1346 @@
+[
+  {
+    "slug": "zkeve-ne637",
+    "name": "zKeve",
+    "event": "ETHGlobal Sydney",
+    "description": "Create events for the community and host according to their votes",
+    "projectDescription": "This is an event creation platform where users can create events for the community. Anyone can create events, and the community can decide what they want for their events. It can be anything like what to have in dinner, what to have for schwags, etc. The users can vote for or against in order to make the decisons.",
+    "howItsMade": "The project uses Reactjs for the frontend part and solidity for writing the smart contract. All the integration with the smart contract was done with the help of EthersJS library. The voting process was done with the helpof semaphore library to keep everything private and anonymous.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/Akhil-2310/EthGlobal-Sydney",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "erc420-multisig-ypqi5",
+    "name": "ERC420 Multisig",
+    "event": "ETHGlobal Sydney",
+    "description": "tokenized multisig vaults (and other words that make the description box descriptive)",
+    "projectDescription": "unlike a classsic multisig where each signature has the same signing power, in erc420 vaults each signer has erc20 tokens that represent the signing power.\nthis way for example if the quorum is 10 and I have 10 tokens, I can sign transactions, but if someone has 9 tokens they need at least one more signer. you could give 1 token to five other signers and none of them can collude to sign transactions on their own, but only one of them is required to help the 9 tokens holder send transactions.",
+    "howItsMade": "erc420 + ecrecover + skills + raw power of will + please add more information + this text box is really annoying + can you please let me go through + I would appreciate if you let me submit this form + oh lord what have I done to deserve this + aaaahaaahaahaaaahahhhhhhhhhhhhhhhhhh",
+    "prizes": [],
+    "githubUrl": "https://github.com/hananbeer/eip420",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "flexfi-rb4vd",
+    "name": "FlexFi",
+    "event": "ETHGlobal Sydney",
+    "description": "Marketplace for tokenised equity offering into Australian-based startups.",
+    "projectDescription": "FluxFi offers a marketplace for tokenised equity offerings into Australian-based startups. Startups can offer a portion of their equity - as part of their fundraising efforts - on the platform. This will be offered as digital tokens powered by Mantle, where investors can complete their due diligence and enable fractionalised investment into domestic startups, from anywhere and anytime in the world (subject to deal status) - powered by the global identity verification of Worldcoin.",
+    "howItsMade": "The project was forked using the Scaffold-ETH starter for the front-end and contract development. Worldcoin was our choice of authentication as this would've created a layer of trust on who you were interacting with, with the contracts being deployed on Mantle. We had issues with both Worldcoin and Mantle",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/simonbeirouti/flexifi",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "on-chain-personality-5nir5",
+    "name": "On-Chain Personality",
+    "event": "ETHGlobal Sydney",
+    "description": "We classify mainnet users based solely on their on-chain activity and provide additional tooling for exploratory data analysis.",
+    "projectDescription": "This project uses on-chain Ethereum mainnet transactions to classify wallets base on 6-predefined different buckets/sub-ecosystems: Airdrop Farmer, NFT Collectooor, Snipoor, Shitcoinooor, EVM Enjoyoor, and NPCs. Users are able to enter an address as an input and receive a score for each of the pre-defined areas.\nThe scoring methodology is calculated based on their interactions with predefined popular contracts (i.e. Shitcoinoooors are interacting with known shitcoins, NFT Collectoooors are interacting with OpenSea contracts). We then rank them relative to other users and the output is a normalised rank of how they compare relative to the rest of the users during that time period.",
+    "howItsMade": "We retrieved the Ethereum transactions (1000 blocks at a time) with cryo/RETH, filtered out all native transfers (we have a simplifying assumption here that a transaction with input data and non-zero input value is a native transaction), identified the top 20 contracts each week, then applied some additional filtering to capture more relevant addresses. We then vectorised the smart-contract interactions into sparse matrices and ranked users against eachother for a given time period. This (should have been) served up in a nice frontend, however we ran out of time to populate and test the solution.\nThe hackiest thing during this hackathon: Since we're dealing with almost 1 terrabyte of data, I was having to monitor my disk-space and delete the raw files as we were wrangling them into something more useful to ensure that new files being saved and not crashing my laptop hehe!\nData Retrieval - We utilised RETH + cryo to retrieve the dataset of all Ethereum transactions from genesis.\nData wrangling - We utilised Python3 to clean and transform the data into something manageable\nFrontend - We utilise Nuxt.js, Vue.js and Chart.js to build the frontend.\nBackend - We use Nuxt.js and Python",
+    "prizes": [],
+    "githubUrl": "https://github.com/jqhils/crypto-personality-test",
+    "demoUrl": "https://crypto-personality-test.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "decorp-9r638",
+    "name": "DeCorp",
+    "event": "ETHGlobal Sydney",
+    "description": "Form Companies On-Chain. Fully Decentralized and Fully Web3.",
+    "projectDescription": "This project allows you to legally form entities on-chain.\nThis project allows you to legally form entities on-chain.This project allows you to legally form entities on-chain.\nWhether that's a DAO, a BVI or.a Cayman Islands entity, registering one of these entities is as easy as one two three.",
+    "howItsMade": "We use NFTs to represent these companies and create an onchain backup of legal filings.We use NFTs to represent these companies and create an onchain backup of legal filings.\nThis is much cheaper, faster and way more efficient.\nSay goodbye to copious legal fees and paperwork.",
+    "prizes": [],
+    "githubUrl": "https://github.com/itsswappyb/decorp",
+    "demoUrl": "https://swiftlaw-decorp.vercel.app",
+    "teamMembers": []
+  },
+  {
+    "slug": "dust-auction-wvtjg",
+    "name": "Dust Auction",
+    "event": "ETHGlobal Sydney",
+    "description": "Dust Auction is a liquidation protocol for disposing of unwanted assets on a curve that increases over a specified time (similar to a Dutch Auction), such that other users are incentivized to acquire the assets as the discount on them increases.",
+    "projectDescription": "Dust Auction offers a way for users to maximize the value they can acquire from getting rid of unwanted tokens using a Dutch auction.\nToxic assets can be bad debt, a bunch of dust on your wallets you want to get rid off at any price, or even actual physical tokenized toxic uranium in your backyard. It's a crosschain dApp with CCIP compatibility so people from other chains can buy the toxic assets, enhancing the range of buyers that can acquire the assets with minimal .\nUsers can create offers, which hold the amount of tokens they wish to dispose of as well as the timeline they wish to dispose of them on. The Dutch auction starts off and goes on for a select period of time (deadline) during which the slope of the invariant curve changes (n). As time approaches this given deadline, the price moves on an exponential curve, quickly discounting assets until there is competition amongst buyers to secure a price premium on the assets.\nDust Auction helps find a good outcome for both the buyer who receives tokens at a discount, as well as the seller who can dispose of assets that had little value to them to begin with.",
+    "howItsMade": "Dust Auction was deployed on several testnet chains for the proof of concept including Ethereum Sepolia, Base Sepolia,  Avalanche Fuji, Mantle Sepolia, Polygon zkEVM Testnet.\nFor the mathematical calculations, Barakman's solidity-math-utils was used (https://github.com/barakman/solidity-math-utils) as well as dapphub's ds-math (https://github.com/dapphub/ds-math).\nChainlink's CCIP was used on the chains it is supported - Ethereum Sepolia, Base Sepolia, Avalanche Fuji.",
+    "prizes": [],
+    "githubUrl": "https://github.com/Tranquil-Flow/dust-auction",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "turtleswap-5kt5e",
+    "name": "TurtleSwap",
+    "event": "ETHGlobal Sydney",
+    "description": "TurtleSwap: A decentralized exchange where only market orders are allowed, leveling the playing field for all traders. Prices fetched from Chainlink ensure fairness. Slow and steady wins the race! 🐢 #DeFi #DEX #Chainlink",
+    "projectDescription": "TurtleSwap is a decentralized exchange (DEX) that prioritizes fairness. Unlike traditional exchanges, it only accepts market orders, simplifying trading. It relies on Chainlink price oracles for market prices, ensuring trades are only ever executed at fair value.\nTurtleSwap operates on the principle that market makers (MMs) act as middlemen who only participate when it benefits them; typically, they are there to act in times of price and time mismatches. Unlike traditional exchanges where MMs play a dominant role, TurtleSwap's design mitigates their influence, promoting a more democratic trading environment involving genuine participants only.\nIn essence, TurtleSwap offers a new approach to decentralized trading, emphasizing fairness and simplicity. By leveraging Chainlink oracles and minimizing market maker influence, it aims to revolutionize DeFi trading.",
+    "howItsMade": "Solidity: TurtleSwap's smart contracts are written in Solidity.\nChainlink Price Oracle: The core of TurtleSwap's pricing mechanism relies on Chainlink's decentralized oracle network.\nERC-20 Tokens: TurtleSwap supports trading for ERC-20 tokens, which are fungible tokens standardized on the Ethereum blockchain.",
+    "prizes": [],
+    "githubUrl": "https://github.com/theonm/TurtleSwap",
+    "demoUrl": "https://twitter.com/theturtleswap",
+    "teamMembers": []
+  },
+  {
+    "slug": "the-rizz-camp-1juqr",
+    "name": "The Rizz Camp",
+    "event": "ETHGlobal Sydney",
+    "description": "The Rizz Camp is a mentorship program where tech guys can level up their social game.",
+    "projectDescription": "You're a tech professional with a successful career, a place of your own, and a passport full of stamps—yet one challenge remains: engaging with attractive women. It's your unexpected stumbling block. At The Rizz Camp, we understand that practice makes perfect. We provide personalized mentorships with women who specialize in teaching social cues, communication skills, and eye contact. Transform your conversations and boost your confidence, one chat at a time.\nAs you progress, you’ll have the opportunity to join in-person workshops to practice your skills with other women, helping to ignite and refine your abilities. Throughout your journey, you’ll also connect with peers in the program, building a supportive community of individuals who are on the same path. With The Rizz Camp, elevate your social skills and unlock new possibilities in every interaction.",
+    "howItsMade": "Our platform, deployed on @Mantle for security and reliability, ensures that every interaction is as efficient as possible. To book your initial free 15-minute call with us, we leverage @Worldcoin and use World ID to verify your identity, guaranteeing that our time—and yours—is spent effectively, not on dealing with bots. if you choose to directly buy a service, we utilize @Chainlink pricing oracles to facilitate seamless and secure payments. This integration of trusted blockchain technologies ensures a smooth process from your initial login to every payment transaction, allowing you to focus fully on enhancing your social skills.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Most Creative Use Case",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Worldcoin -  Most Creative Use Case"
+      }
+    ],
+    "githubUrl": "https://github.com/finessevanes/the-rizz-camp",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "onchain-raffle-pmgqb",
+    "name": "Onchain Raffle",
+    "event": "ETHGlobal Sydney",
+    "description": "A raffle type game using ERC721 and ERC20 enabling a unique economic mechanism.",
+    "projectDescription": "Rules\nA Ticket is your entry into this game. You can acquire one through minting.\nEach mint costs some ETH. Minting a ticket increases the price of the next ticket.\nThe first person to mint starts a 7 day countdown. The countdown resets after every mint.\nIf nobody else mints until the countdown runs out, the last person who minted wins the Big Prize.\nThe twist\nOnce your ticket is no longer the last one, do not despair. The game just started.\nTickets work in tandem with Tokens enabling a unique cryptoeconomic mechanism.\nTicket holders have a powerful choice to make:\nEither hold your ticket, betting on the long term success of the game\nOR burn your Ticket for a fixed amount of Tokens.\nTokenomics\nProceeds from each ticket mint are split in the following ways:\n\nBig Prize: The last minter claims this amount.\nUni LP Fund: This amount funds the Uniswap liquidity Pool for Tokens.\nTicket Holders Distribution: When the game ends, the remaining ticket holders share this amount equally.\nTeam.",
+    "howItsMade": "React with wagmi and rainbowkit for frontend, solidity backend containing 4 contracts\n\nvending machine, allowing users to mint & burn tickets, claim tokens and keeps the accounting\nuniswap Funder, which periodically funds the uniswap pair\nticket, the NFT contract\ntoken, the ERC20 contract",
+    "prizes": [],
+    "githubUrl": "https://github.com/tudorelu/a11ss",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "opinionswap-7i953",
+    "name": "OpinionSwap",
+    "event": "ETHGlobal Sydney",
+    "description": "🔮 OpinionSwap: Unleash the wisdom of the crowd! 🌍 Predict, bet, and earn on the hottest topics using USDC. 💰 Powered by Base, Optimism, and Mantle. 🌐 Shape the future with every opinion! 📈 #OpinionTrading #Futarchy",
+    "projectDescription": "🌟 Welcome to OpinionSwap! 🌟\nAre you ready to dive into the exciting world of opinion trading? 🤔💡\nImagine a place where your thoughts and predictions can earn you big rewards! 💰🔮 That's right, OpinionSwap is here to revolutionize the way we engage with the wisdom of the crowd!\nWith over 200k monthly active users on Farcaster, we've found the perfect distribution layer to bring OpinionSwap to the masses! 📈🚀 Whether you're a seasoned crypto enthusiast or just starting your journey, OpinionSwap makes it easy and fun to participate in the world of decentralized opinion trading.\nVision:\nBut OpinionSwap isn't just about the rewards; it's about shaping the future! 🔮 As we grow, we'll be exploring the exciting concept of Futarchy, where collective wisdom can help guide decision-making on a larger scale. Imagine a world where your opinions not only earn you rewards but also contribute to shaping policies and governance! 🌎🗳️",
+    "howItsMade": "🎯 How does it work?\nIt's simple! We create exciting proposals on various topics, from sports matches to crypto price predictions. All you need to do is choose your side, place your bets using USDC tokens, and wait for the outcome. The more accurate your predictions, the bigger your rewards! 💸\nBut wait, there's more! OpinionSwap is breaking down barriers and embracing the power of cross-chain interoperability. Thanks to the amazing Chainlink CCIP, you can now place bets from the Optimism network and have your tokens and bets seamlessly transferred to the Base network.\nBy integrating WorldCoin ID, we ensure fair play and reward those who verify their identity with even bigger payouts.\nOpinionSwap is also deployed on the Mantle network, giving you even more opportunities to showcase your prediction skills. As Chainlink CCIP expands its support, we'll be right there, ready to bring you a truly multi-chain opinion trading experience! 🌐💫",
+    "prizes": [
+      {
+        "sponsor": "UNLIMIT",
+        "trackName": "Best Use Case of Unlimit Crypto",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Unlimit -  Best Use Case of Unlimit Crypto"
+      },
+      {
+        "sponsor": "Chainlink Labs",
+        "trackName": "Best use of Chainlink CCIP",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Chainlink -  Best use of Chainlink CCIP"
+      },
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/Saviour1001/opinion-swap",
+    "demoUrl": "https://opinion-swap.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "zkenergycrowdfund-evb84",
+    "name": "zkenergycrowdfund",
+    "event": "ETHGlobal Sydney",
+    "description": "A crowdfunding contract for green energy project, with zk to verify sensitive credentials of the project",
+    "projectDescription": "Certainly! Here's a detailed description of your project:\nProject: ZK-Enabled Crowdfunding Platform for Green Energy Projects\nOverview:\nOur project aims to create a cutting-edge crowdfunding platform specifically designed to support green energy projects while ensuring the legitimacy and privacy of the projects seeking funding. By leveraging zero-knowledge (ZK) circuits, we enable a secure and transparent verification process that validates the project's regulatory compliance and intellectual property protection without revealing sensitive information.\nKey Features:\nZK Verification for Project Legitimacy:\nOur platform incorporates advanced ZK circuits to verify the legitimacy of green energy projects seeking funding. We focus on two critical metrics:\na. Regulatory Compliance Score:\nDescription: An independent auditor assigns a score indicating the project's compliance with relevant energy regulations and standards.\nFor example, with threshold: Projects must achieve a minimum regulatory compliance score of 85 out of 100 to be eligible for funding.\nPrivacy Reason: The detailed audit report and specific areas of compliance often contain sensitive information about the project's internal processes and proprietary technologies. By keeping the detailed compliance score private, we protect the project's competitive edge and maintain the confidentiality of its internal operations, preventing competitors from exploiting vulnerabilities or gaining an unfair advantage.\nb. Intellectual Property (IP) Protection Level:\nDescription: A score is assigned to indicate the level of protection for the project's intellectual property, such as patents, trademarks, and copyrights, associated with its innovative technologies or designs.\nFor example, Threshold: Projects must have an IP protection level of at least 4 out of 5 to be eligible for funding.\nPrivacy Reason: The project's intellectual property is a valuable asset that provides a competitive advantage. Publicly disclosing the specific details of the project's IP protection measures could expose vulnerabilities and enable competitors to exploit or circumvent these protections. By keeping the IP protection level private, we safeguard the project's intellectual assets and maintain its technological edge in the market.\nThe ZK circuits ensure that the projects meet the required thresholds for regulatory compliance and IP protection without revealing the actual scores or sensitive details. This enables a secure and privacy-preserving verification process.\nWorldID Integration for Sybil Resistance and Personhood Verification:\nTo prevent Sybil attacks and ensure the integrity of the funding process, we integrate WorldID into our platform. WorldID is a decentralized identity solution that allows us to verify the uniqueness and personhood of the fund receivers. By requiring fund receivers to authenticate their identity through WorldID, we mitigate the risk of fraudulent or duplicate funding requests, ensuring that each project receives fair and genuine support.\nGasless Transactions with Coinbase Smart Wallet:\nTo enhance the user experience and promote widespread adoption, we integrate Coinbase Smart Wallet into our platform. This integration enables gasless transactions for users, eliminating the need for them to hold and manage gas fees. By leveraging Coinbase Smart Wallet, users can seamlessly contribute to green energy projects without the burden of gas costs, making the funding process more accessible and user-friendly.\nOur innovative crowdfunding platform combines the power of ZK circuits, WorldID, and Coinbase Smart Wallet to create a secure, privacy-preserving, and user-centric ecosystem for funding green energy projects. By enabling legitimate projects to access funding while maintaining the confidentiality of sensitive information, we aim to accelerate the growth and adoption of sustainable energy solutions worldwide.\nThrough our platform, green energy entrepreneurs and innovators can showcase their projects to a global audience of environmentally conscious supporters. Backers can contribute to projects with confidence, knowing that the projects have undergone rigorous verification processes and meet the required regulatory compliance and IP protection standards.\nBy fostering a transparent and trustworthy crowdfunding environment, we strive to empower the green energy sector, drive innovation, and contribute to the global transition towards a more sustainable future. Our ZK-enabled crowdfunding platform serves as a catalyst for change, connecting visionary projects with the funding and support they need to make a lasting impact on the world.",
+    "howItsMade": "Smart Contracts:\nWe developed smart contracts using Solidity to handle crowdfunding logic and ensure the integrity of the funding process.\nBuild On Chain Template by Coinbase:\nWe integrated the Build On Chain Template by Coinbase for seamless integration with Coinbase Smart Wallet, enabling Account Abstraction (AA) and gasless transactions.\nZK Circuits with Circom:\nWe implemented ZK circuits using Circom to verify project eligibility based on regulatory compliance and IP protection scores without revealing actual values.\nWorldID for Sybil Resistance:\nWe integrated WorldID to verify the uniqueness of project recipients, preventing Sybil attacks and ensuring the integrity of the funding process.\nFront-end Development:\nWe built the user interface using Next.js, styled with Tailwind CSS, and integrated Wagmi and Viem libraries for seamless blockchain interaction.\nSmart Contract Deployment:\nWe deployed smart contracts on Base Sepolia, Mantle, and Carbona networks for accessibility and scalability.\nIntegrations:\nWe integrated WorldID for secure and privacy-preserving identity verification of project recipients.\nNotable Hacks:\nWe cleverly used Circom's GreaterThan and LessThan gadgets to perform range checks on project scores without revealing actual values.\nBy combining these technologies, we created a robust and innovative crowdfunding platform that prioritizes security, privacy, and user experience for green energy projects.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      },
+      {
+        "sponsor": "dabl.club",
+        "trackName": "Launch an MVP on Polygon Cardona",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "dabl.club - Launch an MVP on Polygon Cardona 3rd place"
+      }
+    ],
+    "githubUrl": "https://github.com/hung-ngm/zk-energy-crowdfund",
+    "demoUrl": "https://zk-energy-crowdfund.vercel.app",
+    "teamMembers": []
+  },
+  {
+    "slug": "zeke-xarwm",
+    "name": "Zeke",
+    "event": "ETHGlobal Sydney",
+    "description": "Zeke is the first zero knowledge powered Paypal on/off ramp with Telegram native integration & Account Abstraction for a seemless UX",
+    "projectDescription": "“As it stands, the success of crypto depends heavily on the availability of user-friendly onboarding portals” -Nasdaq\nZeke is a zero knowledge proof based on/off ramp allowing anyone to on-ramp (convert fiat to stablecoin) in a completely decentralised peer-to-peer manner through off-chain payment rails such as Venmo and PayPal via Telegram Bot.\nCurrent fiat on/off ramp providers face issues with their user flows being very clunky, inconvenient and requiring a lot of data input for KYC, while existing defi on-ramp solutions have problems with on-ramping in a timely manner.\nZeke aims to address these issues by providing users with an easy to use interface and operability via telegram bots. Approximately 80% of the trading volume occurs via Telegram Trading Bots, with over $9 billion of cumulative trading volume with more untapped potential.",
+    "howItsMade": "Zeke is made of a few major components including smart contracts, zk circuits and a custom relayer infrastructure.\nZeke smart contracts include a Ramp contract, which acts as a escrow, and handles all business logic and intricacies of creating, managing, completing and verifying orders. Ramp contract works in conjunction with Maanager util contracts including order manager, token manager and user manager and escrow manager. There is also a Verifier contract that only serves one purpose of validating and verifying our circuit proofs.\nZeke's zk circuits include Merkle Damgard Verifiers, paypal off ramp verifiers and paypal on ramp verifiers. The key purpose of the circuits is to take certain public inputs that are retrieved from the .eml file of a Paypal payment email confirmation such as header, amount, sender etc. The circuits then perform a series of sophisticated verifications on the email object including DKIM header validation which validates the email signature validating that the contents of the email are authentic and not-tampered with. The circuit then performs regex-based verifications to validate the payment amounts, currency and body hash in padded bytes to ensure validation process consistency. the circuits themselves are off-chain, compiled into a .wasm and r1cs, which along with inputs.json and a few other config files used to generate witness, the zkey and finally the proof.json. the backend for this is hosted on a powerful VM on GCP compute instance.\nThe relayer infrastructure is written in golang and  composed of a kafka message queue system which, on the producer side has event listener using geth, to pick up on any incoming order creation transactions while ensuring low latency. the Producer then pushes the transactions to the messaeg queue depending on the queue broker, topic and partition. Different topic is used for each corresponding chain to support multi-chain orders. On the consumer side, the LP/consumer pulls messages from the queue, parses the transactions to retrieve emitted events and retrieve key info, then created an order using Paypal webhooks, after which the onramper receives payment request. the payment request config is set to no chargebacks as a default policy, which is enforced. Once the payment is made, the LP/consumer generates the zk proof interacting with our zk binary backend hosted on GCP.\nThe Telegram bot mini app is made using React and Tailwind CSS. The bot first needs to be initialised using BotFather which provides a unique token. Then, using a React.Js project with necessary libraries like Tailwind and Telegraf, the logic for the bot is written to present a mini app with a focus on a seamless user interaction. The mini app is what allows users to connect to a wallet with the help of a library called thirdWeb, which also allows the use of account abstraction and the use of smart contract wallets.\nWith thirdWeb, we are able to implement account abstraction wallets in the app which allows the smart contract to pay directly for the transaction fees, reducing that cost for users trying to on/off ramp their fiat to crypto or vice versa. This also promotes flexibility for the user with the app as well as the ability to execute transactions without the hassle of managing cryptocurrency balances.\nMajor Components\n\nZK proof circuits in Circom\nRelayer in Golang\nUI using Telegram Web App, implemented using React.Js and Tailwind CSS\nSmart contracts in Solidity using Foundry Framework\nOffchain servers hosted in GCP\n\nPartner Technologies\n\nChainlink Price feed to validate the fiat exchange rate requested by on-rampers, and to validate the crypto amount off-ramped\nBase - deployed on Base\nMantle - deployed on Mantle\nZero Knowledge Proofs to power private payments in L2 networks",
+    "prizes": [
+      {
+        "sponsor": "Mantle",
+        "trackName": "Best Infra and Tooling Project",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Mantle -  Best Infra and Tooling Project"
+      },
+      {
+        "sponsor": "Nethermind",
+        "trackName": "Zero-Knowledge (ZK) innovations",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Nethermind -  Zero-Knowledge (ZK) innovations"
+      },
+      {
+        "sponsor": "dabl.club",
+        "trackName": "Zero Knowledge Bounty",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "dabl.club - Zero Knowledge Bounty 2nd place"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 ETHGlobal Sydney Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 ETHGlobal Sydney Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/mnm458/zeke",
+    "demoUrl": "https://drive.google.com/file/d/13WqllmjSa8MBwBWFpgcO44uEhBMrNDuH/view?usp=sharing",
+    "teamMembers": []
+  },
+  {
+    "slug": "vanderlinde-bwgz6",
+    "name": "Vanderlinde",
+    "event": "ETHGlobal Sydney",
+    "description": "Vanderlinde is your gateway to onboarding web2 people onto web3.",
+    "projectDescription": "Vanderlinde is an Oauth Provider that works exactly as your regular web2 user would suspect - it provides a social login (Google), can fetch user details, and you use it to authenticate with other websites. So, what's special?\nYou see, on Vanderlinde, once you create an account, a Smart Wallet is silently created for you. The smart wallet is an AA wallet that follows ERC-4337 and is deployed straight onto the Base Network. When the user uses Vanderlinde to auth with your dApp, they're ready to interact with your blockchain right out of the gate.\nBut wait, don't you need gas, tokens, etc? They'll need to purchase crypto first, and send it to their wallet, right? Nope!\nLeveraging on Smart Wallet capabilities, users can have their gas sponsored by a Paymaster. Vanderlinde's Paymaster is a pool that can be sponsored by any good samaritans and blockchain proponents. They would deposit to this pool, and this pool would sponsor new users' gas transactions, driving blockchain adoption. To prevent bad actors, users have to be WorldID verified in order to enjoy free gas on the house. No need for Orb verification, Device level verification is enough. After all, it's just gas, not a digital passport.\nFrom the project developer's perspective, they would go onto Vanderlinde, login/create an account, and register a project. They would be provided with a client id and client secret. They'd store this client side somewhere, and use provide the client id as a parameter to the Auth with Vanderlinde button. Vanderlinde would look up the project in Supabase using client id, fetch secret, sign a jwt token containing user information (inc their smart wallet address) and send it back to the client. Client can then use this to authenticate the user on their dApp.\nNow, here for the spicy part. If the user isn't actually connected with a EOA such as Metamask to the dApp, how can they call transactions? Glad you asked!\nVanderlinde provides another button - execute transaction. This button takes as params target contract, target chain, and abi encoded transaction data which includes function name and arguments.\nUser, upon pressing this button, is redirected to Vanderlinde, where they can authorize the transaction using their Smart Wallet - and have Paymaster fund the gas as well - and come back to dApp with the response of the transaction.\nRedirected, they can now continue to use the dApp. Think microtransactions, tips, subscriptions, DeFi, anything else, they can just do it without having to sign Metamask transactions.\nOh, and one more thing. You know how they probably need to fund their Smart Wallet anyway for any kind of meaningful experience with a dApp? They don't have to leave Vanderlinde to do that. With Unlimit onramp, they can just click Fund Wallet, which opens up a modal, and they insert their debit card, and receive their choice of crypto tokens. Works everywhere, from USA to Europe to LATAM, thanks to Unlimit's network.\nBut wait! There is more! Remember how there was a param called target chain? That's right! So the user's Smart Wallet lives on Base, but what if the dApp has contracts on Mainnet, or Polygon, or whereever else? Not to worry! With Chainlink's CCIP, we can create cross chain arbitrary userOperations and call destination contracts anywhere. With our custom Sender and Receiver contracts on CCIP's supported networks, we can call any arbitrary function - anywhere!",
+    "howItsMade": "It all starts with a little NextJS. As it always has to. For starters, when the user clicks Login on Vanderlinde, they're greeted with a very familiar Login with Google button. They click it, and they're taken over to Google's Auth Page upon which they do their thing. This is facilitated by Supabase, and their user info is hence stored there. Once authed, there is a check to see if this user (in supabase) already has a wallet. If yes, fetch that wallet and use it. We fetch the wallet address. If no, a keypair is created, and stored in Supabase. (ideally we want this to be non-custodial and multisig, but maybe in a future iteration). Once Keypair is created, Alchemy AA SDK is used to deploy the users Smart Wallet on Base Sepolia. Gas manager is used as a Paymaster.\nUser can also connect with their WorldID, and if they're verified, they can make use of the paymaster for gasless transactions.\nFor authorizing transactions from a dApp, we fetch user's private key (on Vanderlinde side) and use Alchemy Signer to initiate a UserOperation after encoding the transaction using viem (again, gas free if WorldID verified).\nFor CrossChain operations, such as if a dApp has a contract somewhere else other than Base, ChainLink's CCIP is used.\nA transaction data is abi encoded, including the target contract address on destination chain, and is sent to the Sender contract on Base. Sender contract encodes from input params AnyEVMMessage type and sends it to ChainLink's CCIP Router on Base. This router makes connection to target chain's router, and that then calls the Receiver contract on target chain. Receiver contract decodes transaction details, calls the target contract's function.\nFor onramp, we use Unlimit's modal overlay integration, with user's AA wallet as input, in order to purchase crypto directly inside Vanderlinde.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      },
+      {
+        "sponsor": "Base",
+        "trackName": "Best use of 4337 Account Abstraction",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "Base - Best use of 4337 Account Abstraction 2nd place"
+      }
+    ],
+    "githubUrl": "https://github.com/Complexia/vanderlinde-eth",
+    "demoUrl": "https://www.vanderlinde.io",
+    "teamMembers": []
+  },
+  {
+    "slug": "engoggle-e7pbe",
+    "name": "Engoggle",
+    "event": "ETHGlobal Sydney",
+    "description": "Spread a little joy and whimsy, make sure you slip slop slap while you're casting by automatically slapping on some noggles to your Farcaster PFP",
+    "projectDescription": "This project uses Frog, axum and a face detection algorithm to automatically find (hopefully) every eye position of every face in a user's profile picture, and slaps a random set of noggles onto everyone in the picture, providing download links as well as easy to share social compose intents to add a bit of fun to the weekend and your social profiles :)",
+    "howItsMade": "Using a couple of rust libraries for image processing called rust-faces https://github.com/rustybuilder/rust-faces and axum for the server and image responses and compositing, https://frog.fm for frame UI generation and a sprinkle of frog UI to make it not look like absolute garbage. I didn't really have anything I would consider buildable on my own for the weekend lined up as well as some outside commitments so didn't want to be carried too hard in a group, brainstorming late Friday night knowing I'd have maybe 8-12 hours I figured the nouns partner would at least give me an open-ended enough theme and enough of a constraint to be \"complete\" without feeling like too much. There were some fun problems I spent way too long on, I love rust s o much it's unreal. Fun to be able to test the pre-trained model on whether it could detect some of the whackier, esoteric PFPs on Farcaster. Turns out humanoid images worked pretty well, punks and pixel art NFTs not so much, although @v and @dwr's pfp's which I didn't expect to work too well actually ended up looking pretty good in testing which was surprising!",
+    "prizes": [],
+    "githubUrl": "https://github.com/0x330a/engoggle",
+    "demoUrl": "https://warpcast.com/harris-/0x2136ce99",
+    "teamMembers": []
+  },
+  {
+    "slug": "equinet-sydney-2024-kj5h3",
+    "name": "Equinet Sydney 2024",
+    "event": "ETHGlobal Sydney",
+    "description": "Combine Real World Asset Ownership with WorldCoin Attestations",
+    "projectDescription": "EIP3643 is a standard for RWAs; allowing for securities to be offered in a compliant way. One of the keys to EIP3643 is the Identity Registry and more specifically the CLAIMS Provider. By applying composability on RWAs in a compliant way, we can put permission controls on top of a completely decentralised platform.\nWorldcoin is a superb solution for identity management, specifically self-soverign identities. By combining EIP3643 standard with a Claims Provider supporting the worldchain nullifiers and proofs; we can make investing in RWAs easier, providing a smoother on-boarding process for customers.\nAdd to this the integration with AA, EIP4337 and Smart Wallets (e.g. Web3Auth and social logins) and we can make registration, verification and compliance easier, while also doing away with gas-fees, signatures, etc.\nUsers can hop into our website, browse the horses they want to purchase, complete the compliance process using Worldcoin and make purchases in a few easy steps. If we include the gas-station and sponsored transactions users can enjoy the major advantages of blockchain without the need to deal with the nitty gritty details.\nThe vision I have is that a user can verify their credentials (age, country, and other attestations) from reputable sources (e.g. GovID). They would integrate with Worldcoin and these attested and verified credentials",
+    "howItsMade": "Front End was NextJS, backend NextJS, solidity for development, foundry and hardhat for Smart Contract deployment and management. We used tailwindcss and\nI used worldcoin to integrate with the worldcoin protocol.\nI used base seporia as the blockchain housing the platform.\nWeb3 Auth with integration with Google and Discord. Web3Auth makes social logins easier; and abstracts away the complexities of wallets and the blockchain.\nI created two websites;\n\nMarketplace for horses where users should be able to purchase horses once they are compliant\nMockGov Attestation website; which is used to 'attest' user details. We tie the attestation (you're 18+, you're aussie and you're not a criminal) to a public key that follows the user wherever they go. At any point I can validate the user details and validate the attestation.\nUsers will typically jump into the marketplace and browse a horse; once they're happy they can then connect to the website. If they are already compliant (maybe because they validated elsewhere) then they can immediately start purchases. If not, they go through the compliance process outside of our marketplace. Once verified they come back and we can confirm they re compliant.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/victaphu/equinet-ethglobal2024/",
+    "demoUrl": "https://equinet-2024.netlify.app https://equinet-attestations.netlify.app",
+    "teamMembers": []
+  },
+  {
+    "slug": "noun-garden-ym4jn",
+    "name": "Noun Garden",
+    "event": "ETHGlobal Sydney",
+    "description": "A virtual garden to take a minute to slow down and catch your breath from the fast pace of web3",
+    "projectDescription": "Noun Garden is a safe haven built for the web3 enjoyer who may have spent a little too much time on the internet and is in need of some dire time to reset.\nThe website itself is extremely simple and it features the all new Noun character called Sage who is here to help you take a minute to slow down by participating in some mindfulness activities like box breathing.",
+    "howItsMade": "Noun Garden was created using vanilla html, css and javascript.\nI used the Nouns playground to create a custom character called Sage to become the face of the garden.\nI used P5.js to generate my box breathing tree used for the mindfulness activity on the website. Which was then turned into a GIF because I was unable to implement my p5.js code in time for submission.\nThis was my first ever hackathon so I wanted to create something extremely simple that I could create from start to finish as a solo hacker.",
+    "prizes": [],
+    "githubUrl": "https://github.com/tejitopia/noungarden",
+    "demoUrl": "https://noungarden.netlify.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "redenvelope-uc25t",
+    "name": "RedEnvelope",
+    "event": "ETHGlobal Sydney",
+    "description": "Onchain chinese culture red envelope that wraps tokens as gift for a selected group of people to redeem",
+    "projectDescription": "In web3, culture an important element. In the chinese culture, gifting friends and family red envelopes with cash symbolises the sharing of good wills and luck. This project brings this idea onchain, where influencers, founders, leaders, or just anyone could create a red envelope and gift tokens to his/her twitter followers. A red envelope will have the specified amount of tokens (eth or erc20) placed in, the choice to distribute token amount equally or randomly to each person. This is a way to increase gamification and bring joy. Only selected twitter followers can redeem them, with verification from Worldcoin, to prevent sybil attacks. It is launched on Base chain as Base has relatively lower fees, and with the farcaster ecosystem, Base is suitable for social apps like Red Envelope.",
+    "howItsMade": "The frontend is built using Next.js, tailwind, with ether.js, wagmi for smart contract interaction and rainbow-kit for wallet connection. It integrates with the Worldcoin API to verify real person identities, which helps mitigate botting and Sybil attacks. Initially, the Twitter API was considered but was substituted with a simpler demonstration method due to time limitations. Base chain is adopted for seamless, fast and cheap transaction, and the existence of Farcaster social network ecosystem.\nWhen one envelope is created, the address and claimable amount of each user are put together into a merkle tree that is generated off chain. The root hash of the tree will be stored on chain. When the target user comes to claim with a valid wallet address, the merkle proof will be generated off chain, and submits to onchain for verification. If the merkle tree verifys the identity is correct, the user will then by able to claim tokens.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/LLHOYH/red-envelop",
+    "demoUrl": "https://red-envelop-plum.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "bondidao-w157h",
+    "name": "BondiDao",
+    "event": "ETHGlobal Sydney",
+    "description": "A Task List / Crowdfunding Solution on the Blockchain compatible with Australian Law",
+    "projectDescription": "Bondi:\nA suburb of Sydney, New South Wales, Australia - Noted for its popular beach. Historically a working class area, consisting mainly of Irish and UK settlers looking for work in the city, it has become an internationally renowned brand and must see location, drawing visitors from all over the world. Even though the area has been much gentrified, clues of its rough origin still remains in the Australian venacular:\nGive someone Bondi  -  Australian English informal, dated attack someone savagely\nUsage: Snowy got Maxie in a corner and began to give him Bondi.\nShoot through like a Bondi tram - To Depart or pass by hastily:\nUsage: One man shot through like a Bondi tram and then a couple of others quickly followed suit.\n\nBondiDAO Concepts:\nBond - A security deposit, paid into an escrow in order to provide some sort of floor for compensation of work done on the platform.\nUsage:\n\"I need a Bond on the work I'm doing.\"\n\"Come on man, you're killing me with your demands\"\n\"Piss off. I'm not lifting a finger until I get this within the hour.\"\n\nBondi - A stable coin, having one to one ratio with the Australian Dollar, required for the Bond.\nUsage:\n\"I need you to chip in some Bondi for the Project.\"\n\"Naur bro. Piss off. I lost all those Bondi on the last one. Not going in again\"\n\nMade List - A List of Projects allowed on the DAO\nUsage: \"5 years coding away in a room. Finally I'm on the Made List\"\n\nMade Token - A tokenized SAFE note for a project/company, convertible only on a Trigger Event\nUsage: \"Those Made Tokens are sik bro.\"\n\nBonded - When an individual accepts a task into a project\nUsage:  “Are you bonded with those AAAs?”\n\nBondage - The act of an investor adding to the Bond for Made Tokens\nUsage:  “Those DDDs need some bondage right now”\n\nBinding - The amount of Bondi for a particular task\nUsage:  “Those bindings look HEAVY”\n\nBonding Ratio - The amount of Bondi / The Listed Token value for a Task\nUsage:  “I like the Bonding Ratio in this Bad Boy”\n\nBonding Pool - The pool of SAFE that are available for Bondage.\nUsage:  “Please, I'll do anything to get into the BB Bonding Pool”\n\nWe are playing with the concepts of what it means to establish trust between the entrepreuner, the 'worker', as well as the venture capital within what essentially is becoming more and more a ‘trustless society’.\nThe problem is that there is a lack of understanding on many sides of a potentially successful project. This is one of many reasons why a project will not succeed. Lets be frank about the negative perceptions of the 'Roles' within a project.\n1. The \"Entrepreneur\" is the person holding everything together, doing all the talking and promising a whole bunch of things. Blue sky thinking. Whilst the label 'visionary' is usually given by the group when talking about that individual, it is becoming more and more evident that that 'visionary' is now moving to a derogatory term in the culture as \"someone who can't do anything\". After all, 99% of all projects fail right?\n\n2. The \"VC\" is the person that says to everyone - hey, if you've got a project, come to me and MAYBE we can fund it. Let's not talk about the firehose of crappy chatgpt generated project that then comes their way, it's the perception by many that they are big swinging dicks that get whatever they want and any entrepreneur with an idea just has this concept of Shark Tank - where the big eats the small. There is no trust there either.\n\n3. The \"Worker\" is the person on the startup with a special set of skills, either real, faked or greatly exaggerated. The interesting thing about the worker is that they are the actual ones with the power in this three sided game. What they do have is the power of choice. They can walk away at any time. The Entrepreneur and VCs are well aware of that and this means that they will gaslit, overcompensate to the whims and demands of the worker. The worker, being jaded as hell, will look to do the same thing in return to. They think - man, I can do it better than those stupid fools I’m working for. I'm just going to go out there and build something and flip the tables on those idiots. Lo and behold, an entrepreneur is born.\n\n\nIn reality, apart from the very few who tend to not even participate in the startup game. After all, why even bother with the chaff, the hustlers and the shysters. Everyone is struggling and believe it or not, the \"Worker\" actually has the power in most circumstances. They are the ones that are actually investing their savings, doing the boring, old stuff and making out like bandits. This is not quite intuitive but this is the actual state of play.\n\nWe wish to end this on a request for contribution. Actual contribution.",
+    "howItsMade": "The technologies would be solidity, scaffold and reactjs.\nRight now, this is a social hack because the very dynamics of the situation described above played out in miniture during the hackathon itself. The rest of this will be generated by ChatGPT due to the lack of time.\n\n\"The Billionaire's Dilemma\" can refer to a few different concepts depending on the context. Here are a couple of interpretations:\nEthical and Social Responsibility: This refers to the ethical questions and social responsibilities that come with immense wealth. Billionaires, due to their significant resources and influence, face public scrutiny over their contributions (or lack thereof) to societal issues like poverty, climate change, and economic inequality. The dilemma lies in balancing wealth accumulation and personal interests with broader social expectations and philanthropic duties.\nEconomic Influence: This involves the impact of billionaires on economies and governments. Their ability to sway policy, affect markets, and influence political landscapes through lobbying and campaign donations presents a dilemma regarding the extent of their influence and the potential undermining of democratic and economic equality.\nLiterature and Fiction: If \"The Billionaire's Dilemma\" is a title of a book or a theme in a fictional story, it might explore personal, ethical, or romantic challenges faced by a fictional billionaire character, often set in a dramatic or high-stakes context.",
+    "prizes": [],
+    "githubUrl": "https://github.com/zcaudate/bondidao",
+    "demoUrl": "https://docs.google.com/document/d/1ckdQZYPrQaGPqaqurJmVTaPJLYmSXoHiWCJORR1E1MU/edit",
+    "teamMembers": []
+  },
+  {
+    "slug": "portal-1scyx",
+    "name": "Portal",
+    "event": "ETHGlobal Sydney",
+    "description": "The gateway to any token. Instantly purchase or bridge to your favourite token on any chain in one click.",
+    "projectDescription": "Most bridges only allow you to bridge specific tokens between chains. Onramp services support even lesser chains and lesser tokens. This creates a huge UX friction for users who are looking to get directly into a specific chain or token. What if you could reduce it all down to one click?\nEnter Portal, your gateway into any token on any EVM chain. Powered by Chainlink's CCIP, we are able to bridge between chains seamlessly.\nDon't have any tokens or don't even know what Web3 is? With Account Abstraction + Unlimit, you are able to purchase any token without worrying about gas or bridging!",
+    "howItsMade": "There are two scenarios, each with a different method of handling:\nBridging:\nWhen bridging, the user deposits any token of choice in the source chain. The smart contract then automatically swaps it to USDC & uses Chainlink's CCIP to bridge it to the target chain. Once bridged, the USDC is then swapped back to your token of choice and sent to you.\nPurchase/Onramp:\nWhen onramping, the user selects the chain of choice and token. Since we are using Unlimit, there is only a subset of tokens & chains that are supported. We would then purchase USDC on an L2 and bridge it to the target chain and swap it just like the bridge scenario above. For this hackathon purposes, we are using USDT on BSC testnet since thats the most readily available.\nBoth of these scenarios utilizes Account Abstraction by ZeroDev which is optional, and just smoothens the UX for Web2 & Web3 users.",
+    "prizes": [],
+    "githubUrl": "https://github.com/easonchai/portal",
+    "demoUrl": "https://portal-ochre-rho.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "deelection-project-498r0",
+    "name": "DeElection Project",
+    "event": "ETHGlobal Sydney",
+    "description": "#Decentralized election system with real-time results! Users can vote for candidates and view election outcomes instantly. Built using blockchain technology for transparency and security. #Web3",
+    "projectDescription": "This project is a web-based application for conducting decentralized voting using blockchain technology. It allows users to participate in elections by selecting candidates and casting votes. The system provides real-time updates on election results, ensuring transparency and integrity. It utilizes smart contracts to securely record and tally votes on the blockchain, preventing tampering and ensuring the accuracy of the outcome. Users can access the voting interface through a user-friendly web interface, where they can view candidate information, cast their votes, and monitor the progress of the election. The application employs technologies such as HTML, CSS, JavaScript, jQuery, Bootstrap, and Web3.js for frontend development and interacts with blockchain networks like Ethereum using Truffle and smart contracts. This project aims to revolutionize traditional voting systems by introducing a decentralized and transparent approach to elections, fostering trust and accountability in the democratic process.",
+    "howItsMade": "This project was built using a combination of frontend technologies such as HTML, CSS, JavaScript, jQuery, and Bootstrap, along with backend technologies like Ethereum blockchain and smart contracts. Here's how it all came together:\n\n\nHTML, CSS, JavaScript, and Bootstrap: These were used to create the frontend user interface, including the layout, styling, and interactive elements such as forms and buttons. Bootstrap helped in ensuring a responsive and mobile-friendly design.\n\n\nEthereum Blockchain: The backbone of the project, Ethereum blockchain, was utilized for its decentralized nature, ensuring transparency and security in the voting process.\n\n\nSmart Contracts: Smart contracts were written in Solidity, Ethereum's programming language, to handle the logic of the voting system. They recorded votes securely on the blockchain and facilitated the tallying process.\n\n\nWeb3.js: This JavaScript library allowed interaction with the Ethereum blockchain from the frontend, enabling functionalities like fetching candidate information, casting votes, and retrieving election results in real-time.\n\n\nTruffle: Truffle, a development framework for Ethereum, was used for writing, testing, and deploying smart contracts. It streamlined the development process and provided tools for managing contracts and migrations.\n\n\nPartner Technologies: The project leveraged partner technologies such as jQuery and Truffle-contract.js to simplify interactions with Ethereum smart contracts. These technologies enhanced development efficiency and facilitated seamless integration with the blockchain.\n\n\nNotable Mention: One notable aspect of the project is its use of blockchain technology to ensure the integrity and transparency of the voting process. By recording votes on an immutable ledger, the system prevents tampering and guarantees the accuracy of election results. Additionally, the real-time updates on the web interface provide users with instant feedback on the progress of the election, enhancing user engagement and trust in the system.",
+    "prizes": [],
+    "githubUrl": "https://github.com/andreaouyang/DeElection-Project",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "cache-coherence-1nq6z",
+    "name": "Cache Coherence",
+    "event": "ETHGlobal Sydney",
+    "description": "Extention of Account Abstract Smart Wallet Using CCIP And World Coin To Recover Lost Keys",
+    "projectDescription": "An extension to EIP-4337 account abstract smart contract wallet that can be deployed on any EVM chain, namely Base.\nThe wallet setup includes setting a WorldCoin ID. The WorldCoin ID provides a secondary authentication which can be used as a recovery method in case keys are lost.\nHowever, there is a limited number of chains which support WorldCoin sign-in authentication methods. Thus, CCIP is used to bridge between the account wallet and WorldCoin verifier. CCIP is bidirection and allows sending proofs from the account to WorldCoin. After verification a success or failure response is sent back to the account via CCIP.",
+    "howItsMade": "This project is a Solidity EVM + React App front end that focuses on factory deployment and account recovery functionality.\nCurrently deploy contracts are an Abstract Account wallet deployed on Base Sepolia. This uses CCIP to bridge to and from Ethereum Sepolia.\nThe smart contract side starts with a factory. The factory setup is used to create new wallet accounts. Each account is initialized with a ECDSA address that is used to validate bundles and a World Coin ID which can be used for account recovery.\nThe account wallet is EIP 4337 compliant allowing for all RPC methods. This project is an extension which can easily be adopted by cloud providers to incorporate into their offerings.\nRecovery is a public function which allows calling by any user when they've lost ownership of their wallet. The caller must provider a World Coin proof associated with the ID and supply sufficient native tokens for the CCIP bridge.\nUpon sending a message through the CCIP bridge a smart contract developed by Cache Coherence is called. This contract connects with World Coin Verifier and forwards the proof.\nHowever, currently the World Coin Verifier is reverting for proofs on the ETH Sepolia chain. This may be due to the World Coin ID being used not being pushed on-chain before verification can occur. To facilitate, a temporary hack is applied to assume World Coin ID verification has succeeded.\nA call is made back through the CCIP bridge upon a successful verification. This will reach the account wallet and update the owner ECDSA address to reflect the new signed and authenticated address.\nA front end using React is implemented to facilitate the account creation via the factory and recovery of an account. The front end uses an IDKit QR widget which allows a user to generate a proof using their world ID.\nUpon generating a proof the front-end will submit a transaction to begin the recovery process. Only a single transaction is required as the rest of the process is automated thanks to CCIP automatic process of messages. After the two bridge transactions occur the ECDSA address is updated.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Best World ID Usage 2nd Prize",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Worldcoin - Best World ID Usage 2nd Prize"
+      },
+      {
+        "sponsor": "Base",
+        "trackName": "Best use of 4337 Account Abstraction",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "Base - Best use of 4337 Account Abstraction 1st place"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 ETHGlobal Sydney Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 ETHGlobal Sydney Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/kirk-baird/cache-coherence/",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "fitwiffrens-2zo8n",
+    "name": "FitWifFrens",
+    "event": "ETHGlobal Sydney",
+    "description": "FitWifFrens,  is a commitment device to encourage frens to stay fit or commit to a trackable task together.",
+    "projectDescription": "Want to get fit? Back yourself with dollars at risk, you only lose when you fail to complete what you set out to do.\nThe project uses continuous staking pools with simple to check parameters to encourage consistent weekly discipline over the long run.\nWe link up an address with their unique social account id (strava id) and their (world id). Once a user verifies and commits a staked amount, the chainlink functions activate once at the end of each week to verify the results on against the api and process the distribution of rewards from users that failed uniformly with the users that succeeded in meeting their commitments.\nCommitment examples are:\n\n4 activities/workouts a week AND minimum of 120 mins spent\n3 activities/workouts a week AND minimum of 90 mins spent\n2 stack exchange questions answered a week\n\nIf a user is successful in completing their task for the week, their commitment stake is automatically rolled to the following week with the option of withdrawing their staked amount.",
+    "howItsMade": "We used Blazor for the front end,\nStrava Authentication and world Id for verification and linking\nDeployed smart contracts for each of the commitment pools\nUsed Chainlink functions for calling the commitment verifying API.\nWe hacked together the strava results response api as well, because we haf no enuf frens on strava on midnight on saturday",
+    "prizes": [
+      {
+        "sponsor": "Chainlink Labs",
+        "trackName": "Connect the World with Chainlink",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Chainlink -  Connect the World with Chainlink"
+      },
+      {
+        "sponsor": "World",
+        "trackName": "Best World ID Usage 3rd Prize",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Worldcoin - Best World ID Usage 3rd Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/FitWifFrens/FitWifFrens",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "tipsytap-ix6d1",
+    "name": "TipsyTap",
+    "event": "ETHGlobal Sydney",
+    "description": "TipsyTap lets users tip Web3 hosts/venues with any memecoin on BASE. The total tips received act as a reputation score, incentivizing great service. Hosts/venues can withdraw received memecoins, combining fun meme assets with a reputation system for engaging Web3 experiences.",
+    "projectDescription": "Concept\nWe are experiencing a memecoin hype, mainly on Solana and BASE. While people are still crazy about its speculative features, we consider it would be an excellent tool to build communities and connects our daily life with crypto. Therefore, we build this mobile-end payment application to incentivize excellent service and experiences while leveraging the fun and creativity of memecoins, with a hint of amusing Nouns elements.\nApplication Mechanics\nThe app has two portals: user portal and venue/host portal.\nThe user portal has following functions:\n\nLog in or sign up with email (Account Abstraction) or wallets (MetaMask, Coinbase Wallet etc.), then set the password.\nUser profile page, which displays the balance of different memecoins, memecoin top-up, tip the venue, tip the host and tipping history.\nIn tip the venue/tip the host page, user can enter amount of tipping, re-enter the password, review and then submit the transaction.\nIn the transaction successfully made page, the new balance of tipped venue/host will be shown, with back to profile button.\nThe venue/host portal has following functions:\nLog in or sign up with email (Account Abstraction) or wallets (MetaMask, Coinbase Wallet etc.), then set the password.\nVenue/host profile page, which displays the balance of different memecoins, withdraw and tipping history.\nIn withdraw page, user can enter amount for withdrawn, re-enter the password, review and then submit the transaction.\nIn the transaction successfully made page, the new balance of tipped venue/host will be shown, with back to profile button.",
+    "howItsMade": "TipsyTap uses React JS, Next JS, Privy, Wagmi, Viem JS.\nWEB3\nThe following are the tools used for blockchain-related features:\nBASE: the memecoin $Bdrunk we use in demo is on BASE. Firstly BASE has vibrant memecoin ecosystem, secondly it aims for mass adoption - bringing another 1 billion users onchain, last but not the least, it enables faster, cheaper and securer small transactions.\nAccount Abstraction: even though we only use Gmail login in the demo (due to short on time), but it is the first step to enable future AA wallet.",
+    "prizes": [],
+    "githubUrl": "https://github.com/mercurylabs-eco/drunk-hackthon",
+    "demoUrl": "https://www.drunkmeow.wtf/tips/hostOverview?venue=0x0275155fb7A7FCc4867B73641c7B5c279Ae04086&host=0x2B62A579f43b43fF9D61b3aa7fB95e04888fbC26",
+    "teamMembers": []
+  },
+  {
+    "slug": "pottery-tz6d0",
+    "name": "pottery",
+    "event": "ETHGlobal Sydney",
+    "description": "Pottery is a DeFi protocol that utilises Pendle in order to make a lossless on-chain lottery",
+    "projectDescription": "Pottery is a DeFi protocol that utilises Pendle in order to make a lossless on-chain lottery\nBy leveraging Pendle’s modular architecture, Pottery generates lottery prizePools in pooled assets baskets which we call Kilns. A kiln is composed of three distinct phases;\nLive, where users are able to mint tickets, in exchange for Pendle yield bearing tokens (YT)\nLocked, yield accrues in the Kiln which will ultimately serve as the prize pool, randomly drawn to an individual jackpot winner, users can trade the tickets on NFT marketplaces\nClosed, the lotto has is finished and users are able to withdraw their assets and the random winner is able to claim their prize\nBuilt with React, TypeScript and Wagmi, the frontend allows users to easily interact with a set of smart contracts to buy/sell tickets in exchange for YT tokens. Using Foundry tools we deployed on Arbitrum and Mantle to showcase cross-chain functionality, utilising the lower gas costs to make NFT ticket minting & trading more cost effective for users. Once the kiln has cooked its juicy prize full of yield & points, a python Keeper bot draws the winner using Chainlink VRF for verified randomness. Unlike other existing defi lottery implementations like PoolTogether, Pottery will always have a winner. By using Pendle, we believe that it adds an extra layer to the existing dynamic / insanity that we call points farming. Allowing users to bet their chances for massive points returns instead of smaller yields, sell tickets at a premium or buy up unwanted tickets at a chance for the jackpot. By adding this dynamic, users can participate and price the expected value of the points and subsequent airdrop, by using the price discovery from trading the NFT tickets on marketplaces. The NFT Ticket price should reflect one equal share of the expected future value of the pool containing the airdropped tokens, yield and points. Users not interested in taking their chances with lottery and points can just elect to sell their ticket and lock in the yield.",
+    "howItsMade": "This project uses smart contracts on arbitrum and mantle to hold yield tokens from already deployed instances of Pendle. We mint ERC-721 NFT tickets to users who deposit YT during the mint period. These are then used for the lottery of all yield accrued to the Kiln, on arbitrum, Chainlink VRF is used to draw the winner, however on mantle as no chainlink VRF deployment exists, we use a custom pseudo-random generator using requested blockhashes in 2 transactions, the first transaction pins the block hash to be used as the random seed in N blocks time, and the second getting the N block ahead block hash and calling back to the kiln with the seed. Both VRF & the custom rand are called by a permissioned keeper bot, written in python.",
+    "prizes": [
+      {
+        "sponsor": "Mantle",
+        "trackName": "DEFI",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Mantle -  DEFI"
+      }
+    ],
+    "githubUrl": "https://github.com/CalabashSquash/pottery-contracts-v1 ",
+    "demoUrl": "https://pendle-pottery-ui.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "zkflex-4vuyp",
+    "name": "zkFlex",
+    "event": "ETHGlobal Sydney",
+    "description": "This project aims to provably verify assets that users claim to have without revealing their Ethereum addresses, thus enhancing privacy and security in digital asset verification.",
+    "projectDescription": "zkFlex utilizes zero-knowledge proofs to enable the verification of asset ownership on the Ethereum blockchain without compromising the privacy of the user's wallet address. This project is designed to enhance privacy in transactions and interactions on blockchain platforms, ensuring users can verify their assets securely without exposing sensitive personal information.",
+    "howItsMade": "The zkFlex project harnesses advanced cryptographic techniques, particularly zero-knowledge proofs (ZKPs), to ensure secure and private verification of asset ownership on the Ethereum blockchain. By leveraging ZK-SNARK technology, we craft proofs that confirm the existence and rightful ownership of assets without disclosing any specifics about the assets or their owners' identities. Our system integrates seamlessly with Ethereum through smart contracts written in Solidity, facilitating interactions with these proofs.\nTo streamline the generation and verification of ZKPs, we employed robust libraries like circom and snarkjs, which also help in deploying on-chain verifiers efficiently. Additionally, we have enhanced user experience by utilizing Open Graph (OG) metadata, making the sharing of zk proofs more engaging and visually appealing across social platforms.",
+    "prizes": [
+      {
+        "sponsor": "Mantle",
+        "trackName": "Best NFT, Gaming or Social Project",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Mantle -  Best NFT, Gaming or Social Project"
+      },
+      {
+        "sponsor": "dabl.club",
+        "trackName": "Zero Knowledge Bounty",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "dabl.club - Zero Knowledge Bounty 1st place"
+      },
+      {
+        "sponsor": "Base",
+        "trackName": "Build an Onchain Product",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "Base - Build an Onchain Product 3rd place"
+      }
+    ],
+    "githubUrl": "https://github.com/Web3Rizzards/zkFlex",
+    "demoUrl": "https://zkflex.lol/",
+    "teamMembers": []
+  },
+  {
+    "slug": "zk-oracle-network-6rnv1",
+    "name": "ZK Oracle Network",
+    "event": "ETHGlobal Sydney",
+    "description": "Introducing ZK Oracle Network, a revolutionary blockchain-based solution that leverages Zero Knowledge Proofs (ZKP) to securely and efficiently validate external data inputs for decentralized applications in a free and permissionless manner",
+    "projectDescription": "Introducing ZK Oracle Network, a revolutionary blockchain-based solution that leverages Zero Knowledge Proofs (ZKP) to securely and efficiently validate external data inputs for decentralized applications in a free and permissionless manner.\nTraditional Oracle solutions have a centralisation network with limitations on what Oracle data they can provide at a high cost and lack of privacy. ZK Oracle Layer is here to disrupt this, it utilise ZK to provide any answers in a permissionless way.",
+    "howItsMade": "ZK Oracle Network runs on a storage network similar to Arweave to store the operator's aggregated response. Then, it utilises ZK to generate ZK Merkle proof and upload the Merkle tree to any destination network for validation. All of this is provided free and without permission.",
+    "prizes": [],
+    "githubUrl": "https://github.com/leckylao/ZKOracleNetwork",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "adgi-y9xr3",
+    "name": "ADGI",
+    "event": "ETHGlobal Sydney",
+    "description": "Incubated by Durian DAO, Artificial DeGenerate Intelligence is an AI assistant on Telegram that streamlines the process of generating, refining, and posting proposals for DAOs.",
+    "projectDescription": "For discerning members of DAOs who prioritize enhancing the proposal process, ADGI presents itself as an indispensable solution. ADGI adeptly streamlines the arduous task of idea collection, solution refinement, and proposal posting. Diverging from conventional AI tools, ADGI simplifies on-chain intricacies by operating on Libertai, a decentralized, privacy-centric infrastructure. Our offering serves as a catalyst for decision-making within DAOs, cultivating a resilient DAO ethos by empowering the generation of innovative ideas while ensuring expedited decision-making and upholding data privacy. ADGI stands as a testament to innovation, incubated by Durian DAO to address the common good within DAO ecosystems.",
+    "howItsMade": "We integrated with Chainlink so that the AI oracle can consume the summary of the Telegram conversation transcript and generate a proposal accordingly for the DAO members. By automating the summarization of discussions and proposal generation, it streamlines decision-making processes within DAOs, fostering efficiency and transparency. This not only simplifies DAO management but also empowers members to focus on meaningful contributions and collaboration rather than administrative tasks.",
+    "prizes": [],
+    "githubUrl": "https://github.com/dtbx/duriandaoethsydney",
+    "demoUrl": "https://www.figma.com/proto/PQjVF29UpvUoTJSTQKEeIp/ADGI?page-id=4%3A62&type=design&node-id=4-95&viewport=238%2C267%2C0.06&t=B0kxY03dUIi9VkBo-1&scaling=contain&starting-point-node-id=4%3A95&mode=design",
+    "teamMembers": []
+  },
+  {
+    "slug": "rip-7212-onboarding-zubi9",
+    "name": "RIP-7212 Onboarding",
+    "event": "ETHGlobal Sydney",
+    "description": "Using Coinbase Smart Wallet, I created an onboarding demo where users do not need to install any extension, store any seed phrases, or pay any gas fees while maintaining a top level of security of their wallet's private key using a combination of RIP-7212 and EIP-4337.",
+    "projectDescription": "It's a demo showcasing a seamless onboarding experience powered by two key improvement proposals; RIP-7212 and EIP-4337.\nIt generates a new public-private key pair using the secp256r1 curve, then deploys a smart contract wallet using EIP-4337 with the functionality to verify signatures on the secp256r1 curve using the precompile added in RIP-7212.",
+    "howItsMade": "I built a simple frontend application with Next.js, Typescript, shadcn/ui.\nFor the web3 aspects such as connecting wallet and minting NFTs, I used thirdweb.\nThirdweb has an integration with Coinbase smart wallet to power the onboarding experience, creating new wallets that follow the secp256r1 curve, and deploying smart wallets with EIP-4337.\nFor gasless transactions, I used Base which sponsors the fees of smart contract wallets on the Base Sepolia testnet.",
+    "prizes": [],
+    "githubUrl": "https://github.com/jarrodwatts/ethglobal-sydney-2024",
+    "demoUrl": "https://ethglobal-sydney-2024.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "airdroppify-5p8nw",
+    "name": "Airdroppify",
+    "event": "ETHGlobal Sydney",
+    "description": "Honest airdrops as a service - stop Sybils and bad actors from ruining new protocol launches!",
+    "projectDescription": "Airdroppify exists to filter bad actors from airdrops, allowing for better incentivised launches for tomorrow's protocols. Inspired by NounsDao to \"Do Genuine Good\" - this project was born to help tomorrow's projects launch better.\nAirdroppify is an airdrop ecosystem that consists of two types of users. The airdrop creator and the airdrop claimer.\nThe airdrop creator (it could be a protocol, exchange, foundation, whale, etc.) connects their wallet to Airdroppify to create an airdrop campaign (similar to how businesses today setup a Facebook ads account, etc.). They deposit the funds they want to commit for the campaign, and information about the campaign. These funds can be deposited through any form of crypto (Chainlink CCIP is used to convert these tokens so that protocols don't have to deploy on new chains, but can still gain the network effects), or via fiat using Unlimit Crypto (fiat is converted to crypto and sent to the user's wallet address).\nOn the other hand, airdrop claimers can now organically discover new protocols to use and commit to. The claimer can connect any web3 wallet (powered by WalletConnect) to Airdroppify. In order to claim any airdrop, the claimer must verify their ID via Worldcoin's ID kit. This ensures they are not a Sybil, and ensures they are not farming the airdrop through multiple addresses. Over time, this allows Airdroppify to locate high quality network users that can be referred to new projects that wish to launch. We believe the future of product companies is with supporting the core people.",
+    "howItsMade": "Airdroppify is a hybrid dApp built on top of Meteorjs. With a hybrid backend that stores airdrop campaign data & claim transaction records in MongoDB, other data, such as airdrop proofs, claims and amount are stored on chain.\nChainlink CCIP is used in the deposit process of Airdroppify. Airdrop creators can deploy any token/fiat on any chain to still host airdrops. This allows the creator to leverage the network effects of other chains without the development overhead of deploying on a new chain.\nWorldcoin's ID is used to verify claimers to ensure they are real humans and not Sybils. This stops airdrop farming scripts and allows for fairer launches for new protocols. In the future, vesting airdrops could be a feature deployed to slow immediate selling pressure of new tokens.\nAirdroppify stores the 'proof of identity' from Worldcoin in the smart contract, which is deployed on Base Testnet, Mantle Testnet, Polygon Cardonia & Avail.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/andsnw/airdroppify",
+    "demoUrl": "https://airdroppify.com",
+    "teamMembers": []
+  },
+  {
+    "slug": "fairraffle-ddt22",
+    "name": "FairRaffle",
+    "event": "ETHGlobal Sydney",
+    "description": "A Raffle contract that uses World ID On-Chain Integration. It allow every person to participate in the raffle for only once.",
+    "projectDescription": "This project uses World ID On-Chain Integration. It allow every person to participate in the raffle for only once. This make sure each raffle is fair to everyone and free of Sybils, while not requiring the user to stake their capital. Example usecase can be concert ticket, marketing campaign, KOL giveaway, airdrop, etc.",
+    "howItsMade": "This project use World ID On-Chain Integration behind the scenes to make sure each person can only join the raffle for once. The campaign creator can end the raffle after some time and use on-chain randomness to pick a winner. The winner would be able to receive token or other prize setup in the contract.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/gzeoneth/FairRaffle",
+    "demoUrl": "https://main--fairraffle-ethsydney.netlify.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "privacy-avengers-9yc3i",
+    "name": "Privacy Avengers",
+    "event": "ETHGlobal Sydney",
+    "description": "We developed a protocol for verifiable machine unlearning, solving AI privacy issues by securely and efficiently detecting and removing user data. Through backdoor attacks and rigorous validation with hypothesis testing and zero-knowledge proofs, transparency is ensured.",
+    "projectDescription": "This project focuses on addressing the pervasive issue of privacy in artificial intelligence (AI) systems. Here's a detailed breakdown of what the project entails:\n\n\nProblem Statement: AI users face significant privacy concerns. It's difficult for users to detect if their privacy is compromised, while AI service providers struggle with the laborious task of removing sensitive user data from their datasets.\n\n\nInspiration and Methodology: The project draws inspiration from the research paper titled 'Athena: Probabilistic Verification of Machine Unlearning'. It proposes a protocol to achieve verifiable machine unlearning, a process crucial for safeguarding user privacy.\n\n\nProtocol Overview:\n\nBackdoor Attack: The protocol begins by conducting backdoor attacks to verify if the model indeed stores user data. This step provides substantial evidence for prompting model providers to initiate machine unlearning.\nMachine Unlearning: After verifying the presence of stored user data, model providers are compelled to undergo machine unlearning. This process involves removing certain data from the model without necessitating full retraining, significantly reducing costs.\nValidation through Inference and Hypothesis Testing: Multiple rounds of inference are conducted to detect any remaining backdoors. Hypothesis testing is then employed to derive convincing conclusions regarding the efficacy of the unlearning process.\nZero-Knowledge Proofs (ZKP): To ensure the integrity of inference results, zero-knowledge proofs are utilized to verify that the results indeed originate from the current model state, adding an extra layer of security and trust.\n\n\n\nRole of Privacy Avengers: Privacy Avengers are individuals who champion data privacy. They play a crucial role in conducting backdoor attacks, monitoring the model's behavior to verify that the unlearning has indeed occurred, and verifying the integrity of inference results.\n\n\nFinal Outcome: Upon successful completion of the protocol, conclusive evidence is obtained regarding the effectiveness of machine unlearning. Privacy Avengers receive rewards for their contributions, ensuring accountability and incentivizing participation.\n\n\nSafety Measures:\n\nWorld ID: Implementation of world ID ensures secure data handling.\nVerifier Smart Contracts on Layer 2 (L2): Deploying verifier smart contracts on Layer 2 ensures affordable transaction fees, enhancing accessibility and scalability.\n\n\n\nOverall, this project offers a comprehensive solution to the complex challenge of ensuring privacy in AI systems through a meticulously designed protocol supported by advanced techniques and community participation.",
+    "howItsMade": "Protocol Design:\nWe began by outlining the protocol based on the principles laid out in the research paper 'Athena: Probabilistic Verification of Machine Unlearning'. This involved conceptualizing the steps involved in verifiable machine unlearning and defining the roles of Privacy Avengers.\n\n\nImplementation:\n\nBackdoor Attack Mechanism: We implemented the backdoor attack mechanism using techniques such as data poisoning and adversarial examples. This involved injecting polluted data into the model to trigger specific behaviors that indicate the presence of stored user data.\nMachine Unlearning Algorithm: We developed a machine unlearning algorithm inspired by techniques like fine-tuning and regularization. This algorithm selectively removes sensitive user data from the model while preserving its overall performance.\nInference and Hypothesis Testing: For the validation process, we utilized statistical inference techniques and hypothesis testing methodologies. This enabled us to analyze the model's behavior post-unlearning and draw statistically significant conclusions about the efficacy of the process.\nZero-Knowledge Proofs (ZKP): We integrated ZKPs into the system to ensure the integrity of inference results. This involved implementing cryptographic protocols that allow one party to prove knowledge of certain information without revealing the information itself.\n\n\n\nTechnologies Used:\n\nIntegration of world ID to link physical identities securely, enhancing privacy protection.\nDuring the challenge period, proof of inferences was obtained to verify the authenticity of model results.\nVerifier contracts were deployed on Layer 2 solutions such as Mantle, Avail, Base, Polygon, and Cardona, ensuring affordable transaction fees and scalability.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/Mingzhe-W/privacy_avangers",
+    "demoUrl": "https://studio.youtube.com/video/OgbSf73Z2Iw/edit",
+    "teamMembers": []
+  },
+  {
+    "slug": "wooblay-gygv3",
+    "name": "Wooblay",
+    "event": "ETHGlobal Sydney",
+    "description": "DAO Creation, development and management platform. Build a DAO with our no code tool, develop it with our on-chain contribution tracking and governance,",
+    "projectDescription": "A platform to bring someones project to life or contribute to them. Leveraging DAO technology we provide a no code DAO creation tool, alongside a UI/UX to view a independent DAO dashboard and users can freely apply to join or contribute tasks to DAOs. On-chaining the contribution process to provide automated rewards on approved solutions and allowing gamification and rewarding system. Overall incentivising people to get maintain activity in a DAO for income measured by an XP system or freelance solve issues for rewards, all on-chain.\nIn simple terms create a project, add team members, set tasks for both the team and the public to complete for rewards alongside the tooling of governance, levelling and tracking.\nPresenation:\nhttps://www.canva.com/design/DAGEQUcn4fw/y_tMj8E3qSuJD3BIqG9t3w/edit?utm_content=DAGEQUcn4fw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+    "howItsMade": "The project uses:\nFrontend - Next.js (React), Typescript, Wagmi, RainbowKit\nBackend - Alchemy, Pinata, Chainlink\nTechnology - Base L2\nWe used Chainlink to on-chain GitHub contributions, tracking PR's once they are approved the contributor is rewarded automatically by on-chaining the GitHub API.\nWe use Base L2 to deploy the DAO factory contracts, overall to provide the no code DAO creation tool.\nWe use SoulBound NFTs to represent ownership in a DAO, this causes governance to be per person majority. Owning this NFT gives you rewards for being active within the DAO, basically providing income from the treasury for participating.\nThe biggest thing worth mentioning is the vision for the creation, this will continue to be build and has had so much planning, unfortunately due to time restraints could not develop entire platform.\nSpecial note to Chainlink connection to track GitHub contributions on chain and create tasks to set the scope of these contributions, linked with our governance contracts to vote if these solutions are worth the reward.\nWe use base to deploy our no code DAO creation contracts.\nCheck out the Miro to see our plan and future vision for the platform:\nhttps://miro.com/app/board/uXjVKP-K4mU=/?share_link_id=36371031063",
+    "prizes": [],
+    "githubUrl": "https://github.com/DAOWooblay/wooblay",
+    "demoUrl": "https://youtu.be/6ZYVGbRg63Y",
+    "teamMembers": []
+  },
+  {
+    "slug": "relief-link-mbfmy",
+    "name": "Relief Link",
+    "event": "ETHGlobal Sydney",
+    "description": "\"Sign up to instantly receive aid post-disaster—fully automated through Chainlink Oracles. With Worldcoin and Unlimit enhancing security and simplifying onboarding, quickly fund insurance or access humanitarian aid via wearable NFC technology.\"",
+    "projectDescription": "Relief Link is an innovative service designed to automatically distribute aid immediately following disasters, utilizing blockchain technology for efficient and secure operations. It integrates Chainlink Oracles for real-time disaster monitoring and automated transactions, ensuring timely assistance to those affected within a specific geographical scope. The system onboards users, even those new to cryptocurrency, via Unlimit and third web's Account Abstraction, facilitating easy entry with fiat currency options. Personhood is verified using Worldcoin to maintain system integrity and prevent fraud, ensuring that aid is distributed once per verified user. Our platform leverages PredictHQ's API to track and analyze the impact of various natural disasters—like floods, wildfires, and earthquakes—within 100 kilometers of a user's registered location. This data is visualized on our website, offering insights into recent disaster trends across the Asia-Pacific region. By automating checks and minimizing API response sizes, Relief Link operates efficiently, reducing transaction fees and providing immediate financial support directly to affected policyholders' wallets when disasters strike.",
+    "howItsMade": "Relief Link was meticulously developed using a synergy of innovative technologies and strategic partnerships, particularly focusing on integrations with Worldcoin, Chainlink, Unlimit, and Nouns DAO. Our project leverages the strengths of each partner technology to create a robust and reliable system for immediate disaster aid distribution, showcasing the power of collaboration in the blockchain space.\nTechnology Integration and Partner Benefits:\nChainlink Oracles: A cornerstone of our application, Chainlink Oracles facilitate real-time data verification and automation of transactions based on external disaster events. This integration ensures that aid distributions are triggered automatically and accurately when conditions meet predefined criteria, offering transparency and reliability which are crucial for disaster response.\nWorldcoin: By integrating Worldcoin, we ensure the integrity of aid distribution. Worldcoin's technology verifies the identity of each recipient, guaranteeing that aid is disbursed fairly and prevents fraudulent claims. This is essential for maintaining trust and accountability within our platform, especially when managing resources meant for disaster relief.\nUnlimit: We partnered with Unlimit to streamline the onboarding of users new to the blockchain. Unlimit’s frictionless fiat onramp services allow users to fund their wallets easily and engage with our insurance products without prior blockchain experience, thus expanding our service’s accessibility and user base.\nNouns DAO: Our collaboration with Nouns DAO brings in a unique cultural and community element through the use of Nouns avatars. These avatars not only enhance user experience but also foster a sense of community and belonging, which is vital during recovery from disasters.\nNoteworthy Technical Details:\nMonorepo Approach: We adopted a monorepo structure for our full-stack development, enabling cohesive updates, streamlined testing, and robust deployment processes across our front-end, back-end, and smart contract management. This approach simplifies the complexity typically associated with blockchain-based applications and smart contract integrations.\nSmart Contract Deployment: All our contracts are deployed on the Base Sepolia Testnet, allowing for rigorous testing and iteration in a cost-effective manner. This strategic choice facilitates rapid development and scaling of our project while keeping overhead low.\nAPI Optimization: To minimize transaction fees and enhance performance, our servers optimize the payloads from PredictHQ’s API. This bespoke solution reduces blockchain transaction sizes, cutting costs and increasing the speed of data processing, crucial for timely disaster response.\nIn conclusion, Relief Link exemplifies a cutting-edge application of blockchain technology for humanitarian aid, supported by strategic partnerships that enhance its efficacy and reach. Our project not only demonstrates technical innovation but also a commitment to using technology to make a tangible difference in the lives of those affected by disasters.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Best Public Goods Use Case",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Worldcoin -  Best Public Goods Use Case"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 ETHGlobal Sydney Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 ETHGlobal Sydney Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/myanzik/relief-link",
+    "demoUrl": "https://relief-link.pages.dev/",
+    "teamMembers": []
+  },
+  {
+    "slug": "decentral-domination-b6bws",
+    "name": "Decentral Domination",
+    "event": "ETHGlobal Sydney",
+    "description": "Embark on a conquest for global supremacy in Decentral Dominations! Strategize, execute and reign supreme in this Ethereum-based strategy game. #DAO #Ethereum. ⚔️🌏",
+    "projectDescription": "Embark on a conquest for global supremacy in Decentral Dominations, where players, organized into groups within decentralized autonomous organizations (DAOs), strategize, execute, and reign supreme in this Ethereum-based strategy game. Command your armies towards on-chain victory in this action-packed Ethereum turn-based strategy game, where blockchain technology meets tactical warfare.\nIn Decentral Dominations, players form groups within DAOs, combining their strategic prowess and resources to dominate the virtual battlefield. Each group operates within the framework of their DAO, making collective decisions that impact their gameplay and position within the game's hierarchy.\nVie for control and supremacy in this futuristic total war simulation, where groups within DAOs wield power and influence through coordinated efforts and strategic alliances. Develop and coordinate your units to secure immutable victory, leveraging the benefits of blockchain technology and decentralized governance.\nKey features of Decentral Dominations include:\nGroup-based Gameplay: Players form groups within DAOs, pooling resources, expertise, and strategic planning to achieve dominance in the game world.\nDecentralized Governance: DAOs facilitate collective decision-making, allowing groups of players to participate in shaping the game's development and direction.\nImmutable Record-Keeping: All actions, transactions, and decisions are recorded on the Ethereum blockchain, ensuring transparency and integrity in gameplay.\nStrategic Depth: Plan intricate battle strategies, coordinate with allies, and adapt to dynamic challenges to outmaneuver opponents and secure victory.\nCommunity Collaboration: Engage with a vibrant community of players, forge alliances, compete in tournaments, and climb the leaderboards to establish your group's dominance.\nDecentral Dominations offers an immersive experience where players within DAOs collaborate, stratege, and compete to establish their group's supremacy in a decentralized gaming environment powered by Ethereum blockchain technology. Join the conquest and lead your group to on-chain victory!",
+    "howItsMade": "Decentral Dominations utilizes cutting-edge blockchain technology to revolutionize the gaming experience. Running on-chain powered by zero-knowledge proofs, our game ensures secure and transparent transactions. We leverage the Ethereum Virtual Machine and are exploring integration with Layer 2 solutions for enhanced scalability and reduced gas fees.\nOur frontend is built on the lightning-fast Preact framework, offering players a seamless and responsive gaming interface. Deployment of contracts is streamlined through Hardhat, while Veim facilitates Ethereum integration, connecting all blockchain functionalities to the game.\nTo ensure privacy and security, we employ Noir and NoirJS for running zero-knowledge proofs. This advanced cryptography ensures that players' actions remain confidential, adding an extra layer of excitement and engagement to every move.\nWith our team's expertise and dedication, Decentral Dominations serves as a proof of concept for decentralized autonomous organization (DAO) coordination. Our MVP showcases the potential of blockchain technology in gaming illuminating the way for future developments in the industry.",
+    "prizes": [],
+    "githubUrl": "https://github.com/0xjimmy/risk-onchain",
+    "demoUrl": "https://drive.google.com/file/d/19EXXuMGqxVS5QIHoMAZg_ZAZufwoODLP/view  ",
+    "teamMembers": []
+  },
+  {
+    "slug": "based-accounts-hbet5",
+    "name": "Based Accounts",
+    "event": "ETHGlobal Sydney",
+    "description": "Intent based account abstraction. The project implements generic intent plugins for user controlled accounts",
+    "projectDescription": "It offers a robust, extensible account system tailored for the EVM, leveraging beacon proxies and handlers to validate and execute arbitrary intents. Our design facilitates an off-chain auction service to ensure best execution for these intents, providing a versatile tool for developers aiming to create sophisticated decentralised applications.",
+    "howItsMade": "This project uses an off chain auction api for publishing intents and ranking solver solutions. The contracts validate the solution and signatures within the intents. Two generic intent plugins have been built, one for simply transferring tokens and one for swapping on uniswap V3 with best swap path selection and ranking.",
+    "prizes": [],
+    "githubUrl": "https://github.com/0xtoki/based-accounts",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "halo2-merkle-ocv5k",
+    "name": "Halo2-merkle",
+    "event": "ETHGlobal Sydney",
+    "description": "This repo is a attempt(NOT COMPLETE) to create a merkle tree proof and verifier using Halo2. Th commitment scheme uses KZG instead of halo2's IPA",
+    "projectDescription": "This project is still really early and unfinished was just a attempt to learn halo2 and it's tools\nThis project aimed to create a merkle tree proof that can be verified using halo2. It uses poseidon hash function as a halo2 chip for efficient computation. But this project just has poseidon hash function working and I wish do add verifiable merkle trie implementation as soon as possible. The project uses KZG as its commitment scheme instead of IPA by using the halo2 fork by privacy-scaling-explorations.\nThis repo was just used to learn halo2 and creating arithmetization tables using halo2 so contains a lot of copy pasted code from a lot of public repos",
+    "howItsMade": "The project is made using PSE(Privacy and scaling explorations) version of halo2 that introduces a new commitment scheme. And it implements the zero-knowledge friendly poseidon hash function.\nresources\nhttps://eprint.iacr.org/2019/458.pdf\nhalo2_proofs = { git = \"https://github.com/privacy-scaling-explorations/halo2.git\" }\nhalo2_gadgets = { git = \"https://github.com/privacy-scaling-explorations/halo2.git\" }\nhalo2curves = { git = \"https://github.com/privacy-scaling-explorations/halo2curves.git\" }",
+    "prizes": [],
+    "githubUrl": "https://github.com/Tarunadityaselva/Halo2-merkle",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "freema-x0nf0",
+    "name": "Freema",
+    "event": "ETHGlobal Sydney",
+    "description": "Freema is a crypto-enabled C2C marketplace operating on Telegram, leveraging chatGPT and Account Abstraction to enhance user experience.",
+    "projectDescription": "Telegram Integration : Through the Telegram mini-app, sellers can easily list items by sending images in a chat. Prices are automatically determined by ChatGPT.\n\n\nEasy Payments : Buyers can select products via the Telegram mini-app and make payments using existing cryptocurrencies or smoothly transition to crypto via Unlimit.\n\n\nGas-Free Transactions : Utilizing ERC4337 Account Abstraction wallets allows for SNS login and transactions without gas fees.\n\n\nSecure Transactions : Payments from buyers to sellers are securely processed through smart contracts on Base or Mantle, minimizing dependence on operator trust.\n\n\nEnhanced Trust : A World ID-based rating system prevents manipulation and rating resets, enhancing marketplace trust in a decentralized manner.",
+    "howItsMade": "Tech Stack\n\nFrontend : NextJS.\nBackend :  Grammy. (telegram bot chat bot language)\nConversational Interface : ChatGPT\nAccount Management : Implements World ID to prevent a single person from creating multiple accounts.\nCrypto On-ramping : Unlimit.\nBlockchain : Base Sepolia and Mantle Sepolia.\nAccount Abstraction Wallet : Kernel Wallet from Zerodev\nBundler and Paymaster :   ZeroDev on Base and Particle Network on Mantle.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Best World ID Usage 1st Prize",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Worldcoin - Best World ID Usage 1st Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/etaroid/crypto-enabled-c2c-marketplace",
+    "demoUrl": "https://www.loom.com/share/66ef2d5550a545fb8a7652607ef58b85?sid=aaaeef4f-4824-4c1a-a9b8-7ca59f94ab02",
+    "teamMembers": []
+  },
+  {
+    "slug": "rebalancor-f6pgy",
+    "name": "Rebalancor",
+    "event": "ETHGlobal Sydney",
+    "description": "Automated and decentralized portfolio rebalancing for retail investors based on predefined criteria. Set up a pool with assets, weight bands, and rebalancing cadence, and let Rebalancor handle the rest.",
+    "projectDescription": "Rebalancor is a decentralized, automated portfolio management solution on-chain. Investing in crypto comes with high volatility and complexity.\nPortfolio management is time-consuming for retail investors, who often lack expertise and are susceptible to emotional decision-making rather than\nsticking to a predefined investment strategy.\nRebalancor makes portfolio rebalancing easy and stress-free. Users simply create pools, determining assets, weights, sell thresholds, and rebalancing\ncadence. Rebalancor is permissionless and allows for self-custody of assets. Users can create multiple asset pools that are isolated from each other.\nOnce the pool is created, the factory deploys it and registers it in the Chainlink Automatic Registry. After the user deposits funds, keepers check the\nportfolio based on set parameters. If the portfolio is out of balance by more than the set % deviance, a stop loss / take gain is executed through AMM.\nIn the future, the product will offer additional rebalancing logics and strategies that users could choose (such as dynamic rebalancing or creating their\nown index), and expand into other markets (e.g., DAOs).\nSee the presentation here: https://www.canva.com/design/DAGELGI6z2k/Q6vM8DB_jbAItcIKaPmKlw/edit",
+    "howItsMade": "Chainlink is a critical piece of infrastructure in our design for automating the self-custodian automated rebalancor pools. We leverage two of the main tech stacks:\nautomation\nchainlink feeds\nThe initial point of contact for the user its  a Factory which allows the user to create an unlimited amount of isolated smart pools with their desired asset composition, deviation threshold and cadence. User proceeds to call createRebalancor in the Factory, where it will have two main tasks:\ncreate a fresh isolated smart pool with the target configuration\nregister programatically the automated task of the smart pool into the automation registry\nOnce, those two elements are atomically finalised, the user can proceed to approve their assets to be transferFrom them into the smart pool. At this point, the assets are idle in the smart pool and waiting for the automation to kick off based on the cadence. Once enough time elapsed the intelligence living in checkUpkeep will be encoding the logic to be executing in performUpkeep, which once there it will be successfully either taking profit, stop loss trigger or rebalancing to desired targets atomically using UniswapV2\nSome interesting points during our work flow was to use mock oracle to be able to fake significant deviations and create fake uniswap v2 on the fly to properly test in testnet the whole flow!\nHere is one example of a successful transaction hash triggered by chainlink keepers (see screenshots in media).",
+    "prizes": [
+      {
+        "sponsor": "Chainlink Labs",
+        "trackName": "Connect the World with Chainlink",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Chainlink -  Connect the World with Chainlink"
+      }
+    ],
+    "githubUrl": "https://github.com/OfficialTomJ/ETHGlobal2024",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "fiatx-drggu",
+    "name": "FiatX",
+    "event": "ETHGlobal Sydney",
+    "description": "FiatX is an unstoppable onchain fiat on/off-ramp P2P protocol with decentralized adjudication.",
+    "projectDescription": "Crypto is now a trillion-dollar asset class. Billions of dollars of economic activity are facilitated by smart contracts deployed across various blockchain networks. For the two billion people living under autocratic regimes, crypto is the only unstoppable lifeline that allows them to take back control and have sovereignty over their wealth and finances. Crypto is the free world’s answer to the increasing encroachment of the traditional financial system.\nHowever, the rails for people to onboard into crypto remains extremely brittle. As of now, all fiat-crypto on/off-ramps are operated or maintained by centralized entities (e.g., CEXs, payment processors, banks, etc.). This current status quo presents an existential risk to crypto access for the people who need it the most — people living under despotic governments are at the mercy of their regulatory bodies. If these regulators ever decide to completely block off crypto access, all they need to do is to go after the centralized fiat on/off-ramp chokepoints, and it’d become extremely difficult for people under their jurisdiction to be able to even onboard to crypto, let alone at scale.\nEnter FiatX, an unstoppable onchain fiat on/off-ramp P2P protocol. FiatX is the on/off-ramp that everyone will turn to during the darkest times. When the going gets tough, we ensure that crypto will always remain accessible to everyone part of the traditional financial system, irrespective of who they are or where they’re based in. FiatX allows everyone to live in peace, knowing that their fiat can always be exchanged for crypto (and vice versa) regardless of the prevailing world circumstances.\nOnramp flow:\n\nMerchant decides on their exchange rate (e.g., 1.9162 AUD/USDT) and max transaction size. The merchant will then be asked to deposit collateral slightly above the intended transaction size (101%) before their ad gets registered onchain on FiatX registry. Anyone can then enter into an onramp P2P trade with any registered merchant.\nUpon P2P trade initialization, a new one-time escrow is deployed. The merchant’s collateral is then locked, and the user may proceed to transfer fiat to the merchant’s bank account.\nThe merchant checks fiat receipt and whether the amount transferred by the user is correct. Once satisfied, the merchant settles the onramp P2P trade (the collateral is released and the escrow is then dissolved).\nIn the event of conflict (e.g., non-receipt of fiat funds, wrong amount), any party from the user or merchant can raise a dispute. The onramp escrow goes into “dispute” status, and the merchant’s collateral is temporarily frozen.\nA random set of 5 adjudicators are randomly chosen from the FiatX onchain adjudicators list via Chainlink VRF. Any individual / entity may submit candidacy for election to the list, to be approved by FiatX tokenholder governance (quadratic voting) via WorldID Sybil verification. FiatX governance may also vote to remove a bad-faith adjudicator from the adjudicators list.\nUser and merchant submits file evidence corresponding to the dispute (e.g., screenshots, bank statements, screen recording, etc.) — files are encrypted with the pubkeys of the 5 selected adjudicators, then is stored on AvailDA for the duration of the dispute (<30d).\nAdjudicators retrieve data from AvailDA, then decrypt it with their private keys to see the submitted file evidence of both parties. Based on the provided evidence, adjudicators individually come to a decision and vote for the party they deem to be truthful.\nVotes are tallied onchain, and collateral is either unlocked back to the merchant or reimbursed to the user depending on majority decision. The overcollateralized portion of the collateral (1%) is then distributed prorata to the adjudicators as incentive for continuing good-faith voting.\n\nOfframp flow:\n\nMerchant decides on their exchange rate (e.g., 1.9162 AUD/USDT) and max transaction size. The merchant gets their ad registered onchain on FiatX registry, and anyone can then enter into an offramp P2P trade with any registered merchant.\nUpon P2P trade initialization, the user is asked to deposit crypto slightly above their intended transaction size (101%), and a new one-time escrow is deployed. The user’s collateral is then locked, and the merchant may proceed to transfer fiat to the user’s bank account.\nThe user checks fiat receipt and whether the amount transferred by the merchant is correct. Once satisfied, the user settles the onramp P2P trade (the collateral is released and the escrow is then dissolved).\nIn the event of conflict (e.g., non-receipt of fiat funds, wrong amount), any party from the user or merchant can raise a dispute. The onramp escrow goes into “dispute” status, and the user’s collateral is temporarily frozen.\nThe rest of the offramp dispute flow will be exactly similar with the onramp dispute flow.",
+    "howItsMade": "To prevent Sybil games arising from market participants (user, merchant, voter), we implement Worldcoin’s WorldID proofs to ensure that a pseudonymous address owner is part of Worldcoin’s Orb-verified humans before registering each address into our verifiedHumanAddrRegistry contract.\nWe leverage Chainlink VRF to generate a random set of 5 adjudicators out of FiatX’s adjudicator list (each adjudicator may be elected by governance and registered onchain).\nWe use AvailDA to ensure data availability of uploaded encrypted file evidence relevant to each disputeID within the dispute period (<30d). Selected adjudicators of that dispute can then use their private keys to individually decrypt the data for private viewing, before voting for an outcome based on said evidence.\nFiatX’s set of Solidity contracts are deployed on Mantle, Base, and Polygon Cardona zkEVM.\nWe sprinkle a bit of Nounish identity with Nouns-themed UI to elevate the user experience on using the FiatX on/off-ramp.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      },
+      {
+        "sponsor": "dabl.club",
+        "trackName": "Launch an MVP on Polygon Cardona",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "dabl.club - Launch an MVP on Polygon Cardona 2nd place"
+      }
+    ],
+    "githubUrl": "https://github.com/FiatX/.github",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "decentralscribe-j0mx9",
+    "name": "DeCentralScribe",
+    "event": "ETHGlobal Sydney",
+    "description": "DeCentralScribe : Where every story is an asset, and every contribution is cherished 🖊️",
+    "projectDescription": "Welcome to DeCentralScribe, where the art of writing meets the innovation of blockchain. As a pioneering decentralized publishing platform powered by mantle and base, DeCentralScribe offers a comprehensive ecosystem for writers, readers, and crypto-enthusiasts. By merging the timeless tradition of storytelling with cutting-edge blockchain technology, DeCentralScribe not only champions freedom of expression but also redefines content monetization and ownership.\n\nWrite a decentralised blog -> Mint it into NFT  -> Share with supporters->get Empowered and cross-chain support from supporters of your work, they intern recieve memorable erc1155-NFTs automatically from your collection as mark of onchain support.\n\nhttps://www.canva.com/design/DAGEPW-pLkk/RfGonBQjqKMhEhpXwKm-JQ/edit",
+    "howItsMade": "Technologies used\n\nSign in with Worldcoin and Anonymous Support\n\nAt DeCentralScribe, we prioritize user privacy and security while ensuring a seamless experience for both creators and supporters. That's why we've integrated Sign in with Worldcoin authentication, allowing users to verify their accounts effortlessly while ensuring that they belong to real persons. This not only enhances the credibility of our platform but also fosters trust among our community members.\nAdditionally, we understand that some users may value extreme privacy in their interactions. That's where our Anonymous Actions feature comes into play. With Anonymous Actions, users can support authors anonymously, without their actions being tracked across verifications. This ensures maximum privacy for users who prefer to keep their contributions discreet while still empowering authors and enriching our community.\n-> Benefits of Sign in with Worldcoin:\n\n\nStreamlined Authentication: Users can sign in to DeCentralScribe with their Worldcoin accounts seamlessly, eliminating the need for complex registration processes and enhancing user convenience.\n\n\nEnhanced Security: Sign in with Worldcoin leverages Worldcoin's robust authentication system, adding an extra layer of security to user accounts and protecting them from unauthorized access.\n\n\nVerified Identities: By verifying accounts through Sign in with Worldcoin, DeCentralScribe ensures that users are real individuals, reducing the risk of fake accounts and fraudulent activities within our ecosystem.\n\n\n-> Benefits of Anonymous Support:\n\n\nPrivacy Protection: Anonymous Actions enable users to support authors without revealing their identities, preserving their privacy and anonymity throughout the donation process.\n\n\nFreedom of Expression: Users who value privacy can express their appreciation for authors without concerns about their actions being traced back to them, encouraging more individuals to contribute and engage within our community.\n\n\nInclusive Environment: By offering anonymous support options, DeCentralScribe creates a more inclusive environment where users from diverse backgrounds and preferences feel comfortable participating and contributing to the success of our platform.\n\n\n\n\nCrosschain payments using Chainlink’s CCIP\nBy making use of the CCIP protocol implemented by Chainlink, we allow supporters for interaction with the protocol from many EVM-based blockchains, such as Ethereum, Arbitrum, Polygon, Base and many others.\n\n\nEasy Onramp and Offramp using Unlimit Protocol\n\n\n\nSeamless Transactions: With the integration of Unlimit Protocol, DeCentralScribe offers users a frictionless experience when it comes to onboarding and offboarding funds. Whether you're depositing or withdrawing, the process is streamlined, ensuring efficiency and convenience for all participants.\nCross-Chain Compatibility: Unlimit Protocol's cross-chain capabilities enable users to seamlessly move assets between different blockchain networks. This not only expands accessibility but also enhances interoperability, fostering a more interconnected ecosystem for creators and supporters alike.\n\n\nDeployed on Base, Sepolia, and Mantle Chain\n\n\n\nDiverse Ecosystem: By deploying across multiple blockchain networks such as Base, Sepolia, and Mantle Chain, DeCentralScribe ensures a robust and resilient infrastructure for its platform. This strategic decision not only enhances scalability but also mitigates risks associated with network congestion or disruptions.\n\n\nMaximized Reach: Leveraging the capabilities of Base, Sepolia, and Mantle Chain allows DeCentralScribe to tap into diverse user bases and communities across different blockchain ecosystems. This broadens the platform's reach and accessibility, enabling more individuals to participate in the decentralized publishing revolution.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/Abhijeet1520/DeCentralScribe",
+    "demoUrl": "https://decentral-scribe.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "gohan-layer-ffnsd",
+    "name": "Gohan Layer",
+    "event": "ETHGlobal Sydney",
+    "description": "Gohan-Layer is a proof generate reward system. It integrate with DA and ZKP to provides all chain liquidity.",
+    "projectDescription": "Gohan-Layer is a liquidity pool leveraging a Data Availability Layer (DA) to generate and validate transaction proofs.\n\nProblem Settlement:\n\nLack of liquidity: current DeFi solutions struggle with seamless operations across different layer 2.\nLack of transparency: Lots of people rely on Exchange to swap their token.\nHigh entry barriers in new chain: New chain and learn new token.\n\n\nSoultion:\n\nAvail DA(Enhanced transparency ): Using DA as our proof storage, everyone can verify it.\nSP1 ZKVM(Enhanced Safety): Use ZK to prove the actions on chain make it more secure.\nLower Barriers: miner will send money to your other chain account, it can be the chain expert in the fastest time!",
+    "howItsMade": "Build & Installation\n| GohanLayer is a monorepo managed using turbo. You can find the source code for each package in the apps and packages directory.\n\napps`\n\napps/circuits is the SP1 ZK circuits use for eigenlayer withdraw proof and also publish to avail DA\napps/web is the web frontend. It built by frontend template, wagmi and vite\n\n\npackages\n\npackages/contract is the miner register contract and the test ERC20 token for test. It use hardhat to deploy\n\n\n\nStep By Step\n\nInstall all peer dependencies\n\npnpm install\n\n\nBuild only frontend\n\npnpm build --filter web\n\n\nDeploy Contract\n\ncd packages/contract\npnpm deploy:token --networks <YOUR_NETWORK>\npnpm deploy:miner --networks <YOUR_NETWORK>",
+    "prizes": [
+      {
+        "sponsor": "Nethermind",
+        "trackName": "Data Availability and Blobspace",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Nethermind -  Data Availability and Blobspace"
+      },
+      {
+        "sponsor": "Avail",
+        "trackName": "Best appchain/rollup/project built with Avail DA",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Avail -  Best appchain/rollup/project built with Avail DA"
+      }
+    ],
+    "githubUrl": "https://github.com/kidneyweakx/gohan-layer",
+    "demoUrl": "https://gohan-layer.pages.dev/",
+    "teamMembers": []
+  },
+  {
+    "slug": "alibudahabitbuilder-ojo7t",
+    "name": "AlibudaHabitBuilder",
+    "event": "ETHGlobal Sydney",
+    "description": "Start a new habit with our challenge. Commit by staking and maintaining the habit to succeed. If you fail, half of your stake is used to support public goods, while the other half rewards consistent participants.",
+    "projectDescription": "Our project is a habit builder that encourages commitment to new habits through a unique staking system. The users first register via Base Smart Wallet in 3 taps. To Participate in the challenge, users will stake a certain amount as a symbol of their commitment to the habit they wish to establish. Even if you’re a web3 newbie with no balance in the wallet, you can also easily on-ramp with Unlimit.\nWe're offering two habit-building tracks: one for mental health and the other for physical health, both of which are crucial in today's world. For mental health improvement, we encourage participants to enjoy nature and engage in offline interactions with friends. Participation can be confirmed by tapping the ARX NFC at the designated location. For physical health, we're integrating with Strava so exercise records can be directly logged into Alibuda. Participants who maintain these habits have the opportunity to win unique Nouns NFTs and a share of the unsuccessful participants' stakes.\nIf participants fail to maintain their habit, 50% of their stake is automatically directed towards public goods. The remaining 50% is used to reward those who consistently keep their habits. This system promotes personal growth and contributes to public goods, benefiting both the individual and the larger community.\n⭐️ Watch our live demo video here: https://shorturl.at/jsG02",
+    "howItsMade": "Base: Keyless sign-in is available with the Base smart wallet. We have integrated the Coinbase smart wallet using the beta version of the Coinbase Wallet SDK. Utilizing ERC4337 allows users to browse and join a challenge on any device using a passkey without the need to create or connect to a crypto wallet. With Base also sponsoring the gas fee, the onboarding process is made incredibly easy. Based.\nUnlimit: Unlimit is an on-ramp service. We integrated Unlimit to allow new web3 user to easily deposit assets to their wallet and join the challenge. To motivate the users to build a new habit, they’ll need to stake to join a challenge. As new users, their Base Smart Wallet balance will be starting at 0. We use Unlimit to on-ramp and bootstrap their new Base Smart Wallet. In the sandbox environment, Unlimit didn’t support Base Sepolia, and Base Smart Wallet only support Base Sepolia. Luckily, we have Webhook with Unlimit, which enables us to let users deposit to our protocol treasury, and we can use our protocol treasury on Base Sepolia to bridge to the Base Smart Wallet.\nStrava: Strava is an exercise-tracking app. There are already 120 million users on Strava, and they can be easily onboard Web3 with good UX. We use Strava API to authenticate and retrieve users’ sports activities and sign the activity ID and verify the signature on the chain. Once the user has enough proof collected, they will be able to finish the challenge.\nArx NFC: To enable our application to validate real-world interactions, whether it's proving that users have met people or have been physically present at a location, we utilize the ARX chip. The embedded ECDSA private-public key pair signs a challenge message once the user taps their phone on it. Then, the signature is sent for verification to the smart contract on-chain for check-in verification. We use the Halolib API's execHaloCmdWeb and call the sign command to sign over the user's wallet address and the current timestamp with the chip's private key.\nNouns: Our whole project is inspired by the Nouns Running Club (https://twitter.com/NounsRC). We are from Taiwan, and we have one of the biggest NRC communities. Be Nounish and supporting public goods is the core of our project. We use art pieces from Nouns DAO to indicate different mental or physical health activities a user has attended, using them as “stamps” when users are building new habits.\n⭐️ Watch our live demo video here: https://shorturl.at/jsG02",
+    "prizes": [
+      {
+        "sponsor": "UNLIMIT",
+        "trackName": "Best Use Case of Unlimit Crypto",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Unlimit -  Best Use Case of Unlimit Crypto"
+      },
+      {
+        "sponsor": "NounsDAO",
+        "trackName": "Best Nounish Public Goods",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "NounsDAO - Best Nounish Public Goods 3rd place"
+      },
+      {
+        "sponsor": "Base",
+        "trackName": "Build an Onchain Product",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "Base - Build an Onchain Product 1st place"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 ETHGlobal Sydney Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 ETHGlobal Sydney Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/alibuda-lab/nouns-habit-builder",
+    "demoUrl": "https://nouns-habit-builder.vercel.app",
+    "teamMembers": []
+  },
+  {
+    "slug": "agent-of-w-a-l-l-e-t-h2bre",
+    "name": "Agent of W.A.L.L.E.T",
+    "event": "ETHGlobal Sydney",
+    "description": "Introducing a Web3 wallet with AI capabilities designed for newcomers. Our AI agents simplify the complexities of Web3, making it accessible and user-friendly for new users.",
+    "projectDescription": "One of the primary challenges hindering the mass adoption of Web3 is its inherent complexity. The rise of artificial intelligence in recent years offers a potential breakthrough to overcome these challenges. Beyond just large language models like ChatGPT, innovative concepts such as AutoGPT and babyAGI have emerged, demonstrating remarkable advancements. These models engage in task segmentation, execution, and review, working collaboratively within a multi-agent AI system to handle complex propositions.\nUsers no longer need to grapple with complicated processes. Instead, they can interact with AI agents using natural language to execute commands, while only needing to perform final confirmations themselves. After signing in through the wallet, AI agents assist by researching and presenting crypto trends, managing assets, and executing automated trades. This intelligent interaction heralds a new era of user-friendly, AI-driven interfaces, significantly simplifying the Web3 experience for everyday users.",
+    "howItsMade": "This project harnesses the power of LangChain to create AI agents, utilizing GPT-3.5 for the underlying large language model (LLM). To give the agents a more relatable and engaging personality, their characters are styled after Nouns art. Our system is equipped with 'Sign in with World ID' and 'Connect Wallet' features, allowing users to easily authenticate and manage their assets. Utilizing World ID for authentication adds significant value to our AI agents, distinguishing them from mere bots by affirming that they are operated by human hands, ensuring trust and accountability in their interactions. It supports connections to both the Base Sepolia and Mantle testnets, providing a robust and versatile platform for testing and development in the Web3 space. This integration of advanced AI with user-friendly interfaces and secure blockchain technology represents a significant stride towards making Web3 accessible and manageable for all users.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/ruemura3/agents-of-wallet",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "smartvest-3p080",
+    "name": "Smartvest",
+    "event": "ETHGlobal Sydney",
+    "description": "Smartvest is a crypto investment research platform which leverages AI technology to help crypto investors new or seasoned better navigate the complex world of cryptocurrencies.",
+    "projectDescription": "Smartvest is a crypto investment research platform which contains a dashboard that has data such as the prices of various cryptocurrencies, the yield rates of USDC on various lending platforms and the latest news from the crypto space. Furthermore, the application contains an AI copilot which uses the data available on the user's dashboard as context. This allows a more efficient and simpler crypto investing experience as the AI copilot can see everything that the user can see on their dashboard.",
+    "howItsMade": "The frontend design was built of an existing template from an open source Github repository. I then integrated the crypto price data by connecting to various APIs such as CoinGecko, DeFiLlama and CryptoPanic to provide the price data, yield data and news feed respectively. I then built a python FastAPI server which connects to an instance of OpenAI's GPT-3.5 model which allowed me to create a chatbot widget on the frontend which makes API calls to the server to conversate with the AI copilot. In addition, relevant data on the dashboard is sent along with each prompt request to provide context to the AI copilot. The way I retrieve data from the APIs is quite inefficient due to the limited time, but I'm looking to improve that aspect in the near future.",
+    "prizes": [],
+    "githubUrl": "https://github.com/IssyPro101/Smartvest",
+    "demoUrl": "https://smartvest.netlify.app",
+    "teamMembers": []
+  },
+  {
+    "slug": "connekt-6y5hh",
+    "name": "ConneKt",
+    "event": "ETHGlobal Sydney",
+    "description": "Make real connections, win cool stuff!  ConneKt rewards you for meeting people with unique NFT avatars & raffles. Build a better world together! (278 characters)",
+    "projectDescription": "ConneKt: An NFC-based NFT Social Game\nConneKt remains a mobile game that uses NFC and blockchain to create a social experience with real-world interaction. Here's the revised concept, incorporating the concept of minting fees and a DAO (Decentralized Autonomous Organization):\nCore Gameplay:\n\nConnecting with People: Players level up and earn rewards by physically connecting with each other using NFC.\nConnectVatars: Each player has a unique ConnectVatar, a monster-like character likely generated by AI.\nConnect Tokens: Earned as rewards for making connections, these tokens incentivize players to play.\n\nGetting Started (Onboarding Alice):\n\nCrypto Wallet: Alice connects a standard crypto wallet to the game for in-game transactions.\nVerification: World ID verification ensures Alice is a real person, preventing bots from flooding the game.\n\nAlice's Dashboard:\n\nNFC Linking: Alice connects her NFC chip to the game, enabling real-world interactions.\nConnectVatar Display: Alice can view her unique ConnectVatar.\nConnect Token Display: Alice sees her current balance of Connect Tokens.\n\nBob Connects with Alice:\n\nNFC Scan: Bob taps his phone's NFC reader on Alice's phone (or an NFC tag linked to her).\nConnectVatar View: Bob can see Alice's ConnectVatar. (Future updates might allow an augmented reality view of the ConnectVatar).\nConnection Check: The game checks if Bob has already connected with Alice.\n\nAlready Connected: If they've connected before, nothing happens. Bob just sees Alice's ConnectVatar again.\nNew Connection: If it's a new connection, Bob receives a random amount of Connect Tokens as a reward.\n\n\n\nReward System (Raffle with Pot):\n\nPot Filling: The core mechanic remains. When a new connection is made, a portion of the minting fee for the connection (NFT) goes towards a pot that accumulates for the raffle.\nReserve for ConneKt Treasury: Another portion of the minting fee is directed to a ConneKt treasury reserve.\nDAO Governance: This reserve is controlled by a Decentralized Autonomous Organization (DAO) established for ConneKt.\nPublic Good & Local Crowdfunding: The DAO will decide how to allocate funds from the reserve. This could include supporting public good causes and creating a localized crowdfunding mechanism for community projects.\nReward Distribution: Once the pot reaches a certain point, a raffle is triggered.\n\nWinner: 50% of the pot goes to the winner, who is chosen randomly. Their Connect Tokens are burned (removed from circulation).\nPublic Good: The remaining 50% goes towards public good projects or the local crowdfunding mechanism, as determined by the ConneKt DAO.\n\n\nPot Restart: After a winner is chosen, the pot restarts for the next raffle.\n\nOverall, ConneKt uses real-world interaction and gamification to encourage social connections. Players are rewarded for connecting with each other, and the game contributes to good causes through a DAO-governed public good fund and potential local crowdfunding.",
+    "howItsMade": "The ConneKt application is multi-chain. It intereacts with Base, Mantle and Ethereum.\nWe used Worlcoin to verify Humanity of players thanks to World ID. The ConneKt contract allow us to link the player to verify their wallet connection, then to link it to their NFC.. to mint their personal avatar - created with AI, against the mint fees which get collected in the ConneKt pot pool.\nOnce the onboarding is done, the user / player can start connecting and collecting points.\nEach NFC interaction made by tapping their phone, provide points (randomly distributed from 100 to 10.000 points).\nThe balance of the user grow in points with each NFC interctions.\nOnce the pot pool of currency is reached, the user with most points get it all!\nAt this stage, the points of the users are burnt, and they can start collecting points again from 0.\nNFC Integration: Develop the functionality to connect with other players' NFC chips or linked NFC tags. This will involve reading and interpreting NFC data securely.",
+    "prizes": [
+      {
+        "sponsor": "Chainlink Labs",
+        "trackName": "Connect the World with Chainlink",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Chainlink -  Connect the World with Chainlink"
+      },
+      {
+        "sponsor": "Mantle",
+        "trackName": "Best NFT, Gaming or Social Project",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Mantle -  Best NFT, Gaming or Social Project"
+      },
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/ahmohamed/ethsydney",
+    "demoUrl": "https://www.canva.com/design/DAGETmSrZMM/VpkL7QZ0qxVhQiPUZYu0wA/watch?utm_content=DAGETmSrZMM&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+    "teamMembers": []
+  },
+  {
+    "slug": "true-reach-0b2mv",
+    "name": "True Reach",
+    "event": "ETHGlobal Sydney",
+    "description": "Proof of personhood ID check and payments off-ramp using MetaMask and Unlimit Crypto",
+    "projectDescription": "We were inspired to create a public good that could help address some of the major challenges faced by charities and the people they serve.\nCharities ability to operate and raise funds is complicated by 3 big problems:\n\nThey have very few permanent funding sources.\nUp to 90% of a every dollar that’s donated never reaches those in need. It’s consumed in sales, marketing, distribution and operational costs.\nDonations don’t reach their intended recipients.\n\nWe’d like to change that because every $1 counts.\nWhat we built\nOur platform revolutionizes charity donations through a seamless, secure, and direct blockchain-based system, empowering both donors and recipients. It streamlines the process of verifying and disbursing charitable donations through three innovative components:\nWorld ID Check\nOur dApp checks the proof of personhood credentials of a person and will later verify they are an approved recipient of a particular charity.\nTo facilitate this verification process, we have utilized Solidity for on-chain verification. This means the proof of personhood is stored on the blockchain and is verified against the WorldId contract. If the verification matches the data from the WorldId contract, the personhood is confirmed and only then, we permit the fund withdrawal operation.\nSmart Contract\nThe smart contract uses the World ID proof to make a valid payment to any recipient MetaMask wallet.\nOff-ramp\nEach recipient is able to convert crypto to cash seamlessly with Unlimit integration. Recipients provide a bank account of their choice for quick transfers. This ensures secure and compliant transactions. We intend to offer localised cash-out options as an alternative with low fees.",
+    "howItsMade": "World Coin\n\nWe connect to the WorldCoin onchain through smart contract.\nWhen users requests funds, the smart contract is triggered and we validate their world ID. And if they haven’t claimed before we mark their nullifier hash as claimed, and process their claim through Unlimit offramp\n\nUnlimit\n\nSet up Merchant account with Unlimit Crypto\nCollect transaction details (amount, currencies, unique ID)\nPass through details to Unlimit Crypto hosted portal\n\nAI\n\nBuilding the AI index:\nWe are using AI Retrieval-Augmented Generation on top of ChatGTP with Llama Index.\nWe created our on data around what our product does.\nThe system reads in that data, encodes it, and built it into a searchable index for AI.\nThen it uses RAG to retrieve the question response through ChatGTP.\nThis way, we ensure the bot would only answer questions relevant to our product and doesn't hallucinate.\nBuilding an API with the AI query engine\nBuilt with Flask, and unique prompts that has a Nouns vibe and tailored for a site chat bot.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/mrcoint/ethid",
+    "demoUrl": "https://sydeth-ks4kxmk0a-babaksyraxs-projects.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "refx-8hyxg",
+    "name": "refX",
+    "event": "ETHGlobal Sydney",
+    "description": "Unlock Trust: where employment reference checks meet blockchain. Your Ultimate Solution for Reference Checks!",
+    "projectDescription": "Are you tired of the hassle and uncertainty surrounding traditional reference checks? Say goodbye to outdated methods and welcome RefX into your hiring toolkit! Leveraging Zero-Knowledge technology, With RefX, each verification is immutable and trusted, providing you with peace of mind throughout the hiring process. Plus, our platform is incredibly efficient, allowing you to access reference information anywhere, anytime, with just a few clicks.\nBut that's not all – by adopting RefX, employers can save significant time and resources previously spent on cumbersome reference checks. Boost your hiring process with a solution that is not only efficient but also highly trusted.",
+    "howItsMade": "As a web3 company, our industry is inherently aligned with remote work and operates 24/7. Conducting reference checks poses a significant challenge when we lack connections in a candidate's region or country.\nCurrently, the process of performing reference checks consumes considerable time and resources, and even then, the results may not be entirely reliable. To address this issue, we are considering developing a solution built on chain. This approach would ensure that all published information is verified, while also protecting individuals' personal data through the use of zero-knowledge (ZK) technologies.\nAdditionally, we have integrated with Worldcoin to guarantee that each identity is unique. This integration enhances the security and reliability of our verification process, making it more streamlined and trustworthy.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/refx-io/refx",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "weatherbetter-qb57w",
+    "name": "WeatherBetter",
+    "event": "ETHGlobal Sydney",
+    "description": "a funny, nounish weather betting product to save your mood! It allows users to bet on the weather of a specific place and date by utilizing the technology of Worldcoin, Base, Chainlink, Unlimit andNounsDao",
+    "projectDescription": "Our project is a decentralized weather betting Dapp,  which allows users to bet on the weather of a specific place and date. A possible use case is that for instance, a user will travel to Sydney in a week, and he does not want the rain to ruin his trip. So he places a bet like 100 USDC on the rainy weather on that day, if it's not rainy on that day, he would lose his bet but gain a pleasant weather. But if the weather ruins his trip,  he could get some money instead to save his mood!",
+    "howItsMade": "Our project relies on the following technology:\n(1) Chainlink's CCIP technology and weather data feeds. CCIP technology enables a cross-chain token bridge between the Base chain and Ethereum, making the user experience smoother. Weather data feeds help make a state change on a blockchain to trigger the automated asset allocation among the winners.\n(2) Base Sepolia and Avalanche Fuji. They provide the blockchain to record the on-chain transactions and EVM to run the smart contracts. They ensure our users' funds are handled securely and automatically.\n(3) Nouns vibe and art. NounsDAO's brand and vibe are a perfect match with our funny, nounish product style, which makes our product more interesting and attractive to users.\n(4) Worldcoin proof-of-humanity. Our project aims to become anti-bots and anti-symbil attacks, which allows our project to provide real user values for the public.\n(5) Unlimit Wallet.  Our Dapp seamlessly integrates with Unlimit’s on/off ramps to make our Dapp accessible to web2 users as well.",
+    "prizes": [
+      {
+        "sponsor": "UNLIMIT",
+        "trackName": "Best Use Case of Unlimit Crypto",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Unlimit -  Best Use Case of Unlimit Crypto"
+      },
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/trevor-trinh/weather-better",
+    "demoUrl": "https://weather-better.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "learnr-idle-mining-7pscw",
+    "name": "Learnr Idle Mining",
+    "event": "ETHGlobal Sydney",
+    "description": "Introducing \"NFT Reinforcement Learning Adventure\"! Unlike Pokémon, our NFT characters are autonomous, evolving with each move. Join us in revolutionizing gaming and NFTs!",
+    "projectDescription": "Imagine if your idle game characters can actually learn!\nLearnr Idle Mining is a NFT game where your characters evolve to get better at their tasks.\nFor this test project, these characters navigate through grid worlds. They collect rewards along the way which the player can use.\nPlayers can later optimize how their agents are trained' strategies through reinforcement learning, continuously improving their performance.\nThe twist? Each NFT becomes a living entity.\nThey get smarter with every training session\nBuilt on top of Lilypad's computating platform.\nThis shows how gaming and NFTs can level up!",
+    "howItsMade": "NFTs are built using ERC1155 because they can be minted in batches, and are cheaper to use than the ERC721s.\nExplored two training styles SARSA and Q-Learning which have similar outputs.\nBoth algorithms could be run in a way such that the policies and Q Tables can be separated out.\nNFTs hold these key components of the model since they are the brains behind the agents.\nThese will drive the NFTs in their desired environment.\nI used Lilypad because they were able to provide decentralised computing and used as a trustless system to verify the amount of training an NFT has undergone.\nThis would keep the NFTs from trained on other computers.\nI built the website on React",
+    "prizes": [
+      {
+        "sponsor": "Lilypad",
+        "trackName": "Best Lilypad Tooling or Use of Lilypad",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "Lilypad - Best Lilypad Tooling or Use of Lilypad 1st place"
+      },
+      {
+        "sponsor": "Nethermind",
+        "trackName": "AI integration in blockchain",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Nethermind -  AI integration in blockchain"
+      }
+    ],
+    "githubUrl": "https://github.com/Taresin/Learnr",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "hoverchain-eqxpi",
+    "name": "HoverChain",
+    "event": "ETHGlobal Sydney",
+    "description": "HoverChain is your window into Ethereum.  Simply select an address, choose a chain, and dive into the data without ever opening a new tab.",
+    "projectDescription": "HoverChain is a Google Chrome Extension that provides an in-browser tool for accessing blockchain data as you scroll. Simply select blockchain identifiers, such as Ethereum addresses or contracts, to reveal a detailed pop-up containing vital statistics such as wallet balances, recent transactions, and available smart contract interactions. HoverChain knows if you've selected a wallet and it will show the collection of NFTs, token transfers, and token balances. Once you've selected a contract, HoverChain will return detailed ABI data such as the read/write methods alongside their inputs.",
+    "howItsMade": "This is a Chrome Extension built with React and Vite. It utilizes Xstate for state management and twind UI for styles. We utilize Alchemy API and Mantle Block Explorer API for accessing up-to-date blockchain data. It uses the NounsDao fonts and profile pics for fun UI features. It uses the Chrome manifest v3 version.",
+    "prizes": [
+      {
+        "sponsor": "NounsDAO",
+        "trackName": "Best Nounish Public Goods",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "NounsDAO - Best Nounish Public Goods 1st place"
+      },
+      {
+        "sponsor": "Mantle",
+        "trackName": "Best UX Project",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Mantle -  Best UX Project"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 ETHGlobal Sydney Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 ETHGlobal Sydney Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/jackburrus/hoverchain",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "free-the-aid-etztn",
+    "name": "Free the Aid",
+    "event": "ETHGlobal Sydney",
+    "description": "Free the people from dictators and warlords. Give them direct transparent access to humanitarian aid.",
+    "projectDescription": "Problem:\nA lot of humanitarian aid is stolen by oppressive regimes, warlords, dictators and terror groups. They use the stolen aid to maintain control over the population (eg: support us or starve).\nDonor governments and organizations are left with a hard choice.\n\nIgnore the suffering because aid will be stolen\nGive aid anyways hoping some will go to the intended recipients. However, this empowers the regimes who take the aid since they have greater resources and control over the population\nThe second option is short term alleviation but empowers oppressive regimes to continue taking advantage of its residents.\n\nSolution: Free the Aid\n\nEach user signs up for Worldcoin authentication. This only allows one signup per user since Worldcoin Orb authentication allows only one signup per human member.\nAid recipients receive aid from UN distribution stations by authenticating the aid action (eg: grain-20240504). Attempts to authenticate twice by same user is rejected.\nRecipients can vote for what aid they want more of for next distribution. This ensures aid is what recipients need most. Quadratic voting is used to more accurately reflect need. This voting mechanism can be adjusted for other community questions (eg: future elections)\nDonors, both countries and individuals, can view the voting results transparently. Donors can donate to specific pools (eg: donating to the rice pool to fund rice procurement or the hygiene pool to fund toiletries procurement). We use Unlimit to allow for universal method donations (users can donate EUR/USD/AUD/etc which gets converted to crypto for country-agnostic funding).",
+    "howItsMade": "We started with the Worldcoin Cloud ID template, which was very useful for starting the Worldcoin integration. Worldcoin's anti-sybil framework is core to our project in ensuring aid gets delivered to end users and helping free the people!\nWe modified the initial template to take in signal (metadata to be included with the app and action data, verified later via proof). The proof check (via cloud) checks the signal as well to ensure the whole payload is verified.\nA challenge we ran into was the Cloud testnet server had an IP based rate limiter. Since many people at the hackathon were developing on Worldcoin, this limit was reached and prevented additional testing. This increased the importance of thinking through code manually since we couldn't trial and error test it.\nFor nouns integration, the font integration presented some challenges. We used mui for material react components, so to integrate font changes meant changing head level fonts at top of our manual text and also looking into overriding different package fonts. We eventually figured this out with ThemeProvider for mui package but the documentation wasn't clear so we had to do some guesswork.\nIf we were doing straight voting, a SQL database would've made more sense since we could easily sum across categories to tally up votes. However, we wanted to leave open the possibility of quadratic voting and other metadata so we decided to go with document storage via mongodb. Thus the points used for voting can be tallied either straight or quadratically via code (instead of via SQL) leaving flexibility (at the cost of performance).\nUnlimit integration was fairly straightforward. We could have opted for the more technically challenging integrations but we wanted to prioritize user experience and low maintenance, so we opted for the hosted solution.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Best Public Goods Use Case",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Worldcoin -  Best Public Goods Use Case"
+      }
+    ],
+    "githubUrl": "https://github.com/financegeek-org/ethsydney/",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "roman-kyoto-s3uio",
+    "name": "Roman Kyoto",
+    "event": "ETHGlobal Sydney",
+    "description": "a MASP (multi asset shielded pool) that allows for users to deposit and transfer ERC20s privately",
+    "projectDescription": "Our project is RomanKyoto, a Cross-Chain Multi Asset Shielded Pool.\nIt allows users to deposit, and then privately transfer ERC-20 tokens across. Users can then withdraw their tokens from the pool at any time, and can withdraw however much or little they want (up to their current balance in the MASP).\nWe currently only support private single chain deposit, withdrawals, and transfers. CCIP contracts are created, but we need additional integration for cross-chain private transfers.",
+    "howItsMade": "This is a hardhat/circom circuit based project.\nFirst things first, we utilised our private transfer proving model for a shielded asset pool largely based on the tornado nova protocol, but unique differentiator is that we support multiple assets within the same contract.\nOur proving model is based on UTXO notes stored within the contracts merkle root. Each time a user deposits an asset, they create a record (an encrypted 'note' with a value) within the contracts merkle tree.\nOnce a user has a note, they can transfer values up to that amount (or up to the sum of any other notes they have) to other addresses.\nIf a user has a note, they can also just withdraw that amount straight back to the erc20 that that note represents.\nOur example flow in our integration test:\n\nUser deposits X amount of USDC or WBTC ERC20, and generates an encrypted note within the contract that represents their asset, now encrypted.\nThe user can transfer their encrypted token to other users within the RomanKyoto contracts state. Example, user A deposits 10 USDC, and sends 5 USDC to user B within the RomanKyoto contract calling the transfer function.\nBoth user A and user B can call withdraw, and get their 5 USDC ERC20s back, leaving their encrypted balance with a total of 0.\n\nWe deployed these contracts to Base Sepolia (https://sepolia.basescan.org/address/0xC60B012f38017f512D2069aE3210Ad36075ACA6f) and Polygon Cardano (https://cardona-zkevm.polygonscan.com/address/0xC60B012f38017f512D2069aE3210Ad36075ACA6f) as their cheaper transaction costs make these more expensive proving operations much more feasible.",
+    "prizes": [
+      {
+        "sponsor": "dabl.club",
+        "trackName": "Launch an MVP on Polygon Cardona",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "dabl.club - Launch an MVP on Polygon Cardona 1st place"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 ETHGlobal Sydney Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 ETHGlobal Sydney Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/blockhackersio/roman-kyoto/",
+    "demoUrl": "https://roman-kyoto-frontend.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "paywizard-59jqu",
+    "name": "PayWizard",
+    "event": "ETHGlobal Sydney",
+    "description": "Empowering Just-in-Time Payments for Gas-Dependent Smart Contract based systems",
+    "projectDescription": "PayWizard is focussed on our Smart Contract solution which enables the continuity of services through providing funds to Gas-Dependent systems.\nThe smart contract (PayWizard acting as the paymaster) allows for multiple channels (Smart Contracts) to be funded with select amounts of gas per service.\nWhen the balance is running low within a channel(s), the contract is topped up automatically.\nOur solution proposes two new functions to be included in the https://github.com/smartcontractkit/documentation/blob/main/public/samples/Automation/tutorials/EthBalanceMonitor.sol Smart Contract, featured inside the PayWizard.sol\n\nadd address (address, minBalanceWei, topUpAmountWei)\nremove address (address)\n\nThe Dapp allows for the user to define (not built);\n\nInterface with ChainLink's custom automation functions\nSet interval between amount checks across channels (cost to owner)\nSet the minimum amount per channel\nTo add / remove address's\nSend or withdraw funds\nSelect notification type (in Dapp only, email, sms)\n\nIn this Hackathon we reached the point of having ChainLinks custom automation working; https://docs.chain.link/quickstarts/eth-balance-monitor\nWe unfortunately didn't make it to the point of creating our own Dapp solution but enjoyed working with the technology building on top of Chainlink's infrastructure toward building an application with custom capabilities.",
+    "howItsMade": "This project utilises Chainlink Automation Network across the supported networks;\nhttps://docs.chain.link/chainlink-automation/overview/supported-networks\nFor development we used Remix IDE, Sepolia, Arbitrum Sepolia, HardHat, and ChainLink's technologies to understand the capabilities of Timer and custom automated events that can be driven.\nThe EVM Smart Contract for this project aimed to ensure that gas dependent smart contracts could be seamlessly funded, keeping services active with a simple dashboard for owners to manage / and overview the state of funds between components (accounts, smart contracts).\nBase network was intended for use to host the solution.\nWe didn't reach this point in our plan.\nAlchemy was used to set up an AA wallet where the account can top up funds when low.\nWe looked into using Alchemy AA as part of the solution, however didn't feel this technology was specifically required to enable the solution.",
+    "prizes": [],
+    "githubUrl": "https://github.com/beauwilliams/PayWizard",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "backorfade-pg8eb",
+    "name": "BackorFade",
+    "event": "ETHGlobal Sydney",
+    "description": "Perpeptual DEX with the Underlying being Sports Teams.  We enable fans to hodl their favourite teams, in the good times, and the bad.",
+    "projectDescription": "Traditional financial solutions for sports fans (betting sites, fantasy sports), don’t accurately capture the unchanging and perpetual nature of fandom.  Currently, sports betting requires you to bet on an event, encouraging short term gratification.  In reality, people are fans of their teams for years, and hold steadfastly to them through the cycles of success and failure.\nThere is a natural connection between this and the way that crypto people hodl their favourite tokens through bears and bulls.  We believe that web3 technology allows us to bring a financial solution rooted in this culture of loyalty to sports fans too, through the appropriately named perpetuals.  We extend the idea of a perpetual beyond just financial instruments to real world cultures, using an index based on Elo rankings as a substitute for price.  Our perpetual dex allows fans to finally hodl their teams as tightly as they support them in real life – unlike a traditional betting site, our perps never expire.\nBut our vision extends beyond being merely a financially rewarding platforms for fans.  Our product can be the basis of a positive sum ecosystem for all fans – an on-chain record of long term support and loyalty.  We ultimately would like other projects to build on this record.",
+    "howItsMade": "There are three main components to our product – the data feed, the dex smart contract, and the UX/Front End.\nWe’ve used Chainlink functions for our Elo data, with a view to upgrading it to a node when we have more time.  Ultimately we envisage our Elo data being decentralised – Elo is deterministic and football results are public knowledge, so anyone can verify our calculations.  We think that our use of Chainlink to onboard numeric representations of non-financial real world concepts is quite novel.\nWe’re pretty proud of our quickly-hacked DEX design – it’s simple but elegantly solves many of the traditional issues with perps.  We use a single pool system where each teams fans provides liquidity to all others, eliminating the traditional need for a liquidity provider as well as the necessity of funding rates.\nOur UI is designed to be mobile-first and designed to be as user friendly towards a web2 native-audience as possible.  Our UI is based off a number of screens that users can easily swipe between, displaying relevant data on each team’s perp as well as their current balance in each team.  Our login system uses Privy.io, using account abstraction for easy sign up to our platform, and we use Unlimit to onramp from fiat.\nBoth our Chainlink functions and our DEX itself is deployed on Base – we believe that Base is the best ecosystem to launch a consumer DAPP focussed on non-web3 fans.  We’re excited about the coming launch of their new wallet and there are also very natural integrations with Farcaster.",
+    "prizes": [],
+    "githubUrl": "https://github.com/jkuan456/BackOrFade-Smart-Contract",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "crosslink-owxsp",
+    "name": "CrossLink",
+    "event": "ETHGlobal Sydney",
+    "description": "Cross Link harnesses Chainlink CCIP for seamless cross-chain USDC transfers between Fuji and Sepolia networks, enhancing blockchain interoperability.",
+    "projectDescription": "Cross Link is a transformative project that utilizes Chainlink's Cross-Chain Interoperability Protocol (CCIP) to facilitate the transfer of USDC between the Fuji and Sepolia test networks. This project integrates a smart contract system designed to provide users with a reliable and secure method to move assets across blockchain networks without relying on traditional bridges that are often susceptible to delays and security risks. By leveraging CCIP, Cross Link not only streamlines the transfer process but also enhances transparency and trust, ensuring that users can manage their digital assets efficiently across different ecosystems. This solution targets cryptocurrency traders and blockchain applications requiring robust cross-chain functionality to operate seamlessly in a multi-chain environment.",
+    "howItsMade": "Cross Link is built around the core functionality provided by Chainlink's CCIP, which allows our smart contracts to communicate securely and reliably across different blockchains. The smart contract for managing USDC transfers is deployed on the Avalanche Fuji testnet and can initiate and verify transactions on the Ethereum Sepolia testnet, ensuring a decentralized verification process.\nThe frontend of Cross Link is developed using React, providing a user-friendly interface that interacts with the blockchain via MetaMask and other Ethereum-compatible wallets. This setup allows users to initiate transfers with just a few clicks. The backend logic, hosted on these testnets, is written in Solidity and integrates Chainlink oracles for enhanced security and data verification, which is crucial for cross-chain interactions.\nA particularly innovative aspect of Cross Link is its use of Chainlink oracles not only for data feeds but also for validating cross-chain transaction states, which significantly reduces the risk of errors and fraud. This is achieved by embedding cryptographic proofs within transaction data, which Chainlink nodes verify before confirming the transfer. This mechanism ensures that only valid and authenticated transactions are processed, setting a new standard for cross-chain financial operations.\nIn terms of infrastructure, we've also implemented a monitoring system that tracks the status of transactions across both networks, providing users with real-time updates and alerts. This system helps in managing the complexities associated with cross-chain transfers and enhances user confidence in the platform.",
+    "prizes": [
+      {
+        "sponsor": "Chainlink Labs",
+        "trackName": "Best use of Chainlink CCIP",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Chainlink -  Best use of Chainlink CCIP"
+      }
+    ],
+    "githubUrl": "https://github.com/rutvij-fsd/EthGlobalSyd",
+    "demoUrl": "https://crosslink.vercel.app/cxChainTr",
+    "teamMembers": []
+  },
+  {
+    "slug": "restake-regen-qjvz4",
+    "name": "Restake//Regen",
+    "event": "ETHGlobal Sydney",
+    "description": "An Eigenlayer AVS public good that allows Ethereum validators to pledge their commitment to offset a fraction of the network's carbon emissions by pledging to purchase and retire high-quality carbon credits",
+    "projectDescription": "See our R for a more technical description.\nDespite Ethereums move to proof-of-stake (POS) cutting its energy use by over 8, the POS network has a network of over 1 Million lightweight validator nodes running varying hardware, emitting roughly 2.\nProtocols like Celo c because the protocol itself takes a small cut of every block rewards which goes to a carbon offset fund.\nAdding this to Ethereum is impossible without a hard-fork. However, we can get a similar result using E by defining an AVS (Actively Validated Service) that enforces their pledge to subsidising the energy usage of running a node by retiring high quality T on Base L2.\nValidators register (opt-in) with the Restake//Regen AVS with a self-selected % pledge of the total ethereum network (between 0.0001% and 1%) and then each epoch (28 days) they must send the required amount of CHAR to the Restake//Regen Funding Pool contract, which is then periodically retired.\nA reciept of each contribution is stored in the funding pool. After the Epoch, anyone (i.e. a whistleblower) can challenge a validator through the Funding Pool, and claim they didn't make their promised contribution during the specified epoch. If the validator did contribute, the receipt is checked and they won't be slashed. If there is no satisfactory receipt during that epoch, they are slashed by the AVS.",
+    "howItsMade": "Restake//Regen is a cross-chain application with tight integrations with a number of other protocols. It is comprised of two main components:\n\nRestake//Regen Eigenlayer AVS (Ethereum L1)\nFunding Pool (Base L2)\n\nand relies on:\n\nEigenlayer for stake and slashing\nBase for hosting the carbon accounting and pool contract\nCCIP for arbitrary message passing from Base to Ethereum in the case of attempted slashing\nWorldID for registration and Sybil resistance\nToucan Protocol for access to tokenized, vetted, high-quality carbon credits\n\nEigenlayer\nEigenlayer allows for programming additional slashing rules on existing staked token pools, known as restaking. For Restake//Regen this stake gives economic incentive for operators to uphold their pledges and continue to offset the emissions of a particular protocol (for the hackathon we focused on Ethereum).\nHaving a large stake backing the regular, small, offset payments gives credibility to the pledge that these will continue into the future and allows for claims to be made (e.g. that the protocol is carbon neutral or negative).\nBase\nBase was our first-choice for the accounting layer as it is home to the highest quality carbon credits, as well as being cheap and Ethereum aligned.\nCCIP\nCCIP allows us to easily pass the data needed for challenges from Base to the L1. This cannot be done with a token bridge and requires an arbitrary message passing protocol like CCIP.\nIn the case of a slashing attempt CCIP is used to relay the contributions made by the challenged operator in a particular epoch. This data is then used by the ChallengeManager on L1 to determine if the operator was acting in accordance with their pledge or if they should be slashed.\nWorld ID\nOperators earn Net-Zero points for the signing a pledge, and for continuing to uphold an existing pledge.\nNet-Zero points can be considered similar to a UBI for operators and similarly require Sybil protection to disincentivize splitting stake.\nParticipants must be World ID verified by the PledgeRegistry contract at the time they make their pledge.\nToucan Carbon Credits\nToucan is a well trusted web3 carbon credit protocol based on bridged, real world offsets and transparent projects from Vera and Gold Standard carbon registries into TCO2 tokens and relevant carbon pools.\nToucan deployed their high quality C pool on Base L2 in March 2024, currently priced at ~$160 USD (May 4, 2024).\nMultiple offset projects area available with high transparency making it an excellent choice for dApps wanting to integrate with the carbon economy.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 ETHGlobal Sydney Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 ETHGlobal Sydney Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/willemolding/Restake-Regen",
+    "demoUrl": "https://restake-regen-validator-dashboard.streamlit.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "imf-cu60x",
+    "name": "IMF",
+    "event": "ETHGlobal Sydney",
+    "description": "Deposit memecoins to mint up to 50% of LTV as $CMDC stablecoin (Central Meme Digital Currency). Pair $CMDC with a memecoin and provide liquidity to earn the governance token $IMF (International Meme Fund).",
+    "projectDescription": "Millions of degens worldwide have their liquidity locked in memes they love.\nThey're forced to sell culture to put lambos in their driveway.\nIMF fixes this. The International Meme Fund (not to be confused with the InterMonetary Fund) lets you borrow a super-serious stablecoin against your beloved memes.\nMint $CMDC (Central Meme Digital Currency) by depositing memecoins such as Pepe, Shiba Inu, Mog. Oh, can't forget HarryPotterObamaSonic10Inu!\n$CMDC is a non-pegged stable asset that loosely targets $6.90 through onchain monetary policy (dynamic lending/borrowing rate to target equilibrium). Why $6.90 and not the typical $1 stable price? Because inflation.\nSo, you've deposited your favourite memecoin and you now have $CMDC. What comes next? Here are two things you can do with your $CMDC:\n\nBuy more memecoins\nPair $CMDC with a memecoin, provide liquidity, and earn rewards in $IMF\n\n$IMF is the protocol's governance token. Stake $IMF to earn LP fees from $CMDC pairs and even earn liquidations. Any bad debt that can't be paid will be distributed to the $IMF staking rewards.\nTL;DR - mint non-pegged stables against your memecoins.\nQ: What could go wrong?\nA: Probably nothing.",
+    "howItsMade": "This project takes adds a memetic twist to the DeFi protocols we know and love.\nHere are some of the protocols that have either been forked or served as inspiration for $CMDC and $IMF:\n\nMorpho Blue (minimal, isolated lending)\nReflexer Finance (RAI soft-pegged stable)\nSushi MasterChefV2 (incentives)\nCurve (governance token emission schedule)",
+    "prizes": [],
+    "githubUrl": "https://github.com/International-Meme-Fund/market",
+    "demoUrl": "https://internationalmeme.fund/",
+    "teamMembers": []
+  },
+  {
+    "slug": "sigops-7j3ur",
+    "name": "SigOps",
+    "event": "ETHGlobal Sydney",
+    "description": "Basic Schnorr Signing coordination between two signers on {EVM chain} that moves assets from a 4337 account on {Base} using a Paymaster",
+    "projectDescription": "This was an ETHSydney hack to get familiar with the following:\n1️⃣ Paymasters on Base using the Coinbase Paymaster SDK\n2️⃣ AA 4337 smart wallet contracts and Alchemy's Account Kit\n3️⃣ Deriving Schnorr signatures in the browser using Metamask Snaps\nWe encountered challenges in all three areas, so don't have an end-to-end prototype.",
+    "howItsMade": "This project uses a 4337 Smart Wallet factory as the target wallet to hold a user's assets. We try to use Schnorr signatures for the coordination between two signers, and then push the resulting tx to the target wallet on the target chain use the Coinbase Paymaster SDK and Alchemy's Account Kit.",
+    "prizes": [],
+    "githubUrl": "https://github.com/SigOps-dev/basig",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "gimmemybloodymoney-vi6xx",
+    "name": "GimmeMyBloodyMoney!",
+    "event": "ETHGlobal Sydney",
+    "description": "This project creates a straightforward way of requesting money. Users can generate a link, which others can click to directly sign the correct transaction.",
+    "projectDescription": "This project simplifies the process of requesting money through a straightforward, two-page online system.\nOn the first page, users fill out a form to specify their receiving address, desired currency, preferred blockchain, and amount. Once the form is submitted, a link is generated which users can share with others.\nWhen the link is clicked, it directs the user to the payment page.\nOn the payment page, the recipient can review the transaction details before signing the transaction with a single click of a button.\nTo enhance trust, the user creating the request can verify their identity using World ID. This assures the recipient that the request is from a real person and not an automated bot.\nFurthermore, recipients can label these requests as spam or legitimate and confirm their choice by signing with World ID. This feature helps to swiftly identify and curb potential scams, as wallets with a negative reputation will be flagged as risky on the payment page.\nIf the recipient lacks sufficient funds on the requested chain, the system can automatically locate and utilize funds from other chains using CCIP. If the user opts for this feature, they will be guided through the necessary transactions step by step.",
+    "howItsMade": "The frontend comprises two React-based pages that interact solely with the blockchain, eliminating the need for any backend services.\nOn the request page, users can generate a link that embeds all essential details (such as blockchain, recipient address, currency, and amount) directly into the query parameters. This design eliminates the need to sign any transaction. Additionally, users opting to authenticate via World ID need to connect their wallet, scan a World ID QR code using the IDKitWidget from Worldcoin and sign the transaction to submit the proof onchain. The signal of the proof is the users wallet eliminitating any chance of tampering with it.\nAll proves are stored on Base, since there is no need to submit proves on multiple chains, as the owner of the address is the same one on all chains.\nUsers can easily update their address by verifying a new one. This automatically replaces the previously verified address and transfers all accumulated reputation to the new address.\nThe payment page retrieves all necessary information from the query parameters and displays it for user verification. In scenarios where there are sufficient funds available in the specified currency on the correct chain, the \"Pay\" button is activated, allowing the user to simply click it to sign the transaction.\nIf the frontend detects insufficient funds on the expected chain, it searches for an alternative chain with adequate funds and uses Chainlink CCIP to bridge the funds directly to the recipient's address on the correct chain. Currently CCIP is limited to USDC.\nUsers can categorize a request as either valid or spam by submitting a proof through WorldID. The signal is a simple boolean indicating whether their feedback is positive or negative, and the action includes the wallet address. This system ensures each vote remains anonymous while preventing double voting.\nIf a request accumulates an overall negative rating, it will be flagged accordingly. This feature aims to safeguard less experienced users by highlighting potentiall phishing attempts.",
+    "prizes": [
+      {
+        "sponsor": "NounsDAO",
+        "trackName": "Best Nounish Public Goods",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "NounsDAO - Best Nounish Public Goods 2nd place"
+      },
+      {
+        "sponsor": "World",
+        "trackName": "Best World ID Usage Honorable Mention",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Worldcoin - Best World ID Usage Honorable Mention"
+      }
+    ],
+    "githubUrl": "https://github.com/patrick-hacks/gimme-my-bloody-money",
+    "demoUrl": "https://gimmemybloody.money/",
+    "teamMembers": []
+  },
+  {
+    "slug": "real-world-ag-assets-iwf98",
+    "name": "Real World Ag Assets",
+    "event": "ETHGlobal Sydney",
+    "description": "Farmers in the Global South are Stuck in Poverty. Token Gated Access for Private Real World Agriculture Asset",
+    "projectDescription": "A low cost way to record land data, farm input needs & crop status\nGlobally over half a billion smallholder farms lack productivity or income stability due to low visibility to and from input and output supply chains.\nThis limits access to agronomy science and financial services.\nMany farmers also lack clear land use rights, inhibiting willingness to invest in the land, or the ability to securing working capital, agri insurance or NGO support.\nRa is a low cost way to record land data, farm input needs & crop status:\n\nto make land more productive, providing greater income and food security\nempowers collective bargaining for inputs and outputs prices\nreduces stranglehold of local buying intermediaries thru greater transparency to downstream supply chains\nopens inclusion into formal financial ecosystems, giving better access to capital, financial tools & NGO programs",
+    "howItsMade": "1st parameter for MVP: Boundary - define farm perimeter boundary of “Pink Valley Farm” using QGIS and store as locked GeoPackage file/data\nCreate AES key\nEncrypt data and upload to Avail\nCreate an ERC-721 token representing the rights to access the data\nRegister the AES key on the key server\nPlace unlock key(s) on Ethereum Sepolia testnet\nCreate UI using ERC5169 with TokenScript to: 1. store keys; 2. view GeoPackage data\nUser can share access rights to other users which triggers a child token mint\nTo access data user signs a challenge, and send a request to the server with their token ID. Server checks token ownership to ensure user is authorised to access the key and sends key to user\nKey is used to decrypt data held in Avail",
+    "prizes": [
+      {
+        "sponsor": "Avail",
+        "trackName": "Best appchain/rollup/project built with Avail DA",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Avail -  Best appchain/rollup/project built with Avail DA"
+      }
+    ],
+    "githubUrl": "https://github.com/rwaa-eth/RWAA-Contract",
+    "demoUrl": "https://s.crypto-arsenal.io/rwaa-demo",
+    "teamMembers": []
+  },
+  {
+    "slug": "slickci-h5a0y",
+    "name": "SlickCI",
+    "event": "ETHGlobal Sydney",
+    "description": "One click deployment of CI/CD workflows on to decentralised cloud infrastructure. Deploy on cheaper, permissionless and decentralised cloud instead of on AWS/GCP",
+    "projectDescription": "Our project is a developer tool that allows you to deploy your CI/CD Github Action workflows to decentralized cloud infrastructure like Akash Network, Openmesh etc.\nWe have developed a github OAuth app and a slickCI website using node.js and react.js. The user gives our github OAuth app access to their repo via our website. They then just have to change 1 line in the actions .yml file to start using our runners rather than default github runners.\nWe deploy GitHub runners on servers rented on Akash Network. Our runners are 4x cheaper than Github's default runners.",
+    "howItsMade": "We deployed GitHub runners on servers rented on Akash Network. Our runners are 4x cheaper than Github's default runners. Our backend stack consists of two components:\n\nSlickCI Engine\nSlickCI Runner\n\nSlickCI Engine is responsible for receiving webhook events when the users sign up at SlickCI. The webhook event contains all the essential information including the repository name, owner as well as other details to connect each new repository with it's dedicated runner hosted on Akash. The Engine sends all required shell commands to SlickCI Runner to set up the integration with Github via the typescript framework tRPC, then SlickCI Runner will be assigned to the correct repository. Due to the time limitation, SlickCI only supports Github Action at the moment.\nFor the front end we used the Next.Js library and integrated AA wallets using social media sign in and used Unlimit API to pay for a seamless experience. We also launched our Mantle token on the testnet as we have future utilitarian road map for it.\nOur project is a developer tool that allows you to deploy your CI/CD Github Action workflows to decentralized cloud infrastructure like Akash Network, Openmesh etc.\nWe have developed a github OAuth app and a slickCI website using node.js and react.js. The user gives our github OAuth app access to their repo via our website. They then just have to change 1 line in the actions .yml file to start using our runners rather than default github runners.",
+    "prizes": [
+      {
+        "sponsor": "UNLIMIT",
+        "trackName": "Best Use Case of Unlimit Crypto",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Unlimit -  Best Use Case of Unlimit Crypto"
+      },
+      {
+        "sponsor": "Lilypad",
+        "trackName": "Best Lilypad Tooling or Use of Lilypad",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "Lilypad - Best Lilypad Tooling or Use of Lilypad 2nd place"
+      },
+      {
+        "sponsor": "Openmesh",
+        "trackName": "Contribution Award",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Openmesh Network -  Contribution Award"
+      }
+    ],
+    "githubUrl": "https://github.com/shadowfaz16/slick-ci",
+    "demoUrl": "https://slickci.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "0xpoll-4j05w",
+    "name": "0xPoll",
+    "event": "ETHGlobal Sydney",
+    "description": "one citizen per vote platform allowing citizens to vote on legislation in Federal Parliament for gathering consensus and affecting political change",
+    "projectDescription": "This project will aim to create an app that allows users to link their WorldID to their electoral roll details then interact with a voting platform mirroring Australian Federal Parliament legislation without revealing any personal information. 0xPoll will host a mirror of federal parliament to allow our citizen users to vote upon individual pieces of legislation. Vote results will be gathered at an electorate level in order to allow effective lobbying of sitting members of parliament.",
+    "howItsMade": "This project uses WorldID accounts to generate user logins - enhancing our voting software by allowing us to verify that vote results reflect the views of individuals in a one vote = one person manner. This benefits the project by giving a more accurate reflection of consensus than has previously been possible with online voting and petitioning platforms.\nNovelly, we utilised Semaphore to allow us to group these WorldIDs into their respective users electorates and generate a zero-knowledge proof the user will utilise for lodging their vote on the Ethereum blockchain. This means votes can be counted according to electorate, a main focus of our project, but also be separated from the individual WorldID that placed the vote, a crucial requirement for any political voting application.\nThe front-end is built using view.js and using ConnectKit and wagmi-core to handle transaction data",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Best Governance App",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Worldcoin -  Best Governance App"
+      },
+      {
+        "sponsor": "dabl.club",
+        "trackName": "Zero Knowledge Bounty",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "dabl.club - Zero Knowledge Bounty 3rd place"
+      },
+      {
+        "sponsor": "Base",
+        "trackName": "Build an Onchain Product",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "Base - Build an Onchain Product 2nd place"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 ETHGlobal Sydney Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 ETHGlobal Sydney Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/c4f3c0d3/0xpoll/",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "advisto-6ivcp",
+    "name": "AdVisto",
+    "event": "ETHGlobal Sydney",
+    "description": "AdVisto redefines advertising: earn rewards via engagement. Our white-label API suite lets businesses integrate user-centric ad models, enhancing loyalty. Discover products, earn crypto, and bridge Web2 with Web3 using our transparent, blockchain-powered solutions.",
+    "projectDescription": "Introduction to Current Advertising Models\n\"Today's digital advertising largely revolves around models like Google AdSense, where website owners integrate ads onto their platforms.\"\n\"These models primarily use cost-per-click (CPC) and cost-per-impression (CPM) revenue structures. While they seem effective, they have their drawbacks, including significant revenue cuts retained by platforms like Google.\"\n\"Another issue is ad relevance—algorithms aim to match ads with user behavior and content, but this can sometimes result in irrelevant or even damaging ads appearing on your site, potentially harming your brand's integrity.\" Additionally, a lack of incentive for the user to care about and engage with ads creates significant drop off for all parties involved\nOther issues include click fraud leading to low quality traffic or ad blockers that render modern day ads useless\nIntroducing AdVisto's Innovative Solution\n\"AdVisto transforms this traditional model by directly incentivizing the end users—not just the website owners. This fundamental shift aims to boost engagement by offering tangible rewards to users who interact with ads.\"\n\"Our platform's flexibility comes from a customizable and scalable API suite, allowing businesses to tailor the advertising experience to their specific needs.\"\n\"We are also setting new standards for engagement quality. AdVisto uses various mechanisms to validate genuine user interactions, significantly reducing issues like click fraud, which are prevalent in traditional models.\"\nAddressing Key Industry Challenges\n\"Let's delve deeper into how AdVisto addresses specific challenges starting with revenue sharing and payout issues. Unlike AdSense, AdVisto uses a blockchain-based system for more transparent and equitable revenue distribution, ensuring real-time payments with lower transaction fees.\"\n\"Regarding control over ad content, AdVisto grants publishers and advertisers unprecedented control to ensure that ads align perfectly with user demographics and site content, enhancing both relevance and user engagement.\"\nEnhancing User Engagement\n\"In traditional models, user engagement with ads is often minimal due to ad saturation and lack of incentives. AdVisto changes this by rewarding users for their interactions, thus significantly boosting attention and interaction rates.\"\n\"This not only benefits advertisers with higher conversion rates but also ensures that users feel valued, fostering a positive interaction cycle.\"\nCombating Ad Blocker Impact\n\"The rise in ad blocker usage has undercut the effectiveness of traditional advertising platforms. AdVisto’s model incentivizes users to disable ad blockers by making the ad viewing experience rewarding, thus improving ad visibility and effectiveness.\"\nFuture Innovations and Enhancements\n\"Looking ahead, AdVisto is not just stopping at current successes. Imagine interactive ads where users take quizzes, sign up for newsletters, or engage in multi-step interactions, with rewards increasing at each step.\"\n\"We're also exploring advanced data analytics powered by blockchain, allowing us to provide encrypted data on user engagement and ROI. This can be accessed by advertisers through decryption keys, offering insights into effective strategies and user behaviors.\"\n\"Additionally, we see potential in integrating NFTs as part of our reward system—providing users with digital tokens that can offer real-world value, such as discounts or special offers on products they engage with.\"",
+    "howItsMade": "I built this project using a NextJS framework. I integrated main net sepolia, base sepolia, mantle sepolia, and polygon zkEVM Cardona Sepolia. Additionally, in order for users to claim rewards, they have to go through Worldcoin ID verification.\nMy project is based upon getting as many advertisers as I can that would want to integrate into my platform. In this sense, integrating with the partners above is key as it provides us the capabilities for the entire premise of our project to work",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/Danimal01/AdVisto",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "hivework-3sfab",
+    "name": "hivework",
+    "event": "ETHGlobal Sydney",
+    "description": "Today’s freelance platforms such as Upwork are becoming riddled with bots.",
+    "projectDescription": "Some articles that gave the inspiration: https://community.upwork.com/t5/Freelancers/Upwork-is-becoming-overrun-with-proposal-bots/m-p/1331975\nhttps://community.upwork.com/t5/Freelancers/Flood-of-bots-with-50-connects-boosts-on-proposals/m-p/1466207\nBy leveraging World ID’s proof of personhood, we can leverage two methods to mitigate the number of botted users: World ID Sign in & Incognito actions. World ID Sign in ensures that each user that signs up to the Hivework freelance platform are unique and human. As for job postings and listings, we can use incognito actions to ask t≠he client each time they make a job listing to verify that they are a human whereas each time a freelancer makes a proposal, an incognito action can be used as human verification.",
+    "howItsMade": "Hivework aimed to use a Next.js 14 frontend, shad-cn ui library and Azure Functions for serverless functions in the backend to call smart contracts using Viem. I used Vercel to deploy the app, but likely would shift to Azure infrastructure for scale in the future. The Smart Contracts were planned to be custom to facilitate the holding of the created job listings on-chain then smart contract functions to ensure the settlement after a job listing has been completed. There’s also a contract to execute the World ID verification on-chain (TBC) deployed on base sepolia. For sign in, I used auth0 with the WorldID plugin for authentication. Please note, due to time constraints, there limits to how much each portion could be developed and most of the data on the frontend is mocked.",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/Andrewdddobusiness/ethglobalsyd-hivework",
+    "demoUrl": "https://youtu.be/vim_ERyo9S8",
+    "teamMembers": []
+  },
+  {
+    "slug": "chargematenouns-46-413m8",
+    "name": "ChargeMateNouns 46",
+    "event": "ETHGlobal Sydney",
+    "description": "ChargeMateNouns 46 is a community to Reward for Eco-Friendly Driving",
+    "projectDescription": "Promoting eco-friendly driving practices is crucial for mitigating the impact of transportation on the environment, this can help to mitigating climate impact, reducing air pollution, improving energy efficiency, and encouraging adoption of Electric Vehicles.\nA treasury of CMN Token of 1 Billion (ERC20 deployed on both BASE and MANTLE) is created to incentivise safe and sustainable driving.\nHere's how it works:\n\nUser login with wallet and choose BASE/MANTLE chain\nUser verify drivers of a car via WorldID then enter their vehicle type (EV, Hybrid or Combustion) and their car registration number\nFor each trip, starting location is recorded and time.\nAt the end of the trip, we calculate the route distance and we use the time to avoid cheating.\nThe Reward = Distance Travelled + Reward Multiplier( EV = 3, Hybrid = 2, Combustion = 1)\nAn extra 10% will be sent to Nouns community fund created for the project\nChainlink oracle changes the CMN coin price to ETH then the USDT price\n\nFor a 15KM trip, targeting token price of USD$0.0`1. We are expecting a $0.30 reward, the incentive is small for other type of viechles.\nChargeMateNouns 46 is a community to Reward for Eco-Friendly Driving, powered by the NounsDAO. The project also uses additional technologies (including Worldcoin, Mantle, Base, Chainlink) to enroll driver, and to empower Eco-Friendly driving.",
+    "howItsMade": "This project uses multiple blockchains to Empowering Eco-Friendly Driving Practices:\n(1) Worldcoin ID: to enrol Drivers, and verify their identity.\n(2) Mantle: to reward for Drivers in $CMN\n(3) Base: to reward for Drivers in$CMN, and to enable conversion in ChainLink\n(4) ChainLink: to convert $CMN from Base into $USDT to show rewards\n(5) NounsDAO: to empower community, as Nounish Public Goods",
+    "prizes": [
+      {
+        "sponsor": "World",
+        "trackName": "Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Worldcoin -  Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/Neil-Hong/Chargemate",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "worldcoin-metaverse-7tnkp",
+    "name": "Worldcoin Metaverse",
+    "event": "ETHGlobal Sydney",
+    "description": "The project simplifies complexity for users through 3D experiences, offering integrated web assets, non-text-based internet navigation, and visually engaging explanations of concepts like blockchain.",
+    "projectDescription": "This project aims to simplify complex information for end-users by leveraging 3D experiences. Here's a breakdown of how it achieves this:\nGraphical Representation of the World: The project presents a simplified, graphical representation of the real world that users can interact with. It seamlessly integrates both web1-2 (traditional web content) and web3 (decentralized web content) digital assets within this environment. By placing these assets side by side, users can easily navigate between different types of content, bridging the gap between traditional and decentralized web technologies.\nNon-Text-Based Internet Experience: Instead of relying on traditional text-based navigation, the project introduces a novel approach where users navigate through 3D scenes. Rather than sifting through directories and subdirectories on websites, users move from one scene to another using simple 3D images. This visual and intuitive method of navigation simplifies the user experience, making it more accessible to a broader audience.\nExplaining Blockchain: One of the project's key features is its ability to explain complex concepts like blockchain using simple 3D interconnected scenes. By visualizing how blockchain works through images, interaction, and animation, the project offers an engaging and entertaining alternative to traditional white papers. This approach demystifies blockchain technology, making it easier for users to understand its intricacies.\nOverall, this project revolutionizes how users interact with digital content by leveraging immersive 3D experiences to simplify complexity, bridge technological divides, and educate users about advanced concepts like blockchain in an accessible manner.",
+    "howItsMade": "The communication, UI, UX problem is so sever in blockchain. I started with looking into three.js and webGL to create better UX but realised that creating the 'right look' couldn't be achieved in the command-line. So looked at graphic design software and a creation process from sight. Project uses abode suite and spline 3D.",
+    "prizes": [],
+    "githubUrl": "https://github.com/blockchainGUI/EthGlobalSydney",
+    "demoUrl": "https://inclusive-knowledge-073788.framer.app/",
+    "teamMembers": []
+  }
+]

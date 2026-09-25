@@ -1,0 +1,2808 @@
+[
+  {
+    "name": "test",
+    "slug": "test-bun6v",
+    "description": "tsete tstes tsete tstes tsete tstes tsete tstes tsete tstes   tsete tstes tsete tstes tsete tstes tsete tstes  tsete tstes  tsete tstes   tsete tstes  tsete tstes  tsete tstes tsete tstes",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cypher Defense",
+    "slug": "cypher-defense-go9g0",
+    "description": "Cypher Defense is a distributed solution to protect you against scam and phishing in Web3. Keeping your Coins and NFTs safe in your wallet!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Metana",
+    "slug": "metana-ftyqq",
+    "description": "Metana trains existing developers to be blockchain developers in a 4-month boot-camp program & get them hired.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CompliSend",
+    "slug": "complisend-3j0jx",
+    "description": "KYC erc20/721 transfer with messaging and zk reporting to an auditor",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Swag Protocol",
+    "slug": "swag-protocol-4e0r2",
+    "description": "Linking Physical Experiences to Digital Wallet - We give Items Souls with Soulbound Tokens",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "U for Artist",
+    "slug": "u-for-artist-usv89",
+    "description": "U for artist is a wizard to assist artist onboarding on WEB3 with a UTILITY and VALUE GENERATION model instead of just trying to sell the art",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EC RLN",
+    "slug": "ec-rln-o3t8f",
+    "description": "Elliptic Curve Rate Limiting Nullifier for spam protection based on shamir secret sharing",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Xdapp Optimism Crowdfunding",
+    "slug": "xdapp-optimism-crowdfunding-bt11n",
+    "description": "xDapp for creating crowdfunding projects on Optimism with option for sending tokens from Polygon",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Portifi",
+    "slug": "portifi-wz6o1",
+    "description": "Permissionless, customizable asset manager that democratizes access to quant finance",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8un5e"
+    ]
+  },
+  {
+    "name": "Kakarot ERC20",
+    "slug": "kakarot-erc20-9t3mt",
+    "description": "Kakarot ERC20 is the first deployment of an ERC20 token on the StarkNet EVM (named \"Kakarot\").",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xf84v"
+    ]
+  },
+  {
+    "name": "MasterSwap",
+    "slug": "masterswap-5x4q4",
+    "description": "Masterswap allows users to purchase items with cryptocurrency using their debit card.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockhead: ETHSanFrancisco",
+    "slug": "blockhead-ethsanfrancisco-8j1kd",
+    "description": "Blockhead is a highly customizable super-meta-interface for the web3, DeFi, and EVM multichain ecosystems. Now with smart contract lookups and interactivity!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fn4k5"
+    ]
+  },
+  {
+    "name": "AGNO",
+    "slug": "agno-i7if3",
+    "description": "Private credentials issuing for protocol membership rights in Mina protocol",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Soulless: The soulbound token marketplace",
+    "slug": "soulless-the-soulbound-token-marketplace-8qtig",
+    "description": "Soulless is an interface for creating and selling liquid wallets. A liquid wallet is a transferred key and is made secure by using Lit Protocol, an MPC programmable wallet network.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hokage Jack Sparrows",
+    "slug": "hokage-jack-sparrows-x36h3",
+    "description": "Used AI to generate 25 different images of Jack Sparrow in the style of Naruto. Made them into a free to mint NFT collection with no code.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Helix - One Click NFT Checkout",
+    "slug": "helix-one-click-nft-checkout-csyvq",
+    "description": "One Click NFT Checkout - Connect Wallet. Pay with Credit Card. Get your NFT.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "g3uvh",
+      "rmkrz",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "🤖 NFT2VEC 🤖",
+    "slug": "nft2vec-5i5xd",
+    "description": "Data Hackathons in minutes not weeks. Data insights for your NFT collection right at your fingertips.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "juzwo",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "JAYFIELDCOIN",
+    "slug": "jayfieldcoin-5wbyp",
+    "description": "We're deploying smart cotracts on Skale! DEPLOYING VIDEOS TO LIVEPEER ON SKALE WITH ALLURE TOKEN.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GameChat",
+    "slug": "gamechat-4p5qj",
+    "description": "GameChat is a web3-native chat client implementation to enable gamers to chat with other gamers while enforcing identity claims using ZK",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i6xez",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Bass",
+    "slug": "bass-cvizg",
+    "description": "Thanks to an algo, content creators are gonna be able to start to earn more money trough his content. We use Lit Protocol to encrypt data on ipfs and with unlock we take memberships to unlock that data.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwagCollect",
+    "slug": "swagcollect-gzbwd",
+    "description": "Block based NFT catcher with 3d visualization Block based NFT catcher with 3d visualization",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CutTheRope",
+    "slug": "cuttherope-5hfaa",
+    "description": "Decentralized event management and ticketing solution system built using unlock protocol, the graph, Lens-protocol. Hosted on IPFS",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Decentral Couch",
+    "slug": "decentral-couch-g1xtk",
+    "description": "Decentral couch helps crypto natives find crash-pads when they travel. It is designed to be as decentralized as possible, by leveraging decentralized storage and messaging, as well as Zk-identity and badges to make private but verifiable reputation.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "nbyyv",
+      "qy8m3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Queb3",
+    "slug": "queb3-5yn75",
+    "description": "A better Quora, for communities who want to reward wisdom sharers.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Hello World",
+    "slug": "hello-world-35ty1",
+    "description": "I am new to the ecosystem so didn't get to work on a project and was learning and getting myself familiar to the new applications",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Potat.io",
+    "slug": "potat-io-z18a8",
+    "description": "We're incredibly bullish on building a freer, fairer world with blockchain. But sometimes one needs to take a break from bleeding edge and smell the roses. We built hot potato on the blockchain.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3pgwq",
+      "3pgwq",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "NFT Arena",
+    "slug": "nft-arena-93bvn",
+    "description": "A decentralized browser game to level-up an NFT hero by collecting gears and training the hero across different chains using Hyperlane",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "SwayCue",
+    "slug": "swaycue-3tu3h",
+    "description": "A Billiards Simulator Written in Sway With Elastic Collisions",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zkooter",
+    "slug": "zkooter-skjn1",
+    "description": "Zkooter is the first web3 native social network built to replace twitter",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "6wi0d",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Fastrak",
+    "slug": "fastrak-pmg3o",
+    "description": "Expedite Venue Check-In with World ID and a Scannable QR-Code",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "H3aven",
+    "slug": "h3aven-5qxrm",
+    "description": "Create subscription memberships using NFTs and transform the way your company makes business",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NPass",
+    "slug": "npass-300o6",
+    "description": "With NPass we are building a community where creators, businesses and influencers can increase their engagement with customers and audience by minting(we call it brewing an NFT!) NFT’s on-chain for contest, marketing events and exclusive parties.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Quark Protocol",
+    "slug": "quark-protocol-65szk",
+    "description": "Quark Protocol is a first-of-its-kind derivatives exchange for the NFT space, built on top of on-chain pricing algorithms. It allows anyone to buy, sell, and create cash-settled derivatives (specifically European options) on any ERC721 collection.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Modular Dashboard for Smart Contracts",
+    "slug": "modular-dashboard-for-smart-contracts-4t6u4",
+    "description": "We have demonstrates a modular design for smart contracts to interact with each other through a visual dashboard.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Pasta Science",
+    "slug": "pasta-science-poo6j",
+    "description": "Software licensing that incentivizes derivative works to stay open-source.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sheliak",
+    "slug": "sheliak-xiq3j",
+    "description": "Borrowing against mid to long tail tokens, with a focus on bond-like derivatives.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xf84v",
+      "j61b3"
+    ]
+  },
+  {
+    "name": "Data Preserve",
+    "slug": "data-preserve-hgtaf",
+    "description": "Data preserve is a Crowd-funded dataset preservation platform that allows anyone to fund storing societally important data like crime statistics or environmental warming)",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHHack DAO",
+    "slug": "ethhack-dao-9vtv4",
+    "description": "A community driven sponsorship where hacker's can vote on their favorite project and win prizes :D. .",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "zaP!",
+    "slug": "zap-yxuj7",
+    "description": "Make blockchain anon, private and fun again!, hiding easter eggs and logic bombs across blockchains in autonomous Smart Contracts",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "buucz",
+      "nbyyv",
+      "x6m3m"
+    ]
+  },
+  {
+    "name": "TruStore",
+    "slug": "trustore-mu9p5",
+    "description": "TruStore is a receipt & review protocol for stationary stores that uses Proof of Humanity and also allows web2 users to make use of it",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "3zpxc",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "GIANT - Global Internet Access Network Token",
+    "slug": "giant-global-internet-access-network-token-nrrua",
+    "description": "Bandwidth as NFT. A platform that turns bandwidth into a global digital asset to buy, sell, gift, securitize bandwidth.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Town Square",
+    "slug": "town-square-4jxjn",
+    "description": "Real-time metaverse simulation of on-chain DeFi & NFT activity.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "rmkrz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "HODL Machine",
+    "slug": "hodl-machine-t99t6",
+    "description": "Paper hands, fear no more: introducing the HODL machine, a machine that forces you to hold assets for a specified period of time.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VerifID",
+    "slug": "verifid-cj6tz",
+    "description": "A privacy preserving human-to-ENS verification service to connect humanity to a single ENS address",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "3zpxc",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "NFT3D",
+    "slug": "nft3d-yy9iy",
+    "description": "NFT3D: Inspired by the “War of Attrition” game behind FOMO3D, we built this game to allow for the bottom-up emergence of trading volume, particularly among less popular NFTs/Creators that fall in the long-tail of all traded NFTs on a marketplace.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Cloudt",
+    "slug": "cloudt-p0k2w",
+    "description": "Quickly look up and gauge the reputation of any profile on Lens. See who has the most \"cloudt\"!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "bw7y9",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "vrfd.eth",
+    "slug": "vrfd-eth-pbf13",
+    "description": "Decentralized Blue Checkmark System through the use of ENS Subdomains",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "PreshMail",
+    "slug": "preshmail-rnuzb",
+    "description": "A composable chat app at built on top of Lens and XMTP that democratizes and monetize your attention!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "nbyyv",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "onchainga.me",
+    "slug": "onchainga-me-fahyu",
+    "description": "On chain board games! Chess, Checkers, TicTacToe, Connect-4, et..",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Decentralized Archive Land",
+    "slug": "decentralized-archive-land-sb0my",
+    "description": "Decentralized Archive Land is the one-stop destination for buying, selling and exploring NFT fashion items and offer style which you can share and show off your NFT outfit",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Str3am",
+    "slug": "str3am-tef4d",
+    "description": "Str3am is a decentralized streaming platform that enables creators to control the monetization of their content.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "attest",
+    "slug": "attest-1gver",
+    "description": "Identity layer for Ethereum, link digital identities together with Ethereum wallet, verify ownership of identities on-chain.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOCensus",
+    "slug": "daocensus-fj0oy",
+    "description": "DAO tool that enables dao to deploy and host decentralised front end",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "3zpxc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PriceFeeder.xyz",
+    "slug": "pricefeeder-xyz-ri9mx",
+    "description": "The world's first permissionless no-code tool for launching on-chain price oracles for NFT collection stats.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "juzwo",
+      "x6m3m"
+    ]
+  },
+  {
+    "name": "DAOLYTIX",
+    "slug": "daolytix-c7ioj",
+    "description": "DAOLYTIX turns DAO proposals into humanly digestible content to empower voters make better, informed decisions",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Gacha",
+    "slug": "gacha-ebfcm",
+    "description": "A cool capsule machine like game. Instead of getting a toy, you get a random token",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dora",
+    "slug": "dora-4nurr",
+    "description": "A decentralized knowledge-sharing platform with authenticity and transparency.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "nbyyv",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "crypto home",
+    "slug": "crypto-home-ws5uy",
+    "description": "it's an simple ui to navigate multiple wallets and view balances.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Open Sesame",
+    "slug": "open-sesame-eeqgc",
+    "description": "A ZK SNARK Puzzle Platform that unlocks certification NFTs via ENS",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ETHSanFrancisco AI NFT PhotoBooth",
+    "slug": "ethsanfrancisco-ai-nft-photobooth-21ngj",
+    "description": "A photo collection of hybrid reality/imagined NFT memories of ETHSanFrancisco2022 - minted on Solona Network w/ thirdweb.com",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Artsts",
+    "slug": "artsts-hvvsu",
+    "description": "Ethereum Price Change versus Volume Change Model Based Predictions",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dalle-NFT",
+    "slug": "dalle-nft-xuczr",
+    "description": "Use DALLE to create a NFT 1 / 1 without having to write a single line of code!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vmina",
+    "slug": "vmina-9m938",
+    "description": "Vmina is a Secure Video Marketplace that protects videos from third-party access using ZKP",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Creddit",
+    "slug": "creddit-0ubv9",
+    "description": "Decentralized Content Moderation by Anonymous, Verified, Unbiased Reviewers",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "3zpxc",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Virtual Dynamic Labs",
+    "slug": "virtual-dynamic-labs-2v3vu",
+    "description": "A web3 based clubhouse like platform for people to social with text, audio",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HNDSHK",
+    "slug": "hndshk-bgqfn",
+    "description": "HNDSHK allows you to instantly connect and nourish irreplaceable relationships through NFT handshake cards which you can create, manage, and shk",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Redeemable Gift Cards on Polygon",
+    "slug": "redeemable-gift-cards-on-polygon-8nrux",
+    "description": "Onboarding mechanism for the next generation of web3 users. Gift cards make it easy for anyone to receive crypto without having a wallet ahead of time. Polygon enables free and decentralized gift cards which are easy for anyone!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Groupz",
+    "slug": "groupz-0ucn9",
+    "description": "A digital collectible community viewer & chat. You can see all owners of collections that you own collectibles in.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "nbyyv",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Volatility Protocol",
+    "slug": "volatility-protocol-c84ap",
+    "description": "We are a marketplace that allows users to bet on binary outcomes(differently). A user gets a ticket for their bet, and can exercise their bet if they are winning at any time before their ticket expires.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Obsidian",
+    "slug": "obsidian-4enkh",
+    "description": "A platform that incentivizes public goods through on-chain crowdfunding utilizing NFT technology",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Traverse",
+    "slug": "traverse-5xy8p",
+    "description": "Traverse automatically generates security reports for EVM smart contracts on Ethereum, Optimism, and Polygon. It uses static analysis to identify frequently-missed bugs and vulnerabilities, and allows users to vote on security too.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Influential Circle",
+    "slug": "influential-circle-w2zw0",
+    "description": "\"INFLUENTIAL CIRCLE, monetize your TRUE Influence and build a strong REPUTATION with transparency using NFTs instead of referral links. Brands can make sure that the truly important people love your product or service\" by Socialmeet - The Best Meritocracy Club In The World",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mundo",
+    "slug": "mundo-wh4t0",
+    "description": "Bringing cross-chain utility to tokenized carbon instruments",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "gt566"
+    ]
+  },
+  {
+    "name": "0xrelay",
+    "slug": "0xrelay-fwosy",
+    "description": "0xrelay enables creators to connect with their fans by sending messages to Ethereum wallet addresses off-chain!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Org3",
+    "slug": "org3-rxvhj",
+    "description": "A ENS subdomain-based organization management tool with better user eperience and security",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "pfyco",
+      "vsqgj",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "(EIP-1155) Transient Storage on Op-Geth",
+    "slug": "eip-1155-transient-storage-on-op-geth-wccbh",
+    "description": "(EIP-1153) Implementation of Transient Storage in Optimism-Geth",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hex War",
+    "slug": "hex-war-wtoqe",
+    "description": "Conquer a virtual world on Optimism. Grow your holdings by aggressively minting property, forming foreclosures, and outmanuevering your opponents.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TransferStream",
+    "slug": "transferstream-xocmt",
+    "description": "I tried to see if it was possible to transfer streams from on person to another",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SmartCred",
+    "slug": "smartcred-80os8",
+    "description": "Decentralized credit scoring for fair and transparent credit score and interest rate calculations, moving power away from centralized credit bureaus.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Smart Coupons",
+    "slug": "smart-coupons-oh282",
+    "description": "Wallet Relationship Management within Salesforce.com - Smart Contract-powered Marketing Campaigns",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "r9t85",
+      "10a1v",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ChainRealtor",
+    "slug": "chainrealtor-f9vmn",
+    "description": "ChainRealtor is an on chain realtor smart contract. It proves that you can auction real estate, close deals, and generate official closure financial disclosure documents on chain!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Confi",
+    "slug": "confi-vanph",
+    "description": "Confi is a platform that helps sexual assault victims remain anonymous.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Chira Protect",
+    "slug": "chira-protect-zedud",
+    "description": "Did you know for most NFT collections, NFT Royalties aren't actually enforceable and there's no way to ensure that NFT holders are real people?! Chira Protect is here to resolve these and more issues with the mission of giving power back to NFT creators and their communities.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Verf3d",
+    "slug": "verf3d-gb7h9",
+    "description": "Verf3d is a decentralized endorsement system which is focused towards solving the problem of non-authentic credentials using SBTs",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Optimeme Factory",
+    "slug": "optimeme-factory-88xn6",
+    "description": "No-code NFT deployment with claimable ownership arbitration and on chain uploads for permanent NFTs you can tie to your identity in ways beyond your private keys",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "fp1x1",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Programmatic Delegation on Optimism",
+    "slug": "programmatic-delegation-on-optimism-gcck4",
+    "description": "Delegate Cash gives crypto power of attorney, where any wallet can delegate message signing authority to another. This increases security and granularity in transactions.  We're powering airdrops, crypto gaming, governance, custody, and payments.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BidDAO",
+    "slug": "biddao-8tt3h",
+    "description": "Sealed Bid Dutch Auction enabling aggregated purchases for DAOs",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "noca",
+    "slug": "noca-9o99z",
+    "description": "Enabling users to deposit into protocols on other chains using our smart contract connectors.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fn4k5"
+    ]
+  },
+  {
+    "name": "Veric",
+    "slug": "veric-ygfpt",
+    "description": "A Decentralized Credential Oracle for Web 3.0, which address the gap of asset verification from Web 2 to Web 3, resolve secure asset verification across chains, and build on top of W3C standard compliance",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "6wi0d",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Social Network Decentralizer",
+    "slug": "social-network-decentralizer-qgvm9",
+    "description": "Social Network Decentralizer. Take back control of your profile and your influence. We restore your powers by extricating you from dangerous centralized social networks to the Lens Protocol with a single click!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "ENS Stalker Site",
+    "slug": "ens-stalker-site-fpgjt",
+    "description": "I build a hackey app to reverse ENS lookup a ENS domain and run Dune analytics on it.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETH price prediction with Empiric price feed",
+    "slug": "eth-price-prediction-with-empiric-price-feed-ee9fg",
+    "description": "The contract pulls the last n=10 check_point ETH price from Empiric oracle and uses that for a super smart algorithm to predict price for the next epoch",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xf84v"
+    ]
+  },
+  {
+    "name": "Club",
+    "slug": "club-vp919",
+    "description": "Club is a social app to share your TRANSACTIONS with your friends!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Negative Reputation w/ Sybil Resistance",
+    "slug": "negative-reputation-w-sybil-resistance-8i0q1",
+    "description": "A contract to aggregate negative reputation for any address. Sybil protection provided by WorldID",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "DAOCord",
+    "slug": "daocord-o6n9v",
+    "description": "Our vision is to unlock the power of APIs for DAOs - allowing for proposal executions for any off-chain action, like shipping products from Amazon.  We implemented Discord management for DAOs - banning and kicking users for DAOs directly through proposal votes.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "na4kb"
+    ]
+  },
+  {
+    "name": "Nucleus",
+    "slug": "nucleus-sztuz",
+    "description": "DeFi lending protocol with real-time dynamic risk management",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "buucz"
+    ]
+  },
+  {
+    "name": "Discov3r",
+    "slug": "discov3r-xq24n",
+    "description": "Discov3r:Discover to Earn, Real-World Exploring Web3 Game, Web3 version of Geocaching",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "OpenCastle",
+    "slug": "opencastle-x4us2",
+    "description": "Plugin for an AA account to support session keys that are programable",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lunar",
+    "slug": "lunar-q4sma",
+    "description": "Fully on-chain Discord that stores all app & user data stored entirely inside smart contracts on a zkEVM appchain",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "TreasureChest",
+    "slug": "treasurechest-iuh13",
+    "description": "You want to learn something new, but where do you begin? TreasureChest. The good internet in one place. Resources, long-form content, and opportunities in one spot. Curated by experts, and made for you — a future expert. Unlock content with an NFT.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kioku Ginko",
+    "slug": "kioku-ginko-c3h4g",
+    "description": "3D Scanning environments with Iphone, minting the GLB data as NFTs to the Skale Network and allowing users to revisit those locations in the metaverse. Location coordinates are recorded in the metadata of the NFTs that we use to make an interactive map.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Profile AI",
+    "slug": "profile-ai-eaw58",
+    "description": "Profile AI enables users build their digital identity creating NFT profile pictures with help of Artificial Intelligence",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "na4kb",
+      "bw7y9",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "ScoreBox",
+    "slug": "scorebox-ex0px",
+    "description": "A credit scoring dapp which uses your crypto financial history. Start building your crypto credit score today!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5b69q",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Drainpipe",
+    "slug": "drainpipe-u7pmp",
+    "description": "Drainpipe notifies communities when a wallet drain event happens on their smart contract of their NFT",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "App Clip instant wallet",
+    "slug": "app-clip-instant-wallet-i3p3j",
+    "description": "Instant wallet on App Clip that creates an account by hovering over the QR code without installing the application",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5b69q"
+    ]
+  },
+  {
+    "name": "DE-GIT",
+    "slug": "de-git-zuwi7",
+    "description": "Our project represents a basic implementation of a decentralized Github which utilizes web3.storage (IPFS protocol) for storing files with specific commit hashes.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FuelScape",
+    "slug": "fuelscape-3b6rc",
+    "description": "FuelScape turns player items on RuneScape Classic server into NFTs on the Fuel VM",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "u7kt2",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Sahara: web3 analytics for humans",
+    "slug": "sahara-web3-analytics-for-humans-5i3d5",
+    "description": "Sahara: know everything about your product using human language",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "juzwo",
+      "vxwti",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "NFTZen",
+    "slug": "nftzen-mddif",
+    "description": "Basic tamagotchi NFT with dynamic on chain metadata that you keep alive by feeding it",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blobs NFT",
+    "slug": "blobs-nft-xys5m",
+    "description": "Blobs is mobile app with a Tamagotchi-like NFT that lives inside your phone! You take care of it by walking it every day.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "xPay: Cross-Chain Payments for Shopify",
+    "slug": "xpay-cross-chain-payments-for-shopify-jeeqr",
+    "description": "Accept payments in crypto in your Shopify store. For your user, the freedom to pay with their favorite token, on their favorite chain. For you, the simplicity to just receive USDC on Polygon.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8un5e",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "onTrack",
+    "slug": "ontrack-1ozp7",
+    "description": "Incentivized accountability platform backed by a DeFi staking protocol.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "g3uvh"
+    ]
+  },
+  {
+    "name": "Glacier",
+    "slug": "glacier-1iq21",
+    "description": "A smart contract standard for a fund that executes the index portfolio management strategy. Has mock implementation of externally-dependent functionality, and a Uniswap implementation of it",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Factum",
+    "slug": "factum-37uwf",
+    "description": "A general platform enabling zero knowledge proofs with the demonstrated use case of validating asset valuation (e.g. for lending/leasing purposes) without sharing non-essential information.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "PurpleMirror",
+    "slug": "purplemirror-ds6uq",
+    "description": "One NFT on infinite networks: a read only NFT mirror that replicates NFT cross-chain using  EIP3668 CCIP",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ZKDVC on PolygonID",
+    "slug": "zkdvc-on-polygonid-x2ie1",
+    "description": "zkDVC - A Threshold-based Credit Issuance Template Module for PolygonID by KNN3 Network.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniV3LeveragedCrab",
+    "slug": "univ3leveragedcrab-x6gkc",
+    "description": "A leveraged Uniswap v3 pseudo delta neutral farming vault structured product.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Acely",
+    "slug": "acely-inds6",
+    "description": "Acely is a Education & Community platform that rewards users for their positive contribution to the platform.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "bw7y9",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "CarStack",
+    "slug": "carstack-u9e28",
+    "description": "CarStack intends to create a trustworthy record of vehicle history.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "ChainStatements.com",
+    "slug": "chainstatements-com-xefb9",
+    "description": "ChainStatements.com is an API platform to deliver PDF account statements for blockchain addresses.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "SoulFund",
+    "slug": "soulfund-obf16",
+    "description": "SoulFund is a SoulBound token purse for distributing funds after a vesting period, as well as unlocking funds using merit tokens cross-chain (axelar). A jury system was developed during the hackathon to act as a board of trustees to make decisions and handle disputes.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Foodstamps.ETH",
+    "slug": "foodstamps-eth-p5uev",
+    "description": "Food Stamps public goods project built on Ethereum to replace the current legacy system",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Street Vendor Appreciation App",
+    "slug": "street-vendor-appreciation-app-b061d",
+    "description": "SVAP is an app that helps street vendors put a smile on their faces, and creates awareness about street vendors on social media. We recommend them to your friends, raise funds for them and leave good reviews.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3pgwq",
+      "nbyyv",
+      "3zpxc",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "EPI",
+    "slug": "epi-pv61s",
+    "description": "The unified payment infrastructure for Ethereum. EPI is a non-custodial payment gateway that works with EPI Wallet to allow gassless commerce",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "I3 Insurance",
+    "slug": "i3-insurance-jkh2j",
+    "description": "decentralized insurance protocol that allows you to buy coverage for your digital assets",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Cubes",
+    "slug": "crypto-cubes-ys9to",
+    "description": "Crypto cubes is on chain puzzle game with interactive NFT collectibles.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CiterChain",
+    "slug": "citerchain-rpadx",
+    "description": "Academic journals create silos, which limits how researchers share their work. These journals also charge huge fees. We want to protoype a DAO to remove the middle man.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOism",
+    "slug": "daoism-93bir",
+    "description": "A system that allows for the creation and verification of employment contracts on the chain.  Third parties can verify employment history trustlessly via a key, and aggregated salary data would be transparently available and verified by employers with Zero Knowledge Proofs.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "rmkrz",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PolyDuned",
+    "slug": "polyduned-f57rx",
+    "description": "A token-gated data platform whose metadata is deployed on IPFS (Pinata) and built on Polygon to utilise Dune's API to download data on a pay per call basis",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "juzwo",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Oddjob",
+    "slug": "oddjob-y92rc",
+    "description": "With Oddjob, Someone can offer to clean your yard, walk your dog, build you a website, or just sell you their NFT. Anyone willing and able can fulfill that gig without the worrry of their client pulling out.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BB3 - BEEP3R",
+    "slug": "bb3-beep3r-ky04x",
+    "description": "We're bringing back the joy of owning a 90s pager device and the original vision of twttr - text networks. BEEP3R is the best way to talk to your friends in web3. What are you waiting for? Start BEEPING 📟 205-883-8339",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "bw7y9",
+      "nbyyv",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ZK Section 9",
+    "slug": "zk-section-9-9ce2n",
+    "description": "Generating Succinct ZK Proofs for Content-Generating Machine Learning Models; Proving that AI-Generated content is authentic with ZKML",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "rmkrz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Intelligence Backed NFT",
+    "slug": "intelligence-backed-nft-242qh",
+    "description": "A framework for publishing AI algorithms in the form of NFTs which derive value from their underlying utility and simultaneously enables monetization of computing power.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EcoTopia  🌱",
+    "slug": "ecotopia-8gcd9",
+    "description": "Ecotopia is a ReFi protocol that enables people to automatically offset their carbon emissions by depositing their stablecoins. The deposited amount earns yields and can get withdrawn at anytime. The yields are then used to fund climate change-related projects.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "3pgwq",
+      "3pgwq",
+      "vxwti",
+      "bw7y9",
+      "x6m3m"
+    ]
+  },
+  {
+    "name": "GoatVoter",
+    "slug": "goatvoter-88p83",
+    "description": "A DAO governance tooling to increase participation within a delegation by giving all members a vote and casting collective votes before deadline.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Tutorial-Dune-API",
+    "slug": "tutorial-dune-api-6jyms",
+    "description": "Used Dune API to query blockchain data across multiple chains",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cozy Trading Company",
+    "slug": "cozy-trading-company-jvz75",
+    "description": "Fully on-chain game where you sail around the ocean, collect resources, and level up! But there's a twist - each island has it's own AMM exchanges, creating a world full of arbitrage opportunities.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "corgis.xyz",
+    "slug": "corgis-xyz-mrusx",
+    "description": "Onboarding yourself to web3 by reading comics books and make code cute and informative!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "interX",
+    "slug": "interx-puere",
+    "description": "Turn your static 3d spaces into on-chain interactive, and gamified experiences.  We give world builders a node-based interface and protocol to create an interoperable behavior graph for a virtual world.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "FundIt",
+    "slug": "fundit-1qry2",
+    "description": "FundIt is a multi-level facetted fundraising platform that incentivises user participation through sharing and early contribution rewards. The users of our platform can be divided into two main categories: donators and recipients.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "melo vault",
+    "slug": "melo-vault-756r9",
+    "description": "Instantly bootstrap an on-chain multisig for an entire community of NFT holders with semi-anonymous voting",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Monet Bridge",
+    "slug": "monet-bridge-4xkh7",
+    "description": "Monet Bridge is a multi-chain zk light client bridge. Improving on existing solutions, our bridge supports burning wrapped tokens when bridging back the ERC20 to its original chain and unlocking the native tokens. We aim to be the dev tool for all dapps to bridge ERC20 tokens.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "DRMR",
+    "slug": "drmr-34ab7",
+    "description": "DRMR is an end-to-end token distribution management platform that allows users to create and manage on-chain, private credentials for anything.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKBlueBird",
+    "slug": "zkbluebird-c421b",
+    "description": "Anyone with the ZKBlueBird extension can see who has a blue check. To get a blue check, just verify yourself with Worldcoin World ID",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "YAPS",
+    "slug": "yaps-t0eb8",
+    "description": "Decentralized prediction market that leverages oracles to create and resolve bets",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Rate My Online Class",
+    "slug": "rate-my-online-class-n78o2",
+    "description": "Rate My Online Class is an educational site where students evaluate, rate, and review teachers and courses. It also allows professors to receive stream payments and donations to keep making educational material for their students.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "3zpxc",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Bet for Good",
+    "slug": "bet-for-good-3ay14",
+    "description": "Bet for Good is a platform to bet on sports, gaming, and fitness challenges, and at the same time, it helps social causes.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Trustless L2 ENS Registry Rollup Solution",
+    "slug": "trustless-l2-ens-registry-rollup-solution-429qs",
+    "description": "This project built out a POC for a rollup centric scaling solution for ENS (specifically the ENS registry). The project used CCIP (EIP-3668) & CCWP (EIP-5559) to build an L1 “gateway/settlement” contract & L2 execution contract, via trustless state proofs.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "UnStrained Apes",
+    "slug": "unstrained-apes-n3wf7",
+    "description": "Tired of aping into rug pulls? Ape into UnStrained for 10 min a day to reduce eye fatigue instead.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Touchgrass",
+    "slug": "touchgrass-5vphn",
+    "description": "Touchgrass is a deep-dive dashboard into DeSoc stats! For any lens Handle, view statistics about the user, their followers,  as well as insightful wallet labels from Dune!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Snapchain",
+    "slug": "snapchain-kp408",
+    "description": "Snapchain is a decentralized infrastructure for ephemeral applications and use cases",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Jungle DuckGod",
+    "slug": "jungle-duckgod-2tgre",
+    "description": "Welcome to the Jungle. Rooted within Aztec culture, this next phase teleports us back to the creation of the SupDucks Universe.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Vysh",
+    "slug": "vysh-z656b",
+    "description": "A data marketplace decentralized application built using the Skale network",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "FireMask - MetaMask Firewall",
+    "slug": "firemask-metamask-firewall-bngyt",
+    "description": "FireMask is a firewall for MetaMask which protects users from signing harmful a transaction",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "juzwo",
+      "jywri",
+      "fn4k5",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "The Greeting",
+    "slug": "the-greeting-d5twi",
+    "description": "The Greeting is a protocol to send greeting messages in the Web3 world. It supports custom event creation, sender identification, message sending with payment, and push notifications to recipients . A reference dapp built by Flutter is also available!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Dorse",
+    "slug": "dorse-3maw4",
+    "description": "P2P Social Endorsement Protocol with privacy-preserving to facilitate trust and credibility building in web3",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "3zpxc",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "StreamLoan",
+    "slug": "streamloan-xzkos",
+    "description": "Streamloan uses decentralized lending pools to enable employees to borrow against their future income streams",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3pgwq"
+    ]
+  },
+  {
+    "name": "pics or it didn't happen",
+    "slug": "pics-or-it-didn-t-happen-4iyru",
+    "description": "was there a UFO sighting? did someone see the loch ness? we are curating the lens graph towards curating interesting experiences around the world.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tracker for Compound",
+    "slug": "tracker-for-compound-ezx0o",
+    "description": "Track all Compound users and find big activities! Using covalenthq API to do so!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Landing Party",
+    "slug": "landing-party-beo9g",
+    "description": "We built a no-code referral platform. It allows projects to grow their userbase by incentivizing participants to refer others & pays out rewards for specific on-chain actions. I can create a program, choose an action I want to incentivize on my dapp, & track referral performance.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Arcade Machine (DAM)",
+    "slug": "decentralized-arcade-machine-dam-482tr",
+    "description": "An \"on-switch\" for game devs to activate web3 features. DAM uses web3 to power Collectibles, Metaverse Marketplace, and eSports as a Service through a novel Proof of Victory mechanism.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Torpedo",
+    "slug": "torpedo-tjgdy",
+    "description": "A decentralized middleware between the users and existing cloud providers, that will allow users to access compute power per their specifications instantly and at custom granularity, with total anonymity. We are a crypto marketplace for cloud compute.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "na4kb",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "BTC Warp",
+    "slug": "btc-warp-puy90",
+    "description": "We put verification of Bitcoin’s entire history of proof of work in a single zkSNARK. By using the power of recursive SNARKs and massively parallel compute, we create a single succinct proof of the total amount of work in the Bitcoin chain since genesis.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3 Friends Like You",
+    "slug": "web3-friends-like-you-gguce",
+    "description": "Get matched with web3 friends like you and chat with them. Meet new friends anonymously.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KeyTap",
+    "slug": "keytap-gcr7n",
+    "description": "Enabling access control through a zero trust protocol by incorporating multi-level based on attribute verification",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "DeStemr",
+    "slug": "destemr-y5mw7",
+    "description": "DeStemr is a decentralized music platform with an NFT marketplace specifically designed for music producers to earn crypto royalties by creating usable sounds/stems.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Relay",
+    "slug": "relay-85njt",
+    "description": "Zapier for web3. Automate notifications on EVM compatible chains for triggers like specific prices, liquidation percentages, changes in owners, and more. Get a notification to your XMTP account when the trigger crosses your desired value.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Another World",
+    "slug": "another-world-4oy5f",
+    "description": "Another World is a Ready-Player-One-like NFT FPS game where treasures are NFTs and friends are teaming up to hunt them.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "bw7y9",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Quit Now",
+    "slug": "quit-now-sjnkc",
+    "description": "GoFundMe for people quitting their jobs, powered by web3 wallet infrastructure, push notifications by Push Protocol, and zero knowledge proofs for verification",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g3uvh",
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Streamseed",
+    "slug": "streamseed-mrbi9",
+    "description": "Self-custodial streaming and chatting platform for citizen journalists and content creators.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Cypto Payments Vault Lotteries",
+    "slug": "cypto-payments-vault-lotteries-rk3iy",
+    "description": "Passive saving, investing and crypto lottery from passive day-to-day spending without higher fees.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fuel Names",
+    "slug": "fuel-names-uigxd",
+    "description": "Fuel Names is a decentralized naming registar built on Fuel. Fuel names allows users to mint a \".fuel\" address, similar to how ENS functions on Ethereum.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "u7kt2"
+    ]
+  },
+  {
+    "name": "AnonDao",
+    "slug": "anondao-t50yc",
+    "description": "Propose and Vote on Dao Proposals anonymously using zeroKnowledge",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "FriendShape",
+    "slug": "friendshape-hyrna",
+    "description": "FriendShape is a game in which players connect with each other to form edges in a social graph, in order to draw a graph that represents a picture that they are given as a target.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Deal",
+    "slug": "deal-69d0x",
+    "description": "Deal is a p2p nft swapping platform that allows instant swaps between 2 parties.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "CoverFi",
+    "slug": "coverfi-ocn0q",
+    "description": "No-cost Decentralized Insurance For DeFi hack. Just stake USDC and we will provide the insurance with the yield generated on Alluo. By providing easy-to-use insurance, we aim to make DeFi users feel secure, thus onboarding millions of people to the DeFi ecosystem.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xf84v",
+      "3pgwq",
+      "fp1x1",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Mortgage4All",
+    "slug": "mortgage4all-ebhir",
+    "description": "Discover New Opportunities using our app. We help people invest in real estate by connecting mortgage companies, Web3 investors, and underqualified individuals to our lending platform.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "White Elefun",
+    "slug": "white-elefun-do2b1",
+    "description": "To make NFT swapping a group action and more entertaining for NFT communities. White elefun allows members from same NFT community to swap NFT of the same collection. Yes, similar to classic white elephant!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mephisto",
+    "slug": "mephisto-3ix35",
+    "description": "Mephisto is a trustless deadman's switch for private key transmission via xmtp to provide automatic inheritance of assets to beneficiaries or recovery of a lost wallet to a backup address.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "SecrETH",
+    "slug": "secreth-neq5u",
+    "description": "SecrETH enables programmable secrets on Ethereum. Smart contracts can store secrets, which will only be revealed when and if the contract’s logic decides to do so. Messages to the future, dynamic NFTs, secret voting, and more - SecrETH makes the infinite garden even bigger!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "emjoule",
+    "slug": "emjoule-t8a3d",
+    "description": "Emjoule connects you to clean energy by putting the electric utility on the blockchain.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "D'Ticket",
+    "slug": "d-ticket-6zrce",
+    "description": "D’Ticket is a decentralized ticketing service that allows customers to buy and sell event tickets securely.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VWallet",
+    "slug": "vwallet-5q36r",
+    "description": "A non-custodial multi-chain wallet where users could send, swap and use dApps across all supported chains in one place under one keypair. It's empowered by vToken, which represents chain-agnostic purchasing power and backed by equivalent actual assets distributed across chains.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "lewk protocol",
+    "slug": "lewk-protocol-mjzj3",
+    "description": "We set out to build a web3 reputation system  - create decentralized digital identity primitives that are optimized for hiring.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "texting",
+    "slug": "texting-qa77e",
+    "description": "A max 280-character or less description of your project (it should fit in a tweet!)A max 280-character or less description of your project (it should fit in a tweet!)",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kings Puzzle",
+    "slug": "kings-puzzle-vjboy",
+    "description": "King Puzzle is a match-3 card game. Players match-3 to battle with players and the card could be your avatar or NFT game props.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "W3NPAY",
+    "slug": "w3npay-d7rk8",
+    "description": "Web3 Venmo - Send and request crypto payments to people that have an EVM wallet.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Peekaboo",
+    "slug": "peekaboo-wwnv1",
+    "description": "Peekaboo is a blind NFT auction built on Ethereum/Optimism. The winner is revealed by solving a verifiable delay function (VDF). This enables a seamless and efficient user experience.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "rmkrz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "CryptoWharf",
+    "slug": "cryptowharf-c4sjx",
+    "description": "Democratizing Early Stage Startup Fundraising and Investing on Web3",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "8un5e",
+      "3pgwq",
+      "vxwti",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "EG Testing",
+    "slug": "eg-testing-nwmaw",
+    "description": "Testing test Testing test Testing test Testing test Testing test Testing test Testing test",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verify",
+    "slug": "verify-t8j4x",
+    "description": "Link validator using blockchain technology to make web3 safer",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "ENS Audiobound",
+    "slug": "ens-audiobound-8yxyq",
+    "description": "Unleash creativity with AI, for a soundful web 3.0. By linking with the ENS domain, Audiobound creates another layer of users' digital identity and enables users to sound like anyone on the web3. Deep fake Vitalik is available on demo!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Socialtoshi",
+    "slug": "socialtoshi-80ffa",
+    "description": "Twitter clone for real people building their decentralized reputation without having to pay for the blue checkmark.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SiteAngel",
+    "slug": "siteangel-2edbv",
+    "description": "Users can tip to front-end developer using only URL. And we provide protocol operator with data that they need when they airdrop to third party front-end developers and their supporters.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Optimism on The Graph",
+    "slug": "optimism-on-the-graph-tqg7a",
+    "description": "Simple and high-quality subgraph for Optimism's L1 contracts.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CST - Clinical Static Tool",
+    "slug": "cst-clinical-static-tool-fcvog",
+    "description": "Our platform gives patients control over their medical information and allows researchers to access medical records, for logging statistics, globally.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Dandelion",
+    "slug": "dandelion-dzw9q",
+    "description": "Dandelion allows NFT creators and traders to set up secret and exclusive smart contract based auctions. Auction participation is only by invitation from the seller. The bids and the NFT are sealed until the auction is over.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ludens",
+    "slug": "ludens-v8y2d",
+    "description": "a DAO engagement tool that makes community more enthusiastic by using peer learning and NFTs",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Learn2DAO",
+    "slug": "learn2dao-ootgc",
+    "description": "A DAO education & onboarding platform serving two user groups: (1) users (web2 & web3) to discover, learn about, and eventually join DAOs with a fiat on-ramp & (2) DAO communities to introduce themselves & attract engaged, mission-aligned individuals to join them.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Reviewmint",
+    "slug": "reviewmint-kp358",
+    "description": "Decentralized on-chain protocol for freelancers to store their skillsets, review others' skills, and receive nofiications",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Sledge",
+    "slug": "sledge-c1x68",
+    "description": "Off-ramp to virtual debit card providing instant liquidity to spent IRL",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Even Easier Covalent",
+    "slug": "even-easier-covalent-2rip8",
+    "description": "Frontend for no-code use of the covalent API. Put in a couple parameters and get a JSON response.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "GLoveBox",
+    "slug": "glovebox-cpbvo",
+    "description": "Give and receive love on-chain ( ˘⌣˘)♡(˘⌣˘ ) send unconditional good vibes amongst fellow humans",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "web3 Mailinglist with blue checkmarks",
+    "slug": "web3-mailinglist-with-blue-checkmarks-g8duy",
+    "description": "Blue checkmarks for web3 mailinglists to prevent phishing scams",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "patron",
+    "slug": "patron-4epdo",
+    "description": "patron - The patronage platform for artists, creators, and free speech on the web3.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "BetterVickeryAuction",
+    "slug": "bettervickeryauction-4ukei",
+    "description": "A simple proof of concept for a Vickery auction dApp without commit and reveal.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Loyalthree",
+    "slug": "loyalthree-q2tc5",
+    "description": "We built an interoperable and permissionless loyalty system by deploying, populating and indexing a subgraph based on the polygon-mumbai lens protocol. To enable an exciting and secure UX, we integrated proof-of-personhood, a notification layer and oracle-based randomness.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "10a1v",
+      "3zpxc",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "RealTimeMEVMonitor",
+    "slug": "realtimemevmonitor-7nbrq",
+    "description": "Real-time MEV arbitrage monitor for DEX on Ethereum Mainnet",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwallowProject",
+    "slug": "swallowproject-67mm5",
+    "description": "Make custom shortcuts of transaction, on-chain data with No-code.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "QuickNode-SDKs & Midpoint Launch Control",
+    "slug": "quicknode-sdks-and-midpoint-launch-control-kxfso",
+    "description": "QN-SDK is a multi-language SDK to build and integrate Web3 applications powered by QuickNode APIs. Launch Control is a Smart Contract that can be used to spawn resources on a cloud provider.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "na4kb",
+      "jywri"
+    ]
+  },
+  {
+    "name": "PepperStake",
+    "slug": "pepperstake-ksjxn",
+    "description": "PepperStake is a social accountability protocol which allows anyone to set and achieve goals using Ethereum.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "pfyco",
+      "fp1x1",
+      "10a1v",
+      "t5on2",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Reand",
+    "slug": "reand-2r56b",
+    "description": "Reand is a decentralized protocol for connecting different NFTs with each other",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Sail",
+    "slug": "sail-6httb",
+    "description": "Sail is a central limit order book built on Fuel. It uses predicates to keep state bloat minimal.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "u7kt2"
+    ]
+  },
+  {
+    "name": "Gani Wallet",
+    "slug": "gani-wallet-838so",
+    "description": "Gani Wallet is a cross-chain Account Abstraction wallet with modular security settings. You can trustlessly compose one-time passcode, password, guardian wallet, for different types of transactions.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "MentaStream",
+    "slug": "mentastream-m3dyc",
+    "description": "The way to share your moments, as they happen and with those around you, MentaStream!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Uniswap 84% Rule.",
+    "slug": "uniswap-84-rule-e8i2v",
+    "description": "I solved for a formula in uniswap v3 to optimize for risk, capital efficiency, and volatility.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "easyLP",
+    "slug": "easylp-8o44q",
+    "description": "LP UI for trending activities and easy swap/exchange for best price available across DEX and provide pair liquidity in one single click.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "FriendWorld",
+    "slug": "friendworld-mk7qf",
+    "description": "Friend World helps you find and make new friends",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "CollectDAO",
+    "slug": "collectdao-91g9t",
+    "description": "Create DAOs by posting on Lens Protocol. Collects act as votes and collect fees go straight to the DAO treasury",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "MomsKitchen",
+    "slug": "momskitchen-nv7zi",
+    "description": "Decentralizing restaurants by making the world's moms-kitchens a decentralized restaurant.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Loaned",
+    "slug": "loaned-b4m6v",
+    "description": "Uncollateralized accessible loans with 3 clicks, under 1 minute.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "fp1x1",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "FoxLottery",
+    "slug": "foxlottery-m3ted",
+    "description": "FoxLottery is a blockchain lottery using crypto assets and smart contracts. The ERC20 tokens collected from users will be distributed to random winners. The winner is determined using Chainlink VRF, which generates random numbers on the blockchain.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sub3",
+    "slug": "sub3-egyxw",
+    "description": "Marketplace and subscription payment solution for the problem of recurring payments",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polyverse App",
+    "slug": "polyverse-app-ig0jz",
+    "description": "Virtual Amazon - Empowering users with digital assets (NFTs) that are interoperable.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Secret Weavers",
+    "slug": "secret-weavers-q98on",
+    "description": "Enable DAO members to vote and analyze voter behavior, anonymously, with Weavechain’s confidential computing. Weavechain puts one-way hashes of data on Polygon to establish immutability guarantees, and authenticates members by checking for a Gnosis POAP in their wallets.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Splash",
+    "slug": "splash-fb6r0",
+    "description": "Splash is a platform that allows users to invest by watching their favourite content - watch to invest!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3pgwq",
+      "vxwti",
+      "mdb6w",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Royalty Enforcing NFTs",
+    "slug": "royalty-enforcing-nfts-uh6vh",
+    "description": "Royalty enforcing NFT contract based on an evergreen, decentrally decided whitelist of royalty enforcing exchanges that is verified by UMA's optimistic oracle and compiled on decentraList.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "The Lovelace Project",
+    "slug": "the-lovelace-project-4qn39",
+    "description": "Protocol that enables the creation of governance structures and allocation of benefits and rights to community members based on web3 third-party data through the minting of SBTs based on rules set by DAOs/Orgs.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "xf84v",
+      "g3uvh",
+      "nbyyv",
+      "3zpxc",
+      "t5on2",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "SmartCheque",
+    "slug": "smartcheque-8pp8y",
+    "description": "Out-of-Band, Instant, Offline Blockchain Payments For Your Community",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Nabu",
+    "slug": "nabu-9278e",
+    "description": "Peer 2 Peer ebook publishing application. Upload your ebook to a secret link, that can be accessed only by NFT holders of the ebook copy.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Contingent",
+    "slug": "contingent-vwx0b",
+    "description": "This project is a framework for the creation of an under collateralized bond market by integrating off-chain data in the Polygon ID.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xf84v",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "ToBeContinued",
+    "slug": "tobecontinued-x5btt",
+    "description": "A ToBeContinued Token is a protocol that extended upon ERC721 (NFT) that enables copyright-protected collaboration among creators, and rewards each contributor according to their declared share of contribution.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "rmkrz",
+      "9zj01",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Every Coin Counts",
+    "slug": "every-coin-counts-02uks",
+    "description": "Give institutions and non-profit organizations the ability to receive donations in crypto, and spend it for their causes.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Fungible V3 LP",
+    "slug": "fungible-v3-lp-wm905",
+    "description": "Empower Uniswap V3 liquidity providers with ERC-20 Fungibility",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "DuneSentinel",
+    "slug": "dunesentinel-ini0n",
+    "description": "Utilizing Dune's API, we've created a state-of-the-art notion integration which allows you to pull a query into notion of the top 10 WHALE wallets based off trade volume in the last 4 hours",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof ID",
+    "slug": "proof-id-risny",
+    "description": "A design for a ZK credit system, with bugfixes to ZKDID-JS and its published code.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Paramo",
+    "slug": "paramo-ysjdm",
+    "description": "Paramo is an NFT marketplace that connects companies that want to offset their carbon emissions with regenerative carbon sequestering projects. We monitor each project and update NFT images along with photography taken by drones.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ERC721 Parent & Child",
+    "slug": "erc721-parent-and-child-8pmw8",
+    "description": "An implementation of the ERC721 standard that focuses on creating a Parent to Child contract relation that enables associated tokens to travel with its parent.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Safe3",
+    "slug": "safe3-0ectu",
+    "description": "Safe3 is your personal crypto shield for web3, proactively helping you to avoid phishing, fraudulent transactions, malicious authorizations and other security issues, so you can enjoy web3 safety.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fragmento",
+    "slug": "fragmento-kqts3",
+    "description": "Fragmento helps you migrate your meaningful social data from Web2 to Web3.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Onchain ZK Shuffle Texas HoldEm",
+    "slug": "onchain-zk-shuffle-texas-holdem-wuc8u",
+    "description": "A zkSNARK based card shuffling and dealing scheme and a demo application of a fully on-chain Texas Hold’em game on Ethereum",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "bw7y9",
+      "t5on2",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Compliant Tornado Cash",
+    "slug": "compliant-tornado-cash-vrb3t",
+    "description": "A compliant version of tornado cash. Bringing Compliance On-chain with privacy preserving using zero knowledge",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShapeShifter: midenfy",
+    "slug": "shapeshifter-midenfy-v8tk8",
+    "description": "Clarity smart contract compiler targetting the Polygon Miden VM.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlavorsofDawn",
+    "slug": "flavorsofdawn-1wf24",
+    "description": "New art viewing each morning with direct purchase from the creators",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stealth Address Donations",
+    "slug": "stealth-address-donations-5hk7v",
+    "description": "We let donors create and send to stealth addresses controlled by others. Receivers can register their public keys to receive stealth transfers. The receiver can independently create the keys to those addresses. No interaction between the two is needed.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "freeusdc.io",
+    "slug": "freeusdc-io-oba8o",
+    "description": "Freeusdc.io is a competitive multiplayer wallet. All players’ Visa debit cards connect to the same Ethereum wallet. USDC is deposited at random: race to spend it anywhere before others!",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UNIC",
+    "slug": "unic-r2u7s",
+    "description": "UNIC provides creators with protection and users with authentication, through encoded invisible signatures that make NFTs scannable across the digital spectrum and in the physical world.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "j61b3",
+      "rmkrz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ZK Stablecoin Engine",
+    "slug": "zk-stablecoin-engine-nbshq",
+    "description": "An API for Sending Private Stablecoin Transactions on Polygon Nightfall",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsqgj"
+    ]
+  },
+  {
+    "name": "JUKEBOX",
+    "slug": "jukebox-3gjhb",
+    "description": "A Web3 enabled streaming service that utilizes microtransactions for payments.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Biggie Bank",
+    "slug": "biggie-bank-f0h6p",
+    "description": "Biggie Bank is an engaging, educational application that demonstrates how web3 and webAR can harness delight to digitally incentivize saving and teach blockchain.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aspan",
+    "slug": "aspan-45uv1",
+    "description": "Borderless USD savings accounts tailored to emerging market retail savers",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Web3Connect",
+    "slug": "web3connect-jmxj0",
+    "description": "A Lens Protocol and Web3MQ application, that allows Lens users to stay connected through decentralized communication.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "cryptids.xyz",
+    "slug": "cryptids-xyz-w6ppb",
+    "description": "Collectible trading card game & rules engine using ZK proofs & XMTP",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Cinema.fi",
+    "slug": "cinema-fi-y6r59",
+    "description": "Cinema.fi: A crypto solution for indie film funding. We turn frames, sequences, and scenes from funded films into NFT’s as a way to raise money for movie production, while giving the benefactor the ability to own a part of the movie they funded.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alexandria",
+    "slug": "alexandria-3db0q",
+    "description": "Alexandria is an onchain library that allows you to borrow & read books, claim NFTs. If you are an author then say hey to royalties. If you don't return the book in time we'll take it ourselves. So forget paying unnecessary fines & enjoy yourselves at the library of the future.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "SoccerBeat",
+    "slug": "soccerbeat-mkce3",
+    "description": "Nextgen Dance Dance Revolution using no additional device other than your camera! GameFi from your phone and laptop.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "blueplanet",
+    "slug": "blueplanet-aye83",
+    "description": "visualization of interaction with your friends on-off chain date",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Puma.gg",
+    "slug": "puma-gg-gtt6m",
+    "description": "Puma.gg – share and collect best gaming moments with friends and discover new games to play",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "LIFE",
+    "slug": "life-81m99",
+    "description": "Massively-multiplayer-on-chain Conway's game of life where user's fight for dominance of  a 1000X1000 grid.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "buucz"
+    ]
+  },
+  {
+    "name": "DAO Helper",
+    "slug": "dao-helper-3tuoz",
+    "description": "DAOHelper.com is building a  discovery, hiring, and community management platform for DAOs and contributors like LinkedIn for Web3",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "IP3",
+    "slug": "ip3-f76rf",
+    "description": "IP3 is a Web3 IP copyright authorization platform with solutions for commercial companies for helping more commercial businesses enter Web3 using Web3 IP and targeting large Web2 audiences.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jywri",
+      "bw7y9",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "blockParty",
+    "slug": "blockparty-sc9ph",
+    "description": "blockParty is a creation and discovery tool for web3 event organizers and attendees",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "METL",
+    "slug": "metl-fpr7o",
+    "description": "A non-custodial fiat on/off ramp utilizing zk proofs with MPC for transferring ACH transactions on-chain.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "UmiProtocol",
+    "slug": "umiprotocol-jy4y5",
+    "description": "Umi is a new Auto Market Maker with an automatic concentrated liquidity algorithm.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CATchy",
+    "slug": "catchy-hq158",
+    "description": "Our CATchy improves the UX of diversified blockchains. Today, there are many different chains in existence and they are diversifying. However, it is not easy for users to master multiple chains.  We create wallets that allow bridging on wallets.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Humble Opinions of NFTs",
+    "slug": "humble-opinions-of-nfts-vs8hc",
+    "description": "Sift the diamonds from the scams with on-chain user ratings of NFTs",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mocha",
+    "slug": "mocha-r660v",
+    "description": "A dynamic vault creation and strategy creation system -- the no-code, full-custody solution for on-chain automated trading algorithms that interact with top defi protocols",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tokenized Education",
+    "slug": "tokenized-education-fmixx",
+    "description": "For completing tasks from clubs and teachers, students are rewarded with tokens. These badges can be applied to a student's profile to highlight their skill set. Professors can find candidates for opportunities as teaching or research assistants by using this database of tokens.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g3uvh"
+    ]
+  },
+  {
+    "name": "tapp finance",
+    "slug": "tapp-finance-sw413",
+    "description": "Tapp finance is Liquidity routing protocol for NFT AMM supporting multiple EVM chains - Ethereum, Polygon, Optimism, Skale network, and EVMOS. It aggregates information on liquidity pools of NFT AMMs. Users can discover the best pools.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Lion",
+    "slug": "lion-277t0",
+    "description": "LionClub is a sharing-video app where all your activities are on-chain.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P2P Games",
+    "slug": "p2p-games-19vqx",
+    "description": "P2P Gaming platform, find and play by using ENS or Eth address",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "1Combo Ethereum SDK",
+    "slug": "1combo-ethereum-sdk-a6z4f",
+    "description": "1Combo Ethereum SDK enables everyone to create a mini combo game for NFT holders. In a mini combo game, an NFT holder can combine two or more NFTs to create a new NFT.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScavengerHunter",
+    "slug": "scavengerhunter-mtvgm",
+    "description": "An app that encourages people to get active in their community by giving them crypto to go on a scavenger hunt",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SCBAC",
+    "slug": "scbac-fo4ap",
+    "description": "We implemented smart contract based access control standard. We applied it to a community by NFT. The Access Control List can be used as middleware to other applications.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phezzan Protocol",
+    "slug": "phezzan-protocol-nw8qy",
+    "description": "An orderbook-style perpetuals DEX where everyone can be an LP.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ladder.top",
+    "slug": "ladder-top-jcufu",
+    "description": "Ladder Protocol is a decentralized NFT AMM, enabling instant NFT swaps and better price discovery. Ladder Protocol is a peer-to-peer system designed for exchanging NFTs (ERC20 | ERC721 | ERC1155) on [ETH], BSC & Polygon.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "exaBITS AI",
+    "slug": "exabits-ai-gta4i",
+    "description": "exaBITS AI is a decentralized AI-generation NFT platform. The platform runs on a physically decentralized cloud called exaBTIS.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CATCHON",
+    "slug": "catchon-2h72n",
+    "description": "No code solution for NFT based ecommerce protocol. It can help people bridge the physical items with digital asset.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Strapi IPFS Provider",
+    "slug": "strapi-ipfs-provider-67ps3",
+    "description": "IPFS (Filebase, Pinata, Fleek, Web3) provider for Strapi uploads.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Blockless Site",
+    "slug": "blockless-site-bgza1",
+    "description": "Blockless Site powers decentralized dynamic websites, controlled by the smart contract, and owned by the community.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Web3 Reputation Clustering",
+    "slug": "web3-reputation-clustering-jvtnq",
+    "description": "Lens protocol recommendation system help users discover similar users or content",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SparkZ",
+    "slug": "sparkz-00gkp",
+    "description": "Play to burn calories on bicycle rides in San Francisco using  zk proofs",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Yotaku",
+    "slug": "yotaku-5a0vo",
+    "description": "Yotaku is the world's first trustless escrow built on Ethereum. Yotaku is maximally configurable  and asset-agnostic, allowing for powerful exchange of value.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "FairKraft",
+    "slug": "fairkraft-e48ia",
+    "description": "An equitable marketplace for merchandise for tailors and other artisans using near-field communication chips and NFTs. FairKraft enables product authenticity validation, fair compensation for the creators and fair reviews for buyers.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AssetHub",
+    "slug": "assethub-b66cy",
+    "description": "Assethub is a DAO tool for creators that facilitates collaboration by connecting originally fragmented asset creator senses, and builds interoperability that allows worldbuilders to assemble with diverse content.",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Subjective",
+    "slug": "subjective-nsjce",
+    "description": "Subjective is a protocol that leverages game theory to provide accountability mechanisms for every P2P transaction in the blockchain..",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "KOTOVERSE",
+    "slug": "kotoverse-h2g1d",
+    "description": "\"KOTOVERSE\" is a collaborative NFT marketplace for fiction books. KOTOBA means words in Japanese. Shall we begin a text-based metaverse with your KOTOBA?",
+    "event": "ETHSanFrancisco 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  }
+]

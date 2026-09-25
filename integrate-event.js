@@ -89,7 +89,16 @@ function main(){
   });
   writeJSON('data/details.json', details);
 
+  console.log(`Finalist prizes injected: ${injected} (finalist set size ${finSet.size})`);
+  console.log(`Pipeline: listings +${addedL} (total ${listings.length}), completed +${addedC}, details.json ${details.length}`);
+
   // ---- 3) Root CSV upsert ----
+  // The root CSV is gitignored and may be absent (it lives in Google Drive). Skip cleanly;
+  // re-running this script later is safe because the upsert matches on slug.
+  if (!fs.existsSync('ethglobal-showcase.csv')) {
+    console.log('WARN ethglobal-showcase.csv missing: root CSV upsert skipped. Re-run after restoring it.');
+    return;
+  }
   const recs = parseCSV(fs.readFileSync('ethglobal-showcase.csv','utf8'));
   const h = recs[0]; const idx={}; h.forEach((x,i)=>idx[x]=i); const NCOL=h.length;
   const PRIZE_COLS = h.filter(x=>/^Prize \d+$/.test(x)).length;
@@ -116,8 +125,6 @@ function main(){
 
   const ev = recs.slice(1).filter(r=>r[idx.Event]===EVENT_NAME);
   const prizeCols = i => ev.filter(r=>/finalist/i.test((r.slice(idx['Prize 1'], idx['Prize 1']+PRIZE_COLS)).join(' ')));
-  console.log(`Finalist prizes injected: ${injected} (finalist set size ${finSet.size})`);
-  console.log(`Pipeline: listings +${addedL} (total ${listings.length}), completed +${addedC}, details.json ${details.length}`);
   console.log(`Root CSV: updated ${upd}, appended ${app}; "${EVENT_NAME}" rows now ${ev.length}`);
   console.log(`  winners: ${ev.filter(r=>+r[idx['Prize Count']]>0).length}, finalists: ${prizeCols().length}`);
 }

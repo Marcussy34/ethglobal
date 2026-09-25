@@ -1,0 +1,1084 @@
+[
+  {
+    "slug": "fluidswap-v9vy7",
+    "name": "FluidSwap",
+    "event": "UniCode",
+    "description": "An AMM to enable large orders to be executed over multiple blocks!",
+    "projectDescription": "We are building a decentralized AMM on top of Uniswap V3. Users can take normal actions like swap and add/remove liquidity. On top of that users can also put in fluid orders (order to be executing over time). These orders don't lead to sudden movement in prices and are also safe from sandwich attacks.",
+    "howItsMade": "This project uses Uniswap V3 behind the scenes as a pool to handle all the swaps. On top of that we are using custom periphery to execute long term fluid orders before the swap or add/remove liquidity. We setup wrapped token pools to ensure these actions happen only through our periphery.",
+    "prizes": [],
+    "githubUrl": "https://github.com/ShreyPaharia/FluidSwap",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "hacking-nft-hot8o",
+    "name": "Hacking NFT",
+    "event": "UniCode",
+    "description": "Decentralized nft marketplace for buyer minting their own nfts",
+    "projectDescription": "This project is a simple nft marketplace, one of creator's art is separated into 6 different parts, and our project allows buyer to mint the token by themselves, they only need to pay for the gas fee and small amount of price to have one of the 6 parts of the painting, to collect the whole painting, they need to mint all 6 tokens in order to have a complete collection. we deployed our erc1155 on kovan optimism and host the front end on skynet; we also deployed another erc1155 contract on rinkeby testnet and point the hosted frontend to ens.\nkovan optimism deployed contract repo: https://github.com/b69liu/paintingNFT\nkovan optimism contract address: 0xc84Cbb1CB2fD1a3100F0bdb0c2fF4d6472Fc2553\nfrontend repo: https://github.com/Zilan-Ouyang/hackathon\nens: http://oversized.eth/\nskynet: https://0409gk9h4qaq8u0icl92g3e8b4o9lpaq1rs0dl2k4felusdrml2g1jg.siasky.net/",
+    "howItsMade": "this project frontend is built with react and hosted on skynet; and the token contract is based on erc1155 token protocol, and it's tested on rinkeby testnet and deployed kovan optimism. The frontend is deployed on skynet and hosted on ens. therefore, our marketplace is fully decentralized!",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/Zilan-Ouyang/hackathon",
+    "demoUrl": "https://0409gk9h4qaq8u0icl92g3e8b4o9lpaq1rs0dl2k4felusdrml2g1jg.siasky.net/",
+    "teamMembers": []
+  },
+  {
+    "slug": "universe-finance-backtesting-for-uniswap-v3-25v8m",
+    "name": "Universe Finance Backtesting for Uniswap V3",
+    "event": "UniCode",
+    "description": "Universe Finance Backtesting system is the first open source backtesting platform for Uniswap V3. Our comprehensive database allows all developers to test their strategy in a work smarter way!",
+    "projectDescription": "According to K-line data, we can simulate the price information of a specified block, all based on Uniswap's real transactions;\nBased on the swap and other records of Uniswap V3 pools, the signals can be produced by prefixed strategies or customized strategies by users, and we can simulate the procedure of adding/removing liquidity ;\nBy recording all these data and the initial principles from users, the backtesting system will generate the performance details in graphs as well as in transactions logs for the strategy.",
+    "howItsMade": "After the release of Uniswap V3, we built a financial model which simulate the impermanence loss based on price range and price deviation. In that back-testing system, we calculate the gross fee APR of USDC-ETH pair. From those data, we come to the conclusion that LPs have a chance to earn more money by using version3 than version2. In order to get more intuitive and specific quantitative data, we delivered the back-testing system to verify our views.\nExcept for the Uni-V3 Liquidity provider back-testing system, we also implied our own Trend Trading Strategy Based Multi-factor Rebalance strategy into real product which is our current site of https://www.universe.finance/vaults\nThe whole backtesting system is based on Uniswap V3. All the data is from Uniswap V3 and it won't be possible until Uniswap released the liquidity management feature.\nWe made our backtesting system open source and we also studied from Visor's doc and on-chain strategy data in order to improve the backtesting system.\nThis project is based on Java version 1.8 and Gradle version 7.1.\nI am impressed that the team made the backtesting system and made it open source for the whole industry.",
+    "prizes": [],
+    "githubUrl": "https://github.com/UniverseFinance/UniCode2021-UF-Backtesting.git",
+    "demoUrl": "https://www.universe.finance/backtest?q=0x8ad599c3A0ff1De082011EFDDc58f1908eb6e6D8,480,180,3,2021/06/01,2021/11/07,0,10000,0,270,1",
+    "teamMembers": []
+  },
+  {
+    "slug": "unisender-dpha9",
+    "name": "Unisender",
+    "event": "UniCode",
+    "description": "Unisender is tool is use to send asset to multiple  addresses use less gas fees and less time.",
+    "projectDescription": "This project is made using the Uniswap interface template. We are adding tools to send money to multiple addresses using Uniswap. By using Unisender you can easily send funds to multiple accounts. It will use fewer gas fees and you do not have to make multiple transactions and lots of gas fees.",
+    "howItsMade": "Unisender is made using the Uniswap Interface template. Unisender is made using React Js, JavaScript, Typescript, Solidity, etc. This is my idea to send money easily from one account to multiple using fewer gas fees and less time. Uniswap liquidity will use to provide the assets.",
+    "prizes": [],
+    "githubUrl": "https://github.com/karangorania/Unisender",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "uniflash-scsan",
+    "name": "Uniflash",
+    "event": "UniCode",
+    "description": "Testing the uniswap flashloans. Deployed the flashloan contract with hardhat and tested with main net ethereum fork with hardhat",
+    "projectDescription": "UniFlash\nflashloan example\nIt borrows from Uniswap DAI/USDC 0.05% pool fee\nSwaps 1500 DAI for 55.66 UNI on Kyber\nSwap 55.66 UNI for 1505.61 DAI on Uniswap\nPayback 4.86 DAI (profit) to deployer and give back 1500 DAI + 0.05% fee to Uniswap. Deployed the flashloan contract with hardhat and tested with main net ethereum fork with hardhat. Added homescreen button for skynet and github action deploy-to-skynet",
+    "howItsMade": "It's made with solidity, javascript (and typescript), alchemy, hardhat. This repo only works with hardhat mainnet fork. With hardhat, you can run your smart contracts on mainnet fork. For more: Harhdat Docs\nSetup Environment Variables\nYou’ll need an ALCHEMY_MAINNET_RPC_URL environment variable. You can get one from Alchemy website for free.\nThen, you can create a .env file with the following.\nALCHEMY_MAINNET_RPC_URL='<your-own-alchemy-mainnet-rpc-url>'\n\nInstall Dependencies\n\nRun the following command.\nyarn install\n\nCompile Smart Contracts\n\nRun the following command.\nyarn compile\n\nExecute Flash Swaps on Mainnet Fork 🔥\n\nRun the following command, and it will run scripts/flashswaps.ts script.\nyarn flashswaps",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/acul71/uniflash",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "flashswapper-gjrk4",
+    "name": "FlashSwapper",
+    "event": "UniCode",
+    "description": "A Uniswap v3 flashswap implementation. this works with at least three diffrent pools.",
+    "projectDescription": "This is a flash swap project that a user can borrow funds from pool1 and swap it for project in another pool (pool2) and the margin profit is compared. if swapped token is grater than borrowed token, the transaction succeeds otherwise it is reverted. The optimism network was forked using the Alchemy RPC for optimism mainnet. This enabled me to simulate the mainnet locally while interacting and observing the flashswap contract.",
+    "howItsMade": "This project uses the Uniswap V3 flashswap contract. a lot of scripts in typescript where written for test and to run the flshswap. pool information was gotten from https://info.uniswap.org/#/pools with the pool charges.\nHardhat was used to fork the main-net so as to test the flashswap without incurring cost.",
+    "prizes": [],
+    "githubUrl": "https://github.com/holyaustin/Flashswapper",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "arbitrage-between-v2-and-v3-jjcqp",
+    "name": "Arbitrage between V2 and V3",
+    "event": "UniCode",
+    "description": "Finding the arbitrage opportunity between V2 and V3 protocol with flashswap execution",
+    "projectDescription": "During this hackathon, I learned uniswap V3 protocol. (so far i have only known V2 spec. )\nDeveloping the tool to find the arbitrage opportunity will be good learning exercise to use both version of  protocol and compare, because two protocol has different interface to fetch the price respectively",
+    "howItsMade": "Create simple price fetch script on ETH/BAT. For uniswap v2, call smart contract through etherjs directly. On Uniswap V3, this way does not work.(Bug of Quoter contract?)So...looking for another way, maybe call from SDK. I also tried to implement flashloan when tool find arbitrage opportunities, but I did not have time to complete it.",
+    "prizes": [],
+    "githubUrl": "https://github.com/kfujita0520/Unicode2021",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "braineumdex-iwz2g",
+    "name": "BraineumDEX",
+    "event": "UniCode",
+    "description": "Building a decentralized exchange for the Braineum Ecosystem.",
+    "projectDescription": "The idea here is to continue building for the Braineum ecosystem and in this hackathon which is primarily about decentralized exchanges I decided to build such an exchange. Decentralized exchanges flatten the investment world where anyone can at anytime swap one token for another.",
+    "howItsMade": "Formulating an idea for this hackathon was quite challenging. At the end I settled on building a decentralized exchange using as a base a Moralis tutorial I saw. I did read through the Uniswap documentation but even that was challenging on a first read. Moralis provided a very straight forwards interface. I will revisit the Uniswap documentation as DEXes are an important part of the Web3 ecosystem.",
+    "prizes": [],
+    "githubUrl": "https://github.com/rbensonevans/braineumDEX",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "project-wumbo-nfzs9",
+    "name": "Project Wumbo",
+    "event": "UniCode",
+    "description": "A trader-owned smart contract that enables advanced on-chain trades",
+    "projectDescription": "The goal of this project was to tools for defi users to create advanced strategies of interacting with DeFi protocols. In many instances, interacting with a DeFi protocol from a standard address provides limitations. Some advanced strategies can only be done by smart contracts. Our project creates a custom smart contract that is owned by the trader, and the trader to use the contract as a proxy for implementing preprogrammed trading strategies, such as recursively leveraging a debt position on Aave.\nWhile we were unable to realize our full vision during this hackathon, our prototype serves as a proof of concept of a user-owned smart contract and it's interface. Once the contract is deployed and an admin (the user) is set, the user can deposit and withdraw erc20 tokens from the smart contract. The user can also call functions which swaps tokens within the smart contract.",
+    "howItsMade": "This project was built using React as the frontend, a local json server as a temporary database (which in the future can easily be turned into an api-accessible database), and Brownie as the smart contract deployment platform and testing platform, with Ganache as our local blockchain server.",
+    "prizes": [],
+    "githubUrl": "https://github.com/Michael-Vander-Meiden/wumbo",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "encodexor-4zy3d",
+    "name": "ENCODEXOR",
+    "event": "UniCode",
+    "description": "Using Uniswap SDK and contracts  interface to present some DeFi options.",
+    "projectDescription": "Using UniswaV3 protocol to present DeFi options such as swaps and arbitrage. Aim to offer some bridging to L2 layers and access through ENS as well as storage options through Skynet. All this through the Diamond standard to allow upgrading the contract and adding new features. Using UniswaV3 protocol to present DeFi options such as swaps and arbitrage. Aim to offer some bridging to L2 layers and access through ENS as well as storage options through Skynet. All this through the Diamond standard to allow upgrading the contract and adding new features.",
+    "howItsMade": "This project will use Solidity, Hardhat, React and Ant for the front end. Through the diamond standard, the ability to have multiple functions in one contract that can later be updated. Uniswap has tons of functionality that would can be captured on one contract, and pairing that with tools like the Graph, IPFS, ENS and other would alllow for a powerful web3 experience.",
+    "prizes": [],
+    "githubUrl": "https://github.com/zen2see/ENCODEXOR.git",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "accidentalswap-bd7cd",
+    "name": "AccidentalSwap",
+    "event": "UniCode",
+    "description": "A simple dapp built on uniswap that preforms an exact input swap with a random output token.",
+    "projectDescription": "A simple dapp built on uniswap that preforms an exact input swap with a random output token. A user would come to this dapp when feeling indecisive or wanting to gamble on an unknown token. Right now only DAI to WETH swap is supported, but the intention is for a user to be able to select the input token, and for the output token to be selected from a list.",
+    "howItsMade": "We started by following the uniswap v3 tutorial for simple swaps. The function we implemented swaps DAI for WETH given DAI amount as a parameter. A react front end was built and references the smart contract deployed to the ropsten testnet. We eventually intent to include chainlink oracles to randomly select an output token to replace WETH with.",
+    "prizes": [],
+    "githubUrl": "https://github.com/ethantddavis/unicode2021",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "reed-gwxz3",
+    "name": "reed",
+    "event": "UniCode",
+    "description": "verifiable tarot card pulls for private AZTEC & transparent Optimism uniswap trades in DAO governance and exit quits",
+    "projectDescription": "constructing decisional uniswap flow trees as to the decisions with capital and liquidity being made through time. can map to DAO members to monitor trust in graphical flows.\n78 tarot cards can be applied as a type of antiquity filter on resources\ncan be performed over ritual periodic timelines beginning from a seed group of individuals as trials for capital efficiency on risk profiles and metaverse journeying with either public L2 optimism or private Aztec transitions\nwhile capital can be hidden, decisions against tarot NFTs not. due to the fact that aztec allows for any ERC20, the pools provided for can become cybernetic magnetic feedback loops constructing live player roles.",
+    "howItsMade": "The project uses a react front end, various other libraries, and aztec shielded transactions to perform private uniswap transactions. The project also uses Optimism L2 transactions to perform swaps with uniswap as an additional option, and uses textile to store snapshots with the use of storage-js on polygon.",
+    "prizes": [
+      {
+        "sponsor": "Aztec Labs",
+        "trackName": "Best use AZTEC Protocol",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Best use AZTEC Protocol"
+      },
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Innovation Hack Runner Up",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Innovation Hack Runner Up"
+      }
+    ],
+    "githubUrl": "https://github.com/moskalyk/reed",
+    "demoUrl": "https://youtu.be/R3oHPoKYP1I",
+    "teamMembers": []
+  },
+  {
+    "slug": "caravan-uoevz",
+    "name": "Caravan",
+    "event": "UniCode",
+    "description": "A new market for liquidity positions.  Rent liquidity from liquidity providers. Rent out your liquidity to others. Buy, sell, and trade liquidity positions without pulling liquidity out of the pool.",
+    "projectDescription": "Liquidity providers can rent out their positions for a fixed duration in exchange for an up-front lump sum to renters, who are able to collect fees from the position for the duration of the rental. Providers will be able to hold their positions long term but receive guaranteed cash flow in the short term. Renters can profit by collecting fees from positions without holding the underlying assets.",
+    "howItsMade": "Caravan's backend is coded in Solidity and deployed to the Ethereum blockchain. Caravan's frontend uses web3 and Angular to communicate with the backend. In traditional finance, banks often swap cash flows from their assets for a fixed period of time. They do this because they want to hold onto their assets long-term, but believe their counter-party's assets will outperform their own in the short-term.  We are porting this over to DeFi, specifically for Uniswap.\nWe are going to make a platform that allows for the lending and renting of Uniswap v3 liquidity positions. Liquidity providers can lend out their positions for a short amount of time to renters, who are able to collect fees from the position for the duration of the rental. Lenders will be able to hold their positions long term but still get short term cash flow.",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      },
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Caravan Hack Runner Up",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Caravan Hack Runner Up"
+      }
+    ],
+    "githubUrl": "https://github.com/andrewting19/UniswapLiquidityLending",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "anchorgate-zfb7e",
+    "name": "AnchorGate",
+    "event": "UniCode",
+    "description": "Get the best price on Mimatic (MAI) / DAI swaps by auto-anchoring via one swap contract interface which also improves pool liquidity",
+    "projectDescription": "This project is a dapp/contract that allows consumers to always get the best price when swapping from a stablecoin (DAI) to another stablecoin with an anchoring mechanism (MAI). The contract connects to one or more Uniswap pools and the miStableDai contract (Anchor) to determine if the most efficient price is from the liquidity pool(s) or by minting or redeeming and putting new tokens into the pool.",
+    "howItsMade": "We use hardhat with Alchemy to fork the Polygon mainnet network and run a hardhat bootstrap script to steal tokens from a DAI whale. This lets us test with real pools with liquidity and real tokens (MAI and PoS DAI) and access the anchor contract. We are using Uniswap V2 pool contracts to compare prices/liquidity. Scaffold-eth provides the UI to all the contracts. The UI was a quick proof of concept to demonstrate calling our contract.",
+    "prizes": [],
+    "githubUrl": "https://github.com/anchorgate/anchorgate",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "swapgasfees-z4v39",
+    "name": "SwapGasFees",
+    "event": "UniCode",
+    "description": "Design of an analytics dashboard for Uniswap gas fees, as well as charts that give analytical insights into Uniswap.",
+    "projectDescription": "This project proposes design of an analytics dashboard to interactively and dynamically display swap gas fees (swap fees) on Uniswap. The dashboard also displays other charts that give analytical insights into the Uniswap ecosystem.\nWhile there exist some websites/apps that show the Ethereum gas fees, to the author's best knowledge, there does not exist a website/app that shows swap gas fees for the Unicode ecosystem. This project involves the design and communication of such an analytics app.\nThe proposed SwapGasFees app is not yet implemented during the period of UniCode Competition 2021, due to lack of time and difficulties in finding team members. Yet, it outlines a blue print of how such a system can be implemented over an extended time period. In other words, the design provides a template, through which such a dashboard can be coded.",
+    "howItsMade": "So far, this is only the design blueprint. The system can be implemented in an extended time frame, based on the detailed explanation and documentation. To implement the system, the backend would use GraphQL, BitQuery, Flipside Crypto, or another API, as well as respect the contract maps, as documented in j1mmy.fi. For the frontend, the easiest thing to do would be to fork the Uniswap front-end code and do modifications on that. For visualizations, the most suitable library is found to be D3.js.",
+    "prizes": [],
+    "githubUrl": "https://github.com/gurdalertek/swapgasfees",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "cargo-protocol-ken14",
+    "name": "Cargo Protocol",
+    "event": "UniCode",
+    "description": "Aggregator tool from Cargo Protocol helps users to overview, select and deploy their LP tokens to rebalancers operating on Uniswap V3.",
+    "projectDescription": "Uniswap V3 brought together an innovative concept of concentrated liquidity pools and the decentralised exchanges experience. However, this is inherently a product that is not easily understood and used by conventional DeFi ecosystem participants (e.g. not power users). Rebalancers such as Visor are helping to bridge skills/understanding gap for this segment and are unlocking improved yield opportunities at the same time.\nThe Aggregator tool from Cargo protocol is taking the next step and is helping these users to choose between protocols providing different Uniswap V3 LP management (rebalancer) strategies. It summarises key metrics such as APR, APY, TVL and serves them up in a consistent interface, dependent on the LP tokens that the user is holding. Once the choice is made it helps to format the LP tokens from the user into a suitable format for the given specific rebalancer, and deploys them to the selected protocol’s interface.\nThis solves multiple pain points for players in this segment: analysis and broad overview of available strategies becomes available on-demand, different ways of depositing tokens into various protocols are catered for by Cargo’s own integrations, subsequent management of tokens is also done in one place, Cargo Protocol’s Portfolio screen (review, redistribute, sweep all existing positions into one etc.).",
+    "howItsMade": "We used Solidity for smart contracts developments, together with developer tools such as Hardhat, OpenZeppelin and Typechain. We have used Typescript for both backend and testing. We have implemented our UI using Figma. We planned to use React.js (with Typescript) for the front-end and the graph for data crawling.",
+    "prizes": [
+      {
+        "sponsor": "Visor Finance",
+        "trackName": "Visor Best Novel Hack",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Visor Best Novel Hack"
+      },
+      {
+        "sponsor": "Visor Finance",
+        "trackName": "Visor Pool Prize",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Visor Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/cargoprotocol/unicode-hack-contracts",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "real-token-bh0ze",
+    "name": "Real Token",
+    "event": "UniCode",
+    "description": "Tokenizing liquid ownership of real estate projects (or any illiquid asset)",
+    "projectDescription": "This project tokenizes an illiquid asset (specifically ownership of real estate units like condos) and integrates a DEX like the ones Uniswap provides to create a liquid market for such assets. In doing so it tries to solve problems like providing quick and early liquidity to real estate firms, potential upside to early backers for such projects ( i.e. buyers of tokens), ability to invest piecemeal as per convenience, a pluggable decentralized exchange for these assets (which helps turn an illiquid asset into a liquid asset), true price discovery (again through the price oracle on Uniswap V3 which makes price manipulation of such physical assets more difficult), better underwriting of these physical assets because of difficulty of manipulating price on the DEX.",
+    "howItsMade": "The protocol is fairly simple and uses vanilla solidity, open-zeppelin libraries, apart from Uniswap V3. So, the work flow is as follows:-\n\n\nThe real estate firm developing condos, creates an ERC20 token representing ownership stake in these condos and decides that you need for eg. 500 tokens to purchase a condo of type 1 and 1000 tokens to purchase a condo of type 2.\n\n\nThe firm also creates a Uniswap V3 pool for these tokens and initializes it to a certain price.\n\n\nPeople (and indeed applications) can buy these ERC20 tokens directly from the developer (or from the Uniswap V3 pool created by the firm).\n\n\nPeople in possession of these tokens can freely trade the tokens on the decentralized pool for profit or can deposit these tokens with the firm in exchange for an NFT that represents complete ownership of a condo. (These NFTs again are tradeable).",
+    "prizes": [],
+    "githubUrl": "https://github.com/udayj/realtoken",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "polywrap-vs-vscode-rmbuk",
+    "name": "PolyWrap vs VSCode",
+    "event": "UniCode",
+    "description": "Polywrap VSCode extension focused on improving the in-IDE developer experience",
+    "projectDescription": "Providing developers with in-IDE access to Polywrap wrapper registry, API discovery, and lightweight code-generation. The hack was focused on taking Polywrap's amazing work and bringing it natively to VSCode (one of the more popular IDE's out there). It helps address the discoverability issue(s) for both wrappers themselves and a given protocol or contract's API. Beyond this it helps with code-generation by providing snippets that help improve developer productivity.",
+    "howItsMade": "Really this was all about both Polywrap and VSCode and the hooks they provide with which to make developer's lives easier. Beyond this it was written in NodeJS / TypeScript. With more time I'd tighten up the flow, add an actual registry, and publish it to the VSCode Extension marketplace.",
+    "prizes": [
+      {
+        "sponsor": "Polywrap",
+        "trackName": "Best improvement of the toolchain",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Polywrap - Best improvement of the toolchain"
+      }
+    ],
+    "githubUrl": "https://github.com/kevinbluer/polywrap-vscode-ext",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "unilearn-6m6qo",
+    "name": "Unilearn",
+    "event": "UniCode",
+    "description": "Unilearn is a crowdsourced learning platform about everything relating to Uniswap. It rewards both the learner and quiz creators with Unilearn tokens and uniquely generated NFTs.",
+    "projectDescription": "This is a DAPP where a user can connect their wallet and complete short quizzes on educational content that is either originally created or linked to existing public resources. They are rewarded with Unilearn tokens and unique NFTs for their achievements. They are presented with content that summarizes the Uniswap protocol and Defi concepts in a bite sized and easily digestible way. Then they are quizzed on the content and rewarded for correct answers. The quiz creators are rewarded for the number of persons that have successfully completed their quizzes.\nCompleted:\n\nDAPP front end: creating quizzes, viewing all existing quizzes, completing quizzes.\nBack end - NFT used as a data store for quiz, Set NFT as part of quiz, set quiz answers in a separate data store that is only looked up during quiz submissions.\n\nWhat is left to do:\n\ngeneration of NFTs as rewards and sending to recipient\nsending of ERC20 Unilearn tokens to quiz creators and consumers",
+    "howItsMade": "The front end is built using Next.js, chakra-ui, React, Typescript. The smart contracts are written with Solidity, Hardhat and Open Zeppelin packages. I deployed it to optimism. I set up the front end on the decentralized platform for front ends skynet. I submitted a grant to Uniswap Grants Program for the community and education focus. I intend to deploy this to optimism main net if all goes well.",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/kon-rad/Unilearn",
+    "demoUrl": "https://vg1d2fbtmt91kpkcs3vr4m84h9p6ikhic2sf0f2nviovibemt6j0plg.siasky.net/",
+    "teamMembers": []
+  },
+  {
+    "slug": "uniswapooor-ezd2u",
+    "name": "UniSwapooor",
+    "event": "UniCode",
+    "description": "Playing with OmniAnalytics Uniswapper R library to see if it works nicely with KnitR",
+    "projectDescription": "Installed the OmniAnalytics package and used it inside R-markdown document thanks to KnitR. If someone was to put more effort into this, I guess it could lead to interesting report but I wasn't really motivated enough to dig deeper. Omni analytics R package itself is quite cool though!",
+    "howItsMade": "With great care forged in the fires of R and KnitR. I guess it could be more interesting if I deployed it onto Skynet or did something fancy with it in the end. Install KnitR, Install OmniSwap, bam, done nice and easy. Now that I think of this in retrospect it could be more interesting to put this inside Jupyter notebook to see if R and Python Uniswap libraries can play nicely together.",
+    "prizes": [],
+    "githubUrl": "https://github.com/DecentralizedDoge/UnitKnit",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "ourawesomeproject-hdvtc",
+    "name": "OurAwesomeProject",
+    "event": "UniCode",
+    "description": "API that manages stop-limit orders on Uniswap V3. Users send a desired token-swap, price, and time limit and the swap happens if the price is hit during the limit.",
+    "projectDescription": "This project is a simple API for scheduling stop-limit orders on Uniswap to protect against possible market flucuations. A user will set up the contract with a desired swap at a desired price within a certain time. Our service will store their swap and ping the Uniswap OracleLibrary for current prices, executing the swap if the desired price is hit during the time limit.",
+    "howItsMade": "This project uses Flask to run a server and web3.py to interact with Ethereum mainnet. We use OracleLibrary and WeightedOracleLibrary to get prices on swaps and execute swaps using Uniswap V3. Users send a desired token-swap, price, and time limit and the swap happens if the price is hit during the limit. Currently not deployed as a smart contract and exists in an API. Hoping to extend to a more User-friendly interface in future development.",
+    "prizes": [],
+    "githubUrl": "https://github.com/dahrk/unicode2021",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "azuniswap-v2ga3",
+    "name": "AzUniswap",
+    "event": "UniCode",
+    "description": "Perform private and cheap swap on Uniswap through aztec bridge",
+    "projectDescription": "AzUniswap enables users to perform private and cheap swap on Uniswap through aztec bridge without sacrificing liquidity on Uniswap Etherum Mainnet. It will be useful for users, who want to make large amount of token swap, but are afraid of large slippage and front run by other traders.",
+    "howItsMade": "AzUniswap mainly use Aztec bridge as a layer 2 solution to perform swap at Uniswap on Ethereum  Mainnet. Unlike other layer 2 solutions, like Optimistic and Arbitrum, Aztec can reuse existing liquidity on Uniswap Etheruem Mainnet.  Moreover, Aztec can hide users' identity, so Aztec swap can be performed privately.",
+    "prizes": [
+      {
+        "sponsor": "Aztec Labs",
+        "trackName": "Best use AZTEC Protocol",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Best use AZTEC Protocol"
+      },
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Trading Hack",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Trading Hack"
+      },
+      {
+        "sponsor": "Visor Finance",
+        "trackName": "Visor Best Strategy Hack Runner Up",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Visor Best Strategy Hack Runner Up"
+      }
+    ],
+    "githubUrl": "https://github.com/Xuefeng-Zhu/private-swap",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "heroswap-compliant-uniswap-with-molecule-6t8e1",
+    "name": "HeroSwap",
+    "event": "UniCode",
+    "description": "HeroSwap implements a compliant Uniswap using Molecule Protocol and Claimable",
+    "projectDescription": "Comparing to the low yield and possible upcoming inflation, DeFi has become increasingly attractive as an alternative to traditional finance. Compliance is a key component to make that possible. As one of the most important innovation in DeFi, Uniswap has democratize the access for allowing anyone to become a liquidity provider with its AMM. We have created \"HeroSwap\" as a showcase how compliance could be implemented with Uniswap. We forked Uniswap V2 and added a middleware to provide whitelisting capability for this hackathon. The whitelisting feature is implemented using Molecule Protocol--another EthGlobal Hackathon submitted in 2020 (https://showcase.ethglobal.com/ethonline/molecule-protocol)--which uses NFT tokens as proof of KYC (Know-Your-Custom, a.k.a. identity verification) and other legal requirements issued as a NFT token by trusted service providers. This part is completed and shown in the video demo. Molecule proxy smart contracts are used to allow only approved senders and recipients to participate in swaps or become liquidity providers. We also need to restrict transfers of LP tokens to non-compliant recipients, and this can be done by deferring the transfer to Claimable and only allow approved recipients to receive LP tokens or yields. The Claimable project (https://showcase.ethglobal.com/hackmoney2021/claimable) was designed originally for handling token vesting, but it can be modified to handle deferred token transfer. This part has not been completed within the hackathon.",
+    "howItsMade": "We forked Uniswap V2 and modified the smart contract to check both sender and recipient to make sure they are whitelisted. Both sender and recipient are checked using the whitelisting middleware for swaps, and liquidity transactions. It is implemented with NodeJS backend, ReactJS frontend, with Solidity and it is deployed to Skynet. We have enabled a customisation to the uniswap-v2-router smart contract with integrating it with the molecule proxy smart contract. The molecule proxy smart contract checks the existence of NFT minted to the whitelist addresses from the Molecule NFT smart contract.",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      }
+    ],
+    "githubUrl": "https://github.com/calvinmd/uniswap-hackathon",
+    "demoUrl": "https://000ck62hgmpcuifqsesn6ujju4o7jloode1b08i8sgdo7l30suko5cg.siasky.net/",
+    "teamMembers": []
+  },
+  {
+    "slug": "education-swap-👨‍🎓-u7qkd",
+    "name": "Education Swap 👨‍🎓",
+    "event": "UniCode",
+    "description": "Education Swap is a platform for students to swap their tokens for stable coins. The way it works is that students can create a project to track their educational goals and receive financial support.",
+    "projectDescription": "Education Swap is a platform for students to swap their tokens for stable coins. The way it works is that students can create a project to track their educational goals and receive financial support.\nWith the IPFS chain, all projects and products created by users will be securely stored on the blockchain and can be referenced as the owner’s Intellectual Property.",
+    "howItsMade": "Education Swap application makes use of the following softwares:\n\nNFTStoragefor data storage on IPFS that generates a transation hash used to create an NFT of a project.\n\nUniswap V3 for the smart contract.\nSkynet facilitated the process of deploying our dApp front-end application in a seamless way.\nHardHat for local blockchain development.\nKovalent Network is the network that we deployed our dApp.\nReact Js, Material-UI, Web3 React Js for the frontend, Material-ui and Web3 to connect to the blockchain.",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/electrone901/Education-Swap",
+    "demoUrl": "https://youtu.be/oojeFZGNBJI",
+    "teamMembers": []
+  },
+  {
+    "slug": "univertify-8867x",
+    "name": "Univertify",
+    "event": "UniCode",
+    "description": "Providing NFT Liquidity with fractionalize. It adjust liquidity based on the amount of fractionalize",
+    "projectDescription": "By using uniswap, it provides NFT liquidity with fractionalize. Once NFT received, it mint a new position, and it can increase or decrease liquidity based on the amount of fractionalize. But, currently, not fully implemented it. so keep working on this. Also, on later will connect to client ui as well.",
+    "howItsMade": "Using with Uniswap, Hardhat. By using uniswap, it provides NFT liquidity with fractionalize. Once NFT received, it mint a new position, and it can increase or decrease liquidity based on the amount of fractionalize. But, currently, not fully implemented it. so keep working on this. Also, on later will connect to client ui as well.",
+    "prizes": [],
+    "githubUrl": "https://github.com/elegant651/univertify",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "unicodediscordbot-afeq6",
+    "name": "UniCodeDiscordBot",
+    "event": "UniCode",
+    "description": "Integrate @uniswap/v3-sdk , @uniswap/sdk-core Pool,   Trade,   Route,   Position,   NonfungiblePositionManager,   nearestUsableTick, with Discord.JS",
+    "projectDescription": "An experimental integration  of UniSwap API  in Discord.Js\nIntegrate @uniswap/v3-sdk , @uniswap/sdk-core Pool, Trade, Route, Position, NonfungiblePositionManager, nearestUsableTick, with Discord.JS  | Command    | Bot Response\n| -------- | -------- |\n|  !about |\n|  !getPoolImmutablesABI |  |\n|  !getPosition |  |\n|  !balance |  |\n|  !getPoolState | |\n|  !swapExample |   |\n|  !help |  |",
+    "howItsMade": "An experimental integration  of UniSwap API  in Discord.Js\nIntegrate @uniswap/v3-sdk , @uniswap/sdk-core Pool, Trade, Route, Position, NonfungiblePositionManager, nearestUsableTick, with Discord.JS  \"devDependencies\": {\n\"@types/node\": \"^14.17.32\",\n\n\"@uniswap/sdk-core\": \"^3.0.1\",\n\n\"@uniswap/v3-sdk\": \"^3.6.2-optimism-regenesis\",\n\n\"tslib\": \"^2.3.1\"",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/aadorian/uniswapdiscordbot.git",
+    "demoUrl": "https://youtu.be/bstGwBSr9sI",
+    "teamMembers": []
+  },
+  {
+    "slug": "crosscash-vcus5",
+    "name": "Crosscash",
+    "event": "UniCode",
+    "description": "A bridge for instant liquidity cross-chains and layers using azdet connect",
+    "projectDescription": "For a shorter description, see the slides: https://docs.google.com/presentation/d/1r-kCgjZPwnqkAhwx02zaewfGW-hrcGTt73VsjBEBdS0/edit?usp=sharing\nWeb3 is full of barriers\nMost people cannot experience the full power of Web3. They suffer under the tyranny of high gas fees and are locked out of experiencing apps that live on separate chains. These chains have implemented optimizations and features that allow certain dApps to exist that would never be feasible on Mainnet. And they go unused because crosschain barriers are sky high.\nCrosschain payments should be easy. Let's make transfers become instant using loans. Let's rely on a pool of lenders that live on other blockchains. Those lenders can provide instant liquidity on new blockchains, in exchange for a bond issued by borrowers. These lenders will take any arbitrary action on behalf of the borrower. The only requirement is each participating chain to eventually synchronize their state.\nNo matter which chain users prefer to store their money on, every smart contract on every blockchain will be available to them.\nThe Crosschain Loan Network\nHere's how it works:\n1. The bond is issued. The system starts with the borrower, who specifies an action they want done. The borrower generates a bond with a predetermined claim key that is rewarded to whoever fulfills the order.\n\n2. The transaction is verified. A lender sees this order and starts the verification process. Just like in real life, the lender must ensure that the transaction is valid and that the bond will eventually be accessible.\n\n3. The bond is claimed and the order is fulfilled. After the lender is confident that they will be able to withdraw, they perform the action and receive a claim key, which is an NFT.\n\n4. The bond is settled. Once the bond and the claim key have arrived in the same blockchain, they can be combined. This triggers a withdrawal to the claimants account.",
+    "howItsMade": "The Implementation: Zero-Knowledge Bonds\nWe want our transactions to be publicly verifiable, but there are many reasons to hide their content. For example, traders who must publicly declare their trades are vulnerable to front-running and other price manipulations.\nZero-knowledge proofs allow us to prove things without knowing what they are. This repository uses the AZTEC Protocol. With AZTEC, the bonds that are created can keep their balance hidden while ensuring transactions are valid. Not even the contracts that facilitates this will know how much money is going where - only that the sheets are balanced. At the same time, borrowers can dole \"viewing keys\" to lenders which grant them special access to see the contents of the account. Lenders can make strong verifications. And when it comes time to move data across blockchain boundaries, zero-knowledge proofs allow us to roll up transactions. This means users of the network can pay a fraction of the gas fees as a direct, public transaction.",
+    "prizes": [
+      {
+        "sponsor": "Aztec Labs",
+        "trackName": "Best use AZTEC Protocol",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Best use AZTEC Protocol"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      },
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Innovation Hack",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Innovation Hack"
+      }
+    ],
+    "githubUrl": "https://github.com/QuocAnhVu/CrosschainFastTransfers",
+    "demoUrl": "https://www.youtube.com/watch?v=tcSWpJLZBRw",
+    "teamMembers": []
+  },
+  {
+    "slug": "regulus-jkf0f",
+    "name": "Regulus",
+    "event": "UniCode",
+    "description": "Rewards distribution and tracking platform for Decentralized Autonomous Organizations.",
+    "projectDescription": "This project provides an interface for DAO members to reward each other for their contributions.  Users can add new DAO members, issue rewards to specific DAO members, execute the transactions on chain, and view a record of all transactions.\nOur goal is to make the rewarding process simple, streamlined, and, secure. To make the platform simple, our entire workflow from tracking members to bookkeeping occurs entirely in the application. Users can add new members to the platform and issue transactions, which we automatically timestamp and record. To make the platform streamlined, we provide integrations with existing tooling (MetaMask, Uniswap), and plan to integrate with Gnosis in the future. Finally, to make the platform secure, we used a Postgres database accessible only though Hasura (see \"How It's Made\").",
+    "howItsMade": "Our hackathon project was built with maximal frontend and backend technology separation in mind to allow our team to develop asynchronously. We used a variety of best practices and modern technologies to create our hack.\nOne particular critical aspect of our hack is securing the data: rewards to contributors can be sensitive. As a result, we paid close attention to securing the backend. We used a Postgres database for persistent storage. Unfortunately, it can be challenging to expose database access to the frontend: we would have to go through a great deal of effort to sanitize query, ensure access control, etc. Furthermore, since the same individual can contribute and have different roles between many DAOs, access control is especially challenging: standard tools assume an individual is in a single organization.\nTo ensure security we prevented access to the Postgres database. All access to the database was done through Hasura, an open-source GraphQL middleware. Hasura has many benefits, including automatically sanitizing query inputs. Critically, Hasura allows for fine-grained access control beyond what Postgres offers by default. We carefully constructed roles for users across DAOs to control access to both columns and rows to the database. By integrating our own login system with Hasura roles, we can manage access seamlessly.\nOn the frontend, we used React to build out the UI components. To talk to the backend, we used Apollo Client, a GraphQL API. We used web3 to interface with Ethereum and Uniswap. The web3 API automatically can talk to a variety of wallets, including Metamask.",
+    "prizes": [
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Governance Hack Runner Up",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Governance Hack Runner Up"
+      }
+    ],
+    "githubUrl": "https://github.com/ddkang/unicode",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "incrediswap-e0j4w",
+    "name": "IncrediSwap",
+    "event": "UniCode",
+    "description": "TWAP : Deployment of an app via Aztec rollups in order to reduce slippage on uniswap v3 and have private swaps",
+    "projectDescription": "Our application allows to make swaps in a totally anonymous way by using the layer 2 of Aztec.\nIn this way, the transactions are all sent in the same rollup on the mainnet avoiding slip-ups on large swaps.\nAnonymity is ensured via the Zero Knowledge Proof because it is proofs of transactions that are sent on the rollup (and thus uniswap) and not direct transactions",
+    "howItsMade": "We used smart contracts written in solidity to create a bridge between the aztec rollup and the uniswap v3 smarts contracts on goerli.\nWe also used the nextJs framework in order to make a front end to interact with our rollup. We chose this framework because it allowed us to modify the native configuration of webpack.",
+    "prizes": [
+      {
+        "sponsor": "Aztec Labs",
+        "trackName": "Best use AZTEC Protocol",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Best use AZTEC Protocol"
+      }
+    ],
+    "githubUrl": "https://github.com/IncrediSwap/IncrediSwap",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "uniswap-api-explorer-ymrxp",
+    "name": "Uniswap API Explorer",
+    "event": "UniCode",
+    "description": "A guide to basic terminology and concepts of cryptocurrency as demonstrated by functionality of the Uniswap API.",
+    "projectDescription": "Uniswap Primer is a guide to basic terminology and concepts of cryptocurrency as demonstrated by functionality of the Uniswap API.\nI built this Primer to help myself learn about Uniswap and so it is meant for people who are either brand new to cryptocurrency or who want to get a basic understanding of the Uniswap API. In the future, I'd like to extend the Primer to continue going deeper in Uniswap and also expand the Primer to cover other related topics.",
+    "howItsMade": "The Uniswap Primer is a standalone Javascript application. It uses the Uniswap v2 Polywrap wrapper to make API requests to Uniswap. I found Polywrap to be an easy and accessible way to call the Uniswap API. The Uniswap Primer is also deployed to Skynet and it is available as a Homescreen app. Using Skynet was a really great way to distribute the app without worrying about hosting.",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      },
+      {
+        "sponsor": "Polywrap",
+        "trackName": "Best use of the Uniswap wrapper",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Polywrap - Best use of the Uniswap wrapper"
+      }
+    ],
+    "githubUrl": "https://github.com/evanjacobs/uniswap-api-explorer",
+    "demoUrl": "https://vg6eldrmktku6b8f92gut0v74ck4up7b75272o1cpephqluu9ot6i20.siasky.net/",
+    "teamMembers": []
+  },
+  {
+    "slug": "rightoken-re612",
+    "name": "Rightoken",
+    "event": "UniCode",
+    "description": "Rightoken is a stock market for music IP that allows musicians to keep control of their work and monetize it on their own terms",
+    "projectDescription": "Rightoken is a tool to enable the trading of legal rights to songs. Tokenholders are entitled to sound recording copyrights and royalties in proportion to their ownership of all outstanding Rightokens for a song. This lets artists easily share the profits from their song with fans and gives them early access to capital and the ability to decide exactly how much ownership to put on the market.",
+    "howItsMade": "Rightoken is a Next.js React app. Users connect their wallet using web3-react. The platform uses Ethers and OpenZeppelin to enable artists to deploy a custom ERC20 contract which creates new Rightokens for a song. Rightoken then uses UniswapV2Router02 to take the steps required to create and fund a new Uniswap liquidity pool using the new ERC20 Rightokens paired with Eth. The artist is able to indicate the value of their song and choose how much tokenized ownership to make available automatically on Uniswap. Lastly, a link is generated for an artist to share which brings a user directly to the song's LP. This means fans can invest in the song and the artist can access Eth in exchange for shares of their work with just a single link.",
+    "prizes": [],
+    "githubUrl": "https://github.com/max-andrew/rightoken",
+    "demoUrl": "https://rightoken.vercel.app",
+    "teamMembers": []
+  },
+  {
+    "slug": "easysend-x1ku8",
+    "name": "EasySend",
+    "event": "UniCode",
+    "description": "A web wallet to facilitate the sending of cryptocurrency, exchanging crypto to fiat, which then deposited into a mobile money account",
+    "projectDescription": "A web-based platform that enables Africans in the diaspora to send money back home with ease. It allows the users to send cryptocurrencies, then the equivalent fiat is deposited into the recipient's mobile money account. Due to the process of obtaining the mobile API key, I was not able to implement this part during the hackathon. What I was able to implement was a wallet that enables users to send cryptocurrencies to one another.",
+    "howItsMade": "The front-end of this project was implemented using reactjs, CSS, HTML. The authentication, transaction details, user tokens, account balance were implemented using moralis. I hosted the application on skynet, which made it fully decentralized. I set up a GitHub action that updates the hosted application when a new change is made, this is something I haven't done before.",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/Louis95/easy-send",
+    "demoUrl": "https://000b0qo8g5juns47960k34a2h18mt2l1jhgtku162e7bg2klb19dil0.siasky.net",
+    "teamMembers": []
+  },
+  {
+    "slug": "airlift-finance-rczdm",
+    "name": "Airlift Finance",
+    "event": "UniCode",
+    "description": "Increase your exposure to a token with automatic leverage via Aave and Uniswap.",
+    "projectDescription": "Airlift Finance increases your exposure to an asset using a passive leverage strategy. There is only one vault (so far), which aims to provide 2X exposure to WETH:\n\nDeposited WETH is supplied to Aave and begins to earn yield + rewards\nUsing Uniswap V3 Flash Swaps, the strategy borrows USD stablecoins from Aave which are used via the Flash Swaps to buy more WETH, which is also deposited in Aave\nLiquidity mining rewards are automatically swapped for WETH and compounded\nThe risk profile can be modified when warranted by market movements, in order to minimize the chance of liquidations\nAirlift offers an easy way to achieve and manage leverage: simply deposit WETH into the vault and Airlift takes care of the rest: Airlift lifts you up.",
+    "howItsMade": "The vault and strategy contracts were initally based on open-source contracts from Beefy Finance, though the StrategyAaveLeveraged.sol strategy is significantly different than the original, as it actually increases your exposure to WETH by borrowing stablecoins that are swapped for more WETH. When you deposit WETH into the vault, the following happens behind the scenes:\n\n\nThe supplied WETH is deposited into Aave\n\n\nStablecoins are then borrowed against the WETH collateral. Because there is a Loan-to-Value (LTV) ratio that must be maintained, there is limit to how much can be borrowed. The Beefy contracts address this by an iterative process where a certain percentage (the borrowRate) is borrowed, which is then deposited to increase the collateral, which then enables more borrowing, and this is repeated as many times as defined in the strategy (the 'borrowDepth). Instead of this iteration, Airlift first simulates the iteration to calculate the final amount to be borrowed and swapped for WETH, and then uses a Uniswap Flash Swap to do it all in one go. The flash swap enables the strategy contract to receive the WETH before actually borrowing anything from Aave. The WETH received in the flash swap is deposited into Aave, which adds enough collateral to borrow the full about of USD stablecoin needed to send to Uniswap to complete the flash swap. With a borrowRate of 50% and borrowDepth of 15, this equates to a doubling of the WETH collateral and an Aave healthFactor of about 1.65.\n\n\nWhen someone withdraws from the vault the process is reversed, with the flash swap going in the other direction, such that the strategy can repay some of the stablecoin debt in order to maintain the risk profile after the shares have been withdrawn\n\n\nBorrow interest rates for DAI, USDC, and USDT can flucuate widely and frequently. At times, some stablecoin rates are much better than others. The strategy includes a function that can be called by the strategy manager to swap the debt to the most favorable interest rate. Again, Uniswap V3 Flash Swaps are used to swap the debt without needing to withdraw any WETH collateral from Aave. In this case the flash swap provides the stablecoin needed to repay the Aave debt before the strategy then borrows an equivalent amount of another stablecoin with a lower interest rate, which is then sent to Uniswap to complete the flash swap.\n\n\nThere are functions that can be called by the stategy manage to adjust the risk profile, if market conditions warrant.\n\n\nAn off-chain bot would likely be run via a cron scheduler to check the Aave healthFactor and automatically rebalance if gets close to the liquidation threshold.\n\n\nNote that I first implemented Uniswap V2 Flash Swaps and subsequently added V3 Flash Swaps. Both were good learning experiences. While the contract in the [main] branch uses V3 swaps, you may note that the StrategyAaveLeveraged.sol contract includes functions for both V2 and V3.\n\n\nFrontend Dapp\nThe Airlift frontend dapp UI is hosted on Skynet decentralized storage. HTML and CSS is based on the frontend of UniLend Finance. The current version of https://airlift.finance is configured to interact with a fork of Ethereum Mainnet running on http://localhost:8545 (in my testing this fork was created using Hardhat based on an Alchemy RPC endpoint). A previous version was running on a testnet but due to the unpredicatble liquidity pools and widely different values coming from Aave and Uniswap price oracles, the leveraging and deleveraging swaps couldn't be reliably tested or demontsrated on the testnet. Forking mainnet -- which I had never done before! -- solved this and helped with debugging as it also enabled me to use Hardhat's console.log feature and actually have errors referencing line numbers in the contracts ... as opposed to just revert errors.",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      },
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Swapping Hack",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Swapping Hack"
+      }
+    ],
+    "githubUrl": "https://github.com/markcarey/airlift",
+    "demoUrl": "https://airlift.finance",
+    "teamMembers": []
+  },
+  {
+    "slug": "unibox-n78zk",
+    "name": "UniBox",
+    "event": "UniCode",
+    "description": "UniBox is a docker based terminal for Uniswap. It allows power uses to better utilize Uniswap with in-built data anlytics and trading strategies",
+    "projectDescription": "Uniswap allows users to interact with the Uniswap Protocol directly through a self-hosted docker container. This improves security for those who want to keep their swapping as far from broswers and some of the potential risks they pose. UniBox allows users to also take advantage of the Uniswap Protocol in new ways, as it provides an analytics interface that utilizes OmniAnalytics' uniswappeR package to fetch data. UniBox also provides users with an interface to build out and execute automated trading strategies.\nAnalytics\nUniBox uses uniswappeR to collect data analytics on uniswappeR to pull data directly from the Ethereum network so that it can provide high accuracy graphs to inform trading decisions from within the command line interface.\nTrading Strategies\nUniBox also exposes the data feeds it collects from the dataAggregator package. The swap package is also exposed to the strategy file, allowing users to build out complex trading strategies based on the provided analytics. Since UniBox is self-hosted users can have piece of mind knowing that their trading bot is secure,\nCommand Line Interface\nUniBox also has a powerful command line interface that gives user's access to a swap interface where they can swap tokens similarly to from a web interface, in addition to an analytics window where users can track stats like the performance of LP pools, and overall protocol statistics like TVL and Volume.\nProtocol Support\nIt's important to note UniBox only supports UniSwap V2 but we'd be happy to add V3 support in the future, however as uniswappeR only supports Uniswap V2 we wanted to focus on supporting the protocol we can provide users with data from. There are also limitations with web3-go that we were unable to patch in time to provide support for web3-go.",
+    "howItsMade": "So this project heavily utilizes docker for a consistent and clean runtime, we also utilized the much under developed web3-go library. We ended up having to extend the library itself to handle contract calls and some other boilerplate fixes relating to constructing transactions. It took a long time get web3 go working, and we came up against the clock so there are still some quick fixes we need to phase out, but overall we learned a lot about web3-go and were able to make a MVP.",
+    "prizes": [
+      {
+        "sponsor": "Omni Analytics Group",
+        "trackName": "Most innovative use case of Omni",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Most innovative use case of Omni"
+      },
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Grantees Hack",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Grantees Hack"
+      }
+    ],
+    "githubUrl": "https://github.com/ControlCplusControlV/UniBox",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "betsmart-3hq3e",
+    "name": "BetSmart",
+    "event": "UniCode",
+    "description": "Betting using ConditionalTokens (Gnosis) with LP Tokens (UNISWAP V3)",
+    "projectDescription": "betSmart : a better can bet an amount on 3 possibles outcomes (Team1 wins, Team2 wins or a draw(no winner = tie ). All the amounts bet on Team1 will be added to Pool1 and same for Pool2 (amounts bet on Team2 by all the betters) and same for the draw. If you loose a bet, you will get rewards on the pool depending on your stake and the size of the pool. So no one will loose all his money. It's a new concept of betting with PoolBets.",
+    "howItsMade": "To use this project we have built it using Remix(to test our code and have a more clear display) , so with @solidity. We also used node.js and javascript to code the new Pool we have chosen using the documentation in UniswapV3 SDK : https://docs.uniswap.org/sdk/introduction. The instructions are in Typescript so we have used then in javascript. We also used Skynet, Gnosis documentation, and UI design",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/mrhouzlane/Unicode-betsmart-",
+    "demoUrl": "https://4009l00d21mq5tlj4lspk5un5bsnq8esv5kagpga9u86jhhep62j4no.siasky.net/",
+    "teamMembers": []
+  },
+  {
+    "slug": "tx-drip-qfq70",
+    "name": "Tx.Drip",
+    "event": "UniCode",
+    "description": "Tx.Drip is a 3D visualization and comparison of the swaps occurring across the three services on Uniswap.",
+    "projectDescription": "Tx.Drip is a 3D data visualization tool for tracking Uniswap transactions across Mainnet, Arbitrum, and Optimism. Each swap is shown through a 3D sphere dropping onto a platform corresponding to the type and amount of swap occurring. Users can click through to see additional details on Etherscan, as well as hover over the spheres to view gas prices, transaction amount, and ens names.",
+    "howItsMade": "Tx.Drip is built using transaction data supplied by The Graph and developed using Next JS and React. It is deployed on Vercel. The 3D meshes are wrapped in a png texture file. I generated these images using a custom-built Python script that loops over the icons on \"cryptocurrency icons\" Github and produces an image with the corresponding wrapping color.",
+    "prizes": [
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Trading Hack Runner Up",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Trading Hack Runner Up"
+      },
+      {
+        "sponsor": "Optimism",
+        "trackName": "Best cross-chain application on Optimism",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Best cross-chain application on Optimism"
+      }
+    ],
+    "githubUrl": "https://github.com/jackburrus/tx.drip",
+    "demoUrl": "https://tx-drip.vercel.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "superfluidity-x2tw7",
+    "name": "Superfluidity",
+    "event": "UniCode",
+    "description": "A superfluidity pool automatically streams liquidity between concentrated liquidity pools based on price velocity in order to maximize profits.",
+    "projectDescription": "With the introduction of concentrated liquidity pools, Uniswap V3 created a major advancement in potential capital efficiency, but currently these gains are most accessible only to those with enough access to capital to make gas fees negligible and active liquidity management a profitable service. We provide an alternative model, accessible to all users, and focused on maximising the capital efficiency of Uniswap’s liquidity pools overall.\nOur project introduces zero viscosity position management using what we call superfluidity pools. Using real-time cash flows built on top of Superfluid protocol we stream capital in and out of positions based on incoming price data using Uniswap’s own oracle. By increasing our flow rate based on the price velocity of an asset, we’re able to follow price movements and transfer capital to positions with the highest earning potential. This means a major increase in capital efficiency, reaping the benefits of a narrow concentrated liquidity range while eliminating the risk of lost profits following a price movement.\nUniswap’s documentation refers to the potential 4000x gains in capital efficiency by using concentrated liquidity pools, but without active management it is difficult for the user to realise the full potential of this powerful tool. Superfluidity pools provide a convenient and effective liquidity management strategy for all Uniswap users. The largest barrier to the average user is the gas cost of setting new liquidity positions to take advantage of the ideal price range, but our approach circumvents this issue by managing positions through a central smart contract which maintains a wide array of positions around the price at all times. Users deposit assets to a superfluidity pool which then streams and transfers liquidity between an internal set of liquidity pools surrounding the current price.",
+    "howItsMade": "This project uses Svelte as our front end. We found Svelte easier to work with than a traditional web framework like React. Svelte loads as a single page application and actually is a compiler. This means that it creates static assets which are easier to render than dynamic assets. When combined with Webpack, this makes Svelte particularly good to use for deploying decentralized frontends which can render statically. We also made use of Uniswap and Superfluid javascrip SDKs. We found these difficult to use because of a lack of API reference documentation. Instead, there were some code snippets (which were useful) and a link to the github repository. Further, we struggled with testing our code because we did not want to spend money on mainnet but we wanted to have real price data. It was not clear to us how to do this but a very helpful mentor pointed us to Ganache which we used to create a local devchain from a forked Infura endpoint.",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      }
+    ],
+    "githubUrl": "https://github.com/ufkhan97/superfluidity",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "storage-app-dao-ujxt8",
+    "name": "Storage App DAO",
+    "event": "UniCode",
+    "description": "Storage App DAO is a governance app for an existing video storage platform using IPFS/Filecoin for storage and retrieval of files.",
+    "projectDescription": "After building the Disco-Rock-Repo during HackFS, then Storage Payment App during ETHOnline, we thought that it might be necessary to have a mechanism where these 2 applications might look to for management and governance. We developed Storage App DAO which employs Gnosis Safe wallet and additional technologies to create proposals and permit voting for community members on issues that concern the future development of the Disco-Rock platform",
+    "howItsMade": "The Storage App DAO uses a Gnosis Safe wallet and a Gnosis Zodiac module to access Reality.eth smart contracts (14 contracts in total) which are deployed to drive proposal creation, manage voting and final outcome then execute the particulars of each proposal (i.e. proposal: Should we send Mouzayan 100 DISCO tokens for updating our smart contracts? outcome: A majority vote of \"Yes\" at the end of the voting period would have the smart contract execute the payment of 100 DISCO tokens to Mouzayan's address). This is all done through the Snapshot platform which serves as the proposal and voter UI. The proposal app will be instrumental in driving future development of the other apps and the overall growth of the platform.",
+    "prizes": [],
+    "githubUrl": "https://github.com/georgemac510/video-storage-governance",
+    "demoUrl": "https://snapshot.org/#/disco-rock.eth",
+    "teamMembers": []
+  },
+  {
+    "slug": "uniswap-diary-0b04p",
+    "name": "Uniswap Diary",
+    "event": "UniCode",
+    "description": "Keep track of all your Uniswap transactions in a easy to read journal that also allows you to leave notes",
+    "projectDescription": "This Dapp takes Uniswap v2 and v3 transactions and presents them to the user in an easy to read way. A user can also leave additional notes for each transaction. For this project, I wanted to learn more about how Uniswap worked and explore the Uniswap API. This project was also a good opportunity to gain more knowledge with web development / react frameworks, especially in trying to make things look nice and polished (learning chakra-ui)",
+    "howItsMade": "The Uniswap Diary is using Moralis to get the user's transactions and filter them by the Uniswap v2 and v3 router contracts, as well as acting as a database to store notes for each transaction. I ran into difficulties parsing the various types of transactions used in the Uniswap API, trying to figure out what actually happened; In order to do this I think you need to grab transaction logs and parse out what happened; the result should then be saved somewhere like the graph or in a database (I started this but didn't finish). Another problem I ran into (as a web development noob) was figuring out how to render out the \"expanding table entries\" I wanted.",
+    "prizes": [],
+    "githubUrl": "https://github.com/bmateus/UniCode2021",
+    "demoUrl": "https://000ce9bempitkcjd8l1n8hdl5qkjcq8tvlf54m7boge4f7irf6v4mq0.siasky.net/#/",
+    "teamMembers": []
+  },
+  {
+    "slug": "skyfire-dao-gamefi-kit-for-uni-lm-events-gvbxg",
+    "name": "Skyfire DAO",
+    "event": "UniCode",
+    "description": "Skyfire DAO improves the UX for generic users, by gamefying distribution events for eg. Liquidity Mining events. Our gamekit tooling contracts and game can be utilized for custom LM events. Skyfire DAO tokens are rewarded to all partner LM events.",
+    "projectDescription": "Playing a game allows for a better UX for the end user to participate in the Defi ecosystem and game incentives makes it interesting for a wider variety of audience to participate in Liquidity Mining  events for example by making use of Uniswap's Staking contract.\nWe extended the Uniswap's Merkle Distributor contract so that a single contract can be used for multiple epochs or snapshots and this further ensures fairness as the scores of each epoch are provable verifiable on chain. We managed to develop a simple game and integrated web3 into an existing game development toolkit.",
+    "howItsMade": "We utilize Gamemaker Studio  and Uniswap's Merkle Distribution to distribute tokens for different snapshots as per the rewards in the LM program. All game sprites and graphics were created during the hackathon itself. The Uniswap Merkle distribution contract was also integrated and modified.",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      }
+    ],
+    "githubUrl": "https://github.com/skyfire-dao/unicode",
+    "demoUrl": "http://3.83.68.141/public/index.html",
+    "teamMembers": []
+  },
+  {
+    "slug": "uniswaption-gorhh",
+    "name": "Uniswaption",
+    "event": "UniCode",
+    "description": "Optimize liquidity provision - identify best liquidity price range given the LP's risk tolerance",
+    "projectDescription": "For a specified risk tolerance defined as the probability that the liquidity provision position goes out of range, we identify the corresponding price ranges for each pair by fitting a metalog distribution to histric pair prices.\nThese ranges are then used to calculate the range liquidity percentage which is defined as sum of the tick liquidity within the price range divided by the total liquidity of the pair.\nRange liquidity percentage along with other useful information is presented to the user in the form of a scatterplot and a color-coded table.",
+    "howItsMade": "We leverage the scaffold-eth project utilizing ReactJS with ant-design as a frontend, we use web3.js to connect wallets, and GraphQL to query Uniswap v3 API. We also SIPMath python to simulate chance data and AWS Lambda to calculate and query these numbers across development stacks.",
+    "prizes": [
+      {
+        "sponsor": "Visor Finance",
+        "trackName": "Visor Best Novel Hack Runner Up",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Visor Best Novel Hack Runner Up"
+      }
+    ],
+    "githubUrl": "https://github.com/uniswaption/uniswaption",
+    "demoUrl": "https://uniswaption.com",
+    "teamMembers": []
+  },
+  {
+    "slug": "uniramp-oy9dx",
+    "name": "Uniramp",
+    "event": "UniCode",
+    "description": "Uniramp is an onboarding and education platform helping users interact with their first Uniswap liquidity pools.",
+    "projectDescription": "Liquidity pool explorers exist, but are often not approachable for new users. Uniramp creates a new interface based on the uniswap and visor graphql API's for discovering and onboarding new users into the Uniswap ecosystem. Uniramp has a suite of tools to understand risk, find whitelisted liquidity pools for given trading pairs, initiate swaps, and learn core concepts with web3 authentication built-in. See github for full description and tooling used: https://github.com/cbonoz/unicode21",
+    "howItsMade": "Consult both the uniswap and visor finance graph API's to build an onboarding application for Uniswap. This app is fully functional as is and relies on some of the existing tooling created by Uniswap (rather than recreating the wheel) to onboard new users into the LP ecosystem. Scaffold-eth is also used to provide authentication and can be expanded to issue things like rewards and incentives for interacting with pools and learning the content.",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      },
+      {
+        "sponsor": "Visor Finance",
+        "trackName": "Visor Best Tooling Hack",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Visor Best Tooling Hack"
+      },
+      {
+        "sponsor": "Visor Finance",
+        "trackName": "Visor Pool Prize",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Visor Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/cbonoz/unicode21",
+    "demoUrl": "https://0003rg0rq551tpuq34hl6cc5glvpjnmqcjosnh68k10qboftvkbb3to.siasky.net",
+    "teamMembers": []
+  },
+  {
+    "slug": "stable-coins-converter-sr8z7",
+    "name": "Stable Coins Converter",
+    "event": "UniCode",
+    "description": "A dapp where users can swap ETH to DAI and send them to multiple addreses",
+    "projectDescription": "ETH is very volatile.  Swapping ETH to any stable ERC20 tokens and sending them to multiple addresses is not good for user experience, lots of clicking and confirming, and it can be costly because of transaction fee.\nStable Coins Converter allows user to swap ETH to DAI and sending DAI to multiple addresses in one transaction. User will only need to click and confirm the transaction once and save transaction fee.\nIn the future, I will add more options of other ERC20 tokens that the user can choose from to swap with.  I will add a feature where user can set the amount of converted ERC20 tokens to send for each addresses.",
+    "howItsMade": "I used Uniswap v3 ISwapRouter to swap ETH and DAI.  I used Uniswap v3 IQuoter to get estimated ETH for DAI.  DAI are send from the contract to multiple addresses using openzeppelin IERC20.\nI built the front end with react and use semantic-ui for styling.  I deploy my front end Dapp on Skynet and Homescreen.  I add HNS decentralized domain name for the Dapp.  I deploy my contract on Kovan Testnet.",
+    "prizes": [
+      {
+        "sponsor": "Skynet Labs",
+        "trackName": "Skynet Pool Prize",
+        "prizeType": "pool",
+        "placement": "pool",
+        "rawText": "Skynet Pool Prize"
+      }
+    ],
+    "githubUrl": "https://github.com/ysongh/Stable-Coins-Converter",
+    "demoUrl": "https://increasehappiness.hns.siasky.net/",
+    "teamMembers": []
+  },
+  {
+    "slug": "0xunicorgis-0u07j",
+    "name": "0xunicorgis",
+    "event": "UniCode",
+    "description": "Making code cute and informative by learning and earning using an unicorgi  to explore the web3 products by showing step by step quest  instead of tutorial",
+    "projectDescription": "We wanted to make a learn to earn model where we can learn web3 as well as the community so unfortunately we did not finish the project but had fun doing it and will do a lot of hackathons in the future we are trying to do our best and hope to make this project work in the meantime.",
+    "howItsMade": "The project is a built-on chrome extension and rive animation we try to build to incorporate beginners with a tool to help them learn how the products work. The built process was in Typescript and hardhat and we are in the process to add smart contracts. But the UI is finished with links and made 2 steps process.",
+    "prizes": [],
+    "githubUrl": "https://github.com/codewithcorgis/0xunicorgis",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "gitvern-fxczm",
+    "name": "Gitvern",
+    "event": "UniCode",
+    "description": "DAO Governance based on GitHub using Uniswap Liquidity Providers as Active Stackers",
+    "projectDescription": "'- Built with ❤️  by Developers for Developers\n\nHost your DAO dashboard on GitHub pages on your organization\nRun a Github App on any project leader's or organization's servers (GitHub and Dev Treasury keys are held here, so keep secure)\nAllow your token holders to approve and that way prioritize your GitHub issues by just making a MetaMask signature\nUse the same GitHub workflow that you are already familiar to assign issues to developers and attribute weights (labels)\nDev Treasury smart-contract (on any EVM network) will hold the treasury funds and lock a slice for the issue assignee when work starts based on issue weight\nWhen an issue is closed successfully, the respective funds are unlocked and sent to the assignee wallet address in his profile\nAt project launch, you can enable transfers for your token, setup a UniSwap Liquidity Pool and change approval to LP weight, to incentivize liquidity building\nDAO Governance made simple and effective",
+    "howItsMade": "Smart-contracts for DAO tokens and treasury token distribution by project contributors that can be deployed to any EVM based blockchain\n\n\nGitHub App that communicates with GitHub Project and sends transaction to blockchain to perform actions on the smart-contracts\n\n\nA simple UI for the DAO to accept the governance participations by LP token holders\n\n\nA central repository on GitHub for all DAO configurations where a simple commit/PR can change parameters, i.e. the payout levels for work\n\n\nPlease check the docs repository for more details",
+    "prizes": [
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Governance Hack",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Governance Hack"
+      }
+    ],
+    "githubUrl": "https://github.com/orgs/gitvern/projects/3/views/1",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "focus-vg9ju",
+    "name": "Focus",
+    "event": "UniCode",
+    "description": "A proxy exchange and set of wrapper tokens to improve liquidity efficiency of Uniswap V3.",
+    "projectDescription": "Focus Protocol passively improves the utilization of the Uniswap V3 concentrated liquidity. It is a proxy exchange which sits in front of Uniswap V3. It maps the prices and the assets to ones that it sends Uniswap V3, in order to keep the resulting mapped concentrated liquidity almost always in range. This can also achieve additional profit for the liquidity provider, as the \"undesired assets\" are converted at a lower price, as the bounds shift to follow the spot price.",
+    "howItsMade": "The Focus Protocol is a set of smart contracts written in Solidity: *** 1. a pair of wrapping tokens for each pair of tokens in the LP. These tokens not only wrap the original ones, but also map the prices as controlled by the protocol. Such pair of wrapped \"fTokens\" is deposited as concentrated liquidity in Uniswap V3. *** 2. a proxy swap, which wraps the original tokens into fTokens and maps the prices, then sends the swapping request to Uniswap V3. This effectively achieves concentrated liquidity which follows the current price, thus almost always staying in the active range.",
+    "prizes": [
+      {
+        "sponsor": "Visor Finance",
+        "trackName": "Visor Best Tooling Hack Runner Up",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Visor Best Tooling Hack Runner Up"
+      }
+    ],
+    "githubUrl": "https://github.com/jordan-public/focus/tree/main/demo",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "project-vinland-efxuc",
+    "name": "Project Vinland",
+    "event": "UniCode",
+    "description": "A defi metaverse to onboard next wave of users into crypto and DeFi",
+    "projectDescription": "Project Vinland is an onchain metaverse game in which users, when signed in by their Metamask/wallet, can tour the DeFi metaverse which has multiple stores/avenues like Aave and  Uniswap to make transactions. This gamified visual experience will allow new users to better comprehend the difference between these dapps and their IRL counterparts.\nLike AAVE -> Bank and Uni-> Binance/CEX .\nImagine a world where you can play to earn in a battle royale game betting on your skill , then swap the same crypto winnings in the metaverse itself .Then visit your NFT museum to witness them in full 3-D glory . All in a trustless ,decentralized manner ,just using your crypto wallet . No email , no dox ,just plain simple AAA gaming experience .",
+    "howItsMade": "Project Vinland is built on Unity frontend, using ChainSafe web3 APIs to interact with the Ethereum and Polygon blockchains and languages like C#, Solidity and Blendr. We used AAVE and Balancer's smart contracts to try and implement their defi functionality in-game. Although it was challenging implementing logic in C# , we are pleased with the progress and learning.",
+    "prizes": [],
+    "githubUrl": "https://github.com/Ashar2shahid/ProjectVinland",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "unistrategy-yvwkg",
+    "name": "UniStrategy",
+    "event": "UniCode",
+    "description": "Strategy manager for UNI v3 positions that rebalance the positions with swaps periodically",
+    "projectDescription": "The project allows users to deposit in a vault which mints UNI v3 positions and rebalance it peridodically. With respect to current solutions, we added a swap functionality in order to be able to periodically swap and readjust the position so to have 50% of each token in the vault.",
+    "howItsMade": "We made our smart contract interact with Uniswap v3 in order to be able to swap and mint positions. We built two smart contract, a vault and a strategy. The vault is used for deposit and withdraw, whereas we used the strategy to place the base order and take care of rebalance. We deployed on optimism, as there is no liquidity manager yet and also allows to experiment with higher frequency strategy. As next steps, we want to continue hacking: create new strategy and make the product available soon in layer 2s.",
+    "prizes": [
+      {
+        "sponsor": "Optimism",
+        "trackName": "Best use of Uniswap V3 on Optimism",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Best use of Uniswap V3 on Optimism"
+      },
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      }
+    ],
+    "githubUrl": "https://github.com/SBfin/UniStrategy",
+    "demoUrl": "http://unistrategy.s3-website-eu-west-1.amazonaws.com/",
+    "teamMembers": []
+  },
+  {
+    "slug": "decentralized-banking-functions-xqb6x",
+    "name": "decentralized-banking-functions",
+    "event": "UniCode",
+    "description": "create functionality of transfering funds and storing data of users like a decentralized bank",
+    "projectDescription": "This project is about using the scaffold-eth template to test and use functions from my solidity contract and interact with it using a predefined local blockchain with the ability to deploy contracts and use it with a frontend. I created functions such as transfer (transfer funds from your account to another), withdraw funds from an account, and check the balance of a provided eth address.",
+    "howItsMade": "This project uses React.js, Solidity, hardhat, as well as the scaffold-eth template. The protocol and interface of the uniswap protocol was implemented and called in solidity. Scaffold-eth template generated frontend was used to interact with the contracts in react.js. I found that it was fun working with protocols as you can interact with them in solidity as they have been deployed to the blockchain which makes things easier for the developer to use.",
+    "prizes": [],
+    "githubUrl": "https://github.com/apinanyogaratnam/decentralized-banking-functions",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "muffindex-jhg67",
+    "name": "MuffinDeX",
+    "event": "UniCode",
+    "description": "MuffinDeX is a prototype for a decentralized exchange that works as a time-weighted average market maker.",
+    "projectDescription": "We couldn't finish our idea on time but there is some documentation on our Github of what we did on the hackathon. We'll bounce back stonger for the next one.\nWe tried to create a Fronttrunning-resistant DEX through Aztec Connect, obtaining the advantage of being able to solve the problem of large orders and in turn obtaining a layer of privacy of the transactions as a Dark Pool Dex.",
+    "howItsMade": "We couldn't finish our idea on time but there is some documentation on our Github of what we did on the hackathon. We'll bounce back stonger for the next one.  In order to create the dex it was decided that Uniswapv3 would be used, during the creation of this Dex it was possible to create a pool through its SDK as shown in Uniswap",
+    "prizes": [],
+    "githubUrl": "https://github.com/altaga/MuffinDex",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "vialend-2-3erwd",
+    "name": "Vialend 2",
+    "event": "UniCode",
+    "description": "Customizable Uniswap V3 automated liquidity management tool that uses a unique vault design combining lending and V3 pools.",
+    "projectDescription": "This project builds upon our ETHOnline 2021 submission that had us automate a liquidity provisioning vault for Uniswap V3. Using a 50/50 allocation that leverages concentrated liquidity but rebalances with no fees or permanent loss.  In the previous version, we solved this vault design by integrating with Compound and using the lending pool as a reserve in order to rebalance our position in V3 and avoid swap fees.  In Unicode 2021 we want to see if we could achieve and solve three challenges:\n\nCustomize the sources of the strategy so that it can be any lending pool, not just compound\nCustomize the ratios so that users can choose more or less aggressive strategies, for example, 10/90 or 20/80, etc... when pooling assets between Uniswap and lending pools\nAutomate the rebalance by integrating the Uniswap TWAP oracle",
+    "howItsMade": "This project is based on a set of smart contracts developed on the ethereum blockchain that integrates both  Uniswap and Compound lending pools. We use Solidity to build the smart contract and use Go-ethereum package to compile and test the backend and use vue.js + web3.js  to build the frontend.  Instead of using lending spot price and uniswap spot price as the anchor to design our sharing model, we are happy to see that the oracle price built up on TWAP and already used in our product.",
+    "prizes": [
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Uniswap Best Grantees Hack Runner Up",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Uniswap Best Grantees Hack Runner Up"
+      }
+    ],
+    "githubUrl": "https://github.com/aiwowo1/vialend-2",
+    "demoUrl": "http://118.126.117.7/",
+    "teamMembers": []
+  },
+  {
+    "slug": "token-search-tool-jydsn",
+    "name": "Token Search Tool",
+    "event": "UniCode",
+    "description": "The Token Search Tool provides a fast and easy to digest way of searching for popular cryptocurrency tokens and learning how the search tool works.",
+    "projectDescription": "This idea started as a way to create a down-to-earth, easy-to-use tool. It should both help new DeFi users have a simplistic home to track crypto prices, and provide users interested in learning how to code a non-intimidating way of bridging the gap between a high interest in DeFi and no knowledge or experience coding.\nThis is especially important as over time, regardless of regulation, new users will want to have better learning resources that serve as bridges between specialties and levels of skill sets.\nI used this time during the hackathon to more effectively network with peers and gather information helpful to the creation of what is now a functioning tool. This project is still in progress as I want to fully understand some basic coding vocabulary in order to create educational material complementing the Token Search Tool. How we present information is subject to change after the complimentary educational resources are complete.\nAs a primarily educational endeavor, I seek to share this project and content with everyone in hopes of collaborating with and learning from others.",
+    "howItsMade": "The initial commit was made October 30th, 2021.\nFirst, we combined the previous day’s code and added styling. In addition, we fixed the Read Me type for better transparency. We are still experimenting but for now, switched to using the Coingecko API for token data. Finally, we added a details element to house a searched token’s description and created a currentToken object to be used throughout. Added render function and token list now renders correctly when popular tokens are searched. Not all tokens are searchable.\nNovember 2nd, 2021\nWe reviewed the design template for the token search tool and confirmed not all tokens are searchable at this time. Searching functionality will be reviewed before our submission. In addition, we finalized the idea of dedicating 70-80% space to search and 20-30% to the token bet slip. Tomorrow we plan to work further on the design and styling.\nNovember 3rd, 2021\nReviewed ENS domains but concluded network fees are too high at this time to justify the expenditure.\nNovember 4th, 2021\nToday, Michael worked on moving some elements around and a bit of styling.\nNovember 5th-7th\nFinalized styling and token description section. Revised overall style organization for token icons and learn more legibility.",
+    "prizes": [],
+    "githubUrl": "https://github.com/mmeacham92/unicode_hackathon",
+    "demoUrl": "https://goofy-fermat-b00c40.netlify.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "hoge-finance-dy8ka",
+    "name": "Hoge Finance",
+    "event": "UniCode",
+    "description": "Hoge Finance explores ways to empower the DeFi space through utilities, education, and software development.",
+    "projectDescription": "Uniswap ERC-20 Token Chipper.  Tokens are sent to the chipper contract and a uniswap price oracle is used to get the price of the tokens,  the token price determines the complexity of the spline image generation.  We initially thought of this concept as a way to get rid of air-dropped \"dust\" tokens in an erc wallet.",
+    "howItsMade": "We used solidity for the contract programming, python for the spline images, and react with moralis web3 sdk for the front-end.  The solidity includes logic for the chipper and the uniswap price oracle.  The docker container contains the python code to generate the spline images based on the cost of the tokens burned in the chipper contract.",
+    "prizes": [],
+    "githubUrl": "https://github.com/hogefinance/unicode",
+    "demoUrl": "https://unicode-hackathon-dhqtk.ondigitalocean.app/",
+    "teamMembers": []
+  },
+  {
+    "slug": "hideserv-sqhaz",
+    "name": "hideServ",
+    "event": "UniCode",
+    "description": "The MintHunt:hideServ allows you to hide your most valuable treasures in the MintHunt world. MintHunt.io is a mobile platform where you can hunt for NFTs and Tokens in the real world.",
+    "projectDescription": "The MintHunt:hideServ allows you to hide your most valuable treasures in the MintHunt world. MintHunt.io is a mobile platform where you can hunt for NFTs and Tokens in the real world.\nThe hideServ service will allow project owners to hide a part of their supply of NFTs or tokens in the MintHunt metaverse. Your tokens might end up in a treasure NFT of standing somewhere on their own.\nThe hideServ service will be part of the MintHunt Vault. When the Vault receives a new token, hideServ will automatically pick it up and hide it somewhere in the world. It could be possible for the sender to specify a country where they want their tokens to be hidden.\nThe idea is that by hiding some of your supply of tokens in the MintHunt world, your project tokens will become more valuable since no one will be able to just buy them on the market, they will have to find them just like you would find a real treasure.\nSome tokens might be lost for ever on the top of a mountain or in the depths of the Amazon Rainforest, but don't worry most of them will end up right across the street.",
+    "howItsMade": "The project will have a set of contracts (or just one contract) to emit an event when new tokens are received.\nIt should have a NodeJS service listening to the event and then do some logic to hide the treasure in the game. The treasure will end up in the MintHunt database.\nA proof should be publicly available that will demonstrate that once a treasure has been hidden (merkle tree?), it's location it's immutable and the only way to get the token  will be through the MintHunt mobile app.",
+    "prizes": [],
+    "githubUrl": "https://github.com/amaioru0/hideServ",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "sandrone-s-9c1et",
+    "name": "Sandrone's",
+    "event": "UniCode",
+    "description": "A fully on-chain view Uniswap V3 quoter comparable to the lens one",
+    "projectDescription": "Protocols in need of using UniswapV3 on-chain have to rely on external data sources like Chainlink in order to reliably get price data, as Uniswap oracles are currently released as \"lens\" functions which cost gas and are quite unfeasible for constant usage.\nWe addressed the problem by reworking Uniswap quoting algorithm so that it can fit into a Solidity view function, hence no gas costs when calling it, while maintaining a sub-decimal precision, comparable with the lens quoter. Whilst it uses part of Uniswap Oracle Library, it doesn't access the pool storage or interact with any other quoter, being it a completely novel approach to the problem. The resulting code has been deployed to Kovan testnet and is hosted on GitHub pages.\nIn the future we plan to extend this oracle to support a time window moving average so that it can be reliably used to prevent MEV and front-running attacks in a fully on-chain way.",
+    "howItsMade": "Using UniswapV3 libraries and a sprinkle of OpenZeppelin, Hardhat and ReactJS.\nHere is how the algorithm works on a general level:\n\n\nChecks how much you can swap and the related price impact\n\n\nIf the price impact is greater than the nearest tick, the initialised liquidity is not sufficient\n\n\nCalculate how much you can swap within the tick, subtract the (calculated) swapped liquidity from the total amount and move to the next tick\n\n\nRinse and repeat until no liquidity is left",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "UniCode Finalists",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "UniCode Finalists"
+      }
+    ],
+    "githubUrl": "https://github.com/sandrones-team/V3-Quoter",
+    "demoUrl": "https://sandrones-team.github.io/V3-Quoter/",
+    "teamMembers": []
+  },
+  {
+    "slug": "brrrrrr-finance-ny7um",
+    "name": "brrrrrr finance",
+    "event": "UniCode",
+    "description": "💸 Make it easy for non-crypto people to ape into meme tokens 💸",
+    "projectDescription": "Most people don't understand crypto from a technical perspective, but they do understand memes and jpegs. We're lowering the barrier for normal people to buy meme tokens. We built a website called brr, in which people can sign in with a magic link, load up their account with USDC, and buy meme tokens. No need to worry about metamask and passwords.",
+    "howItsMade": "We built the dapp using truffle, drizzle, solidity, web3, etc. We're using magic.link for authentication. And we're deploying to rinkeby for now. The fiat onramp is mocked for now, but we want to launch w circle or gems. Otherwise we're deploying the dapp on netlify. Obviously we're using uniswap to enable the swaps.",
+    "prizes": [],
+    "githubUrl": "https://github.com/freeslugs/brr",
+    "demoUrl": "https://0xbrr.netlify.app",
+    "teamMembers": []
+  },
+  {
+    "slug": "unicrop-swkb2",
+    "name": "UniCrop",
+    "event": "UniCode",
+    "description": "Growing Crypto assets through yield Farming, Arbitrage, whether it is ERC20 or NFTs, through interchanging and cross-exchanging assets among themseleves.",
+    "projectDescription": "UniCrop is about growing crypto assets, whether it is ERC20 or NFTs, through interchanging and cross-exchanging assets among themseleves. The asset can grow in many ways: staking/yield Farming, using Flashswap and leveraging Arbitrage opportunity, etc. For this project, we have implemented a Flashswap example with DAI/USDC using Uniswap V3 protocol.We initially tried to create a staking Yield Farming app using a scaffolding we already had. We wanted to stake WBTC and deposit in Compound Pool in Python based Brownie framework. We wanted to use Uniswap V3 Oracle for Price limit for harvesting and deploy to Optimism. But, due to lack of time, we ran into some roadblocks with the Brownie framework and pivoted to FlashSwap implementation.",
+    "howItsMade": "It lets your contract borrow 1,500 DAI from DAI/USDC pool with 0.05 % fee.\n\n\nThe contract execute uniswapV3FlashCallback function. First, it swaps 1500 DAI for UNI on Kyber protocol (1500 DAI - 55.66 UNI )\n\n\nThe contract swaps 55.66 UNI and swap them for DAI on Uniswap DAI/ETH 0.05% pool and UNI/ETH 0.05% pool.\n\n\nThe contract pays back the amount with the pool fee ( 1500 DAI * (1 + 0.05%) = 1,500.75 DAI).\nIf the transaction does not have enough amount tp pay back the borrowed amount, the whole transaction will be reverted.",
+    "prizes": [],
+    "githubUrl": "https://github.com/brahmapsen/uniCrop",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "robusta-v45c6",
+    "name": "Robusta",
+    "event": "UniCode",
+    "description": "Create the protocol to buy and sell the options with Uniswap v3",
+    "projectDescription": "The main aim of this protocol is to find a way to sell call options, which should allow us to create complex options strategies using Uniswap v3 LP tokens to hedge against both upward and downward moves. A call option is bought when the investor expects the underlying value will rise before the expiry date. As the opposite of the traditional finance option which represents the right, but not the obligation, to take some action on the specified date, on this protocol the execution or not of the option depends only on the payoff at the maturity. The call can only be exercised if the spot price S is higher than K at expiration. The put, on the other hand, can only be exercised if the S < K. If the trader buys the call and sells the put at the same time, they will always have the ability to purchase the stock at expiration regardless of the spot price. This is a no-risk position because the probability to be assigned is 100%",
+    "howItsMade": "The client interface of this project is made entirely in react-js. It connects with our subgraph (and uniswap v3) to retrieve in real-time the lists of options on sale (options intention). We use Gelato's pokeMe resolver to check and execute options at maturity. We plan to migrate on Skynet for the obvious cost on this platform. It is important to notice that this project was created from scratch on every part, at the user interface, at the smart contracts, and the subgraph.",
+    "prizes": [
+      {
+        "sponsor": "Visor Finance",
+        "trackName": "Visor Best Strategy Hack",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "Visor Best Strategy Hack"
+      }
+    ],
+    "githubUrl": "https://github.com/KoffeeCompany/robusta-a",
+    "demoUrl": "",
+    "teamMembers": []
+  },
+  {
+    "slug": "colorpixels-3ihw0",
+    "name": "ColorPixels",
+    "event": "UniCode",
+    "description": "ColorPixels is a marketplace for NFTs that are clips from livestreams",
+    "projectDescription": "This project is an intersection of gaming, NFTs, and DeFi. Color pixels is an NFT marketplace for Top Gaming Clips.  (Similar to TopShot for the NBA).were by content creators can stream their videos( usually gaming clips or awesome moments in a video) and clip out good moments form it and sell it on the nft marketplace or put it out for auction.\nMint NFTs with your favorite stream clips, buy and sell them, or stake them in a liquidity pool.",
+    "howItsMade": "This Project uses (or planned to use)\n-React on the Frontend,\n-Skynet on the backend,\n-Polywrap for web3 integration, and\n-Uniswap for swapping tokens\n-LivePeer for streaming related data\nWe were unable to integrate all of the tech within the given time period.\nhttps://github.com/shawnkd/colorpixels_frontend",
+    "prizes": [],
+    "githubUrl": "https://github.com/shawnkd/colorpixels_frontend",
+    "demoUrl": "https://colorpixels-frontend-lydcfl6nu-shawnkd.vercel.app/",
+    "teamMembers": []
+  }
+]

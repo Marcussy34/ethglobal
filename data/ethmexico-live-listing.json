@@ -1,0 +1,933 @@
+[
+  {
+    "name": "Sunlight Exchange",
+    "slug": "sunlight-exchange-7oczs",
+    "description": "A decentralized NFT marketplace that provides increased robustness, higher transparency, equal access, and better liquidity in the NFT markets.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ExtraSafe",
+    "slug": "extrasafe-1xms7",
+    "description": "A gnosis safe hardware wallet that is meant to work on multiple EVM chains running on a raspberry pi.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "DROP",
+    "slug": "drop-j4p4m",
+    "description": "Buy and Sell temporal property rights through NFTs and ZKProofs.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Emergence",
+    "slug": "emergence-o3tns",
+    "description": "Emergence is an on-chain video platform that distribute tokens during calls + generates a script for DAO documentation + increases DAO health and onboarding quality.",
+    "event": "ETHMexico",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "CRYPTO RESTAURANT WEEK - CRW Loyalty",
+    "slug": "crypto-restaurant-week-crw-loyalty-s5wga",
+    "description": "We give restaurants access to a new group of clients that are crypto enthusiasts and travelers . We save restaurants millions in revenue.  We also offer continued support to both traveling foodies and the best restaurants around the world. Pay seamlessly, Eat deliciously!",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Base",
+    "slug": "base-yryc8",
+    "description": "All-in-one platform to consume, create, grow & monetize content with NFT memberships.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "F00tprint",
+    "slug": "f00tprint-r3xqa",
+    "description": "This is an app that mints an NFT based on your carbon footprint, it asks you basic questions and generates the NFT on the go.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OwnTheLand",
+    "slug": "owntheland-30fvf",
+    "description": "A project to search, sell and purchase properties to web3. Allowing others to participate in de descentralization of land data, and a starting point for land ownership and citizen identity on the chain",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Kiwik",
+    "slug": "kiwik-9x206",
+    "description": "Kiwik allows creators and game devs to buy and sell tokenized 3D assets to create higher quality and quantity games and metaverses!",
+    "event": "ETHMexico",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "f8ku2",
+      "3zpxc",
+      "qy8m3",
+      "vxwti",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Origyn NFT",
+    "slug": "origyn-nft-ywex0",
+    "description": "Origyn NFT is a multi-asset, marketplace ready, cross-chain NFT with the capacity to store up to two gigs of resources on chain.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Heptagon: Decentralized Music Streaming",
+    "slug": "heptagon-decentralized-music-streaming-1dafa",
+    "description": "It is a decentralized music streaming service through NFT's and IPFS data",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Drain",
+    "slug": "drain-6f9sc",
+    "description": "Send all tokens from one wallet to another quickly. Whether getting hacked or starting fresh, Drain makes sure you get every last wei.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Short-Stop",
+    "slug": "short-stop-cbt16",
+    "description": "Short-stop gives the opportunity for users to take a short position on tokens.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "oiv32",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "MemorialSBTs",
+    "slug": "memorialsbts-2c4o7",
+    "description": "You can mint your own Soulbound Tokens(SBTs) with your photo",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mixdown",
+    "slug": "mixdown-tvdfq",
+    "description": "A dapp for creating collaborative audio on top of Lens Protocol. Fork, remix, add, collect, and collaborate.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "DID",
+    "slug": "did-gmiic",
+    "description": "Web 3 Digital Identity Photo Storage Dapp is a platform which enables users to create an online private and unique digital Identity profile where all official credentials can be safely and permanently stored allowing easier access to manage and allocate user identification.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3 Fortnite Achievements",
+    "slug": "web3-fortnite-achievements-2nuv2",
+    "description": "On boards web2 fortnite players into web3 by giving them exclusive NFT achievements.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Spiritus",
+    "slug": "spiritus-34owk",
+    "description": "Spiritus is the dynamic NFT creation and management platform focused on facilitating metadata-driven development",
+    "event": "ETHMexico",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "46q4i",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Abacast",
+    "slug": "abacast-oh2ae",
+    "description": "Abacus relayer fee incentivisation implementation and profit/loss dashboard",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0ndp2",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "ConvoBridge",
+    "slug": "convobridge-j90ey",
+    "description": "ConvoBridge is bridging the gap between on-chain voting and off-chain discussion in DAO governance. By creating an on-chain governance forum, that integrates on-chain proposal data: we are creating a user experience that provides clarity to the DAO proposal process.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Eezywards",
+    "slug": "eezywards-r23a1",
+    "description": "Point of sale system with crypto payments done through QR codes to reward loyal customers with coupons and achievements.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Sell Your Stuff",
+    "slug": "sell-your-stuff-vegih",
+    "description": "Sell Your Stuff App gives users the ability to buy, rent, sell and request items they need from other people, all in one app.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "decent insurance",
+    "slug": "decent-insurance-pnjoe",
+    "description": "Decentralized Insurance for gadgets, backed up by some NFTs, and Superfluid technology for smart contracts and money streams. If you back up someone you get payed by the second.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "DAO Risk",
+    "slug": "dao-risk-w8cxv",
+    "description": "DAO Risk analyzes the risk a DAO is able to service its debts in the future. This enables on-chain DAO bonds.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AudioFlow",
+    "slug": "audioflow-0a7zd",
+    "description": "This proof of concept uses Lens Protocol to allow users to create their profile (if they dont have any), post audio files as lens publications and also donate tokens to users by using superfluid protocol.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verified Fan on Mina",
+    "slug": "verified-fan-on-mina-9qzip",
+    "description": "Building zero knowledge proof of verified fan status on Mina",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Peer2Pirate",
+    "slug": "peer2pirate-bnhoz",
+    "description": "Peer 2 Peer, permissionless  fiat <> crypto ramp for the polygon blockchain",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DictatorDAO",
+    "slug": "dictatordao-6un2p",
+    "description": "Dictator DAO is an experiment with an authoritarian DAO structure, inspired by open source BDFLs.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InfraRETH",
+    "slug": "infrareth-i2vbk",
+    "description": "Artistic NFT movement with a cause. InfreRETH is the first proyect which seeks for equality, education, space expansion, tolerance, through infrared technology.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Metate",
+    "slug": "metate-i6p9t",
+    "description": "Metate allows anyone to stream XOC - decentralized Mexican Pesos",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProjectingProject",
+    "slug": "projectingproject-fbyoy",
+    "description": "ERC20 and ERC721 Templates to deploy and make your own tokens and NFTs.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Integrations_Dex",
+    "slug": "integrations-dex-pcg7w",
+    "description": "A intregration of libs that looking for a dedicated services not just the typical copy cat node js.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WAPHL",
+    "slug": "waphl-wcfmy",
+    "description": "We took queries in The Graph to the next level, turning play languaje in the subgraph queries, so that anyone can take advantage of The Graph. They will also be able to see recommendations of similar tokens based on your balance sheet",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Infinite Grants Garden",
+    "slug": "infinite-grants-garden-0aaks",
+    "description": "Helping grow infinite goods with a more open grants process.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mati",
+    "slug": "mati-twmdv",
+    "description": "Create a collection of NFTs that stores the words of a native language, pronunciation and, meaning, in this way the words will be stored permanently  and people will have access to this information as a repository of the different languages.",
+    "event": "ETHMexico",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "9zj01",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Bookie Bookie",
+    "slug": "bookie-bookie-i94ae",
+    "description": "Bookie Bookie is an NFT marketplace powered by AI serving authors and readers.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "APPrende",
+    "slug": "apprende-i4b4m",
+    "description": "APPrende is a learn to earn platform that empowers individuals to begin their blockchain journey.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "oiv32"
+    ]
+  },
+  {
+    "name": "Lens Manager",
+    "slug": "lens-manager-qwneh",
+    "description": "Management tool for lens. Makes it possible to post to an account without holding the NFT in that wallet",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Oktopus Protocol",
+    "slug": "oktopus-protocol-ncd84",
+    "description": "Oktopus is an educational platform oriented to encourage learning web3 content, learning while staking.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hourglass",
+    "slug": "hourglass-9bzz9",
+    "description": "Hourglass allows companies to pay employees instantly, straight to their debit card.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "AI MV PFP platform and co-listening metaverse",
+    "slug": "ai-mv-pfp-platform-and-co-listening-metaverse-58y4b",
+    "description": "A platform enables Musicians generate Audio-Visual NFT artworks and PFPs(not developed yet)) easily, with AI generating perfectly matched image/video.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Timestone",
+    "slug": "timestone-7bcgo",
+    "description": "TimeStone enables easy to capture, verified screenshots of web-based content that is contextualized by metadata and user-created tags.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Datamorpho",
+    "slug": "datamorpho-omvp5",
+    "description": "Dynamic file standard and protocol using cryptography and IPFS that let any file do data metamorphosis over time: datamorphosis",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Popin",
+    "slug": "popin-kr7i7",
+    "description": "Popin lets you discover your nearby NFT fres and connect with them. You can also filter your list based on your specific NFT/tokens.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Stitch",
+    "slug": "stitch-ix5hu",
+    "description": "Decentralized streaming platform that gives ownership to creators at the time that rewards the fans for their attention and donations.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Zkredit",
+    "slug": "zkredit-p9ivq",
+    "description": "Mina ZkApp for secure, private and bias-free mortgage credit",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Staxx",
+    "slug": "staxx-bf8pf",
+    "description": "Social content creation of the future, empowering creators and users to take ownership of their social feeds and content",
+    "event": "ETHMexico",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3",
+      "9zj01",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Reunited",
+    "slug": "reunited-mgc5f",
+    "description": "Reunited opens the door to thousands of people whose loved ones are missing to find them in a descentrlalized way",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "pikabu",
+    "slug": "pikabu-np862",
+    "description": "Pikabu is a social streaming content creation space where creators can develop a solid community and income through subscription and pay-per-time watched content with live shows and previously uploaded content.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HARPO",
+    "slug": "harpo-5if38",
+    "description": "We built a ZK-APP that allows everyone to generate a  stealth address ( One time untraceable address generated per transaction ) for Mina protocol.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "SociaLens",
+    "slug": "socialens-gkoom",
+    "description": "SociaLens is an immersive VR social app in which people can share, experience, discover and collect any NFT contents to their own wallet.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Pet Crowdfunding",
+    "slug": "pet-crowdfunding-zwq15",
+    "description": "Our initative is a site for crowdfunding to help abandoned pets, using Vercel, Next.js, IPFS and Solidity.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Workies",
+    "slug": "workies-9bzur",
+    "description": "Workies is a HR payroll provider that pays staff by the second and facilitates employers to loan money to their employees. This can enable upward mobility and is a first step to a universal credit system.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Athlete Showcase",
+    "slug": "athlete-showcase-bihoz",
+    "description": "Allows permissionless public funding of varsity and collegiate athletes in Mexico (and beyond)",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "VNUS",
+    "slug": "vnus-ddho8",
+    "description": "Creation of a token using Lenster's technology to give women access to a secure social network.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "BlockCommunity",
+    "slug": "blockcommunity-17ujy",
+    "description": "Dapp for payments and traceability oriented to physical gated communities",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "MyPlac3",
+    "slug": "myplac3-3ewrp",
+    "description": "Check out the unique recommendations curated by your favorite communities!",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "MeritDAOcracy",
+    "slug": "meritdaocracy-46fpe",
+    "description": "Earn badges that increase your voting power by completing bounties. An open-source, merit-based governance protocol that issues Soulbound voting power based on eligible contributions to a DAO.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Lens Library",
+    "slug": "lens-library-v08g8",
+    "description": "A scientific hub for share your ideas, write your opinion, own your content and be rewarded for your contribution",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "UNICAR - Títulos de propiedad con NTFs",
+    "slug": "unicar-titulos-de-propiedad-con-ntfs-6cirs",
+    "description": "Universal vehicle verification on a blockchain for theft and fraud prevention, with universal tokens that can be verified by individuals and manufacturers.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Torebit",
+    "slug": "torebit-kkrb3",
+    "description": "Help to trader be a super traders with our platform that automate strategies",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Metaboletos",
+    "slug": "metaboletos-j93ft",
+    "description": "Buy tickets you can really own. An NFT ticket platform where people can purchase tickets securely using crypto and avoiding frauds.",
+    "event": "ETHMexico",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "f8ku2",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Tickets.xyz",
+    "slug": "tickets-xyz-d48ty",
+    "description": "Protocol and platform for issuing and handling event tickets as NFTs. Ethereum allows for programmable money, we allow for programmable tickets!",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "RaffleHouse",
+    "slug": "rafflehouse-1e7ns",
+    "description": "A free, public, and permissionless on chain raffle and giveaway platform.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Sticky App",
+    "slug": "sticky-app-mzxc5",
+    "description": "We are bringing Crypto to the masses, by allowing creators to turn their content into crypto",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "oiv32"
+    ]
+  },
+  {
+    "name": "mymemories.888",
+    "slug": "mymemories-888-uaif9",
+    "description": "An app to tag specific moments of the day using a wearable. mymemories.888 is an app to tag specific moments of the day using a wearable (The crown, Aura ring, Apple watch, etc).",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dharma",
+    "slug": "dharma-u9tjn",
+    "description": "Dharma tiene la finalidad de ser un token de cambio para recibir ayuda cuando la necesites, sin embargo no podrás comprarlo y sólo puedes adquirirlo ayudando a alguien mas",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "CryptoAssetPayments",
+    "slug": "cryptoassetpayments-g92d9",
+    "description": "Crypto assets (NFTs, Tokens, etc) payments scheduler to allow for wider adoption of crypto assets, closing gaps for better inclusion",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Woosh",
+    "slug": "woosh-pu1fn",
+    "description": "A jargon-free, crypto cash app welcoming the next billion Web2 users of the world.",
+    "event": "ETHMexico",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "3zpxc",
+      "9zj01",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "ETHPoint",
+    "slug": "ethpoint-c87s1",
+    "description": "We created a Mobile-first and Point of Sale application for the Ethereum and Polygon ecosystem that brings together TradFi with Web3 through WalletConnect.",
+    "event": "ETHMexico",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "46q4i",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Oasis NFT",
+    "slug": "oasis-nft-myhou",
+    "description": "A multi-chain NFT marketplace and wallet where each user can buy NFTs by credit card and cash and can view their NFTs from different chains.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Keyppi",
+    "slug": "keyppi-k7ur9",
+    "description": "Keyppi is a zero-knowledge private key recovery platform. We secure your keys by implementing zero-knowledge proof, decentralized storage and identity verification using proof-of-personhood.",
+    "event": "ETHMexico",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "46q4i",
+      "3zpxc",
+      "qy8m3",
+      "9zj01",
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Shilo",
+    "slug": "shilo-u63sb",
+    "description": "A decentralized music streaming platform that gives real value to artists and fans",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "PLAYRN",
+    "slug": "playrn-xcnhv",
+    "description": "Reward fans for listening to  music with valuable utility tokens.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Ethereum Uncensored",
+    "slug": "ethereum-uncensored-h2i19",
+    "description": "Public good tool for the Ethereum Community that informs when a block may have been intentionally censored and allows the community to take action against these intentional attacks.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "W3 Citizens",
+    "slug": "w3-citizens-rfo4z",
+    "description": "The project gives a non-transferable ID of identity to every “real” citizen that associates its biometric data, official credentials, and wallet. Users store their credentials to interact in the physical world and to validate their identity in the virtual one.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Giftly",
+    "slug": "giftly-ketwo",
+    "description": "Giftly is a web3 gift card service powered by Polygon and IPFS. Users can send NFT gift cards to express their love and gratitude to others. Make someone's day special with Giftly.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "airvertise.eth",
+    "slug": "airvertise-eth-4eavr",
+    "description": "Airvertise is a decentralized marketing platform that allows targeting people who interacted with similar kinds of contracts (i.e. NFT collections). End users are paid to view advertisements sent via airdrop, shifting profits to users instead of centralized platforms.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Crēdere",
+    "slug": "credere-f87om",
+    "description": "Allows human DeFi users to have 1:1 credit socres based on on-chain data.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IAMM",
+    "slug": "iamm-rpkwp",
+    "description": "IAMM [ImpAct Meta-Market] serves as a foundational platform for the entire NFT ecosystem and provides opportunities for many markets to emerge.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Vaultmi",
+    "slug": "vaultmi-62np4",
+    "description": "Vaultmi is a zk-app to share files with multiple owners through the Mina protocol.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Sell Out",
+    "slug": "sell-out-5y2xi",
+    "description": "The best way to checkout in a dApp. Sell Out is a component library for building delightful Web3 checkout experiences.",
+    "event": "ETHMexico",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "46q4i",
+      "qy8m3",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Universal Secure Descentralized IDentity",
+    "slug": "universal-secure-descentralized-identity-367mt",
+    "description": "DiDs solution using fingerprints under the NIST protocol with NFQ2 as the basis for creating keys from any IOS or android device",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "HashHunter.xyz",
+    "slug": "hashhunter-xyz-d7n01",
+    "description": "HashHunter is a chain agnostic block explorer. Hunt hashes. Search streams. All in one easy explorer.",
+    "event": "ETHMexico",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "qy8m3",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "GenoVerse (by GenoBank.io)",
+    "slug": "genoverse-by-genobank-io-yor61",
+    "description": "Ethical Marketplace for Consented Biosamples (BioNFTs 🧬) for Research.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Voyage",
+    "slug": "voyage-tqbtt",
+    "description": "Voyage is a DApp for Travelers to mint Voyage NFTs, register Memories from travels as Lens posts and get DeFi rewards from destinations visited.",
+    "event": "ETHMexico",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "9zj01",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "criptotianguis.mx",
+    "slug": "criptotianguis-mx-eb3dw",
+    "description": "Cripto tianguis MX is a 100% web3 evm phone refills and payments market",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "wemerang",
+    "slug": "wemerang-xsi31",
+    "description": "Wemerang is a marketplace to connect brands with everyday heroes, to help the planet, people and animals.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Knimo",
+    "slug": "knimo-bmqos",
+    "description": "Knimo is a platform built on top of Lens Protocol that enables social clubs to create their own membership ecosystems.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "DAO-Dash",
+    "slug": "dao-dash-35pgi",
+    "description": "DAO-Dash is a treasury management dashboard for DAO portfolios. It allows for the simulation of portfolio asset distributions, proposal backed rebalancing of fund allocations and real time tracking of changes to the distribution or aggregated value of a DAOs portfolio.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "$DTT DEX",
+    "slug": "dtt-dex-m6nyz",
+    "description": "There is a niche for $DERO w/ pmts since it is much faster than $XMR & you will be able to pay in wrapped stablecoins like $DAI. I paid for a hotel in Mazatlan in DAI but we are working towards bringing wrapped stablecoins to DERO via an Ethereum-DERO bridge.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cypherpunk Citadel DAO",
+    "slug": "cypherpunk-citadel-dao-n6roh",
+    "description": "We aim to create the first online Citadel for the Spanish-speaking world, our DAO focuses on creating content and building community tools to empower the onboarding of the 500 million Spanish speaking people  into the Cryptogenerative Economy.",
+    "event": "ETHMexico",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthernalHope",
+    "slug": "ethernalhope-p59vw",
+    "description": "At EthernalHope, we are the experts in searching for missing persons through collaboration and decentralization.",
+    "event": "ETHMexico",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Alcancía",
+    "slug": "alcancia-ckss6",
+    "description": "The first ReFi Recycle-To-Earn App using the power of Polygon, mobile wallets, and circular economy.",
+    "event": "ETHMexico",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "qy8m3"
+    ]
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "name": "FluidSwap",
+    "slug": "fluidswap-v9vy7",
+    "description": "An AMM to enable large orders to be executed over multiple blocks!",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hacking NFT",
+    "slug": "hacking-nft-hot8o",
+    "description": "Decentralized nft marketplace for buyer minting their own nfts",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Universe Finance Backtesting for Uniswap V3",
+    "slug": "universe-finance-backtesting-for-uniswap-v3-25v8m",
+    "description": "Universe Finance Backtesting system is the first open source backtesting platform for Uniswap V3. Our comprehensive database allows all developers to test their strategy in a work smarter way!",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unisender",
+    "slug": "unisender-dpha9",
+    "description": "Unisender is tool is use to send asset to multiple  addresses use less gas fees and less time.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uniflash",
+    "slug": "uniflash-scsan",
+    "description": "Testing the uniswap flashloans. Deployed the flashloan contract with hardhat and tested with main net ethereum fork with hardhat",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "FlashSwapper",
+    "slug": "flashswapper-gjrk4",
+    "description": "A Uniswap v3 flashswap implementation. this works with at least three diffrent pools.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arbitrage between V2 and V3",
+    "slug": "arbitrage-between-v2-and-v3-jjcqp",
+    "description": "Finding the arbitrage opportunity between V2 and V3 protocol with flashswap execution",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BraineumDEX",
+    "slug": "braineumdex-iwz2g",
+    "description": "Building a decentralized exchange for the Braineum Ecosystem.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Project Wumbo",
+    "slug": "project-wumbo-nfzs9",
+    "description": "A trader-owned smart contract that enables advanced on-chain trades",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENCODEXOR",
+    "slug": "encodexor-4zy3d",
+    "description": "Using Uniswap SDK and contracts  interface to present some DeFi options.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AccidentalSwap",
+    "slug": "accidentalswap-bd7cd",
+    "description": "A simple dapp built on uniswap that preforms an exact input swap with a random output token.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "reed",
+    "slug": "reed-gwxz3",
+    "description": "verifiable tarot card pulls for private AZTEC & transparent Optimism uniswap trades in DAO governance and exit quits",
+    "event": "UniCode",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nhs1x",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Caravan",
+    "slug": "caravan-uoevz",
+    "description": "A new market for liquidity positions.  Rent liquidity from liquidity providers. Rent out your liquidity to others. Buy, sell, and trade liquidity positions without pulling liquidity out of the pool.",
+    "event": "UniCode",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "026zc"
+    ]
+  },
+  {
+    "name": "AnchorGate",
+    "slug": "anchorgate-zfb7e",
+    "description": "Get the best price on Mimatic (MAI) / DAI swaps by auto-anchoring via one swap contract interface which also improves pool liquidity",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwapGasFees",
+    "slug": "swapgasfees-z4v39",
+    "description": "Design of an analytics dashboard for Uniswap gas fees, as well as charts that give analytical insights into Uniswap.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cargo Protocol",
+    "slug": "cargo-protocol-ken14",
+    "description": "Aggregator tool from Cargo Protocol helps users to overview, select and deploy their LP tokens to rebalancers operating on Uniswap V3.",
+    "event": "UniCode",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "6g24q",
+      "6g24q"
+    ]
+  },
+  {
+    "name": "Real Token",
+    "slug": "real-token-bh0ze",
+    "description": "Tokenizing liquid ownership of real estate projects (or any illiquid asset)",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyWrap vs VSCode",
+    "slug": "polywrap-vs-vscode-rmbuk",
+    "description": "Polywrap VSCode extension focused on improving the in-IDE developer experience",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "w1xgi"
+    ]
+  },
+  {
+    "name": "Unilearn",
+    "slug": "unilearn-6m6qo",
+    "description": "Unilearn is a crowdsourced learning platform about everything relating to Uniswap. It rewards both the learner and quiz creators with Unilearn tokens and uniquely generated NFTs.",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "UniSwapooor",
+    "slug": "uniswapooor-ezd2u",
+    "description": "Playing with OmniAnalytics Uniswapper R library to see if it works nicely with KnitR",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OurAwesomeProject",
+    "slug": "ourawesomeproject-hdvtc",
+    "description": "API that manages stop-limit orders on Uniswap V3. Users send a desired token-swap, price, and time limit and the swap happens if the price is hit during the limit.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AzUniswap",
+    "slug": "azuniswap-v2ga3",
+    "description": "Perform private and cheap swap on Uniswap through aztec bridge",
+    "event": "UniCode",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nhs1x",
+      "026zc",
+      "6g24q"
+    ]
+  },
+  {
+    "name": "HeroSwap",
+    "slug": "heroswap-compliant-uniswap-with-molecule-6t8e1",
+    "description": "HeroSwap implements a compliant Uniswap using Molecule Protocol and Claimable",
+    "event": "UniCode",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Education Swap 👨‍🎓",
+    "slug": "education-swap-👨‍🎓-u7qkd",
+    "description": "Education Swap is a platform for students to swap their tokens for stable coins. The way it works is that students can create a project to track their educational goals and receive financial support.",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Univertify",
+    "slug": "univertify-8867x",
+    "description": "Providing NFT Liquidity with fractionalize. It adjust liquidity based on the amount of fractionalize",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniCodeDiscordBot",
+    "slug": "unicodediscordbot-afeq6",
+    "description": "Integrate @uniswap/v3-sdk , @uniswap/sdk-core Pool,   Trade,   Route,   Position,   NonfungiblePositionManager,   nearestUsableTick, with Discord.JS",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Crosscash",
+    "slug": "crosscash-vcus5",
+    "description": "A bridge for instant liquidity cross-chains and layers using azdet connect",
+    "event": "UniCode",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nhs1x",
+      "xdat5",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Regulus",
+    "slug": "regulus-jkf0f",
+    "description": "Rewards distribution and tracking platform for Decentralized Autonomous Organizations.",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "IncrediSwap",
+    "slug": "incrediswap-e0j4w",
+    "description": "TWAP : Deployment of an app via Aztec rollups in order to reduce slippage on uniswap v3 and have private swaps",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "Uniswap API Explorer",
+    "slug": "uniswap-api-explorer-ymrxp",
+    "description": "A guide to basic terminology and concepts of cryptocurrency as demonstrated by functionality of the Uniswap API.",
+    "event": "UniCode",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "xdat5",
+      "w1xgi"
+    ]
+  },
+  {
+    "name": "Rightoken",
+    "slug": "rightoken-re612",
+    "description": "Rightoken is a stock market for music IP that allows musicians to keep control of their work and monetize it on their own terms",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EasySend",
+    "slug": "easysend-x1ku8",
+    "description": "A web wallet to facilitate the sending of cryptocurrency, exchanging crypto to fiat, which then deposited into a mobile money account",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Airlift Finance",
+    "slug": "airlift-finance-rczdm",
+    "description": "Increase your exposure to a token with automatic leverage via Aave and Uniswap.",
+    "event": "UniCode",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "xdat5",
+      "026zc"
+    ]
+  },
+  {
+    "name": "UniBox",
+    "slug": "unibox-n78zk",
+    "description": "UniBox is a docker based terminal for Uniswap. It allows power uses to better utilize Uniswap with in-built data anlytics and trading strategies",
+    "event": "UniCode",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "7go1p",
+      "026zc"
+    ]
+  },
+  {
+    "name": "BetSmart",
+    "slug": "betsmart-3hq3e",
+    "description": "Betting using ConditionalTokens (Gnosis) with LP Tokens (UNISWAP V3)",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Tx.Drip",
+    "slug": "tx-drip-qfq70",
+    "description": "Tx.Drip is a 3D visualization and comparison of the swaps occurring across the three services on Uniswap.",
+    "event": "UniCode",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Superfluidity",
+    "slug": "superfluidity-x2tw7",
+    "description": "A superfluidity pool automatically streams liquidity between concentrated liquidity pools based on price velocity in order to maximize profits.",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Storage App DAO",
+    "slug": "storage-app-dao-ujxt8",
+    "description": "Storage App DAO is a governance app for an existing video storage platform using IPFS/Filecoin for storage and retrieval of files.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uniswap Diary",
+    "slug": "uniswap-diary-0b04p",
+    "description": "Keep track of all your Uniswap transactions in a easy to read journal that also allows you to leave notes",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Skyfire DAO",
+    "slug": "skyfire-dao-gamefi-kit-for-uni-lm-events-gvbxg",
+    "description": "Skyfire DAO improves the UX for generic users, by gamefying distribution events for eg. Liquidity Mining events. Our gamekit tooling contracts and game can be utilized for custom LM events. Skyfire DAO tokens are rewarded to all partner LM events.",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Uniswaption",
+    "slug": "uniswaption-gorhh",
+    "description": "Optimize liquidity provision - identify best liquidity price range given the LP's risk tolerance",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6g24q"
+    ]
+  },
+  {
+    "name": "Uniramp",
+    "slug": "uniramp-oy9dx",
+    "description": "Uniramp is an onboarding and education platform helping users interact with their first Uniswap liquidity pools.",
+    "event": "UniCode",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "xdat5",
+      "6g24q",
+      "6g24q"
+    ]
+  },
+  {
+    "name": "Stable Coins Converter",
+    "slug": "stable-coins-converter-sr8z7",
+    "description": "A dapp where users can swap ETH to DAI and send them to multiple addreses",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "0xunicorgis",
+    "slug": "0xunicorgis-0u07j",
+    "description": "Making code cute and informative by learning and earning using an unicorgi  to explore the web3 products by showing step by step quest  instead of tutorial",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gitvern",
+    "slug": "gitvern-fxczm",
+    "description": "DAO Governance based on GitHub using Uniswap Liquidity Providers as Active Stackers",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Focus",
+    "slug": "focus-vg9ju",
+    "description": "A proxy exchange and set of wrapper tokens to improve liquidity efficiency of Uniswap V3.",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6g24q"
+    ]
+  },
+  {
+    "name": "Project Vinland",
+    "slug": "project-vinland-efxuc",
+    "description": "A defi metaverse to onboard next wave of users into crypto and DeFi",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniStrategy",
+    "slug": "unistrategy-yvwkg",
+    "description": "Strategy manager for UNI v3 positions that rebalance the positions with swaps periodically",
+    "event": "UniCode",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "decentralized-banking-functions",
+    "slug": "decentralized-banking-functions-xqb6x",
+    "description": "create functionality of transfering funds and storing data of users like a decentralized bank",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MuffinDeX",
+    "slug": "muffindex-jhg67",
+    "description": "MuffinDeX is a prototype for a decentralized exchange that works as a time-weighted average market maker.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vialend 2",
+    "slug": "vialend-2-3erwd",
+    "description": "Customizable Uniswap V3 automated liquidity management tool that uses a unique vault design combining lending and V3 pools.",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Token Search Tool",
+    "slug": "token-search-tool-jydsn",
+    "description": "The Token Search Tool provides a fast and easy to digest way of searching for popular cryptocurrency tokens and learning how the search tool works.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hoge Finance",
+    "slug": "hoge-finance-dy8ka",
+    "description": "Hoge Finance explores ways to empower the DeFi space through utilities, education, and software development.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hideServ",
+    "slug": "hideserv-sqhaz",
+    "description": "The MintHunt:hideServ allows you to hide your most valuable treasures in the MintHunt world. MintHunt.io is a mobile platform where you can hunt for NFTs and Tokens in the real world.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sandrone's",
+    "slug": "sandrone-s-9c1et",
+    "description": "A fully on-chain view Uniswap V3 quoter comparable to the lens one",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "brrrrrr finance",
+    "slug": "brrrrrr-finance-ny7um",
+    "description": "💸 Make it easy for non-crypto people to ape into meme tokens 💸",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniCrop",
+    "slug": "unicrop-swkb2",
+    "description": "Growing Crypto assets through yield Farming, Arbitrage, whether it is ERC20 or NFTs, through interchanging and cross-exchanging assets among themseleves.",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Robusta",
+    "slug": "robusta-v45c6",
+    "description": "Create the protocol to buy and sell the options with Uniswap v3",
+    "event": "UniCode",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6g24q"
+    ]
+  },
+  {
+    "name": "ColorPixels",
+    "slug": "colorpixels-3ihw0",
+    "description": "ColorPixels is a marketplace for NFTs that are clips from livestreams",
+    "event": "UniCode",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

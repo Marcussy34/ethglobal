@@ -14,7 +14,9 @@ const SPACING_MS = 800;
   while (true) {
     const url = `https://ethglobal.com/showcase?events=${slug}&page=${page}`;
     const html = await fetchWithDelay(url, SPACING_MS);
-    if (!html || !hasProjects(html)) break;
+    // A failed fetch (network down, blocked) must not be mistaken for the end of the listing
+    if (!html) { console.error(`ERR page ${page} fetch failed; nothing saved`); process.exit(1); }
+    if (!hasProjects(html)) break;
     const pj = parseListingPage(html);
     if (!pj.length) break;
     all.push(...pj);

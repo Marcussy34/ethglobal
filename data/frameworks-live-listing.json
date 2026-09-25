@@ -1,0 +1,1934 @@
+[
+  {
+    "name": "Taik-Frames",
+    "slug": "taik-frames-uhhbx",
+    "description": "A frame made where users can see the hackathons at the taikai platform",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "MediFund",
+    "slug": "medifund-m4nkg",
+    "description": "A crowfunding App on which you can fund people who need medical help",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Video Caster",
+    "slug": "video-caster-pynw0",
+    "description": "Project enables developers to effortlessly create and share customizable Farcaster frames supporting live video streaming, leveraging Pinata API for user casts.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Farchive",
+    "slug": "farchive-8n1z7",
+    "description": "Farchive: Comprehensive User Cast Archiving Solution  Introduction In the rapidly evolving world of digital content creation, preserving and organizing user-generated content has become increasingly important. Farchive is an innovative solution",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "social-connector",
+    "slug": "social-connector-vs6dq",
+    "description": "Randomly connecting Farcaster users with each other to build the community",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FrameScout",
+    "slug": "framescout-5jhwp",
+    "description": "Discover and create trending frames with our easy-to-use platform. Explore top trending frames or craft your unique minting frame in our Creator Studio, designed for both enthusiasts and creators.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4v3qj"
+    ]
+  },
+  {
+    "name": "toss-frame",
+    "slug": "toss-frame-nvx2g",
+    "description": "A \"Toss\" frame allows users to flip a virtual coin or perform a random selection between two options. It's a fun and interactive way to make decisions or settle disputes. Users can simply click or tap on the frame to initiate the toss, and the result (heads o",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "frame-transact",
+    "slug": "frame-transact-w3rn0",
+    "description": "A frame that interacts with an example contract with multiple parameters by utilizing states and finally the tx directly on the frame, also adheres to the openframe standard",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "ETHGlobal Frame",
+    "slug": "ethglobal-frame-0kgms",
+    "description": "ETHGlobal frames allow users to go to frames and checkout ethglobal hackathons in a cast and then go to external websites to checkout the hackathon",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "OP Cast",
+    "slug": "op-cast-58e96",
+    "description": "Move your Axelar Interchain token usnig a Frame from Optimism to base and vice-versa",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Frame Start",
+    "slug": "frame-start-qs5zk",
+    "description": "FrameJS is a lightweight JavaScript library that allows you to easily track prices on web pages. With just a few lines of code, you can extract and monitor price information from any website.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "SuperFrame",
+    "slug": "superframe-bcse8",
+    "description": "Frame that enables content creator to receive streams through superfluid on base network, also a no code frame development tools to facilitate creation and sharing on farcaster clients.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Framecaster",
+    "slug": "framecaster-dnbdj",
+    "description": "An interactive client for Farcaster with support for videos and games",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Kanan",
+    "slug": "kanan-esnho",
+    "description": "Frames as a service. A p[latform that leverages frames for creator economy.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Flames",
+    "slug": "flames-dfzrr",
+    "description": "No-code tool for creating instant checkout ecommerce frames. Flames if the fastest way to go from idea to income on Farcaster!",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Worldwide Hub",
+    "slug": "worldwide-hub-feitk",
+    "description": "This initiative enhances online communication by offering embeddable comment and live chat frames, using blockchain for uncensored, aggregated discussions. It streamlines app development and enriches user interaction with customizable features, addressing scalability.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "ZenDad",
+    "slug": "zendad-h6ikf",
+    "description": "Buzzfeed meets self-awareness in this social interaction that is meant to evoke authenticity online",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuggestMe Frame",
+    "slug": "suggestme-frame-y6i7m",
+    "description": "A frame which is suggesting a music based on your unique choice!",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Far-away",
+    "slug": "far-away-1m56c",
+    "description": "It is a frame that create an AA wallet for any user. It is easy to use fast and nice",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QuizChain",
+    "slug": "quizchain-pe1fs",
+    "description": "QuizChain harnesses video learning with blockchain rewards. Watch educational content, take quizzes, earn NFTs, and climb leaderboards—all in one platform.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "framemint",
+    "slug": "framemint-gusp4",
+    "description": "Frame Mint allows anyone to create and mint NFTs on Farcaster.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Qubix",
+    "slug": "qubix-k5h2t",
+    "description": "Qubix is an app that revolutionizes game development and ownership in web3. It is an innovative platform where users craft games using intuitive drag-and-drop tools, and publish as a farcaster frame",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Memester",
+    "slug": "memester-jv03n",
+    "description": "Introducing Memster: Your Ultimate Meme Creation and Casting Platform!  Join the Memster community and unleash your creativity by crafting hilarious and relatable memes.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Muse",
+    "slug": "muse-2tonx",
+    "description": "At a recent hackathon event At a recent hackathon event, I developed a novel solution",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "The Token 8 Ball",
+    "slug": "the-token-8-ball-85itq",
+    "description": "The Token 8 Ball frame recommends tokens from its list and let's you buy them easily!",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "frame-charts",
+    "slug": "frame-charts-4t1af",
+    "description": "no-code tool for creating Analytics Charts inside Frames on Farcaster",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Faxcaster",
+    "slug": "faxcaster-9392k",
+    "description": "An exploration into generating Farcaster frames and decoding Frame post actions",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sybil Daddy",
+    "slug": "sybil-daddy-orjwp",
+    "description": "Sybil Daddy is a new to way to fight against sybil attacks for Airdrops",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "No project -_-",
+    "slug": "no-project-6wjn5",
+    "description": "create a game for frames it more of a car managment sim game",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Frames Hub",
+    "slug": "frames-hub-w77f9",
+    "description": "FrameHub analyzes Farcaster Frame trends & engagement, aiding project decisions. We also have our Farcaster account which provides daily updates. Stay informed, make better choices.",
+    "event": "Frameworks",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "rmkrz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Ranked Auction Frame",
+    "slug": "ranked-auction-frame-hifh1",
+    "description": "A ranked auction frame to participate in the a group NFT auction",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CocoFrame",
+    "slug": "cocoframe-axab0",
+    "description": "CocoFrame allows you to create your own frames without code.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "FramePixel",
+    "slug": "framepixel-ivayb",
+    "description": "This is a game where everyone can paint each pixel with blue, yellow, red colors. After 1 day players can mint it as nft",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Allowlist Builder",
+    "slug": "allowlist-builder-n5kom",
+    "description": "Generate an allowlist of users (with their wallets connected on Farcaster) from the likes or comments on a specific cast.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Adventure",
+    "slug": "adventure-q1b38",
+    "description": "Dynamic, versatile, nostalgic - enjoy this fresh new adventure integrated into Web3 social!!!",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Knowledge Cards",
+    "slug": "knowledge-cards-iw2tb",
+    "description": "Discover and learn new information through Knowledge Cards directly inside frames",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "OnlyFrames",
+    "slug": "onlyframes-pucwj",
+    "description": "It is a platform for creators to sell digital products (videos, e-books, images) via Farcaster Frames.  Users can discover and purchase these digital assets by minting Access NFTs, which grant them access to the purchased content.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ijybm",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "LiveCaster",
+    "slug": "livecaster-6a5go",
+    "description": "Create, configure and watch live stream on the go using Farcaster frames, fully powered by livepeer.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FC Portfolio",
+    "slug": "fc-portfolio-bzgxd",
+    "description": "Fc Portfolio is a frame that  fetches Farcaster user details via Pinata API  to create personalized portfolios.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Payrennial",
+    "slug": "payrennial-p4xtb",
+    "description": "WeChat's success hinged on WeChat Pay. Warpcast needs a payment feature to be the all-in-one crypto app, and this is what payrennial is doing: warpcast native payment frames.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "0-Code Sound Frames",
+    "slug": "0-code-sound-frames-071hz",
+    "description": "Frames shoudnt only be developer friendly, even as a developer it is stressful to code and deploy a frame. My project allows you to make a frame in 15 seconds !",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "roulette-6",
+    "slug": "roulette-6-9mbrn",
+    "description": "roulette-6 is a roulette game framee ulette Game Frame\" is a customizable framework designed for creating a simulated version of the notorious Russian roulette game within a web environment. In this game, players face the risk of a single bullet being loa",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "LiveStream NFT",
+    "slug": "livestream-nft-h50ae",
+    "description": "A farcaster frame which converts the amazing moments of any livestream into an NFT.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pinat",
+    "slug": "pinat-v60qe",
+    "description": "A Farcaster frame that gives the information of some the best bridges in web3 that support Optimism",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Put 🐱 on ur sholder",
+    "slug": "put-on-ur-sholder-3yyed",
+    "description": "You can put a cat on your PFP on Farcaster using this frame. You can control the position of the cat is in the image and download or mint as NFT. We can use this frame for another meme image such as DEGEN hat, nouns glasses, ENJOY ball. What would like to put on your PFP?",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "voteCaster",
+    "slug": "votecaster-9njv6",
+    "description": "We have built a frame for interactive online role games. The game master can create a frame with the session streaming and a vote poll where the Farcaster audience can interact with the game setting the actions difficulty.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FrameCoiner",
+    "slug": "framecoiner-b2bno",
+    "description": "FrameCoiner-  create gasless trading accounts and perform trades in single click using FRAMES !!!!!!!!!!",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Bezl",
+    "slug": "bezl-ckaos",
+    "description": "A Chrome Extension that allows you to discover and engage with Frames while you browse.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4v3qj"
+    ]
+  },
+  {
+    "name": "bamba-stars",
+    "slug": "bamba-stars-7dpif",
+    "description": "a platform that allows the creator to advertise their projects and has their followers as a social validator",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Frame Maker",
+    "slug": "frame-maker-dyy1k",
+    "description": "Users can generate Farcaster Frames from templates with no coding necessary mint tickets, nfts, and more",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HearMeOut",
+    "slug": "hearmeout-d1dv0",
+    "description": "A Farcaster frame engineered for live music insights: seamlessly share your current Spotify track and access comprehensive real-time statistics. Elevate your musical experience.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Smart-frames",
+    "slug": "smart-frames-kau8i",
+    "description": "Empowering Developers with Rapid AA Frame Development for Onchain Transactions",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "FrameLife",
+    "slug": "framelife-y1zc3",
+    "description": "Introducing FrameLife: Answer a few questions, and through your life choices guiding you through your journey, get a personalized NFT avatar generated by AI! Enter the metaverse uniquely with FrameLife's frame-based avatars.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Serendipity Engine",
+    "slug": "serendipity-engine-msp47",
+    "description": "Turn chance encounters into meaningful connections. Let Serendipity Engine guide you through the Farcasterverse.",
+    "event": "Frameworks",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "4v3qj",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Yoki subscriptions",
+    "slug": "yoki-subscriptions-gv4xf",
+    "description": "Frame for crypto-native subscriptions to creators/influencers in Farcaster feed",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Quest",
+    "slug": "ai-quest-j0uo3",
+    "description": "Craft your own RPG universe and elevate your social gaming experience with your blockchain activities! AI Quest, a text-based RPG built on the Farcaster framework, offers an evolving adventure shaped by your on-chain and Farcaster interactions.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "NO-CODE-FRAMES",
+    "slug": "no-code-frames-3t4q6",
+    "description": "A no code platform to remove the hassle of write code each time you want to cast a frame. We provide you with various options to create your frames, add buttons, take input, and customise your POST if you have your own backend.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Auctioneer Frame",
+    "slug": "auctioneer-frame-x9gqu",
+    "description": "NFT Auctions in Frames! Sell with increased reach over all your channels!",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Not AI Hotdog",
+    "slug": "not-ai-hotdog-ofpqa",
+    "description": "AI Hotdog or Not? A Farcaster Frame that inverts Silicon Valleys infamous hotdog id app but using humans to identify AI instead of AI to identify hotdogs",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "LinkHub",
+    "slug": "linkhub-kuz4s",
+    "description": "Create your unique web3-native linktree with our project, combining privy for easy social logins, frames.js for custom layouts, Next.js for a sleek frontend, serverless functions for seamless backend integration, and neon.db for a robust database. #web3 #Nextjs #serverless",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "slay⚡caster",
+    "slug": "slay-caster-6kpfp",
+    "description": "Using Privy, connect to your Farcaster account and start casting!",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Govcaster",
+    "slug": "govcaster-yht7b",
+    "description": "AI-powered governance frames for voter engagement on Warpcast",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AuctioneerX",
+    "slug": "auctioneerx-u1xrq",
+    "description": "AuctioneerX is a Duction Auction Dapp but bids are now streamed.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "PollCaster",
+    "slug": "pollcaster-xcwi1",
+    "description": "PollCaster is a free no-code poll creation tool that allows for making customizable, extendable polls compatible with Open Frames standard.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Typecast",
+    "slug": "typecast-kf6ae",
+    "description": "A social-network Farcaster client for developers that hands the power of transaction frames to its users. It allows them to create dynamic 'hire-me' cards, to enhance their visibility and spark collaborations in the dev market, using Pinata SDK and Frame.js.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FarConversations",
+    "slug": "farconversations-pahhq",
+    "description": "Helps you strike conversations from people in your extended network and also find warm connects to them",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "CodeCaster",
+    "slug": "codecaster-35cax",
+    "description": "A comprehensive library for generating frames in one step and obtaining detailed analytics for them",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FundDao",
+    "slug": "funddao-r1g0y",
+    "description": "FundDAO Club allows you to manage investment clubs, and to spread access to participate in investment funds to anyone, decentralized, agile, and without bureaucracy.Implementing a comprehensive on-chain governance system",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Awesome Frame",
+    "slug": "awesome-frame-4kezs",
+    "description": "Manage your ERC20/See trend tokens/Buy Degen from multichain",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "MemeSwap",
+    "slug": "memeswap-s3y8w",
+    "description": "MemeSwap allows Farcaster users to buy/sell popular meme tokens inside frame.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TVL_HISTORY",
+    "slug": "tvl-history-qdish",
+    "description": "Total Value Locked in Timeswap Liquidity Pool. Charts of All the chains can be shown in the frames by selecting it",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Sr Degen",
+    "slug": "sr-degen-2b76a",
+    "description": "Sr Degen, the Mexican bartender, loves hearing and gossiping about your tales. With a passion for cocktails, he's the ultimate listener and wingman, where each drink tells a unique customer story.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FramesGPT",
+    "slug": "framesgpt-sjeaz",
+    "description": "Accessing ChatGPT in Farcaster Frames for interactive conversations in the social feed",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PhishFrame",
+    "slug": "phishframe-5ihsk",
+    "description": "Security tool to check if a dapp URL is safe to use and report scams to ChainPatrol",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vericast",
+    "slug": "vericast-x5jxn",
+    "description": "Empowering Trust and Engagement on Farcaster through a reputation engine",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4v3qj",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Handle Factor",
+    "slug": "handle-factor-m0j4k",
+    "description": "No-code tool to build personalised frames based on user profile and activity",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Santa Bot",
+    "slug": "santa-bot-fndbt",
+    "description": "Santa bot is a Farcaster bot that allows casters to drop gifts for their audience that has engaged properly with the cast. It also provides supreme UX with the integration of Farcaster Frames.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Farsight",
+    "slug": "farsight-4at3y",
+    "description": "Empowering Farcaster Influencers with Data Insights and Monetization Tools",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "ShareSphere",
+    "slug": "sharesphere-tbqxp",
+    "description": "This dynamic tool enhances the way content creators and artists engage with their communities. With this extension, feedback is instant. It allows you to effortlessly gauge fan reactions to thumbnails, teasers of upcoming projects, and breathtaking artwork.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Farcircle Frame",
+    "slug": "farcircle-frame-43vt5",
+    "description": "Generate your Farcaster Circle image and mint it on blockchain.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CastCentralPerk",
+    "slug": "castcentralperk-wdddp",
+    "description": "A simple farcaster frame on warpcast that tells you which friends character you cast like",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Framalytics",
+    "slug": "framalytics-vajks",
+    "description": "Framalytics is a versatile platform that offers in-depth analytics, interactive data tools,  scoring and ranking thats regards Frames.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5neyp"
+    ]
+  },
+  {
+    "name": "Precog",
+    "slug": "precog-frp2j",
+    "description": "Prediction market frame where users can bet on different outcomes within Farcaster",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MemeCoinSnipeFrame",
+    "slug": "memecoinsnipeframe-yx3z4",
+    "description": "We enable meme coin sniping through farcaster, so buying meme coin can be more accessible to farcaster users.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "PoolTogether Frames",
+    "slug": "pooltogether-frames-78fd2",
+    "description": "View PoolTogether balance, deposit and withdraw on Optimism... all within a frame!",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bello Frames",
+    "slug": "bello-frames-kyuhx",
+    "description": "Enhanced Bello with Frames for interactive blockchain insights, facilitating dynamic and engaging exploration of on-chain data.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Magic Maker",
+    "slug": "magic-maker-zzrfh",
+    "description": "🌟✨ Magic Maker is an enchanting web app that lets you craft your own fairy tales! Select a genre, choose your hero, and guide them through an immersive choose-your-own-adventure story. Get a unique tale based on your choices, leading to a satisfying conclusion.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fb98y"
+    ]
+  },
+  {
+    "name": "FarChurch",
+    "slug": "farchurch-yve0y",
+    "description": "FarChurch: A bot and frame to track and share your daily thanksgiving reflections on Threads. Complete a 5-day quest and earn an NFT badge! Encouraging faith sharing and progress tracking.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OFSMMA",
+    "slug": "ofsmma-4dd41",
+    "description": "FSMMA Frame converted to OpenFrames standard making it available on XMTP",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "chessmates",
+    "slug": "chessmates-qt6d3",
+    "description": "Team up for this gambit! Choose black or white, vote for moves, and rack up points for your side. Chess with a twist!",
+    "event": "Frameworks",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xrzks",
+      "xrzks",
+      "zerib"
+    ]
+  },
+  {
+    "name": "FrameSea",
+    "slug": "framesea-6inis",
+    "description": "FrameSea is an NFT Auctions dApp that runs entirely in Farcaster by using Frames Transactions. Expand the audience for your best sales by keeping the action where it’s hot: right in Warpcast, not in yet another closed ecosystem.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "My First Frame",
+    "slug": "my-first-frame-7vx2m",
+    "description": "I wanted to do more but happy that I started the ball rolling with frames.  I used frog to load the open source demo frame.  So pleased that it worked.  Looking forward to using my own content in the future.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "become{AGI}",
+    "slug": "become-agi-yc9fh",
+    "description": "A Frames powered game where the social interactions are at it's core to leverage Farcaster being a social protocol. The goal is to train an AI model into AGI while distributing Knowledge or Noise with other players.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "GraphFrame",
+    "slug": "graphframe-if9e5",
+    "description": "We are giving the address from ENS Domain . We are using The Graph",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cast Picker",
+    "slug": "cast-picker-ymirh",
+    "description": "Cast Picker is an inframe onchain tool for creating giveaways and selecting winners from users who follow and like your cast.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Channel Digest",
+    "slug": "channel-digest-edwmj",
+    "description": "Created a Farcaster frame for trending channels and to get casts and statistics for the channel",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FarcasterUserDungeon",
+    "slug": "farcasteruserdungeon-3uzey",
+    "description": "A Crafted a roguelite ASCII game using rot.js with a twist: a custom SVG renderer for Farcaster frames & saved world states. Unoptimized but scalable, it’s a playable demo with blockchain integration on the horizon.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "helloframe",
+    "slug": "helloframe-p2q8v",
+    "description": "a read-only no-framework hello-world frame featuring an image",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "n8n-nodes-farcaster",
+    "slug": "n8n-nodes-farcaster-851kx",
+    "description": "n8n nodes designed to allow the easy creation of Farcaster frames",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "GMCasts",
+    "slug": "gmcasts-veih4",
+    "description": "Project contains infrastructure to render videos in frames as well as a new type of frame client which can render video elements",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dynamic Boy",
+    "slug": "dynamic-boy-xpwo0",
+    "description": "Dynamic Boy is a platform where users can upload games, check ranking information, and share on social media, fostering interaction and competition within the gaming community.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "frame.town",
+    "slug": "frame-town-ebcm4",
+    "description": "Single file val.town demo of creating a Farcaster frame in a single file",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Pesto Bowl",
+    "slug": "pesto-bowl-oorsf",
+    "description": "An NFT creation tool that lets your community mint a unique NFT by choosing a set of ingredients via a Farcaster Frame.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MeetFrames",
+    "slug": "meetframes-z4um1",
+    "description": "Empower your expertise by auctioning your time on Farcaster. Create event frames in 4 easy steps, discover your true value, and connect directly with followers eager to learn from you. Test your popularity, set your price, and transform connections into meaningful mentorships.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3lemetry",
+    "slug": "3lemetry-pjjmq",
+    "description": "Telemetry dashboard DApps allowing Chain and Graph data to be interacted with in a Frame.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "CraigsCast",
+    "slug": "craigscast-1pmho",
+    "description": "Collaborative tools for Landlords to enable listing and maintenance of rental properties on Farcaster, receive active rental NFT badges, maintain CRM of prospective buyers and share receipts to tenants.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "ShopFrame",
+    "slug": "shopframe-g0xbw",
+    "description": "Farcaster Shopping frame for easy to find and buy products .",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Check-In Caster",
+    "slug": "check-in-caster-ft8gx",
+    "description": "Foursquare on Farcaster: 'Check-in and Earn' with just a tap. Check into spots to share your moments, explore what's nearby, and connect with your friends on the go!",
+    "event": "Frameworks",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "h5ps8",
+      "zerib",
+      "ijybm",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Flashback",
+    "slug": "flashback-1hv89",
+    "description": "This is an unusual frame that allow users to request for answers to stuffs that happened far back. Friends are expected to crack their memory by selecting the right answer to the question.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "WWW",
+    "slug": "www-avmve",
+    "description": "W.W.W or Warpcast Wallet Wrapped  is a frame that lets user generate a yearly recap of their on-chain actions.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InfoCast",
+    "slug": "infocast-hzv4z",
+    "description": "Make inline conversations with AI assistant for  businesses you care about on Farcaster.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "WUW Fi Whatever",
+    "slug": "wuw-fi-whatever-0zb4r",
+    "description": "Frames for Questing Farcaster (Follow) and more soon, Feed and Ads.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LEMON JUICE",
+    "slug": "lemon-juice-coihq",
+    "description": "Introducing Feed Takeover Rights to enable a decentralised advertising primitive on Farcaster",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nofy",
+    "slug": "nofy-w5ryn",
+    "description": "Nofy merges collectibles and competition where users have to collect and compete to complete albums to mint.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TicketCast",
+    "slug": "ticketcast-nnxfg",
+    "description": "TicketCast in an NFT ticketing frame for browsing and minting tickets right from the frame.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fundcaster",
+    "slug": "fundcaster-34qsd",
+    "description": "A frame to create fundraising campaigns in Farcaster post.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "LiveFrames",
+    "slug": "liveframes-3q55r",
+    "description": "Usage of video frames for showing stream clips powered by Livepeer.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Brian Frame",
+    "slug": "brian-frame-ro8tt",
+    "description": "Brian Frame is a Farcaster frame allowing users to make transaction by prompting such as \"Swap 10 usdc to eth on base\" and execute it from their connected wallet",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "WarpMonsters",
+    "slug": "warpmonsters-6tqdi",
+    "description": "Multiplayer virtual gameboy running pokemon blue that picks the next input based on everyone's actions",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FIB",
+    "slug": "fib-mymzm",
+    "description": "A Madlibs style AI card game. Fill in the Blanks to complete the story and win prizes for the best results. You don't have to tell the truth, you just have to FIB.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "All Aboard",
+    "slug": "all-aboard-jymvh",
+    "description": "Embedded Wallet introduction to blockchain and rewarded with a slideshow of memes to celebrate",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Warpster",
+    "slug": "warpster-2en86",
+    "description": "Discover Warpster, our innovative Chrome extension designed for Farcaster enthusiasts! Leveraging cutting-edge APIs from Pinata, Airstack, and Karma3Labs, Warpster enriches your Farcaster experience.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KABOOM!!!",
+    "slug": "kaboom-tyf58",
+    "description": "KABOOM!! Defuse the bomb and win ETH! Do you have the nerves to cut three wires without setting off the bomb?",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CastSense",
+    "slug": "castsense-oz4tw",
+    "description": "Get a pulse on your farcaster activity and followers with relevant analytics",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4v3qj",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "NFT-Displayer",
+    "slug": "nft-displayer-95mrc",
+    "description": "NFT displayer for Buttpluggies collection to be used on Warpcast.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Frog Prince",
+    "slug": "frog-prince-v83hy",
+    "description": "Find your significant other through baby photos and change them throughout conversation",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "$DEGEN Donors",
+    "slug": "degen-donors-nqbq2",
+    "description": "Set up a complete fundraiser on Farcaster in 5 seconds. No-code frame creation. One-click donations with any wallet. A bespoke wallet for every fundraiser on Dynamic. And P2P image hosting.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Story Verse",
+    "slug": "story-verse-4jfr0",
+    "description": "Genesis Verse is a collaborative storytelling platform where users shape narratives by making choices, branching out from a foundational 'Genesis Verse' into a multiverse of stories. Explore and create endless possibilities in this interactive narrative ecosystem.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prayer To The AI God",
+    "slug": "prayer-to-the-ai-god-jc4ys",
+    "description": "Send a prayer to the AI God and hope that it mints you a blessing",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Marralú NFT",
+    "slug": "marralu-nft-nadoe",
+    "description": "A dynamic NFT creation and transfer platform leveraging Frames.js and Ethereum, enabling users to generate custom NFTs with step-by-step input collection and seamless transfer capabilities within a React-based interface.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Dark Forest Frames",
+    "slug": "dark-forest-frames-xgme7",
+    "description": "A Dark Forest inspired Zk MMO game built with a Farcaster frame client.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Farcaster Ads",
+    "slug": "farcaster-ads-iy7vm",
+    "description": "Introducing Farcaster Ads: Transforming digital advertising with interactive, engaging experiences while respecting user privacy. Boosting conversions and reshaping marketing's future",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "OBJECTS Frame",
+    "slug": "objects-frame-uvkwt",
+    "description": "Spatial design onchain. Mint, Remix, Make the physical world in a frame.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Glyphcast",
+    "slug": "glyphcast-kj5q1",
+    "description": "Glyphcast: Elevating Farcaster with video! 🎥 Using Pinata's Farcaster Hub API, we fetch user casts, integrating Livepeer for video processing, and Privy for smooth web3 onboarding. Dive into a richer, decentralized video experience. #Web3 #FarcasterVideo #Glyphcast\"",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "gov frame",
+    "slug": "gov-frame-ox9ee",
+    "description": "DAO governance suffers from a lack of delegate participation and beyond that a lack of delegator participation. We wanted to create a frame where delegates can get feedback from their constituents aka delegators.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Truthsayer",
+    "slug": "truthsayer-vq2s2",
+    "description": "Distributed oracle on Farcaster using frames where people mint NFTs in-frame to help decide outcomes.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FrameCharts",
+    "slug": "framecharts-403vy",
+    "description": "Trending Tokens Frame: View Trending Tokens and Token Charts/Info inside Farcaster",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AdBooster",
+    "slug": "adbooster-b5tfn",
+    "description": "A decentralized digital space that allows users to monetize their influence",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gitcoin frame",
+    "slug": "gitcoin-frame-kq9ar",
+    "description": "creating a gitcoin grants explorer that also support open frames spec",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "FramerMaster",
+    "slug": "framermaster-wnp0g",
+    "description": "We use privy first to onboard users to make their own courses/ videos where they can sell their courses by creating a frame just sharing their frames to the farcaster app, where users can pay the creators content worth to get the content.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "ClickCaster",
+    "slug": "clickcaster-fvkm0",
+    "description": "Traffic exchange platform between Frames on the Farcaster protocol",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Collecti-Craft",
+    "slug": "collecti-craft-qbx16",
+    "description": "Like & recast, enter your email, & mint a gasless NFT directly from a Warpcast Frame! A custodial wallet is generated instantly. There is an option to mint a special NFT using your credit card. Users can update the NFT dynamically. Experience seamless Web 2 UX.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "AlwaysOn",
+    "slug": "alwayson-v38oc",
+    "description": "Livestream application build on Livepeer, deliverable in frames",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoinTopper",
+    "slug": "cointopper-4varo",
+    "description": "CoinTopper is a SocialFi platform on Farcaster for crypto enthusiasts to engage in Q&A, bet on trends with its prediction frame, and connect via XMTP and Livepeer messaging or video, aiming to be the go-to crypto hub.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "TICTAC",
+    "slug": "tictac-qgqj5",
+    "description": "With its seamless integration of cutting-edge technology and sleek design, the Farcaster frame redefines the boundaries of possibility, empowering users to embark on journeys limited only by the confines of their imagination.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "FarcaFame",
+    "slug": "farcafame-ersp2",
+    "description": "FarcaFrame -- Crypto-Backed Social Media Influencer Platform",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Drifting Bottle",
+    "slug": "drifting-bottle-154b0",
+    "description": "Drifting Bottle 🌊 🍾 📜 is a Frames social game that boosts engagement by encouraging creativity and curiosity. Users can send or find anonymous bottles that contain a sealed message, reveal its secret and connect with its author.",
+    "event": "Frameworks",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "zerib",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Pond's Neural Nets",
+    "slug": "ponds-neural-nets-6qk5s",
+    "description": "Pond is developing a large AI model that utilizes on-chain data. This model serves as your alpha co-pilot and will be showcased within the Farcaster Frame interface.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SKIFFLE",
+    "slug": "skiffle-1s8kw",
+    "description": "SKIFFLE – SvelteKit Image-based Farcaster Frames Layout Engine",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Base Frame",
+    "slug": "base-frame-ti3hp",
+    "description": "A tool to create, buy and sell your products onchain using frames.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CastConnect",
+    "slug": "castconnect-yybv1",
+    "description": "CastConnect: Your personalized social hub for posting threads, sharing frames, and connecting deeply with close friends. Like, repost, and engage with tailored content in a tightly-knit community.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hand-cricket",
+    "slug": "hand-cricket-uq5vo",
+    "description": "A simple hand cricket game on frames, where users can score 1,2,4,6 runs by frame buttons and there will be computer who plays as opponents, and this game is fun to play.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "F-A-R-M-S",
+    "slug": "f-a-r-m-s-98163",
+    "description": "Frames Autonomous Recommendation Management Service (FARMS). Leverage AI to create and deploy frames, and also Personalize your farcaster(warpcast) feeds",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Framescan",
+    "slug": "framescan-4fnap",
+    "description": "Explore the universe of Farcaster frames with Framescan: a sleek explorer that brings the world of decentralized social networking to your fingertips!",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4v3qj"
+    ]
+  },
+  {
+    "name": "FrameQuest",
+    "slug": "framequest-faxhy",
+    "description": "FrameQuest is an interactive Frames based text adventure game where you can choose any genre of adventure to go on and do anything you want!",
+    "event": "Frameworks",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "StampCraft",
+    "slug": "stampcraft-izphw",
+    "description": "Transforming online chats with StampCraft: Create & share LINE-style stamps globally via Warpcast. Powered by OpenAI, our app makes digital expressions fun and accessible. Join us to make every message unique! #StampCraft #DigitalStamps #OpenAI #Warpcast",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BorrowerRanker",
+    "slug": "borrowerranker-oxvr3",
+    "description": "Linking DeFi loan repayments to social credit through blockchain analytics",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4v3qj"
+    ]
+  },
+  {
+    "name": "Woodwork",
+    "slug": "woodwork-u04zf",
+    "description": "A football trivia & fantasy frame on Farcaster",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Funding the Future",
+    "slug": "funding-the-future-7jgrb",
+    "description": "Discover and fund the next big thing. From open source projects to indie apps, support the work of builders and creators around the world.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Buy Nothing Frame",
+    "slug": "buy-nothing-frame-c7706",
+    "description": "A platform designed to facilitate community connections through gifting and sharing on Warpcast.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Farframe",
+    "slug": "farframe-y0qdx",
+    "description": "An open-source marketing toolkit to generate engagement on Farcaster for web3 projects using frames.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FrameJam",
+    "slug": "framejam-bfq4a",
+    "description": "FrameJam is a frame app that uses ranked indexes of Farcast users to find trending individuals connected to you and globally.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Meme Racing",
+    "slug": "meme-racing-bby6x",
+    "description": "Meme Racing: An Entertaining Frame for Coin Racing and Betting. Experience the thrill of coin racing and betting in a whole new entertaining frame of Meme Racing.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Looker",
+    "slug": "looker-v0g4z",
+    "description": "A website to check wallets balance of asked token. As a source of data it uses an etherscan",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "CONTENT MONETIZER",
+    "slug": "content-monetizer-8i03m",
+    "description": "Content Monetization Platform: I have developed a  decentralized platform for creators to monetize their content directly through microtransactions, subscriptions, or non-fungible tokens (NFTs), while retaining greater control and ownership of their intellectual property.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Share Frames",
+    "slug": "share-frames-344w6",
+    "description": "Share Frames is a marketing tool for projects and content creators that want to scale in a Web3 world. Share Frames allow creators to collaborate with Web3 social media users in a win-win incentive program.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CalCast",
+    "slug": "calcast-7g042",
+    "description": "Create and Book calls with reputation gating in Farcaster using Frames",
+    "event": "Frameworks",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "h5ps8",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Rolled-Dice",
+    "slug": "rolled-dice-jong0",
+    "description": "If you are tired of doom scrolling then this frame game will help you win some buck.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EcoWarp",
+    "slug": "ecowarp-zftuu",
+    "description": "We crafted a unique marketplace for farcaster frames, where sellers list products & create ERC1155 NFTs, and buyers receive personalized recommendations using ML. We leverage Pinata for IPFS & casts, indexing with The Graph. Revenue comes from listing fees & sales commissions.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "FrameLicenser",
+    "slug": "framelicenser-ash2a",
+    "description": "FrameLicenser allows frame developers to claim ownership of their frames onchain, as well as monetizing the frames when other accounts seek to cast them themsevles",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GigaFrame",
+    "slug": "gigaframe-a1bh2",
+    "description": "A frame to sell things with 0 charge and sold items will be stored on ipfs",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Framecoin",
+    "slug": "framecoin-ed4ds",
+    "description": "Create and launch tokens within Farcaster Frames in less than a minute with no coding required.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quizer",
+    "slug": "quizer-9vttn",
+    "description": "Quizer is a platform that empowers users to effortlessly create quizzes for the farcaster ecosystem and engage their audience. With a seamless interface and robust encryption technology, Quizer ensures privacy and security while delivering interactive quiz experiences.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "puzzlemon",
+    "slug": "puzzlemon-vays1",
+    "description": "A fun, frame-based pokémon trivia knowledge game where players challenge each other in 3x3 grids.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "FrameHeroes",
+    "slug": "frameheroes-juydw",
+    "description": "FrameHeroes is the mini game built around Base. We intend this game to be enjoyable while connecting the meaningful, influencial and dedicated users via gamification. Users will have numerous opportunities to grow their heroes that synchronizes with actual social activities.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Movement",
+    "slug": "movement-7qqat",
+    "description": "Farcaster Frame for creating, signing, and donating to petitions",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "0xSurvivor",
+    "slug": "0xsurvivor-u3893",
+    "description": "an onchain round-based, elimination by voting, survivor game playable in a frame",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Frogue",
+    "slug": "frogue-wedu3",
+    "description": "Frogue is a fully onchain game RPG that can be played on the Farcaster frames",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Toka",
+    "slug": "toka-0j69e",
+    "description": "Onframe minting of Zora NFTs without leaving the Farcaster frame. Creators can opt-in to offer \"mint with $DEGEN\" for their NFTs.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SkyFrames",
+    "slug": "skyframes-0pr10",
+    "description": "SkyFrames picks up drone signals around the world and allows you to view and monitor your surroundings for flying drones in real-time. An incentivization system for active SkyFramers is coming!",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "frAAme",
+    "slug": "fraame-jt4jf",
+    "description": "frAAme is an innovative account abstraction wallet developed using Farcaster's latest framers. It offers a seamless way to manage your cryptocurrency assets, supporting a wide range of transactions and swap operations.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "Hyperion",
+    "slug": "hyperion-xxwei",
+    "description": "The Hyperion Team is fully committed to public goods. As we prepare for the Gitcoin Citizens round and GG20 we see tremendous potential to leverage Farcaster. Our project is building a Frames template that allows projects to ‘shill’ and get vonations (vote+donation).",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Framify",
+    "slug": "framify-vozf6",
+    "description": "Make commerce great for everyone. Everywhere. Especially onchain! Shopify + Farcaster = Framify",
+    "event": "Frameworks",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "5neyp",
+      "xrzks",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "SmartAds",
+    "slug": "smartads-4tnun",
+    "description": "The project utilizes ad revenue to waive transaction fees. The end user processing the transaction can choose to enable ads, and if ads are enabled, relevant ads will be shown to the end user during the transaction confirmation on chain, which they can claim every month.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Magic Frames",
+    "slug": "magic-frames-wc1i8",
+    "description": "A Frame wizard for building your own Frames.  Allowing you to build frames to engage your community with on-chain transactions without ever coding or even leaving Warpcast.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "OCVC*",
+    "slug": "ocvc-cdem3",
+    "description": "onchain vibe check*  + diy vibe generator + vibes in a frame +  verifiable supplementary cv material; cv + ocvc = 👍",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Soundcaster",
+    "slug": "soundcaster-mhzg6",
+    "description": "Soundcaster is an audio focused farcaster client that streams onchain music. Login with Spotify to participate in Listen to Earn.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "chuckle charms",
+    "slug": "chuckle-charms-mz0v7",
+    "description": "Dive into \"Cosmic Chuckles Arcade,\" where classic arcade excitement meets blockchain innovation. Navigate a universe filled with cosmic humor, tackle growing challenges, and earn Ethereum rewards. A blend of nostalgia and modern tech awaits in this metaphysical adventure.",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Framed Chess",
+    "slug": "framed-chess-j27mi",
+    "description": "Single player tiktaktoe wagers using base, onchainkit, transaction frames, custom contract",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fardrops",
+    "slug": "fardrops-00qjx",
+    "description": "Fardrops gives creators easy to use tools that enable them to curate rewards and airdrop them to their biggest fans",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WoS Phrame",
+    "slug": "wos-phrame-0n7hz",
+    "description": "Cover Exchange onramp combining users' SHIBA INU volatility rate estimates into cover premiums.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spinamp Play",
+    "slug": "spinamp-play-tjsjb",
+    "description": "We built a frame that lets you discover, play and collect music while scrolling, without ever leaving Warpcast! Works for almost every music NFT across Base, Optimism and Zora. (Play feature is iOS only for now)",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "votecaster mega",
+    "slug": "votecaster-mega-81mbb",
+    "description": "bringing native web3 voting on web3 social. what could go wrong?",
+    "event": "Frameworks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Fremes.wtf",
+    "slug": "fremes-wtf-xyt2a",
+    "description": "Freemes.wtf is the Farcaster Lore Launchpad; Buying into a Freme is like buying a friend.tech key",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meliora",
+    "slug": "meliora-5ucuw",
+    "description": "Meliora: A cosmic saga of guardians from planet Terren, battling the deceit of the Fudiverso to forge a new universe of harmony and progress.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Superchain ONFT",
+    "slug": "superchain-onft-8d42m",
+    "description": "Superchain ONFT Frame is a ONFT mint on Base and Zora chains on Farcaster. Powered by LayerZero and frames.js this frame enables an omnichain minting experience natively on Farcaster.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FrameBase",
+    "slug": "framebase-m5i84",
+    "description": "FrameBase is a revolutionary NFT marketplace on the Base Blockchain, offering minting, renting, selling, and showcasing of digital art and assets. It leverages IPFS, Chainlink, and Privy for smooth transactions, redefining NFT trade and interactions.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Yield-bearing Wallet",
+    "slug": "yield-bearing-wallet-e5oyi",
+    "description": "Interest-bearing wallet infrastructure. Enables Native Yield wherever smart accounts exist, including EVM, Cosmos, and Solana.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "FGE - Frame Engine",
+    "slug": "fge-frame-engine-c4ojs",
+    "description": "Create engaging Farcaster Frames with FGE developed by TOCD. It is a no-code tool leveraging Google Sheets for easy customization and sharing. Perfect for anyone looking to share creative content on Warpcast.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Standard Drop",
+    "slug": "standard-drop-b9qg5",
+    "description": "A marketing tool for dropping limited Membership NFTs on Warpcast",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FrameX",
+    "slug": "framex-u54ca",
+    "description": "Raise, manage, and fund absolutely anything from a Frame - onchain SPVs built for Syndicates, Venture DAOs and asset managers.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "RegenFrogs",
+    "slug": "regenfrogs-dqash",
+    "description": "Nurture a digital amphibian with your friends and contribute to rainforest conservation.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Git Showcase",
+    "slug": "git-showcase-apdgz",
+    "description": "A no code solution to quickly turn any public GitHub repository into an interactive frame, allowing creators to showcase the key features of their project with ease.",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aHand",
+    "slug": "ahand-k82ap",
+    "description": "A fully onchain gassles lightweight tool for person to find a solution to their problem via any social net by utilizing theory of n-degrees of separation and gamified incentive: raise a hand, shake it, give it and get rewarded",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EarnCast",
+    "slug": "earncast-gaoxk",
+    "description": "On-Frame Direct to consumer targeted marketing powered by Superfluid, Airstack and Pinata",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5neyp"
+    ]
+  },
+  {
+    "name": "Mint Club Frames",
+    "slug": "mint-club-frames-wr3p3",
+    "description": "Create ERC20/1155 Tokens with Automated Liquidity in Frame Transactions",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alea: The Dice Games",
+    "slug": "alea-the-dice-games-8p8y3",
+    "description": "Alea is a headless social betting app built on Warpcast where players can wager ‘dice’ on sporting events and compete for prizes against other users. The game is free-to-play but dice are finite and once you run out, the game is over.",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "FrameGPT",
+    "slug": "framegpt-0gxad",
+    "description": "⚡ Build frames in seconds. FrameGPT is a no-code frame builder that lets you build frames through prompts -- make highly-customizable photo galleries, mints, games, checkouts, & more!",
+    "event": "Frameworks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mint-A-Frame",
+    "slug": "mint-a-frame-qnb7x",
+    "description": "Wowow, mint banger casts & reward authors on-chain using our transaction frame!",
+    "event": "Frameworks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  }
+]

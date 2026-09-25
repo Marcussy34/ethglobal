@@ -1,0 +1,2049 @@
+[
+  {
+    "name": "POAP.gg",
+    "slug": "poap-gg-0t8x1",
+    "description": "POAP.gg is creating exclusive fan experiences through limited edition NFTs by your favorite streamers",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8i5pu"
+    ]
+  },
+  {
+    "name": "Gamerspro.io",
+    "slug": "gamerspro-io-njdpi",
+    "description": "We are creating the #1 NFT Marketplace for Gamers and Esports League",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FIN - Financially Intelligent NFTs",
+    "slug": "fin-financially-intelligent-nfts-xerrk",
+    "description": "\"Eventual\" swaps for ERC-20s using the power of custom NFTs.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "2zqzn",
+      "yrwii",
+      "026zc"
+    ]
+  },
+  {
+    "name": "WorkCD",
+    "slug": "workcd-1q04c",
+    "description": "Smart contracts for smart contractors. Making sure contractors get paid.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "rBLKc (Random Black Card)",
+    "slug": "rblkc-random-black-card-m7bp8",
+    "description": "rBLKc (Random Black Card) is an experiment in achieving fairness through randomised ownership using DeFi and NFTs.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Metadata Explorer",
+    "slug": "nft-metadata-explorer-y86u4",
+    "description": "I built an NFT Metadata Explorer Site Generator. Give me an address for a collection that's been revealed and I'll deploy a custom metadata explorer for your project in the time it takes to do an EthGlobal live demo.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Dapp Members",
+    "slug": "dapp-members-tqtku",
+    "description": "A decentralized application acting as a composable lego brick for on-chain community membership management.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Fae WorkSpace",
+    "slug": "fae-workspace-jm0u0",
+    "description": "Discover new tokens, NFTs, news, games, and even new blockchains on Fae Workspace. With social interactions, statistics, a built in portfolio manager, music player, gaming hub, and even a messenger, you'll be on top of the world of crypto in just a matter of time.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "mdb6w",
+      "j5u2x"
+    ]
+  },
+  {
+    "name": "Sticker Shock",
+    "slug": "sticker-shock-c9ban",
+    "description": "A tool for hopping between addresses to view the fiat cost of transacations and related gas fees",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Essential Eth",
+    "slug": "essential-eth-e8tsm",
+    "description": "Replacing ethers.js and web3.js with code 25x smaller. Web3 must be faster for the whole world to use it!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nft Bridge",
+    "slug": "nft-bridge-tk299",
+    "description": "The direct smartcontract-to-smartcontract NFT Bridge Using Decentralized Oracles.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Lisky",
+    "slug": "lisky-decentralized-live-streaming-aey30",
+    "description": "Decentralized live-streaming with live chat. Powered by Livepeer and Skynet.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "EthBlockArt Fee Splitting",
+    "slug": "ethblockart-fee-splitting-9ifyc",
+    "description": "A Humble Bundle-style fee splitting mechanism for EthBlockArt to let users decide how proceeds from minting are allocated (between the platform, artists and charity)",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s3s6e"
+    ]
+  },
+  {
+    "name": "ESG Food Stars",
+    "slug": "esg-food-stars-jk0bk",
+    "description": "Solves the problem to reframe The Michelin Guide by including ESG criteria to assess value, managed by blockchain technology.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Carnival",
+    "slug": "carnival-sndg8",
+    "description": "A decentralized movie streaming platform  with fractional ownership feature and much more",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "f8ku2",
+      "f5vjp"
+    ]
+  },
+  {
+    "name": "NFToodle",
+    "slug": "nftoodle-r5ahx",
+    "description": "Doodle/scribble together, have fun and sell your collaborative doodle/scribble as NFT",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Sharedtools.org",
+    "slug": "sharedtools-org-ek131",
+    "description": "SharedTools.org - Powertools for protocol creators, UI based launcher for NFT, vote-escrow, mining, stableswap",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vdiyd"
+    ]
+  },
+  {
+    "name": "Chris Buren",
+    "slug": "chris-buren-qkwea",
+    "description": "Practice on creating objects that could become NFTs with certain traits.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pinyottas",
+    "slug": "pinyottas-y98na",
+    "description": "Pinyottas are generative art NFTs loaded up with ERC-20 tokens",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0tx58",
+      "j5u2x"
+    ]
+  },
+  {
+    "name": "Nifty Pixels",
+    "slug": "nifty-pixels-w8ru4",
+    "description": "Nifty Pixels is an NFT marketplace where you can create, buy, and sell pixel art NFTs",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Guilds of Gods Battles",
+    "slug": "guilds-of-gods-battles-uhwnx",
+    "description": "A trading, battle & savings card card. NFT cards backed by Defi savings.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "oiv32"
+    ]
+  },
+  {
+    "name": "FancyBee NFT",
+    "slug": "fancybee-nft-2gek7",
+    "description": "FancyBee is a charity-focused customizable NFT meant to fight climate change and show how bees can save the world.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Waifu Hunters",
+    "slug": "waifu-hunters-x6g9z",
+    "description": "Improving the user experience of the Uniswap platform for first-time-ever users.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dynamic NFT",
+    "slug": "dynamic-nft-fbpwo",
+    "description": "NFTs are good and they can exchange the property of an underlying asset, but what if they can become dynamic? What if every NFT could have a story to tell? A concept for future development of digital ownership! Every object has a story, more than ever in the digital metaverse!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "credspot",
+    "slug": "credspot-sv5oe",
+    "description": "It is to SourceCred what GitHub is to git. CredSpot allows people to pay for public goods and directly reward everyone who participated in the making.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s91kj",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "WAGMI",
+    "slug": "wagmi-w8mc2",
+    "description": "WAGMI.ai is an all-in-one NFT analytics tool, for everyone. Tracks new mints, trending projects, and statistics for every Ethereum-based NFT.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Andsub",
+    "slug": "andsub-t19gh",
+    "description": "On-chain subscriptions as NFTs paid in ERC20 tokens",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "GPT-Loot",
+    "slug": "gpt-loot-k9ixf",
+    "description": "GPT-Loot is an On Chain AI Loot Generation Platform. Generate loot from any theme - prehistoric to cyberpunk. With your loot you can deploy NFTs, share your loot with others and earn fees when you users mint your loot.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "ALLY",
+    "slug": "ally-gm00f",
+    "description": "An All-Inclusive Competitive League Match Based Investment Portal",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Lucy Goosey",
+    "slug": "lucy-goosey-7511i",
+    "description": "Goose Hunt Game with Generative GooseCoin NFTs ($GOO): Replacing Humans as the dominant species on the planet",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SocksOff",
+    "slug": "socksoff-ti2rm",
+    "description": "An AI-Generative NFT project that will knock your socks off. The AI is tuned to produce psychedelic art based on token parameters determined at mint.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "VideoFlowOnline",
+    "slug": "videoflowonline-6d63h",
+    "description": "We would like to provide you a platform for people to view live videos online and pay tokens in real-time.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Send Unicorn NFTs",
+    "slug": "🦄-send-unicorn-nfts-hw3xz",
+    "description": "Send Unicorns NFT app allows anyone in the world to start minting an NFT token and share with their friends!  Just with a click of a button, an unicorn NFT is born!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Paperfax",
+    "slug": "paperfax-nvivq",
+    "description": "Paperfax was created to solve the inefficiency problem of peer review system of academic journals. We allow people to openly and transparently give non-gating audits to whatever research is in the most need of vetting.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x6m3m",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Wen Passive Income? NFT Protocol",
+    "slug": "wen-passive-income-nft-protocol-xuwkz",
+    "description": "WenPassiveIncome (WPI) NFT protocol adds passive income flows to an existing NFT collection through staking, lending, and earning interest",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "j5u2x"
+    ]
+  },
+  {
+    "name": "Degen Dogs",
+    "slug": "degen-dogs-s0v4f",
+    "description": "An NFT series that invests in DeFI and streams money to owners. DeFi meets NFTs.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 8,
+    "prizeBadgeOrgIds": [
+      "f2so0",
+      "f7o0p",
+      "f8ku2",
+      "x59d1",
+      "2zqzn",
+      "j5u2x",
+      "xdat5",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Dynamic NFT Art",
+    "slug": "tobias-canavesi-x7sk2",
+    "description": "Create a dynamic nft where art and mathematics play an important role and that it is updated by the different transactions we make with our wallets.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arbr",
+    "slug": "arbr-qy8ze",
+    "description": "terraform API totems for 1/1 Earth. have your computer. use the door.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Raftel",
+    "slug": "raftel-x0knz",
+    "description": "We are building a simple crypto payroll management solution for first time founders who raised money through crypto",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HelpMeDev",
+    "slug": "helpmedev-vacd3",
+    "description": "Think of all the side projects you have worked on and maybe put it to the side or never finished because of a technical snag or a frustrating bug. HelpMeDev is a global & decentralized ecosystem where developers can help developers finish their side projects and side hustles.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Sugar Borrow",
+    "slug": "sugar-borrow-avt2q",
+    "description": "A set of contracts and Hardhat scripts for giving/receiving credit delegations",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Inchi",
+    "slug": "inchi-xozjn",
+    "description": "A set of tools for Aave users based on 1inch limit order protocol",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "LoyFin",
+    "slug": "loyfin-0b97r",
+    "description": "Companies provide loyalty tokens to the customer as their strategic investment. Only 40% get benefitted. Mainly due to the low redemption rate & Non-uniformity of tokens. LoyFin solves both.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FluidVideo",
+    "slug": "fluidvideo-buzqr",
+    "description": "A patreon decentralized streaming platform where streamers receive tips and funds through a money stream",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "passbird",
+    "slug": "passbird-z9733",
+    "description": "Passbird is a metamask fork that lets users sign into dApps using a magic link.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NAMDAE Car Market",
+    "slug": "namdae-car-market-ncm-7jjhx",
+    "description": "Marketplace for  Car Buyers and Seller Escrow  Polygon MATIC scaling of Ethereum",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proxy Poster",
+    "slug": "proxy-poster-gyo9q",
+    "description": "A general purpose decentralized social network using Biconomy's gas relayer for free post submissions.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "vr4u8",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Eth-Connect",
+    "slug": "eth-connect-nvgh1",
+    "description": "A protocol for anyone with an Ethereum address/Wallet to publish contact info so others can reach out to them and establish contact in this complex blockchain world.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JokingOn",
+    "slug": "jokingon-dynamic-revenue-generating-nfts-k3rii",
+    "description": "A platform for which comedians can upload their content and create NFTs of their jokes",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Survey DAPP",
+    "slug": "survey-dapp-fiyj7",
+    "description": "This app is a decentralised and improvised version of Google Forms.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "NFT Tools",
+    "slug": "nft-tools-450un",
+    "description": "NFT Tools consists of various NFT related tools for experimentation and learning.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Simple NFT",
+    "slug": "simple-nft-3rp11",
+    "description": "Easily build NFT collections, for community leaders and builders",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Evolve NFT",
+    "slug": "shreyas-papinwar-120ui",
+    "description": "A NFT based game where each owned NFT gets evolved and has some powers.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Private Lossless Prediction Market",
+    "slug": "private-lossless-prediction-market-q4az3",
+    "description": "Predict outcomes, win interest on pooled funds - combining money legos",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "j5u2x"
+    ]
+  },
+  {
+    "name": "Cuperfluid",
+    "slug": "cuperfluid-hgzqy",
+    "description": "A customised version of the superfluid protocol using a checkpointing mechanism",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "f8ku2",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Storage Retrieval Payment App",
+    "slug": "storage-retrieval-payment-app-rv1so",
+    "description": "Payment app to retrieve audio or video files from IPFS/Filecoin",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Accomplishment Generator",
+    "slug": "resa-aqrobby-t7h7x",
+    "description": "Proof of Accomplishment Generator, for education & task related stuff",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Gameland",
+    "slug": "gameland-03zmu",
+    "description": "Gameland is a  blockchain game rental platform, building open scholarship community",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spect",
+    "slug": "spect-4q4yz",
+    "description": "Spect is a decentralized gig economy that requires minimal trust between a client and a freelancer.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockTimeFi",
+    "slug": "blocktimefi-dsxc9",
+    "description": "Tokenize your time via social token embedded with bonding curve. Every time is unique in itself and turned into NFT",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Call Meta",
+    "slug": "call-meta-xv17s",
+    "description": "Create detailed metadata about pair programming sessions and calls as an input to SourceCred, to track progress, and as a source of truth for skills attestations.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liquidity",
+    "slug": "liquidity-7na5w",
+    "description": "we will implement a model that automatically determines the price by fractionalizing NFT and linking it to Uniswap's liquidity.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Rightoken",
+    "slug": "rightoken-r1gts",
+    "description": "Rightoken is giving the music industry to artists by building a stock market for artists and allowing them to manage this platform collectively",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Mix and Match NFT",
+    "slug": "mix-and-match-nft-qfig0",
+    "description": "Mix and Match lets you wrap multiple ERC-721 tokens in a single NFT.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StreamRoll",
+    "slug": "streamroll-c4px0",
+    "description": "We're a payroll management solution. We help DAOs pay their employees through superfluid streams that build trust. And we help them borrow streams to pay their employees with less interest than borrowing a lump sum of money.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Hapi Finance",
+    "slug": "hapi-finance-cubez",
+    "description": "Ethereum estate management and inheritance using smart contracts",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BeeHive",
+    "slug": "beehive-uozhh",
+    "description": "BeeHive is a community based on self-ownership, incentives and game theory to reward for public good.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "f8ku2",
+      "x59d1",
+      "j5u2x"
+    ]
+  },
+  {
+    "name": "MultiCryptoBOT",
+    "slug": "multicryptobot-32bdy",
+    "description": "Discord MultiCrypto Bot  - An experimental integration  of ETH APIs",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Blockhead: The Window to the Web3 Metaverse",
+    "slug": "blockhead-the-window-to-the-web3-metaverse-d0xr6",
+    "description": "Blockhead is a user-friendly Web 3.0 browser/metaverse explorer for Ethereum, Polygon, DeFi, NFTs, dApps, DAOs, decentralized identities and everything in between! Pick data providers, browse transactions/metadata, and curate your corner of the metaverse - all from one interface!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "vr4u8",
+      "j5u2x",
+      "vdiyd",
+      "5dgqn",
+      "vr4u8",
+      "gs0z1"
+    ]
+  },
+  {
+    "name": "360 NFT",
+    "slug": "360-nft-83ui8",
+    "description": "Video NFT with Livepeer. This project aims to create an NFT out of a livestream.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SomethingVentured",
+    "slug": "somethingventured-tr1uq",
+    "description": "Crowdfunding / IDO platform incorporating Defi, NFTs and Governance",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Metaworth",
+    "slug": "metaworth-bow5m",
+    "description": "A no-code platform for meta creators to batch minting and tracking their NFT assets, and launch social tokens all-in-one place.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "ke9sy",
+      "vr4u8",
+      "2zqzn",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Variety.Finance",
+    "slug": "variety-finance-by-team-god-save-the-lps-hukf2",
+    "description": "Introducing Variety.Finance! We defend the interest of  Liquidity Providers (LPs) by developing LP Protection features for UniswapV2-like protocols and channeling savings into a treasury fund for LPs. In this way LPs benefit from the long term to offset impermanent loss.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "xdat5",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Delgado",
+    "slug": "delgado-ff96a",
+    "description": "Delgado is a the place you go to find DeFi deals and execute them well",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "j5u2x"
+    ]
+  },
+  {
+    "name": "Margin Trading System",
+    "slug": "shrey-paharia-rdpuv",
+    "description": "An easy way for traders and liquidity providers to take leverage.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Community Garden",
+    "slug": "community-garden-zugai",
+    "description": "Community garden is a social dApp build from the community to everyone who loves parks, flowers, and plants.  Community garden is an NFT platform where creators and makers can sell NFTs, set up a profile, and receive tips from the community.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "vr4u8",
+      "2zqzn",
+      "eov0f",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Tevil",
+    "slug": "tevil-uawae",
+    "description": "Tevill is a DEX with NFT rewards for successful transactions",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Upside Competitions",
+    "slug": "upside-competitions-nmq1n",
+    "description": "#upsidecomp is a launchpad that provides brands the opportunity to monetise the launch of their NFT product through no-loss giveaways",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DBeats - Decentralised Creators Community",
+    "slug": "dbeats-decentralised-creators-community-9isio",
+    "description": "DBeats - Decentralised Video, Music Streaming & NFTs Marketplace",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Balancer Chat",
+    "slug": "balancer-chat-f3uwv",
+    "description": "Join a chat group about a pool on Balancer V2, share NFT assets, and have fun",
+    "event": "ETHOnline 2021",
+    "prizeCount": 9,
+    "prizeBadgeOrgIds": [
+      "jcyjn",
+      "i90pd",
+      "f7o0p",
+      "pfyco",
+      "vr4u8",
+      "mdb6w",
+      "2zqzn",
+      "9ysqe",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Upgradable Universal NFT",
+    "slug": "andrii-skrypchenko-v9zjz",
+    "description": "Upgradable Universal NFT  that serves for creating the economy and hierarchy for the games within the metaverse",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EMI - Eth Market Index",
+    "slug": "emi-eth-market-index-w0g54",
+    "description": "EMI is the first true whole market index built on Ethereum. It is as a passive investment instrument for lazy investors and a benchmark for traders and analysts to beat.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Myso",
+    "slug": "myso-x1uij",
+    "description": "Zero-Liquidation Loans: building DeFi's first loan option that spares borrowers from liquidations!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0tx58",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "NFTBulls",
+    "slug": "nftbulls-eti7f",
+    "description": "Enabling reliable and risk free renting of NFTs immune to high volatility",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "24ige"
+    ]
+  },
+  {
+    "name": "HeroicLoot",
+    "slug": "heroicloot-0c6zf",
+    "description": "HeroicLoot is a top-down 3D rpg game, leveraging Loot NFT's as free starting characters.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT on Demand",
+    "slug": "nft-on-demand-ivpb3",
+    "description": "NFT on Demand is a marketplace that connects users witht their favorite NFT artist, paying for the content you, as a user, want to have. NFT on Demand provides tools to help NFT artist to stay close to their top tier fans.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Personalised NFTs",
+    "slug": "personalised-nfts-209en",
+    "description": "This project aim to generate NFTs based on user's personality:)",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Layer 2 Alpha Strategy",
+    "slug": "layer-2-alpha-strategy-y4b5x",
+    "description": "We develop a staking arbitrage cross-layer (layer 2) alpha strategy showcasing the need for and use of seamless cross-layer bridging and liquidity transfers",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phantasm Finance",
+    "slug": "phantasm-finance-oxjki",
+    "description": "Phantasm Finance allows leveraged long and short positions that are insulated against spikes in lending APR through 88mph's Yield Tokens",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jkorc"
+    ]
+  },
+  {
+    "name": "Rainbow",
+    "slug": "rainbow-9ynd0",
+    "description": "Rainbow is a dashboard for Decentralized Finance Options trading.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "8un5e"
+    ]
+  },
+  {
+    "name": "99bottles.nft",
+    "slug": "99bottles-nft-o2pp6",
+    "description": "99 Bottles is an NFT experiment in collaborative artwork and digital scarcity.  Combining cross-chain capability and interactive .SVGs for a unique NFT experience.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LinkENS",
+    "slug": "linkens-wxksb",
+    "description": "A dapp for creators to deploy their own link aggregator website, backed by ENS.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Decentralized Learn & Earn",
+    "slug": "decentralized-learn-earn-ibx7t",
+    "description": "Only decentralized, permissionless application on the Ethereum network to broadcast educational information about any token and get people incentivized while learning about it.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "f8ku2",
+      "j5u2x"
+    ]
+  },
+  {
+    "name": "InstaNFT",
+    "slug": "instanft-t4b5z",
+    "description": "Multichain NFT social network based around curation and likes.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Moka",
+    "slug": "moka-hqt6a",
+    "description": "Social media game where users earn tokens by sharing quality content!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Orange Wallet",
+    "slug": "orange-wallet-3ew64",
+    "description": "Our mission is to give access to faster cross-chain DeFi and a seemless NFT experience on mobile.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Soundly",
+    "slug": "soundly-kiuce",
+    "description": "Streaming platform that pays in real time and stream analytics",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "CryptoPerks",
+    "slug": "cryptoperks-440em",
+    "description": "Crypto rewards and achievements for your employees using interest-bearing crypto accounts.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "0tx58",
+      "vr4u8",
+      "5dgqn",
+      "2zqzn",
+      "s0vuq",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "just some geeks",
+    "slug": "just-some-geeks-ncjzx",
+    "description": "Bridging Enzyme and Balancer Protocols with Panache!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "mwuyw",
+      "f8ku2",
+      "9ysqe"
+    ]
+  },
+  {
+    "name": "Gear Terminal",
+    "slug": "gear-terminal-v306h",
+    "description": "Send and receive terminal transmissions between GΞAR NFTs. Communicate with other GΞAR NFTs, share secrets, clues",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DDiary",
+    "slug": "ddiary-mz63z",
+    "description": "Want to save notes to your transactions and keep them safe? Use DDiary, the decentralised diary!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAO Treasury Management through Discord",
+    "slug": "dao-treasury-management-through-discord-k9km0",
+    "description": "A Serverless Discord bot for DAO treasury management. The funds are managed using Enzyme's infrastructure.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mwuyw"
+    ]
+  },
+  {
+    "name": "VaYam",
+    "slug": "vayam-mmneu",
+    "description": "A platform for offerring services like web development, or patreon like funding, featuring monthly streaming payments.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Unit",
+    "slug": "unit-bam64",
+    "description": "unit is a new Open Source General Purpose Visual Programming Language, ideal for programming comprehensive Smart Contracts that are easy to build and deploy on Ethereum, directly from the Web.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Gallery 3D",
+    "slug": "nft-gallery-3d-ityo2",
+    "description": "I built an interactive NFT gallery where users can walk around in a 3D world and hang their NFTs up on the walls.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "NFT Platform",
+    "slug": "nft-platform-outs6",
+    "description": "NFT creation, visualization, purchasing, and sharing platform.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FloorWars",
+    "slug": "floorwars-mtyoe",
+    "description": "FloorWars Synthetics - USD vs CryptoPunks Decile Floor Covered Call Options",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Vialend",
+    "slug": "vialend-w9tmq",
+    "description": "A Uniswap V3 automated liquidity management tool that uses a unique vault design combining lending and V3 pools.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "j5u2x",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Block Monsters",
+    "slug": "block-monsters-16hpw",
+    "description": "An NFT card game where all cards are designed by the players and cards change based on player skill",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fluid Miners",
+    "slug": "fluid-miners-0m6nt",
+    "description": "A Superfluid gamified coin offering, bonus distribution, using DAI as energy resource.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Skynet Converter",
+    "slug": "skynet-converter-33vor",
+    "description": "Convert your files easily  from Image To PDF, JPG To PNG etc...",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "MusicShares",
+    "slug": "musicshares-5icsp",
+    "description": "A decentralized platform to create, collab, commission, buy and sell NFT music for the new era",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yrwii"
+    ]
+  },
+  {
+    "name": "SuperGUM",
+    "slug": "supergum-ms6g7",
+    "description": "A censorship-resistant subscription-based content sharing platform",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Project Broke",
+    "slug": "pay-for-nfts-while-you-re-broke-ndos1",
+    "description": "Project Broke is built on top of Superfluid to allow people to buy stuff, for example NFTs, using streams. Effectively allowing the user to pay off the token over a set amount of time instead of paying everything upfront",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Buildship.js",
+    "slug": "buildship-js-u75az",
+    "description": "No-code builder for NFT collections. We make deploy 10x cheaper",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stream Platform",
+    "slug": "stream-platform-1p2z2",
+    "description": "Dollar Cost Averaging: - Users stream DAI into a pooling contract (Superfluid’s constant flow agreement contract) - At periodic intervals, the pooled/accumulated DAI is used to buy ETH - The bought ETH is been distributed back to the users according to their shares .",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "uLoan",
+    "slug": "uloan-h4o3w",
+    "description": "ULoan is an uncollateralized marketplace where lenders provide funds to borrowers, risk is mitigated by a credit score system.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "deChess",
+    "slug": "dechess-svdra",
+    "description": "A decentralized platform to play and watch games of chess through secure peer-to-peer channels, featuring collectible and tradeable NFT pieces to show off when you play.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Streaming Collateral",
+    "slug": "streaming-collateral-ygkgj",
+    "description": "A Dapp providing loans using advanced collateral types such as a Salary NFT. The NFT acts as an anchor for streaming tokens and can be used to secure a loan.  After receiving the NFT the loan contract sends the principal to the borrower and manages the streams until settlement.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "x59d1",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Just Mint",
+    "slug": "just-mint-tjhr2",
+    "description": "A batch based system to mint and distribute NFTs powered by ChainLink VRF.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Ethrtainment Live",
+    "slug": "ethrtainment-live-8qn90",
+    "description": "A decentralized platform to view live streams by purchasing a NFT",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Greeting NFT Airdrop",
+    "slug": "greeting-nft-airdrop-htxfh",
+    "description": "A dapp where users can send a NFT of Greeting Card to someone via email",
+    "event": "ETHOnline 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "vr4u8",
+      "2zqzn",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Blockhook",
+    "slug": "blockhook-z00co",
+    "description": "Block Hook is a mircoservice to trigger custom webhooks based on onchain contract events!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "2zqzn",
+      "xdat5",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Splice",
+    "slug": "splice-dzc68",
+    "description": "A generative art project that renders deterministic, validated header images for existing NFTs",
+    "event": "ETHOnline 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "f8ku2",
+      "xdat5",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "BuyOnChain",
+    "slug": "buyonchain-8u3pc",
+    "description": "BuyOnChain is a decentralised marketplace that permits people to buy and sell real-world products. It will use an escrow system and oracles to prevent frauds. Unique ERC1155 NFTs which everyone can own to give ratings and reviews about products and services.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT.gifts",
+    "slug": "nft-gifts-5fkiu",
+    "description": "An easy way to get NFT as a gift (even if you have not wallet)",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof Of Experience (P.O.E.)",
+    "slug": "proof-of-experience-p-o-e--4k4zw",
+    "description": "Proof of Experience solves the problem  of authenticating and verifying real experiences. POE is a Dapp for demonstrating the practical application of non-fungible tokens in verifying educational credentials.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TradeWave",
+    "slug": "tradewave-j14n6",
+    "description": "We are building a smart contract escrow to facilitate B2B trade payments.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AfricaNFT",
+    "slug": "africanft-2qem0",
+    "description": "Africa Focus NFT Marketplace. A platform to showcase African arts and artists",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOrectory",
+    "slug": "daorectory-2h941",
+    "description": "We are building a directory of DAOs that will issue decentralized identities to DAOs and their members, allowing the members to build up a resume of verifiable claims of their contributions.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Boutique",
+    "slug": "boutique-mwvbs",
+    "description": "UpHop is a BAAS (Blockchain As A Service) platform for online food ordering.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Samudai",
+    "slug": "samudai-910yc",
+    "description": "Samudai – Token Community Management (for Discord). Analyse, Manage and Reward your Community Members by leveraging blockchain.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atlantis",
+    "slug": "atlantis-z45g8",
+    "description": "An un-opinionated modular DAO framework geared towards cascading sub-DAOs and cross-DAO composability.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Orange",
+    "slug": "orange-v4nog",
+    "description": "Run your application on the decentralised cloud, or provide your idle compute power to create a massive pool of endless compute.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "7z88g",
+      "x59d1",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Chess Wager",
+    "slug": "chess-wager-ppmnr",
+    "description": "Chess, but like with a non-binary, continuous, distributive outcome.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Stream-a-buy",
+    "slug": "stream-a-buy-fdi88",
+    "description": "Stream-a-buy is a protocol for selling/buying products using token streams.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "jcyjn",
+      "ke9sy",
+      "mdb6w",
+      "f8ku2",
+      "x59d1",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Battle Knights",
+    "slug": "battle-knights-s0yu6",
+    "description": "A crypto-native auto battler game that lives entirely on the blockchain - from knight creation to tournament simulation. Using Chainlink VRF to provide verifiable randomness to the blockchain we can ensure fairness for all.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "WeInvest DAO Cross-chain Implementation",
+    "slug": "weinvest-dao-cross-chain-implementation-3pnpi",
+    "description": "WeInvest tokens now available on L2s and sidechains, with support for BSC and Polygon.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Citizen DAO",
+    "slug": "citizen-dao-eau4x",
+    "description": "Funding public benefits prospectively & retrospectively using Social Impact Bonds",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "j5u2x"
+    ]
+  },
+  {
+    "name": "3dETH",
+    "slug": "3deth-gfv7h",
+    "description": "3dETH is a decentralized marketplace offering 3d printing services via Ethereum and Smart Contracts",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LCSA",
+    "slug": "lcsa-gattn",
+    "description": "A desktop app for displaying and interacting with your generative art NFTs",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Huddle 01",
+    "slug": "huddle01-z022s",
+    "description": "We are building web3 agonstic video conferencing platform ensuring privacy and supporting creator economy.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "jcyjn",
+      "i90pd",
+      "ke9sy",
+      "mdb6w",
+      "f8ku2",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "P2P Betting",
+    "slug": "p2p-betting-t9ctn",
+    "description": "What if you could convert your bet into an NFT: like a Uniswap LP Token. Bob, converts his bet to an NFT on Footy Oracle.  Alice, with higher risk appetite can purchase the NFT associated with the bet.  Bob may have to sell his bet at a lower value than his original payment.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "yrwii"
+    ]
+  },
+  {
+    "name": "Disguisefy",
+    "slug": "disguisefy-7iapm",
+    "description": "Share your defi portfolio without revealing your address or your net worth",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Leverage",
+    "slug": "leverage-w5sx1",
+    "description": "On click margin trading built on existing DeFi infrastructure",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Zoduid - Zodiac Superfluid Enzyme",
+    "slug": "zoduid-zodiac-superfluid-enzyme-g7qua",
+    "description": "A module for Zodiac the Gnosis DAO extension that can be used in conjunction with enzyme vault and superfluid for distribution of funds.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "mwuyw"
+    ]
+  },
+  {
+    "name": "POPP",
+    "slug": "popp-w92wp",
+    "description": "POPP unifies rewards and loyalty programs on the Blockchain.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "mym1p"
+    ]
+  },
+  {
+    "name": "Bibimbeat",
+    "slug": "bibimbeat-5cgvn",
+    "description": "Bibimbeat is a NFT marketplace where anyone can mint, buy, sell and play music NFTs.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Neftify",
+    "slug": "neftify-pch5a",
+    "description": "Lend players your game NFTs and earn a share of their play-to-earn rewards",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atlantic",
+    "slug": "atlantic-bpv84",
+    "description": "A Message transmitter and protocol for performing Method calls cross-chain.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "MoNA (Museum of Nifty Art)",
+    "slug": "mona-museum-of-nifty-art-9760x",
+    "description": "NFT Social Media platform melding DeFi/Cryptoeconomics to quadratically rate NFTs",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "Shrine House",
+    "slug": "shrine-house-z68dp",
+    "description": "Shrine House is the first decentralized, community governed record label. We are a project utilizing the power of blockchain to disrupt the music industry. We seek to empower artists to create a post-pandemic art renaissance.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Heart Drops",
+    "slug": "heart-drops-mgum4",
+    "description": "Heart Drops is an NFT fractionalization platform that inspires a community to donate art, share art ownership, and raise funds for charities.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zero to Infinity",
+    "slug": "zero-to-infinity-c9mr4",
+    "description": "The user connects their wallet and chooses to mint the artwork for the next number up in a communal count from zero to infinity.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT SVG Designer",
+    "slug": "nft-svg-designer-hpqjm",
+    "description": "Tools for building interactive NFTs, including a deployed library and two smart contracts.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quaiota",
+    "slug": "quaiota-u31hx",
+    "description": "Decentralized non-fungible web3 profile where users can connect to apps and systems that enables everyone to build wealth on the internet.  Built on the Etheruem Blockchain.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Humble Farmer LightHouse",
+    "slug": "humble-farmer-lighthouse-fi7no",
+    "description": "Humble Farmer Lighthouse is a fun game to help learn about yield farming",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Innovatract",
+    "slug": "innovatract-o8eb6",
+    "description": "Allows users to bind contracts with themselves to get a task done on time without procrastination",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Future Prizes",
+    "slug": "future-prizes-u9wmq",
+    "description": "Hindsight is 20/20: Retroactive Funding Mechanism Using Pooled Prizes",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Osmotic Funding",
+    "slug": "osmotic-funding-kz5ra",
+    "description": "Protocol built on top of Superfluid Finance and Conviction Voting to create and regulate project funding streams based on the interest a community has in them. Community preference is revealed continuously, since tokenholders are able to change their stake at any moment.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t4tb4",
+      "x59d1",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Qros",
+    "slug": "qros-4o6e6",
+    "description": "Your save file  for the Queretaro City DAO gamified interactions.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kiez DAO",
+    "slug": "kiez-dao-7wssw",
+    "description": "A new form of DAO. Users can vote from a Discord server and trigger Gnosis Safe transactions.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dexter",
+    "slug": "dexter-rjthy",
+    "description": "Dexter is a DeFi dashboard that allows you to create, import and export dashboard layouts to share with your friends.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f2so0",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Mazury",
+    "slug": "mazury-vbt1h",
+    "description": "Freelancer platform allowing users to recommend & receive on chain referrals. The referrals are used to calculate a competency score, eg",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "doxx.network",
+    "slug": "doxx-network-f16j5",
+    "description": "Unlock protocol for your eth address details. Powered by Superfluid and Polygon. Live today at www.doxx.network.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Auction House",
+    "slug": "auction-house-jmnxw",
+    "description": "Community driven Auction House, where community decides which NFT would go for Live Auction and gets opportunity to earn rare NFTs available for limited period of time",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Deposit Together with Wido",
+    "slug": "deposit-together-with-wido-e474x",
+    "description": "Deposit Together with others on Wido to save up to 80% on gas fees! Starting with yearn.finance",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "zhkg5"
+    ]
+  },
+  {
+    "name": "OpenVessel - Health Insurance & DeFi Jubilant-Market",
+    "slug": "openvessel-health-insurance-defi-jubilant-market-pg616",
+    "description": "Leveraging Blockchain Technologies to cover any out-pocket medical cost.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PassPet - Verifiable and Private Pet Records for International Travel",
+    "slug": "passpet-verifiable-and-private-pet-records-for-international-travel-88g5z",
+    "description": "EU-compliant \"Pet Passport\" - stored privately on-chain, and verifiable by anyone, to make international travel easier!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Celestial",
+    "slug": "celestial-f38t2",
+    "description": "Celestial is a platform for deploying, buying, selling, and trading futures contracts. It is the only DAO-settled futures platform out there.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Silo Finance",
+    "slug": "silo-finance-11v1e",
+    "description": "Silo Finance aims to be the safest and easiest way to borrow and lend any crypto asset. With our unique deposit strategies, users get the highest interest rate on their ETH deposits adjusted for their risk tolerance.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "0tx58",
+      "f8ku2",
+      "xdat5",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Banner Studio NFT Minter",
+    "slug": "banner-studio-nft-minter-qeudq",
+    "description": "Design and generate a unique Twitter banner and mint it as an NFT",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tea Time",
+    "slug": "tea-time-iicym",
+    "description": "Fair-drop lossless NFT auctions on Layer 2. Randomized lottery system with lossless ticket costs alà pool together",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Li.Finance",
+    "slug": "li-finance-bridge-analytics-cam1z",
+    "description": "We analyse different bridges / cross-chain protocols to be able to compare them",
+    "event": "ETHOnline 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "pfyco",
+      "vr4u8",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Supaheroes",
+    "slug": "supaheroes-dgbe8",
+    "description": "Do crowdfunding without the middle-man through our protocol",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "2zqzn",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Neptune",
+    "slug": "neptune-k6qq2",
+    "description": "Neptune creates a financial layer on top of StackOverflow for protocols to incentivise its developer community to answer questions and help build its documentation.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ColorPixels",
+    "slug": "colorpixels-y1qbb",
+    "description": "Decentralized Live Streaming platform with NFT clips. This helps Streamers & Artists generate new revenue streams with NFT royalties.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "k3j5f",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Enepti Network",
+    "slug": "enepti-network-gb08e",
+    "description": "Grow-and-Earn Social Metaverse 🎨  NFT Social Tokens with On-Chain Generative Art 🔒 Licensable Social Games & Rooms with Token-Gated Access 🌟 Shared Creator Revenue for Community Contribution",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShareToshi",
+    "slug": "sharetoshi-2ccn0",
+    "description": "ShareToshi brings POCM to ETH.  Donate, Support and Crowdfund your projects and receive your stakes back.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "MyEthWorld | Super Dapp Platform",
+    "slug": "💎-myethworld-🌎-super-dapp-platform-✌️-st777",
+    "description": "MyEthWorld is a 🔥 Super Dapp 🔥, a suite of different services that utilize the blockchain. This platform aims to centralize decentralized apps into single source of truth to make the blockchain more accessible to any audience. 💖",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Risedle",
+    "slug": "risedle-3pmxk",
+    "description": "Risedle is a decentralized Crypto Leveraged ETFs market protocol",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Super Card Game",
+    "slug": "super-card-game-hvb88",
+    "description": "NFT Trading Card Game with online matchmaking and exciting action",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jcyjn",
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "PearlZZ",
+    "slug": "pearlzz-w7nau",
+    "description": "Disintermediation of Loyalty Points and Rewards Ecosystem, not only for (C2C) exchange of value, but also the B2B Alliances marketplace for Loyalty Issuer brands and businesses",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS Gallery",
+    "slug": "ens-gallery-meqrv",
+    "description": "An NFT gallery connected to your ENS domain. Proudly display the NFTs you own!",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "2zqzn",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "EYELN - Play To Yield NFT Game",
+    "slug": "eyeln-play-to-yield-nft-game-f514m",
+    "description": "A Play to Yield NFT Crypto Game. Own and claim your EYELN Tokens.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "2zqzn",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Thin Mint",
+    "slug": "thin-mint-9890d",
+    "description": "A protocol for creating alternative visualization to ERC721 NFTs",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArGoApp Protocol",
+    "slug": "argoapp-protocol-6ikex",
+    "description": "ArGoApp Protocol is a deployment aggregator protocol for decentralized cloud protocols",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "2zqzn",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "La Vie",
+    "slug": "la-vie-vxfeo",
+    "description": "A DeFi/NFT game. Stake to Play Yield Farm. Accounts & Items are NFTs.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "jcyjn",
+      "f8ku2",
+      "x59d1",
+      "2zqzn",
+      "j5u2x",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Osu!Project!",
+    "slug": "osu-project--udqac",
+    "description": "Build a token economy on an already existing open-source game",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Metaverse Ads DAO",
+    "slug": "metaverse-ads-dao-3x2ah",
+    "description": "Metaverse Ads DAO (MAD) is a decentralized organization dedicated to creating real business value in Metaverse, maximizing the benefits of all the community's properties and sharing the profits with its members.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "D.A.M.P.",
+    "slug": "d-a-m-p--0n2p8",
+    "description": "Stream tokens to any DeFi protocol ! Completely on-chain  automated.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Unstoppable Streams",
+    "slug": "unstoppable-streams-eyrvu",
+    "description": "Unstoppable Streams. Decentralized Live Streaming. NFT tickets, NFT video Clips.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "ke9sy",
+      "mdb6w",
+      "f8ku2",
+      "x59d1",
+      "2zqzn",
+      "f8ku2",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "Project Vinland",
+    "slug": "project-vinland-3m4ub",
+    "description": "A metaverse to onboard next wave of users into crypto and DeFi",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "oiv32"
+    ]
+  },
+  {
+    "name": "ethmoji",
+    "slug": "ethmoji-tkdoq",
+    "description": "Kaomoji NFT minted from a dao proposal and auctioned to the community",
+    "event": "ETHOnline 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f2so0",
+      "gs0z1"
+    ]
+  },
+  {
+    "name": "DegenMugen",
+    "slug": "degenmugen-f9sjw",
+    "description": "DegenMugen is an NFT betting game based on an open source 2D fight engine ikemen go",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meed",
+    "slug": "meed-vbzvn",
+    "description": "Making it easy to create, approve and settle bounties on Ethereum.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "USA Wallet",
+    "slug": "usa-wallet-0rekz",
+    "description": "A localized mobile wallet built for on-boarding and ease of use, with an associated utility token.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Strangers United",
+    "slug": "strangers-united-grucs",
+    "description": "Probability of Liquidation demo dapp - Data pipeline to create historical price volatility distributions,  oracle for uncertainty (partially done)",
+    "event": "ETHOnline 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "s91kj",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Rhada",
+    "slug": "rhada-kzf5r",
+    "description": "Community-driven salaries using voting and superfluid streams",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "LonesomeShark",
+    "slug": "lonesomeshark-ttt1t",
+    "description": "Using flash loans as a source for good to offer liquidation protection to DeFi borrowers by giving them a simple, friendly, and easy to use UI to monitor their health factor and minimise collateral losses before it's too late. Subscribe to our platform today.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "2zqzn",
+      "xdat5",
+      "oiv32",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "MillionDollarTokenPage (MDTP)",
+    "slug": "milliondollartokenpage-mdtp-8one3",
+    "description": "Milliondollartokenpage is milliondollarhomepage in the crypto Ξra. Show off & share NFTs, and own a piece of crypto history! http://discord.gg/bUeQjW4KSN",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  },
+  {
+    "name": "Paymagic",
+    "slug": "paymagic-47rew",
+    "description": "Paymagic is a payment tool for DAOs and crypto teams. Send batch transfers, airdrops, vesting schedules, streaming payments, and more all from one easy to use app.",
+    "event": "ETHOnline 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "xdat5",
+      "x59d1",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "TWallet",
+    "slug": "twallet-1zz24",
+    "description": "Trading Wallet  Simple Trading Wallet made with Moralis and ParaSwap SDK to show user ERC20 balances and swap  Works in ropsten ethereum testnet",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gs0z1"
+    ]
+  },
+  {
+    "name": "TypeBeat",
+    "slug": "typebeat-0q2fh",
+    "description": "Decentralized NFT Marketplace for music stem and sample creators",
+    "event": "ETHOnline 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2zqzn"
+    ]
+  }
+]

@@ -1,0 +1,2109 @@
+[
+  {
+    "name": "Zhat's Me",
+    "slug": "zhats-me-vioyt",
+    "description": "Prove ETHGlobal ticket ownership without revealing your ID documents",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ipmya"
+    ]
+  },
+  {
+    "name": "NameFlow",
+    "slug": "nameflow-vhhqa",
+    "description": "NameFlow is an AI-driven gateway for domain-based identity, seamlessly managing on-chain records.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "inotq"
+    ]
+  },
+  {
+    "name": "SoulChain",
+    "slug": "soulchain-q0hgy",
+    "description": "SoulChain preserves your thoughts and voice as AI NFTs, unlocking the path to digital immortality.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shillo",
+    "slug": "shillo-7hdcr",
+    "description": "AI Token Launchpad – 24/7 shilling, real-time updates, and effortless community growth.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "BENS",
+    "slug": "bens-j8mak",
+    "description": "ENS-based resolver for private, deterministic B2B wallet addresses",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "inotq"
+    ]
+  },
+  {
+    "name": "TaskVault_AI",
+    "slug": "taskvault-ai-ypts7",
+    "description": "Privacy-preserving ID, AI evaluation & on-chain rewards. Effortless, instant, and transparent.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ipmya",
+      "inotq"
+    ]
+  },
+  {
+    "name": "CoffeeSwap",
+    "slug": "coffeeswap-m2is1",
+    "description": "CoffeeSwap: Trade convenience store coffees securely on a peer-to-peer blockchain platform.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Brainrot",
+    "slug": "brainrot-30w9i",
+    "description": "Meme. Compete. Earn.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trader-daddy",
+    "slug": "trader-daddy-y6c3s",
+    "description": "Simplifying crypto with a wallet that automates everything.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GlobePool",
+    "slug": "globepool-p2xeo",
+    "description": "Tokenize real-world assets and stake $WLD with one click using World ID with HashKey Tokenised RWAs.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Portals",
+    "slug": "portals-jbtvr",
+    "description": "SDK for Native zkLogin integration on Polygon, leveraging OAuth and OICD",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LinkForge",
+    "slug": "linkforge-4wg5y",
+    "description": "AI-powered networking platform for events—match, quest, and earn XP on-chain with LinkForge!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "TradeOpenTTD",
+    "slug": "tradeopenttd-916ug",
+    "description": "A mod for the game OpenTTD that lets spectators trade the stock of the players companies",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Leverager",
+    "slug": "leverager-awb2a",
+    "description": "Leverager is a defi protocol for margin positions for EVM chains",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HypBTC",
+    "slug": "hypbtc-226zv",
+    "description": "A privacy-preserving cross-chain token transfer protocol powered by MPC",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Nomadia",
+    "slug": "nomadia-vksf3",
+    "description": "A peer-to-peer currency exchange Mini App built with MiniKit and World ID integration.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Stake-or-Rekt",
+    "slug": "stake-or-rekt-tvnij",
+    "description": "Stake or Rekt: Where losers fund your gains and only the bold walk away richer.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WIP",
+    "slug": "wip-qs690",
+    "description": "World Improvement Proposals - Scan your passport and begin decentralized delegated democaracy today",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Crowdera",
+    "slug": "crowdera-s48f9",
+    "description": "Crowdera 🥷💰 Donate anonymously, earn 🎖 NFT badges, and help 🌍—no spotlight, just silent impact.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qiqkw"
+    ]
+  },
+  {
+    "name": "Frenz.fi",
+    "slug": "frenz-fi-m16p3",
+    "description": "Agentic Socialcoin Launchpad and Open-Source Branding Platform",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Admojo",
+    "slug": "admojo-shhh0",
+    "description": "ADMOJO: Real-world ad engagement, tracked and rewarded transparently.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PawnStars",
+    "slug": "pawnstars-xqbng",
+    "description": "PawnStars enables loans with RWAs as collateral, AI-driven pricing, and KYC compliance.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ipmya",
+      "inotq"
+    ]
+  },
+  {
+    "name": "Vault Royale",
+    "slug": "vault-royale-th3oq",
+    "description": "Vault Royale is a battleground of AI-powered DeFi strategies.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Revora",
+    "slug": "revora-cbjyj",
+    "description": "Real estate tokenization platform supporting fractional ownership and yield generation.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "FOMO",
+    "slug": "fomo-wcrtr",
+    "description": "AI-powered portfolio manager with Fusion+ swaps and backtest frameork.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Magpie",
+    "slug": "magpie-06afg",
+    "description": "Magpie is your AI co-pilot for discovering, executing & protecting crypto investments.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chaince",
+    "slug": "chaince-dwn22",
+    "description": "Chaince: Web3 giveaways with 0% fees, provable fairness, and user privacy. Trust the draw!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unisight",
+    "slug": "unisight-ix2jt",
+    "description": "Unisight: AI-powered on-chain data analysis and visualization using natural language.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "qiqkw"
+    ]
+  },
+  {
+    "name": "開Sign",
+    "slug": "sign-40vt7",
+    "description": "Decentralized ERC7730 spec curation with AI fraud detection, open challenges, and rewards.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReputationFi",
+    "slug": "reputationfi-4t7dy",
+    "description": "ReputationFi transforms GitHub contributions into verified on-chain reputation for credit and DeFi.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Betcha",
+    "slug": "betcha-ax3oe",
+    "description": "Betcha – Run it. Prove it. Win it. Bet on your runs with friends.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSPin",
+    "slug": "enspin-ef1xz",
+    "description": "ENSPin is a self-hostable tool that keeps your IPFS content alive and ENS permanent.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "HooksOnHooks",
+    "slug": "hooksonhooks-owez2",
+    "description": "Crosschain TWAP into ETH to any EVM blockchain with USDC using Circle CCTP V2",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BrickFi",
+    "slug": "brickfi-j6vg1",
+    "description": "Tokenizes real-world assets, enhance liquidity, platform which bridge between TradFi and DeFi.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "6tfor",
+      "inotq",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Venture Protocol",
+    "slug": "venture-protocol-rz57h",
+    "description": "Venture Protocol is a decentralized token distribution platform built on Base for escrowing",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t2nc8"
+    ]
+  },
+  {
+    "name": "Seedy",
+    "slug": "seedy-sn1hq",
+    "description": "On-chain VDF verifier enabling trustless, tamper-resistant randomness on EVM.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Kippu",
+    "slug": "kippu-r5xya",
+    "description": "Kippu is an incentive based platform for creating human generated datasets.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZenPass",
+    "slug": "zenpass-vm1hy",
+    "description": "ZenPass: AR, AI & geo-powered POAPs, Multichain support with AI agents for verified event proof..",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Taifei Bazaar",
+    "slug": "taifei-bazaar-0ormc",
+    "description": "Taifei Bazaar: 2D DeFAI multiplayer arena inspired by Taiwanese night markets - Explore AI stalls",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ggpyp",
+      "inotq"
+    ]
+  },
+  {
+    "name": "Foreheads",
+    "slug": "foreheads-3to1g",
+    "description": "Be anyone 🌟 Explore infinite worlds 🌍 Uncover epic mysteries 🧭 Adventure awaits!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Warbit",
+    "slug": "warbit-dyvp9",
+    "description": "Create Warriors, Battle Opponents, Earn Tokens. Warbit, an arcade game house powered by metal.build",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t2nc8"
+    ]
+  },
+  {
+    "name": "SelfSphere",
+    "slug": "selfsphere-k3ap3",
+    "description": "Web3 discussions with ZK identity and Sybil resistance via Self protocol.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "ipmya"
+    ]
+  },
+  {
+    "name": "EquiPilot",
+    "slug": "equipilot-7m4k9",
+    "description": "EquiPilot: a transparent, data-driven platform to streamline equity for early-stage startups.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "7Inch",
+    "slug": "7inch-zs4q9",
+    "description": "Securing blockchain transactions by leveraging multiple LLMs to reach consensus on critical actions",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "The Shill Game",
+    "slug": "the-shill-game-0jmdj",
+    "description": "The Shill Game: an AI + blockchain world where characters evolve through talk, tension, and strategy",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Finix MCP",
+    "slug": "finix-mcp-inzjg",
+    "description": "Claude MCP server for Celo blockchain - Query wallet data, send transactions, use Aave DeFi",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Pesa",
+    "slug": "pesa-dduba",
+    "description": "Pesa helps people in Argentina to buy yield earning USDM and send money to friends via @handles.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "MirrorMe",
+    "slug": "mirrorme-8g3kf",
+    "description": "Create your own digital twin  based on the WorldID then \"Let your digital twin work for you\"",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShieldFI",
+    "slug": "shieldfi-zye4r",
+    "description": "A decentralized insurance platform built on Base Network using Metal's token infrastructure.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ripple",
+    "slug": "ripple-9g9xz",
+    "description": "Ripple: a data collection app aimed towards researchers that utilities a quantitative study methods",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "drop",
+    "slug": "drop-xooco",
+    "description": "Human-verified drops with human-only access, powered by World ID and Self Protocol",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ZKoupon",
+    "slug": "zkoupon-ko8jp",
+    "description": "ZKoupon: NFT coupon platform with Self.xyz verification for secure digital coupon management on ETH.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chain Trivia",
+    "slug": "chain-trivia-nmum8",
+    "description": "Onchain daily trivia: answer crypto Qs, earn NFT badges, and climb Web3 leaderboards.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SubCircle",
+    "slug": "subcircle-o4bc7",
+    "description": "Automated USDC subscriptions with gasless payments using Circle Paymaster and Chainlink on Arbitrum.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Taiwan",
+    "slug": "agent-taiwan-v47dc",
+    "description": "Agent Taiwan is a DeFai agent and a no code social and DeFai agent builder as well",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Local Info Network",
+    "slug": "local-info-network-4ja42",
+    "description": "A local message system linking QR codes to data relays and on-chain contributor attribution.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eventick",
+    "slug": "eventick-664j9",
+    "description": "Eventick: Secure on-chain tickets with zero fraud, identity verification on World App",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Dework",
+    "slug": "dework-jj3ve",
+    "description": "Web3 escrow for rental deposits—earn yield, ensure fairness and protect tenants with smart contracts",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Token Voting",
+    "slug": "token-voting-k9ejw",
+    "description": "Launch custom ERC20 tokens and use them for decentralized governance on the blockchain",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Mystic Kaizer",
+    "slug": "mystic-kaizer-y069f",
+    "description": "NFT battle dApp with AI-generated art, on-chain logic, social quests & tradable rewards.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Versus",
+    "slug": "versus-qb8gj",
+    "description": "Versus is a multiplayer survival fps game. Play and earn token rewards directly on-chain.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "TokenFriendsMFun",
+    "slug": "tokenfriendsmfun-ntwgi",
+    "description": "TokenFriends & MetalFun: Create, share, and track ERC20 tokens built for crypto newbies.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Curvegrid Payroll",
+    "slug": "curvegrid-payroll-kzyix",
+    "description": "Spreadsheet-driven payroll tool with instant cross-chain USDC salaries & automated DeFi integration.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "5e2gc"
+    ]
+  },
+  {
+    "name": "OctoIntents",
+    "slug": "octointents-ciu6n",
+    "description": "Cross-chain intents with Dutch auction-based solver selection via ERC-7683 & Hyperlane.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Boop",
+    "slug": "boop-9wfqy",
+    "description": "Embed onchain actions anywhere — swap, tip, or mint directly from X posts or blogs.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Realove",
+    "slug": "realove-siv7w",
+    "description": "Realove - the dating app care about users, events-based matching and dating plans provided",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Poll Master",
+    "slug": "poll-master-a3q4u",
+    "description": "Deep Research with human feedback through proof-of-human polling",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "My Guarding Angel",
+    "slug": "my-guarding-angel-4z6oc",
+    "description": "Use latest LLM to fetch live data from blockchain and explain everything!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Xuno",
+    "slug": "xuno-k69cx",
+    "description": "A Web3 AI platform for tracking social media trends and executing DeFi transactions seamlessly.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Community Fund",
+    "slug": "ai-community-fund-n3t6h",
+    "description": "AI-powered investment fund that allocates assets based on community sentiment analysis.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Video Block Explorer",
+    "slug": "video-block-explorer-jney6",
+    "description": "Enables users to analyze and explore addresses in blockchain visually",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IntentFi",
+    "slug": "intentfi-4d6uy",
+    "description": "Turn words into yield. IntentFi lets anyone lend, borrow & earn across chains—just by asking.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ggpyp",
+      "inotq"
+    ]
+  },
+  {
+    "name": "Brotea FinMentor ADS",
+    "slug": "brotea-finmentor-ads-831i2",
+    "description": "Interactive educational platform with AI-driven rewards & blockchain-based sponsored content.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Absynth",
+    "slug": "absynth-e2he9",
+    "description": "Smart account powered by passkeys, extended cross-chain interoperability via cross-chain protocols.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "SnapReward",
+    "slug": "snapreward-ii53a",
+    "description": "SnapRewards: AI-verified photo challenges with token rewards via Metal API",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CreatorsHub",
+    "slug": "creatorshub-tgst3",
+    "description": "A decentralized donation system that features convenience and speed, utilizing 1inch's Fusion+",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PocketFunds",
+    "slug": "pocketfunds-cw3hd",
+    "description": "A DeFi app for crypto management, merchant payments, and spare change investments in protocols.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "EthereumFighter",
+    "slug": "ef-ethereumfigther-7hq6d",
+    "description": "Pin AI-Agents against each other to make them compete in DeFi trading competition using FHE.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "xdat5",
+      "inotq"
+    ]
+  },
+  {
+    "name": "SaveFi",
+    "slug": "savefi-d748e",
+    "description": "AI-powered DeFi savings with rewards for discipline and penalties for delays",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Twig",
+    "slug": "twig-job8i",
+    "description": "An AI-powered, smarter, and more efficient way to interact with Web3.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ask CaiShen",
+    "slug": "ask-ciashen-n2fja",
+    "description": "AI god of wealth that help you optimize your DeFi portfolio with reasoning.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SE7EN Carnival",
+    "slug": "se7en-carnival-fwgur",
+    "description": "Education and NFT collection and minting game that is beginner friendly.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "catkin network",
+    "slug": "catkin-network-m80x3",
+    "description": "Catkin Network lets merchants accept gasless crypto payments and manage products via 1inch Fusion.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fan Fate",
+    "slug": "fan-fate-x2cd9",
+    "description": "\"Bet on creator rivalries and growth—FanFate turns fan hype into high-stakes prediction markets.\"",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CT:GO",
+    "slug": "ct-go-5kyzh",
+    "description": "Shooting game in the Infinite Garden. Using Metal and Threejs",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dune Wars",
+    "slug": "dune-wars-ou2qb",
+    "description": "Dune is a multiplayer AI powered strategy game to conquer territories.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5e2gc",
+      "inotq"
+    ]
+  },
+  {
+    "name": "Village",
+    "slug": "village-1fyfp",
+    "description": "On-chain social accountability. Hit your goals to earn rewards—or lose your stake.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch Sweep",
+    "slug": "1inch-sweep-qipk1",
+    "description": "Universal crypto asset manager with MEV-protected cross-chain swaps",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Locked Vault DApp",
+    "slug": "locked-vault-dapp-k2tkh",
+    "description": "The Time-Locked Vault is a DApp that lets users lock CELO funds until a future date.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Web3 Badminton Club",
+    "slug": "web3-badminton-club-hix9z",
+    "description": "Web3 Badminton Club: An innovative community combining crypto and sports",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Humane Banque",
+    "slug": "humane-banque-kjmbv",
+    "description": "Sybil-resistant fixed-term lending protocol using World ID verification and Uniswap V4 hooks",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "SpliX",
+    "slug": "splix-9jusg",
+    "description": "Split bills. Pay on any chain. Transparent, efficient, and verifiable",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "my-self-ticket",
+    "slug": "my-self-ticket-azxbc",
+    "description": "This project uses the Self Protocol to build a ticketing website.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "AIJudge",
+    "slug": "aijudge-oeihx",
+    "description": "Evaluate hackathon projects with AI precision. Automate judging and distribute rewards on-chain.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DynaVest",
+    "slug": "dynavest-8noha",
+    "description": "DynaVest — your AI-powered gateway to seamless DeFi access.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "inotq"
+    ]
+  },
+  {
+    "name": "DeFiKeep Growing!",
+    "slug": "defikeep-growing-6gy23",
+    "description": "DeFiKeep: Lock your crypto long-term, beat FOMO, and ride the crypto growth curve with discipline.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "KYCGuard",
+    "slug": "kycguard-xi02i",
+    "description": "A KYC-compliant token transfer system ensuring verified users can securely exchange and mint tokens.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6tfor"
+    ]
+  },
+  {
+    "name": "TornadoCash-Zircuit",
+    "slug": "tornadocash-zircuit-64bd8",
+    "description": "This project seeks to simplify Tornado Cash's setup so that it uses `Foundry instead of Truffle",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "staySafe",
+    "slug": "staysafe-3us5w",
+    "description": "StaySafe: Book hostels globally with ZK passport proofs — private, secure, ( gender specific dorms)",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "huanbi",
+    "slug": "huanbi-miw5k",
+    "description": "A in-world-app app decentralized exchange providing news, crypto price and games.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "gitDontIgnore",
+    "slug": "gitdontignore-twee6",
+    "description": "An onchain AI project manager that connects developers and clients, automating software engineering.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ipmya",
+      "inotq"
+    ]
+  },
+  {
+    "name": "AgentActs.eth",
+    "slug": "agentacts-eth-89iga",
+    "description": "AI agents builder using multiple MCPs to automate any workflows!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "AgentV Bot",
+    "slug": "agentv-bot-o5zfm",
+    "description": "Autonomous Telegram bot for crypto portfolio rebalancing using AI + on/off-chain signals.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hook up to AMM",
+    "slug": "hook-up-to-amm-1tbvu",
+    "description": "Using Uniswap v4 Hooks to incentivize long-term liquidity with time-based rewards.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "NewsQuantar",
+    "slug": "newsquantar-i7c1b",
+    "description": "News-Driven Trading Agent: Powered by Polygon MCP & 1inch APIs",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Identifi",
+    "slug": "identifi-hbpyp",
+    "description": "A Web3 identity app enabling users to verify age and humanity using Worldcoin and Self Protocol.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "inotq"
+    ]
+  },
+  {
+    "name": "Vib3",
+    "slug": "vib3-zhfj8",
+    "description": "The app that instantly creates web3 dApps with AI-powered prompts.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cellfi",
+    "slug": "cellfi-ctrmp",
+    "description": "SMS-based peer-to-peer payments using USDC digital currency—no internet required.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Aura",
+    "slug": "aura-yragg",
+    "description": "Unlock diamond liquidity via fractionalized RWA lending with fixed-income bond-like notes.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6tfor"
+    ]
+  },
+  {
+    "name": "CeloContract",
+    "slug": "celocontract-zow3d",
+    "description": "produce a contract, deploy and test a contract on celo mainnet",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Catgogo",
+    "slug": "catgogo-6jrw3",
+    "description": "PokemonGo for Cats, Catgogo is your go to for cat lover that loves taking photos of cats.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OrbitGO",
+    "slug": "orbitgo-rsf9w",
+    "description": "OrbitGO: A multichain token dashboard for DAOs to track, visualize, and manage assets in real time.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Franky Agents",
+    "slug": "franky-agents-5d5ax",
+    "description": "Monetize old devices by running local LLMs powering AI agents, and earn $FRANKY tokens.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dwrg7"
+    ]
+  },
+  {
+    "name": "VoteGuard",
+    "slug": "voteguard-sbt0n",
+    "description": "VoteGuard lets you prove your vote is valid without revealing who you are or what you chose.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Plopl.",
+    "slug": "plopl-agqo4",
+    "description": "PLOPL makes off-chain data trustless and onchain, bridging Web2 to Web3 in a simple way.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Qwallet Protocol",
+    "slug": "qwallet-protocol-esqej",
+    "description": "Real-world payment channels powered by Wise.com, Zk Proofs, Open Intents, and User wallets",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "BinaryVoting",
+    "slug": "binaryvoting-3mp2d",
+    "description": "Simple Blockchain voting contract with agree/disagree functionality",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Q3x",
+    "slug": "q3x-kxjyo",
+    "description": "AI-powered treasury that turns natural lang into secure crypto ops for teams without dedicated ops.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meta Forge",
+    "slug": "meta-forge-omi1w",
+    "description": "Meta Forge – A digital platform for online games. Seamless token integration with Metal and Flow",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sum-check Tutorial",
+    "slug": "sum-check-tutorial-ckc1v",
+    "description": "A Jupyter notebook that has a detailed description on sum-check protocol works.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Breeze",
+    "slug": "breeze-cqbpu",
+    "description": "Breeze is a real-time anonymous chat on World App, connecting you with random people securely.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "QryptoPay",
+    "slug": "qryptopay-gbvkm",
+    "description": "Settles QR payments across the world without having local bank account",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "CashMe",
+    "slug": "cashme-2bnnf",
+    "description": "A decentralized p2p between Crypto and cash with Trusted Local Businesses",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ggpyp",
+      "0wyck"
+    ]
+  },
+  {
+    "name": "Stockr00t",
+    "slug": "stockr00t-i9pcc",
+    "description": "Simulate all purchase on earth to prevent Hoarding and Scalping",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VibeMatcher",
+    "slug": "vibematcher-2beqr",
+    "description": "Find your people. Trade some alpha. Burn some Rizz. Farm some Aura.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "WorldChat",
+    "slug": "worldchat-hcd0f",
+    "description": "A forum application focused on providing a platform for verified human users.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Petify",
+    "slug": "petify-mobno",
+    "description": "Petify - Decentralized Animal Health Profiles & Trustworthy Pet Care on ETH",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "DeepTruth",
+    "slug": "deeptruth-nx3h1",
+    "description": "Tamperproof videos via steganography.WorldID,ENS&Self Protocol ensure authenticity across platforms.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "FeedMe",
+    "slug": "feedme-3xdf5",
+    "description": "FeedMe is the fun way to keep track of what your frens have been up to onchain",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lightsplit",
+    "slug": "lightsplit-2ozgu",
+    "description": "Lightsplit is a tool that simplifies splitting expenses in group chats by using USDC payments.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LeaseNotary",
+    "slug": "leasenotary-b192j",
+    "description": "Solve the rental housing problem by converting paper-based contract into smart contract.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalletPilot",
+    "slug": "walletpilot-6y22f",
+    "description": "Effortlessly perform blockchain transfers with our LLM-powered chatbot",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buildable",
+    "slug": "buildable-n6yph",
+    "description": "AI-powered Web3 devtool: Build and deploy dApps using natural language prompts.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OSY",
+    "slug": "osy-k6rpj",
+    "description": "OSY auto-allocates your USDC to the highest APY across DeFi, cross-chain & effortless.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "gt566"
+    ]
+  },
+  {
+    "name": "MemeClash",
+    "slug": "memeclash-o22xf",
+    "description": "Create Meme Coins via AI for battles. Votes for winners. Win rewards, lose burns.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "fjaae",
+      "inotq"
+    ]
+  },
+  {
+    "name": "Vibe.ai",
+    "slug": "vibe-ai-et4sx",
+    "description": "AI-powered platform that identifies, analyzes, and rewards authentic contributors via interaction",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "MCPilot",
+    "slug": "mcpilot-mutd4",
+    "description": "Allow LLM to interact with blockchain through a secure crypto wallet",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Clink Up",
+    "slug": "clink-up-09gu1",
+    "description": "Web3 Social Media Platform for users to own and monetise off their own data usage",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "dwrg7"
+    ]
+  },
+  {
+    "name": "Trickle",
+    "slug": "trickle-iucua",
+    "description": "Trickle turns spare change into your future cryptocurrency portfolio",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "5e2gc",
+      "dwrg7",
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "The Mighty 18 & Pals",
+    "slug": "the-mighty-18-and-pals-5qf0u",
+    "description": "A fantasy story about the 18 sponsoring companies of ETHGlobal Taipei as superheroes",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi-AI-Agent",
+    "slug": "defi-ai-agent-5v0q5",
+    "description": "AI-powered investment strategies for your crypto assets with real-time APY data.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mini Amor",
+    "slug": "mini-amor-y8jgi",
+    "description": "Verified humans only. MINI AMOR uses World ID to stop bots, scams, and fake profiles in dating.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "chatDeFi.app",
+    "slug": "chatdefi-app-1xgw3",
+    "description": "Democratizing DeFi trading. Create trading strategies via a chatbot -- no programming required!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xy3ks",
+      "inotq"
+    ]
+  },
+  {
+    "name": "EthMail",
+    "slug": "ethmail-y5jz7",
+    "description": "EthMail enables seamless Web3-native invoicing with reduced risk, faster payment confirmation.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "GOODHAND",
+    "slug": "goodhand-n1xnh",
+    "description": "A World ID-powered mini app enabling anyone to create and support real-world impact proposals.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KingOfWeb3Knowledge",
+    "slug": "kingofweb3knowledge-mh2wu",
+    "description": "put your web 3 knowledge to test, competing against AI and other ppl!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Council_100",
+    "slug": "council-100-e3q9a",
+    "description": "AI agents simulate decentralized voting and budget allocation to optimize public goods funding.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Register Yo Self",
+    "slug": "register-yo-self-7ycy6",
+    "description": "Self-service identity verification powered by Self for quicker and smoother registration process",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "my project",
+    "slug": "my-project-xw48i",
+    "description": "Daily Saving Plan that try to Use 7702, EIP-2612 and Relayer Architecture",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Densofi",
+    "slug": "densofi-td5m6",
+    "description": "Unlocking price discovery and liquidity for domain names utilizing DNS, ENS, NFT, SuperchainERC20",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "CrossDream",
+    "slug": "crossdream-n5h84",
+    "description": "Cross Dream is your platform to monitor and managed your liquidity though all the chains",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch (wonder)World",
+    "slug": "1inch-wonder-world-sswpp",
+    "description": "Worldcoin mini-app that connects real humans to the DeFi ecosystem using AI-agents - through 1Inch",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Emergency",
+    "slug": "emergency-tu0b7",
+    "description": "Emergency is designed to empower individuals and rescue teams during any emergency",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "World Guard",
+    "slug": "world-guard-j2t54",
+    "description": "Verify humans before they join your Telegram group using World ID.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Balls",
+    "slug": "balls-kqh0v",
+    "description": "Gotta catch them balls. A world coin mini app collection game",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defensive Security",
+    "slug": "defensive-security-g3qxe",
+    "description": "A defensive secure browser that reveals hidden security layers in web app interactions.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YT Short Generator",
+    "slug": "yt-short-generator-5dykm",
+    "description": "This is an AI powered YT shorts generator for sharing info about Uniswap v4",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stable & World hooks",
+    "slug": "stable-and-world-hooks-mfeke",
+    "description": "Two Uni V4 dynamic fee hooks, for stablecoins pairs, and WorldID verification!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrustTag",
+    "slug": "trusttag-on5rd",
+    "description": "Decentralized label database for Web3. Open to anyone, powered by everyone.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Playroom",
+    "slug": "playroom-wykmm",
+    "description": "Playroom is a wallet for kids, Bitcoin-based child savings — built for long-term and positive value.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5e2gc",
+      "0wyck"
+    ]
+  },
+  {
+    "name": "Loan Protector",
+    "slug": "loan-protector-4kiyr",
+    "description": "A New Form of Limit Orders to protect your DeFi Borrow Positions.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Touch Grass",
+    "slug": "touch-grass-q4033",
+    "description": "Enabling organizations to reimburse real-world expenses for employees, students, and hackers.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "communitynotes.fun",
+    "slug": "communitynotes-fun-751z9",
+    "description": "A prediction market layer for X Community Notes, incentivizing accurate fact-checking",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "luluchill",
+    "slug": "luluchill-sd81e",
+    "description": "Luluchill is a secure RWA platform using Self Protocol and EAS to verify users and pools.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6tfor"
+    ]
+  },
+  {
+    "name": "buy4me",
+    "slug": "buy4me-e59jp",
+    "description": "This app uses Self protocol for identity verification and delegation",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "CoffeeWorld",
+    "slug": "coffeeworld-oquvo",
+    "description": "Verify real coffee lovers with WorldID for authentic reviews, live check-ins, and rewards.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Chainimals LotterFi",
+    "slug": "chainimals-lotterfi-ag764",
+    "description": "Connecting wallet, get DISC NFT pass to join fun Lottery.  Staking in DeFi to leverage asset!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Confeti",
+    "slug": "confeti-j99qx",
+    "description": "Confeti enables simple & seamless crypto trades for all. Built for tomorrow’s digital economy.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "How Doxxed Am I?",
+    "slug": "how-doxxed-am-i-ftbux",
+    "description": "\"Chainalysis for privacy hygiene.\" What is your public on-chain behavior revealing?",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "FindMyPhotos.app",
+    "slug": "findmyphotos-app-bg143",
+    "description": "⚡Instantly find photos you're in from ETHGlobal events using AI facial recognition tech!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "qiqkw",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "AuthenPay",
+    "slug": "authenpay-09puz",
+    "description": "A wallet-less USDC payment across multiple chains—delivering smooth, secure, seamless Web3 payments.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WLDLE Today",
+    "slug": "wldle-today-n97w1",
+    "description": "Solve daily wordles free to claim $DLY or play against others using $WLD—winner takes all!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Authentica",
+    "slug": "authentica-pfpe6",
+    "description": "Authentica: A decentralized marketplace for verifying human vs AI-generated content with blockchain",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "SuperWorld",
+    "slug": "superworld-3z7fi",
+    "description": "The only NEO bank world needs - Pay, Lend, Borrow and Invest",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "WhoAreYou",
+    "slug": "whoareyou-rejxh",
+    "description": "WhoAreYou: The Real-Time \"Address\" Book for the Web3 Ecosystem",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Intent-pay",
+    "slug": "intent-pay-bgxdh",
+    "description": "A gasless wallet enabling USDC across chains with intent-based trading in World App.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Flash DAO",
+    "slug": "flash-dao-icwe6",
+    "description": "An AI-driven, event-triggered system that launches DAOs in minutes to coordinate funding & response",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BreatheZen",
+    "slug": "breathezen-u1gjk",
+    "description": "A mindfulness chain app that rewards you for staying calm, built with Web3 and soulbound tokens.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "knowledge king",
+    "slug": "knowledge-king-867d0",
+    "description": "Knowledge King is a knowledge game where player answers questions to earn on-chain rewards.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "MapMint",
+    "slug": "mapmint-ef8fw",
+    "description": "A DePin project that collect real-world data and reward users for their contribution with World coin",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Watchtower",
+    "slug": "watchtower-d2c1o",
+    "description": "Atomic Liquidation and Other Actions via 1-time Hooks 4 Sale on Uniswap V4",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "dwrg7",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Ticketo",
+    "slug": "ticketo-cz5f2",
+    "description": "World App mini-app for purchasing travel tickets with Worldcoin and USDC.e.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ED3N",
+    "slug": "ed3n-7eiza",
+    "description": "SocialFi platform that incentivises hosting/attending of events via platform-native token staking.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "TruthTLS",
+    "slug": "truthtls-mwtjb",
+    "description": "A bare minimum, TLSNotary-like tool built from scratch. Optimized for specific requirements.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VoucherToken",
+    "slug": "vouchertoken-poj85",
+    "description": "ERC1155 vouchers with non-transferable ERC721 merchant certification & instant redemption.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Bull Ship Agent",
+    "slug": "bull-ship-agent-06a7u",
+    "description": "An intent-driven AI trading agent platform that simplifies and enhances automated trading",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Donat3",
+    "slug": "donat3-q232m",
+    "description": "Donat3: A donation platform for streamers, enabling secure, transparent, real-time giving.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buy High, Sell Low",
+    "slug": "buy-high-sell-low-xkpqy",
+    "description": "A financial advisor tool with 4 AI family members giving diverse, dynamic, and collaborative advice.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Club Frenguin",
+    "slug": "club-frenguin-z39n4",
+    "description": "A 2D social garden world with ZK identity, age-gated spaces, and on-chain ENS subdomains.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HealthyWorld",
+    "slug": "healthyworld-vz3uk",
+    "description": "HealthyWorld is a comprehensive health and wellness tracker built as a mini app",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Zest",
+    "slug": "zest-e9y9r",
+    "description": "Borrow against BTC, earn real yield, and stay stable with user-set rates. Powered by ZEST.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0wyck"
+    ]
+  },
+  {
+    "name": "Just Pay",
+    "slug": "just-pay-tfw2z",
+    "description": "Just Pay sends USDC chainlessly in seconds—no bridges, one balance, one tap, any chain.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "BadGuy buy gas",
+    "slug": "badguy-buy-gas-91ibs",
+    "description": "BadGuy is a multi-chain gas dealer protocol and enabling gas providers  earn profit.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Learn on World",
+    "slug": "learn-on-world-6vg57",
+    "description": "Bitcoin Learning App: Learn Bitcoin basics with World ID sign-in. Interactive lessons, sleek UI! 🚀",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Griffin Pledge",
+    "slug": "griffin-pledge-4fqyw",
+    "description": "To design a reverse crowdfunding app using World Mini App where users contribute to vote on wishes",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "fortun3.guru",
+    "slug": "fortun3-guru-xv07g",
+    "description": "A decentralized, AI-powered horoscope engine that turns your blockchain data into prophecy.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "inotq"
+    ]
+  },
+  {
+    "name": "discuss.ai",
+    "slug": "discuss-ai-y1t5o",
+    "description": "Multi-chain discussions for humans, led by intelligent AI agents. A creative way to amplify ideas.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "NekoDAO",
+    "slug": "nekodao-ic16k",
+    "description": "Generate unique NFTs with AI, track their history on-chain, and contribute to existing creations✨",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solva",
+    "slug": "solva-map8t",
+    "description": "Empower anyone to receive and transfer funds, instantly & without fees.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "5e2gc",
+      "xdat5",
+      "qy8m3",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "SnapAds",
+    "slug": "snapads-tsrfi",
+    "description": "Watch ads to cover gas fees! AI Web3 ad platform with Paymaster + MetaMask Snap integration.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Trusted-Jobs",
+    "slug": "trusted-jobs-gas0a",
+    "description": "Onchain job platform with Self Protocol-based compliance checks and escrowed smart contract rewards.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "CupFi",
+    "slug": "cupfi-s70at",
+    "description": "Save the planet, one sip at a time—get rewarded for using your reusable cup!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Signals",
+    "slug": "signals-2o4fp",
+    "description": "More accurate, more rewarding. Financially incentivized BTC price predictions visualized as heat map",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "0wyck"
+    ]
+  },
+  {
+    "name": "PayCrossChain",
+    "slug": "paycrosschain-snu06",
+    "description": "DeFi super-app for cross-chain payments, yield optimization and everyday payments",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dwrg7"
+    ]
+  },
+  {
+    "name": "Messiah",
+    "slug": "messiah-d6zo2",
+    "description": "Following Messiah's guidance, revealing the code execution logic and safeguarding assets.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "6tfor",
+      "inotq"
+    ]
+  },
+  {
+    "name": "IntelliGuard",
+    "slug": "intelliguard-15h5k",
+    "description": "IntelliGuard, the ultimate transaction AI watchdog, syncing with crypto wallets to provide security.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "PiggyBank",
+    "slug": "piggybank-3x9be",
+    "description": "Invest using scattered assets;  Convert all scattered assets into a single token.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Subverse",
+    "slug": "subverse-ub03g",
+    "description": "New Infrastructure for Web3 Subscriptions — making them more secure, transferable, and decentralized",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CELObrated",
+    "slug": "celobrated-6nwof",
+    "description": "Launch ERC20 by AI agent to celebrate! Let's get the Celo L2 Pool Prize!",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Hoja",
+    "slug": "hoja-q2s15",
+    "description": "A food order platform where only paying customers can leave reviews, ensuring authenticity.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "DeSci Researchers",
+    "slug": "desci-researchers-osd51",
+    "description": "Making research accessible and fun by letting the researchers and others connect in spatial spaces.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hyperlane Wizard",
+    "slug": "hyperlane-wizard-zfpq5",
+    "description": "An interactive deployer tool to build/visualize Hyperlane's smart contract",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Calary",
+    "slug": "calary-se95k",
+    "description": "Calary: Compliance toolkit empowering killer consumer dApps with on-chain payroll, swaps & rewards.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "026zc"
+    ]
+  },
+  {
+    "name": "CamelSean",
+    "slug": "camelsean-v764f",
+    "description": "An AI agent that distributes tokens by tracking user interactions.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Paytocol",
+    "slug": "paytocol-0zivi",
+    "description": "Paytocol is an intent based cross-chain streaming payment protocol",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GateSwap",
+    "slug": "gateswap-sfhsm",
+    "description": "Compliant token swap tasks with identity verification using Self Protocol and 1inch Fusion+",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MEV-Pirates",
+    "slug": "mev-pirates-nd9xj",
+    "description": "Decentralizing MEV and Building a Decentralized Block Builder Network. Yo-Ho-Ho-Ho !",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "SunFlowerSFR",
+    "slug": "sunflowersfr-ou3m2",
+    "description": "On-chain KYC means that the user's KYC certification results are stored on the blockchain",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WorldVisionAI",
+    "slug": "worldvisionai-s0ruy",
+    "description": "Ask the future!!: an AI agent powered by real users and prediction markets.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Wecreat3",
+    "slug": "wecreat3-ip2mw",
+    "description": "Wecreat3 is a tokenized AI-powered platform where creators, fans & agents grow value together.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkOTP Wallet",
+    "slug": "zkotp-wallet-k4onm",
+    "description": "zkOTP Wallet: A seedless wallet secured by zk-proofs and Google Authenticator TOTP standard.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nitro Team",
+    "slug": "nitro-team-dr07w",
+    "description": "Chain Abstraction ledger layer for high-performance applications",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "MemestCutestPlatform",
+    "slug": "memestcutestplatform-pbgyj",
+    "description": "A gamified cross-service based MCP platform in a TEE to unify dApps and Web2 apps",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "inotq"
+    ]
+  },
+  {
+    "name": "runur",
+    "slug": "runur-e3513",
+    "description": "Agentic, cross-chain DeFi portfolio manager using natural language to abstract Web3 complexity.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EPO",
+    "slug": "epo-r52yi",
+    "description": "EPO: Alternative ENS use case via subdomains & Smart Wallet for onchain profiles.",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Cubix Markonium",
+    "slug": "cubix-markonium-esynm",
+    "description": "A **3D blockchain** leveraging geometric determinism, zk-SNARKs, and quantum-resistant cryptography",
+    "event": "ETHGlobal Taipei",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

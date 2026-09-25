@@ -1,0 +1,1455 @@
+[
+  {
+    "name": "myzk",
+    "slug": "myzk-58xir",
+    "description": "Empowering decentralized governance through transparent and secure zero-knowledge tools.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilCRM",
+    "slug": "filcrm-kwc0a",
+    "description": "FilCRM is a Decentralized CRM for lead management for businesses.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "skillsharefr",
+    "slug": "skillsharefr-ykczn",
+    "description": "Imagine a platform where individuals can offer their skills and services to others in exchange for tokens representing units of time.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Social FVM",
+    "slug": "social-fvm-xx6go",
+    "description": "Social FVM is a social project built on the Filecoin Virtual Machine network",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spreading Kindness",
+    "slug": "spreading-kindness-5472a",
+    "description": "the Magic Button represents an innovative approach to promoting kindness and positivity within the Ethereum community",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Least",
+    "slug": "least-5wux1",
+    "description": "Decentralized property management portal, manages signed leases as NFTs",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Wind Breathers",
+    "slug": "wind-breathers-9oihj",
+    "description": "Wind-Breathers is a game where you can explore the metaverse, connect with others, and enjoy the thrill of flying a fighter jet, built on the Mona Protocol.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ImagineNet",
+    "slug": "imaginenet-voy4d",
+    "description": "ImagineNet is a platform enabling game developers to quickly build, fund, and launch unique new games using Filecoin. Developers can create communities, launch MVPs, secure funding, and release full games—all on a single platform.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOVerified",
+    "slug": "daoverified-jb6m7",
+    "description": "Credentials are private. so the contributor's identity too.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "MintMyThoughts",
+    "slug": "mintmythoughts-221id",
+    "description": "Mint My Thoughts allows you to turn your thoughts into digital art using the power of the Galadriel network. Our smart contracts seamlessly call external APIs through oracles, transforming your ideas into unique and beautiful NFTs.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArcSlayer",
+    "slug": "arcslayer-ty5e2",
+    "description": "It's a PvP multiplayer FPS game where you can chill in the metaverse or fight in arena!!",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LoomHub",
+    "slug": "loomhub-pmby1",
+    "description": "It is an \"analysis\" marketplace using Powerloom and Filecoin. It allows devs to work on real-time datasets utilize Lighthouse for storage and incentivize their work.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0q1p4",
+      "vggw5"
+    ]
+  },
+  {
+    "name": "Honorous",
+    "slug": "honorous-xxvp0",
+    "description": "Honorus is a decentralized identity and reputation system designed to empower Web3 users with secure, transparent, and verifiable identities.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "TribalBet",
+    "slug": "tribalbet-3ns7u",
+    "description": "A social betting platform that lets you bet on Sports, Esports and Predictions in a decentralized manner on the Filecoin blockchain.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Super Charger",
+    "slug": "super-charger-j1grh",
+    "description": "SuperCharger is an SP Explorer to supercharge the data onboarding based on reputation & green score and incentivise RAAS workers to create an immutable, Permanent & unbreakable storage.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Subscription",
+    "slug": "subscription-2gsaw",
+    "description": "On-chain subscription for monthly payments is a mechanism where recurring payments are managed directly on a blockchain network.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anti-AI",
+    "slug": "anti-ai-h1o1x",
+    "description": "Capture an image in a React Native app, sign it with MetaMask, encrypt its hash using Lit Protocol, and store both the encrypted data and the image on Pinata. Users can later verify the image owner by decrypting the hash, ensuring secure and verifiable image ownership.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "PromptReality",
+    "slug": "promptreality-18t37",
+    "description": "A platform for creating AI experiences in mixed reality where artists can demonstrate their creativity",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SolarXM",
+    "slug": "solarxm-ew1cx",
+    "description": "A Depin Platform for Energy trading verified by WeatherXM and GenSensors .",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Agent 2.0",
+    "slug": "web3agent-2-0-uin2x",
+    "description": "Simplified blockchain interactions, AI-driven smart contract deployment, and integrated DeFi operations.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fimmp",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "MedLIT",
+    "slug": "medlit-1sb1k",
+    "description": "A decentralized healthcare system leveraging Web3 technology to enhance access, secure medical data, and foster trust. Features include blockchain-based medical records, transparent credential verification, and token-gated video consultations.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "HStream",
+    "slug": "hstream-4dxhn",
+    "description": "Introducing H-Stream, where teaching meets entrepreneurship. Create, customize, and sell courses directly from your own webpage. Design your site to reflect your brand, upload content effortlessly, and engage students with interactive learning experiences.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mind Palace",
+    "slug": "mind-palace-d9sb9",
+    "description": "Proof of concept to generate Open Graph protocol object files, store & serve them from web3storage, and use them as embeds in tldraw canvas.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Mona Gallery",
+    "slug": "mona-gallery-dmp7k",
+    "description": "Mona gallery is the gallery where users can surf and showcase NFTs to others.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WeatherProof",
+    "slug": "weatherproof-zsh7s",
+    "description": "Re inventing Insurances by By utilizing real-time weather data and predictive analytics, our AI models accurately assess risk and determine insurance premiums. Blockchain ensures transparency, security, and efficiency in policy management and claims processing.",
+    "event": "HackFS 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "42b0f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Swarm.ai",
+    "slug": "swarm-ai-9au5p",
+    "description": "all in one protocol for secure AI Agents, from creating workflows to using them seamlessly",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FluenceAI",
+    "slug": "fluenceai-r0u3p",
+    "description": "Decentralised AI agents framework on top of Fluence and Filecoin",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyDID",
+    "slug": "mydid-gfoui",
+    "description": "Users can register their identification (name and email) on the blockchain with the decentralised identity verification application, and then retrieve and validate this data.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralytics",
+    "slug": "decentralytics-mh7m3",
+    "description": "Decentralytics is an innovative data analytics tool that utilizes Filecoin/IPFS for decentralized, secure, and cost-effective analytics. Users can upload data and receive AI-powered analytics in minutes, eliminating the need for intermediaries.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "u0e0c"
+    ]
+  },
+  {
+    "name": "Metacare.ai",
+    "slug": "metacare-ai-g99t1",
+    "description": "Web3 Storage of Personal Health Records and AI generated answers to health questions",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "CertiFy",
+    "slug": "certify-r946n",
+    "description": "CertiFy: Safeguard certificates on the blockchain using ERC-721 tokens. Lit integration ensures encryption and verification, while Chainlink ensures reliable data exchange. Privacy and trust guaranteed!",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Raffle AI NFT",
+    "slug": "raffle-ai-nft-vjphq",
+    "description": "Create AI NFTs through prompts, put them into a lottery, and win money.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smart Agent",
+    "slug": "smart-agent-g365z",
+    "description": "Smart agent - EVM stack an AI image generator app, based on LLM models.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PenguinUp",
+    "slug": "penguinup-o0xc8",
+    "description": "Sports focused Replays and Livestreams software with WiFi cameras",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "MEVSpy",
+    "slug": "mevspy-26g91",
+    "description": "The AI way of tracking MEV Transactions! We are using Graph Neural Networks to ensure better MEV tracking for fair reward distribution among Validators & for comprehensive statistical analysis.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "TheAnalyst",
+    "slug": "theanalyst-uci5m",
+    "description": "A decentralized AI giving degen trading suggestion based on the user's portfolio",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETH Couture",
+    "slug": "eth-couture-supjr",
+    "description": "ETH Couture is a decentralized marketplace tackling fashion industry issues: overproduction, poor fit, lack of trust, and intellectual property theft. We empower designers with tools for customer engagement, design protection, and product traceability using blockchain technology.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Civ AI",
+    "slug": "civ-ai-miwn2",
+    "description": "Autonomous World where on-chain AI agents lead civilizations to collaborate & compete with each other to research AGI",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "y6rde",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ENS Explorer",
+    "slug": "ens-explorer-nqaw6",
+    "description": "ENS Explorer: Your Decentralized ENS Lookup Tool. Access detailed ENS domain information via the resilient and user-friendly .eth domain at salmandev.eth.limo.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Job Board Delta",
+    "slug": "job-board-delta-qynpm",
+    "description": "Job Board Delta is a new fun way to hunt for jobs in Web3 using FVM",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NexTown",
+    "slug": "nextown-4fpk9",
+    "description": "A decentralized AI computation and storage platform allowing users to run AI models via LilyPad, encrypt results with their public key, and securely store outputs on lighthouse, accessible only by the user’s private key.",
+    "event": "HackFS 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "1assb",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "NRC20",
+    "slug": "nrc20-hkrtk",
+    "description": "NRC20 is a unique Dex that makes NFTs tradable as ERC20 tokens.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeWork",
+    "slug": "dework-raf2p",
+    "description": "Building decentralized HR & payroll system like Keka with token incentives for punctuality & extra work. Uses blockchain for transparency & security, rewarding staff with utility tokens.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "AI Promo Controller",
+    "slug": "ai-promo-controller-d7jp7",
+    "description": "Platform to find and control influencers using blockchain and AI",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Giza Weather Game",
+    "slug": "giza-weather-game-iteyv",
+    "description": "GWG, inspired by Giza and WeatherXM, uses historical weather data and time series machine learning to predict future weather. The model will be deployed on the zkml platform Giza. With Giza AI Agent, offering daily weather predictions and betting options.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "p7xo9"
+    ]
+  },
+  {
+    "name": "InsureWise",
+    "slug": "insurewise-bgeu9",
+    "description": "Receive tailored insurance recommendations and real quotes that consider all your  needs and medical history, while remaining anonymous and in control of your data.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Blogg3r",
+    "slug": "blogg3r-cdxsn",
+    "description": "Introducing a decentralized blog app that securely stores your blog posts on the blockchain, ensuring immutability, transparency, and censorship resistance. Share your thoughts with the world without intermediaries! #Blockchain #DecentralizedBlogging",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oracle",
+    "slug": "oracle-7cr6x",
+    "description": "Oracle uses AI to analyze 500M+ daily posts on X (formerly Twitter), providing real-time insights into public sentiment and emerging trends. Summarize your Twitter timeline effortlessly with our user-friendly interface.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS Magic Link",
+    "slug": "ens-magic-link-hx26t",
+    "description": "Why settle for old-school Telegram QRs when you can step into the future with ENS QR? Instantly share your contact info with a simple scan, powered by ENS.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM Warehouse",
+    "slug": "fvm-warehouse-g2h5c",
+    "description": "Developers tools to enable inventory and work order management,  preventive and reactive maintenance at the warehouse  using Filecoin Virtual machine, Starknet, Fleek and Web3 ecosystem tools.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Corgi: The Game",
+    "slug": "corgi-the-game-o7ix3",
+    "description": "Corgi the game is a game based on Corgi character using Corgi meme coin",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "HackFS",
+    "slug": "hackfs-mkgk7",
+    "description": "Efficient way to run LLM and other AI model on decentralised compute",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized-casino",
+    "slug": "decentralized-casino-dpr08",
+    "description": "We are developing a lottery app based on blockchain technology. The app will include various game variants, such as dice games. We are utilizing verifiable randomness on the blockchain to ensure fair play.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SnapShare",
+    "slug": "snapshare-24nzo",
+    "description": "\"Snapshare: A decentralized photo sharing app built on the Ethereum blockchain. Upload, share, and discover photos securely. #Blockchain #Decentralized #Ethereum\"",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GithubArchive",
+    "slug": "githubarchive-gbcfd",
+    "description": "Archive Github repositories verifiably using Lit protocol to pull and sign the repository and post it on the filecoin storage",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "KeyShard",
+    "slug": "keyshard-odizm",
+    "description": "KeyShard  Distributes key generation with FROST, a threshold Schnorr signature scheme . Participants contribute shares to a  multi-party computation (MPC) on Fluence , generating secret key shares without learning the full key .",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "b2u1b"
+    ]
+  },
+  {
+    "name": "Stablestore",
+    "slug": "stablestore-ah8sy",
+    "description": "Welcome to StableStore, the ultimate dashboard for Filecoin storage providers. Designed to streamline your operations and finances, StableStore offers a comprehensive suite of tools to manage your storage deals and monitor your performance.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "u0e0c",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Smartogents",
+    "slug": "smartogents-oer3s",
+    "description": "Smartogents is an AI-powered tool designed to enhance the understanding, testing, and simulation of smart contracts on the Galadriel Devnet.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FileLoom",
+    "slug": "fileloom-3o4vm",
+    "description": "Enhancement of py-ipfs-client through filecoin archival, unpinning and retrieval through lassie",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vggw5"
+    ]
+  },
+  {
+    "name": "Fold",
+    "slug": "fold-jboc2",
+    "description": "Fold empowers Filecoin Storage Providers with lending based on on-chain reputation calculated using Lilypad's computational power. It leverages ML models and robust risk mitigation to ensure staking profitability and prevent defaults.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GiftWrap",
+    "slug": "giftwrap-omx82",
+    "description": "GiftWrap is a platform that allows users to gift Filecoin storage to others using gift cards, paid for with stablecoins or native ETH on Base, bridging the gap between different blockchain networks.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fimmp",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "limo hijacker",
+    "slug": "limo-hijacker-4vd4b",
+    "description": "A firefox extension which does client-side verification and resolution of ENS+IPFS/IPNS sites",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoAlchemy",
+    "slug": "cryptoalchemy-1qpgg",
+    "description": "Gather ingredients, explore, trade, and create new items in this fantasy clicker game. Built with Dojo for transparency. Dive into the magic!",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WarmStorageChain",
+    "slug": "warmstoragechain-4qr57",
+    "description": "WarmStorageChain is an open-source  hot storage tier blockchain solution on Filecoin, optimizing decentralized storage and retrieval  with a hot data transition layer for rapid retrieval, reduced latency, and enhanced accessibility.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "EternaTrust",
+    "slug": "eternatrust-0apqc",
+    "description": "Willfy your documents, transactions, and wallets in the most secure and decentralized manner, backed by a trusted execution environment and smart contracts",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Tokenomics Simulator",
+    "slug": "tokenomics-simulator-gkoph",
+    "description": "We are creating a tokenomics simulator where you can input all the token parameters and see how token price behaves",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockClarity",
+    "slug": "blockclarity-k3chr",
+    "description": "BlockClarity simplifies smart contracts and blockchain transactions using on-chain LLMs via the Galadriel protocol. Users input contract addresses or transaction IDs, and BlockClarity provides clear, concise explanations, making blockchain technology accessible and transparent.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Supply Chain Ledger",
+    "slug": "supply-chain-ledger-30soi",
+    "description": "Supply Chain Ledger is your comprehensive solution for managing and tracking your supply chain using blockchain technology.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS-eip4824",
+    "slug": "ens-eip4824-xymig",
+    "description": "EIP-4824 Introduces DAO URI to organize DAO Metadata, This project paves an ENS pathway to adopt EIP-4824",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Fluence Faucet",
+    "slug": "fluence-faucet-r0ndq",
+    "description": "212 / 5,000 A faucet for Fluence developers. Log in with your Metamask wallet and receive your first FLT & tUSDC to interact with the testnet network.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "b2u1b"
+    ]
+  },
+  {
+    "name": "AdVault",
+    "slug": "advault-3ofqh",
+    "description": "Advault is the Ad infrastructure for web3, enabling seamless ad integration in blockchain products by providing an API to retrieve and display ads stored on Filecoin.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sir Frank",
+    "slug": "sir-frank-e3jx9",
+    "description": "Meet Sir Frank, your autonomous legal assistant! Using Retrieval-Augmented Generation (RAG), Sir Frank provides precise legal information, drafts documents, and conducts comprehensive research, helping lawyers save time and enhance accuracy.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chainsafe generator",
+    "slug": "chainsafe-generator-ermx3",
+    "description": "Generate c# class from your abi for the chainsafe sdk, compatible with Unity",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "soulmate.ai",
+    "slug": "soulmate-ai-3bbyh",
+    "description": "Find friends with your digital twin on a decentralized network",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sender",
+    "slug": "sender-2xxau",
+    "description": "Example of combining and sending transactions using a Lit Action",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Xyllow",
+    "slug": "xyllow-f1srg",
+    "description": "Xyllowis a blockchain-based RealEstate Dapp where seller lists their properties and buyers can buy the property and get NFT of the property as a token of ownership. Here each property is represented by an individual NFT.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoLab",
+    "slug": "colab-zs19a",
+    "description": "CoLab connects developers to collaboratively solve project issues. List your code issues, and fellow developers can assist via virtual meet rooms with a shared code editor. Communicate through mailing service and earn NFTs for successfully resolving issues.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProjectSmith",
+    "slug": "projectsmith-f7ze4",
+    "description": "ProjectSmith is a Chrome extension designed to enhance and expand the functionality of data-rich blockchain explorers like Beryx by integrating a conversational AI assistant and agent actions.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "u0e0c",
+      "y6rde"
+    ]
+  },
+  {
+    "name": "Agent XYZ",
+    "slug": "agent-xyz-h2tjp",
+    "description": "A platform to build, create and compose AI agents built on Galadriel to carry out several tasks",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TimeTracing",
+    "slug": "timetracing-4ebcw",
+    "description": "generic time stamping for files - an application that can be used in proving file or link provenance, with approval by stakeholders",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TreeTomorrow",
+    "slug": "treetomorrow-j2em0",
+    "description": "TreeTomorrow integrates tree planting with blockchain. Every planted tree is photographed, geo-tagged, and minted as an NFT stored on Filecoin. Linked to an ENS subdomain, it offers verifiable proof of existence, ensuring transparency, security, and engagement.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI RPG story game",
+    "slug": "ai-rpg-story-game-gi09k",
+    "description": "I  try to build an on chain game, but now can only finish charactor creator",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dogtoken ai erc404",
+    "slug": "dogtoken-ai-erc404-xtjh5",
+    "description": "This Dapp use erc404 with custom Lilypad stable diffusion generete unique images",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1assb"
+    ]
+  },
+  {
+    "name": "Pryv",
+    "slug": "pryv-ojkm3",
+    "description": "A decentralized frontend inference for multiple language models hosted on IPFS and Fleek.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "CipherCraft",
+    "slug": "ciphercraft-3g8kp",
+    "description": "A Decentralised Hub for federated model training on access controlled private datasets.",
+    "event": "HackFS 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "1assb",
+      "p7xo9"
+    ]
+  },
+  {
+    "name": "HackAR",
+    "slug": "hackar-bdjsv",
+    "description": "HackAR: Blending Mona Wallet, Lit Protocol, & Google's Geospatial Creator, we've built a spatial marvel on Unity. Explore the Metaplex, play Crypto Saber, and experience hyper-realistic WeatherXM—all from the comfort of home. #SpatialComputing #VR #AR",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "ZeroAI",
+    "slug": "zeroai-hn48n",
+    "description": "ZeroAI extends AI adoption by empowering Offline Access to agents created on Filecoin.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "MintScore",
+    "slug": "mintscore-ufccg",
+    "description": "A functionality that allows games using Mona's SDK enable their users to publish and mint their in game scores",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "BrieflyAI",
+    "slug": "brieflyai-y5qgj",
+    "description": "We built an AI-assisted meeting/call platform with inbuilt summarizing capabilities. The platform uses Huddle01's SDK to provide with video and audio call capabilities along with the use of OpenAI's API (Whisper and tts-1) to generate text and audio based summary of the call.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MeU",
+    "slug": "meu-tyheu",
+    "description": "decentralized education platform the devalues higher ed by removing middlemen in current institutional bureaucracies.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MonaChat VR",
+    "slug": "monachat-vr-bnr4i",
+    "description": "Bringing blockchain assets to life powered by the Mona Unity SDK! Chat and interact with all your favorite digital assets.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "op7tb"
+    ]
+  },
+  {
+    "name": "Show off",
+    "slug": "show-off-pnrrm",
+    "description": "Show Off is social AR mobile app that brings your crypto assets to life. Visualize and interact with your crypto tokens and NFTs in an AR environment. Share your AR experiences using the Lens Protocol and join friends",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Delorean Protocol",
+    "slug": "delorean-protocol-3swnm",
+    "description": "Delorean is an IPC subnet that extends the timelock encryption capabilites of DRAND. It allows for programming key generation conditions using Solidity smart contracts unlocking many new use-cases and integrations",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Chain Discourse",
+    "slug": "chain-discourse-yeo42",
+    "description": "A decentralized communication platform that leverages blockchain technology for secure, transparent, and censorship-resistant discussions",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DealFlow",
+    "slug": "dealflow-af4xp",
+    "description": "DealFlow: Unlocking Decentralized File Storage on Filecoin with Seamless Autonomy, Verifiable Security, and Robust, Scalable Solutions for Users and Storage Providers. Experience the Future of File Storage with IPC, Stablecoin Payments, and Easy Retrieval—All on-chain",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Synthetic Senators",
+    "slug": "synthetic-senators-qoo23",
+    "description": "Delegate your DAO voting power to AI agents that vote on your behalf, fully decentralised using LIT Protocol, Galadriel and running on Fleek.",
+    "event": "HackFS 2024",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "i90pd",
+      "bw7y9",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Filp2p",
+    "slug": "filp2p-8v0nf",
+    "description": "FilP2P is a Desktop app for general public to directly store file on filecoin",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Sakutaro Poems NFT",
+    "slug": "sakutaro-poems-nft-qhu44",
+    "description": "Experimental full-on-chain NFT and Dapp. Filecoin version of the project “Sakutaro Poems NFTs” deployed on multiple blockchains.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WXM Explorer v3",
+    "slug": "wxm-explorer-v3-27usz",
+    "description": "Enhancing the WXM Explorer to allow bounty creation and management.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "42b0f"
+    ]
+  },
+  {
+    "name": "DCH",
+    "slug": "dch-hz719",
+    "description": "A decentralized publication management protocol with enhanced privacy features tailored for writers",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Silo",
+    "slug": "silo-afrci",
+    "description": "A decentralized infrastructure to distribute your compute across multiple machines in parallel",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "digiShare",
+    "slug": "digishare-6cnfu",
+    "description": "digishare is the all in one digital cloud storage platform for trading and sharing digital assets securely using blockchain technology.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Project Qside",
+    "slug": "project-qside-nn3yu",
+    "description": "\"Developing a mobile app for secure sharing of user profiles and funds stored in an Account Abstraction wallet. #MobileApp #AAWallet #SecureSharing #Funds\"",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Samah: On-Chain AI",
+    "slug": "samah-on-chain-ai-ox9pu",
+    "description": "Your on-chain AI assistant offering chat, screenshot analysis, financial advice, and seamless crypto trading. Powered by blockchain and advanced AI, Samah transforms your digital interactions with real-time, intelligent assistance.",
+    "event": "HackFS 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "u0e0c",
+      "fimmp",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "DAIMM",
+    "slug": "daimm-v2ir8",
+    "description": "The rapid advancement in Artificial Intelligence (AI) has led to the creation of diverse AI models that serve various purposes across multiple industries. However, accessing, sharing, and monetizing these models remain centralized.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Serverless Functions",
+    "slug": "serverless-functions-yeoha",
+    "description": "Serverless functions for recall of asset position and average price.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ROYALNFT",
+    "slug": "royalnft-532fy",
+    "description": "immutable erc-721 NFT creator royalty broker with built in marketplace as sale price  empowering creators as owners of commissioned royalties.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blaze ID",
+    "slug": "blaze-id-z8256",
+    "description": "Secure your data with zero-knowledge proofs & verifiable credentials. Local-first wallet for ultimate control.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Filecoin ML Engine",
+    "slug": "filecoin-ml-engine-x1z4q",
+    "description": "Onchain ML engine to create Dapp ML agents on top of Filecoin",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1assb",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "DSMarket",
+    "slug": "dsmarket-fjfqg",
+    "description": "Decentralized Order Book for incentivize content Hosting across time using IPFS and Ethereum",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WatchWeather",
+    "slug": "watchweather-dxg30",
+    "description": "WatchWeather lets you check your WeatherXM devices on the go, view live weather data, monitor WXM token earnings, access local forecasts, and view historical weather charts. Stay connected to your weather network anytime, anywhere.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "42b0f"
+    ]
+  },
+  {
+    "name": "StarkFitness",
+    "slug": "starkfitness-vosc5",
+    "description": "An stake based fitness competition app based on starknet that allows you to compete with yoursefl",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "p7xo9"
+    ]
+  },
+  {
+    "name": "LIT-BEAT",
+    "slug": "lit-beat-hupcj",
+    "description": "The app uses Lit Protocol to securely encrypt, decrypt, and conditionally sign documents, ensuring only authorized users can access and sign them.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "LabCoin",
+    "slug": "labcoin-w0820",
+    "description": "Connect researchers to incentivized global research participants for equitable data collection w/ crypto payments",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Publici",
+    "slug": "publici-8jd4g",
+    "description": "On-chain AI agent that generates crypto portfolio snapshot NFT's",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sakura",
+    "slug": "sakura-5tabq",
+    "description": "Idea of an IPFS / Filecoin based solution to foster progress in mathematical research by leveraging the Lean theorem prover and a tailored reward system, to make research free and accessible.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "MissionChain",
+    "slug": "missionchain-bncu4",
+    "description": "MissionChain is a decentralized application (dApp) that enables companies to store, share, and preserve their mission statements on the blockchain, ensuring they are always accessible, secure, and verifiable.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PXL",
+    "slug": "pxl-t982r",
+    "description": "A decentralised AI service for the detection of deepfake images and videos",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y6rde"
+    ]
+  },
+  {
+    "name": "Rock Paper Ninja",
+    "slug": "rock-paper-ninja-w40wj",
+    "description": "A web3 take on Rock Paper Scissors. Play matches, win tokens, and have fun! Each game is equipped with live video and chat options to keep it entertaining. Create generative avatars and secure your unique game IDs. Coming soon to Unity.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "StoryQuests",
+    "slug": "storyquests-jav70",
+    "description": "High replay-able short form game using genAI to create unique game stories.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "identiFi",
+    "slug": "identifi-whug7",
+    "description": "identiFi is a cutting-edge blockchain-based digital identity platform that empowers users to create, verify, and manage their unique decentralized identifiers (DIDs) securely. Seamlessly issue and verify credentials, ensuring privacy and authenticity across various platforms.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nero",
+    "slug": "nero-smkkq",
+    "description": "Platform to create, launch and manage phygital NFTs with interactive AI avatars & VR environments",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Youmio",
+    "slug": "youmio-csrbi",
+    "description": "Youmio is a decentralized video conferencing platform leveraging blockchain, Livepeer, and IPFS for secure, scalable, and user-centric communication. Empowering users with data privacy and robust security, Youmio redefines online collaboration in the Web3 era",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Private AI Bot",
+    "slug": "private-ai-bot-aopqo",
+    "description": "Use your wallet to access custom AI agents, keeping your data, RAG, and queries secure.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Movie Meme Launchpad",
+    "slug": "movie-meme-launchpad-6q2ed",
+    "description": "The project is initialized based on `Scaffold-ETH 2`. We learned from [`ERC404`](https://github.com/Pandora-Labs-Org/erc404) and referred to [`ERC404-Pro`](https:// github.com/HelloRWA/ERC404Pro), we created our ERC404-RWA Protocol.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "QuestAI",
+    "slug": "questai-mdfzp",
+    "description": "QuestAI is an AI based search engine powered by Fleek and IPFS",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChirpCaster",
+    "slug": "chirpcaster-tqzfn",
+    "description": "Chirpcaster is an innovative push-to-talk decentralized application (dApp) designed to facilitate real-time voice communication over blockchain networks.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Obs3dian",
+    "slug": "obs3dian-mvum8",
+    "description": "Zettelcasten - Web 3 Digital Brain: end-to-end encrypted, stored on IPFS Markdown files.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FleekLens",
+    "slug": "fleeklens-9wqzp",
+    "description": "Experimenting with fleek and deploying projects there just trying it out.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NASC",
+    "slug": "nasc-dvyv5",
+    "description": "Natural Asset Smart Contract Standard to enable markets for ecosystem services.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Binecone",
+    "slug": "binecone-5cku0",
+    "description": "Binecone Project for HackFS 2024.  - Data DAO Project based on FVM",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "PlayBack Network",
+    "slug": "playback-network-xrqtm",
+    "description": "Playback Network is a decentralized data marketplace for training a large action model",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "y6rde"
+    ]
+  },
+  {
+    "name": "Arbichain",
+    "slug": "arbichain-ec7gc",
+    "description": "Smart contract managed dispute arbitration with AI-assisted verdicts: a simpler way to settle disputes.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Filplorer",
+    "slug": "filplorer-xofgw",
+    "description": "AI infra search engine-based metadata and basic data search explorer platform",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "FarmersClub",
+    "slug": "farmersclub-qdybw",
+    "description": "This allows farmers to sell and re sell their crops  directly without any intermediate",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mosaics",
+    "slug": "mosaics-87y5x",
+    "description": "Mosaics is an on onchain multiplayer puzzle game powered by AI. Piece together tile puzzles from AI prompts, stake assets, earn NFTs, and collaboratively solve puzzles in multiplayer challenges for a top spot on the leaderboard!",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "v693n",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Annotate",
+    "slug": "annotate-pj8cr",
+    "description": "Annotate is our innovative platform designed to bridge the gap between large companies and professional annotators, ensuring the seamless creation of training data essential for AI development.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vaultium",
+    "slug": "vaultium-48x0a",
+    "description": "We are an IPFS based repository for abandonware videogames, willing to preserve old school classics forever",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "Cultiva Agro",
+    "slug": "cultiva-agro-h1hi6",
+    "description": "Cultiva Agro is an RWA service offered within the Mundo Digital application that aims to promote the digital inclusion of rural producers and provide decentralized financial services",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShaderChain",
+    "slug": "shaderchain-h76kf",
+    "description": "fuse shader technology, Web3 blockchain, and transaction IDs to create one-of-a-kind 3D artworks，And allows users to view their work through ENS",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Teleporr",
+    "slug": "teleporr-ae4rd",
+    "description": "A React app, to which anyone can upload a video of their perspective while taking a walk in the morning to IPFS for everyone to see.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xbsidian",
+    "slug": "0xbsidian-f0w2r",
+    "description": "0xbsidian is an obsidian plugin that enables collaboration on documents by on chain identities. Doc data are content-adressed,  stored and encrypted with LIT.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Filtion",
+    "slug": "filtion-i0rnb",
+    "description": "A Web3 Name Service which leverages decentralized storage to allow users to create amazing blogs",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "0q1p4"
+    ]
+  },
+  {
+    "name": "CryptoClash",
+    "slug": "cryptoclash-w3bnj",
+    "description": "A multiplayer first person boxing game where you can unlock skins, weapons, and fight in your MONAVERSE metaverse spaces!",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "op7tb",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Web3Sign",
+    "slug": "web3sign-5n5hb",
+    "description": "Web3Sign enables you to store and sign documents in a completely decentralized manner. Documents are stored using IPFS storage, and signatures are recorded on the blockchain.",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "InvoiceHero",
+    "slug": "invoicehero-f4n02",
+    "description": "Create & share professional invoices in seconds, totally free! Sign in to unlock blockchain-powered security, crypto payments, and more.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Lottus H2E",
+    "slug": "lottus-h2e-xzxd5",
+    "description": "Lottus is a the First Help2Earn platform where users buy tickets to support charities. Each week, one charity and one participant win a portion of the prize pool, with unique NFTs awarded to winners and participants.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Soundbox",
+    "slug": "crypto-soundbox-3evt1",
+    "description": "Streamline your crypto management with our DApp, delivering instant transaction alerts directly to your device. Fully integrated with MetaMask, stay updated with real-time auditory notifications.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Audify",
+    "slug": "audify-wvqpw",
+    "description": "Audify is a cast action that converts any text into a song onchain using decentralized compute",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TOV Protocol",
+    "slug": "tov-protocol-bw7fe",
+    "description": "A community building tool that implements a Universal Dividend monetary system as a tokenomics framework and Web of Trust as a knowledge graph of the community.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HimalayaZkBarrier",
+    "slug": "himalayazkbarrier-g7qjo",
+    "description": "A top-tier platform for secure, private data storage, leveraging advanced cryptography and decentralized tech.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Rose",
+    "slug": "rose-2xm7d",
+    "description": "Smart storage solution built on top of IPFS & Filecoin, benchmarking deduplication process, and optionally enabling proof of ownership using ERC721. BUIDL for humans.",
+    "event": "HackFS 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Technology Trees",
+    "slug": "technology-trees-zz9fd",
+    "description": "Decentralized scientific collaboration that enables updatable maps of technological progress allowing user to contribute, fund, and earn rewards based on their participation, driving the collaborative growth and tackling futuristic technologies with precision",
+    "event": "HackFS 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PeosFi",
+    "slug": "peosfi-5cdm4",
+    "description": "PeosFi aims to solve the problem of limited access to capital by enabling uncollateralized borrowing through a decentralized platform.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decast.Live",
+    "slug": "decast-live-me3az",
+    "description": "Decast.Live is a live casting platform that aims to build a privacy-first video infrastructure and services to web3 and traditional organisations.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SupplyGuard",
+    "slug": "supplyguard-m9kr9",
+    "description": "SupplyGuard is a decentralized supply chain management platform enhancing transparency, accountability, and efficiency. Built on Ethereum smart contracts, it leverages AI-generated arts, Web3.storage, and secure solution for modern supply chains.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IDCV",
+    "slug": "idcv-hsc87",
+    "description": "Next-gen resumes: private, owner-controlled, decentralized, IPFS stored and .cv domain linked on and off chain.",
+    "event": "HackFS 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

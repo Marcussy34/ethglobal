@@ -1,0 +1,1331 @@
+[
+  {
+    "name": "Namdaemun Marketplace",
+    "slug": "namdaemun-marketplace-nm-nmrcu",
+    "description": "Marketplace for Buyers and Seller utilizing the Polygon MATIC",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filament Finance",
+    "slug": "filament-finance-kdfnv",
+    "description": "A Dapp for managing personal finance, including scheduled streaming payments using NFT anchors.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DChan",
+    "slug": "dchan-uegx2",
+    "description": "DChan is a decentralized meme and picture conversation, where people post on multiple pages referencing there favorite topics while only using Memes and pictures with description",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "96pd9"
+    ]
+  },
+  {
+    "name": "METAMARK",
+    "slug": "metamark-f88fk",
+    "description": "Decentralized note that you can trust  and data stored securely",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Append",
+    "slug": "append-zj3ju",
+    "description": "Create a pixel-perfect Web 3.0 blog, store, or app. Drag and drop elements to create an unstoppable website with no code.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Pastepin",
+    "slug": "pastepin-tw60z",
+    "description": "Pastepin is a decentralized pastebin that allows you to share text and files easily.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Space FS",
+    "slug": "space-fs-ai82o",
+    "description": "Idea is to Blockchain-based platform for hosting live audio/music/voice events. It's a social platform for the artist to perform and their supporters can join there where both parties get incentives to participate. As of now its incomplete",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Image Sharing as NFT",
+    "slug": "image-sharing-as-nft-ykaej",
+    "description": "Image sharing as NFT on IPFS using  NFT.storage by using IPFS this you can store your image and share with your friends using CID",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "MultiChainBot",
+    "slug": "multichainbot-r2p6g",
+    "description": "MultiChainBot - an example of best use of sponsors APIs in a Discord Bot",
+    "event": "HackFS 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "a1him",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "DxAggregator",
+    "slug": "juan-obligado-hfs2021-wk0en",
+    "description": "Composable price aggregation service which will allow devs to easily access / create and store historical data sets in a descentralized manner",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "b2u1b"
+    ]
+  },
+  {
+    "name": "Innovatract",
+    "slug": "innovatract-p9yyw",
+    "description": "A smart contract that enables users to enter binding contracts with themselves",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InLight Meditation",
+    "slug": "inlight-meditation-gqr7g",
+    "description": "A meditation timer and progress tracking app that mints an NFT for every meditation session. Buy and sell meditation NFTs inside the app.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Out of the Ether",
+    "slug": "out-of-the-ether-wdvxq",
+    "description": "One-click NFT minting from 'screesnhot' of animated Canvas. Animation is an Ethereum logo silhouette with scaling rectangles from within it.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unstoppable Clubs",
+    "slug": "unstoppable-clubs-psa46",
+    "description": "Creators can create clubs where people can become members and have access to exclusive content. Everything is decentralised. No one can censor anything.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "NFTFreezer",
+    "slug": "nftfreezer-535dw",
+    "description": "Not all NFT projects have metadata uploaded to IPFS. NFTFreezer is a way for NFT collectors to upload their NFTs on chain and have their metadata and images stored on the polygon chain.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "jrnlst",
+    "slug": "jrnlst-p2w3g",
+    "description": "A decentralized text differencing and change tracking tool to compare immutable versions of text. Built for journalists and publishers in an effort to foster transparency in corrections, retractions and updates made to published pieces. Think of git diffs, but for articles.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Chill with Audius",
+    "slug": "chill-with-audius-s348q",
+    "description": "Discover Popular Music along with info about Genres. Shuffle some music or just let it play continuously.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P2P Advertising",
+    "slug": "p2p-advertising-xnycw",
+    "description": "P2P advertising using Polygon Blockchain and Chainlink. It also uses Chainlink and Metamask.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Git",
+    "slug": "om-parikh-hfs2021-q6cfe",
+    "description": "This is decentralized version of git which allows basic functionalities of git",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meme Lord Game built with JVM Metaverse",
+    "slug": "meme-lord-game-built-with-jvm-metaverse-v7iya",
+    "description": "JVM is a metaverse platform and Meme Lord Adventure is a Polygon based play-to-earn meme community game built using NFT on IPFS and related technologies.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "NFT Options",
+    "slug": "nft-options-m1taf",
+    "description": "NFT options protocol using IPFS and UMA long short pair library.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bulletin Block System",
+    "slug": "bulletin-block-system-kkxtb",
+    "description": "Bulletin Block System: An homage to BBSes as a board of scrolling blocks of ANSi art",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Pulp",
+    "slug": "pulp-2996h",
+    "description": "Pulp is a distributed publishing platform built on Ethereum and IPFS. Not your keys? Not your Subscriber.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Storage Monkey",
+    "slug": "storage-monkey-nyi6n",
+    "description": "Storage Monkey lets users share their address aliases across DApps, in a secure and decentralised fashion.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Blockchain Robotics",
+    "slug": "blockchain-robotics-809to",
+    "description": "A framework for integrating IoT devices and blockchain applications",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Block Map",
+    "slug": "block-map-ippa1",
+    "description": "There are so many services an user uses nowadays. This app will help visualize user's DeFi ecosystems.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nebary",
+    "slug": "nebary-ifqsr",
+    "description": "iOS Siri bridge to IPFS/Filecoin built as an iOS Shortcut which leverages the Estuary API.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Dough Maker",
+    "slug": "dough-maker-unr9z",
+    "description": "Dough maker is a project for turning data into Web3 dough on blockchain",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Babel",
+    "slug": "babel-ochoe",
+    "description": "Babel is a generative NFT protocol, allowing users to contribute to a collaborative poem with words that they own.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "AudiusTip",
+    "slug": "audiustip-kvujs",
+    "description": "AudiusTip - Musician-Fan token liquidity service which aid support & buy items",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3kfd8"
+    ]
+  },
+  {
+    "name": "Frakture",
+    "slug": "frakture-ouku6",
+    "description": "Factory for ongoing revenue sharing, using Superfluid IDA, storing data on IPFS.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Doxx",
+    "slug": "doxx-s78j9",
+    "description": "A web3 notebook linked to your ENS name. Edit text, upload files and images, and publish to the decentralized web.",
+    "event": "HackFS 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "96pd9",
+      "xdat5",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Immutable News",
+    "slug": "immutable-news-4sy4k",
+    "description": "The idea will be to have few stories a day that is related to news of the day that seems important to the author of the new and voters of the new, that deserves to be remembered (e.g. a plane crash, a nobel prize, etc...)",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GENERATXOR",
+    "slug": "generatxor-icpd7",
+    "description": "The focus for this project was NFT creation and storage with interaction on layer one and layer two.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3 Dev Tools",
+    "slug": "web3-dev-tools-w3zvb",
+    "description": "Web3 Dev Tools consists of dev tools powered by Web3 technologies. As of now, it includes Container Registry & NFT Detection using machine learning models (AI Hub).",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Blockhead: The HackFS Web 3.0 Update",
+    "slug": "blockhead-the-hackfs-web-3-0-update-c6acm",
+    "description": "The building continues! Adding Ceramic/IDX decentralized identity authentication, historical transactions via Etherspot & Covalent, IPFS gateway controls, and an Audius explorer/music player to Blockhead, a crypto portfolio/block explorer/DeFi/web 3.0 interface!",
+    "event": "HackFS 2021",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "oiv32",
+      "3kfd8",
+      "96pd9",
+      "f8ku2",
+      "f7o0p",
+      "mdb6w",
+      "a1him"
+    ]
+  },
+  {
+    "name": "Web3 Dark Mode",
+    "slug": "web3-dark-mode-qfv4e",
+    "description": "Change website designs and crowdsource the edits to increase your reputation.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vitrine",
+    "slug": "vitrine-1q34z",
+    "description": "Vitrine is the Web3 User Profile. It aggregates all different types of assets from different chains and metaverse apps",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creators CrowdFund",
+    "slug": "piyoush-choudhary-hfs2021-74r2z",
+    "description": "This dapp is designed in such a way that creators can raise the funds in milestone and funders can vote on quality of campaign following which contract will decide weather creator is fraud or not and will only release funds when milestone is reached!",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Petgram",
+    "slug": "petgram-oovzo",
+    "description": "PetGram is a decentralized version of the Instagram platform where each viewer pays to have access to the exclusive content of their favorite pets.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "NFTaftermarket",
+    "slug": "nftaftermarket-vec8q",
+    "description": "SuperXEROX V2 SDK released for developers to create their own NFT copy machines.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "a1him",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "SnapNFT",
+    "slug": "snapnft-u17ah",
+    "description": "We are building a decetralised solution to create and sell AR Filters as NFTs. People can use these AR Filters to take pictures and videos and post it directly on our platform.",
+    "event": "HackFS 2021",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "3kfd8",
+      "96pd9",
+      "f8ku2",
+      "f7o0p",
+      "s0vuq",
+      "eov0f",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "Easy Web3",
+    "slug": "easy-web3-sunsz",
+    "description": "A website builder for non-coder to create simple web3 applications",
+    "event": "HackFS 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "3kfd8",
+      "f7o0p",
+      "mdb6w",
+      "s0vuq",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "p2p game",
+    "slug": "p2p-game-ckmg9",
+    "description": "p2p game(tic-tac-toe) using libp2p, stores game data on web3.storage.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Filscan",
+    "slug": "filscan-q2zmm",
+    "description": "Filscan provides one-stop data service for participants of Filecoin ecosystem.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Kopper",
+    "slug": "kopper-ns1v6",
+    "description": "Decentralized Music Streaming Platform that allows music artists to form a close community with their fans through music streaming, distribution, and event promoting.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "oiv32",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Kensho",
+    "slug": "kensho-jmajp",
+    "description": "Solving  issues of trust in the higher education space using blockchain.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Courtify",
+    "slug": "courtify-cj45i",
+    "description": "A platform for storing tamper proof evidence for the Court Proceedings.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenLabs",
+    "slug": "openlabs-i7f02",
+    "description": "OpenLabs is a blockchain-based peer review platform for scholarly research that promotes open science through the use of tokenomics and a robust reputation system. Our mission is to mitigate the replication crisis currently experienced in the soft sciences.",
+    "event": "HackFS 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "f8ku2",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "web3comics",
+    "slug": "web3comics-1zr5z",
+    "description": "Webcomics for the web3 so that content creators can find new ways to monetize their comics and users can support their favorite artists by collecting NFTs of their publications",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "P2P Lending Platform",
+    "slug": "p2p-lending-platform-3od9b",
+    "description": "A Peer to Peer exchange that uses ERC-721 token standards to allow the lending and borrowing of real world items.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "CheckoutFS",
+    "slug": "checkoutfs-kc9ix",
+    "description": "Create instant checkout pages for your business or service hosted on IPFS.",
+    "event": "HackFS 2021",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "3kfd8",
+      "96pd9",
+      "96pd9",
+      "b2u1b",
+      "a1him",
+      "s0vuq",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Fidelius.eth",
+    "slug": "fidelius-eth-wqv9t",
+    "description": "Fidelius.eth  is a dApp used to share organizational secrets among DAO members using Ethereum identities. The age of the encrypted DAOs is about to begin!",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "96pd9"
+    ]
+  },
+  {
+    "name": "Decentralised Social Media",
+    "slug": "decentralised-social-media-pqw6r",
+    "description": "Provide a decentralised social media for users to interact with friends and community and also provide an option to sell some of the content as NFT for content creators.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f2so0"
+    ]
+  },
+  {
+    "name": "ShutterSea",
+    "slug": "shuttersea-kzae0",
+    "description": "Unsplash on IPFS: A decentralized platform for downloading high-quality stock photos.",
+    "event": "HackFS 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "s0vuq",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Upld",
+    "slug": "upld-xquik",
+    "description": "Upld is a video sharing website built on top of IPFS. The main goal of the platform is to be able to provide content creators with the ability of monetizing their contents, without filling up their users screentime with ads.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3kfd8",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "CryptoPotatoes",
+    "slug": "cryptopotatoes-jvo4o",
+    "description": "Memory game where users can match cute pairs of potatoes and buy as NFTs",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cidSign",
+    "slug": "cidsign-uxu93",
+    "description": "Sign CIDs on Ethereum Blockchain and verify address using DNS",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Sprout",
+    "slug": "sprout-z0r9k",
+    "description": "Decentralized Medium+Twitter powered by web3, smart contracts, and IPFS.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "BraineumVerse",
+    "slug": "braineumverse-e8m2w",
+    "description": "BraineumVerse is the mapping of the real world into the mind-space of a pseudo-AI called Braineum to simplify life and its interactions.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Mote",
+    "slug": "mote-8myf0",
+    "description": "Mote is a social media Dapp for podcast-style 1:1 conversations. Conversations are saved as NFTs, which are fractionated & speculated on by followers.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Medical Images uploaded to FileCoin by OpenVessels",
+    "slug": "medical-images-uploaded-to-filecoin-by-openvessels-ie6gn",
+    "description": "healthcare systems are required by law to keep a CT scan on file for 7 years storage cost can be costly so providing a feature to access FileCoin with Medical Datapipeline",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Crypto Devs NFT",
+    "slug": "crypto-devs-nft-n1sid",
+    "description": "A non-transferrable NFT that serves as a personal portfolio/resume for aspiring crypto developers.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Cryptoastmasters.org",
+    "slug": "cryptoastmasters-org-037iw",
+    "description": "We are building a community of people who want to get better at communicating, improve public speaking and learn leadership skills. Members would participate in meetings by preparing, delivering crypto or blockchain presentations and getting feedback.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Difo",
+    "slug": "difo-ptb6d",
+    "description": "DIFO - Derivated Income Funding Operations; Non-zero-sum structure - For funding or for subscription and Quadratic Funding option.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Mango Jelly",
+    "slug": "the-mango-jelly-hackfs-239db",
+    "description": "Earn passive income using your NFTs. How? Sell merch with your NFTs. Discover The Mango Jelly's NFT plus Print on Demand solution.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "FungyProof",
+    "slug": "fungyproof-3jbvm",
+    "description": "A Third-Party Grading and Enrichments Platform for the token metaverse.",
+    "event": "HackFS 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "f7o0p",
+      "xdat5",
+      "s0vuq",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Decentralized Mahjong",
+    "slug": "fen-san-de-majiang-w3ep5",
+    "description": "Mahjong but decentralized with the option of betting. It stores logs in IPFS.",
+    "event": "HackFS 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "s0vuq",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "CarbonReviews",
+    "slug": "carbonreviews-2c3fz",
+    "description": "Decentralized and tamper-proof review mechanism for consumers to rate the carbon footprint of products available in major supermarkets in the country and help other consumers to make more informed purchases on the products.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Defi Together - Moon Together",
+    "slug": "defi-together-moon-together-3es2q",
+    "description": "Chat and invest in Defi together with friends, no trust required.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "96pd9"
+    ]
+  },
+  {
+    "name": "NFTrail",
+    "slug": "nftrail-qx781",
+    "description": "Create an On-Chain Documentation Trail for your physical assets using a combination of NFTs, IPFS Document storage and Chainlink Oracles.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Atlantis World",
+    "slug": "atlantis-world-tcvxd",
+    "description": "A virtual world where you can live, work, play + earn: we are building the first lightweight metaverse enabling interactive, token-gated community spaces powered by secure DeFi.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "oiv32",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Footprints",
+    "slug": "footprints-r9d87",
+    "description": "Location based memorials and Photography Specific NFT marketplace with inbuilt tool to identify counterfeit NFTs",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "FileDAG",
+    "slug": "filedag-a0k5k",
+    "description": "FileDAG is a decentralized storage solution based on IPFS. It will provide high-quality and efficient IPFS Pin Service and customized network service based on customer requirements.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoShooters",
+    "slug": "cryptoshooters-51o6e",
+    "description": "CypherShooters is a blockchain play-and-earn game that gives you the opportunity to battle enemies with a mix of Operators and Gun NFTs. In the world of CypherShooters, you must put together a team of operators and arm them with the best guns available to take down the enemies.",
+    "event": "HackFS 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "xdat5",
+      "qy8m3",
+      "s0vuq",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "DeFiWiki",
+    "slug": "defiwiki-m88hy",
+    "description": "DeFiWiki is a platform with information about DeFi projects. Its advantages are that the content is immutable(IPFS), attributable(signed by creator) and there are tokenomic incentives in place to ensure high content quality and curation.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xirva",
+    "slug": "xirva-dqtmo",
+    "description": "Xirva (pronounced Kirva) is the decentralized version of Arxiv.  Publish, store and share your scientific papers using IPFS.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "EthBlox",
+    "slug": "ethblox-b37sd",
+    "description": "A social platform for users to share their NFTs, join communities, and make friends—with all posts and communication hosted on IPFS.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Disco Rock Repo",
+    "slug": "disco-rock-repo-9brhy",
+    "description": "Last 60 years of popular music video and audio file repository.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Rightoken",
+    "slug": "rightoken-bss48",
+    "description": "Rightoken is reimagining the music industry by building a stock market for music",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "NetSepio",
+    "slug": "netsepio-r078r",
+    "description": "Browser Extension allowing users to review a website (or any virtual asset) minted as an NFT for making web browsing experience safer",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "96pd9"
+    ]
+  },
+  {
+    "name": "Project Infinity",
+    "slug": "project-infinity-6tstk",
+    "description": "Infinity Portal of NFTs, create NFTs within NFTs to traverse through different portals.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Blizzt",
+    "slug": "blizzt-mzz76",
+    "description": "Blizzt evolution NFTs is a NFT that can evolve to another phases. It's designed to use in the video game industry supporting two evolving methods, free2play and pay2win",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FiveToken",
+    "slug": "fivetoken-qam9m",
+    "description": "to bridge Filecoin ecosystem to Web 3 metaverse with reliable ID management",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Coffee Chain",
+    "slug": "coffee-chain-rw4ge",
+    "description": "Marketplace with digital payment systems, which provides traceability and digital certificates based on IPFS and the Filecoin Blockchain.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Certificate Maker NFT",
+    "slug": "certificate-maker-nft-4a258",
+    "description": "A dapp where users can use certificate template to create certificate and upload it to IPFS",
+    "event": "HackFS 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "s0vuq",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Dapper",
+    "slug": "dapper-8cyfe",
+    "description": "Dapper is a meta-NFT handshake collectible based on Ethereum. We provide iconic handshakes from the web for you to mint!",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "googli.eth",
+    "slug": "googli-eth-fr8x4",
+    "description": "creating a blockchain based notary service with final document minted to  nfts. Native token reward system.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Spect",
+    "slug": "spect-oc9eg",
+    "description": "Spect is a reputation based deal making  protocol that makes it easy for contributors to contribute to Web 3.0 projects and the projects to find talented contributors.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Games Vault",
+    "slug": "games-vault-89zwg",
+    "description": "Games Vault is a decentralised game distribution eco-system. This includes a game NFT marketplace, game libraries and developer portal with profile and game upload functionality.",
+    "event": "HackFS 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "s0vuq",
+      "eov0f",
+      "pfyco",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Geddit",
+    "slug": "geddit-vgr7w",
+    "description": "Social media platform developed by using blockchain technology and introduce a social networking decentralized application.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Saturn",
+    "slug": "saturn-4e4xp",
+    "description": "P2P decentralized file sharing application without any limits. Think Wetransfer, but way better.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Filecoin Payment Bridge",
+    "slug": "filecoin-payment-bridge-bsgpw",
+    "description": "A multichain payment solution for Filecoin system  in one platform",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "ScholarDAO",
+    "slug": "scholardao-g1dvr",
+    "description": "Democratize research using a decentralized peer-review mechanism, reputation system of scientists, validators & papers, and a citations indexer.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "METABANK",
+    "slug": "metabank-4xqo5",
+    "description": "We are creating a Banking Dapp that provides  savings account and 'digital credit card' for the Metaverse",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Watchhh",
+    "slug": "watchhh-dd4z9",
+    "description": "Watchhh - a censorship/takedown resistant archive of your tweets & DMs",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Metacards (v2)",
+    "slug": "metacards-v2-np0wb",
+    "description": "Metacards is a platform where people can mint their own Trading Card Set as NFTs with a few clicks. To enable their fans to access exclusive content through holding the NFTs.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Journals",
+    "slug": "journals-she04",
+    "description": "Investigative journalism for real-time news events that creates a healthy balance between human input and Artificial Intelligence . Humans even get rewarded!",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Royalty Free NFT",
+    "slug": "royalty-free-nft-1sz5d",
+    "description": "Royalty Free NFT is a marketplace and hub for artist to sell their work as a royalty free licensable legal agreement.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "DBeats",
+    "slug": "dbeats-9eckv",
+    "description": "DBeats is a decentralised Live Video Streaming & Music Streaming censorship resistant Platform for Content Creators & Artists. Fans & Followers(Audience) can donate(MATIC) directly to their favorite artists with an oboard fiat-on-Ramp.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "2C Publisher",
+    "slug": "2c-publisher-6u9bz",
+    "description": "Decentralized dApp for web3/static file deployment. Allows developers to publish web3 frontends on Filecoin/IPFS, and digitally sign their version/location hash.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Photolla",
+    "slug": "photolla-3j1po",
+    "description": "Decentralized image sharing platform for the creators to create and the fans to support",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arthology",
+    "slug": "arthology-tyyoa",
+    "description": "Bridging the gap between NFTs and the traditional art world.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MemeX",
+    "slug": "memex-b888c",
+    "description": "MemeX is a DeFi Powered NFT Lottery. Users will stake $MEMEX to earn points to enter lottery drops.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Ventura Protocol",
+    "slug": "ventura-protocol-54rbw",
+    "description": "Crowdsourced NFT wish-list, where anyone who pledges gets a % of the sale",
+    "event": "HackFS 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "xdat5",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Fragment",
+    "slug": "fragment-osbcs",
+    "description": "Fragment is a proposition to leverage Filecoin, IPLD schemas and the Fluence network to organize data processing pipeline in open contexts, foster collaboration and data re-usability.",
+    "event": "HackFS 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "xdat5",
+      "b2u1b",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "BALD NFT Storage",
+    "slug": "bald-nft-storage-0fvgt",
+    "description": "Backend system to deploy assets to nft.storage and nft contract to ethereum",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Dead Man's Switch",
+    "slug": "dead-man-s-switch-qfeyv",
+    "description": "Dead Man's Switch -  Automatically releases files to trustees if you become incapacitated",
+    "event": "HackFS 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "f8ku2",
+      "s0vuq",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "RhadaPay",
+    "slug": "rhadapay-ms6uq",
+    "description": "Rhada is pioneering 'Event Driven Payments'. We are building a service for DApp developers to link  payment streams to real world events.",
+    "event": "HackFS 2021",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "x59d1",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Crimson Affe",
+    "slug": "crimson-affe-yfn0h",
+    "description": "A decentralized NFT marketplace exchange for artists that helps adopt them to the blockchain ecosystem",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Ferry",
+    "slug": "ferry-jdop6",
+    "description": "A short term file transfer tooling for Web 3. This simple Dapp can be used for quick and UX friendly file transfers on IPFS/Filecoin made for the everyday user, for free! Subscribers can get more features including, link management, extended file size and expiry limits",
+    "event": "HackFS 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "oiv32",
+      "f8ku2",
+      "xdat5",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "$DTT",
+    "slug": "-dtt-jd6z5",
+    "description": "We are focused on building a self-sovereign identity solution using crypto-economic incentives in the Filecoin ecosystem. https://showcase.ethglobal.co/hackfs2021/-dtt",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "Shadowy Super Coder == The Game",
+    "slug": "shadowy-super-coder-the-game-fjjzf",
+    "description": "A  simple endless runner blockchain game using IPFS for game state storage and",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "2C | The Data Wallet & BYOF Marketplace",
+    "slug": "2c-👛-the-data-wallet-🥂-byof-marketplace-52c9j",
+    "description": "👛 The Data Wallet hosts social graphs of trusted people, so that any dApp can load data curated by specific communities. The 🥂 BYOF Marketplace (Bring-your-own-frontend) uses the 👛 The Data Wallet to load decentralized UIs for each dApp, from a user’s trusted communities.",
+    "event": "HackFS 2021",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "96pd9",
+      "xdat5",
+      "s0vuq",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "MDTP",
+    "slug": "mdtp-jg12u",
+    "description": "Digital content space to show off your NFTs, that you own as an NFT!",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Landpeer",
+    "slug": "landpeer-kng96",
+    "description": "Sell your land, not your token. Landpeer enables videos of your NFT real estate to display on WeMeta.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Descrow",
+    "slug": "descrow-8uwfg",
+    "description": "A decentralized escrow service for swapping code and crypto.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Call Meta",
+    "slug": "call-meta-6k1a9",
+    "description": "Application for navigating pair programming and online meeting videos with rich metadata.",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "96pd9"
+    ]
+  },
+  {
+    "name": "Coopart",
+    "slug": "coopart-nct1h",
+    "description": "Coopart is the first-ever cooperative tile-based NFT art marketplace.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "dunp.org",
+    "slug": "dunp-org-jfm2n",
+    "description": "Decentralized Universal Networking Protocol - social/professional networking media data layer for web3 apps",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Meme-verse",
+    "slug": "meme-verse-3f36k",
+    "description": "Platform to mint memes to sell. Audience can buy the memes giving them access to creator's livestream.",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Internal Story",
+    "slug": "internal-story-p79ev",
+    "description": "Internal story is decentralized inventory management system. The goal is to provide people to manage a simple retail store using our inventory management system and accept crpto payments",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "a1him",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Discovery",
+    "slug": "discovery-otq5g",
+    "description": "Discovery educates and onboards users and developers into the future of the web through collaboration and gamification.",
+    "event": "HackFS 2021",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "f7o0p",
+      "xdat5",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Traffic Light Simulator",
+    "slug": "arnav-shah-hfs2021-hmrg6",
+    "description": "Creating a smart contract as an introduction to Ethereum. Using State channels as the main backbone.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Puma iOS: Eth & Unlock & Web3.storage preview",
+    "slug": "puma-ios-eth-unlock-web3-storage-preview-zt0cj",
+    "description": "Puma: Ethereum Wallet, Unlock Protocol and Web3.storage preview for iOS demo",
+    "event": "HackFS 2021",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Glyph",
+    "slug": "glyph-an-nft-marketplace-for-minting-scientific-experiemets-and-using-splitstream-funding-mechanism-to-fund-open-ideas-innovation-x9kzg",
+    "description": "We are creating an Dapp for people to  mint the papers / scientific ideas  ( as an way to  support the author and references ) and then using the merkle distributor mechanism to pay to all the contributors  , the proceeds of the bid of that given token",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Joshua Cheong",
+    "slug": "joshua-cheong-hfs2021-qf40x",
+    "description": "Betting Game in Matic network with Chainlink based from Dapp University's game.  This is to test that Chainlink Oracles can operate independently from Ethereum Mainnet, with Matic.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "filwallet",
+    "slug": "lucas-viana-hfs2021-0vorr",
+    "description": "A simple desktop wallet build with javascript react electron filcoin wallet  with support to web3storage",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Trapchain",
+    "slug": "trapchain-c8szu",
+    "description": "Using flashbots to send batch transactions to token curated playlists.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "daoWare",
+    "slug": "daoware-bdqna",
+    "description": "No code MVP Application to generate a DAO + Deploy website to IPFS",
+    "event": "HackFS 2021",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Insurance.network",
+    "slug": "insurance-network-hfs2021-muewk",
+    "description": "A Cyber Insurance Marketplace that allows people to create, bid and fufill cyber insurance contracts.",
+    "event": "HackFS 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

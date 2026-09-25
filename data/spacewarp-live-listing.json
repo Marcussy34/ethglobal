@@ -1,0 +1,2336 @@
+[
+  {
+    "name": "Hefa",
+    "slug": "hefa-eq2jy",
+    "description": "It will be beneficial for the healthcare industry  Decentralized health records for hospitals and insurance companies will revolutionize the healthcare industry by providing secure, real-time access to patient data.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dealmatch",
+    "slug": "dealmatch-hojhu",
+    "description": "Deal Matching Platform for clients to make auctions for storage in FIL/custom ERC20 tokens and storage providers to claim these Deals.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Snniper",
+    "slug": "snniper-i3j1o",
+    "description": "Web3-Native solidity snippets for the world's best communities.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LinkFi",
+    "slug": "linkfi-8pzog",
+    "description": "Create on-chain profile on FVM and mint your own domain with FNS",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Connect",
+    "slug": "nft-connect-nx7d8",
+    "description": "Our application enables users to connect with NFT/ENS owners and communicate with them via PUSH Chat. They can also initiate video calls using Huddle01 to express their interest in a specific NFT/ENS and negotiate.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Predict Board",
+    "slug": "predict-board-yeqtg",
+    "description": "Predict Board is a decentralized platform for predicting and betting on real-world events where users can stake FIL token on a question and get exciting and high returns.  We can provide you more returns with the help of external network staking clients.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smartran",
+    "slug": "smartran-knceo",
+    "description": "Smartran is platform That provides its customer the facility to purchase “Live Money Streaming” NFTs .",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Court.FIL",
+    "slug": "court-fil-fqg8d",
+    "description": "This project creates a decentralized platform for courts. It offers an immutable storage solution for evidence and integrates a real-time video calling feature. This allows for secure and transparent court proceedings without the need for physical presence.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DoACS",
+    "slug": "doacs-t49eb",
+    "description": "Access Control Service for files on IPFS. Update your files on IPFS and share access with your friends.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vault Tag",
+    "slug": "vault-tag-jkxfu",
+    "description": "Multi wallet, Multi-sig for any transaction . This certainly adds that additional security.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mail3",
+    "slug": "mail3-jmh2r",
+    "description": "Web3 mail system with better feature like video mail.Mail3 is a blockchain-based email service which Allows users to send e-mail through wallet addresses to anybody",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BeatBoxx",
+    "slug": "beatboxx-7bee1",
+    "description": "BeatBoxx is a Decentralized Music, Podcast and Video Service Platform!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LighthouseSnap",
+    "slug": "lighthousesnap-kw58o",
+    "description": "Lighthouse snap that makes lighthouse easier.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENIGMA",
+    "slug": "enigma-gsqz6",
+    "description": "An SDK of token-gated time-encrypted IPFS-based content-sharing app based on pay-per-view having 2 APIs send and get, that takes time, list of receivers and content as input and open contents after paying in valid time frame and uses Merkel-tree based time server for encryption.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RangeDex",
+    "slug": "rangedex-nindy",
+    "description": "A minimalistic implementation of tick-based ERC20 DEX based on Uniswap V3",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Open Knowledge",
+    "slug": "open-knowledge-b8nd1",
+    "description": "Open Knowledge is a Decentralized LMS powered by Lighthouse, Filecoin and FVM.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Anomity",
+    "slug": "anomity-zkx6g",
+    "description": "Anomity is a tool built on top of lens protocol which allows users to speak anonymously, without any trace of their identity or even wallet address.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DataTankDao",
+    "slug": "datatankdao-qbo4c",
+    "description": "A DATA DAO which allows people to monetize their data and allows DAO's to earn passive income via renting the data",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpaceBlock",
+    "slug": "spaceblock-v6uvy",
+    "description": "Choosing Storage based on the requirements.Using Filecoin FVM splitting the starage into Active, Inactive, Bucket",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filecoin Name service",
+    "slug": "filecoin-name-service-xiqb8",
+    "description": "registry for human readable names on the filecoin virtual machine",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "2-to-3",
+    "slug": "2-to-3-6pfng",
+    "description": "2-to-3 can ramp up more public to migrate their data from centralised cloud to filcoin network. create an migration ad with bounty and chill.  No need for huge temporary disk space or high network bandwidth, just outsource!!!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized kyc",
+    "slug": "decentralized-kyc-phg3n",
+    "description": "Users can upload their kyc documents to filecoin network through DE-KYC. Storage deal and Data access control will be done on server side of DE-KYC.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentivize",
+    "slug": "decentivize-j0gvb",
+    "description": "Cross-chain Fractionalization of NFTs while mapping the fractional tokens to real-world utilities.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FIL Drop",
+    "slug": "fil-drop-k1dg5",
+    "description": "Fil DRop is a filecoin naming service which used to share data over address",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockDrive",
+    "slug": "blockdrive-e98ot",
+    "description": "A Blockchain Based File storage web application . It uses Ipfs for storing file",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeroTherapy",
+    "slug": "zerotherapy-n18ph",
+    "description": "ZeroTherapy is a zero-knowledge-based secure dApp that allows a counselor/therapist to create sessions where participants can join and ask questions anonymously, creating an open and safe environment.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swarms",
+    "slug": "swarms-3no9b",
+    "description": "SwarmS is a No Code Tool to create Data DAOs. With SwarmS you can take your Swarm on chain quickly to manage data along with governance.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilecoinDealCertificate",
+    "slug": "filecoindealcertificate-y44rt",
+    "description": "When a Filecoin storage deal is made, the person concerned can obtain an NFT as proof. That NFT contains information such as the file size and who made the deal on-chain. This could be an incentive for Filecoin sustainability.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkFICATION",
+    "slug": "zkfication-hh8bq",
+    "description": "zkFICATION is an platform to Issue ZK claims to Storage Providers that can be used to prove facts about them on-chain without revealing any sensitive data",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Micro-Storage Platform",
+    "slug": "micro-storage-platform-rtouh",
+    "description": "Anyone with a personal computer can offer a percentage of their machine's storage capacity, act as a micro-storage provider, and participate in Filecoin's storage deals!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lens Blog",
+    "slug": "lens-blog-dzh12",
+    "description": "A decentralized blogging app based on the Lens Protocol provides a secure and transparent platform for users to own, control and monetize their digital content without intermediaries.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spacetime",
+    "slug": "spacetime-wgz1z",
+    "description": "FVM based storage derivatives that allow storage providers access to early capital and clients to guaranteed future rates",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ResearchDAO",
+    "slug": "researchdao-ogpq2",
+    "description": "DataDAO for research articles based on quadratic voting to perpetually store research papers and incentivize research!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Warp",
+    "slug": "warp-vav6u",
+    "description": "A decentralized platform that enables secure file storage and sharing with access control, built with Reactjs, Solidity smart contract, LightHouse SDK, and deployed on the Filecoin Virtual Machine (FVM).",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FogMeta-Data-Rebuilder",
+    "slug": "fogmeta-data-rebuilder-8em0i",
+    "description": "FogMeta Data Rebuilder guarantees N replicas stored on filecoin network, 50% of the storage fund locked in FEVM contract for the initial replicates and the remaining 50% will be used for future replication when the data replicas loss occurs within the term.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "resolutio",
+    "slug": "resolutio-jcmds",
+    "description": "Arbitral Institution powered by Arbiter DAO, to make dispute resolution decentralised",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilSwap",
+    "slug": "filswap-8hn40",
+    "description": "FilSwap - A decentralized exchange and Loan system for defi products, with secure storage deals validated on FVM. Trade, swap, manage and borrow with ease!",
+    "event": "FVM Space Warp",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "omyxt",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "FiskDrive",
+    "slug": "fiskdrive-t8ys8",
+    "description": "Google drive for web3, allowing decentralized file storage and sharing.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Encrypted Filecoin Backup Vault",
+    "slug": "encrypted-filecoin-backup-vault-v6gnm",
+    "description": "This project is a secure backup solution that utilizes the decentralized storage network of Filecoin to store encrypted data.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eclipse - Data DAOs Simplified",
+    "slug": "eclipse-data-daos-simplified-2o8fc",
+    "description": "Eclipse is a decentralized 'google workspace' for startups & businesses - built with practical usability in mind",
+    "event": "FVM Space Warp",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "NFT marketplace with AI",
+    "slug": "nft-marketplace-with-ai-d1svh",
+    "description": "The NFT marketplace with encoded images generated AI models. The project has goal to protect linked content of NFT form copying. For that, uses symmetrical and asymmetrical encryption and decryption.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShadowNetwork",
+    "slug": "shadownetwork-29w25",
+    "description": "A social network for organizations who prioritize anonymity and privacy (hence the name Shadow Network). With everything a secret organization needs from Encrypted file sharing to secret meeting rooms!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WhitehatSecurityDAO",
+    "slug": "whitehatsecuritydao-x52wq",
+    "description": "A Filecoin security DAO that offers decentralized bug bounties for trustless interactions between white-hat hackers and blockchain protocols. No longer do hackers have to worry about not being paid fairly.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Memories",
+    "slug": "memories-kspmu",
+    "description": "A Dapp which allows users to timelock a memory through image or video with full privacy and decentralization",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Time Capsule",
+    "slug": "time-capsule-krzs3",
+    "description": "Blockchain storage is a way of saving data in a decentralized network, which utilizes the unused hard disk space of users across the world to store files.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alithis",
+    "slug": "alithis-6s995",
+    "description": "Alithis brings traceability to machine learning models, using the power of filecoin it maps datasets and models resulting in a comprehensive relation of the datatransformations and modeling. It stores such data in a persistent manner by minting an NFT of the dataset and models.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShutterNFT",
+    "slug": "shutternft-xvhm2",
+    "description": "Shutter is a video stock where people can download for free and use it anywhere.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Datablocks",
+    "slug": "datablocks-v1gbm",
+    "description": "Datablocks is a set of smart contract primitives to provide the proper building blocks for establishing an incentive-aligned Data DAO on FVM.",
+    "event": "FVM Space Warp",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ChatToDownload",
+    "slug": "chattodownload-9fotj",
+    "description": "An NFT (Non-Fungible Token) minting app is a software application that allows users to create, manage, and sell unique digital assets on a blockchain network.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SmartNFT",
+    "slug": "smartnft-qzopx",
+    "description": "Create digital artworks to sell as NFTs using the Stability AI's Stable Diffusion",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tescrow",
+    "slug": "tescrow-crsdd",
+    "description": "Tescrow is Trusted Escrow. A multi purpose Decentralized escrow protocol to facilitate peer to peer transactions between individuals and DAOs.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "miner-loans",
+    "slug": "miner-loans-0h0sx",
+    "description": "This is a very good idea. It can help the filecoin miners to alleviate their financial pressure.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FNS",
+    "slug": "fns-n6f9e",
+    "description": "FNS is based on the Filecoin domain name system developed by Filecoin",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Testing Filecoin API",
+    "slug": "testing-filecoin-api-wpmuy",
+    "description": "We tested Filecoin FEVM API which is supported by Zondax team.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clover",
+    "slug": "clover-zcfug",
+    "description": "The DAO Productivity pod. Share messages, files, and even meet; without switching apps.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "YulSwap",
+    "slug": "yulswap-am2bq",
+    "description": "Tired of high gas fees on Uniswap? say hi to Yulswap, the most gas efficient implementation of Uniswap v1",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkTrace",
+    "slug": "zktrace-imqfh",
+    "description": "zkTrace is a privacy supply chain protocol that uses zk proofs and merkle trees to leverage on privacy. It combines blockchain for trustlessness & zero knowledge to provide safe & confidential business processes, correctly order events and increase work flow at no cost (gasless).",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eigen",
+    "slug": "eigen-zsdsf",
+    "description": "Own your contribution. Be a part of DAOs that create the most fine tuned AI models.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Docs Universe",
+    "slug": "docs-universe-74jwy",
+    "description": "Docs Universe is a web based Dapp that allows to store important assets on IPFS instance. Ownership of files is securely recorded on the Ethereum blockchain making it the best platform to store assets",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PaperWithData",
+    "slug": "paperwithdata-5kqaa",
+    "description": "PaperWithData is a DATA DAO, that provide AI integrated Web3 papers/datasets/AI models based on different categories. It comes as a web application and APIs as a service",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTRenter",
+    "slug": "nftrenter-akfg0",
+    "description": "NFT Renter is a decentralized platform for renting NFTs securely & transparently. Uses smart contract to support any NFT from any contract. NFT owners can monetize assets & renters can temporarily access valuable NFTs in a trustless, automated manner.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Free Zone",
+    "slug": "free-zone-70kvz",
+    "description": "A decentralized Social Media Platform in Blockchain that uses  Smart Media Tokens for Social consensus algorithm.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filend",
+    "slug": "filend-2p44x",
+    "description": "Filend is the first algorithmic, autonomous interest rate protocol on the filecoin virtual machine",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM Bot",
+    "slug": "fvm-bot-23bdw",
+    "description": "FVM Bot is a simple chat Bot built on top of Filecoin HyperSpace Network which uses Filecoin RPC Providers (glif) and Zondax API under the hood and uses PUSH Chat for accessing the bot in a decentralized manner",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Filecoin(SCL)",
+    "slug": "filecoin-scl-7b3e9",
+    "description": "We are a DATA DAO that through a REFI model we seek to compensate each block of data that is stored in the Filecoin blockchain",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tau",
+    "slug": "tau-gowot",
+    "description": "Next-gen Decentralized Exchange & Peer-to-Peer Transactions on Hyperspace",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Streamflix",
+    "slug": "streamflix-0nhc6",
+    "description": "A decentralized gaming & live streaming platform that operates on a decentralized network, providing secure & transparent user experience without intermediaries, giving more control over data & assets",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VideoWiki",
+    "slug": "videowiki-amnuk",
+    "description": "This is a collaborative platform for learners and educators to secure learning continuity. We use blockchain based technologies to store, decentralize and distribute the content. Consider the tool as a \"Video Wikipedia for Learners and Creators\".",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM",
+    "slug": "fvm-hgsuw",
+    "description": "A cross chain loan repayment platform to repay the loan on one chain from another.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Storadon",
+    "slug": "storadon-kac5c",
+    "description": "STORADON. A protocol for preserving Mastodon communities for eternity on Filecoin using Lighthouse.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DevPool",
+    "slug": "devpool-td4tj",
+    "description": "This is a developer search platform as the name suggests, a pool of developers to chose from. Create you decentralized identity and let the recruiters approach you, instead of you applying to 100s of companies and. Get push notifications straight to your wallet.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "w3pay",
+    "slug": "w3pay-nzjz3",
+    "description": "W3Pay is a cryptocurrency payment platform. It provides a secure and seamless payment experience, allowing you to send and receive payments in a range of cryptocurrencies.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeGi Locker",
+    "slug": "degi-locker-uuo2q",
+    "description": "A ZKP-based credential store and KYC system on FVM and IPFS. Allows clients to trustlessly verify a credential holder's identity.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CTSwap",
+    "slug": "ctswap-r0a2o",
+    "description": "An decenteralized exchange with one asset pair(will add more on in future work). ETH/ CD Token",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FunPay",
+    "slug": "funpay-gfeps",
+    "description": "FunPay is an application that allows users to pay, invest and disburse using cryptocurrencies; the application is deployed on the FileCoin blockchain platform.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKreport",
+    "slug": "zkreport-1tsq7",
+    "description": "Enhancing Web3 Security with ZKreport. The future of smart contract auditing made more transparent thanks to storing the audit reports on Filecoin with on-chain proof of audit.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM Explore",
+    "slug": "fvm-explore-zk0dg",
+    "description": "FVM-Explore allows developers to deploy, interact, verify their smart contracts in a user-friendly interface.",
+    "event": "FVM Space Warp",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "IPFS Recon",
+    "slug": "ipfs-recon-8nhd0",
+    "description": "IPFS Recon offers OSINT reconnaissance on any file on IPFS for malware.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sen Chat",
+    "slug": "sen-chat-40we3",
+    "description": "Senchat is a platform that aims to address the issue of homogenized opinions and the politicization of information by promoting diversity in news and discussions. It is a response to the control of news by one entity or corporation and the stifling of diverse opinions.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayView",
+    "slug": "payview-y2m3v",
+    "description": "Web3 Monetized video platform built on FEVM, Which gives more power to creator instead of a big platform",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GEOFS",
+    "slug": "geofs-mr1ho",
+    "description": "On ramp for the Geodata specialist organization to use decentralized storage.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CertCentral",
+    "slug": "certcentral-afamy",
+    "description": "Cert Central is an Talent appreciation and recognition platform, where entities like Corporates, Institutions will certify the participates with NFTs. The NFTs contributes to the participates profile and certify their skill set.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SPACESNFT",
+    "slug": "spacesnft-hnhim",
+    "description": "NFT community based dApp - NFT is not just about collections is about building communities.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "F5",
+    "slug": "f5-p34yq",
+    "description": "F5 is a smart-contract based primitive that incentivises renewal of Filecoin storage deals. And it's as simple as hitting the F5 refresh key.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "HonestFIL",
+    "slug": "honestfil-wwroz",
+    "description": "HonestFIL a real-time reserve tracking dashboard for maximum transparency, trust and ease to audit protocols, exchanges or dapps on Filecoin.",
+    "event": "FVM Space Warp",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "po_lateral",
+    "slug": "po-lateral-auw2p",
+    "description": "poLateral is an FEVM-based open-source liquidity protocol to provide Filecoin collaterals as a loan for storage providers.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mini Utopia",
+    "slug": "mini-utopia-pmcvz",
+    "description": "Mini Utopia is a virtual world platform and tool set that allows creators and communities to create and trade their own non-fungible tokens (NFTs) within a next generation metaverse.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DNA - Dynamic NFT Asset",
+    "slug": "dna-dynamic-nft-asset-9zx0r",
+    "description": "LYNC DNA - a dynamic NFT standard is built on top of Filecoin Virtual Machine. LYNC DNA unlocks easy deployment of Upgradeable assets & dynamic metadata as NFT on FVM.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Pitchers",
+    "slug": "pitchers-0x8gq",
+    "description": "A decentralised platform to showcase your product to the global audience and get a chance to pitch your idea to world-class investors.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Play Me",
+    "slug": "play-me-e9w1w",
+    "description": "A decentralized music streaming platform is a platform for streaming music that operates on a decentralized network, rather than being controlled by a single centralized entity.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DWETransfer",
+    "slug": "dwetransfer-8ncc8",
+    "description": "Access controls, encrypted file sharing, & seamless user notifications for download links was so satisfying 🔒🔑 No account needed! Your private key is generated & stored on your browser's local storage!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlappyFIL",
+    "slug": "flappyfil-hdkoz",
+    "description": "FlappyFIL is an exciting and engaging game that adds a new twist to the classic game. With its crypto staking feature and smart contract technology, it is a game that rewards players.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoCurrents",
+    "slug": "cryptocurrents-nrv1v",
+    "description": "CryptoCurrents presents Filecoins' first ever DEX. This platform aids in storing various tokens and NFTs of value alike in a secure environment. You can swap tokens, participate in the liquidity pool and earn or simply view the latest trends of tokens in the Marketplace.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "META Storage",
+    "slug": "meta-storage-27okb",
+    "description": "Web3 Data Onramp that enables automated storage solutions.A user-friendly gateway tool that can speed up the transition to decentralized storage and computation trends.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bowled",
+    "slug": "bowled-weyya",
+    "description": "Beat your friends in Cricket! Train players, set strategies and lead your team to glory.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HelloWorld",
+    "slug": "helloworld-dxm8i",
+    "description": "Decentralized and free content creators project for courses and others",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOVoting",
+    "slug": "daovoting-dykg7",
+    "description": "Vote mechanism based in reputation. DAOvoting is a platform that allow user to votes in proposals, then provide feedback and assign reputation point to each user.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniVMeet01",
+    "slug": "univmeet01-nqobf",
+    "description": "Universal Meet Web3 Video Meetings Universal voice/video chat platform for all purposes",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cryptic",
+    "slug": "cryptic-f6jvg",
+    "description": "Cryptic is perpetual data storage, management and privacy proof multiuser eSignature Dapp",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlexBuild",
+    "slug": "flexbuild-xpg1h",
+    "description": "FlexBuild offers a secure, cost-effective and user-friendly website creation platform with drag-and-drop simplicity and Filecoin as payment option, empowering both users and web developers.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Paradigm",
+    "slug": "paradigm-yvys5",
+    "description": "The Paradigm platform provides under-collateralized loans to Storage Providers (SPs) to upgrade their infrastructure using FIL stakes as collateral. Loan amounts are based on borrower reputation and storing FIL with Filecoin results in a credit score and FIL availability.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Slush",
+    "slug": "slush-8jf5o",
+    "description": "Slush is a cross-chain bridge deployed on FEVM testnet and Polygon Mumbai testnet",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Storage Bounty",
+    "slug": "nft-storage-bounty-kou8g",
+    "description": "NFT Storage Bounty is a bounty creation app for NFT content. Users can input the NFT info, then the system automatically converts IPFS data into Filecoin format, which enables users to create Filecoin deal bounty on NFT content directly.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "IOFY",
+    "slug": "iofy-xzj0e",
+    "description": "Lease and/or rent IoT devices in a decentralized marketplace.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Type.fund",
+    "slug": "type-fund-77zqf",
+    "description": "TypeFund is a typography foundry DAO powered by the FVM. Much like music, the typography business is concentrated in a few foundries that take most of the profit. TypeFund aims to be a community-owned foundry, where type designers are able to access fairer distribution channels.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Space Swap",
+    "slug": "space-swap-mawy2",
+    "description": "Spaceswap is a decentralized exchange like Sushiswap, allowing users to securely trade digital assets with low fees",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Git on FVM",
+    "slug": "git-on-fvm-yok1x",
+    "description": "Web3 Open Source Protocol using NFT's and Distributed Code Hosting",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Denero",
+    "slug": "denero-jghku",
+    "description": "Our team is building a DeFi aggregator on FEVM. Every blockchain needs protocols like market makers and exchanges to function properly. Our product would deploy several clones of protocols and provide a single dashboard for users to interact with any protocol they wish.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilDex",
+    "slug": "fildex-5htad",
+    "description": "A DeFi application with AMM decentralised exchange and lottery built for FEVM.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BatchSend",
+    "slug": "batchsend-e3on1",
+    "description": "A tool that lets users to send tokens in the Filecoin ecosystem to any number of addresses.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gamalaxie",
+    "slug": "gamalaxie-2xpcx",
+    "description": "Gamalaxie is a decentralized platform for playing classic arcade games in a 3D virtual world. Players can participate in PvP NFT card-based duels and earn rewards by scoring highest in games like 2048 and Tetris.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM Transport",
+    "slug": "fvm-transport-uk6xx",
+    "description": "Monitoring tools for road incident management and reducing traffic congestion on Filecoin and IPFS, Ethereum blockchain. Crowdsourcing information sharing for better and safer roads with smart contracts compiled to FVM to enable early stage detection and prevention of incidents.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MFil",
+    "slug": "mfil-n8pgn",
+    "description": "MFIL is a decentralized liquidity pledge product based on the FVM originally developed by the MFIL DAO. It generates APR rate revenue for FIL token holders and provides lending funds for storage providers.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RepliNet",
+    "slug": "replinet-jq39i",
+    "description": "A replication worker to automatically copy Filecoin deals N times across the network in accordance with the user defined policy based on number of replicas, region selection, latency, price, etc.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DOAAD",
+    "slug": "doaad-xy06j",
+    "description": "DOAAD (Decentralized Open Access Article Database) is a set of decentralized applications dedicated to reconstructing the current academic paper publishing process.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phog Compute",
+    "slug": "phog-compute-4p73n",
+    "description": "PHOG - Peered Hyper Orchestrator Gateway is a Compute over Data(COD) platform for distributed computation which places storage and processing far beyond the \"traditional\" edge of the network. PHOG enables users to spin up resources much like it's done today on the public cloud.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Disco",
+    "slug": "disco-4qstg",
+    "description": "Disco is a decentralized music database and marketplace. Users can upload information about a music release, or buy and sell NFT music releases within the marketplace.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fillion Creator Marketplace",
+    "slug": "fillion-creator-marketplace-gqep0",
+    "description": "An NFT marketplace for artists and creators on the FEVM network, it would allow artists and creators to upload their work, including art, music etc, on the platform which will be stored on the filecoin network, and users can come purchase these work from the creators.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pinsurance",
+    "slug": "pinsurance-rusv2",
+    "description": "Pinsurance is a peer-to-peer blockchain-based Defi platform for car insurance.  User can create insurance pools with their peers and pool their premiums in it. Once all peers have contributed the pool is active and users can make claim requests.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpaceDataBank",
+    "slug": "spacedatabank-wu1ij",
+    "description": "Buying and selling satellite data on blockchain using Lighthouse",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MiDiFy",
+    "slug": "midify-8qra4",
+    "description": "MiDiFy is a  decentralise music streaming service (for midi-based music) with file coin as the backend.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mainstream",
+    "slug": "mainstream-n76qs",
+    "description": "Hosting platform for slides and presentations for event organizations and speakers",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fritz",
+    "slug": "fritz-q57xr",
+    "description": "A dApp which is essentially a modified payment method of various OTT platforms where the user pays according to the watch time hours and not just buy for the whole month.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SoulSci",
+    "slug": "soulsci-9h8v4",
+    "description": "SoulSci is a public library platform with decentralized storage for users, using lighthouse",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Descrow Platforms",
+    "slug": "descrow-platforms-npd87",
+    "description": "We are building a Decentralized escrow services platform where we strive provide more trustless solutions which will provide a clear transparency to Customers , Organisations and Governments using FEVM to bring down frauds and scams drastically.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOGen",
+    "slug": "daogen-d2iqm",
+    "description": "A base DataDAO that is integrated with Medusa in order to have specific Access Control",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TinyTales",
+    "slug": "tinytales-jvffe",
+    "description": "Tinytales - A kid safe DataDAO based on FEVM. TinyTales represents a new and innovative approach to kids safe content.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buidlers.Space",
+    "slug": "buidlers-space-vx29c",
+    "description": "A nft space that can create/trade/buy/bid/ask NFT stuff! A web3 way of creater space that like a web3 amazon/stockx.com",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FNS Lookup: Integrated FNS in Filfox explorer",
+    "slug": "fns-lookup-integrated-fns-in-filfox-explorer-7v9jy",
+    "description": "We are Filfox Team and we upgrade UI/UX of FNS contracts and app and integrate FNS on Filfox explorer (FNS registrations, FNS name details, display FNS name instead of address, etc) as the first application scenario of the FNS protocol in Space Warp.",
+    "event": "FVM Space Warp",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Stargate",
+    "slug": "stargate-ufn1j",
+    "description": "Cross-chain bridge and transaction module for FEVM, to facilitate interoperability with EVM chains",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sapo",
+    "slug": "sapo-wtdhn",
+    "description": "Sapo is your gateway to decentralized computation on fevm using Bacalhau",
+    "event": "FVM Space Warp",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Proxima",
+    "slug": "proxima-z0rpt",
+    "description": "Join the future of remote meetings with our token gated decentralised platform! Features incl whiteboard, code editor, compiler, transcripts & reports for secure & efficient virtual collaboration. #decentralized #meetings #collaboration",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "v693n"
+    ]
+  },
+  {
+    "name": "4Ever.Data",
+    "slug": "4ever-data-ntdkx",
+    "description": "Unleash the power of #fairAI with 4Ever.Data! Our DataDAO rewards contributors, ensures transparency with bias metrics, and provides high-quality datasets. With cutting-edge tech from Filecoin, hosting by Spheron, file upload ease by Lighthouse & notifications via Push.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "The Muse's Vault",
+    "slug": "the-muses-vault-7wgy9",
+    "description": "The Muse's Vault is a project based on the study \"Music 2025: the music data dilemma\". In it I consider what new approaches and solutions FVM provides 🤔",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilecoinInsurance",
+    "slug": "filecoininsurance-g1d0z",
+    "description": "Insurance Project for Storage Providers, in order to protect them from active faults (e.g. hardware damage, bad standing on the network).",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Demu",
+    "slug": "demu-1485x",
+    "description": "Demu is a decentralized audio platform. It allows for secure sharing, listening and monetization of music, cutting out intermediaries and empowering artists and listeners.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trustify",
+    "slug": "trustify-ytxu8",
+    "description": "An open, shared, interoperable verifiable credential standard to empower DeFi protocols, DataDAOs, and Filecoin Plus in the FEVM ecosystem.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FileSpy",
+    "slug": "filespy-sfcrh",
+    "description": "Game that will be hosted on FVM that is multiplayer. It will leverage defi.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Perpetual Storage Loans",
+    "slug": "perpetual-storage-loans-ntwtw",
+    "description": "Perpetual storage agreements, used to enable indefinite term file storage deals. They are structured as a Filecoin loan where the interest is repaid through the perpetual storage of data, and the loan is used to partially collateralize the storage actor.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "globe.fil | Global Filecoin storage discovery",
+    "slug": "globe-fil-global-filecoin-storage-discovery-jbc07",
+    "description": "Find the perfect Filecoin storage provider for your needs with globe.fil",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trustified",
+    "slug": "trustified-4imqf",
+    "description": "\"Trustified\" - Truly Certified. A platform to issue verifiable, tamper-proof, and perpetual digital certificates and badges on Blockchain.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Milky-Wei",
+    "slug": "milky-wei-bmcx3",
+    "description": "A Decentralized Game Development Assets Marketplace. A platform for Indie game  developers that allows for the purchase , selling and storage of game developer assets.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "DataDaoVerse",
+    "slug": "datadaoverse-vp3h1",
+    "description": "A decentralized dataDAO platform that allows dataDAO creation and management with access control and encryption of data.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "4eva.storage",
+    "slug": "4eva-storage-msey8",
+    "description": "Streamline your data storage with 4eva.Storage! Connect your wallet, list your data, and fill a bounty. Approved by our platform, the winning bid from service providers is verified, and the bounty paid. Effortless, secure storage solutions await you!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Team Archive",
+    "slug": "team-archive-3h68u",
+    "description": "Decentralized team archive platform, 100% manage on IPFS and FEVM",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperLearn",
+    "slug": "superlearn-kdo3h",
+    "description": "A course creation platform built over Livepeer,FVM and Superfluid for Learners and content creation",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MultiSender contract",
+    "slug": "multisender-contract-haiu6",
+    "description": "Its a smart contract/ actor to facilitate sending the amounts to multiple addressess in a single transaction saving on gas cost.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilQR",
+    "slug": "filqr-2ctkz",
+    "description": "First ever decentralized QR Code generator powered by Filecoin and web3.storage",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Data Champion",
+    "slug": "data-champion-gbt8b",
+    "description": "It's a data marketplace where individuals and data daos can share and purchase datasets. Even more one can only purchase a sample of the dataset also, that can be used to check on the quality/feasibility of data for your use case. We are focusing on multimedia data only.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Burrito",
+    "slug": "burrito-hkbg2",
+    "description": "A trustless reputation system for storage providers on the FVM network",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Duck Souls",
+    "slug": "duck-souls-o6a90",
+    "description": "Ducksouls is a mini game where you start buying a duck NFT, that will be you character in the game. The amount that you pay to buy the NFT will be stored in the NFT itself.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAO Squad",
+    "slug": "dao-squad-fn8ru",
+    "description": "DAO shall not kill, DAO shall not steal,  DAO shall play games, and join a Squad",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Safe Build Zone",
+    "slug": "safe-build-zone-ew5b2",
+    "description": "Safe Build Zone is a platform that allows users to create a Zone in which they can share files with team members, DAO members, artists etc. This all happens in a secure and decentralized way without the need of any database or other centralized services.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DHD - Data Healthcare DAO",
+    "slug": "dhd-data-healthcare-dao-h65ii",
+    "description": "We are a Data Healthcare DAO, decentralized platform for securely and transparently managing health data using blockchain technology. It empowers individuals to control and monetize their data while advancing medical research and patient care.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Undercollateralized Storage Deal Auctions",
+    "slug": "undercollateralized-storage-deal-auctions-j8xkt",
+    "description": "Auction off Filecoin storage deal rebates with a small security deposit and get a competitive price.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dart",
+    "slug": "dart-j33ps",
+    "description": "Dart is a decentralized marketplace where anyone can buy/sell any digital products.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockdrive",
+    "slug": "blockdrive-ora9x",
+    "description": "Blockdrive is a desktop application and command-line tool that allows users to upload and download files using IPFS as an alternative to traditional cloud storage providers such as OneDrive.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeCerts",
+    "slug": "decerts-a11u2",
+    "description": "DeCert is a blockchain-based application that will store and verify documents issued by the college to the students.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creds Protocol",
+    "slug": "creds-protocol-tuigi",
+    "description": "Creds-Protocol is a Zero-Knowledge Identity Layer on Filecoin Network",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "TenderSwap",
+    "slug": "tenderswap-xc881",
+    "description": "First and tender decentralized exchange (DEX) on the Filcoin blockchain. For users on FVM need to be able to exchange FIL for other tokens issued on-chain.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MementoDAO",
+    "slug": "mementodao-3wjt8",
+    "description": "Preservation of memories with a Filecoin DataDAO and e2e platform for event organizers and collectors",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "omyxt"
+    ]
+  },
+  {
+    "name": "SolarSwap",
+    "slug": "solarswap-ju03k",
+    "description": "SolarSwap is a new decentralized exchange (DEX) that has forked from Uniswap and aims to be live on Filecoin. This platform offers fast, secure, and decentralized trading with low gas fees, this is an important building block.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "teamBOX",
+    "slug": "teambox-m5u4c",
+    "description": "I am building a decentralized business communication platform supporting workspace chat, video conferencing, and file storage.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Remora",
+    "slug": "remora-y5o9m",
+    "description": "Onboarding promising and empower storage providers using uncollateralised loans provided by Remora lending pool.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Muse Filez",
+    "slug": "muse-filez-2kmwu",
+    "description": "Token gated content inside of IPFS files. Fans can see content in files via a gallery.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DEPTO: Decentralized Patent & Trademrk Office",
+    "slug": "depto-decentralized-patent-and-trademrk-office-c9hd2",
+    "description": "Provable and decentralized Data DAO for patent provisioning and verification.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ReflexPerpetual",
+    "slug": "reflexperpetual-3b45q",
+    "description": "Enables perpetual storage of data on filecoin network by maintaining atleast # amount of copies on the network",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InterXchange",
+    "slug": "interxchange-1zpt5",
+    "description": "This platform that allows you to borrow ERC-20 tokens using your ERC-721 tokens as collateral, without having to sell your valuable ERC-721 assets just to borrow ERC-20 tokens. A DeFi platform powered by FVM",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Forever More",
+    "slug": "forever-more-64x77",
+    "description": "A DAO that manages the renewal of storage deals, with a high replication factor. In a way trying to achieve perpetual storage.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DataSuite",
+    "slug": "datasuite-sanwa",
+    "description": "A suite of tools that includes an order book-based DEX for clients and Storage Providers, a Data Marketplace, and a Data Bridge for the marketplace to export the data into any other chain.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Storeasy",
+    "slug": "storeasy-6upka",
+    "description": "Storeasy is a Decentralised Storage Marketplace built over File Coin Virtual Machine, It simplifies the process of storing and retrieving data over FVM and provide FIL bounties to clients when they are willing to buy Full sectors.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deca-Org",
+    "slug": "deca-org-wwvhp",
+    "description": "Deca-Org is the one-stop destination to take your organisation's day-to-day operations to Filecoin with provable data storage, Cross-Chain bridge, SBT issuance, Video conferencing, live streaming, and much more. Deca-Org is powered by F(E)VM and made for the Filecoin ecosystem.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM Storage Bounty Hub",
+    "slug": "fvm-storage-bounty-hub-74tgi",
+    "description": "A Storage Bounty MarketPlace where Clients come and propose their needs while storage providers bid to get the deal Proposals. .",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "v693n"
+    ]
+  },
+  {
+    "name": "IPFS.backups",
+    "slug": "ipfs-backups-k3mpa",
+    "description": "Backup your database seamlessly from web2 providers (AWS Dynamo )<> IPFS to with a single line of code.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filestream.link",
+    "slug": "filestream-link-48r33",
+    "description": "Filestream is the No-Code Streaming API for the Filecoin Virtual Machine",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InCred",
+    "slug": "incred-97juv",
+    "description": "InCred - Credentialing as a service to Storage Providers on the Filecoin network.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CredQuest",
+    "slug": "credquest-3k9h4",
+    "description": "Secure, Verifiable Credentials and Collaboration Protocol. Connecting Soul Bound Tribes.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dora, the TipsetExplorer",
+    "slug": "dora-the-tipsetexplorer-uwg3o",
+    "description": "An FEVM TheGraph-like Events indexer. Index Smart Contracts Events on demand, so they can be used within dApps. Start, Pause and Stop indexing smart contracts; Fault tolerance to service crashes; Automatically generate an Handler code for events, given an ABI; Much more;",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "The Journals DAO",
+    "slug": "the-journals-dao-6rzrn",
+    "description": "Peer review scientific papers by the DAO then store voted articles",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "v693n"
+    ]
+  },
+  {
+    "name": "SpaceDAO",
+    "slug": "spacedao-jas6q",
+    "description": "A platform that allows user to have access to any kind of data supported by DAO communities formed around a particular data.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Qourier",
+    "slug": "qourier-ftry3",
+    "description": "Infrastructural protocol for combining data between WEB2 ⇠⇢ WEB3",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "CoffeeTown",
+    "slug": "coffeetown-92mma",
+    "description": "CoffeeTown is a web3 tipping platform for web3 creators.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PeaceFeb",
+    "slug": "peacefeb-xj9tw",
+    "description": "An Undercollateralised Loan Platform Which Let User to Participate in Storage Providing & for SP to Loan with 0 Collateral through Profit-Sharing Model",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FILFlix",
+    "slug": "filflix-3m77t",
+    "description": "FILFlix is a platform where users can buy/subscribe to content (music, books, videos) directly from the content creators as NFTs",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CATCH",
+    "slug": "catch-bp5gq",
+    "description": "CATCH is a Dapp making fun interactions and social proofs with photos",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SoDeFi",
+    "slug": "sodefi-k8xig",
+    "description": "Token gated implementation of a DATA DAO for wellness. Sleep to Earn!!!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FileSaver",
+    "slug": "filesaver-e5wkq",
+    "description": "FileSaver is a fully decentralized drive for permanent file storage, accessible for both public and private use. Store your files with confidence, knowing they will be stored indefinitely.",
+    "event": "FVM Space Warp",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Dants",
+    "slug": "dants-s6fgn",
+    "description": "A collaborative platform to allow data engineers to create and automate data normalization that can be then use by data analysts",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x2bo0"
+    ]
+  },
+  {
+    "name": "Ninja Dash",
+    "slug": "ninja-dash-2yka2",
+    "description": "Ninja Dash is amazing platformer game loaded with FVM web3 features and full of fun.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "CollectifDAO",
+    "slug": "collectifdao-zdk29",
+    "description": "CollectifDAO is a non-custodial liquid staking protocol on Filecoin",
+    "event": "FVM Space Warp",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "filAuth",
+    "slug": "filauth-qnxjn",
+    "description": "FilAuth is an Identity and Access Management platform for businesses built on the Filecoin Ethereum Virtual Machine. Our solution makes it easier to manage access to proprietary systems and software.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM Medicare",
+    "slug": "fvm-medicare-3pwk8",
+    "description": "A basic application that helps user retrieve and share their medical records on FVM.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArtifactsDAO",
+    "slug": "artifactsdao-okm1q",
+    "description": "ArtifactsDAO : DataDAO for DeSci Projects build on top of FVM",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LEGACY",
+    "slug": "legacy-k15vu",
+    "description": "LEGACY seeks to preserve humanity's history and our individual legacies, \"forever\", through inter-connected memoirs and stories",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cosmoway",
+    "slug": "cosmoway-zo37t",
+    "description": "An fully on-chain file access control protocol on FVM and toolkits",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SMBLender",
+    "slug": "smblender-7s78d",
+    "description": "SMB Lender is a platform to streamline the lending process for Small-medium sized businesses powered through Filecoin’s FVM.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LytDAO",
+    "slug": "lytdao-nom3v",
+    "description": "A DataDAO that enables users to monetise their browsing history.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fevm portal",
+    "slug": "fevm-portal-12yqm",
+    "description": "i made a small site where i can have everything regarding fevm in one place",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "omyxt"
+    ]
+  },
+  {
+    "name": "EverFile",
+    "slug": "everfile-wiumi",
+    "description": "Store your files permanently in FileCoin blockchain with EverFile cloud drive",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PoliSwap",
+    "slug": "poliswap-153wj",
+    "description": "A service exchange platform where users can pay and get paid using Filecoin for services rendered.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "W3Flix",
+    "slug": "w3flix-9wo9b",
+    "description": "Decentralised content streaming platform with abilities to rent, subscribe and purchase audio/video content.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ToShare",
+    "slug": "toshare-meyhp",
+    "description": "oshare is a project management platform offering DeFi services through its escrow smart contract, employment tokenization, and efficient communication channels.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Myawesomeproject",
+    "slug": "myawesomeproject-xbygf",
+    "description": "Our decentralised messaging platform allows you to communicate securely and privately without relying on a central server or authority",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Data Sanctuary",
+    "slug": "data-sanctuary-6390m",
+    "description": "Data Sanctuary is a secure, decentralized file storage management system",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilNav",
+    "slug": "filnav-js8ou",
+    "description": "Find and compare the best decentralized storage providers on the Filecoin network with our easy-to-use tool. Discover providers based on your specific needs and ensure your data is in safe hands with our reputation and QoS systems.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "omyxt"
+    ]
+  },
+  {
+    "name": "FileMarket",
+    "slug": "filemarket-hu00j",
+    "description": "Online shop and storefronts constructor with focusing on store, sell, buy or send any files as NFT 2.0 with new Encrypted FileToken standard on FVM",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Guardian3",
+    "slug": "guardian3-dd1u8",
+    "description": "Guardian3 provides secure communication between sources(whistleblowers) and journalists by using web3 technology to encrypt messages and documents and store them on FVM blockchain. The service aims to protect the anonymity of sources and ensure secure storage of communications.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Ustore",
+    "slug": "ustore-vtvnm",
+    "description": "UStore is a perpetual storage DAO for communities of DIY enthusiasts",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Foo Protocol",
+    "slug": "foo-protocol-ms3y8",
+    "description": "A decentralised exchange on the Filecoin blockchain, complete with it's own cross-chain bridge, notification feature implemented with Push Protocol, and hosted on the Spheron decentralised server",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Datahotpot",
+    "slug": "datahotpot-282zk",
+    "description": "Datahotpot - The future of data ownership. Tokenize your datasets as NFTs, monetize and sell with royalties. Join our data marketplace and take control of your data's value today!",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x2bo0"
+    ]
+  },
+  {
+    "name": "BashFile",
+    "slug": "bashfile-oa5nc",
+    "description": "BashFile allows users to store their files on the decentralized network for lifetime at a fixed price.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cretodus",
+    "slug": "cretodus-fga5u",
+    "description": "A decentralized data marketplace where any users can upload any data they want to keep it on Filecoin network for data preserving.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "AUTHORize",
+    "slug": "authorize-ijttb",
+    "description": "A decentralized book publishing site for authors, creative writers and readers",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x2bo0"
+    ]
+  },
+  {
+    "name": "Memo",
+    "slug": "memo-70uua",
+    "description": "At memo, we offer encrypted storage and token gated access. A user can upload a file, and allow token holders to download the file.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "anoodfi",
+    "slug": "anoodfi-ziqyq",
+    "description": "Anood is a crypto-synthetic trading protocol that uses a price feed and a liquidity pool to make markets",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Eden",
+    "slug": "the-eden-purj5",
+    "description": "The live-streaming platform only focus on Web3 projects, specially for Web3 gaming, NFT collection and AMA conference",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpatialDAO",
+    "slug": "spatialdao-ir7r1",
+    "description": "The Spatial DAO is a blockchain ecosystem built for storing geospatial and weather data on blockchain",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Miner Dealer - Reputation System",
+    "slug": "miner-dealer-reputation-system-h86v7",
+    "description": "The reputation system for SPs is an important reference to make storage and recovery deals in the Filecoin system and is a useful tool for the different players that participate in it. Through a mathematical model applied to the storage provider’s",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PodShip",
+    "slug": "podship-w87wm",
+    "description": "PodShip is a Decentralized Podcast Sharing & Streaming Platform. With the power of NFTs, it empowers podcasters to take control of their content and monetize their creations. #PodcastNFTs",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "FVM Lending Protocol",
+    "slug": "fvm-lending-protocol-3dk7t",
+    "description": "This project is a lending protocol for Filecoin Storage Provider. Anyone can lend a loan to Storage Providers by depositing FIL into the protocol. To decries the risk of default, SPs are needed to be added to whitelist for borrowing.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Digital Receipt NFT",
+    "slug": "digital-receipt-nft-911b4",
+    "description": "A Dapp to issue receipts as NFT and reduce paper receipts.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ficave",
+    "slug": "ficave-wuxrg",
+    "description": "Ficave is a decentralised medical documentation system,built on filecoin’s storage network. Ficave is the first medical ledger on the blockchain,which makes it easy to upload,send,receive,and acess medical data’s on chain .",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FitMint",
+    "slug": "fitmint-247pb",
+    "description": "A 7 minute A.I generated workout app that mints NFTs upon completing workouts",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Assurage",
+    "slug": "assurage-7pn6h",
+    "description": "Assurage is an insurance smart contract platform built on top of Filecoin EVM, which enables Storage Providers to obtain insurance that protects them from slashing penalties, so-called sector fault fees.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainCast",
+    "slug": "chaincast-rqgbz",
+    "description": "Onchain storage and retrieval of post containing text and image using ipfs",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trantor",
+    "slug": "trantor-0h2r4",
+    "description": "We are creating a system for single smart-contract call file storing. It automates off-chain storage provider negotiations routine by tipping third-party agents. Single payment for all deals and auto prolongation included.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Emily_Space_Test",
+    "slug": "emily-space-test-0z779",
+    "description": "--TestData----TestData----TestData----TestData----TestData----TestData",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "vStorage",
+    "slug": "vstorage-c23jo",
+    "description": "Store and manage your files and folders, own your content and share important information. We provide new web3 features with simple user interface for versioning files storage.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FILend",
+    "slug": "filend-geca9",
+    "description": "Decentralized undercollaterized lending protocol for Filecoin SPs. Lenders can stake their FIL to lending pools for SPs to borrow. SPs loan terms are based on lending pool characteristics and SP quality attributes.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Data Spaces for Education & Skills",
+    "slug": "data-spaces-for-education-and-skills-3kz1g",
+    "description": "Data space portal to facilitate the emergence of sovereign ecosystems of education and skills data in Europe",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GreenQuokka",
+    "slug": "greenquokka-272kp",
+    "description": "Create, manage and share data while respecting your clients privacy and countries law!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Amadeus DAO",
+    "slug": "amadeus-dao-jod02",
+    "description": "Amadeus is a Data DAO that serves to foster a decentralized database for music data.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKaggle",
+    "slug": "zkaggle-70g3b",
+    "description": "Bounty platform for incentivized decentralized computing on FVM",
+    "event": "FVM Space Warp",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "x2bo0",
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PeerDAO",
+    "slug": "peerdao-sjg16",
+    "description": "A DataDAO for content creators and other users alike where video content proposals are made and DAO members vote on what should be accepted, these videos can only be viewed by the DAO members as well.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FiananSu",
+    "slug": "fianansu-6h3ck",
+    "description": "Our project \"Fianansu\" completely focuses on creating and promoting DEFI space for the FVM ecosystem. Fianansu consists of the top DEFI products such as Decentralized exchange, Token Bridge and Overcollateralized lending all with in a single platform.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Heroes of Wallaby",
+    "slug": "heroes-of-wallaby-9w0hm",
+    "description": "Heroes Of Wallaby - Pixel Adventure Game with Staking and Rewards",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smart-Notary-Protocol",
+    "slug": "smart-notary-protocol-o6oih",
+    "description": "A Smart Notary Protocol to ease client onbording to Filecoin network and incentivize notaries to earn rewards making due diligence on clients. try it here ---> https://smart-notary-protocol.com/",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Coterie",
+    "slug": "coterie-cwf5h",
+    "description": "A platform that enables content creators get paid anonymously and interact with their subscribers in a safe and secure manner.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SafeNet",
+    "slug": "safenet-yb2ge",
+    "description": "Decentralized disaster recovery platform, a portal for organizing efforts and resources to fight natural disaster events.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spinoza",
+    "slug": "spinoza-9getf",
+    "description": "Spinoza is a data dao that combines on-chain lending and amm, to provide undercollateralised loans",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "tradecentral",
+    "slug": "tradecentral-nyj17",
+    "description": "A decentralized marketplace that utilizes the web3 platform and Lighthouse technology to enable secure and decentralized storage of all data and files related to the marketplace.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Carbon File",
+    "slug": "carbon-file-5yfp4",
+    "description": "Carbon file DAO to calculate the carbon sequestration in soil, convert into carbon credits based on data provided by farmers",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Tube",
+    "slug": "web3tube-fu31n",
+    "description": "Web3Tube is a social media platform to create, share and watch videos, without worrying about their privacy.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "kolo: DAO auction for sensible information",
+    "slug": "kolo-dao-auction-for-sensible-information-0u51a",
+    "description": "Censorship resistant trading platform for sensitive information with transparent notary mechanics. Organize auctions, tenders, p2p-sales for exclusive content or services. Crowdfund DeScience projects or online meetings with celebrities. Trade files, storage, computing or access.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x2bo0"
+    ]
+  },
+  {
+    "name": "Ennie",
+    "slug": "ennie-cxi1y",
+    "description": "Building a dApp around the Ennie-energy -solution, heading to the productive dataDAO",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Amphi",
+    "slug": "amphi-t88y8",
+    "description": "Amphi is a decentralized intelligent language service marketplace. Solve the translation needs of web3 projects like DAO, Gamefi etc, and become the best choice for Web2 translators to join Web3.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gov Proposal Editor",
+    "slug": "gov-proposal-editor-b18vq",
+    "description": "Gov Proposal Editor simplifies the proposal submission process leveraging Web3.Storage (IPFS + Filecoin), makes it more adapted to Gov (Governor + ERC-721) and also intends to add a privacy layer thanks to Medusa Network.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filestock",
+    "slug": "filestock-fdo7k",
+    "description": "Our platform uses blockchain technology to protect and sell digital images. It ensures that photographers are fairly compensated for their work and that the rights to the images are clearly represented. It's a Web3 take on stock photography",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Cosmic Chicken",
+    "slug": "cosmic-chicken-206em",
+    "description": "Provide undercollateralized lending to Storage Providers using Chicken Bond mechanism",
+    "event": "FVM Space Warp",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Splychain",
+    "slug": "splychain-cpk19",
+    "description": "An on-chain delivery  tracking application for orders which allows for tamper-proof and transparent tracking of orders through its delivery life cycle.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OneLink",
+    "slug": "onelink-gwb6g",
+    "description": "One link to create a own customizable landing page with links and services to their various online platforms and resources with cool features.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DataLink DAO",
+    "slug": "datalink-dao-hakc2",
+    "description": "DataLink DAO utilizes zero-knowledge technology, oracles, and a monetized data-sharing infrastructure to create the future of identity and data validation.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpacetimeDAO",
+    "slug": "spacetimedao-ukw1r",
+    "description": "Data DAO to incentivize citizen coordination with storage deals",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "spatialDAO",
+    "slug": "spatialdao-i4jez",
+    "description": "SpatialDAO is a platform that allows organizations to create and monetize their own dataDAOs (Decentralized Autonomous Organizations) using the Filecoin Ethereum Virtual Machine (FEVM) and the Orbis Protocol as a social layer.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Ballotbox",
+    "slug": "ballotbox-23fge",
+    "description": "A zkDataDao capable of remarketing data and reputation systems for solo or collected groups. Ballot box automates data sharing and distribution through a smart contract.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SukaVerse",
+    "slug": "sukaverse-231fe",
+    "description": "A collaboration tool for 3D artists to work on a large project(NFT, Game, Movie, or Industrial design), with a git-like capability to keep history and reuse assets from other users.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dagobah",
+    "slug": "dagobah-hovma",
+    "description": "Credit-default swap for client, storage provider and risk taker in Filecoin.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Labio",
+    "slug": "labio-c8ey3",
+    "description": "A dapp where scientists can save, share and publish their papers with corresponding data. Including profile page and access control for their papers/data for eg. peer reviewers and colleagues.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "File Genie",
+    "slug": "file-genie-rfsxm",
+    "description": "An interface for users to manage and share their files in a decentralised storage system and create and deploy NFTs and Collections easily.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM Rooster Bet",
+    "slug": "fvm-rooster-bet-y30fw",
+    "description": "Get ready for a thrilling betting experience with our new game inspired by the classic chicken run. Watch live streams and place bets on the action using TFIL tokens on the Filecoin Hyperspace Testnet. Enjoy a secure, transparent, and decentralized platform.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "STC-DPKI",
+    "slug": "stc-dpki-g1v77",
+    "description": "Decentralized PKI infrastructure to increase application trust.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "File Bridge",
+    "slug": "file-bridge-9mk1g",
+    "description": "File Bridge is a set of smart contracts combined with a website to let people bridge their tokens and NFT from filecoin blockchain to any other!",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VISION-X",
+    "slug": "vision-x-aio8h",
+    "description": "A fully decentralized live streaming and creator platform built using Livepeer.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "HatcheryDAO",
+    "slug": "hatcherydao-q7j1h",
+    "description": "A token Gated DAO for Startups to promote their protocol and Investor to invest and buy/sell startup's initial Datas.",
+    "event": "FVM Space Warp",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "omyxt",
+      "v693n",
+      "mdb6w",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ShareIt",
+    "slug": "shareit-6kiwb",
+    "description": "This dApp is used for storing files and also can be used for sharing files.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "go-fvm-sdk",
+    "slug": "go-fvm-sdk-1nwkw",
+    "description": "go-fvm-sdk enables GO developers to write FVM contracts in TinyGo.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Development Protocol",
+    "slug": "decentralized-development-protocol-xyhnp",
+    "description": "DDP is made to give developers the freedom to work on activities and projects they are passionate about. The trust in the system is shared across all actors, which minimizes the possibility of poor quality of work.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bookkeeper",
+    "slug": "bookkeeper-bb37w",
+    "description": "Bookkeeper uses alternative data for sustainable women-owned small & medium-sized businesses to improve credit scoring, helping banks & financial institutions make informed & equitable lending decisions while reaching a new market of unscorable applicant",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SPex - A Storage Provider Exchange",
+    "slug": "spex-a-storage-provider-exchange-aa0pn",
+    "description": "SPex is an exchange for storage providers to transfer their ownership, beneficiary or any other potential swap opportunities. Unlike other financial exchanges that dominate with tokens, SPex focus on meeting the needs of SPs to increase liquidity, interaction and interoperability",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Blockenberg",
+    "slug": "blockenberg-d4asb",
+    "description": "Blockenberg: Decentralized headless CMS built on Webnative. We provide the content creation interface for your",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FILL Liquidity Pool for Storage Providers",
+    "slug": "fill-liquidity-pool-for-storage-providers-m3fs3",
+    "description": "FILL is a liquidity pool that will be implemented on FVM (Filecoin Virtual Machine) to facilitate a market for FIL token holders to deposit for passive income, and for SPs to borrow FIL for storage providing.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "de-wordpress-fevm-lighthouse",
+    "slug": "de-wordpress-fevm-lighthouse-3re0o",
+    "description": "With SellX3, like WordPress but in Web3, anyone can build their own small business in Web3 with some clicks and even with the freedom to customize their whole web3 DApp!",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FIL-Peggy",
+    "slug": "fil-peggy-vbqh8",
+    "description": "FIL-Peggy is a series tools to let storage provider custody their miner to smart contract. It provides a trustless way to connect token holder and storage provider.",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Evema",
+    "slug": "evema-6305m",
+    "description": "This is a decentralized event booking platform, were users can create and manage events",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilFi - free your Filecoin assets",
+    "slug": "filfi-free-your-filecoin-assets-87kp1",
+    "description": "Filfi is an open source liquidity agreement. With the help of FEVM, OpenZeppelin related contracts and upgrade components, a callable solution library of built-in miners and market API supported by Zondax, this protocol mainly implements lending services",
+    "event": "FVM Space Warp",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DataHaus",
+    "slug": "datahaus-jvhhb",
+    "description": "DataHaus is a decentralised data economy, built on Filecoin, which provides a reliable web3 data foundation to efficiently handle all data types and uses cases.",
+    "event": "FVM Space Warp",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  }
+]

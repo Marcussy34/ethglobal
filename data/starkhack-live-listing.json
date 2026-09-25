@@ -1,0 +1,1389 @@
+[
+  {
+    "name": "alastair",
+    "slug": "alastair-jn3y2",
+    "description": "alastair is a proof of concept for an NPC using LLM function calling to interact with a starknet smart contract",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nity",
+    "slug": "nity-py013",
+    "description": "Nity is a token creation tool on Starknet where users can create ERC20 tokens",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkAI",
+    "slug": "starkai-nqq54",
+    "description": "StarkAI is a product that enables users express their imaginations as NFTs.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Voyag-AI",
+    "slug": "voyag-ai-2vtzi",
+    "description": "Using Voyager API with AI to make blockchain transactions a comfortable experience for Non-Crypto public.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "ChainNotify",
+    "slug": "chainnotify-c4ue9",
+    "description": "Empowering developers on Starknet to stay informed. Receive instant notifications whenever your smart contract is interacted with, ensuring you're always in the loop. Essential for managing and monitoring decentralized applications.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Titan",
+    "slug": "titan-3x2vf",
+    "description": "Manage all your DeFi positions on StarkNet seamlessly with Titan! A unified platform offering unparalleled control, security, and efficiency for all your DeFi needs.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "starkFinish",
+    "slug": "starkfinish-6vdh1",
+    "description": "Stark Finish is a Web3 platform using StarkNet Layer 2. Stake tokens for learning challenges, complete courses, verify certificates, and reclaim tokens. With dynamic wallet integration, it's user-friendly for Web2 and Web3 users. Learn. Stake. Grow. #EdTech #Web3",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Stark Shuriken",
+    "slug": "stark-shuriken-bi2qt",
+    "description": "Stark-Shuriken: A tool for Starknet developers. Simulate transactions, get easy-to-understand explanations, and debug effortlessly. Improve security and streamline your development process in the Starknet ecosystem.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qctg9"
+    ]
+  },
+  {
+    "name": "Noosphere",
+    "slug": "noosphere-agm77",
+    "description": "Play 3D version of 2048 and compete with others using verifiable ML models",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Monkey Jungle",
+    "slug": "monkey-jungle-i0wgu",
+    "description": "Dive into a tactical turn-based game powered by Unity and Dojo engine. Plan your moves, manage resources, and engage in strategic battles, all with the unique advantage of blockchain integration. Experience the future of gaming!",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "none",
+    "slug": "none-nknxb",
+    "description": "Capture an image in a React Native app, sign it with MetaMask, encrypt its hash using Lit Protocol, and store both the encrypted data and the image on Pinata. Users can later verify the image owner by decrypting the hash, ensuring secure and verifiable image ownership.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Safe Send",
+    "slug": "safe-send-xqhxp",
+    "description": "Transaction checker to see the status of any transaction to ensure that the transaction doesn't revert",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "HydroFans",
+    "slug": "hydrofans-9px7i",
+    "description": "Conquer dehydration and decentralize your water intake data powered by Starknet!",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Starkdeck",
+    "slug": "starkdeck-5qtdk",
+    "description": "StarkDeck represents a groundbreaking approach in the online poker industry, merging the thrill of poker with the robust security and anonymity offered by cryptocurrencies",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Entropy",
+    "slug": "entropy-w53yo",
+    "description": "AI-powered trade setups with verifiable and provable inference on Starknet",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Joyboy whatever",
+    "slug": "joyboy-whatever-35zxc",
+    "description": "Joyboy features: Keys for Starknet users. Gamification and DeFi based on Social Network. Madara appchain Pallet for Nostr",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ModYouAccount",
+    "slug": "modyouaccount-xnhgd",
+    "description": "ModYourWallet is all about users being able to decide on how their account should behave and used through Starknet's Native Account Abstraction. This allows users to have Debank (Savings Account), Guarded account, Multisig Accounts, Farm Accounts, Time based accounts and more",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "starklink",
+    "slug": "starklink-ao1h9",
+    "description": "Starklink allows users generate payment links for invoices/paybacks",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarDust",
+    "slug": "stardust-smfxf",
+    "description": "Welcome to Stardust! We are excited to introduce you to our innovative platform designed to empower decentralized autonomous organizations (DAOs) with seamless liquidity lending and efficient management tools.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Zap-Stark",
+    "slug": "zap-stark-8w8q6",
+    "description": "Zap-Stark: A Telegram mini-app for seamless token swaps on Starknet. Instant self-custodial wallets, best prices via Avnu, and gas-free trades for early users. Experience Starknet's smooth UX and low fees without leaving Telegram!",
+    "event": "StarkHack",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "4388j",
+      "qctg9",
+      "xrzks",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "yoooo",
+    "slug": "yoooo-hsts5",
+    "description": "nothing to make, just enjoy the hack  happy hacking happy hacking happy hacking happy hacking",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SlashAI",
+    "slug": "slashai-e3t4f",
+    "description": "AI agent which uses Zkml to predict the performance of validators and operators and reduce slashing risks.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Radix Loans",
+    "slug": "radix-loans-qzj75",
+    "description": "Radix-Loans-0.1.0 aims to revolutionize finance with a secure, transparent, and efficient decentralized lending platform. We empower individuals and businesses with innovative blockchain-based solutions, creating an inclusive ecosystem for seamless loan access and collateral.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JEM-4000",
+    "slug": "jem-4000-izwhz",
+    "description": "Visualize StarkNet transactions and top tokens in real-time using a 3D globe interface with data from Voyager API.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qctg9"
+    ]
+  },
+  {
+    "name": "Notify",
+    "slug": "notify-xghz2",
+    "description": "An infra that allows an dapp to send notifications to the user wallet addresses",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chipi-Pay",
+    "slug": "chipi-pay-51avu",
+    "description": "The payments infrastructure for LATAM 3x cheaper than Visa and Mastercard",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Crash",
+    "slug": "crash-upaqp",
+    "description": "Starknet / Cairo learning platform for kids inspired by (MIT Scratch)",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "starkdashboard",
+    "slug": "starkdashboard-cp28t",
+    "description": "StarkSafe is a secure, multi-user wallet on Starknet that offers customizable access control and spending limits  and  digital asset management.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mastermind",
+    "slug": "mastermind-bsgrp",
+    "description": "Mastermind is a classic code-breaking game for two players. It is a game of logic, deduction, and strategy where one player creates a secret code, and the other player tries to guess the code within a limited number of attempts.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkChat",
+    "slug": "starkchat-wt8e5",
+    "description": "StarkChat is an AI-powered platform that provides precise, context-aware answers. Users register securely via dynamic wallets, and the platform leverages the Voyager API for context extraction.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "bounty marketplace",
+    "slug": "bounty-marketplace-dsrt7",
+    "description": "Building a bounty marketplace platform The platform will connect companies and individuals for completing tasks in exchange for rewards.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QuantWealth",
+    "slug": "quantwealth-p5dsw",
+    "description": "An AI-Driven Wealth Manager for web3, designed to simplify investing, maximize returns and minimize risk.   With QuantWealth, both individual consumers and financial institutions can invest in Web3 effortlessly, even with zero crypto knowledge.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swap.org",
+    "slug": "swap-org-xrir5",
+    "description": "Add starknet support to swap.org AMM swap and bridge on popular chains and EVM",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkEnvision",
+    "slug": "starkenvision-aou5d",
+    "description": "Unlock StarkNet's potential with real-time data dashboards, AI-driven predictive tradings, and secure DMAIL updates. Dive deep with interactive analytics, custom reports, and collaboration tools. Revolutionize your decisions on StarkNet with Voyager APIs.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qctg9"
+    ]
+  },
+  {
+    "name": "TowerItUp",
+    "slug": "toweritup-mmgd2",
+    "description": "A tower game where you stack each block of the tower the higher and the more accurately you drop the block the higher you build, the more score you get !!",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Exper",
+    "slug": "exper-nw8a6",
+    "description": "\"Unlocking Knowledge, One Token at a Time: Revolutionizing Research Access with Web3 and AI\"",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "STRK Schedule",
+    "slug": "strk-schedule-dg9es",
+    "description": "Track, trace and record medication schedule, blood sugar log, daily meals and exercise for diabetic patients using Starknet, Voyager, Dynamic SDKs and Starknet ecosystem tools.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Starticle",
+    "slug": "starticle-za4z4",
+    "description": "Unlock a new dimension of decentralized publication with Starticle, the avant-garde social media platform designed for the future.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FELONY",
+    "slug": "felony-um04d",
+    "description": "A Super Exciting On-Chain Quiz App with real time questions are genrated by a model domain_expansion model using Ollama that keep track player high score.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossFund",
+    "slug": "crossfund-0npc4",
+    "description": "Ethereum - StarkNet Cross Chain Crowdfunding Platform leveraging novel L1-L2 messaging protocol",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xrzks",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Star User",
+    "slug": "star-user-p38xo",
+    "description": "Under-collateralized lending protocol using verifiable credentials to give a credit score for opening dynamic credit line and give more voting power for small and loyal users on Starknet.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrivacyScalingSN",
+    "slug": "privacyscalingsn-zxedr",
+    "description": "Privacy Scaling comes to Starknet! Port existing privacy scaling projects from Ethereum to Starkent for cost efficiency by verifying Groth16 proofs on Starknet",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoinTrail",
+    "slug": "cointrail-voepm",
+    "description": "Ensures an organization's financial health. Oversees cash flow, invests for returns, minimizes risks & optimizes payments. Keeps finances flowing smoothly..",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "No Name Game",
+    "slug": "no-name-game-u9pw8",
+    "description": "This is a POC game built with cairo and hopefully integrated with Dojo",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Witness Analytics",
+    "slug": "witness-analytics-bqy7a",
+    "description": "A Token Flow dashboard with interesting stats from starknet that helps with DYOR",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f0wnx"
+    ]
+  },
+  {
+    "name": "Proof of Speed",
+    "slug": "proof-of-speed-it29q",
+    "description": "Proof of Speed will use zero knowledge proofs to show that a player has completed a game in a certain time",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockfolio",
+    "slug": "blockfolio-xk4h1",
+    "description": "Your personalized crypto portfolio dashboard! track token balances, transaction history, and portfolio performance with ease.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Stark-pilot",
+    "slug": "stark-pilot-d5cws",
+    "description": "Devdock: Elevate your VS Code with AI-powered chat and code completion. Earn STARK tokens for successful deployments. Authenticate via Web3 and GitHub, track progress, and fine-tune models with your data. A Developer Knowledge Graph for top-tier protocol adoption and rewards.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShogunBattle",
+    "slug": "shogunbattle-wiwf9",
+    "description": "submit declined submit declined submit declined submit declined",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkFAAS-Framework",
+    "slug": "starkfaas-framework-5f9ya",
+    "description": "StarkFAAS-Framework enables decentralized computing on StarkNet using WebAssembly, IPFS, and serverless architecture. Build secure, scalable dApps effortlessly.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Her Voyage",
+    "slug": "her-voyage-3dtj5",
+    "description": "Her Voyage is an empowering app designed for solo female travelers, providing reliable safety resources, community support, and verified accommodations. Protecting user privacy, it enables women to explore the world confidently and securely, transforming their travel experiences.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Needle",
+    "slug": "needle-e0tt6",
+    "description": "A decentralized Twitter-like social app network on Arweave",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "starkdt",
+    "slug": "starkdt-afffu",
+    "description": "display detailed StarkNet account information and bubble maps of the coins held.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "StarkAI Art",
+    "slug": "starkai-art-468fq",
+    "description": "Interactive AI-Powered NFT Art Creation Game on StarkNet with Word Play",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "SportNet",
+    "slug": "sportnet-2sice",
+    "description": "Crowdfunding Platform for Athletes with sports betting platform",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkNet OnChainID",
+    "slug": "starknet-onchainid-9vjg3",
+    "description": "Starknet OnChainID is a decentralized identity (DID) solution built on the Starknet Layer 2 network, leveraging ZK-Rollup technology for scalable and secure blockchain interactions. This solution provides users with a decentralized and self-sovereign identity",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "StarkBot",
+    "slug": "starkbot-k5ema",
+    "description": "An AI bot to participate in DeFi on StarkNet with txn simulation, DEX integrations, token gating, and more",
+    "event": "StarkHack",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "4388j",
+      "qctg9",
+      "xrzks",
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "MetaKey Wallet",
+    "slug": "metakey-wallet-4vz1r",
+    "description": "Metakey wallet: a Web3 smart wallet using a dynamic.xyz widget for easy onboarding. It ensures seamless automated transactions and secure social backups, all powered by account abstraction.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "SubScribeNet",
+    "slug": "subscribenet-mknae",
+    "description": "It is a platform that allows users to manage and share subscriptions for digital services (e.g., streaming, software).",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Seeker",
+    "slug": "seeker-tdeko",
+    "description": "Seeker is an on-chain job board on the Starknet ecosystem. Effortlessly create, apply for, and search jobs in one unified platform. Secure, decentralized, and user-friendly, Seeker revolutionizes job hunting and recruitment in the blockchain space.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KeyChangeTracker",
+    "slug": "keychangetracker-hv023",
+    "description": "Number of Argent and Braavos accounts that changed their keys, breakdown by week.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f0wnx"
+    ]
+  },
+  {
+    "name": "EpiGuard",
+    "slug": "epiguard-1n7g5",
+    "description": "A mobile app that uses zero-knowledge StarkNet smart contracts to ensure privacy while alerting users about potential exposure to various epidemics.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Synapse",
+    "slug": "synapse-oci3x",
+    "description": "Experience the future of gas-free transactions with Synapse! No funds? No problem! Synapse lets you watch a quick ad to cover gas fees for your Starknet transactions.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "DegenZKhess",
+    "slug": "degenzkhess-2ggm2",
+    "description": "A provable chess game where you can assign unique tokens and NFTs to pieces, adding complexity to strategies for a more engaging and entertaining gameplay.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossChainLimit",
+    "slug": "crosschainlimit-a2f8s",
+    "description": "Limit orders atomically swapped between Starknet and another chain such as L1 or Bitcoin",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkPaw",
+    "slug": "starkpaw-5kpoy",
+    "description": "A decentralized pet NFT gaming platform encompassing dynamic NFTs for updating pet actions.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "StarkView",
+    "slug": "starkview-svod3",
+    "description": "Analytics and Recommendation Systems for movement from L1 to Starknet",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TokanRaider",
+    "slug": "tokanraider-0a7q3",
+    "description": "TokanRaider is a 2D role playing game where players navigate the world to discover and collect unique NFTs. Built with Unity and dojo, it features pixel-art graphics, starknet integration for easy and secure NFT minting and transfer.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P2P Safety",
+    "slug": "p2p-safety-kvvjb",
+    "description": "🤝P2P Safety is a feature enhancing security and trust in peer-to-peer (P2P) marketplaces. Using blockchain and smart contracts, it provides a decentralized escrow service, ensuring safe transactions for buyers and sellers of second-hand goods",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "EtherStark Connect",
+    "slug": "etherstark-connect-eokcs",
+    "description": "Explore the ultimate gateway to Ethereum and Starknet with our app. Seamlessly log in with multiple wallets, bridge assets between networks, and manage multiple wallets effortlessly.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Tippify",
+    "slug": "tippify-sov81",
+    "description": "Introducing **Tippify** ✨ – a decentralized micro-payment platform built on StarkNet. Empower content creators with seamless, low-fee tipping. Users can easily tip their favorite creators, view profiles, and track transaction history. Elevate support and engagement with Tippify!",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stark Vault",
+    "slug": "stark-vault-vm2hh",
+    "description": "Stark Vault is a  comprehensive payment, savings and card solution. Improving user experience through StarknetJS' sdk and its native Account Abstraction.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qctg9"
+    ]
+  },
+  {
+    "name": "Solas",
+    "slug": "solas-pekhm",
+    "description": "An attestation / citation system built on starknet using Cairo and starknet tooling.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Zap",
+    "slug": "zap-ikpdp",
+    "description": "Zap aims to bring a TradFi/Revolut-like experience to Web3/Starknet using email wallets.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "StarkSketch",
+    "slug": "starksketch-sgurb",
+    "description": "StarkSketch is a collaborative drawing game on Starknet.  Build with your friends, mint your art as an NFT & test your guessing skills.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "FlashLoan Starknet",
+    "slug": "flashloan-starknet-s76zn",
+    "description": "Cairo 2 Flashloans interface for a decentralized healthy growth of the DeFi ecosystem on the Starknet community, targeted towards DeFi devs active in the decentralized community of ethereum L1, the contract will be mapped over the balancer flashloans Vaults.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Veil of Echoes",
+    "slug": "veil-of-echoes-w3y4m",
+    "description": "Return to your eerie hometown in Veil of Echoes, Using a mysterious radio, unravel spectral distortions and hidden truths from an abandoned facility. Navigate reality and the supernatural where every choice echoes through time. Can you unveil the past to save your future?",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Permit3",
+    "slug": "permit3-pnh8e",
+    "description": "PERMIT3 is a general-purpose smart contract permission management system built on Starknet.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tensorfy",
+    "slug": "tensorfy-6o7bg",
+    "description": "Tensorfy is an application built to clarify the complexity of blockchain transactions on the StarkNet platform by leveragin LLm's to explain simulated execution with natural language",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9jtc3"
+    ]
+  },
+  {
+    "name": "IDCV Gigs",
+    "slug": "idcv-gigs-pxqx2",
+    "description": "id.cv Gigs is an innovative decentralized freelancer job portal developed by the same team that created the id.cv decentralized resume platform during HackFS",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sparky",
+    "slug": "sparky-1kkbd",
+    "description": "A coincidence-of-wants swap implementation for Starknet. It should reduce fees by matching orders",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LST Optimizer",
+    "slug": "lst-optimizer-5pudw",
+    "description": "A robo-advisor managed portfolio of different LSTs designed to outperform any one LST",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Starkshoot",
+    "slug": "starkshoot-2qei8",
+    "description": "A groundbreaking multiplayer real-world onchain gaming experience that pushes the boundaries of excitement and innovation. Powered by the Starknet chain, StarkShoot is not just a game.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shaboy",
+    "slug": "shaboy-zkoy1",
+    "description": "A gaming platform where users own games as NFTs, bought and sold on our marketplace. We enable Web2 devs to launch Web3 games without blockchain complexities, addressing high platform fees faced by 15M  game devs. Our mission is to onboard 15Million web2 game devs to starknet",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "AI On chain",
+    "slug": "ai-on-chain-t0wgf",
+    "description": "Autonomous worlds built with Dojo with players & characters powered by on-chain AI",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkSight",
+    "slug": "starksight-9uv84",
+    "description": "\"StarkSight\" is a cutting-edge blockchain analytics platform dedicated to providing in-depth insights and visualization for the Starknet ecosystem",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "PeerLend",
+    "slug": "peerlend-koed7",
+    "description": "A P2P lending and borrowing platform that allows users to borrow using flexible rates and personalized offers.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MintMyMoment",
+    "slug": "mintmymoment-p0cuf",
+    "description": "Transforms memorable digital experiences into dynamic NFTs, which evolve and engage over time based on real-world interactions.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkHack",
+    "slug": "starkhack-wy9fm",
+    "description": "Still figuring out starknet. I thought it would be EVM compatible but maybe not.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "rootpe",
+    "slug": "rootpe-u95yo",
+    "description": "Introducing Rootpe: A seamless, secure, and scalable payment and trade app on StarkNet. Rootpe leverages state channels, signature protocols, IPFS, Merkle trees, and NFTs for fast, low-cost, and reliable transactions. Revolutionize payments with Rootpe!",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Private NFT Club",
+    "slug": "private-nft-club-i72zb",
+    "description": "An exclusive Private NFT Club where members can access unique digital experiences through NFT authentication.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stay Alive",
+    "slug": "stay-alive-r82tv",
+    "description": "The wonderful blockchain game~ Looking forward to the day it goes live.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkAid",
+    "slug": "starkaid-e5otu",
+    "description": "Our project \"StarkAid\" is a decentralised crowdfunding application on StarkNet tailored specifically for disaster relief and scientific research. It introduces a novel approach involving validators who oversee the verification process before projects can receive funding.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "StarkExplorer",
+    "slug": "starkexplorer-8pvb2",
+    "description": "A tool to view and analyse transactions, blockchain metrics and other data, using the Infura API. Inspired to some extent by StarkScan and Etherscan.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bik",
+    "slug": "bik-o3xhg",
+    "description": "Bik: AI-oriented On-chain Strategy Game. Built on Starknet, using Dojo Engine.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClearTxn",
+    "slug": "cleartxn-y24hx",
+    "description": "Explain starknet transactions utilising transaction simulation and LLM",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "p/dash",
+    "slug": "p-dash-f20tg",
+    "description": "p/dash is a forced-scroll action game built on PixeLAW, inspired by Geometry Dash",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sora",
+    "slug": "sora-6jrbm",
+    "description": "Our project aims to provide a decentralized solution for conflict-free spatial allocation in distributed multi-agent systems using zero-knowledge proofs and blockchain.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Enigma",
+    "slug": "enigma-royvs",
+    "description": "Enigma is an onchain mystery game blending captivating stories with AI-generated art. Decipher clues, guess the hidden objects, and race against time to secure your place on the leaderboard and claim NFTs powered by Starknet, Llama3 and Dojo!",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "starkhack.xyz",
+    "slug": "starkhack-xyz-cyrhi",
+    "description": "Starkhack is a bug bounty and security services platform dedicated to protecting crypto projects, with a special focus on securing Cairo smart contract code from Web3 vulnerabilities.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "RampExchange",
+    "slug": "rampexchange-0eoud",
+    "description": "This is an on oframp exchange on starknet that leverages East Africa's Mpesa mobile money",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Starklens",
+    "slug": "starklens-u4n7q",
+    "description": "StarkLens: Intelligent Swap widget on Starknet 🌐, leveraging intent-based matching, and offline-capabilities for extensive swap coverage",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Starkscanner",
+    "slug": "starkscanner-xmide",
+    "description": "Transaction visulizer for wallet addresses, transactions and contracts",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "f0wnx"
+    ]
+  },
+  {
+    "name": "Sunya",
+    "slug": "sunya-r55oq",
+    "description": "Meta transaction enabled Smart Contract security analysis, deployment, and verification for Starknet & Bridge Essentials with Ethereum. Dashboard powered by powerful datasets from tokenflow, herodotus, and nethermind.",
+    "event": "StarkHack",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks",
+      "4hzt5"
+    ]
+  },
+  {
+    "name": "Starkgo",
+    "slug": "starkgo-jpzyo",
+    "description": "A Go Game World build with the Dojo Engine - Currently supports 2-player 9x9 games",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Elev8",
+    "slug": "elev8-hdxg1",
+    "description": "A platform to launch 🚀 coins on Starknet chain hassle free.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TradeX",
+    "slug": "tradex-eub4h",
+    "description": "TradeX is an on chain ETH trading strategy AI agent deployed on starknet mainnet",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarBTC",
+    "slug": "starbtc-vsaev",
+    "description": "StarBTC is the first and only native Bitcoin lending protocol built on Cairo. Your BTC acts as collateral, remaining non-custodian and non-liquidatable. StarBTC enables other chains to tap into the most trustworthy asset—Bitcoin on the Bitcoin mainnet.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chain Monsters",
+    "slug": "chain-monsters-o26dw",
+    "description": "Chain Monsters is a turn-based RPG action game on the blockchain where players control monsters, engage in PvP battles, strategically move on a 5x8 grid, attacking enemies to increase mana and decrease opponents health. Last monster standing wins!",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "frkz3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Stark-Farmland",
+    "slug": "stark-farmland-j5n33",
+    "description": "Stark-Farmland is a multiplayer online game where players cultivate their virtual farms, interact, and trade with others. Expand your empire, disrupt or aid fellow farmers, and blur the lines between virtual and real with actual fruit rewards from successful harvests!",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Sure Attend",
+    "slug": "sure-attend-iev3m",
+    "description": "A web app for event registration with simplifies event organization",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "starkid",
+    "slug": "starkid-vcztg",
+    "description": "a DID managing tool to communicate your public and private data with sovereignty",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkRandomizer",
+    "slug": "starkrandomizer-bwc8h",
+    "description": "A reusable smart contract module for randomizing flexible NFT draws, applicable to blockchain games, lotteries, event ticketing, and more!",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StakeFlow",
+    "slug": "stakeflow-80ahv",
+    "description": "A staking dApp built and deployed to starknet comprising of the staking contract and erc20 token.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Starkify",
+    "slug": "starkify-3aq1u",
+    "description": "Starkify brings the familiar e-commerce user experience to DeFi, leveraging Starknet's multicall functionality for efficient and seamless transactions",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "ByteBeasts",
+    "slug": "bytebeasts-kf97c",
+    "description": "ByteBeasts combines NFT collection with the fun of an on-chain RPG game. Each ByteBeast is a unique NFT, and there are five types: Crystal, Draconic, Shadow, Light, and Titanium, each with different strategic advantages.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onigiri!",
+    "slug": "onigiri-9q29k",
+    "description": "Onigiri! is a turn-based, fully onchain game written in Cairo using the Dojo game engine, Bevy, and Tokio. Oh, and it's also blazingly fast, because of course it's all written in Rust.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "frkz3"
+    ]
+  },
+  {
+    "name": "Kageki Duels",
+    "slug": "kageki-duels-n7cko",
+    "description": "PvP On-Chain game to train and battle with other people party",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oracle-Consensus",
+    "slug": "oracle-consensus-jscd6",
+    "description": "Establish on-chain consensus over predictions from multiple oracles that can evolve over time.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4388j",
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "zkPages",
+    "slug": "zkpages-n3aro",
+    "description": "Zero-knowledge digital content single page store fronts. Enable anyone to create a secure digital content store front page on Starknet. Privacy-focused checkouts.",
+    "event": "StarkHack",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qctg9",
+      "xrzks",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Adjust Adventure",
+    "slug": "adjust-adventure-hve5f",
+    "description": "Players work together to adjust the soldier's equipment, fuel his adventures, and share the loots.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockchain Pulse",
+    "slug": "blockchain-pulse-rnnt1",
+    "description": "Blockchain Pulse: An interactive digital art installation that visualizes real-time Starknet transactions. Each transaction is dynamically represented through unique colors, shapes, and movements, creating an ever-evolving visual experience. #Blockchain #Art #Starknet",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qctg9"
+    ]
+  },
+  {
+    "name": "Crypto4cause",
+    "slug": "crypto4cause-woe6w",
+    "description": "Cut out the middleman, maximize your impact: Donate crypto directly to charities with Crypto4Cause.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Qibble",
+    "slug": "qibble-ibu40",
+    "description": "A Prediction market on starknet with binary options and using Dynamic",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Starckfolio",
+    "slug": "starckfolio-agmoy",
+    "description": "A personalized and comprehensive dashboard for your Starknet Portfolio",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Block Visualizer",
+    "slug": "block-visualizer-8dt2j",
+    "description": "A block visualizer that creates an artistic expression of the block data. In future it will have a mint feature that will create an NFT of any desired block.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qctg9"
+    ]
+  },
+  {
+    "name": "UNI-Bridge",
+    "slug": "uni-bridge-e9rcy",
+    "description": "UNI Bridge for All BlockChains, with stake/bridge/trade modules",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "12h.finance",
+    "slug": "12h-finance-fc4g3",
+    "description": "Introducing 12h.finance! We’re building a protocol that tokenizes traditional financial instruments, allowing them to be used as collateral for crypto loans. Bridging traditional finance and DeFi for new capital and investor opportunities!",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "HyperStark",
+    "slug": "hyperstark-0gqvb",
+    "description": "Automated Rewards and Reinvesting, Harvesting in the HyperStark Vault Service on Starknet.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkStorm",
+    "slug": "starkstorm-u2boh",
+    "description": "StarkStorm: Decentralized P2P lending bridging traditional finance and crypto, offering customizable loans and robust infrastructure on Starknet",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Starknify",
+    "slug": "starknify-kr9v6",
+    "description": "Starknify is an analytic tool that I am building to make users view data and information on the starknet ecosystem, from addresses, to live activities and many more.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Metronome Finance",
+    "slug": "metronome-finance-qxqvr",
+    "description": "Metronome brings yield trading to the Starknet ecosystem, like Pendle for EVM-compatible chains!",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarkSwirl",
+    "slug": "starkswirl-vyttm",
+    "description": "StarkSwirl is a privacy preserving token mixer that allow users to use the public blockchain Starknet and keep their privacy.",
+    "event": "StarkHack",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4388j",
+      "4hzt5",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "bB Onboard Pro",
+    "slug": "bb-onboard-pro-vvib6",
+    "description": "A revolutionary onboarding tool for multi-player games, using zk proofs & strategic game testing to optimise team composition for game play success.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "Genesisgalleria",
+    "slug": "genesisgalleria-294i5",
+    "description": "Unleash your creativity with our groundbreaking NFT project leveraging Starknet . Provide a prompt, and our AI crafts a unique image just for you. Mint your personalized artwork for a small fee and secure it on the blockchain. Revolutionize NFT creation with us at the hackathon!",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Mimosa",
+    "slug": "mimosa-fprs9",
+    "description": "An asset mixer on Starknet - using ZK proofs to break the link between a deposit and withdraw",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4388j"
+    ]
+  },
+  {
+    "name": "BetterJob",
+    "slug": "betterjob-13avp",
+    "description": "BetterJob for Crypto Professionals is an on-chain job board on the Starknet ecosystem that provides Transparency and betetr candidate matching for users with blockchain familiarity and usage..",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyJewel",
+    "slug": "myjewel-bxgix",
+    "description": "This product aims to offer users to participate in high value market investments by lowering the barrier to entry.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zKastle",
+    "slug": "zkastle-jeh44",
+    "description": "zKastle is a solo strategy card game. Manage resources, and upgrade your village to make the maximum points possible. Make tactical decisions to help your village grow and flourish.",
+    "event": "StarkHack",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "4388j",
+      "frkz3",
+      "frkz3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "starkmark",
+    "slug": "starkmark-t3avh",
+    "description": "Starkmark is a decentralized storage and sharing application layer based on Starknet. On Starkmark, you can easily create bookmarks to mark URIs and share them. Besides serving as a favorites list, you can also use Starkmark as your navigation site.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Stark Sight",
+    "slug": "stark-sight-a3kr9",
+    "description": "StarkSight is the place to be for betting experiences on Starknet.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Raize Club",
+    "slug": "raize-club-r3bpx",
+    "description": "Raize Club is building an on-chain prediction market on Starknet. Raize allows users to earn from their opinions on politics, sports, pop culture, crypto, and more.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4388j",
+      "9jtc3"
+    ]
+  },
+  {
+    "name": "MadaRWA",
+    "slug": "madarwa-hmn9n",
+    "description": "Layer 3 Chain tailored for tokenizing real-world assets (RWAs), featuring wallet tiers based on KYC and KYB compliance. The chain includes a token standard for regulatory adherence.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "4Draw",
+    "slug": "4draw-ucibt",
+    "description": "4Draw is a decentralized lottery game featuring a smart contract for transparent operations, a user-friendly UI for ticket purchases and prize claims, and integration with Pragma’s VRF contract to ensure fairness.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Attest Me",
+    "slug": "attest-me-smj4z",
+    "description": "Attest Me - Building a world where trust is transparent and verification is effortless.",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4388j",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "512 Karat",
+    "slug": "512-karat-3sq17",
+    "description": "A fully on-chain generative art ERC-721 made with Dojo and Origami",
+    "event": "StarkHack",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "frkz3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "pƧhare",
+    "slug": "p-hare-q591i",
+    "description": "Invest in promising project on the blockchain, and share profit with your pair investors, raise funds for your project and pay in small chunks with reasonable profits",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "LabelChain",
+    "slug": "labelchain-ms33a",
+    "description": "Data labelling app which help you to label your data with the help of real time users and provide them a payout using decentralized payments.",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKTPS",
+    "slug": "zktps-v9709",
+    "description": "Creating a zero-knowledge (ZK) based ticketing system to prevent counterfeiting and black marketing while keeping costs low is an innovative approach.",
+    "event": "StarkHack",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4388j",
+      "qctg9",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "StarkTrip",
+    "slug": "starktrip-om3c4",
+    "description": "StarkTrip is a cognitive game designed to help you improve your problem solving skills. The objective is to find the shortest path that allows you to pick up and deliver a set of characters to their corresponding planet without running out of gas.",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "frkz3"
+    ]
+  },
+  {
+    "name": "Ninja Academy",
+    "slug": "ninja-academy-hvt1d",
+    "description": "Ninja Academy is an interactive educational platform for developers, offering courses on StarkNet and blockchain basics. It features gamification, community engagement, and reputation-based NFTs, empowering developers to innovate and grow within the StarkNet ecosystem",
+    "event": "StarkHack",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AbyssX",
+    "slug": "abyssx-heekp",
+    "description": "A fully on-chain game that can continuously attract players to play, and aims to solve some of the problems existing in play to earn by proposing a new token model",
+    "event": "StarkHack",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "frkz3"
+    ]
+  }
+]

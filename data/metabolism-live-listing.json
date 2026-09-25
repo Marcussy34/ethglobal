@@ -1,0 +1,989 @@
+[
+  {
+    "name": "zorafm",
+    "slug": "zorafm-9bz3k",
+    "description": "A platform to create on chain playlists from your favorite Music NFTS on anycollection!",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Warp Riders",
+    "slug": "warp-riders-9utay",
+    "description": "NFT community for stakeholders on digital public goods for web3 Cities",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Portia Pence Is Missing",
+    "slug": "portia-pence-is-missing-9316c",
+    "description": "A Choose-Your-Own-Adventure game with a retro flavor and musical clues!",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RepublicHacker",
+    "slug": "republichacker-c36yk",
+    "description": "the requirements of creators, investors, and buyers, and/or fans from minting to monetizing NFTs. For NFTs to live up to their expectations for the present and the future, a new way of raising funds to support creators and engaging the community is needed",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SPORES Studio Mixer",
+    "slug": "spores-studio-mixer-zmz0k",
+    "description": "A “studio” with the SPORES as the center controller. The app takes in 2 songs, 3 stems to loop, and artwork for the skin. After remixing you can mint.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chef Recipies",
+    "slug": "chef-recipies-d0wra",
+    "description": "Recipe Chef you can create and share all your recipes and get paid  Recipe Chef is a decentralized app for chefs, cooks, and any food lover.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Livestream overlays: Livepeer, OBS, and Zora",
+    "slug": "livestream-overlays-livepeer-obs-and-zora-63mvi",
+    "description": "Livestream overlay of NFT data using Livepeer, OBS, and Zora API",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Muzu",
+    "slug": "muzu-3jhzc",
+    "description": "MUZU is a place to convert your musics to content locked NFTs that can be only heard by owners who bought them.",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "FInders Keepers",
+    "slug": "finders-keepers-qn0gw",
+    "description": "Social NFT marketplace where listings are shared with everyone using lens protocol",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Social Lego",
+    "slug": "social-lego-h4smf",
+    "description": "New generation Decentralized Social network streaming and NFT Gaming platform.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Fable",
+    "slug": "fable-iie23",
+    "description": "Fable is toolkit for dropping binaural sounds to Tarots, through Prime Number Binaural Inspiration",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT House",
+    "slug": "nft-house-regsh",
+    "description": "Nft House is a   auction house where you buy and sell your Nfts.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Non-Fungible frens",
+    "slug": "non-fungible-frens-iugz3",
+    "description": "My main aim is to build a decentralized social media and NFT marketplace ,where creators get rewarded via tokens for participation.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arbitrary SVG",
+    "slug": "arbitrary-svg-he53y",
+    "description": "Proof of concept for an on-chain interactive SVG, encoded completely in the image_data  key of the tokenURI.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arctic Live",
+    "slug": "arctic-live-jon7m",
+    "description": "This is a video live streaming platform using Livepeer, and live streaming data is converted to NFT with IPFS, then it can be directly sold in Zora V3 market place.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Tribunals",
+    "slug": "tribunals-5sowv",
+    "description": "Tribunal is a decentralized NFT-based voting system for DAOs.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MIDI NFT DOA Procedural for lofi defi hip hop",
+    "slug": "midi-nft-doa-procedural-for-lofi-defi-hip-hop-cvbux",
+    "description": "A collaborative way to generate lofi beats or chiptune music using NFTs and governance tokens",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ourpass",
+    "slug": "ourpass-91ucq",
+    "description": "ourpass is a decentralized and trustless NFT event and pass generation platform",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Blue Mage",
+    "slug": "blue-mage-8tiqi",
+    "description": "An online tool to automate the ability to create offers for buying NFTs in the market using Zora's API",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f2so0"
+    ]
+  },
+  {
+    "name": "Music-NFT-Copyright-Protocol",
+    "slug": "music-nft-copyright-protocol-oja0q",
+    "description": "Buying a copyright is both long and troublesome process for the content creator and user. Our project offers completely new, fast and easy approch for copyrights.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Twid",
+    "slug": "twid-0gwjw",
+    "description": "Live streaming app with ability to upload reels and watch past livestreams",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Limestones",
+    "slug": "limestones-au4hb",
+    "description": "A new Web3 music ecosystem that will help democratize access to music nfts in the caribbean region. We also aim to create better standards for music nfts using best in class principles & concepts.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Melodia",
+    "slug": "melodia-4gw5x",
+    "description": "A Decentralized Music NFT Marketplace for Music Composers - Melodia is an NFT marketplace where any independent music composer can launch their albums as an NFT and users will be able to buy from the marketplace.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Zarena",
+    "slug": "zarena-6oc2x",
+    "description": "Zarena is a video livestream for decentralized communities for NFT drops",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MintHound",
+    "slug": "minthound-k8775",
+    "description": "MintHound is a website, twitter bot, and discord bot that will check the recent mints and purchases of an Ethereum wallet address or ENS name.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Qu3st",
+    "slug": "qu3st-w6275",
+    "description": "Qu3st is an app that takes a song or a sound file and uploads it along with the lyrics as an NFT",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Price protocol",
+    "slug": "price-protocol-d2rj4",
+    "description": "We estimate the reserve/fixed at which you should the list your Music NFT",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "notredy",
+    "slug": "notredy-xnfhv",
+    "description": "A max 280-character or less description of your project (it should fit in a tweet!)",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GemGroove Music Minter",
+    "slug": "gemgroove-music-minter-xkfyn",
+    "description": "A Dapp used in conjunction with NFT.Storage that can be used to easily mint any file into an NFT.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "ztunes",
+    "slug": "ztunes-37jf6",
+    "description": "Pandora for music NFT's. Listen to random songs from the decentralized web.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "av8vu"
+    ]
+  },
+  {
+    "name": "Neya",
+    "slug": "neya-p42th",
+    "description": "Neya is a fully decentralized 2-factor authenticator that helps you to stay safe on the web 3.0.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Ratio - Fractionalized NFTs",
+    "slug": "ratio-fractionalized-nfts-hy4ww",
+    "description": "Turn your NFT in a fractionalized NFT using ERC1155 standard. Also, get some funding by distributing every fraction to buyers",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "OpenPersonality",
+    "slug": "openpersonality-yr4b0",
+    "description": "An open personality platform that mints traits NFTs for social activities such as finding friends, dating, job compatibility and self-awareness",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zora Land",
+    "slug": "zora-land-f54yo",
+    "description": "ZoraLand allows users to discover available tokens and collections on Zora through gaming.",
+    "event": "Metabolism",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "NFTezz",
+    "slug": "nftezz-u5gyx",
+    "description": "A platform for creators to tokenize, monetize, and build reputation with their artwork.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "🐱 tomcat",
+    "slug": "tomcat-yybqe",
+    "description": "tomcat auction house art with Zora protocol - ETH-rinkeby network",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EvolveNFT",
+    "slug": "evolvenft-psn6s",
+    "description": "The main idea is to Stake NFT in this platform and depending on the amount of time, you have staked your NFt, your NFT will be upgraded to the next level.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "urraca.xyz",
+    "slug": "urraca-xyz-sar8d",
+    "description": "NFT Marketplace for (generative) physical objects, plus an initial collection",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "JamBot - Spinamp Discord Bot",
+    "slug": "jambot-spinamp-discord-bot-aw6t2",
+    "description": "A discord bot to allow spinamp's music to be played on discord",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Curate",
+    "slug": "curate-dx5qf",
+    "description": "Mint your favorite music genres at random from curated limited time only crates.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Staodio",
+    "slug": "staodio-yha7u",
+    "description": "Staodi is from studio + DAO. Aim to matching between creator and investor. We offer DAO for manage NFTs minting process from start to end.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Private Investigator",
+    "slug": "nft-private-investigator-da8ko",
+    "description": "NFTPI is an NFT inspector that shows you a preview, the metadata, and marketplace links for a given NFT.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hype",
+    "slug": "hype-tb9d4",
+    "description": "Feel the music, see the music, creative display of on-chain creativity, anybody can interact with for free. Sovereignty for all musicians",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Commemorative NFT",
+    "slug": "commemorative-nft-djnjy",
+    "description": "Encouraging all crypto users to create NFTs for every life event.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "ethLive",
+    "slug": "ethlive-855mv",
+    "description": "Decentralized streaming platform, allowing content creators and users to interact directly.",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Imio",
+    "slug": "imio-c2rhn",
+    "description": "Imio is built on the Zora protocol, it is a ticketing marketplace that allows event coordinators to create events that are Nft collections and allow users to mint Nfts for the event",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Zora TranscriptNFT",
+    "slug": "zora-transcriptnft-gmw7o",
+    "description": "ZoraNft is a transcript solution that helps students in any form generate their transcript",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "DAOs Got Talent",
+    "slug": "daos-got-talent-3a81g",
+    "description": "DAO's Got Talent – A community-led decentralized open-source art movement!",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZoraVibes",
+    "slug": "zoravibes-ty5zf",
+    "description": "Web3 Music Copyright Royalty distribution in Marketplace with zora protocol",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "RECYCLE  DAO",
+    "slug": "recycle-dao-t1q4m",
+    "description": "A decentralised NFT Marketplace with Video calling (live Screen share ) feature.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Hyperstructuring with Scaffold-eth and Zora",
+    "slug": "hyperstructuring-with-scaffold-eth-and-zora-8ccps",
+    "description": "Hyperstructuring with Zora and Scaffold-Eth! A proof of concept app on the Ethereum network that allows users to create and fill zora asks. The app also includes an ERC20 contract called YourContract, which incentivizes curators to curate high quality content.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Attrium",
+    "slug": "attrium-tss1e",
+    "description": "Attrium is an on-chain trait economy built on Zora V3 and Polygon to achieve maximum composability, allowing for true expression of self on the blockchain.",
+    "event": "Metabolism",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ZORA API DASH",
+    "slug": "zora-api-dash-kftb0",
+    "description": "ZORA API DASH  is a analytics and simple user interface for ZORA APIS & PROTOCOLS with audiobook minting feature.",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "Cover the Remix",
+    "slug": "cover-the-remix-ygmck",
+    "description": "Cover the Remix is a marketplace for music stems and remix/cover licensing that empowers fans to become creators",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "You and I",
+    "slug": "you-and-i-ptuku",
+    "description": "You and I, is an on-chain music composition , its an interface composing an append only together",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "NFT Trust Score",
+    "slug": "nft-trust-score-wti51",
+    "description": "Find out how trustworthy an NFT project is relative to another.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rubix",
+    "slug": "rubix-n449y",
+    "description": "Rubix is a city based metaverse platform. Users can explore a city-based map in the game. The map may show offline events, tourist attractions, and online gatherings.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "0xScribe",
+    "slug": "0xscribe-5sm4q",
+    "description": "0xScribe is a Discord tool that allows users to log messages as NFTs on Polygon. This allows users to prove that a message was sent, even after edits or deletions are made. This also provides a unique way of saving a moment in a community server as a collectible.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Rex",
+    "slug": "rex-2zj4m",
+    "description": "The first music discovery and recommendation engine powered by the blockchain",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f2so0",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "MyZoraBot",
+    "slug": "myzorabot-pgvs5",
+    "description": "This Zora Discord bot can help make a blockchain platform more user-friendly and successful by providing information, updates, and engaging features.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Talent Musica",
+    "slug": "talent-musica-mvpn6",
+    "description": "The projects seeks to create an onchain music Dapp where young mujsic talents can upload their creation and mint it to the marketplace as Video NFTs.",
+    "event": "Metabolism",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "SketchSlap",
+    "slug": "sketchslap-0a58e",
+    "description": "A DAO-based collab platform empowering artists to coordinate collaboration and combine results into collectively owned NFTs",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dawn",
+    "slug": "dawn-3p94j",
+    "description": "View and listen to NFTs with Zora using our user friendly discord bot.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f2so0"
+    ]
+  },
+  {
+    "name": "Catalog Factory",
+    "slug": "catalog-factory-8jx5g",
+    "description": "Hyperstructure for Music NFTs. Catalog Factory: curation as a public good. Deploy creator-owned music nfts on Polygon, Ethereum, Rinkeby & Mumbai. Built on Zora V3 (Asks V1.1).",
+    "event": "Metabolism",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "EtherMonitor",
+    "slug": "ethermonitor-6rg9g",
+    "description": "Monitoring tools for road incident management and reducing traffic congestion. Crowdsourcing traffic information sharing for better and safer roads.",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Metabolism X CV",
+    "slug": "metabolism-x-cv-9esvj",
+    "description": "Side project to work on during the week to play around with new NFT related tools and external SDKs to enhance cv site",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "creativegene",
+    "slug": "creativegene-meicr",
+    "description": "The goal is a decentralized platform like e.g. envato.com which allows to sell and buy digital assets for daily use.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Decensus",
+    "slug": "decensus-2z7gx",
+    "description": "Decensus is an incentivized decentralized survey for NFT collections with privacy protections. An NFT community gains insights about their own community by answering the questions. In this demo, the incentive is the data insight itself like Level.fyi.",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "NF20",
+    "slug": "nf20-7a2tx",
+    "description": "Its a ERC1155 project which fractionalizes ERC721 tokens and creates ERC20 tokens for the caller, the ERC20 tokens can also be redeemed for the underlying NFT.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Syncify",
+    "slug": "syncify-uhv4j",
+    "description": "⚡ NFT MUSIC INSIGHTS BASED ON DATA - No more tedious searches and hours spent on analysis! Our data-driven recommendations help you make a killing with music NFTs. Dashboard that combines Spinamp API with Zora ZDK",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Vapor",
+    "slug": "vapor-rtexn",
+    "description": "Create decentralized no-gas trade offers between tokens and NFTs!",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "zora unity nft display",
+    "slug": "zora-unity-nft-display-9vrou",
+    "description": "unity plugin for display NFT in game object using zora graphql api",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Beat",
+    "slug": "1beat-9486b",
+    "description": "A decentralized platform that enables young local musicians to share their music live with the world from wherever they are and even hold concerts. Don't miss out on NFTs released from your favourite music shows and show off your love for the art, and the artist.",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "ZAORA",
+    "slug": "zaora-maebh",
+    "description": "ZAORA is an NFT analytics tracker. ZAORA is an NFT analytics tracker. Think of it as a decentralised, multi-tenancy Jira board where you can track your NFTs across marketplaces",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HealthMarket",
+    "slug": "healthmarket-7ywzb",
+    "description": "HealthMarket - Bundle and sell your Health Records to the highest bidder.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Baladatube.xyz",
+    "slug": "baladatube-xyz-ektfk",
+    "description": "A decentralized social network to connect music artists and fans. Allow artists publish their music albums as NFTs and other few social network features like follow, comments and profiles.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OCTAV3",
+    "slug": "octav3-3o04c",
+    "description": "OCTAV3 is a decentralized music streaming platform that connects artists, listeners and advertisers. We are building a web3 enabled ad engine to create a fairer relationship between all three stakeholders.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Pearl",
+    "slug": "pearl-xnhj8",
+    "description": "Pearl is a platform for typedesigners and graphic designers to share/sell/discover typefaces and designs on-chain",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Website Template Marketplace",
+    "slug": "website-template-marketplace-qe4ot",
+    "description": "A marketplace for buying websites templates with codes encrypted",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Zorafy",
+    "slug": "zorafy-qp3h4",
+    "description": "With the existing social media platforms, new creators do not get enough for the work they put in. What if we can help them by connecting their abilities with new-age tech?",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Classic Chords",
+    "slug": "classic-chords-hpc9b",
+    "description": "A decentralized platform for musicians to play and create music with instruments. Each piece they play makes a generative art that transforms into an NFT. These NFTs are minted by the artist for you to buy.You can use these NFTs to attend exclusive shows that are streamed online.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Catch My Game",
+    "slug": "catch-my-game-3fixe",
+    "description": "A decentralized platform to stream games. The platform enables a gamer, of any sport, to share their game or match live with the world and stream tournaments. Users can attend live sessions, watch past recordings, and buy NFTs released from their favorite teams!",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "DePic",
+    "slug": "depic-11iy6",
+    "description": "A interactive playground for artists to experience quick NFT minting",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Beatl",
+    "slug": "beatl-k7350",
+    "description": "Web3 beat store for music producers and artists built on Zora and Lit",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Decentralized Fan-based Streaming Platform",
+    "slug": "decentralized-fan-based-streaming-platform-1d1ky",
+    "description": "Private/Subscriber-only model of decentralized live streaming platform",
+    "event": "Metabolism",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "s0vuq",
+      "mdb6w",
+      "t4bwy",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "HackJack",
+    "slug": "hackjack-0dzy3",
+    "description": "HackJack is a Web3 Black Jack game. Players earn NFTs based on the results of their games, which can be sold on the Zora marketplace. We aims to tackle the scams and trust requirements for players, so that they have a fair experience and sovereignty over their money.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "TradeRep",
+    "slug": "traderep-7gpzv",
+    "description": "An application for traders to build their own reputation on the blockchain and filter out scammers",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "SpeeDao",
+    "slug": "speedao-byddv",
+    "description": "SpeeDao is a Discord bot that focuses on transparency and accessibility to enhance participation",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cratelock",
+    "slug": "cratelock-kb3qw",
+    "description": "A password manager on web3 built with extra security and default two factor verification.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FRAGILE",
+    "slug": "fragile-peep2",
+    "description": "FRAGILE a gamified platform & think-tank community focused on funding NPO's that solving global challenges via selling collectible items (NFTs).",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phase",
+    "slug": "phase-pwozb",
+    "description": "Phase is a web3, NFT-based Linktree.................................",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "STADIUM - Permissionless Tournament Protocol",
+    "slug": "stadium-permissionless-tournament-protocol-4w28w",
+    "description": "BLVKHVND DAO is building an esports dapp to assemble teams and find players on-chain. It’s part of a larger hyperstructure we call STADIUM, a permissionless tournament protocol.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Credit Bureau NFT",
+    "slug": "credit-bureau-nft-uknep",
+    "description": "Credit Bureau NFT will represent your credit score in the form of NFT.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "MxTape",
+    "slug": "mxtape-1tr3a",
+    "description": "MxTape; Decentralized music player. Curate music, create mixtape from our public library & your Music NFT collection, chat with your community, and create your own subscription model. and split the income with your favorite musician.",
+    "event": "Metabolism",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ama.fans",
+    "slug": "ama-fans-f7532",
+    "description": "Address to address messaging without spam for web3 users and experts.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Metaverse Market",
+    "slug": "nft-metaverse-market-ic5ap",
+    "description": "Native iOS/Mac app that allows metaverse and game builders to offer an open and decentralized marketplace of 3D model NFTs where users can try their models live in their scenes before purchasing",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Posters with purpose",
+    "slug": "posters-with-purpose-s0pb4",
+    "description": "Posters with Purpose is a unstoppable decentralized application for people to express freely, anonymously where needed. Platform where people would be able to come, get inspiration, express themselves, support each other and spread the word.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Aratanda",
+    "slug": "aratanda-bzydj",
+    "description": "Decentralized social media and NFT mixer combining NFTs with each other",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creator's Cornor",
+    "slug": "creators-cornor-f1zy3",
+    "description": "A one-stop shop for creators and fans to mint new NFT collections and add exclusive content for their NFT holders.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTs.Travel",
+    "slug": "nfts-travel-irkoe",
+    "description": "NFTs.Travel allows you to mint digital artworks experienced during travel as NFTs and share them.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mint-my-files on Zora , NFT Tools",
+    "slug": "mint-my-files-on-zora-nft-tools-2hnbp",
+    "description": "IPFS & NFT Creation tool for Zora ecosystem and music and media files.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Visual&AudioNFTs",
+    "slug": "visual-and-audionfts-b0r4h",
+    "description": "We are the first platform that leverages p5.js scripts to create interactive NFTs.We used ZORAs ERC721Drop Contract.Our Audio_Visualizers NFTs are served just from a single HTML File. All visualizers and songs are stored on IPFS through NFT.STORAGE from just an animationURL.",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "s0vuq"
+    ]
+  },
+  {
+    "name": "Header",
+    "slug": "header-ydsk8",
+    "description": "Social Network app for content creators that decides the price of the art in the DAO way",
+    "event": "Metabolism",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "AstroFT",
+    "slug": "astroft-wm0ir",
+    "description": "Astro FT was created by a team of astronomy enthusiasts/stargazers with a shared passion and fascination for the skies.",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "defi-dividend-base-contract",
+    "slug": "defi-dividend-base-contract-eq4rj",
+    "description": "Base solidity contract to get started with creating a dividend based token",
+    "event": "Metabolism",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Release Club",
+    "slug": "release-club-ymdy3",
+    "description": "Release club is a meta-platform for music NFTs. With Release Club, you gain the benefits of a curated music NFT platform that you control with the NFT contracts that you create.",
+    "event": "Metabolism",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "av8vu",
+      "f2so0",
+      "xdat5"
+    ]
+  }
+]

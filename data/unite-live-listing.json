@@ -1,0 +1,3310 @@
+[
+  {
+    "name": "Fusion Plus Tron",
+    "slug": "fusion-plus-tron-3x82w",
+    "description": "Cross-chain atomic swaps between Tron and 9+ blockchains using HTLC smart contracts",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RemitDEX",
+    "slug": "remitdex-0knhe",
+    "description": "Cross-chain remittance platform uses 1inch aggregation for optimal routing to Stellar USDC",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Helix Cross-Chain",
+    "slug": "helix-cross-chain-of2nw",
+    "description": "1inch Cross-chain Swap (Fusion+) that enables trustless atomic swaps Ethereum & Cosmos",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SplitFlow",
+    "slug": "splitflow-t8tzx",
+    "description": "AI crypto portfolio app using OpenAI, 1inch, CoinGecko. Smart splits in a sleek UI.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossVault",
+    "slug": "crossvault-nxdnm",
+    "description": "An arbitrage path finder inspired by the osmosis protorev module",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unified Payroll",
+    "slug": "unified-payroll-898w1",
+    "description": "Seamless cross-chain crypto payroll with fiat off-ramps powered by 1inch Fusion+ and Stellar.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "algobridge",
+    "slug": "algobridge-0i64b",
+    "description": "Gasless ETH↔ALGO swaps via intent-based cross-chain bridge using 1inch Fusion+ architecture",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MeowSwap",
+    "slug": "meowswap-nb43z",
+    "description": "Cross-chain DeFi backend enabling secure swaps and auctions on Monad, Tron, sui.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossFi",
+    "slug": "crossfi-oofxz",
+    "description": "CrossFi is a platform to take cross chain positions in a single click.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defi-Portfolio",
+    "slug": "defi-portfolio-x98jz",
+    "description": "Professional DeFi portfolio manager with real 1inch API integration for live swaps and analytics.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionCosmos",
+    "slug": "fusioncosmos-gawe9",
+    "description": "Trustless, bidirectional cross-chain swaps between Ethereum & Cosmos via Hashed Time Lock Contracts",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniteDeFi ICP",
+    "slug": "unitedefi-icp-j24q4",
+    "description": "Unite Escrow – fully on-chain 1inch Fusion+ swaps between Ethereum/Bitcoin and ICP",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "NEAR Fusion+",
+    "slug": "near-fusion-fm6gi",
+    "description": "Its an Fusion + extension for NEAR protocol that allows token to be swapped with HLTC escrows",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionLink",
+    "slug": "fusionlink-j85j3",
+    "description": "Atomic swaps, cross-chain and trustless: Fusion Link connects decentralized liquidity across EVMs.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusioonX",
+    "slug": "fusioonx-vsn5d",
+    "description": "Trustless cross-chain swaps between Aptos and Base using 1inch",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionPlusStarknet",
+    "slug": "fusionplusstarknet-a1ckd",
+    "description": "Cross-chain Fusion+ swap from Ethereum ↔ Starknet with hashlock, timelock, and native token support.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionpusAptos",
+    "slug": "fusionpusaptos-gs3ga",
+    "description": "captures the cross-chain capability, atomic swap tech, real-time matching, and 1inch integration",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "polkavex",
+    "slug": "polkavex-hwbhv",
+    "description": "AI-powered Fusion+ extension for secure Ethereum-Polkadot swaps with parachain routing.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cosmoFusion",
+    "slug": "cosmofusion-w2z1j",
+    "description": "Cross-chain atomic swaps: swap Ethereum/Cosmos assets via 1inch Fusion+, secure & decentralized.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NA",
+    "slug": "na-qg7rq",
+    "description": "Solves Sudoku Solves Sudoku Solves Sudoku Solves Sudoku Solves Sudoku",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiBridge",
+    "slug": "suibridge-7zzwq",
+    "description": "Secure atomic swaps between Ethereum & Sui with real-time tracking and zero counterparty risk.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "T1nker",
+    "slug": "t1nker-3aqzt",
+    "description": "A 1inch Fusion-Style Escrow System for extending 1inch Fusion+ to Tezos",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch Pilot",
+    "slug": "1inch-pilot-veyie",
+    "description": "Smart DeFi portfolio management with pre-built strategies, real-time analytics, and seamless swaps",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EVM-TO-SUI-AND-BACK",
+    "slug": "evm-to-sui-and-back-gat08",
+    "description": "Sui Fusion extends 1inch Fusion+ protocol to SUI. Sui fusion respects the hltl and dutch auction",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiCross +",
+    "slug": "suicross-fac3c",
+    "description": "Bi-directional atomic swaps between Ethereum USDC and Sui SUI tokens using HTLC smart contracts",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1delta Unite",
+    "slug": "1delta-unite-kyoz4",
+    "description": "Use 1inch limit orders to open margin trades via Aave/Morpho—gasless, composable, no inventory.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "morethan1inch",
+    "slug": "morethan1inch-3b299",
+    "description": "Bidirectional USDC swaps between Ethereum and Monad using 1inch Fusion+ cross-chain escrows.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LinkInch",
+    "slug": "linkinch-vy4fn",
+    "description": "A social trading platform where users connect their wallets to share, discover.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DCA miniapp",
+    "slug": "dca-miniapp-mz5yg",
+    "description": "Make your idle USDC hustle, set DCA plans straight from your Farcaster wallet.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gustro",
+    "slug": "gustro-z4y51",
+    "description": "A developer tool that allows Ethereum/Stellar wallets to interact with Fusion and Stellar contracts.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion+ for Stellar",
+    "slug": "fusion-for-stellar-n0g43",
+    "description": "A dapp for cross-chain atomic swaps between EVM-compatible chains and the Stellar network.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stellar Swap",
+    "slug": "stellar-swap-dfgbt",
+    "description": "A swap on Stellar chain with integration with ETH, here you can swap silver coin with ethereum",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cosmosswap-fusion",
+    "slug": "cosmosswap-fusion-dda2n",
+    "description": "Cross-chain atomic swaps between Ethereum & Cosmos using 1inch Fusion+ and HTLCs.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1000X",
+    "slug": "1000x-fp3yk",
+    "description": "A trading bots suite for creating and managing trading bots using NEAR and 1inch Protocol",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Your boy Satoshi",
+    "slug": "your-boy-satoshi-j0mer",
+    "description": "Your Boy Satoshi: Revolutionary Bitcoin ↔ Ethereum cross-chain bridge with real HTLC implementation",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StellarFusion+",
+    "slug": "stellarfusion-km2ki",
+    "description": "Trustless atomic swaps for XLM↔ETH between Stellar & Ethereum with zero counterparty risk.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QuantTradingApp",
+    "slug": "quanttradingapp-mh3s6",
+    "description": "A platform to upload quantitative trading strategies with monitoring dashboard",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Strat Builder",
+    "slug": "strat-builder-m2of2",
+    "description": "Strat Builder is a web app to create, visualize, and backtest crypto trading strategies.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WorthIt",
+    "slug": "worthit-t47se",
+    "description": "web application that displays USD values of ERC-20 tokens using the 1inch API",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Prime",
+    "slug": "1prime-tf1g3",
+    "description": "Swap tokens between EVM and NEAR using Siri. Powered by 1inch Fusion+.",
+    "event": "Unite Defi",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "5b69q"
+    ]
+  },
+  {
+    "name": "ResolverX",
+    "slug": "resolverx-5qegd",
+    "description": "Decentralized ETH↔TRON swaps with plug-and-play resolver bots. No bridges, no trust needed.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NearInch",
+    "slug": "nearinch-9ti87",
+    "description": "A platform for cross chain swap that uses one inch fusion plus for near",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fiss",
+    "slug": "fiss-scowc",
+    "description": "We have implemented the Fusion+ Model to a Non-EVM Chain Sui",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ThalaivarSwap",
+    "slug": "thalaivarswap-8750s",
+    "description": "ThalaivarSwap: Cross-chain atomic swaps between Ethereum and Polkadot using HTLCs",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atomic Swap",
+    "slug": "atomic-swap-v7fhx",
+    "description": "Atomic Swap: Trustless P2P cross-chain bridge for Sepolia  Sui Testnet using HTLCs.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MOBINCH",
+    "slug": "mobinch-3fv20",
+    "description": "The first mobile 1inch SDK and 1inch Fusion+ solver utilized by NEAR Shade Agents",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5b69q"
+    ]
+  },
+  {
+    "name": "YasoSui swap",
+    "slug": "yasosui-swap-m09ik",
+    "description": "Cross-chain atomic swaps between Ethereum and Sui using Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Desh",
+    "slug": "1desh-vfej9",
+    "description": "A decentralized token swap interface using 1inch API for seamless wallet connection and token swaps.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stake Return",
+    "slug": "stake-return-uwd8b",
+    "description": "This is a stake return project, couldnt complete due to technical failure",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Book",
+    "slug": "1book-x94wm",
+    "description": "1Book: Unified DeFi dashboard for tracking wallets, swaps, and Fusion+ orders across EVM chains.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "sndefi",
+    "slug": "sndefi-x3sps",
+    "description": "Trustless token escrow & instant swaps via HTLC on Starknet connection Fusion +",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fusion+monad",
+    "slug": "fusion-monad-bfw9i",
+    "description": "A 1inch Fusion+ bridge for trustless USDC swaps using a gas-efficient factory pattern.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "etfusion",
+    "slug": "etfusion-aiu06",
+    "description": "Extend 1inch Fusion+ to Tron: Bidirectional ETH↔TRX swaps with HTLC & timelock",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch Fusion+ Bridge",
+    "slug": "1inch-fusion-bridge-av3sh",
+    "description": "A cross-chain bridge supporting token swaps using 1inch Fusion+ across multiple blockchains.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "butteryCoin",
+    "slug": "butterycoin-awgyi",
+    "description": "DeFi dashboard with full 1inch API integration: swap, history, balances, prices & more.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1SwapDash",
+    "slug": "1swapdash-ys4jy",
+    "description": "Comprehensive multi-chain DeFi dashboard with full 1inch API integration & real-time analytics",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AeroSwap",
+    "slug": "aeroswap-yw7cv",
+    "description": "Lightning-fast, gas-optimized token swaps with best rates via 1inch aggregation.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atomic-Inch",
+    "slug": "atomic-inch-629b3",
+    "description": "A cross-chain atomic swap protocol enabling secure, trustless swaps between Ethereum and Algorand.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MultiZap",
+    "slug": "multizap-5zyyc",
+    "description": "Atomic swaps between Ethereum and Starknet via Dutch auctions and HTLC-based trustless escrows.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthAptosBridge",
+    "slug": "ethaptosbridge-1v65a",
+    "description": "Bridging example for ethereum to aptos for native assets with resolvers",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pebble",
+    "slug": "pebble-8a953",
+    "description": "A multichain DeFi dashboard to manage tokens, NFTs, swaps, gas, using only 1inch APIs.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unite-1inch",
+    "slug": "unite-1inch-rs9ps",
+    "description": "1inch AI-Driven Smart Vault: The Future of DeFi is Conversational",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "intoStellar",
+    "slug": "intostellar-numn6",
+    "description": "Swap EVM assets to Stellar via 1inch and explore the Stellar Chainverse with a seamless gateway.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "evm-cosmos",
+    "slug": "evm-cosmos-122vf",
+    "description": "Atomic swaps between Sepolia & Neutron using 1inch LOP & CosmWasm. Secure, trustless.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainShift Protocol",
+    "slug": "chainshift-protocol-cddnt",
+    "description": "Revolutionary cross-chain DEX enabling seamless atomic swaps between   Ethereum & Aptos",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Coin Tracker",
+    "slug": "coin-tracker-7vbbx",
+    "description": "App would send you notif for coins using 1inch API. Add coins in watchlist and get info to telegram.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch Trading Hub",
+    "slug": "1inch-trading-hub-9vhqk",
+    "description": "From amazing charts to advanced limit order strategies. Your all-in-1 stop for trading using 1inch",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nōritsu",
+    "slug": "noritsu-7bb7q",
+    "description": "Personal motivation app - when AI meets productivity, it makes things happens",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "🌈 BUNDS",
+    "slug": "rainbow-bunds-njy8h",
+    "description": "Transform illiquid NFTs into tradable ERC20 BondTokens via pumpfun-like curves.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "StellaFi+",
+    "slug": "stellafi-bfww5",
+    "description": "Trustless Ethereum–Stellar swaps using HTLCs, escrow factories, and Dutch auction orders.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inchtents- near",
+    "slug": "1inchtents-near-ffevd",
+    "description": "This project includes a complete 1inch protocol implementation with near intents",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BestDCA",
+    "slug": "bestdca-186ip",
+    "description": "Cross-chain DCA on 1inch chains: WETH→WBTC on Base & beyond, live fills & cancel anytime",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "starknet-contracts",
+    "slug": "starknet-contracts-nh6eg",
+    "description": "A basic implementation of the cross chain contracts for 1inch cross swap",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Sui 1inch",
+    "slug": "sui-1inch-ocgt7",
+    "description": "Cross-chain-swaps style escrow contracts built on the sui framework",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LimitCraft",
+    "slug": "limitcraft-te0uw",
+    "description": "Advanced limit order platform with TWAP and integrated lending protocols",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Midas",
+    "slug": "midas-m36kr",
+    "description": "Cross chain DeFi trading platform w AI based arbitrage detection, risk assessment & automated swaps",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion Flow",
+    "slug": "fusion-flow-q5h83",
+    "description": "dApp for trustless ETH-NEAR cross-chain swaps, leveraging 1inch Fusion+ protocol.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jargo",
+    "slug": "jargo-uxnqf",
+    "description": "Set of Backend server functions for integrating into a Degen Trader Dashboard",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFiGuard",
+    "slug": "defiguard-2br36",
+    "description": "\"AI-powered smart contract analyzer for 1inch protocol and cross-chain security detection\"",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chaos Swap",
+    "slug": "chaos-swap-kacfv",
+    "description": "Bi-directional atomic swap between Ethereum and Aptos based on 1inch Fusion",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rosetta",
+    "slug": "rosetta-ss98s",
+    "description": "Rosetta expands the 1inch Limit Order Protocol (LOP) by providing support for multi-asset orders.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Asgard",
+    "slug": "asgard-80koe",
+    "description": "Cross-chain survival RPG where you trade, bridge, and explore in a vintage-styled crypto apocalypse",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Inch Care",
+    "slug": "inch-care-8s7o5",
+    "description": "Medical incident & insurance dApp on Starknet, Stellar, Filecoin & Optimism via 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yield Aggregator",
+    "slug": "yield-aggregator-wm1w6",
+    "description": "Cross-chain yield farming optimizer powered by 1inch Fusion+ for instant DeFi position switching",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrustMint",
+    "slug": "trustmint-gv1x5",
+    "description": "TrustMint brand loyalty with on-chain reward tokens your customers can mint, redeem, and flex",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tartarus",
+    "slug": "tartarus-jis01",
+    "description": "Cross-chain bridge enabling seamless asset transfers between NEAR and Ethereum",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quantum Swap",
+    "slug": "quantum-swap-ikear",
+    "description": "QuantumSwap: Trustless ETH-BTC atomic swaps using HTLCs, no intermediaries, no custody, pure DeFi.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch x Stellar",
+    "slug": "1inch-x-stellar-jpx79",
+    "description": "Implements 1inch Fusion+ cross-chain swaps between EVM and Stellar using Soroban smart contracts.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion+ Aptos/NEAR",
+    "slug": "fusion-aptos-near-i7vqz",
+    "description": "1inch Fusion+ Extension Ethereum and NEAR/Aptos chains using Hash Time-Locked Contracts (HTLC).",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TonEthBot",
+    "slug": "tonethbot-2bcv7",
+    "description": "Bridging Ukraine & Russia through crypto transfers, wallet connections, and cross-border swaps.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blitz Pro",
+    "slug": "blitz-pro-yhk03",
+    "description": "Advanced cross-chain trading strategies bringing CEX-style trading to DeFi powered by 1inch",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "7dhfm"
+    ]
+  },
+  {
+    "name": "Cerera",
+    "slug": "cerera-su5oe",
+    "description": "Bridging Bitcoin and EVM ecosystems through Lightning Network and 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Position order",
+    "slug": "position-order-ejxtz",
+    "description": "Create stop loss order for Uniswap/Pancakewap position when a trigger price is reached",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "etherlinked",
+    "slug": "etherlinked-tzwhc",
+    "description": "securely transfer assets between Ethereum and Etherlink, leveraging trust-minimized bridging tech",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CardanoSwap",
+    "slug": "cardanoswap-a0est",
+    "description": "Bidirectional cross-chain atomic swaps for Cardano and EVM chains",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "1inch boilerplate",
+    "slug": "1inch-boilerplate-r3zb1",
+    "description": "Production-ready React+TypeScript template for DeFi apps with 1inch integration",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StellarBridge",
+    "slug": "stellarbridge-3tugg",
+    "description": "Secure, trustless cross-chain atomic swaps between Ethereum and Stellar with partial fills",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WavePay",
+    "slug": "wavepay-3xyd6",
+    "description": "Send or receive crypto across chains with a simple link — tips, payments, and donations made easy.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cardano Fusion++",
+    "slug": "cardano-fusion-7rxwt",
+    "description": "Aiken Validators for Cardano Fusion+ Swaps, a simple swap UI and mock relay and resolvers.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "21 Inches",
+    "slug": "21-inches-os3d9",
+    "description": "Cross-chain swaps on Tron, Monad, and Etherlink blockchains.",
+    "event": "Unite Defi",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "BOND",
+    "slug": "bond-a7j8p",
+    "description": "An extensive DeFi trading and automation for Web3 users, mirroring stock exchange strategies.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1millimeter",
+    "slug": "1millimeter-eu0tq",
+    "description": "1Millimeter Exchange is a cross chain swap platform for Ethereum to ICP swaps.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Launch",
+    "slug": "1launch-u4s06",
+    "description": "Fair token launches through Dutch auctions. No whales, no bots, just pure price discovery",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Clob",
+    "slug": "1clob-38prk",
+    "description": "AI-powered CLOB trading platform for smarter entries, exits, and real-time crypto market insights.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PalletHtlc",
+    "slug": "pallethtlc-rbq6w",
+    "description": "Substrate-based pallet to enable atomic swaps between EVM-based chains and Polkadot",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Micropay Agents",
+    "slug": "micropay-agents-o72oe",
+    "description": "Trustless micropayment channels for pay-as-you-go DeFi data using Hashchain Protocol and 1inch API.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BetSwap AI",
+    "slug": "betswap-ai-hny71",
+    "description": "Enables users to swap bets on real-world events between Ethereum and NEAR, with AI driven payoffs",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inchHunt",
+    "slug": "1inchhunt-x8t57",
+    "description": "Swap to survive! An RPG where your hero levels up by completing real onchain swaps via 1inch.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Enderswap",
+    "slug": "enderswap-1dha4",
+    "description": "Cross-chain atomic swaps between Base Sepolia and Sui testnet using HTLCs.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Orbis - TON<>ETH",
+    "slug": "orbis-ton-eth-maxxg",
+    "description": "Extension of the 1inch Fusion+ to Ton the ton blockchain. Lets you swap to and from Ton",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "supawallet",
+    "slug": "supawallet-1mvgj",
+    "description": "Venmo meets DeFi - send crypto with GIFs, swap tokens, and track portfolios without seed phrases",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Foot",
+    "slug": "1foot-q488y",
+    "description": "1Foot enables atomic ETH <-> BTC swaps via 1inch Fusion+ using HTLCs and cross-chain resolution.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwapBridge Pay",
+    "slug": "swapbridge-pay-s2hxp",
+    "description": "Bridge ETH to Stellar in seconds! Swap tokens via 1inch and send cross-chain payments instantly.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Autoswapper Wallet",
+    "slug": "autoswapper-wallet-fu9xx",
+    "description": "Autoswapper wallet powered by 1inch fusion API and EIP 7702 to do swaps as per a session key config",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BTC Intents - BOB",
+    "slug": "btc-intents-bob-zm98o",
+    "description": "BOB Gateway: BTC intents bridge to enable native BTC swap via 1inch.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "6.9 Inch",
+    "slug": "6-9-inch-s1qzw",
+    "description": "XRP <> Ethereum fusion+ integration, powered by a TEE multisig and secured by a custom validator set",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Potara",
+    "slug": "potara-gf1y2",
+    "description": "This is the ICP Extension for 1inch's Fusion+. It enables atomic swap and partial fills",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeWrap",
+    "slug": "dewrap-v8e1i",
+    "description": "A cross-chain crypto smart payment collector platform with automated token swapping and investment.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MIST.cash | FOCBB",
+    "slug": "mist-cash-focbb-8dnar",
+    "description": "Private USDC transfers to Gmail addresses with cross-chain withdrawals.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiFlow",
+    "slug": "suiflow-evsm3",
+    "description": "Cross-chain ETH-SUI swap interface using 1inch LOP and state channels",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crosschain swap",
+    "slug": "crosschain-swap-ahke4",
+    "description": "Cross chain platform Ethereum to Near using 1 inch and smart contracts",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TipVerse",
+    "slug": "tipverse-js38q",
+    "description": "Gasless tipping with any token via Fusion+ swaps and state channels, gamified for fans",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossYield",
+    "slug": "crossyield-t8vr8",
+    "description": "CrossYield: Cross-chain yield farming with HTLC-based, intent-driven atomic swaps between Eth,Aptos.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ionic Swap",
+    "slug": "ionic-swap-p6tgb",
+    "description": "Unified DeFi interface with chain abstraction—swap assets cross-chain gaslessly, fully on-chain",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unreal Shop",
+    "slug": "unreal-shop-f8a6a",
+    "description": "Bi-directional cross-chain swaps for $UNREAL via 1inch Fusion+: Etherlink, NEAR, Aptos",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bubble Bridge",
+    "slug": "bubble-bridge-n0iu7",
+    "description": "Cross-chain swaps made simple: a lightweight HTLC framework for atomic token transfers.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OverSync",
+    "slug": "oversync-iucbs",
+    "description": "Bridging ETH ↔ XLM with 1inch escrow (mainnet) & Stellar HTLCs. Testnet supported.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "REP8rep-8",
+    "slug": "rep8rep-8-nri2f",
+    "description": "Subscription-powered permissioning and programmable rewards for 1inch Limit Orders.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sabre",
+    "slug": "sabre-5x50n",
+    "description": "Swap stablecoins between Ethereum & Sui, spot arbitrage, earn yields, auto-trade with 1Inch Fusion+.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BYOB",
+    "slug": "byob-ttmax",
+    "description": "Save smarter, earn more. The savings app that generates investment-like returns",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "SuperNeko",
+    "slug": "superneko-v7cfk",
+    "description": "SuperNeko is a game where your skill directly determines the quality of your swap",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NEXUS INTENT",
+    "slug": "nexus-intent-dxhi4",
+    "description": "Swap crypto using Powered by GPT-4 + 1inch Fusion using natural language.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MrDefi",
+    "slug": "mrdefi-h611c",
+    "description": "Cross-chain DeFi platform with Telegram bot trading, 1inch integration & advanced limit orders",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yield Drip",
+    "slug": "yield-drip-u2pyw",
+    "description": "Automated DCA yield farming with 1inch LOP - earn yield while dollar-cost averaging into ETH",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ascenda",
+    "slug": "ascenda-w24z5",
+    "description": "Private derivatives trading on real assets. Your positions, your business.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ky7kr"
+    ]
+  },
+  {
+    "name": "PlasmaGrid",
+    "slug": "plasmagrid-8agc3",
+    "description": "AI-powered grid trading bot using 1inch for DeFi strategies",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CellJMP",
+    "slug": "celljmp-0nqef",
+    "description": "CellJump is a cross-chain bridge which extends 1inch Fusion+ to work with TON",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Fire Defi",
+    "slug": "fire-defi-mad29",
+    "description": "A DeFi AI agent that makes onboarding easy for first time users",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Orbfi.ai",
+    "slug": "orbfi-ai-06ibc",
+    "description": "The n8n of DeFi: Build onchain agents that act on your prompts—automated, flexible, autonomous",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GreenDefi",
+    "slug": "greendefi-eiib3",
+    "description": "Integration of 1inch with Sui and Deepbook to make liquidity available cross chain",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CipherSwap",
+    "slug": "cipherswap-8b0xp",
+    "description": "API-powered OTC swaps with MEV protection and intelligent multi-DEX routing",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fumble",
+    "slug": "fumble-kcuig",
+    "description": "Batch dump your trashbags. Gas optimized. Emotionally reckless.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Twap",
+    "slug": "1twap-uy24c",
+    "description": "Onchain Adaptive TWAP built on 1inch — chunked execution, price protection, and auto-fills.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zeroinch",
+    "slug": "zeroinch-cfkjq",
+    "description": "Zeroinch is a privacy layer for 1inch’s Limit Order Protocol on Optimism using ZK and JIT MASP",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "fusion swap",
+    "slug": "fusion-swap-gsv7j",
+    "description": "A cross-chain atomic swap protocol enabling secure, trustless swaps",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XRoute",
+    "slug": "xroute-y8aoq",
+    "description": "Intergation of Etherlink and Tezos with 1inch Fusion+ protocol, enabling token swaps via routing",
+    "event": "Unite Defi",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "ky7kr"
+    ]
+  },
+  {
+    "name": "Sufu",
+    "slug": "sufu-m0h0k",
+    "description": "Cross chain swap for ethereum and sui blockchain using  dutch auctions",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crownie",
+    "slug": "crownie-2ji8q",
+    "description": "Turn group meetings into onchain proposals and DeFi actions — from live voice to order confirmation.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion+ Extensions",
+    "slug": "fusion-extensions-pqm05",
+    "description": "Fusion+ extensions that connect 1inch protocol with other chains",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Starlink",
+    "slug": "starlink-9s540",
+    "description": "Starlink is a trustless, bidirectional swap protocol connecting Ethereum and Stellar.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Adha-INch",
+    "slug": "adha-inch-19ndd",
+    "description": "🔄 Atomic cross-chain swaps , Trustless DeFi between Base & Etherlink! ⚡🔐",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swapsage AI Oracle",
+    "slug": "swapsage-ai-oracle-2gko8",
+    "description": "SwapSage-AI is an AI-powered cross-chain DeFi assistant that simplifies token swaps across networks",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TronInch",
+    "slug": "troninch-hbtq1",
+    "description": "Bridge tokens securely across Ethereum and Tron using hashlocks & timelocks - powered by 1inch.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiSync",
+    "slug": "suisync-szmyi",
+    "description": "cross-chain swaps between Ethereum and Sui using 1inch Fusion+ with hashlocks & timelocks.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LumenLink",
+    "slug": "lumenlink-6c0ua",
+    "description": "ETH ↔ Stellar atomic swaps (HTLC) with 1inch pricing and relayer-driven claim",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwapNova",
+    "slug": "swapnova-9uceu",
+    "description": "Fusion+ extension on Monad with a DCA agent enabling swaps between Arbitrum & Monad.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OTCping",
+    "slug": "otcping-yebsg",
+    "description": "OTC cryptocurrency trading with direct peer-to-peer communication.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AvgInch",
+    "slug": "avginch-as7zh",
+    "description": "1inch Fusion+ on the ICP, bringing the Internet Computer to the best web3 aggregator",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Hello2Point54cm",
+    "slug": "hello2point54cm-uxttk",
+    "description": "This is a project for learning how to use the 1inch API. \"1inch Balance API\" is used.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DynamicSpreadLO",
+    "slug": "dynamicspreadlo-aq1tk",
+    "description": "Dynamic pricing for limit orders based on real-time market volatility.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "EmojiSwap",
+    "slug": "emojiswap-4djuf",
+    "description": "EmojiSwap - Send tokens across multiple chains using emojis.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Encrypted Finance",
+    "slug": "encrypted-finance-wvz4g",
+    "description": "Encrypted Finance is an encrypted limit order protocol built on top of 1inch and FHE.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TotalFusion",
+    "slug": "totalfusion-c58sy",
+    "description": "1inch Fusion+ multi-chain extension: atomic swaps with TEE security & Chain Signatures",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5b69q"
+    ]
+  },
+  {
+    "name": "DogeSmartX",
+    "slug": "dogesmartx-4chw4",
+    "description": "DogeSmartX: AI-enhanced cross-chain swaps for Ethereum and Dogecoin",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch TWAP",
+    "slug": "1inch-twap-670uk",
+    "description": "Decentralized TWAP protocol built on top of 1inch limit order book",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "X3Fusion",
+    "slug": "x3fusion-w3roo",
+    "description": "1 inch fusion+ extension for the Near and Tezos blockchains.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Tesseract",
+    "slug": "tesseract-4gqms",
+    "description": "Send tokens from any EVM chain to Tezos and vice-versa using 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LendLink",
+    "slug": "lendlink-g8sd0",
+    "description": "LendLink: Cross-chain lending on Etherlink with 1inch Fusion+ for smart repayment anywhere.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Super Order",
+    "slug": "super-order-x6z63",
+    "description": "Advanced DeFi trading: Stop-market execution, iceberg orders & OCO strategies for 1inch Protocol",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "GridSync",
+    "slug": "gridsync-iu9bj",
+    "description": "Automated electricity top-up using 1inch limit orders for cost-efficient Web3 energy trading",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polkacross Fusion",
+    "slug": "polkacross-fusion-rt9wr",
+    "description": "1inch Cross-chain Swap (Fusion+) that enables swaps between Ethereum and Polkadot",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Manteia",
+    "slug": "manteia-8haer",
+    "description": "Manteia is a Sui DEX with 1inch cross-chain swaps, aggregation routing, limit orders, dynamic fees.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kōan",
+    "slug": "koan-96pds",
+    "description": "AI low/no-code platform enabling users to design workflows and deploy dApps with node-based flows.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "kata-protocol",
+    "slug": "kata-protocol-oyc4z",
+    "description": "KATA Protocol: Cross-chain DeFi platform combining Ethereum ↔ Sui atomic swaps",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rivora",
+    "slug": "rivora-rogvh",
+    "description": "Rivora: AI-powered risk scores & insights for safer, smarter DeFi trading",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TwinLock",
+    "slug": "twinlock-dbfmx",
+    "description": "Cross-chain HTLC swap system that uses 1inch’s Limit Order Protocol to bridge Ethereum ↔ Tron.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwapTezos",
+    "slug": "swaptezos-wonz8",
+    "description": "Cross‑chain swaps between Ethereum and Tezos powered by 1inch Fusion+.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SYNAPSE",
+    "slug": "synapse-22vh6",
+    "description": "Cross-chain CLI for atomic swaps using Fusion, 1inch, now extended to the high-speed Monad chain.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sui Fusion+",
+    "slug": "sui-fusion-0u597",
+    "description": "Sui <-> 1inch Fusion+ Integration for cross-chain swaps 🦄₊˚⊹ ᰔ",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StellHydra",
+    "slug": "stellhydra-sdiwk",
+    "description": "Cross-chain swapper using 1inch Fusion+ & Stellar for seamless swaps, bridges & transaction trails.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "7dhfm"
+    ]
+  },
+  {
+    "name": "JustinTime",
+    "slug": "justintime-a8xc9",
+    "description": "Trustless atomic swaps between TRON & EVM chains using HTLCs + 1inch Fusion+ for price discovery",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sui Extension",
+    "slug": "sui-extension-c0b8s",
+    "description": "A sui 1inch Fusion+ Extension for make atomic cross chain swaps between Sui and Ethereum",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarknetFusion+",
+    "slug": "starknetfusion-g0re1",
+    "description": "Cross-chain atomic swaps between Starknet and EVM via 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Privacy Based Swap",
+    "slug": "privacy-based-swap-417ep",
+    "description": "A 1Inch Fusion+ swap between ETH + LTC with privacy enhancing for the resolver",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mini-1inch",
+    "slug": "mini-1inch-s2nfo",
+    "description": "Buy ETH/BTC with stablecoins at best cross-chain price. Limit, SL/TP, no chain selection needed.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryoFusion",
+    "slug": "cryofusion-mh3kh",
+    "description": "Trustless cross-chain atomic swaps using Dutch auctions between Ethereum and Aptos",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Surety",
+    "slug": "surety-d10wy",
+    "description": "1inch Protected Options: Option-like strategies with built-in stop-loss on 1inch LOP.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "atomicX",
+    "slug": "atomicx-7g7uy",
+    "description": "Trustless ETH <> STRK atomic swaps using HTLCs on Ethereum & Starknet. No middlemen, just code.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MoveIt",
+    "slug": "moveit-2jo15",
+    "description": "Fusion+ implementation on sui and aptos with native integrations",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IntelliDeFi Network",
+    "slug": "intellidefi-network-97ciy",
+    "description": "AI-driven cross-chain DeFi: advanced swaps, orders, & portfolio powered by 1inch.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tezra",
+    "slug": "tezra-qhs8m",
+    "description": "Tezra: The first trustless portal between Ethereum and Tezos ecosystems 🌉",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Limitless",
+    "slug": "limitless-y0ntv",
+    "description": "Limitless: AI chat assistant for easy crypto swaps, bridging, and wallet management for newcomers.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Etherlink Fusion",
+    "slug": "etherlink-fusion-122rp",
+    "description": "Seamlessly bridge and trade across chains with Etherlink Fusion+ Dapp",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chainmate",
+    "slug": "chainmate-mrusw",
+    "description": "Trustless token swap bridge using HTLCs between Sepolia and Stellar via custom relayer.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TulipSwap",
+    "slug": "tulipswap-i69qv",
+    "description": "[UNFINISHED-UNRELATED VIDEO] Swap using 1inch Fusion+ to enable swapping between Ethereum and Aptos.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stellar Fusion Plus",
+    "slug": "stellar-fusion-plus-6yuhg",
+    "description": "We are extending fusion plus to stellar to support Eth to Stellar transaction",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xSynth Engine",
+    "slug": "xsynth-engine-67p3n",
+    "description": "Gasless cross-chain DCA with Cosmos-EVM atomic swaps using 1inch Fusion+ and custom resolvers.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AlfaICPResolver",
+    "slug": "alfaicpresolver-my53d",
+    "description": "Novel extension for 1Inch which enables swaps between Eth and ICP",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1COinch",
+    "slug": "1coinch-6pdua",
+    "description": "Expanding the 1inch limit order protocol with some small financial object additions",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion+Cardano",
+    "slug": "fusion-cardano-b3094",
+    "description": "Implementation of 1inch's Fusion+ protocol on the Cardano blockchain",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "blockless pay",
+    "slug": "blockless-pay-wvy54",
+    "description": "A link to pay anyone in any token, any chain. Just share a URL",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VibeFusion.ai",
+    "slug": "vibefusion-ai-wv0pg",
+    "description": "Feel the vibe. Trade everywhere. Launch fairly. Where multi-chain dreams become reality.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OptiDex",
+    "slug": "optidex-5q6o4",
+    "description": "OptiDex: On‑chain options DEX via 1inch limit orders—mint, trade & exercise option NFTs.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Interoperable Swaps",
+    "slug": "interoperable-swaps-yy4v4",
+    "description": "Extending Fusion+ to Tezos Ecosystem with Smartpy based Contracts",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiEqui",
+    "slug": "suiequi-md52m",
+    "description": "Sui <=> EVM swaps on Fusion+ with improved relayer, powered by Noir ZK circuits",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "tuna+",
+    "slug": "tuna-zribb",
+    "description": "Intent based atomic cross chain swaps for Ethereum, Aptos and Bitcoin",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Catalyst Yield",
+    "slug": "catalyst-yield-d84ja",
+    "description": "An autonomous engine deploying assets to the best yields across any blockchain",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Limit orders via MCP",
+    "slug": "limit-orders-via-mcp-dmpwz",
+    "description": "Building an MCP module for 1inch limit orders, designed for AI agents.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Opto",
+    "slug": "opto-vzk2y",
+    "description": "1inch Cross-chain Swap (Fusion+) with thorough UI to show ETH Sepolia ↔ Sui testnet swaps",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "⚡⚡⚡ Z: Unifi ⚡⚡⚡",
+    "slug": "zap-zap-zap-z-unifi-zap-zap-zap-0vkbj",
+    "description": "Cross-chain swap DApp between (Aptos and Ethereum) - with an intuitive UI/UX, and upcoming Chains!",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion Universal Kit",
+    "slug": "fusion-universal-kit-qt2rc",
+    "description": "A universal SDK 1inch Fusion+ atomic swap protocol across any EVM and Bitcoin-based chains.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StratosFi",
+    "slug": "stratosfi-xcyhh",
+    "description": "Advanced DeFi strategies for 1inch: TWAP, Options & Concentrated Liquidity with MEV protection",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "c1nch",
+    "slug": "c1nch-aqeap",
+    "description": "Real world events meet trading - trade any event with on-chain limit orders",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agg Trade",
+    "slug": "agg-trade-bwhdd",
+    "description": "The all-in-one Trading Terminal for Defi. We give you CEX-like features with DEX-like security",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PonyHof",
+    "slug": "ponyhof-65wtr",
+    "description": "A privacy-first, permissioned, decentralized off-chain dark pool relay network",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "FusionTrade",
+    "slug": "fusiontrade-vo9by",
+    "description": "Multi-chain DEX for advanced trading via atomic swaps across EVM using 1inch Aggregator.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Sway1INCH",
+    "slug": "sway1inch-bratb",
+    "description": "Configure and deploy onchain limit order strategies using time or price triggers with 1inch Protocol",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bridged",
+    "slug": "bridged-d2coj",
+    "description": "A gasless 2-way Ethereum↔Tron bridge with 1inch Fusion+, hashlock timelocks.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhostMesh",
+    "slug": "ghostmesh-d5r5b",
+    "description": "Private, flexible cross-chain strategies powered by 1inch’s programmable infrastructure",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aptswap",
+    "slug": "aptswap-kikp7",
+    "description": "An EVM to Non-EVM (bidirectional) Swaps on Ethereum and Aptos Chain.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StellarSwap",
+    "slug": "stellarswap-6rke6",
+    "description": "Cross chain swapping between EVM and Stellar Soroban powered by 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fission",
+    "slug": "fission-mt7us",
+    "description": "A novel extension for 1inch Cross-chain Swap (Fusion+) that enables swaps between Ethereum and Sui.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentraMind",
+    "slug": "decentramind-mofks",
+    "description": "🧠 DecentraMind – Run private LLMs on your own device. Modular. Encrypted. On-chain.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fusion-plus-sui",
+    "slug": "fusion-plus-sui-9inuy",
+    "description": "cross-chain swaps between the Ethereum and Sui by extending 1inch fusion plus",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Starkudan-Swap",
+    "slug": "starkudan-swap-bicq7",
+    "description": "Secure, trustless atomic swaps between EVM and Starknet ecosystems with HTLCs and 1inch’s contracts",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Doraemon",
+    "slug": "doraemon-scmc5",
+    "description": "Unified cross-chain DeFi with AI trading - ETH↔ICP↔Aptos bridges + 1inch MCP",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zapper.network",
+    "slug": "zapper-network-3ttgo",
+    "description": "Instant bridge between Bitcoin-like networks and EVM chains.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "duration",
+    "slug": "duration-pairy",
+    "description": "A duration order book protocol. Flexible daily-rate commitments with 1inch settlement.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TxInsight",
+    "slug": "txinsight-octjn",
+    "description": "A dashboard for wallet analysis that tracks transaction history with detailed",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETH2CardanoSwap",
+    "slug": "eth2cardanoswap-nt7m6",
+    "description": "Creating swap protocol between Ethereum and Cardano on Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NearFusion",
+    "slug": "nearfusion-3fxoz",
+    "description": "Cross-chain atomic swaps between Ethereum/EVM chains and NEAR using HTLCs and TEE security",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5b69q"
+    ]
+  },
+  {
+    "name": "Cardano warmhole",
+    "slug": "cardano-warmhole-oac9v",
+    "description": "Cross-chain swap protocol enabling secure, atomic token swaps between Ethereum and Cardano testnets.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwapYourSuiiii",
+    "slug": "swapyoursuiiii-xwsm8",
+    "description": "Seamless cross-chain token atomic swaps between EVM and Sui using 1inch LOP and HTLCs",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "🔥Fusion+ Starknet🔥",
+    "slug": "fire-fusion-starknet-fire-imo9p",
+    "description": "Extending 1inch Fusion+ to non-EVM chains for intent-based swaps!",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Dripify",
+    "slug": "dripify-tfv60",
+    "description": "A full-stack dApp for executing large, non-custodial TWAP orders on the 1inch LOP",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion Pay",
+    "slug": "fusion-pay-6ago6",
+    "description": "Connect fiat & crypto effortlessly! Seamless on/off-ramp with low fees & top security",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fusion-sui",
+    "slug": "fusion-sui-dry0i",
+    "description": "Extending the fusion plus to support the sui network which enables cross-chain swap",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuniFi",
+    "slug": "sunifi-i1s4p",
+    "description": "A cross-chain atomic swap dApp that extends 1inch Fusion+ to Sui",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "defi-terminal",
+    "slug": "defi-terminal-aoyjc",
+    "description": "defi-terminal is a browser-based CLI for DeFi operations. You can swap tokens, check prices & more",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InterchainX",
+    "slug": "interchainx-mk6c9",
+    "description": "InterchainX is an infrastructure for cross-chain swaps between Eth and Cosmos by leveraging 1inch.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ezei",
+    "slug": "ezei-3nsi8",
+    "description": "Atomic swap based on SEI blockchain. Swap between SEI and EVM chains",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniteSwap",
+    "slug": "uniteswap-foxc0",
+    "description": "Rust CLI enabling trustless atomic swaps between EVM & non-EVM chains via 1inch Fusion+ extension",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Poseidon",
+    "slug": "poseidon-9667e",
+    "description": "1inch Fusion+ extension for Starknet, with a possibility to swap  from EVM chains to Starknet",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch near extension",
+    "slug": "1inch-near-extension-7kj69",
+    "description": "NEAR with Fusion+ integration: Seamlessly bridging NEAR and decentralized finance.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PiggyPot",
+    "slug": "piggypot-52f48",
+    "description": "PiggyPot: one-click AI Web3 investing—1inch swaps & Uniswap V3 liquidity, no blockchain know-how",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionX",
+    "slug": "fusionx-xhhtx",
+    "description": "Seamless Ethereum ↔ XRPL swaps: Extending 1inch Fusion+ with secure hashlock & timelock features",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Banture",
+    "slug": "banture-s9d54",
+    "description": "DeFi access for the unconnected users in LDCs and low internet access communities.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK-IdentitySwap",
+    "slug": "zk-identityswap-uhpsr",
+    "description": "Private asset swaps using ZK proofs to link wallets without revealing identities",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CosmicFusion",
+    "slug": "cosmicfusion-88yit",
+    "description": "A cross chain swap between cosmos chain and EVM chain using minimal setup",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "DeFi 1inch Commander",
+    "slug": "defi-1inch-commander-26c50",
+    "description": "DeFi 1inch Commander: A next-gen DeFi dashboard for portfolio, swaps, and risk, using 1inch APIs.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "uniter.sh",
+    "slug": "uniter-sh-qe8c8",
+    "description": "A terminal tool that sweeps dust tokens into one asset using the best 1inch swap routes",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Nether Swap",
+    "slug": "nether-swap-a41pr",
+    "description": "Nether Swap: Unlocking a portal between worlds for secure Ethereum <> Sui swaps, powered by 1inch",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Mesh",
+    "slug": "mesh-jjjce",
+    "description": "Mesh a Gas-free Platform for Safe and secure   swaps between Ethereum and Sui",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Inchano",
+    "slug": "inchano-1pq1v",
+    "description": "Inchano enables bidirectional cross-chain swaps between Ethereum and Cardano using 1inch Fusion+.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zenith DeFi",
+    "slug": "zenith-defi-zbtcm",
+    "description": "Zenith DeFi: Instant cross-exchange liquidity via state channels - 1inch integration🚀",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "United",
+    "slug": "united-12p77",
+    "description": "1inch Fusion+ cross-chain swaps to support 3 additional chains: Monad, Sui, and Stellar",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nuvex",
+    "slug": "nuvex-wmc61",
+    "description": "Seamless cross-chain swaps via 1inch Fusion: ETH ↔  XRPL, Cardano with atomic security.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aloo Fry",
+    "slug": "aloo-fry-u42g6",
+    "description": "Working on 1inch fusion plus between tezos and etheruem using hardhat for solidity deployment",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smart1inch",
+    "slug": "smart1inch-23jt0",
+    "description": "An extension of 1inch Fusion+ to facilitate Tezos-EVM bidirectional cross-chain swaps, using SmartPy",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Near-FusionSwap",
+    "slug": "near-fusionswap-y8zxn",
+    "description": "Cross-chain atomic swaps between Polygon & NEAR using HTLC contarcts and 1inch Fusion+ protocol",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "PegaSwap",
+    "slug": "pegaswap-69b92",
+    "description": "PegaSwap is a wallet that allows users to swap between all EVM tokens and all Tezos tokens.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "func() swap",
+    "slug": "func-swap-cjhuc",
+    "description": "Func() Swap is an extension of 1inch Fusion+ that enables swaps b/w EVM and Cosmos/Near.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Obscura Swap",
+    "slug": "obscura-swap-21gpq",
+    "description": "1Inch Fusion+ swap between EVM <-> Bitcoin chain with Privacy",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Synappay",
+    "slug": "synappay-0f5wk",
+    "description": "SynapPay enables seamless, secure cross-chain swaps between Ethereum and Stellar using 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TonFusion",
+    "slug": "tonfusion-rbs33",
+    "description": "TonFusion is an extension for 1inch Fusion+ that enables swaps between EVM and TON",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ICP X 1Inch Fusion+",
+    "slug": "icp-x-1inch-fusion-m5sk7",
+    "description": "A novel extension for 1inch Cross-chain Swap (Fusion+) that enables swaps between Ethereum and ICP",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xSwap",
+    "slug": "0xswap-6sy8u",
+    "description": "0xSwap: Mint magical SwapScroll NFTs for seamless, blazing-fast cross-chain token swaps! 🚀✨",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CosmicDeFi",
+    "slug": "cosmicdefi-z9q8t",
+    "description": "Monad,Sui and Sepolia Extension of 1inch Fusion+ swap. We made custom relayer and db.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unite Cosmos",
+    "slug": "unite-cosmos-v2mzp",
+    "description": "Unite Cosmos: Fusion Plus/Atomic swap between cosmos and ethereum",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inchTeleport",
+    "slug": "1inchteleport-huiuk",
+    "description": "Cross-protocol DeFi: collect fees & migrate liquidity between multiple protocols in 1 transaction",
+    "event": "Unite Defi",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "FlipPay",
+    "slug": "flippay-qhqwf",
+    "description": "Functioning XCM-Swapping between Ethereum - Polkadot verifiable on-chain",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alpha Arena",
+    "slug": "alpha-arena-t6ocr",
+    "description": "Alpha Arena: P2P DeFi trading duels where winner takes all based on on-chain P&L. No middlemen.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Covered Calls Vault",
+    "slug": "covered-calls-vault-6xh1h",
+    "description": "Covered Call Options Vault using 1inch Limit Order Protocol with ERC1155 Proxy extensions",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ThunderPortal",
+    "slug": "thunderportal-haf30",
+    "description": "Atomic swaps between ETH and BTC extending 1inch Fusion+ with custom Bitcoin HTLC service.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "henshin",
+    "slug": "henshin-8kp4u",
+    "description": "A bidirectional swapping mechanism from ETH<->MONAD with fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cosmic-Link",
+    "slug": "cosmic-link-uryif",
+    "description": "Cross Chain Swap on top of  1inch Fusion+. EVM ↔Cosmos(Injective) w gasless UX& live tracking using",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Not1inch",
+    "slug": "not1inch-z1ia6",
+    "description": "Cross-chain swap between EVM & Sui using 1inch Fusion+ and intent-based atomic swaps.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionYield",
+    "slug": "fusionyield-8r05h",
+    "description": "Multi-chain yield optimizer w/ cross-chain swaps on Cosmos, ICP, Etherlink, Eth via 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AdaptaFlow",
+    "slug": "adaptaflow-66h2b",
+    "description": "self-adjusting limit orders that automatically optimize slippage based on realtime market volatility",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bundl",
+    "slug": "bundl-gg1gk",
+    "description": "Ownable, tradable portfolios bundling assets as NFTs. Organize & send crypto like digital vaults.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sway",
+    "slug": "sway-xcvna",
+    "description": "Bidirectional cross-chain swaps between Ethereum and Sui using 1inch Fusion+ extended protocol",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StellarFusion💫",
+    "slug": "stellarfusion-dizzy-z1nw0",
+    "description": "StellarFusion - a Platform to Create and Fulfil Cross Chain Swap Orders Between ETH <> Stellar.",
+    "event": "Unite Defi",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "7dhfm"
+    ]
+  },
+  {
+    "name": "Intent Journal",
+    "slug": "intent-journal-1pyhw",
+    "description": "AI journal embeds intents, recs 1inch Fusion+ swaps on Etherlink, gens social posts",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XMBL Liquid Token",
+    "slug": "xmbl-liquid-token-gamd3",
+    "description": "Activate XMBL tokens to build an app, provide network services, and earn yield",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gm-fusion-plus",
+    "slug": "gm-fusion-plus-1nhx1",
+    "description": "Enables using Fusion+ protocol through a terminal user interface",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PortfoliOne",
+    "slug": "portfolione-rqwta",
+    "description": "One-click DeFi portfolio rebalancing with optimal swap rates",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "KEMBridge",
+    "slug": "kembridge-0w4bk",
+    "description": "KEMBridge is a cross-chain bridge with post-quantum security and built-in AI analysis.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MoleSwap",
+    "slug": "moleswap-qte13",
+    "description": "Extension for 1inch Cross-chain Swap (Fusion+) that enables swaps between EVM and TON",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inchXNear",
+    "slug": "1inchxnear-0qtm7",
+    "description": "Atomic cross-chain ETH ↔ NEAR swaps via HTLC using a 1inch Fusion+ post-interaction extension.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sui-Fusion-Plus",
+    "slug": "sui-fusion-plus-1cz3m",
+    "description": "Best and most secure Sui <> EVM cross chain swap. Deployed and tested with best practice.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hashield",
+    "slug": "hashield-hdav6",
+    "description": "Private web3 browsing powered by Monero<>EVM atomic swaps and Fusion +",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScrollSwap",
+    "slug": "scrollswap-96qo1",
+    "description": "Trustless ETH-Scroll cross-chain swaps with HTLCs, resolvers, and real-time pricing.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Node",
+    "slug": "1node-fqnt9",
+    "description": "No-code cross-chain DeFi automations powered by 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion Plus Bridge",
+    "slug": "fusion-plus-bridge-dkj6a",
+    "description": "Trustless cross-chain swaps using 1inch atomic swaps - no bridges, no custody, pure mathematics",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OPA",
+    "slug": "opa-irqup",
+    "description": "No-code visual strategy builder for automation on top of 1inch Limit Order Protocol",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Inch-Aptos Portal",
+    "slug": "1inch-aptos-portal-np9co",
+    "description": "Swaps between 1inch EVM and Aptos blockchain allowing for non-evm and evm interoperability",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "genSwaps",
+    "slug": "genswaps-hqxua",
+    "description": "gen-swaps allows easy swapping of token across different protocols",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swappie",
+    "slug": "swappie-qmcxp",
+    "description": "Simple swap on base on 1inch API key with a frendly UI and simply made it)",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion Jar",
+    "slug": "fusion-jar-paomd",
+    "description": "FusionJar lets you automate $1-$10 swaps cross-chain with 1inch Fusion+—DeFi made easy.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "PaperMint",
+    "slug": "papermint-vgz36",
+    "description": "Enable everyone to manage crypto invoicing easily, powered by 1inch",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiScape MCP",
+    "slug": "defiscape-mcp-4rbr0",
+    "description": "an MCP server that securely proxies the 1inch API for LLM to analyze DeFi revenue opportunities.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniMonster",
+    "slug": "omnimonster-6rfn2",
+    "description": "omnimonster: Chat-driven cross-chain swaps between Ethereum and Other Chain via 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Troy",
+    "slug": "troy-ehkd3",
+    "description": "Troy is an extension for 1inch Fusion+ that enables swaps between Ethereum and Tron",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stellinch",
+    "slug": "stellinch-xgo5p",
+    "description": "Cross-chain atomic swap between Base/ETH and Stellar/XLM using HTLCs and 1inch integration",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stellarion",
+    "slug": "stellarion-m6jt3",
+    "description": "Cross-chain swaps between Stellar & Ethereum with 1inch Fusion+ - fast, secure, gasless.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TriggerFi",
+    "slug": "triggerfi-ite9o",
+    "description": "Dynamic capital allocation infrastructure through real world triggers",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MoveB",
+    "slug": "moveb-p97a6",
+    "description": "Smooth Swap UI between EVM and Sui through Fusion+, make Defi cross each chain.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Batch Swapper",
+    "slug": "batch-swapper-j5q2a",
+    "description": "Smart wallet powered by 1inch. Ability to make crypto asset portfolio with minimal transactions",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiVaultPro",
+    "slug": "defivaultpro-io6b6",
+    "description": "DefiVault Pro is a portfolio management app that uses 1inch APIs for unified DeFi investments.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crossline",
+    "slug": "crossline-ximz3",
+    "description": "Cross-chain on/off-ramp powered by custom order matching using state channels and limit orders.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Garden-1-Inch",
+    "slug": "garden-1-inch-4xj8m",
+    "description": "Fusion+ swaps across Monad, Bitcoin, Starknet, Sui & more for seamless multi-chain trading.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MoveOrbit",
+    "slug": "moveorbit-8i4cf",
+    "description": "Extension to 1inch Fusion+ for the Move-based blockchains Sui and Aptos",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swift",
+    "slug": "swift-1166g",
+    "description": "Cross-chain DeFi app extending 1inch Fusion+ with HashLock security. Swap tokens across blockchains.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1nsync",
+    "slug": "1nsync-icb8v",
+    "description": "1NSYNC:The Ultimate Modular DeFi Trading Platform: Gas-Optimized Swap, SAFU Rescue , Batch SWAP",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fusion+Aptos",
+    "slug": "fusion-aptos-df51n",
+    "description": "This is a Aptos Extension for 1inch's Fusion+ for gasless exchange",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionSwapUI",
+    "slug": "fusionswapui-mb6hc",
+    "description": "Guided cross-chain swaps using Fusion+ and live status updates",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OptimizeDeFi",
+    "slug": "optimizedefi-wgixe",
+    "description": "Agentic AI powered DeFi Dashboard powered by 1Inch to enable cross-chain DeFi",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polka-Fusion",
+    "slug": "polka-fusion-zfqdf",
+    "description": "Polka-Fusion = 1inch Cross-chain Swap (Fusion+) that enables swaps between Ethereum and Polkadot.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniPortfolio",
+    "slug": "uniportfolio-3ger5",
+    "description": "Unified DeFi portfolio management across blockchains, enabling cross chain EVM/non-EVM swap.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LockedIn",
+    "slug": "lockedin-hvsow",
+    "description": "Secure, atomic cross-chain swaps between evm and non evm chains, but easier.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi PulseX",
+    "slug": "defi-pulsex-sq5m6",
+    "description": "A modern and gamified decentralized finance (DeFi) trading terminal",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Only Tokens",
+    "slug": "only-tokens-ukpiq",
+    "description": "Cross chain swap integration for 1inch Fusion+ with Cosmos and Dogecoin",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkFusion",
+    "slug": "zkfusion-u2d0g",
+    "description": "ZK-powered Dutch auctions for fast, private, provable intent settlement - Extension for 1inch LOP",
+    "event": "Unite Defi",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "FusePay",
+    "slug": "fusepay-wihvn",
+    "description": "An app that lets users consolidate funds from multiple chains (EVM & non-EVM).",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Petfolio Guardian",
+    "slug": "petfolio-guardian-900jn",
+    "description": "A DeFi platform that combines automated DCA trading with virtual pet care.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFinite1",
+    "slug": "definite1-j7wwf",
+    "description": "DeFinite1: A non-custodial, multi-chain treasury dashboard for DAOs, startups & DeFi pros.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PFP2E",
+    "slug": "pfp2e-iuas4",
+    "description": "We are the invisible, permissionless infrastructure for verifying and rewarding digital identity.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hermes",
+    "slug": "hermes-1orzi",
+    "description": "Hermes is a Fusion+ implementation enabling swaps between Stellar and Ethereum.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "liquidation guard",
+    "slug": "liquidation-guard-he01o",
+    "description": "Using limit order with post interaction to protect users against getting liquidated on aave",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "X_Fusion",
+    "slug": "x-fusion-afby9",
+    "description": "Cross-chain Fusion+ swaps with partial fills using escrow contracts on Non-EVM and EVM",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NextInch",
+    "slug": "nextinch-zguip",
+    "description": "Split large orders into chunks executed over time to minimize slippage & market impact.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1edge",
+    "slug": "1edge-iri5i",
+    "description": "1edge exposes advanced order types and market making strategies on top of 1inch's LOP.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FullOnCrypto",
+    "slug": "fulloncrypto-q5fyz",
+    "description": "Solution for pro-crypto believer to live practically without fiat currency. Live life without fiat.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "FusionXCosmos",
+    "slug": "fusionxcosmos-wx9yh",
+    "description": "Cross-chain atomic swaps between Ethereum & Cosmos - no bridges, just real on-chain swaps.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionNSwap",
+    "slug": "fusionnswap-qpaz1",
+    "description": "A cross-chain atomic swap solution between Ethereum and NEAR using 1inch Fusion+.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1balancer",
+    "slug": "1balancer-33hbk",
+    "description": "1Balancer: Automated crypto portfolios, perfectly balanced as all things should be",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperNova",
+    "slug": "supernova-xso6a",
+    "description": "Supernova is a Defi based Blockchain system made with 1inch for sui and aptos",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crossfire Bid",
+    "slug": "crossfire-bid-kmk3p",
+    "description": "Volatility-Triggered Cross-Chain Swaps with Dutch Auctions using 1inch Limit Orders Protocol",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Auxesis.io",
+    "slug": "auxesis-io-t2jdz",
+    "description": "A Cross-chain DeFi autopilot that rebalances assets across networks using 1inch infrastructure",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yeti",
+    "slug": "yeti-5fius",
+    "description": "Automating TradingView indicators and strategies for 1inch limit orders",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "1inch-Agent-Platform",
+    "slug": "1inch-agent-platform-vbeji",
+    "description": "1inch Agent Platform combines 15 APIs with Fusion+ (XRP, Tron), an agent kit, NLP and a dashboard.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Enju",
+    "slug": "enju-y7gdh",
+    "description": "Swap cross-chain, earn rewards, unlock NFTs, and grow your 3D island with Enju + Fusion+.",
+    "event": "Unite Defi",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Fusion Chrono",
+    "slug": "fusion-chrono-b4u5o",
+    "description": "Cross-chain TWAP DEX aggregator using 1inch Fusion+ on Etherlink for MEV-resistant swap.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PsychSwap",
+    "slug": "psychswap-v9s9j",
+    "description": "Personality-driven DeFi routing that gamifies financial behavior while providing genuine utility.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Necklace",
+    "slug": "necklace-qdgei",
+    "description": "Bidirectional cross-chain bridge implementing 1inch Fusion+ technology with capabilities on Sui",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AptosIntegration",
+    "slug": "aptosintegration-5ri7x",
+    "description": "Extend one-inch fusion plus protocol to Aptos supporting multi fill order.",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "CROSSINCH+",
+    "slug": "crossinch-d5m0j",
+    "description": "Stellar to  Ethereum swaps via HTLCs using Limit Order Protocol, deployed cross-chain.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TronSwap",
+    "slug": "tronswap-kbm6a",
+    "description": "Cross-chain swap using HTLCs between Ethereum Sepolia and Tron Nile w cool frontend visualization",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polaris",
+    "slug": "polaris-dac2c",
+    "description": "Trustless cross-chain swaps between Bitcoin, Lightning Network & EVM chains using HTLCs",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwapJar",
+    "slug": "swapjar-s8mew",
+    "description": "An open payment link and collection platform - swapped to your favorite stablecoin via 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fusion+ extension",
+    "slug": "fusion-extension-28k8g",
+    "description": "Extending 1inch's Fusion+ to Cosmos blockchains to support crosschain swaps.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Protein Swaps",
+    "slug": "protein-swaps-h2sty",
+    "description": "extend fusion + to non evm chains (8 chains / tracks) , following the fusion + whitepaper",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProjectHedwig",
+    "slug": "projecthedwig-w9xb0",
+    "description": "Cross-chain HTLC with Arbitrator, on Aptos & Solidity. Accelerate the happy-path, less griefing",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XFusion",
+    "slug": "xfusion-u1pqo",
+    "description": "XFusion powers seamless atomic swaps across chains — no bridges, no wraps, just pure fusion",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GattaiSwap",
+    "slug": "gattaiswap-ywdfm",
+    "description": "GattaiSwap is a cross-chain swap app built on 1inch Fusion+, supports Bitcoin, Monad, Etherlink.",
+    "event": "Unite Defi",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "if0ri",
+      "ky7kr",
+      "5b69q"
+    ]
+  },
+  {
+    "name": "1nbox",
+    "slug": "1nbox-wp6ji",
+    "description": "1nbox: DeFi complexity → Gmail simplicity. Cross-chain portfolio + intent actions. Powered by 1inch.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onbogo",
+    "slug": "onbogo-ghsru",
+    "description": "Simple DeFi dApp where beginners vote on real crypto swaps to learn and earn",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Strategix",
+    "slug": "strategix-79w14",
+    "description": "Create automated trading strategies with limit orders build custom bots by setting simple conditions",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vaultify",
+    "slug": "vaultify-udgca",
+    "description": "Turning invoices into yield generating vaults with cross chain DeFi access via 1inch Fusion+.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch-simulator",
+    "slug": "1inch-simulator-yk5m7",
+    "description": "DeFi trading simulator powered by 1inch APIs — learn by doing.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hypervest",
+    "slug": "hypervest-oqp05",
+    "description": "Hyper1nvest is your crypto investments co-pilot — DCA, TWAPs, and advanced 1inch-based strategies.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Option",
+    "slug": "1option-0xw4f",
+    "description": "1Option allows anyone to mint, buy, and exercise options on top of the 1inch Limit Order Protocol",
+    "event": "Unite Defi",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "AlgoSwap",
+    "slug": "algoswap-b0aw0",
+    "description": "Fusion + Swap extended to the Algorand Blockchain based on the 1Inch fusion+ Protocol",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "SetuSwap",
+    "slug": "setuswap-hxy5s",
+    "description": "Trustless Stellar↔Ethereum swaps using atomic escrows with hashedtimelocks.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DungeonHeim",
+    "slug": "dungeonheim-j5776",
+    "description": "Dungeon crawler: stake to play, collect keys, unlock rooms, defeat boss, win tokens.",
+    "event": "Unite Defi",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "UniTrade",
+    "slug": "unitrade-s2ocd",
+    "description": "UNIFI: Decentralized crypto trading platform with stop-loss protection and cross-chain capabilities.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiUnite-Jincubator",
+    "slug": "defiunite-jincubator-g1h0p",
+    "description": "Limit Order Protocol swap execution, smart orders, treasury and resource management + NEAR Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InchVest",
+    "slug": "inchvest-id445",
+    "description": "Protect, Earn, Grow. Effortless Stablecoin Hedging, Lending, and Swapping, Automated With AI Agents.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Iceberg.trade",
+    "slug": "iceberg-trade-ffd2p",
+    "description": "Iceberg.trade — One-click private trading, best price, self-custody.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DarkSwap",
+    "slug": "darkswap-y5rn3",
+    "description": "DarkSwap hides order details using zk-proofs. Trade privately, avoid front-running.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AceSuperSwap",
+    "slug": "acesuperswap-xeufn",
+    "description": "Building a crosshchain resolver on stellar to facilitate ethereum to stellar swaps",
+    "event": "Unite Defi",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "1sync",
+    "slug": "1sync-kj0a9",
+    "description": "Trustless swaps via 1inch Fusion+, HTLCs, and intent-based cross-chain settlement.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Paynvest",
+    "slug": "paynvest-h22ce",
+    "description": "Automated DCA into ETH using Papaya Subscriptions and 1inch Limit Order Protocols",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BhavInch",
+    "slug": "bhavinch-g8yrw",
+    "description": "Cross-chain dApp: 1inch-powered EVM swaps + Stellar testnet bridge for instant low-fee remittances.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prompt Fusion Swap",
+    "slug": "prompt-fusion-swap-unmnd",
+    "description": "An AI-powered DeFi terminal to execute swaps via natural language, using multiple 1inch APIs",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEAWS",
+    "slug": "feaws-ra7s5",
+    "description": "Production grade DeFi protocol using TWAP + yield-aware orders via 1inch for treasury optimization",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tokamak",
+    "slug": "tokamak-gy2wf",
+    "description": "MEV detection platform analyzing transactions for sandwich attacks, arbitrage & trading strategies",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Move United",
+    "slug": "move-united-t0bvf",
+    "description": "1inch fusion+ implementation for Aptos, built with the Move language",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WhaleBox Wallet",
+    "slug": "whalebox-wallet-twh4p",
+    "description": "Whales go in, unicorns come out—an AI wallet powering customer acquisition with hyperbolic stakes",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Slip-Fi",
+    "slug": "slip-fi-3vpit",
+    "description": "Slip-Fi: Split large swaps to reduce slippage. Powered by 1inch. Built for mobile.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DOMEX  PROTOCOL",
+    "slug": "domex-protocol-qh6zh",
+    "description": "Universal DeFi backend enabling DEXs, CEXs, and dApps to settle trades via ZK-verified vaults.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "inchbyinch",
+    "slug": "inchbyinch-r55hh",
+    "description": "InchByInch is an onchain protocol that lets users automate laddered trading strategies",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionX-Eth-Cos",
+    "slug": "fusionx-eth-cos-mt2x4",
+    "description": "Atomic swap between Ethereum and Cosmos Chain with Hashlocks and Timelocks",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrustFlowproject",
+    "slug": "trustflowproject-co5os",
+    "description": "AI‑augmented Layer2 infra for building, verifying & enforcing smart contracts on‑chain.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockenthu",
+    "slug": "blockenthu-u7iqa",
+    "description": "Cross-chain DEX aggregator using 1inch APIs for seamless swaps across 10+ blockchains",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NadFusion",
+    "slug": "nadfusion-ypr2g",
+    "description": "Seamless cross-chain swaps between EVM and Monad powered by 1inch Fusion+",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fuSUIon",
+    "slug": "fusuion-zj9p0",
+    "description": "Fusion+ HTLC cross-chain swap extension for bidirectional swaps Sui <=> EVM supporting partial fills",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Danify",
+    "slug": "danify-38wrd",
+    "description": "Advanced TWAP, DCA, grid trading & vesting with 1inch LOP – gasless execution & smart automation",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VaultSyncX",
+    "slug": "vaultsyncx-xqnfb",
+    "description": "VaultSyncX is a cross-chain DeFi and portfolio management platform.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiStrategy",
+    "slug": "suistrategy-6mkw9",
+    "description": "SuiStrategy is a DeFi protocol on Sui for automated yield strategies and cross-chain swaps.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FusionFlow",
+    "slug": "fusionflow-ko53z",
+    "description": "1inch Fusion+ Cross-chain swap, with bidirectional Ethereum-Polkadot token swap via hashlocks",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Redistributor Token",
+    "slug": "redistributor-token-67znd",
+    "description": "The Redistribution Token is about 100% decentralisation and community-driven motion in tokenomics.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HedgyAI",
+    "slug": "hedgyai-knfei",
+    "description": "Fully agentic and institutional grade portfolio manager for rtail investors",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "10inch",
+    "slug": "10inch-cbb9f",
+    "description": "Expanding 1inch Fusion Plus Swaps to 10 Non-Evm Chains with the partial filling enabled.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Limit",
+    "slug": "1limit-u2io4",
+    "description": "1Limit is an iOS app to execute 1Inch limit orders on mobile",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "truevalue",
+    "slug": "truevalue-73qfj",
+    "description": "This project is investment platform where values flows users <-> creators.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hackers.Market",
+    "slug": "hackers-market-xbjxh",
+    "description": "Anti-coercion P2P escrow protocol with time-locked smart contracts & emergency stop mechanisms",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bitceilium",
+    "slug": "bitceilium-14bqq",
+    "description": "Project killer feature is to provide seamless experience to access non-custodial Bitcoin via 1inch.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ARC - Risk Coverage",
+    "slug": "arc-risk-coverage-5hhct",
+    "description": "Parametric climate coverage using Chainlink and AI to protect farmers from extreme weather.",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiFusion+",
+    "slug": "suifusion-fwgsd",
+    "description": "Cross-chain swap using 1inch Fusion between Ethereum (Sepolia) and Sui testnet",
+    "event": "Unite Defi",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

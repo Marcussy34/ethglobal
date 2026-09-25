@@ -1,0 +1,938 @@
+[
+  {
+    "name": "Pods",
+    "slug": "pods-63bdc",
+    "description": "Hacking aTokens yield with put options on WBTC and ETH:BTC ratio.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PoolPipes",
+    "slug": "poolpipes-vmmns",
+    "description": "Pool Pipes rebalance liquidity between pooling opportunities within same in one transaction, helping reduce liquidity fragmentation throughout DeFi.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Parcel",
+    "slug": "parcel-fm6hg",
+    "description": "Parcel lets you send tokens or ether to multiple addresses in one transaction.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EEG Like!",
+    "slug": "eeg-like--onj8p",
+    "description": "Make payments depending on the user brain feedback.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaTX",
+    "slug": "metatx-t4pfp",
+    "description": "A Meta Transaction Demo that give User full control of their Meta transaction processor choice using OpenGSN as demo, It also showcase a DAI-based paymaster using DAI-permit and uniswap v2.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi BTC",
+    "slug": "defi-btc-htax5",
+    "description": "DeFi BTC showcases the DeFi capabilities for Bitcoin once BTC is converted to pBTC. DeFi BTC leverages Ethereum and DeFi composability to add new features to Bitcoin.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Wall",
+    "slug": "the-wall-wb6b7",
+    "description": "Decentralized Dealer of Last Resort.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UrbanScale",
+    "slug": "urbanscale-jdjog",
+    "description": "UrbanScale is a decentralized application connecting you with your local government. It promotes research into the financial health of our municipal institutions by incentivising research and investment in our public institutions.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RaysToken",
+    "slug": "raystoken-u3aof",
+    "description": "A Patreon/Kickstarter like platform.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenKycProtocol",
+    "slug": "openkycprotocol-o5py6",
+    "description": "KYC, Credit Score, ID verification for DeFi services using cryptography to keep privacy.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GodmodeForTest",
+    "slug": "godmodefortest-xbym6",
+    "description": "\"Code is Law\"? No, Ignore the law, be the God. Do ANYTHING on your local blockchain. Hopefully that makes testing defi projects easier!",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Contraktor",
+    "slug": "contraktor-buv1o",
+    "description": "Contraktor - a smart contract explorer. Visualize and interact with common DeFi projects or any other smart contract​.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MissingNo",
+    "slug": "missingno-bgpqv",
+    "description": "A futures market for p2p gateways to facilitate resilient uncensorable commerce sites in order to solve the problem of trusted site discoverability & hedging exit scams",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1inch CHI",
+    "slug": "1inch-chi-3r0uv",
+    "description": "Next generation gas token with a helper for deploying contracts for almost the half of the gas costs.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Medici",
+    "slug": "medici-2msz0",
+    "description": "The interest-earning wallet for digital cash.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlashYield",
+    "slug": "flashyield-f6b30",
+    "description": "Project aims to build a high frequency arbitrage bot using liquidity from Aave in a Flashloan to perform token swaps",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHcavenger",
+    "slug": "ethcavenger-odcx7",
+    "description": "A DeFi scavenger hunt API for Ethereum for communities.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anonymous Credit",
+    "slug": "anonymous-credit-qpaus",
+    "description": "A decentralized anonymous credit for crypto lending/borrowing, supported by address mining.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArtDeFi",
+    "slug": "artdefi-f3vx8",
+    "description": "ArtDeFi establishes a lending pool that allows individual digital artists to enter the DeFi lending market with customized collateralization requirements through their credit scores originated from on-chain records of their artwork production and income streams.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "capitalETH",
+    "slug": "capitaleth-xkgrk",
+    "description": "capitalETH - A smart, systematic and hassle-free way to invest in tokens on Ethereum.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InstCrypt",
+    "slug": "instcrypt-86omw",
+    "description": "InstCrypt is Automated trust-less crypto trading platform on top of Uniswap-V2 and Uniswap-V2 oracles.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayMaestro",
+    "slug": "paymaestro-6aju1",
+    "description": "Easy to run GSN Paymaster for all!",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WANT a Nintendo Switch",
+    "slug": "want-a-nintendo-switch-dxm73",
+    "description": "The WANT Token Exchange Pool allows you to deposit ERC20 tokens, receive WANT tokens in return, and redeem a WANT token for a random token from the pool.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sunset Supreme",
+    "slug": "sunset-supreme-yoavr",
+    "description": "A Google sheets plugin for MultiBaas (a REST API for Ethereum) to allow display, interaction, and analysis of data on the blockchain.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChitFund",
+    "slug": "chitfund-am5ic",
+    "description": "Chit Fund - a community approach to borrow and Lend Money.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "tCDP",
+    "slug": "tcdp-7nvn3",
+    "description": "Tokenized CDP (collateralized debt position) that is fungible and tradable on decentralized exchanges.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Opyn Monitor",
+    "slug": "opyn-monitor-ntnbc",
+    "description": "New Trading UI and Smart Pool for Opyn.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Batchoo",
+    "slug": "batchoo-7ax3m",
+    "description": "Broadcasting multiple txns on Ethereum as one, to save gas fees.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blocksheets",
+    "slug": "blocksheets-p1k1w",
+    "description": "A simple tool that allows you to read how many tokens you own from MetaMask.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "My DeFi Pie",
+    "slug": "my-defi-pie-co852",
+    "description": "Easily create and manage a customized - and absurdly diversified - portfolio of traditional and crypto assets, including non-Ethereum blockchains",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KontextApp",
+    "slug": "kontextapp-kqcnc",
+    "description": "Use any website as a google doc, and get paid for posting notes about DEFI! Or build up onchain reputation by curating any public good information.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFiGravity",
+    "slug": "defigravity-ss34d",
+    "description": "DeFi",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Money256",
+    "slug": "money256-7xutp",
+    "description": "Priceless CFD framework / POC that shows how a Priceless CFD contract can be utilized on Ethereum.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReDeFine",
+    "slug": "redefine-bt6ch",
+    "description": "Extending our existing FIN4Xplorer dApp with options to back \"positive action tokens\" with different underlying sources of value.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flash 4 All ⚡",
+    "slug": "flash-4-all-⚡-1fvqs",
+    "description": "A simple UI that allows anyone to benefit from arbitrage opportunities in DeFi without the need of capital or code.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiStacker",
+    "slug": "defistacker-4ugor",
+    "description": "The backend for your composable DeFi actions.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YieldHero",
+    "slug": "yieldhero-eci89",
+    "description": "YieldHero is a one-stop suite for managing for Aave yield. With YieldHero you can easily swap aTokens to get the best yield, and redirect your Aave yield to support awesome Ethereum builders.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pirate$HIP",
+    "slug": "pirate-hip-z3f3y",
+    "description": "Turn startup marathon into product sprints via continuous flash organization with outcome-bounded puttable equity tokens. Earn FOUNDER'S EQUITY in a flash with an option to \"cop out\" to CASH.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Upala",
+    "slug": "upala-6gr7y",
+    "description": "Upala is an anti-Sybil system for DApps and a decentralized digital identity.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Suicide Kings",
+    "slug": "suicide-kings-ztuix",
+    "description": "Suicide Kings is a no-loss ERC1155 game where players vote to win interest generated in Compound Finance. Burning (suiciding) a KING enables a quadratic vote (QV). While fun and engaging, the game also tests a method for reducing sybil attacks in QV while maintaining anonymity.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "java-defi-bot",
+    "slug": "java-defi-bot-qaxbs",
+    "description": "java-defi-bot is an application that aims to do beneficial actions on the Ethereum blockchain for the DeFi ecosystem while earning a profit for the user. These actions include maintaining the DAI peg, providing liquidity and liquidating undercollateralized assets.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BTC Tornado",
+    "slug": "btc-tornado-rhaap",
+    "description": "Bitcoin mixer based on Tornado.cash",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bloom Finance",
+    "slug": "bloom-finance-stbdp",
+    "description": "Bloom Finance - Gift Cards that Grow in Value!  It's your money. You deserve the interest that accumulates on your deposit for as long as you hold your gift card!",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Slingshot",
+    "slug": "slingshot-xkbis",
+    "description": "An on-chain incentive system to encourage regular participation in Ethereum meetups.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Umbrella",
+    "slug": "umbrella-ysinf",
+    "description": "Allowing volunteer creators to band together and recieve donations as a pool. Lowers income volatility for creators and allows contributors to participate in their success.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GoodGhosting",
+    "slug": "good-ghosting-5hbvs",
+    "description": "Your incentive to save.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Donorbox",
+    "slug": "donorbox-tqbs5",
+    "description": "DonorBox is a unified crowd funding platform for Donors/investors to donate/fund  NGO's or Start Ups in accordance with realistic target and performance.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "What the Frac",
+    "slug": "what-the-frac-bdazm",
+    "description": "Tools to manage fractional ownership of Non-fungible Tokens (NFTs).",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VotersVote",
+    "slug": "votersvote-cd25u",
+    "description": "Gasless Delegation and Voting Interface for Compound.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Compose.fi",
+    "slug": "compose-fi-mgkkc",
+    "description": "A didactic tool to visually connect DeFi instruments and learn about its composability.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Learn & Earn",
+    "slug": "learn-earn-6kb2q",
+    "description": "We want to help students online anywhere in the world get new skills and make some money along the way too.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nftfy",
+    "slug": "nftfy-sobof",
+    "description": "Nftfy is a dapp that provides easily securitization of NFTs, dividing NFTs on Shares and allow the collectible ownership of them, through a decentralized backing mechanism totally software guaranteed without intermediaries or special actors.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Telegram Totality",
+    "slug": "telegram-totality-b6qvw",
+    "description": "Creating a new user channel for Ethereum projects. Enable people to use your protocol with the most intuitive interface known to our generation; Telegram App with integrated non custodial wallet.  Currently integrated: ENS renewal, Aave liquidation warning & deposit.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ledgerlets API",
+    "slug": "ledgerlets-api-mo6hf",
+    "description": "An API for a free service to create proof of existence evidence for documents and files on the blockchain.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CelebrityFutures",
+    "slug": "celebrityfutures-7f40r",
+    "description": "A market to bet for or against the future potential of high-profile individuals.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrowdLink",
+    "slug": "crowdlink-vsif4",
+    "description": "CrowdLink is a web3-powered referral links marketplace that allows anyone within minutes to create referral links. Our goal is to be the cheapest and fastest referral campaign creator on the market.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FukiPay",
+    "slug": "fukipay-irwdx",
+    "description": "FukiPay is a trustless messaging bot which allows users to easily interact with the Ethereum blockchain. The messaging bot generates a unique smart-wallet for each user which can be used to receive and spend Ethereum and ERC-20 tokens but to also interact with the Ethereum DeFi.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atlas",
+    "slug": "atlas-fkf0p",
+    "description": "A hassle-free library system to help users rent books easily and directly support authors.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hackeee",
+    "slug": "hackeee-ocbot",
+    "description": "This repos is a dApp for derivative swap by using UMA's Priceless Synthetic Tokens.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Umbra",
+    "slug": "umbra-wsugm",
+    "description": "Umbra is protocol for enabling stealth payments on the Ethereum blockchain. It enables privacy preserving transactions where the receiver's identity is only known to the sender and receiver.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Collab.Land",
+    "slug": "collab-land-ug0gh",
+    "description": "Collab.Land is a tokenized community management platform.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi support for VS Code",
+    "slug": "defi-support-for-vs-code-1b08n",
+    "description": "DeFi language support for NodeJS in VS Code",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Card Change",
+    "slug": "card-change-076z5",
+    "description": "Exchange Google Play Store gift cards for aDAI.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IdentityMoney",
+    "slug": "identitymoney-8bg94",
+    "description": "A decentralized digital document validation solution that offers trustworthy identity data and gives users complete control of their data.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeEd",
+    "slug": "deed-fjsdv",
+    "description": "Deed is a decentralizEd education platform powered by DeFi: a loss-less University that pools student's DAI to earn interest and reward students and teachers for completed courses. Anyone can create and deploy their own University with specific courses and parameters.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flash Zaps",
+    "slug": "flash-zaps-8iby2",
+    "description": "A Dapp that connects Defi developers who have knowledge about writing Flash Loans smart contracts and everyone else who would want to use them.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chronchain",
+    "slug": "chronchain-j287s",
+    "description": "Chronchain protocol for open finance.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MoneyVigil",
+    "slug": "moneyvigil-qvpnv",
+    "description": "A decentralized expense settlement solution on Ethereum.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "defido2",
+    "slug": "defido2-scn2m",
+    "description": "A command-line, contract-based hardware Ethereum wallet.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFWallets",
+    "slug": "nfwallets-0ktgj",
+    "description": "Smart controlled wallets that can be transferred as NFTs.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cryptonian",
+    "slug": "cryptonian-dim7j",
+    "description": "Adopting DeFi to solve liquidity problem btw wholesalers and retailers in a jewelry trade.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CandyShop",
+    "slug": "candyshop-i2m1g",
+    "description": "Candyshop is a DEX aggreagator that optimises for efficeiency by arbitrging user swaps and splitting arbitragep profits with user.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cryption",
+    "slug": "cryption-toqtk",
+    "description": "An Interest-Bearing DAI ETF is a balancer pool that uses traders who want to arbitrage to balance the pool. This is an improvement over rate-chasing protocol where they use gs for balancing and we gain trade fees.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pensify",
+    "slug": "pensify-q73qz",
+    "description": "Pensify - a secure, non-custodial, no-loss and no-risk Pension Fund built on Ethereum. Passive savings via RAY and bonding curve and Flash Loans for automatic arbitrage swaps between DeFi liquidity pools to catch additional income. Pensions made easy.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHDollar",
+    "slug": "ethdollar-4yc0a",
+    "description": "Account base loans to mint stable coin. Loans have to be repay to prevent defaulting.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KittieFIGHT",
+    "slug": "kittiefight-ga47m",
+    "description": "DeFi Lending backed, FOMO Mortal Kombat CryptoKitties MMO game!",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Maximus",
+    "slug": "maximus-tokmp",
+    "description": "Maximus is the first community-owned, fully on-chain bank.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NYV (Naive)",
+    "slug": "nyv-naive-evvb9",
+    "description": "NYV bootstraps liquidity for innovative, low cap stablecoins - by: Incentivising liquidity with our own platform tokens of the same peg, on Uniswap V2 Providing a foreign exchange with infinite liquidity. Open up the stablecoin market and bring DeFi to the world!",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atomic Ninja",
+    "slug": "atomic-ninja-5o1ty",
+    "description": "Atomic is a transaction batcher, that will execute several actions within one atomic transaction, including performing flashloans, flashswaps, token transfers and much more.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Token Sets Decomposer",
+    "slug": "token-sets-decomposer-4wutb",
+    "description": "TokenSets oracle to get the price of any Set in Ether, allowing lending platforms to take Sets as collateral.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Immortal",
+    "slug": "immortal-g6f3c",
+    "description": "Non-custodial service that automates CDP protection and rebalancing using user's tokens as a fuel.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HobbyHodlrs",
+    "slug": "hobbyhodlrs-ft6zh",
+    "description": "Your Decentralized Finance Portfolio, Goals & Projections Tool",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ACO",
+    "slug": "aco-vo0ov",
+    "description": "A protocol for decentralized options.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liquorice Gen",
+    "slug": "liquorice-gen-pi3ws",
+    "description": "Liquorice Gen, a liquidity generator that is an all-in-one bonding curve tool to bootstrap liquidity.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Opium",
+    "slug": "opium-0sdds",
+    "description": "Dashboard for Opium Protocol and Opium.Team's products.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "defend.money",
+    "slug": "defend-money-i1g1s",
+    "description": "Defend.Money is a Decentralized Insurance Pool which allows users to hedge the risk of crypto asset volatility . Users want to enter the liquidity pool because it gives high returns by sharing in some of the risk.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aδθρt",
+    "slug": "aδθρt-x8mrs",
+    "description": "Cross-chain BTC/DAI options trading protocol.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EPNS (Ethereum Push Notification Service)",
+    "slug": "epns-ethereum-push-notification-service-mtba0",
+    "description": "EPNS is maximally powerful in delivering notifications, even from decentralized ecosystem to centralized one. In the shadow, it does all the heavy lifting of handling users, their devices, smart contract events, encryption of messages and the delivery of them to the intended user.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MagicBet",
+    "slug": "magicbet-e4fcx",
+    "description": "MagicBet is a no loss betting platform, inspired by PoolTogether. It allows users to bet on real life future events and outcomes without risking their stake.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rare Birds",
+    "slug": "rare-birds-qgpc7",
+    "description": "Rare Birds is a community designed for early stage entrepreneurs in developing economies.  The crowdfunding platform  connects investors in the diaspora with our entrepreneurs at home, so together they can build great companies.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bundle Finance",
+    "slug": "bundle-finance-3sfq9",
+    "description": "A set of smart contract tools to simplify complex interactions with DeFI protocols.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Potion Insurance",
+    "slug": "potion-insurance-etkq1",
+    "description": "Potion is a general purpose put option AMM with perfect pricing and priceless oracling.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tsunami Wallet",
+    "slug": "tsunami-wallet-5dnbc",
+    "description": "A mobile privacy wallet for Ethereum.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cover",
+    "slug": "cover-wiku9",
+    "description": "Protective options market for DAI.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cChannels",
+    "slug": "cchannels-irjnb",
+    "description": "Earn interest while sending payments off chain.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omisario",
+    "slug": "omisario-trhgy",
+    "description": "A basic integration between the OmiseGo Network & Super Mario.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "League of Pools",
+    "slug": "league-of-pools-kf85j",
+    "description": "DeFi Dapp gamified gateway to easily deposit and withdraw in different liquidity and lending pools.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pop",
+    "slug": "pop-dzgcp",
+    "description": "Fundraiser and repayment system for musicians and fans.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LiquiDeFi",
+    "slug": "liquidefi-tutvo",
+    "description": "Democratising DeFi liquidations by pooling together funds for liquidations.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lucrum",
+    "slug": "lucrum-b7acq",
+    "description": "A decentralized limit orders platform boosted by market making.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blazar",
+    "slug": "blazar-djspe",
+    "description": "Blazar is a fixed-rate, fixed-term borrowing protocol with its own AMM that leverages the money markets as temporary stop-gaps.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flashmint",
+    "slug": "flashmint-ovkrn",
+    "description": "Flashmint is the no-code arb BUIDLer: Find and explore arbitrage opportunities.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Terminal",
+    "slug": "terminal-rkvnz",
+    "description": "Terminal allows people to protect their rail journey against the risk of delay or cancellation.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT.Finance",
+    "slug": "nft-finance-j5t5z",
+    "description": "Peer-to-peer market to borrow NFTs or use NFTs as collateral for loans.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Genie",
+    "slug": "genie-zmosb",
+    "description": "No-loss reward platform for games and competitions.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XOpts",
+    "slug": "xopts-zqkah",
+    "description": "XOPTS. Bitcoin-native Options on Ethereum: insure against Bitcoin price crashes by buying Dai options on Ethereum. Execute the option completely trustless without the need to get wrapped Bitcoins or lock your Bitcoin.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DALP",
+    "slug": "dalp-jyu8r",
+    "description": "Decentralized autonomous liquidity provider (DALP). Maximize your earnings with minimal effort.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Save",
+    "slug": "save-7f3su",
+    "description": "Save is a chatbot aimed at educating & onboarding mainstream audiences to DeFi.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiDollar",
+    "slug": "defidollar-s99y2",
+    "description": "DefiDollar is an attempt at being an index of stable coins that uses Defi primitives to stay near the dollar mark and subsidize the collateralization ratio.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi777",
+    "slug": "defi777-89k0t",
+    "description": "Use DeFi protocols from any wallet! Wrapper tokens let you use Uniswap, Aave, Balancer & Set in normal wallets without a dapp browser.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oya Market",
+    "slug": "oya-market-j37nx",
+    "description": "Oya is a decentralized ecommerce protocol owned by its users and run by smart contracts.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eventdrip",
+    "slug": "eventdrip-wkkmm",
+    "description": "Eventdrip is a platform for creators to launch and monetize premium event experiences online.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hal",
+    "slug": "hal-hcddh",
+    "description": "Track WBTC mint and burns.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaBadges",
+    "slug": "metabadges-ae0c4",
+    "description": "Non-transferable Badges for Maker Ecosystem Activity (CDIP 18).",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Income JAR",
+    "slug": "income-jar-ht8q7",
+    "description": "IncomeJAR creates an income stream from a Crypto assets.  The user receives a good return, which is denoted in ERC20 tokens.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bank Protocol",
+    "slug": "bank-protocol-mhrqb",
+    "description": "This is a framework for managing collateral-backed loans on Ethereum using configurable parameters.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cryptospace",
+    "slug": "cryptospace-kn9sb",
+    "description": "A Quiz App with prizes distributed via Ethereum.",
+    "event": "HackMoney",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

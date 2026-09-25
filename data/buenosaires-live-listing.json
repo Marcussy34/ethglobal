@@ -1,0 +1,4266 @@
+[
+  {
+    "name": "Ronin rumble",
+    "slug": "ronin-rumble-tj44j",
+    "description": "Oncahin autobalet with trustless execution and 1v1 beting. Fun game.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniSweep",
+    "slug": "omnisweep-h5pck",
+    "description": "Gas abstraction protocol that lets users sweep dust with $0 upfront gas — fully self-sustaining.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossChainTxTracker",
+    "slug": "crosschaintxtracker-nsgzn",
+    "description": "A NestJS application for tracking Wormhole cross-chain token transfers using Subsquid pipes.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YieldWatch",
+    "slug": "yieldwatch-0yqbr",
+    "description": "YieldWatch benchmarks DeFi yields against on-chain & Real-World Assets",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "banger arena",
+    "slug": "banger-arena-dw3z0",
+    "description": "Banger Arena: bet on viral tweets and train an AI shitposting agent from CT trends.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "parcelito",
+    "slug": "parcelito-6b3vd",
+    "description": "Buy, Create, and Gift Token Portfolios easily with just a few click!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "PLY",
+    "slug": "ply-3012m",
+    "description": "Embedded comment widget powered by wallets + Self Protocol verification. Drop-in script.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cross-Chain SMS",
+    "slug": "cross-chain-sms-8pvms",
+    "description": "enterprise cross-chain messaging POC combining Bloxchain + EIL + LayerZero",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scout",
+    "slug": "scout-g0kq0",
+    "description": "Private opportunity markets where scouts trade YES against sponsor liquidity on Sapphire.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AccMSM",
+    "slug": "accmsm-3ik1q",
+    "description": "Optimizing KZG MSM for Data Availability Sampling using Pippenger+NAF+GLV — ~3.9x faster",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Token Hunt",
+    "slug": "token-hunt-id01a",
+    "description": "Spawn WLD rewards on a map. Hunters find tokens by getting close. Location-based treasure hunt! 🎯🪙",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "pokechain",
+    "slug": "pokechain-i68yv",
+    "description": "it's a pokemon onchain  game across multichain with zk battle",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Multi wallet",
+    "slug": "multi-wallet-mp6m9",
+    "description": "A smart multichain wallet to manage multiple addresses and tokens seamlessly across blockchains.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnyPay",
+    "slug": "anypay-jnjfj",
+    "description": "NFC crypto payments: Turn smartphones into banking payment terminals.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VisualizeUniswapV4",
+    "slug": "visualizeuniswapv4-hpsoa",
+    "description": "Secure transaction parser for Uniswap V4. Decodes singleton swaps & hooks for clear, safe signing.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hs9t7"
+    ]
+  },
+  {
+    "name": "Order book",
+    "slug": "order-book-oueq1",
+    "description": "Order book is. a High frequency p2p trading built using Yellow",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RenSplit",
+    "slug": "rensplit-cxfa9",
+    "description": "Autopay rent splitter powered by Privy wallets, x402 automation & XMTP group notifications",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cred-Fi",
+    "slug": "cred-fi-tguaw",
+    "description": "Pay-fi – Income-backed, under-collateralised credit lines for Humans and AI Agents",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "92qx9"
+    ]
+  },
+  {
+    "name": "Citrea Maker",
+    "slug": "citrea-maker-kz160",
+    "description": "Meme token launchpad with automated bonding curves, instant liquidity, and automatic DEX graduation.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenIO",
+    "slug": "openio-kxzvm",
+    "description": "Discover, build & deploy custom privacy models — powered by Indistinguishability Obfuscation.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rootstock Mini App",
+    "slug": "rootstock-mini-app-drrxu",
+    "description": "On-chain merchant rewards and NFTs inside a Telegram Mini-App on Rootstock.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "something-else",
+    "slug": "something-else-b0qnt",
+    "description": "Wanted to build something else but this time it failed, let's try next time",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OneName",
+    "slug": "onename-yyxtv",
+    "description": "Unifying blockchain names across every chains using Hyperlane, EVVM, and ENS",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "VPoR",
+    "slug": "vpor-b8rvz",
+    "description": "VPoR: The Glass Vault for crypto. A virtual chain for real-time, private proof of solvency.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Polygon AutoPay QOLs",
+    "slug": "polygon-autopay-qols-6tej1",
+    "description": "A fork of Polygon's x402 AutoPay with some Quality-of-Life Improvements",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Galactic Alpha",
+    "slug": "galactic-alpha-v1hz5",
+    "description": "Trading Engine Powered by Astrology. Built during Mercury Retrograde. May break. Might moon.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tbi2y"
+    ]
+  },
+  {
+    "name": "PayMesh",
+    "slug": "paymesh-djpxa",
+    "description": "A trust-minimized payment mesh powered by Symbiotic Relay and Hyperlane.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y3oj0"
+    ]
+  },
+  {
+    "name": "gh0st.market",
+    "slug": "gh0st-market-r8pju",
+    "description": "A privacy-first job network for verifiable web data collection",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnchainAura",
+    "slug": "onchainaura-ga0e1",
+    "description": "AI-powered agent for automated video content creation, posting, and donation for existing",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LOCUSt",
+    "slug": "locust-i1xnc",
+    "description": "Private cross-chain swaps via confidential deposits, LayerZero routing, and flexible withdrawals.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Avenger",
+    "slug": "avenger-8u62t",
+    "description": "Rent your X banner to advertisers. Set prices, approve ads, earn daily USDC automatically.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutoNom.AI",
+    "slug": "autonom-ai-1hcyt",
+    "description": "Enabling AI agent to self-fund and govern using zk proofs, quadratic votes, and cross-chain funds.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeTrain",
+    "slug": "detrain-5wiyz",
+    "description": "Turn your data into intelligence. Get paid for verifiable impact.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g8xu4",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Clerky",
+    "slug": "clerky-kyuso",
+    "description": "Onchain Auth for AI Agents that enables anyone issue tokens and sign AI transactions",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "general x402 ChatGPT",
+    "slug": "general-x402-chatgpt-6mioc",
+    "description": "Framework enabling ChatGPT to process x402 payments using a general plugin wallet.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PredictPark",
+    "slug": "predictpark-8kqo6",
+    "description": "Gamified prediction markets: swipe to predict crypto prices and earn money on your accuracy",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrevDL",
+    "slug": "prevdl-4znpi",
+    "description": "Privacy-preserving ad targeting using TEE. No data leaks. Full GDPR/LGPD compliance.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GetSalt.sh",
+    "slug": "getsalt-sh-g1jqn",
+    "description": "GetSalt.sh lets you mine, register, and deploy cross-chain vanity smart contract addresses.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cryptoon",
+    "slug": "cryptoon-6caus",
+    "description": "Web3 comic reader with zero-commission payments powered by x402, AgentKit & CDP Embedded Wallet",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ProaqctiveMM",
+    "slug": "proaqctivemm-f0y6v",
+    "description": "We have build a Proctive Auto Market Maker using 1inch Aqua, SwapVM and Pyth oracle",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "OmniLotto",
+    "slug": "omnilotto-r1d92",
+    "description": "The first cross-chain no-loss lottery unlocking Bitcoin and XRP capital for gamified savings.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2ugg8",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "bondd",
+    "slug": "bondd-a3eow",
+    "description": "BONDD tokenizes real-world connections to track relationship health and social capital.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "tradeOS",
+    "slug": "tradeos-c37pt",
+    "description": "Trade simulated tokens. Levels, PnL tracking, trading rules, and a price-simulation engine.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TollRoad Music",
+    "slug": "tollroad-music-oe20k",
+    "description": "Pay as you stream for independent artists and labels using x402 and Filecoin --- direct to consumer",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shadow Guardians",
+    "slug": "shadow-guardians-8obhq",
+    "description": "Wallets can be recovered privately using a 2-of-N guardian system, keeping participant's privacy",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Perpmarkets",
+    "slug": "perpmarkets-as2ap",
+    "description": "Perpetuals on top of prediction markets. Leverage on your positions !",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5wcw4",
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "MeetPoint",
+    "slug": "meetpoint-5uzn0",
+    "description": "Privacy-preserving calendar matching app -allows users to identify mutual events in a private manner",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ALA",
+    "slug": "ala-nxpw2",
+    "description": "Crowdsourced Market Maker built by global data scientists to optimize on-chain liquidity.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "StakeSocial",
+    "slug": "stakesocial-ocvgt",
+    "description": "Prediction Markets and Betting for Friends right in a group chat!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SYNCRO",
+    "slug": "syncro-ar5xv",
+    "description": "Smart subscriptions with cross-chain payments, credit card funding, and reminders.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Delulu",
+    "slug": "delulu-ks1tv",
+    "description": "Delulu: The on-chain betting market on personal goals, powered by Celo and Farcaster.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Alpha",
+    "slug": "proof-of-alpha-4us8v",
+    "description": "Social paper trading game on Celo powered by Pyth price feeds and cross-chain Hyperlane entropy",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "eil-rs",
+    "slug": "eil-rs-hfqp9",
+    "description": "It is a rewrite of the eil-sdk(typescript) in rust to enable use of the EIL in rust programs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlightStakeFi",
+    "slug": "flightstakefi-5f850",
+    "description": "World's first DeFi protocol for air travel, unlocking your airtickets for DeFi capabilities.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The CBG",
+    "slug": "the-cbg-snfgh",
+    "description": "The CBG: Press button, reset timer, win prize. Blockchain game on Celo.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Private FHE Intents",
+    "slug": "private-fhe-intents-4hrso",
+    "description": "We Solved The $700M MEV Problem Using Math That Breaks Wall Street's Playbook",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "StreamIt",
+    "slug": "streamit-tjdwg",
+    "description": "StreamIt is a full-stack Web3 live streaming platform that rewards creators instantly",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Game-Stake",
+    "slug": "game-stake-1w14g",
+    "description": "4. A lightweight shooter game integrated with on-chain staking and instant player stats.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Fulcrum",
+    "slug": "fulcrum-5h3ga",
+    "description": "Fulcrum is an autonomous hybrid prediction market built on the Arc Network.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Capsaicin",
+    "slug": "capsaicin-h175h",
+    "description": "Turning Passive Fan Tokens into Active SportsFi Assets & On-Chain Reputation",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Field Hacking Method",
+    "slug": "field-hacking-method-pv50n",
+    "description": "A method applying Steve Blank’s Customer Development by hacking on-site for fast live feedback",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Voltz",
+    "slug": "voltz-8wi7v",
+    "description": "Intelligent event connections using AI-powered verified matching on 0G    Infrastructure",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LensLlama",
+    "slug": "lensllama-7eskb",
+    "description": "Stock photography with instant HTTP payments for humans and AI agents.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alloy",
+    "slug": "alloy-8bje7",
+    "description": "Autonomous AI Agents running in Oasis TEEs that securely control assets on EVM chains via MCP",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Salona",
+    "slug": "salona-8gmgj",
+    "description": "A non-custodial system enabling BTC holders to earn stablecoin yield by selling covered calls.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6162g"
+    ]
+  },
+  {
+    "name": "ALPHA.markets",
+    "slug": "alpha-markets-gojtu",
+    "description": "Agents are coming onchain, and they need alpha. Come monetize your alpha in 2 clicks.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Poorps",
+    "slug": "poorps-jg27k",
+    "description": "A decentralized perpetual futures platform for memecoins featuring 1Inch Aqua and Pyth-powered vAMM",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "neetchat",
+    "slug": "neetchat-gt3tr",
+    "description": "XMTP chat app with @mentions, ENS/Farcaster identity, and wallet-to-wallet messaging",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HiveMind",
+    "slug": "hivemind-ykz6i",
+    "description": "P2P network to share intents of sovereign AI agents based on your local memory.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "b2u1b"
+    ]
+  },
+  {
+    "name": "Void Wallet",
+    "slug": "void-wallet-2xnha",
+    "description": "Privacy-first wallet for confidential, compliant, and cryptographically secure transactions.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ijf8"
+    ]
+  },
+  {
+    "name": "Closet",
+    "slug": "closet-1fp8d",
+    "description": "Your closet, but intelligent. AI wardrobe manager that generates outfits and shops autonomously.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "EVVM-SCANNER",
+    "slug": "evvm-scanner-9gfp8",
+    "description": "A block explorer for EVVM (MATE Metaprotocol) built with Next.js and The Graph's Amp.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Yield Circle",
+    "slug": "yield-circle-ircqn",
+    "description": "Decentralized savings circles with World ID. Fair rotating payouts, yield, zero fraud risk.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "AIMM",
+    "slug": "aimm-ajcan",
+    "description": "AI Agents market making low liquidity/hard to price prediction markets",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g7h9m",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "FidelyCheck",
+    "slug": "fidelycheck-nbai6",
+    "description": "FideliCheck is an incentive program to earn fan tokens and POAPs as they attend physical events.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZilloPoly",
+    "slug": "zillopoly-qthv0",
+    "description": "Gamified housing market predictions. Bet HOBO tokens on real property prices.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0wyck"
+    ]
+  },
+  {
+    "name": "ZKRSS",
+    "slug": "zkrss-6hbvk",
+    "description": "ZKRSS: Verifiable RSS feeds & content provenance using ZK proofs on Aztec.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Raila Circles",
+    "slug": "raila-circles-s5nix",
+    "description": "Use Circles' trust graph to make peer-to-peer uncollateralized lending with relaying",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "wdteq"
+    ]
+  },
+  {
+    "name": "GhostBounties",
+    "slug": "ghostbounties-xh3yt",
+    "description": "ZK-verified GitHub bounties: prove work privately, get paid instantly",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Pasanaku+",
+    "slug": "crypto-pasanaku-g29y3",
+    "description": "Llevamos los pasanakus latinoamericanos a Web3 con ahorros colectivos seguros en blockchain",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenFlow",
+    "slug": "openflow-egiwc",
+    "description": "Pay-per-use AI workflow marketplace. Execute on-demand, verify on Filecoin. npm for AI agents.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shayd",
+    "slug": "shayd-4w0ry",
+    "description": "Privacy-First Leveraged Trading/Yield Generation Platform with Soft Liquidations",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bobasoda",
+    "slug": "bobasoda-7h2k9",
+    "description": "Prediction markets made addictive. Bet on crypto prices, 60-second rounds, instant wallet onboarding",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aqua0",
+    "slug": "aqua0-u2krx",
+    "description": "Mini App for Cross-Chain shared liquidity via Aqua AMMs and LayerZero",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "3zpxc",
+      "if0ri",
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "Internet Proof Vault",
+    "slug": "internet-proof-vault-gdyc4",
+    "description": "A proof vault for verifying and timestamping original content on the internet.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meridian Foundation",
+    "slug": "meridian-foundation-3qkig",
+    "description": "Compliant DeFi access for banks through a secure, yield-earning flatcoin system.”",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Argentinosaurius",
+    "slug": "argentinosaurius-pomcw",
+    "description": "A demo application that help users understand and manage permissioned tokens (ERC3643)",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Realtrack",
+    "slug": "realtrack-f4kyd",
+    "description": "Gasless IoT cold-chain tracking with Filecoin storage + Symbiotic attestations + EVVM.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1",
+      "y3oj0"
+    ]
+  },
+  {
+    "name": "ClaroAave",
+    "slug": "claroaave-iij9r",
+    "description": "Secure enclave parser converting cryptic Aave transactions into clear, signable wallet interfaces.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hs9t7"
+    ]
+  },
+  {
+    "name": "MindGarden",
+    "slug": "mindgarden-zqcv8",
+    "description": "Transform screen time into healing time. Build mental wellness habits through a digital garden.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Complai",
+    "slug": "complai-fw279",
+    "description": "Automate your crypto tax compliance and optimize your returns with smart insights.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y3oj0"
+    ]
+  },
+  {
+    "name": "BaseSplit",
+    "slug": "basesplit-d0mpg",
+    "description": "Instantly split bills. Snap your receipt, divide it between friends, and settle up crypto-natively.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Saving Circles",
+    "slug": "saving-circles-bmgxr",
+    "description": "Onchain saving circles (ROSCAs) with fair VRF draws and liquid positions.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Hedera AI Agents",
+    "slug": "hedera-ai-agents-3cohw",
+    "description": "Plain-English AI chat to send HBAR, create tokens/NFTs, and use Hedera consensus services",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aetheria",
+    "slug": "aetheria-1fsnp",
+    "description": "Cross-chain game: Battle enemies, earn rewards, trade resources on a fully onchain economy",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Entropy Wheel",
+    "slug": "entropy-wheel-5uq0q",
+    "description": "A trustless crypto roulette and daily lottery using Pyth Entropy for verifiable randomness.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "flare public goods",
+    "slug": "flare-public-goods-74bqq",
+    "description": "Funding public goods through DeFi yield on Flare. Deposit stablecoins, generate impact automatically",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Token Strike",
+    "slug": "token-strike-hitrn",
+    "description": "Web3 shooter where your firepower grows with real token deposits.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Vault Sentinel",
+    "slug": "vault-sentinel-zaysu",
+    "description": "BTC-backed safety-first DeFi vault with live risk analytics and liquidation guardrails",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aztec Domain ID",
+    "slug": "aztec-domain-id-ztgp1",
+    "description": "Privacy preserving email identity via Noir: verifies DKIM signatures against DNSSEC roots.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Good Old Wallet",
+    "slug": "good-old-wallet-zsg5j",
+    "description": "A good old wallet from before Ethereum fragmentation, just send tokens, no multichain nonsense.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sk8Habit",
+    "slug": "sk8habit-xv88s",
+    "description": "habit tracker on World, to visualize goals with Pyth integration.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "IRL-Oracle-Protocol",
+    "slug": "irl-oracle-protocol-k7z9b",
+    "description": "“IoT-powered oracle that turns real-world actions into verifiable on-chain proofs.”",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RoninVerse",
+    "slug": "roninverse-tjkki",
+    "description": "Experience AR and WebXR together, with one-time game purchases secured on Ronin.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mate-qr-payments",
+    "slug": "mate-qr-payments-8e7e3",
+    "description": "Gasless QR code payment system powered by EVVM MATE Metaprotocol on Sepolia testnet",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Filify",
+    "slug": "filify-td1aq",
+    "description": "Vercel for the decentralized web. Deploy to Filecoin + ENS. No single point of failure.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bnkyu",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Option chain",
+    "slug": "option-chain-mcbxn",
+    "description": "Permissionless on-chain options protocol with physical settlement",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpendMate",
+    "slug": "spendmate-wmewx",
+    "description": "Zero-code platform to create AI agents that spend safely with rules and limits.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Relay Boost",
+    "slug": "relay-boost-9an6s",
+    "description": "DeFi savings platform democratizing yield for emerging markets via Aave V3 on Celo blockchain",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FinPath",
+    "slug": "finpath-g9q6h",
+    "description": "FinPath: Your gamified path to financial freedom. Unlock worlds from budgeting to DeFi mastery.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Epoch",
+    "slug": "epoch-9gy3s",
+    "description": "Agentic marketplace where agents negotiate and execute trades without human intervention",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "starc",
+    "slug": "starc-fo2d6",
+    "description": "Unifying merchant payment layer. Accepts any stablecoin, settles in a single liquid asset vault.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "Open Paymaster",
+    "slug": "open-paymaster-61jq1",
+    "description": "Decentralized ERC-4337 paymaster enabling cross-chain gasless transactions via liquidity pools.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "Mystic Island",
+    "slug": "mystic-island-0pp48",
+    "description": "Mystic Island: a collaborative AI-powered world where communities create realms and share magic.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Data Context Market",
+    "slug": "data-context-market-02545",
+    "description": "DCM is a Decentralized marketplace to store & monetize datasets. Agents pay via x402.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bnkyu",
+      "tbi2y"
+    ]
+  },
+  {
+    "name": "Bagra Markets",
+    "slug": "bagra-markets-zgkkq",
+    "description": "Trade prediction markets and borrow againts them on-chain, powered by Kalshi.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qiqkw",
+      "pj01t"
+    ]
+  },
+  {
+    "name": "Nostec",
+    "slug": "nostec-2iufp",
+    "description": "Privacy-first social network: Nostr + Aztec ZK proofs keep your followers private.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tanda",
+    "slug": "tanda-zt3es",
+    "description": "Enabling Rotating Savings and Credit Association on-chain with verified credit scoring",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "y3oj0",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ParlayMarket",
+    "slug": "parlaymarket-8ycgv",
+    "description": "Flare-based marketplace and resolver for custom parlays on Polymarket events.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScanGo",
+    "slug": "scango-3jnzf",
+    "description": "Pay instantly! Scan a QR code to settle any purchase using stable digital coins. Simple, fast.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "scale.fun",
+    "slug": "scale-fun-x5nsb",
+    "description": "scale.fun: the on-chain launchpad for datasets, powered by real zk-verified humans",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ipmya"
+    ]
+  },
+  {
+    "name": "LensMint Camera",
+    "slug": "lensmint-camera-yzu6m",
+    "description": "Tamper-proof Web3 camera with ZK authenticity and instant NFT memories for everyone.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "92qx9"
+    ]
+  },
+  {
+    "name": "Sybilization",
+    "slug": "sybilization-fev4e",
+    "description": "Private voting with ZKPassport biometric identity verification on Aztec Network",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fYield",
+    "slug": "fyield-4yqpz",
+    "description": "Cross-chain yield router: earn Aave & Curve yields from FXRP on Flare with anytime withdrawal.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "Arcane - Tachyon",
+    "slug": "arcane-tachyon-2jkhj",
+    "description": "Omnichain vaults for copy trading - your keys, your coins, top trader's signals via secure TEE",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vpq6s"
+    ]
+  },
+  {
+    "name": "POOP",
+    "slug": "poop-yq8h9",
+    "description": "Proof of Onboarding Protocol: Send crypto gifts via email with human verification",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniCredit",
+    "slug": "omnicredit-7gvea",
+    "description": "Cross-chain lending with reputation-based credit scoring. Deposit on one chain, borrow on another.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayPunk",
+    "slug": "paypunk-7jnt9",
+    "description": "PayPunk: Buy real goods with crypto. No Visa. ZK proofs verify delivery. Cross-chain magic. 💳🤘",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Fluid Yield",
+    "slug": "fluid-yield-j4036",
+    "description": "AI yield aggregator on Flare using FTSO and FAssets for quick multi-step DeFi strategies",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Splitfare",
+    "slug": "splitfare-z2191",
+    "description": "Split bills with friends, settle instantly with USDC across any chain via Avail Nexus",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "Steroid",
+    "slug": "steroid-5spsb",
+    "description": "A fully transparent, on-chain economic timing game built with smart-contract-enforced fairness.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agentrade",
+    "slug": "agentrade-hpjns",
+    "description": "Agentrade Name your agent it trades forever: gasless 1inch swaps on Pyth triggers via Privy sessions",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "402xFlip",
+    "slug": "402xflip-w7zo5",
+    "description": "AI agents that shop for you. Any product, anytime, right from iMessage.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Social Pot",
+    "slug": "the-social-pot-657ot",
+    "description": "DeFi lottery with daily Pyth Entropy drawings and 10-year monthly vesting payouts.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "Yoga",
+    "slug": "yoga-up5v4",
+    "description": "An improved position manager that allows for arbitrary liquidity distribution",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qk38m"
+    ]
+  },
+  {
+    "name": "Payflow",
+    "slug": "payflow-theoq",
+    "description": "x402 agent that manages onchain subscriptions with autopay, autocancel, and cross-chain balance.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HyperAgent",
+    "slug": "hyperagent-mzvri",
+    "description": "Onboarding the first 1 billion AI Agents: The ERC-8004 compliant smart contract protocol",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "tanly.app",
+    "slug": "tanly-app-dzvxr",
+    "description": "Launch Pools: Fund projects, get shares, win prizes. Crowdfunding + fair draws.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "SusBot",
+    "slug": "susbot-5ztr8",
+    "description": "Social deduction (impostor) game bot for XMTP group chats with mobile-first interactive voting",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rampagent",
+    "slug": "rampagent-bsx1i",
+    "description": "Run agents like a unicorn team. Rampagents gives you x402 observability, spend control and structure",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tenback",
+    "slug": "tenback-o5rt6",
+    "description": "Deterministic micro-lottery: every 10th player wins the pot. Powered by x402 micropayments on Base.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Neon Payments",
+    "slug": "neon-payments-2bn0o",
+    "description": "Payment MiniApp bridging Mercado Pago fiat to Celo blockchain via embedded wallets.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GITHUNDER",
+    "slug": "githunder-7rn9f",
+    "description": "GITHUNDER puts bounties directly on GitHub issues. Code where you work, get paid for what you fix.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Redfish",
+    "slug": "redfish-v4g9r",
+    "description": "Using zero knowledge machine learning and zktls to create trustless anomaly detection",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "92qx9"
+    ]
+  },
+  {
+    "name": "AntiSandwich Hook",
+    "slug": "antisandwich-hook-hspt2",
+    "description": "Dynamic quadratic fees that predict sandwich risk using pre-swap deltaTick analysis.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MesaCompartida",
+    "slug": "mesacompartida-i2suy",
+    "description": "Buy a meal voucher in Paris. Feed someone in Bogotá. That's Mesa Compartida.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "px402",
+    "slug": "px402-i7jbv",
+    "description": "privacy preserving x402 paymentsprivacy preserving x402 payments",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "QuantumBet",
+    "slug": "quantumbet-0jehj",
+    "description": "Provably fair casino powered by Oasis ROFL - where even the house can't cheat. Luck meets proof.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nydus",
+    "slug": "nydus-ky1fr",
+    "description": "Privacy payment network to send / receive privately. Featuring Self, Ens and Oasis for better UX",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Daiana",
+    "slug": "daiana-6f8xt",
+    "description": "AI Sidekick for DAOs 🦸 🤖 Building better coordination tools one meme at a time",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwarmSecurity",
+    "slug": "swarmsecurity-qasg1",
+    "description": "Multi-persona Solidity auditor using routed LLM swarm, consensus scoring & code-snippets.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "triple orange",
+    "slug": "triple-orange-vb53f",
+    "description": "No-loss. Play daily, win up to 3x per week. Yield funds prizes. Your principal stays safe",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0wyck"
+    ]
+  },
+  {
+    "name": "Stableflow",
+    "slug": "stableflow-no9is",
+    "description": "Unified liquidity across all chains—bridged invisibly, accessed instantly.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BridJet",
+    "slug": "bridjet-3uho6",
+    "description": "Build once, run across all blockchains with a simple off-chain adaptive layer.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HumanPay",
+    "slug": "humanpay-920d6",
+    "description": "HumanPay is a marketplace for API, AI agents, and applications in pay-as-you-go format",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "vamos.fun",
+    "slug": "vamos-fun-1pg6q",
+    "description": "Permissionless prediction markets for any event — create bets, pick a judge, get trustless payouts.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "StreamFlow",
+    "slug": "streamflow-6fko8",
+    "description": "Decentralized marketplace where agents pay per‑inference for APIs using x402.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fragment",
+    "slug": "fragment-kkrg4",
+    "description": "Get paid to run AI tasks on your Mac. Set it, forget it, earn automatically.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "FanForge",
+    "slug": "fanforge-9wuuu",
+    "description": "Sports prediction game using card collectibles. Collect cards, predict match outcomes, earn rewards!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pj01t"
+    ]
+  },
+  {
+    "name": "FlowVVM",
+    "slug": "flowvvm-nfugm",
+    "description": "Transforming the arbitrage flow into the energy that powers an EVVM",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "All AI Hub",
+    "slug": "all-ai-hub-xze5d",
+    "description": "AI agent matching infra with x402 payments — safe, instant access to agents with seamless billing.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Body doubling App",
+    "slug": "body-doubling-app-55f3u",
+    "description": "A cooperative focus app that uses staking & reputation to incentivize helping others focus/learning",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrediX",
+    "slug": "predix-ar40r",
+    "description": "Prediction market powered by AI analytics and news aggregator with tinder based UI.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pj01t"
+    ]
+  },
+  {
+    "name": "zk-fluence",
+    "slug": "zk-fluence-thdgr",
+    "description": "Web3 Establishes the trust layer for Web3 creators using zero-knowledge",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Orbuccino",
+    "slug": "orbuccino-1cjy9",
+    "description": "Orbuccino is the easiest way to support creators and anyone on the world",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Amplify",
+    "slug": "amplify-rugtu",
+    "description": "Deploy contracts, query with SQL, and visualize data with interactive charts",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Eth2Aztec-Bridge",
+    "slug": "eth2aztec-bridge-4jrv8",
+    "description": "Mint USDC on Sepolia and bridge to Aztec Obsidian—fast, private, simple.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NeoSaga",
+    "slug": "neosaga-f5jd1",
+    "description": "One platform for AR and WebXR games, each unlocked with a simple one-time fee.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "TrustMeBro",
+    "slug": "trustmebro-bq60y",
+    "description": "Visual Sign to decode complex transactions into user readable actions secured by TEEs",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hs9t7"
+    ]
+  },
+  {
+    "name": "Hygiea MedGuard",
+    "slug": "hygiea-medguard-4usvz",
+    "description": "Blockchain medical records system with end-to-end encryption using Oasis Sapphire.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Base Carbon Meter",
+    "slug": "base-carbon-meter-04dd8",
+    "description": "DePIN climate MRV: hardware + AI + Base turns real energy into verified carbon tokens.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mortpool",
+    "slug": "mortpool-qcsec",
+    "description": "Decentralized mortgage protocol with rates up to 40% lower than banks through P2P liquidity pools.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xSlither",
+    "slug": "0xslither-vpsc5",
+    "description": "Multiplayer snake game with blockchain staking, provably fair randomness, and on-chain leaderboards",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xy3ks",
+      "b2u1b",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "Ros - Research OS",
+    "slug": "ros-research-os-of1ea",
+    "description": "A decentralized node-based research management and collaboration system",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agents of Catan",
+    "slug": "agents-of-catan-da7g7",
+    "description": "> \"Catan is sooo 2000. We made it Agentic, On-Chain, and Degen.\"",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Hedera Pay",
+    "slug": "hedera-pay-d7fvh",
+    "description": "Hedera Pay - Hedera plugin for gasless, fee-free on-chain payments for apps and merchants",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gatm1"
+    ]
+  },
+  {
+    "name": "DAOscope",
+    "slug": "daoscope-oym6i",
+    "description": "Real-time governance insights and AI-powered analysis for major Ethereum DAOs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P.A.T",
+    "slug": "p-a-t-s0c42",
+    "description": "Proprietary Automated Market Maker launchpad built on top of Uniswap V4 using TEEs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "1ijf8",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "H",
+    "slug": "h-pky8r",
+    "description": "A human-verified social network designed to safeguard humans in the Intelligence Age.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "BMCP",
+    "slug": "bmcp-pfm11",
+    "description": "From Taproot to Uniswap: Sign on Bitcoin, trade on Polygon. Hybrid relayer, zero trust bridges",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "0wyck",
+      "f8ku2",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Linda",
+    "slug": "linda-svad9",
+    "description": "Linda is a private and human first location-based social app that connects friends.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1ijf8",
+      "ipmya"
+    ]
+  },
+  {
+    "name": "Ramelax",
+    "slug": "ramelax-04jjd",
+    "description": "Platform for investing in Argentina's equity market via tokenization",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Paena",
+    "slug": "paena-4wg84",
+    "description": "On chain earned wage access app giving workers instant low fee advances on their wages",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Checkpoint",
+    "slug": "checkpoint-ieqp7",
+    "description": "Visit local businesses, complete challenges, and earn on-chain rewards.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xy3ks"
+    ]
+  },
+  {
+    "name": "Clink",
+    "slug": "clink-5fud6",
+    "description": "The onchain “Jar”: instant, gasless fundraising for real-world emergencies.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EtherCast",
+    "slug": "ethercast-qyyg1",
+    "description": "cast affirmations upon the infinite ledger, allowing quantum fluctuations to shape reality",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Wifi-Radar",
+    "slug": "wifi-radar-jsqac",
+    "description": "Check and verify WiFi speed and availability on a community map with blockchain-verified locations",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Consensus Neotrace",
+    "slug": "consensus-neotrace-283rc",
+    "description": "Automated generation of cross-client test vectors via non-intrusive spec tracing",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GEOBEAT.xyz",
+    "slug": "geobeat-xyz-p5a4j",
+    "description": "A real-time geographic observatory + index for decentralized networks",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Actually",
+    "slug": "actually-8t8sm",
+    "description": "This project demonstrates a two-way cross-chain handshake b/w two smart contracts.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ronda",
+    "slug": "ronda-7ck82",
+    "description": "Collective crypto savings via weekly ROSCAs in Farcaster mini-app.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "ipmya"
+    ]
+  },
+  {
+    "name": "EVVM Tx Analyzer",
+    "slug": "evvm-tx-analyzer-otc07",
+    "description": "AI powered EVVM transaction analyzer that explains complex EVM in EVM transactions in plain English.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Snap Saver",
+    "slug": "snap-saver-x2tx6",
+    "description": "Transaction insights powered by VisualSign and ERC-7730 for safer transaction verification",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hs9t7",
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Quali",
+    "slug": "quali-7agh9",
+    "description": "Bot-proof opinion poll market for A/B testing of design, branding, ads, copy etc.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "UberProtocol",
+    "slug": "uberprotocol-5sivm",
+    "description": "Solving AI agent fragmentation with an unified agent economy protocol",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prisma Wallet",
+    "slug": "prisma-wallet-ti6uz",
+    "description": "Passkey-powered cross-chain mobile wallet with unified balances & ENS subnames.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Juego Quest",
+    "slug": "juego-quest-i67n8",
+    "description": "An onchain educational game, AI personal teacher rewards you with  $LEARN tokens and NFTs",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ob9r"
+    ]
+  },
+  {
+    "name": "iWitness",
+    "slug": "iwitness-cyo18",
+    "description": "Combating AI fakes with hardware-attested stereo depth. A cryptographic Proof-of-IRL primitive.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Vaquita",
+    "slug": "vaquita-2kwmr",
+    "description": "Vaquita helps you cultivate the habit of saving in a fun way.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reputar AI",
+    "slug": "reputar-ai-sfhuj",
+    "description": "Reputar AI: Decentralized identity and reputation for autonomous AI agents.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gatm1"
+    ]
+  },
+  {
+    "name": "MyIP",
+    "slug": "myip-smp1n",
+    "description": "A music IP security layer as an aditional proof of creation for IRL disputes over copyright",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Orai",
+    "slug": "orai-si0bc",
+    "description": "On-demand true data generating AI Oracle for everyone and every smart contract",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Seed Vault",
+    "slug": "seed-vault-0mbka",
+    "description": "AI-powered investment vault with privacy-preserving identity verification.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Emerald DA",
+    "slug": "emerald-da-eccun",
+    "description": "Stake‑backed data availability for decentralized imageboards",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y3oj0"
+    ]
+  },
+  {
+    "name": "x402-Guardrails",
+    "slug": "x402-guardrails-7bvma",
+    "description": "x402 payment guards with spending limits, endpoint whitelisting & cross-chain USDC bridging via Base",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onchain Pal",
+    "slug": "onchain-pal-8qhin",
+    "description": "onchain ai pal in a voxel world; ownable, tradable, token-miners, game-players, fully autonomous",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1ob9r",
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "aZKey",
+    "slug": "azkey-n0xfb",
+    "description": "Privacy layer to enable the use of web2 social login as Google login with privacy",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "agegate",
+    "slug": "agegate-6s5oy",
+    "description": "Universal age verification using passport + zero-knowledge proofs - verify once, access everywhere",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GTA 5 ON CHAIN",
+    "slug": "gta-5-on-chain-8ediw",
+    "description": "Syncing GTA V mods with blockchain to power missions, items, and events through on-chain txs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SharkTank",
+    "slug": "sharktank-2zeyi",
+    "description": "AI powered app to judge the projects for investors to see fit",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Agentic Internet",
+    "slug": "the-agentic-internet-0kj49",
+    "description": "Research papers become AI agents that debate claims and record settlement on Hedera blockchain.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Melatonine",
+    "slug": "melatonine-ee79b",
+    "description": "Melatonine: uniswap v4 pools where JIT liquidity provisions don't earn fees",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "x402-utils",
+    "slug": "x402-utils-fsxv4",
+    "description": "A blockchain-based pay-per-execution service implementing the **x402 protocol** for micro utils.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Pagga",
+    "slug": "pagga-b0szs",
+    "description": "AI agent credit marketplace: RFQ + auctions on 402 with Aqua shared liquidity for capital efficiency",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Battle Space",
+    "slug": "battle-space-gby9g",
+    "description": "Decentralized 4X space strategy with simultaneous turns and persistent universe",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilAI",
+    "slug": "filai-4bhzq",
+    "description": "FilAI is an AI-Powered platform that verifies dataset  through advanced AI analysis, anomaly detecti",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EVVM Ghost Kitchen",
+    "slug": "evvm-ghost-kitchen-m8ghg",
+    "description": "Mobile-first Ghost Kitchen dApp powered by EVVM virtual payments and signatures.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ketchup",
+    "slug": "ketchup-5cige",
+    "description": "DeFi Risk Oracle that evaluates stables and vaults using off-chain data and CRE-powered risk models",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProverX",
+    "slug": "proverx-08dyp",
+    "description": "ProverX connects AI agents to on-demand ZK proofs, giving them a fast, reliable proving service.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "ya99k"
+    ]
+  },
+  {
+    "name": "Protocol Banks",
+    "slug": "protocol-banks-xe1xa",
+    "description": "Enterprise bulk payment and supplier management system - Supplier Wallet Tagging Management System",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZenDen",
+    "slug": "zenden-jg5ax",
+    "description": "Generate personalized meditations on-demand straight from your Farcaster client for $0.01 USDC.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Octaave",
+    "slug": "octaave-r5fop",
+    "description": "Loan management and risk analysis tool powered by the Octav API",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BetterEthProofs",
+    "slug": "betterethproofs-2byhh",
+    "description": "Improved visualization of EthProofs Website with pie charts and filters!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shines",
+    "slug": "shines-szyos",
+    "description": "AI marketing agent with verified influencer data, connecting projects to real users.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Houdini",
+    "slug": "houdini-e1rrj",
+    "description": "Houdini brings the llms.txt standard on-chain via 0g storage, making wallets readable for AI.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GenArchitect",
+    "slug": "genarchitect-pygq1",
+    "description": "AI-powered assistant that automates architecture reviews and compliance checks.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jarvis",
+    "slug": "jarvis-mcgk0",
+    "description": "x402 to pay or buy any service, request an uber from chatgpt or any other agent",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "KeyForge",
+    "slug": "keyforge-hiozu",
+    "description": "KeyForge: customizable multi-factor authentication secured by zero-knowledge proofs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SatisProof",
+    "slug": "satisproof-e3ykn",
+    "description": "Gamified anonymous event reviews with non-transferable tokens rewarding real attendee feedback.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FanTicket",
+    "slug": "fanticket-mna7s",
+    "description": "App to reserve seats for a sports event by staking Fan Tokens using the Chiliz L1 blockchain.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "May I?",
+    "slug": "may-i-me4xw",
+    "description": "Unlock IRL and onchain perks with Farcaster, but only if you are eligible for them (self could help)",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liquium",
+    "slug": "liquium-31295",
+    "description": "Invite liquidity from all chains onto yours, through incentivized LP programs",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "FederatedLearningPOC",
+    "slug": "federatedlearningpoc-v3kmu",
+    "description": "Trustless federated learning audit trail: verify ML training integrity on-chain",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperFan",
+    "slug": "superfan-iw4b9",
+    "description": "SuperFan is the dApp that rewards real fans for real actions—verified, gamified, and on-chain!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Womansplain",
+    "slug": "womansplain-pzpy0",
+    "description": "Verified women give advice. Men get honest feedback. Everyone wins onchain.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "deFilePlace",
+    "slug": "defileplace-0pfsw",
+    "description": "A decentralized marketplace for buying and selling encrypted files with conditional access control.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bnkyu"
+    ]
+  },
+  {
+    "name": "Qora",
+    "slug": "qora-8dp0x",
+    "description": "Smart suppliers payment and management solutions for small businesses.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Incendia Auction v2",
+    "slug": "incendia-auction-v2-mecrm",
+    "description": "A fully on-chain, anonymous auction protocol using Proof-of-Burn and zk-SNARKs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "UnllooRepayPredictor",
+    "slug": "unlloorepaypredictor-bsbzy",
+    "description": "Under-collateralized loans, backed by reputation, leveraging prediction markets",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chaos LP",
+    "slug": "chaos-lp-30jxo",
+    "description": "Chaos LP — MEV-resistant Uniswap v4 liquidity using Pyth Price Feeds + Entropy randomness",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Collaterize HedgePay",
+    "slug": "collaterize-hedgepay-2ygpq",
+    "description": "BTC-backed lending using Rootstock: collateralize BTC, borrow stablecoins trustlessly.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "SOS Wallet",
+    "slug": "sos-wallet-n0417",
+    "description": "SOS wallet – Decentralized Wallet with SMS + Blockchain Transfers",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Mopro RISC0 Flutter",
+    "slug": "mopro-risc0-flutter-xtab1",
+    "description": "Mopro R1CS0 template with flutter bindings that is generated by Mopro CLI.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Open IO",
+    "slug": "open-io-46j0o",
+    "description": "Indistinguishabiity Obfuscation Coprocessor and IDE for all your privacy needs",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agentica",
+    "slug": "agentica-30neq",
+    "description": "AI buddy that trades for you based on the strategy you pick and world news so you never miss a move.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "WPAgent",
+    "slug": "wpagent-u0njo",
+    "description": "WordPress plugin agent where creators monetize content via AI discovery with crypto  payments",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "SlitherMoney",
+    "slug": "slithermoney-85pci",
+    "description": "2 snakes, 1 winner. Both players stake crypto. Be the best snake to win the full pot.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "2ugg8",
+      "ya99k",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "Ensura",
+    "slug": "ensura-vdt8a",
+    "description": "AI-powered insurance on Flare. 0G quotes and compute + WorldID Verification + P2P underwriting 🔥🛡️",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Agent Command Center",
+    "slug": "agent-command-center-c0rb1",
+    "description": "Command dashboard for AI agents with ephemeral DeFi wallets, monitoring, and strict control.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Galactic Kitties",
+    "slug": "galactic-kitties-heoyb",
+    "description": "Omnichain NFTs bridged via LayerZero with decentralized Filecoin storage & metadata",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wolfy",
+    "slug": "wolfy-r87tb",
+    "description": "The ultimate smart wallet built for real life: EIP-7702, NFC-ready, FireFly / ArxHalo / CRE",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qk38m",
+      "qiqkw",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "GlobalPhone",
+    "slug": "globalphone-isaok",
+    "description": "x402 and mini-app where anyone can call you directly on your phone, at a price you control.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "YayNay",
+    "slug": "yaynay-aoq74",
+    "description": "The first trustless creator coin treasury (disguised as a dating app)",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Animetlik",
+    "slug": "animetlik-aiyj0",
+    "description": "Web3 platform for manga/manhwa & fanfic creators: fair subscriptions, instant on-chain payouts.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cyra",
+    "slug": "cyra-e8eb9",
+    "description": "Your cycle is sacred. So is your data. Cyra plans your life privately and intuitively.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Pension-Kit",
+    "slug": "pension-kit-xhahf",
+    "description": "Privacy-preserving Pension (and UBI) distribution kit for sovereign nations.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PRODUCTOOLING",
+    "slug": "productooling-ub6mp",
+    "description": "AI-driven feedback hub where brands and users come together to improve products with real feedback.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "eepy cat",
+    "slug": "eepy-cat-kqvdi",
+    "description": "Proof of sleep incentive mechanism to promote and reward positive sleeping habits",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5e2gc"
+    ]
+  },
+  {
+    "name": "Impossibl",
+    "slug": "impossibl-tcxy3",
+    "description": "A skill-based dash challenge where the fewest attempts win the pot, solo or with friends.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "ChainFish",
+    "slug": "chainfish-50vfb",
+    "description": "A motion-controlled multiplayer fishing game with ENS-subdomain fishes!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OIS Layer",
+    "slug": "ois-layer-ic9zp",
+    "description": "Trustless omnichain intent settlement with agent competition.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bober River Flow",
+    "slug": "bober-river-flow-wvicj",
+    "description": "Play as a mighty beaver flowing through the river and avoiding logs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lunacia Dungeon",
+    "slug": "lunacia-dungeon-pikuo",
+    "description": "runner where every gameplay action feeds real liquidity, and that same liquidity funds credit",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NOMA",
+    "slug": "noma-hysua",
+    "description": "NOMA is not only tool for experiencing, NOMA are the best company for any nomad at world.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "M I V Y",
+    "slug": "m-i-v-y-9zy3u",
+    "description": "All-in-one: read, support, and publish with full ownership and total privacy.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OneTx",
+    "slug": "onetx-gtqrx",
+    "description": "Universal DeFi router: one-click access to any DeFi instrument across chains via Global IDs",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "x3xey"
+    ]
+  },
+  {
+    "name": "Citadel Protocol",
+    "slug": "citadel-protocol-h2we4",
+    "description": "BTC-backed CDP protocol using Babylon's Trustless Vault with dynamic risk management",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hoomanify",
+    "slug": "hoomanify-kfcdq",
+    "description": "Human-readable transaction signing with ERC-7730 descriptors and Ledger hardware wallet integration",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5e2gc",
+      "q7a12"
+    ]
+  },
+  {
+    "name": "WealthStable",
+    "slug": "wealthstable-v03ey",
+    "description": "Oversimplified stablecoin wallet. Automatically generate yield. 1-click any action.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwagSwap",
+    "slug": "swagswap-nvpz7",
+    "description": "A Web3 marketplace for trading hackathon swag with World ID verification and x402 micropayments",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "buenoprojeto",
+    "slug": "buenoprojeto-tq473",
+    "description": "Group-chat crypto betting using XMTP with real-time Pyth price feeds & entropy.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TellTide",
+    "slug": "telltide-pn57d",
+    "description": "Build meta-event signals that help agents and users react early to real signals",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mini-app-bubble",
+    "slug": "mini-app-bubble-t3gi7",
+    "description": "Sybil-resistant social wallet: World ID, Safe wallet, and XMTP chat in one mini app.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quantum Safe",
+    "slug": "quantum-safe-ca44q",
+    "description": "Post Quantum Secure Hardware Wallet. Falcon-512 signatures on STM32",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Points widget",
+    "slug": "points-widget-xfhxz",
+    "description": "Crypto portfolio widget for tracking assets and valuing early-stage project points.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liquidation Ckt Brkr",
+    "slug": "liquidation-ckt-brkr-yn7ny",
+    "description": "Progressive Liquidation Storm Protection for  ANY Lending Protocol and other DeFi",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ggpyp",
+      "qiqkw",
+      "0wyck"
+    ]
+  },
+  {
+    "name": "Aztec Semaphore",
+    "slug": "aztec-semaphore-9p80j",
+    "description": "Implementation of the well-known Semaphore protocol on the Aztec Network!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "Inner Circles",
+    "slug": "inner-circles-ctqzm",
+    "description": "Trust lending protocol for communities. No collateral, just social proof.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "wdteq"
+    ]
+  },
+  {
+    "name": "Zircuit ERC7702",
+    "slug": "zircuit-erc7702-on3qd",
+    "description": "Privilege de-escalation EIP7702 enforced by a master EOA with updatable on-chain policies",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DobXHooks",
+    "slug": "dobxhooks-yyimq",
+    "description": "Uniswap v4 hooks that turn RWA revenue into live, liquid assets.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "I.D.I.O.T. Protocol",
+    "slug": "i-d-i-o-t-protocol-hdfxm",
+    "description": "A machine economy built on agents and the x402 for the Internet of things.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "The Wolf of Web3",
+    "slug": "the-wolf-of-web3-5vpc3",
+    "description": "AI‑guided, cross‑chain investing powered by Circle Smart Wallets and personalized strategies.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "x3xey"
+    ]
+  },
+  {
+    "name": "The Agent-tina",
+    "slug": "the-agent-tina-863br",
+    "description": "AI-powered Solidity auditor that scans repos and detects vulnerabilities automatically",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cuyfi",
+    "slug": "cuyfi-10i3v",
+    "description": "Your automated stablecoin yield agent — send, earn, and optimize instantly crosschain.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "pnm",
+    "slug": "pnm-w9vhk",
+    "description": "offline-first hardware-backed payments over NFC. tap to pay via android keystore p-256 signatures.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "gt566"
+    ]
+  },
+  {
+    "name": "Spasm for hackathons",
+    "slug": "spasm-for-hackathons-nnf8d",
+    "description": "Fully agnostic solution for forums and hackathons based on direct signing of all events",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniSD",
+    "slug": "unisd-au1uq",
+    "description": "Uniswap v4 stablecoin omnipool: LP once and earn from every whitelisted stable-stable pair.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenScan",
+    "slug": "openscan-zfrv5",
+    "description": "A trustless, open source, standalone web-app blockchain explorer for Ethereum networks",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeForms",
+    "slug": "deforms-eanpp",
+    "description": "Deforms is a decentralized form application alternative to Google Forms",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HPayroll",
+    "slug": "hpayroll-urg9e",
+    "description": "Hedera Payroll turns salary into financial wellness with financial education.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VoicesForTodos",
+    "slug": "voicesfortodos-f5r8w",
+    "description": "Donate to Africa via Celo and leave your message on a global on-chain billboard.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rollback Hook",
+    "slug": "rollback-hook-4kkcx",
+    "description": "Rollback Hook lets prediction market LP's undo the past hour of trades to limit sudden price swings",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Blob",
+    "slug": "the-blob-ci786",
+    "description": "The Blob is the first autonomous CEO that hires people to grow the ecosystem.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ob9r"
+    ]
+  },
+  {
+    "name": "V4ULT",
+    "slug": "v4ult-mf4y9",
+    "description": "DeFi mini-app simplifies the process of liquidity provisioning on Uniswap",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FreeFi",
+    "slug": "freefi-9rjab",
+    "description": "Free FI is a cross chain DeFi yield optimizer powered by Avail Nexus automated.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "Reach",
+    "slug": "reach-tmdyy",
+    "description": "Turn your social engagement into real-time Bitcoin yield streams. SocialFi meets DeFi",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Neighborhood Moms",
+    "slug": "neighborhood-moms-a1346",
+    "description": "Connects mothers from the same neighborhood. Uses World ID for secure identification.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "HappyHODLers",
+    "slug": "happyhodlers-josjx",
+    "description": "This AI agent utilizes Pyth Price Feeds, integrates Pyth Entropy, and enhances the outcomes",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OkayOkayOkay",
+    "slug": "okayokayokay-043ic",
+    "description": "A dispute resolution platform for x402 payments giving consumers the power of recourse.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Polycourt - AI judge",
+    "slug": "polycourt-ai-judge-0oh31",
+    "description": "Trustless AI dispute resolution. Cryptographically verifiable for a sovereign internet.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JetLagged",
+    "slug": "jetlagged-kt8i0",
+    "description": "Turn your travel anxiety into profit. Bet on flight delays and cancellations.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Savelo",
+    "slug": "savelo-epjfi",
+    "description": "Decentralized savings using behavioral nudges and blockchain to build lasting saving habits daily.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "World Voice",
+    "slug": "world-voice-4zwwy",
+    "description": "We built a podcast mini-app with tipping features inside the World App",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Scholar-Fi",
+    "slug": "scholar-fi-v3vmd",
+    "description": "Building your child's financial freedom with total data privacy.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DegenAdvisors",
+    "slug": "degenadvisors-giszy",
+    "description": "Coordinated agents that can be prompted to manage wallets, index and request market data.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Thunder.finance",
+    "slug": "thunder-finance-xf1ku",
+    "description": "Thunder.Finance is a mixer that incentives Privacy paying yields",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Project Coin Blocker",
+    "slug": "project-coin-blocker-fzvqv",
+    "description": "just testing uniswap hooks, with a way for project owners to restrict swaps on their token",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SplitChain",
+    "slug": "splitchain-z28m3",
+    "description": "Split bills & settle instantly onchain with friends. Web3-powered expense sharing made simple.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "oneSig",
+    "slug": "onesig-6wdvo",
+    "description": "Turn any crypto into USDC on any chain with one tap. Dodge liquidations instantly. Powered by EIL.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TravelScript",
+    "slug": "travelscript-1bm9r",
+    "description": "Need a controlled medication in any country? No problem TravelScript has you covered.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gatm1"
+    ]
+  },
+  {
+    "name": "GasStation",
+    "slug": "gasstation-2j6g2",
+    "description": "Deposit funds on one chain, receive gas on multiple chains at once.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5e2gc",
+      "910t9"
+    ]
+  },
+  {
+    "name": "payload.exchange",
+    "slug": "payload-exchange-x07pi",
+    "description": "Accept anything as payment! x402 proxy where sponsors pay for user access in exchange for actions",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3",
+      "rpi4f",
+      "92qx9"
+    ]
+  },
+  {
+    "name": "LEXI",
+    "slug": "lexi-oehgx",
+    "description": "Practice conversations with verified native language speakers!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ZawyaX",
+    "slug": "zawyax-4m8bd",
+    "description": "ZawyaX is a comprehensive decentralized community platform that empowers freelancers, developers",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aqua-flash-loans",
+    "slug": "aqua-flash-loans-egocw",
+    "description": "Gas-Optimized Flash Loans on Aqua Protocol. More tokens for lenders. More yeild for LPs!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Private Deals",
+    "slug": "private-deals-rqdm8",
+    "description": "Privacy pools for institutional liquidity providers w/ 1inch Aqua & Aztec",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "AI_BerkshireHathaway",
+    "slug": "ai-berkshirehathaway-1h7hr",
+    "description": "AI Berkshire Hathaway — an AI-managed, community-powered investment system for multi-chain.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "nocturne",
+    "slug": "nocturne-zcney",
+    "description": "Nocturne enables cross-chain trading of RWA tokens while keeping your holdings private.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Subscription3",
+    "slug": "subscription3-ueyvg",
+    "description": "A private, automated way to subscribe to Spotify, Netflix, OnlyFans and more with crypto.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omni402",
+    "slug": "omni402-dvpjd",
+    "description": "Pay x402 from any chain, any token. Settle instantly in USDC on Base",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "Orbswap Prediction",
+    "slug": "orbswap-prediction-hyxb2",
+    "description": "Uniswap v4 pm-AMM hook for an asymmetric LP payoff to simulate prediction markets.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "SOS NOT SUS",
+    "slug": "sos-not-sus-3b5on",
+    "description": "One-click escape: Move all your crypto across all chains to safety when your wallet is compromised",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qiqkw"
+    ]
+  },
+  {
+    "name": "BIP -Build in Public",
+    "slug": "bip-build-in-public-yyeuw",
+    "description": "Turn your dev work into engaging tweets. Build in public, effortlessly.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "REIL",
+    "slug": "reil-v8bq8",
+    "description": "Cross-Chain AAVE Rebalancer Powered by Ethereum Interop Layer",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "362vt"
+    ]
+  },
+  {
+    "name": "Manhood",
+    "slug": "manhood-avr9w",
+    "description": "Men Supporting Men, an app to learn to be a Man thanks to Steve Biddulph",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ZakoKen",
+    "slug": "zakoken-c1ifj",
+    "description": "A Dynamic Fundraising Stablecoin Protocol for Open-Source Projects",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bleeth",
+    "slug": "bleeth-sw3wf",
+    "description": "Liquidity betting protocol based on vampire attacks as primitive",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "De-concierge",
+    "slug": "de-concierge-7hdgw",
+    "description": "De-concierge: Polygon-powered ledger proving short-term rental availability.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XMTP Mafia",
+    "slug": "xmtp-mafia-kp8ss",
+    "description": "Mafia game bot on XMTP with inline action buttons in group chats with time-based phases.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Paybot",
+    "slug": "paybot-q7grd",
+    "description": "x402 payment gateway for robot rentals. Gasless blockchain payments for physical devices.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "TIMBA LLM EVAL",
+    "slug": "timba-llm-eval-btyue",
+    "description": "Polymarket backtesting and arena of prediction market prompts built by humans.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tbi2y"
+    ]
+  },
+  {
+    "name": "World of Coloring",
+    "slug": "world-of-coloring-ru888",
+    "description": "Turn your child's imagination into printable coloring pages.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Mace Protocol",
+    "slug": "mace-protocol-vuxiv",
+    "description": "Protocol for voting tha tcan be used for any ETH dApp or marketplace",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MultiSub",
+    "slug": "multisub-c1kh4",
+    "description": "Multisub offers curated Multisig enabling day-to-day use with delegation of liquidity management.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qiqkw",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Pothole Patrol",
+    "slug": "pothole-patrol-9v0u8",
+    "description": "Turns smartphones into AI-powered dashcams to crowdsource a map of road infrastructure.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Eureka",
+    "slug": "eureka-t8fxf",
+    "description": "A platform that facilitates patent creation, use and safekeeping in latin america.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Orbital Hook",
+    "slug": "orbital-hook-no27o",
+    "description": "A Uniswap V4 Hook implementing a custom spherical AMM curve for efficient stable asset swaps.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "BrickByBrick",
+    "slug": "brickbybrick-ti4iw",
+    "description": "On-chain real estate construction with milestone-based funding and liquidity.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ORYR",
+    "slug": "oryr-1s6ou",
+    "description": "Auto-rebalance your DeFi portfolio across chains based on real-time risk",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Askme",
+    "slug": "askme-rdku8",
+    "description": "Decentralized ENS field verification with World ID and EAS on Base, using private request flow.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Hedera@World@RootBot",
+    "slug": "hedera-world-rootbot-53oit",
+    "description": "Manage Rootstock, Hedera, and World ID directly from Discord",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "Cortado",
+    "slug": "cortado-xdza9",
+    "description": "Cortado makes the broken eco-certification system financially viable, verifiable, and accessible.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HeirDrop",
+    "slug": "heirdrop-mr01r",
+    "description": "Multi-chain asset succession & recovery for your digital legacy.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ipmya"
+    ]
+  },
+  {
+    "name": "Android dApp Store",
+    "slug": "android-dapp-store-boj7g",
+    "description": "Decentralized Android dApp Store resisting censorship and app takedowns.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Koilen",
+    "slug": "koilen-k8oxr",
+    "description": "Smart cold-chain monitoring with IoT sensors, real-time alerts, and blockchain verification.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "ZkVip",
+    "slug": "zkvip-ydyzy",
+    "description": "Private VIP verification using ZK proofs in World App Mini App",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "SIGILO",
+    "slug": "sigilo-b526k",
+    "description": "Encrypted whistleblowing with EVVM,  zkTLS (VLayer) and ultrasonic offline transmission.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1",
+      "gatm1",
+      "92qx9"
+    ]
+  },
+  {
+    "name": "Assura",
+    "slug": "assura-ovpn7",
+    "description": "A compliance layer enabling developers to easily integrate compliance into smart contracts.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1ijf8"
+    ]
+  },
+  {
+    "name": "ledger-dmk-interop",
+    "slug": "ledger-dmk-interop-bwa58",
+    "description": "Expanded the DMK signer support in ledger with a cosmos signer and viem interop",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "X.com POAP Dispenser",
+    "slug": "x-com-poap-dispenser-15iy9",
+    "description": "Twitter bot validates coded image tweets and lets users log in to claim unique POAP mint links now!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dark Matter Markets",
+    "slug": "dark-matter-markets-b3htk",
+    "description": "Agentic Voting Incentives Market for Hedera. Autonomously earn rewards for your votes.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Price Feed Plugin",
+    "slug": "price-feed-plugin-kd27q",
+    "description": "Chainlink Price Feed Plugin for Hedera enabling AI agents to automate on-chain transactions.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "blockhead.vision",
+    "slug": "blockhead-vision-xz9fg",
+    "description": "Blockhead's crypto portfolio tracker, reimagined with efficient data queries and interactive charts",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DONAU",
+    "slug": "donau-hh2hv",
+    "description": "Decentralized flood insurance for humans living near the river Danube (Donau) with verifiable data",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5e2gc"
+    ]
+  },
+  {
+    "name": "DYNEXA EARNS",
+    "slug": "dynexa-earns-n5y4b",
+    "description": "DYNEXA turns loyalty points into interoperable, liquid, gamified digital rewards on Web3.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "goddid.money",
+    "slug": "goddid-money-zkdrb",
+    "description": "Borrow using your Polymarket track record and get a credit score based on your performance.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "2ugg8",
+      "g7h9m",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Autollet",
+    "slug": "autollet-ezoza",
+    "description": "A decentralized voting dApp using MultiBaas for simplified blockchain interactions via REST APIs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "USDX",
+    "slug": "usdx-nmc4h",
+    "description": "USDX is a yield-generating cross-chain stable coin backed by USDC",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unimagnifier",
+    "slug": "unimagnifier-q9dz9",
+    "description": "Make smarter LP decisions with comprehensive pool analytics and profitability metrics",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qk38m"
+    ]
+  },
+  {
+    "name": "TheLaunderingDilemma",
+    "slug": "thelaunderingdilemma-7nava",
+    "description": "An Agentic Social Experiment • The Prisoner's Dilemma on x402",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gota Gota",
+    "slug": "gota-gota-ouqpf",
+    "description": "On-chain payroll that automates employee salary payments for any company.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SisterSafe",
+    "slug": "sistersafe-ojmec",
+    "description": "Walk home safe. Share your location with verificate users using ZK proofs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Doppelganger",
+    "slug": "doppelganger-qg2v7",
+    "description": "Fighting AI slop with better data. Tokenized Memory Layer for AI Agents",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Predit",
+    "slug": "predit-rvzu6",
+    "description": "Predit is a creator-based platform built to engage communities using on-chain prediction markets",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pj01t"
+    ]
+  },
+  {
+    "name": "1Wave",
+    "slug": "1wave-9ypfs",
+    "description": "Permissionless basket asset vaults Market Maker powered by 1\"Aqua Protocol",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Chiliz-maxxing",
+    "slug": "chiliz-maxxing-tgkpf",
+    "description": "Tip. Earn. Own. A fan-owned streaming platform built on Chiliz",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Juby Passport",
+    "slug": "juby-passport-r9nen",
+    "description": "Juby is the first self-custody retirement Mini App for freelancers.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Yield Lab",
+    "slug": "yield-lab-zj86z",
+    "description": "Smart yield lab for stablecoins. Scan PT/YT, track APY, and find the best Pendle returns.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MirrorME",
+    "slug": "mirrorme-gx7m5",
+    "description": "MirrorMe turns your influence into interaction with an AI version of you.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aqua Outcome Market",
+    "slug": "aqua-outcome-market-0va0j",
+    "description": "Capital Efficient, AMM Enabling Credit Based Market Making For Prediction Markets & Long Tail Assets",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Fluxo",
+    "slug": "fluxo-ad5zh",
+    "description": "Sistema de Pagos blockchain Offline utilizando Redes Mesh, implementado con EVVM, Hedera y Privy..",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1",
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "ArcBeam",
+    "slug": "arcbeam-e0bey",
+    "description": "Send USDC to anyone, anywhere. No native token needed. USDC is all you need!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Zorrito.finance",
+    "slug": "zorrito-finance-hnxvc",
+    "description": "Play → Save → Earn → Protect Patagonia. Gamify saving with a monthly prize draw.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bnkyu"
+    ]
+  },
+  {
+    "name": "ChimiaDAO PoX",
+    "slug": "chimiadao-pox-hw7k3",
+    "description": "Decentralized peer review for experiments with type-specific reputation rewards",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bnkyu",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "IRL score settlin'",
+    "slug": "irl-score-settlin-zbox4",
+    "description": "You assert, Bluesky votes(T/F) Win? 1 JakeToken. Lose? Your pic added to wrong.people.look.like.this",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS Royalty",
+    "slug": "ens-royalty-q54wa",
+    "description": "Turn ENS subdomains into smart affiliate links with automatic onchain payouts.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Simple Bounty",
+    "slug": "simple-bounty-yyjoz",
+    "description": "Censorship-resistant, indexer-free Web3 bounty board on Ethereum. https://simplebounty.eth.link",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "X402R&D",
+    "slug": "x402r-and-d-1k9yg",
+    "description": "x402 R&D — on-chain refunds, disputes & fraud protection for crypto payments.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossRevEngine",
+    "slug": "crossrevengine-2mqi1",
+    "description": "AI-Orchestrated Ghost Liquidity. Teleporting Aqua pools via LayerZero.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FudScan",
+    "slug": "fudscan-77obj",
+    "description": "The AI-powered lie detector for crypto. We scan tokens for \"FUD,\" verify risks with on-chain data.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "digicam",
+    "slug": "digicam-syr3q",
+    "description": "2000s digicam that mints photos onchain using custom SD card firmware",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CircleVault",
+    "slug": "circlevault-os6k9",
+    "description": "Decentralized savings for personal goals & community circles. Your money, your way. Built on Flare.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WrappedGGC",
+    "slug": "wrappedggc-8oq47",
+    "description": "Tokenzied Virtual Asset backed by the Bank Of Ghana, Ghana Gold Coin",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5e2gc"
+    ]
+  },
+  {
+    "name": "SentinelX",
+    "slug": "sentinelx-t5kdm",
+    "description": "This project is a cross chain fraud detection and automatic control.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "vpq6s"
+    ]
+  },
+  {
+    "name": "Previate Esta",
+    "slug": "previate-esta-c9if9",
+    "description": "Pagos cripto baratos, identidad verificada y token 🍆 con beneficios exclusivos.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "Buenos Tickets",
+    "slug": "buenos-tickets-qhh8f",
+    "description": "Fair ticket sales: limited buyers will be randomly selected after the closing time.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "ReviewSync",
+    "slug": "reviewsync-m2vt4",
+    "description": "Import your reviews from one app to another (e.g. Uber to Cabify)! Never start from 0 again!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Heira",
+    "slug": "heira-5odxu",
+    "description": "Automated and permissionless Web3 inheritance management dApp",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mailMIST",
+    "slug": "mailmist-73tuu",
+    "description": "Private USDC transfers to Gmail addresses powered by MIST.cash",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RoadToPro",
+    "slug": "roadtopro-q20m1",
+    "description": "NFT-based athlete ownership and on-chain funding for early-stage footballers on Chiliz.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Santa's Treasury",
+    "slug": "santas-treasury-tkii1",
+    "description": "Santa’s Treasury a festive onchain game. Santa’s Treasury a festive onchain game.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ads",
+    "slug": "ads-kek2w",
+    "description": "A blockchain-based advertising platform where human users earn WLD",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Coco",
+    "slug": "coco-dvaxo",
+    "description": "High-yield, non-custodial savings via 1inch Aqua; earn and do nothing.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "IdCom",
+    "slug": "idcom-v9uy4",
+    "description": "ZK-powered identity and payments to unlock subsidies for refugees in LATAM.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "1Key",
+    "slug": "1key-af216",
+    "description": "Decentralized password manager that stores keys and values in encrypted notes.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainMachina",
+    "slug": "chainmachina-zn4ij",
+    "description": "Decentralized IoT platform with blockchain IDs & autonomous micropayments via x402 protocol.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pit Stop",
+    "slug": "pit-stop-mfzno",
+    "description": "Cross-chain gas pump. Top up ETH or any gas token instantly. No bridge required.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bounty Hunters",
+    "slug": "bounty-hunters-276vw",
+    "description": "Bounty Hunters uses verified humans to help brands amplify their message!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Hidden Garden",
+    "slug": "hidden-garden-iek02",
+    "description": "A privacy-preserving skill tree and leaderboard built on the Aztec Protocol.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ours",
+    "slug": "ours-3up6m",
+    "description": "Our goal is to make real estate more inclusive, efficient, and connected.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Poky",
+    "slug": "poky-xiko4",
+    "description": "Decentralized knowledge: IPFS content + on‑chain metadata enabling composable tracks.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Multivault",
+    "slug": "multivault-ptu8y",
+    "description": "MultiVault is a community wallet that helps you save as a group in a secure and transparent.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hedgepod",
+    "slug": "hedgepod-6x92p",
+    "description": "Create your own AI hedge fund! Made for 23M World users. Deposit once, earn optimally, gasless.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ami-pay",
+    "slug": "ami-pay-9ncga",
+    "description": "AmiPay extends Peanut: Enable amigos to fund your on-chain payment allowances.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InteropSafe",
+    "slug": "interopsafe-6mos8",
+    "description": "Exploration on how the EIL can reduce UX friction on multisig transactionn",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "x402 Global",
+    "slug": "x402-global-iorki",
+    "description": "x402 Global: frictionless cross-asset FX with Uniswap, seamless payments, no barriers",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "schwarzschild",
+    "slug": "schwarzschild-mruzd",
+    "description": "a protocol that combines zkwormholes and stealth addresses for better ux and plausible deniability",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FROSTGUN",
+    "slug": "frostgun-vmw1h",
+    "description": "frostgun is a threshold wallet (k out of n signing) integrated in hardware",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Priv Pay",
+    "slug": "priv-pay-zg2t6",
+    "description": "Private USDC checkout links on Polygon with Railgun-based shielding.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zk-invoice",
+    "slug": "zk-invoice-kv1bo",
+    "description": "Privacy-preserving invoicing with zk verification—share details, not identities.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deep Sentiment",
+    "slug": "deep-sentiment-pgko9",
+    "description": "Accelerating Ethereum social consensus on contentious topics",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mintmarks.fun",
+    "slug": "mintmarks-fun-mkjh4",
+    "description": "Transform your emails  with zkemail into verifiable on-chain attributions",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swagly",
+    "slug": "swagly-n99om",
+    "description": "Swagly Passport: human-verified on-chain engagement & rewards for ETHGlobal.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Friend with Bets",
+    "slug": "friend-with-bets-wrftq",
+    "description": "The social prediction layer for Farcaster, bet on any social outcome, settled on-chain.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypify",
+    "slug": "crypify-394ur",
+    "description": "Crypify lets Web3 beginners receive crypto easily and join the ecosystem.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wealth",
+    "slug": "wealth-60jtz",
+    "description": "A wealth management mobile app with CDP smart wallet + AI agent for emerging markets",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InvariantRegistry",
+    "slug": "invariantregistry-3ua2v",
+    "description": "On-chain registry for security invariants to document, version, and audit contract.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MiniHunt",
+    "slug": "minihunt-wukpg",
+    "description": "Weekly prediction market for Farcaster miniapps. Bet on winners, earn higher rewards if you’re early",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Kaleidoscope Router",
+    "slug": "kaleidoscope-router-6dhmk",
+    "description": "See every network you touch, route balances across chains in one Ledger-approved step.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "png.fun",
+    "slug": "png-fun-jw91t",
+    "description": "social game where users take a photo of today's theme, vote on the best pics and win the prize",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ERC-21 post-quantum",
+    "slug": "erc-21-post-quantum-x9r85",
+    "description": "Post Quantum ERC-20 Tokens TODAY! ZK-Proofs protect & Quantum Canary alerts Post Quantum ready",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TurtleCare",
+    "slug": "turtlecare-z3xtj",
+    "description": "A playful Web3 turtle-care concept with wallet login; unfinished but a fun hackathon experiment.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hyperlinkgrid",
+    "slug": "hyperlinkgrid-a41c5",
+    "description": "A $1 million onchain 100 × 100 grid of $100 tiles, each with a hyperlink and a color",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Innerverse",
+    "slug": "innerverse-sufj8",
+    "description": "the decentralized platform that empowers professionals and consultants through Web3",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Habeas Data",
+    "slug": "habeas-data-vgmcd",
+    "description": "Public portfolio analytics for onchain orgs, powered by Octav API & widgets with x402 payments.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qk38m"
+    ]
+  },
+  {
+    "name": "Hack the World",
+    "slug": "hack-the-world-3tw5n",
+    "description": "On-chain hacker identity, matching, and squads—powered by EVVM Name Service.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "dmail",
+    "slug": "dmail-otqvo",
+    "description": "Decentralized end-to-end encrypted email using ENS identities and Filecoin storage.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bnkyu",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "SAGE Protocol",
+    "slug": "sage-protocol-tv19y",
+    "description": "Dynamic fee hook integrating S&P SSA ratings - safer stablecoin pairs earn lower fees on Uniswap v4",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "RangeSeeker",
+    "slug": "rangeseeker-0z8zx",
+    "description": "Agentic Liquidity Provision: Speak your strategy, RangeSeeker autonomously hunts Uniswap V3 ranges",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "RageQuit Kit",
+    "slug": "ragequit-kit-jb53p",
+    "description": "🧨 RageQuit: Exit risky tokens across many chains with one click and telegram bot alerts.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "CarBnB",
+    "slug": "carbnb-1kg5k",
+    "description": "Rent cars from locals anywhere. Crypto payments, no middlemen.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi buddy",
+    "slug": "defi-buddy-82cjj",
+    "description": "Auto-monitors your portfolio & sends ready-to-approve transactions when critical events occur.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qk38m",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "AgentCred",
+    "slug": "agentcred-2debg",
+    "description": "On-chain credit scores and slashing for AI agents audited in Oasis ROFL TEEs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1ijf8",
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "AgentFi",
+    "slug": "agentfi-tm0m6",
+    "description": "AI-powered platform to learn DeFi, fetch real prices, and execute on-chain swaps.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cleverly Using Money",
+    "slug": "cleverly-using-money-pogqu",
+    "description": "Privacy-preserving shared liquidity provisioning powered by Aqua’s capital efficiency.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "ETHSearch",
+    "slug": "ethsearch-m9sh8",
+    "description": "A better way to search and explore ETHGlobal showcase projects.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkREX",
+    "slug": "zkrex-d7mbn",
+    "description": "zkREX: Confidential RWA token transactions on a public Blockchain",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dopamyn",
+    "slug": "dopamyn-5zbbg",
+    "description": "The infrastrucuture for autonomous performance based creator marketing",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reputation Oracle",
+    "slug": "reputation-oracle-ffzoq",
+    "description": "AI-powered on-chain reputation system for Web3 gaming using ZK proofs on Ronin blockchain",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omnix402",
+    "slug": "omnix402-hkrwm",
+    "description": "Enabling agents to reach any X402 sellers from any chain through an OFT using custom EIP-3009",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "Anti-Toxicity Hook",
+    "slug": "anti-toxicity-hook-fxv68",
+    "description": "This UniswapV4 hook reduces impermanent loss by rewarding trades that goes against the market",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Private-Escrow x402",
+    "slug": "private-escrow-x402-fj0v1",
+    "description": "**Micropayments for the agentic web - instant response, batched settlement, optional privacy**",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Not Gambling",
+    "slug": "not-gambling-4fjfs",
+    "description": "Not Gambling is a AI agent that plays blackjack with live prediction markets on the outcomes",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XMBL Testnet",
+    "slug": "xmbl-testnet-dxp23",
+    "description": "XMBL uses a novel \"Cubic Ledger Technology\" (XCLT) to organized into atomic 3D structures",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Caregiver Catena",
+    "slug": "caregiver-catena-oz3fj",
+    "description": "AI caregiver companion for families supporting loved ones with Alzheimer’s at home.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Halo",
+    "slug": "halo-hi8bv",
+    "description": "Receipts become rewards for World ID verified humans with Fluence compute and Filecoin storage.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "b2u1b",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "EdgeFinder",
+    "slug": "edgefinder-vwc52",
+    "description": "Real time arbitrage signals with integrated x402 payment execution",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gatm1",
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Vini MiniApp Gen",
+    "slug": "vini-miniapp-gen-ns2q5",
+    "description": "x402 enabled vibe code mini app builder.  the fastest way platform to full deploy a miniapp",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pops",
+    "slug": "pops-a8fex",
+    "description": "Proof-of-Progress: verified steps, sealed in a TEE, saved forever on IPFS",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hubble Trading Arena",
+    "slug": "hubble-trading-arena-oddx1",
+    "description": "Open-source LLM Trading Machine where autonomous financial agents discover, pay, and coordinate on",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reage",
+    "slug": "reage-8jfmc",
+    "description": "AI-Controlled Sovereign Treasury: Living Ledger with Cross-Chain Settlement",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gatm1"
+    ]
+  },
+  {
+    "name": "Stashbox",
+    "slug": "stashbox-hom34",
+    "description": "Turn spare change into real wealth. Save a dollar a day, earn yield, watch it compound.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bitoracless",
+    "slug": "bitoracless-5cbpc",
+    "description": "Bitoracless: Trustless P2P off-chain oracle clients run freely on any device, like BitTorrent",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Companya",
+    "slug": "companya-ofe1m",
+    "description": "We connect older adults with verified companions 👵🤝👴 — on-chain ⛓️, auditable 🔍, and app-free",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Eligibility",
+    "slug": "proof-of-eligibility-vbr0e",
+    "description": "Decentralized clinical trial eligibility verification using DWN, Filecoin, Oasis & LIT Protocol.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "IRIS",
+    "slug": "iris-0tgyv",
+    "description": "Onchain identity, storage, and reputation for AI agents in one unified SDK.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "antidote",
+    "slug": "antidote-i18um",
+    "description": "Permissioned  Institutional Margin Call Protection Protocol",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "DeBu Studio",
+    "slug": "debu-studio-tq5kx",
+    "description": "Interactive studio for design, deployment, and instantiation of custom process on the blockchain.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Split",
+    "slug": "split-npxrs",
+    "description": "Split receipts with friends and have the payments occur instantly",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "zkx402",
+    "slug": "zkx402-wxtjf",
+    "description": "x402 protocol extension that integrates ZK for verified variable payments and verifiable content",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Meritop",
+    "slug": "meritop-k3n7b",
+    "description": "Automatización on-chain de recompensas para marcas y creadores con smart wallets.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ays",
+    "slug": "ays-vc6dg",
+    "description": "Effortlessly manage your funds, spending, saving, and investments all in one place with Ays.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tradelytics",
+    "slug": "tradelytics-pbfrz",
+    "description": "Real time web3 portfolio that merges wallets, perp data, prices and PnL.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agentic Commerce",
+    "slug": "agentic-commerce-tgkh0",
+    "description": "Agentic commerce infra for x402 payments with TEE-verified Server Agents.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CanaryMiniApp",
+    "slug": "canaryminiapp-zwzbv",
+    "description": "A Next.js application demonstrating x402 payment protocol with Privy for pay-per-use AI code reviews",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zook",
+    "slug": "zook-1mws5",
+    "description": "A Uniswap V4 Hook that Deposits into the best pool in the network using oracles",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PRTCT",
+    "slug": "prtct-p8roy",
+    "description": "Cyber-insurance infrastructure that uses ZKP to validate incidents without exposing sensitive data.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "OmniPriv",
+    "slug": "omnipriv-od2ft",
+    "description": "Prove you're verified on any blockchain without revealing your personal data using ZK proofs.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "marriageDAO",
+    "slug": "marriagedao-brm8v",
+    "description": "MarriageDAO is a World MiniApp for verified humans to get married on-chain!",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Stark Overflow",
+    "slug": "stark-overflow-ctkmo",
+    "description": "💡 Decentralized Q&A platform rewarding knowledge sharing EVM compatible",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayAnyWhere",
+    "slug": "payanywhere-ft8ma",
+    "description": "Get paid in any token, in any chain. Settle in one network, one token. Fully non-custodial.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "MEGA Quant",
+    "slug": "mega-quant-6bvz2",
+    "description": "MEGA QUANT: Multi-chain Delta Neutral Trading Desktop Application with trustless EIL Integration",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "NatStream",
+    "slug": "natstream-5abs4",
+    "description": "Our system leverages a unique incentive structure to drive efficient price discovery in the market.",
+    "event": "ETHGlobal Buenos Aires",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  }
+]

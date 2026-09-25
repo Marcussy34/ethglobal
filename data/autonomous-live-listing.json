@@ -1,0 +1,918 @@
+[
+  {
+    "name": "GPTMud",
+    "slug": "gptmud-4durj",
+    "description": "Inspired by ChatGPT Code generator and AutoGPT, GPTMud is a simple MUDv2 module(?) using LangChainJS tools and agents setup that makes it easy to test and to create autonomous ai bots that respond via natural language and/or to reason, plan and execute in an autonomous way.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT-Othello",
+    "slug": "nft-othello-3nocm",
+    "description": "\"In this world, to survive as a Token, one must surround the opponent, just like in Othello.\"",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Artsy Wave Gamefi",
+    "slug": "artsy-wave-gamefi-pn6og",
+    "description": "Pixeled Emporium is a shining beacon of the transformative power of blockchain technology, meticulously designed and crafted by our team of visionaries and experts. An NFT shop that you can buy by play, leveraged by IPFS.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pledger - Board",
+    "slug": "pledger-board-vc1x2",
+    "description": "A fully onchain social game built to make high achievement and goal setting fun.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "Crypto Drop",
+    "slug": "crypto-drop-18vnq",
+    "description": "Crypto Drop is a puzzle game that combines elements of matching and crypto collecting.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mud_demo",
+    "slug": "mud-demo-rse2x",
+    "description": "Prototype of full-on-chain 2D game project using mud framework",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NoFunZone",
+    "slug": "nofunzone-gs0to",
+    "description": "A decentralized game platform designed to educate non-blockchain users about web3",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AwesomeRace",
+    "slug": "awesomerace-je60t",
+    "description": "A multiplayer racing game experimenting fully onchain real time with block time ;)",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Goblins, Dwarves and Dragons",
+    "slug": "goblins-dwarves-and-dragons-msv1y",
+    "description": "GD&D Dungeon Miner is a captivating simulation game where you witness the dynamic evolution of a massive dungeon carved out by three distinct NPC factions -  Goblins, Dwarves, and Dragonkin",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Just Some Mud Examples",
+    "slug": "just-some-mud-examples-u2zc3",
+    "description": "Examples of using MUD to set values, as well as create namespaces, tables, fields, and values within these newly created entities",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MoreChess",
+    "slug": "morechess-3i1ch",
+    "description": "MoreChess aims to be a fully-on chain extendable chess game.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ggQuest Hangman",
+    "slug": "ggquest-hangman-7v367",
+    "description": "MUD Hangman is a decentralized hangman game that leverages blockchain technology for secure and transparent gameplay.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zuland Era",
+    "slug": "zuland-era-pvmm1",
+    "description": "A medieval-themed RPG where AI controlled adventurers quest and slay monsters.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dungeon Stories",
+    "slug": "dungeon-stories-0sp00",
+    "description": "A game built with AI generated chats as \"Dungeon and Dragons\" multiplayer adventure stories. AI art related to chats will be generated in-game and can be converted to ERC721s.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenRogue",
+    "slug": "openrogue-r73z1",
+    "description": "Embark on an endless adventure with OpenRogue, a groundbreaking onchain roguelite game. Procedurally generated worlds encoded on the blockchain offer infinite possibilities for exploration and survival. Unleash your strategic skills and conquer the ever-changing challenges.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OPCraft2",
+    "slug": "opcraft2-d5rma",
+    "description": "OPCraft with extended blocks. Users can add new blocks and place them in the world. We are starting with implementing redstone.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Emojimon - Learn To Earn",
+    "slug": "emojimon-learn-to-earn-pdjpz",
+    "description": "We added loot boxes to the map, which when touched, generate a question to the user. This could be used in a future learn-to-earn autonomous world model.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ColorCanvas",
+    "slug": "colorcanvas-uv2z5",
+    "description": "A MUD2 proof of concept project featuring a color canvas, where each block painted \"infect\" the color to their neighbors",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cat and Mouse",
+    "slug": "cat-and-mouse-0yu8t",
+    "description": "An on-chain game where 2 players and trying to attack and avoid being attacked.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Muddy Heart",
+    "slug": "muddy-heart-cdm0k",
+    "description": "Muddy Heart is an On-chain action RPG game powered by @lattizexyz's MUD engine.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Emojimon-v1.3",
+    "slug": "emojimon-v1-3-tcxhc",
+    "description": "Providing the opportunity to offer success rewards for goals through Autonomous World's technology.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockChat",
+    "slug": "blockchat-yv3cf",
+    "description": "Real-time on-chain chat app powered by MUD, with customizable username and profile picture",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Monstrum Knights RPG",
+    "slug": "monstrum-knights-rpg-gfwqh",
+    "description": "This was our first experience with MUD, we were trying to build RPG game where knights can collect monster and challenge each other. We did not have a chance to complete it, but we learned a lot and had fun",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onchain Sokoban",
+    "slug": "onchain-sokoban-61prm",
+    "description": "Fully Onchain Sokoban classic puzzle game built using MUD Framework",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SOp (SpaceOpera)",
+    "slug": "sop-spaceopera-6iq1o",
+    "description": "SOp is a narrative engine that used MUD to generate a shared game state and Langchain to create new entities and a narrative thread for the infinite universe",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cryptic Realms: The Lost Lattice",
+    "slug": "cryptic-realms-the-lost-lattice-dkxju",
+    "description": "Multiplayer Online Role-Playing Game (MORPG) \"Cryptic Realms: The Lost Lattice\" is an immersive text-based MORPG set in a mysterious world. Players explore dungeons, solve puzzles, and complete quests while leveraging the power of Optimism, Filecoin, and the Lattice network.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Courtroom",
+    "slug": "courtroom-p6sos",
+    "description": "A lawsuit simulation game: play a Lawyer and defend the ones responsible for the most notorious on-chain catastrophic events. E.g.: The Dao Hack, Wormhole bridge hack, etc.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stogram",
+    "slug": "stogram-8wi7p",
+    "description": "Stogram is a next generation social media platform . Which utilizing Web 3 Storage solutions provided by IPFS (InterPlanetary File System), Stogram aims to provide users with a privacy-focused and advertisement-free experience by integrating the features of blockchain technology",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "Magic World",
+    "slug": "magic-world-nfc3f",
+    "description": "A Fully-onchain Autonomous World of Cards powered by ZKP and Solidity",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MudRNG",
+    "slug": "mudrng-hf3rk",
+    "description": "MUD-RNG is a library package to get a random number in a MUD project.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Move the Block",
+    "slug": "move-the-block-77q65",
+    "description": "\"Move the Block\" is an introductory breakout game that serves as an excellent tool for understanding the implementation of on-chain games using Lattice and ReactJS.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AmongOP",
+    "slug": "amongop-6wbax",
+    "description": "Multiplayer social deduction game on unity (like Murder in the dark) + MUD",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Mud Social Plugin and Werewolf demo",
+    "slug": "mud-social-plugin-and-werewolf-demo-hbo97",
+    "description": "Two parts, first is a social plugin for Mud that uses trustless messaging/relay network Web3MQ to preserve on-chain trustlessness while providing social gameplay, and second is a werewolf (also known as mafia) demo to demonstrate possibilities of on-chain social gaming",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniMudExtension",
+    "slug": "unimudextension-sfkx5",
+    "description": "UniMud extension is exactly that an extension of the UniMud project that give developers the ability to use EOA accounts via MetaMask SDK and wraps Nethereum .dll provided with a Ethers like abstraction",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OP Kinematics",
+    "slug": "op-kinematics-ypsxy",
+    "description": "Developer tools to enable DeSci educators and Web3 game designers to create a kinematics playground and simulator to develop on-chain educational games using Optimism, Lattice's, MUD, 0xPARC, NFT.Storage and OSS Web3 tools.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "The Last Resource",
+    "slug": "the-last-resource-wd1jd",
+    "description": "Post-apocalyse 2D open world with the gameplay goal of restoring human modern civilization and technologies from scratch.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Revolte",
+    "slug": "revolte-dc1y9",
+    "description": "An adventure game to learn about Web3 in a fun way! No technical stuff.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "mud-Racer",
+    "slug": "mud-racer-q2oak",
+    "description": "my attemp at recreating the arcade Outrun game with mud and phaser3",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MythWeaver",
+    "slug": "mythweaver-a5bme",
+    "description": "An adventure game where players' wallets transform into characters and encounter past Ethereum projects. ChatGPT acts as the dungeon master, giving voice to crypto's rich history. Player actions shape the in-game world and incentivize collective storytelling & infinite games.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Autonomous Learning",
+    "slug": "autonomous-learning-qmadw",
+    "description": "This project adds some intelligence to the entities within the Blockchain + AI world.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Layer",
+    "slug": "layer-ui8eb",
+    "description": "The LAYER is a parallel world. The user will own their own AR digital world. The users can interact with the items and confirm their rights on the chain, and the users can see the virtual content based on the GPS location.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GOLEM",
+    "slug": "golem-ejico",
+    "description": "GOLEM is an onchain governance fighting game. Players form teams and collectively control a  Golem with a specific dataset for governance. Only one will survive.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Daily And Deadly",
+    "slug": "daily-and-deadly-fvcqa",
+    "description": "Play once a day with friends and enemy and try to gather riches in a ever shifting dungeon",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Escape-from-Chain",
+    "slug": "escape-from-chain-w9npn",
+    "description": "Escape-from-Chain is a unique game that combines blockchain and role-playing elements. Players are immersed in a world where they fight solo, each failure leading to character's disappearance, leaving behind only the strongest.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stake-to-Play",
+    "slug": "stake-to-play-p0gya",
+    "description": "Stake-to-Play: sustainable economic mechanism for on-chain games / worlds",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swash Buckler",
+    "slug": "swash-buckler-4hq3c",
+    "description": "Extending RTS games by zooming into the fight for resources. Brawl for, win and own resources on the map alone or with your clan.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qp08u"
+    ]
+  },
+  {
+    "name": "Game Mixing Protocol On MUD",
+    "slug": "game-mixing-protocol-on-mud-dhouf",
+    "description": "MUD Protocol for mixing games together -- like you would a TikTok Duet!",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTmon",
+    "slug": "nftmon-tqsvu",
+    "description": "NFTMon is an on chain game built using MUD. NFTMon is a multiplayer game inspired from MUD",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TopGChess",
+    "slug": "topgchess-609b1",
+    "description": "A P2E chess game with AI built using MUD and zkML generates zkProof for the AI difficulty.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4jgzz",
+      "s184f"
+    ]
+  },
+  {
+    "name": "On-Chain Maze Runner",
+    "slug": "on-chain-maze-runner-d8e4t",
+    "description": "The on-chain maze runner is a decentralized game on Ethereum where players navigate through dynamic mazes, aiming to reach the finish line while leveraging blockchain technology for transparency and security.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mud Todo",
+    "slug": "mud-todo-jcrg8",
+    "description": "Mud todo list with ownership which allows only the owner of the list to add to the list",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Volgoda Treasure Hunt",
+    "slug": "volgoda-treasure-hunt-hhtum",
+    "description": "\"Vulgard Treasure Hunt\" is a cryptographic game using Zero-Knowledge Proofs and Secure Multi-Party Computation. Players find treasures within 50 steps using hints, ensuring fair gameplay without a third party in this partially hidden info game.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mud-game-room",
+    "slug": "mud-game-room-yu1io",
+    "description": "A simple player matchmaking platform for any multiplayer MUD games",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Coin Race",
+    "slug": "coin-race-baj3c",
+    "description": "Browser based competitive web3 game using NFTs for exciting and prizes",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Moments",
+    "slug": "moments-9p3ef",
+    "description": "Host or join GPS-verified events, control and track experiences on-chain",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mudtendo",
+    "slug": "mudtendo-8vjvh",
+    "description": "An Autonomous World where participants use a 1985 Nintendo console to create stories together",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Isle of Colors",
+    "slug": "isle-of-colors-qruy2",
+    "description": "\"Isle of Colors\" is an isometric 3D multiplayer game that aims to offer a unique social experiment in color. Build your cities and fight with other players for colors to paint your cities. Using web3 MUD framework & Optimism chain.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Coin Collecter Game",
+    "slug": "coin-collecter-game-ugqxd",
+    "description": "A game where you control  😃  to try to collect all coins to win the game",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mudkip",
+    "slug": "mudkip-7v0nw",
+    "description": "First attempt at learning about MUD's but I have no idea what I'm doing",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "THe NFT World",
+    "slug": "the-nft-world-xp2gb",
+    "description": "A world where the User navigates from islands to islands insearch for NFTs giving the user the best experience.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "overcommitting",
+    "slug": "overcommitting-7wpv7",
+    "description": "Late understanding of lack of time for this hackaton and desire to overcommit to different projects.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Garnet",
+    "slug": "garnet-bkgrp",
+    "description": "Eternal Legends, a blockchain-based turn-based tactical game, combines MUD2, Solidity, and GoLang. Players select 3 heroes to protect their castles in battles fought on an ASCII graphical interface. Powered by Garnet, a custom MUD2 indexer, transaction builder and backend.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "mud-pie",
+    "slug": "mud-pie-0pww1",
+    "description": "ENS like namespaces for MUD world and stores which allows players to use unique handles across MUD games",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Arena: the Colosseum",
+    "slug": "agent-arena-the-colosseum-zuar7",
+    "description": "Agent Arena is a RTS game of LLM-powered agents fighting with each other on a composable on-chain arena. Players define the character of their agents, design team strategy, and make on-chain modules to modify the map to fight with each other in a persistent gaming world.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "📜 Scroll-ToDo-List",
+    "slug": "scroll-todo-list-wu2z0",
+    "description": "Scroll ToDo list. It used MUD framework for ambitious Ethereum applications. It compresses the complexity of building EVM apps with a tightly integrated software stack.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "create-unimud-client",
+    "slug": "create-unimud-client-2b0bw",
+    "description": "CLI to create Unity scaffold from MUD contracts. Includes VR support for Oculus Quest 2.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mud-Coin",
+    "slug": "mud-coin-9vryv",
+    "description": "Play our exciting Coin Flip game! Bet on the outcome of a coin flip and double your stake if you guess right. Enjoy the thrill of chance in this simple and engaging blockchain game.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutoBot",
+    "slug": "autobot-y9i30",
+    "description": "Allowing artists, players, and game designers to seamlessly interact with Autonomous Worlds through leveraging Optimism, NFT.Storage, and Web3.Storage in seconds with no prior knowledge needed, across all platforms (Web, Mobile, SMS, Alexa)",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "PlayingInTheMUD",
+    "slug": "playinginthemud-8m3b4",
+    "description": "Just exploring and learning about Autonomous Worlds and MUD over the weekend.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dePlace",
+    "slug": "deplace-nrg8j",
+    "description": "dePlace is an attempt to make an autonomous world out of the r/place project idea, which was a collaborative project and social experiment hosted on the social networking site Reddit, but that cannot be shut down and finished.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MUD Powered Balancer Swaps",
+    "slug": "mud-powered-balancer-swaps-0tb5w",
+    "description": "A demo project showing how MUD could be used with an existing DeFi protocol. In this case by creating a new Balancer Relayer that was integrated with MUD and a front end to show swap data.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trincad",
+    "slug": "trincad-6cqtc",
+    "description": "Trincad is an onchain RPG game that players have to build on the lands in order to have control over the city, the player with the highest control over the city wins the game.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aethereal Dimensions",
+    "slug": "aethereal-dimensions-g1mpb",
+    "description": "Aethereal Dimensions is the meaningfulness layer for web3 assets.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mud-Scan",
+    "slug": "mud-scan-pgvy5",
+    "description": "MUD-SCAN is a web-based platform that allows users to explore on-chain data from all around the different world and aggregate it into Intuitive dashboards.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "Optimism Deathmatch with MUD -  AAA Game",
+    "slug": "optimism-deathmatch-with-mud-aaa-game-pxfdz",
+    "description": "AILAND Optimism Deathmatch ⚔️ with MUD Framework: A groundbreaking AAA deathmatch game on the blockchain. Powered by Unity and Optimism, it delivers immersive gameplay, scalability, and cost-efficiency. Create thrilling battles, manage leaderboard",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shadowed Grove",
+    "slug": "shadowed-grove-s05cz",
+    "description": "Shadowed Grove uses AI that automatically generates assets, monster stats will be obtained from onchain data. characters are stored on ipfs",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stop playing w fire, say no to Burner accts",
+    "slug": "stop-playing-w-fire-say-no-to-burner-accts-z9q14",
+    "description": "A collection of smart contracts and user interface components enabling developers and users to interact with the World through an Account, while executing transactions via a Burner Client.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PFP WAR",
+    "slug": "pfp-war-hccpt",
+    "description": "PFP Pixel War is a collaborative game where the players use NFTs they own on L1 Ethereum mainnet to use them in L2  via Storage proofs and MUD. It's inspired from r/place by Reddit",
+    "event": "Autonomous Worlds",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "s184f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Endless Quest",
+    "slug": "endless-quest-1urmw",
+    "description": "An autonomous world system for generating infinite, dynamic roleplaying challenges; no two the same. Quest encounters are powered by a sophisticated, behavioural AI storytelling engine that ensures narrative and stylistic consistency.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cocoon",
+    "slug": "cocoon-u8ma0",
+    "description": "Cocoon lets you leverage the power of MUD to create complex on-chain entities that can be tokenized or securitized.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "Natsage",
+    "slug": "natsage-t56s5",
+    "description": "The project uses a browser wallet and frontend for acquiring NFTs of endangered Latin American species via a Unity 3D game. Collected in an album, players exchange duplicates to complete it.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "The AI World",
+    "slug": "the-ai-world-44jm6",
+    "description": "While everything is created by AI, how the world will be like?",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lucky Game",
+    "slug": "lucky-game-i0n7a",
+    "description": "A Word / Number game built on MUD for global sustainability. Lucky MUD Games deployed on MUD testnet. Bills on Optimism Goerli Testnet",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TimePirates",
+    "slug": "timepirates-0vjg6",
+    "description": "Claim Your Time, Rule Your Realm in TimePirates! Where Blockchain Meets Adventure in an Ever-expanding Universe!",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Autonomous Game of Life",
+    "slug": "autonomous-game-of-life-ppup5",
+    "description": "Multiplayer Onchain Game of Life + Onchain cellular automaton template for AWs",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SurvivalTactics",
+    "slug": "survivaltactics-u2gxk",
+    "description": "A simple multiplayer survival game where players can interact with the world and each other. The game's state and logic is implemented using Mud with Unreal Engine as the client.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ethereal City",
+    "slug": "ethereal-city-wu49b",
+    "description": "Welcome to EtherealCity, an art project, and a decentralized autonomous city governed by smart contracts, inspired by the ancient city of Delphi.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meowland",
+    "slug": "meowland-ukae2",
+    "description": "Welcome to Meowland! Build places for virtual animals, support real-life shelters. Starting with cats in Toronto, this game expands worldwide. Purchase items, collect gifts, enhance your place!",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Realm of Pepe",
+    "slug": "realm-of-pepe-ju6pt",
+    "description": "Realm of Pepe is a cooperative Adventure RPG with novel resource-management mechanics, powered by Superfluid. Collect resources, trade and progress through stages to defeat the Evil Pepe.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "On-Chain Mental Poker",
+    "slug": "on-chain-mental-poker-0ofcu",
+    "description": "A \"Mental Poker\" based card shuffling and dealing scheme, a demo application of a fully on-chain \"High Card Wins\" game with MUD framework.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutoCylons",
+    "slug": "autocylons-4szpd",
+    "description": "ZK-based Mafia-style game, possibly with GPT-powered agents",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AIMetaconomy",
+    "slug": "aimetaconomy-vaeub",
+    "description": "The AIMetaconomy Metaverse Simulates Two Gold-based Economies.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trade Wars",
+    "slug": "trade-wars-0xpoh",
+    "description": "⛵️🪙Sail the seas as a merchant and arbitrage trades between ports, but stay vigilant for other pirating players! 🏴‍☠️ A MUD v2 infinite merchant trading game where ports trade using Balancer pools. Ports continually consume resources, perpetually updating prices.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qp08u",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Gaul",
+    "slug": "gaul-4eds1",
+    "description": "A multiplayer building game where players make a road. The road renders itself every week.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenLand",
+    "slug": "openland-nrnqk",
+    "description": "Land maker to which anyone can freely add objects and logic.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DigitalTrainer",
+    "slug": "digitaltrainer-wu894",
+    "description": "The project provide Fitness Exercises in 3D animations for users to build custom training. If users do their training in front of a web camera, they record their motion on MUD for further improvement, analysis and sharing.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Supercities",
+    "slug": "supercities-0ufu5",
+    "description": "A massive collaborative urban game to incentivize data availability and trustability from private and public goods in cities",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vigilant",
+    "slug": "vigilant-w3hcq",
+    "description": "Vigilant is an on-chain world defined by runes, not just a game. Adventurers collect rune NFTs to craft game rules. We've created a card game to highlight runes' charm. Collect five runes to form battle cards and conquer in Vigilant's games.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "OpenAR",
+    "slug": "openar-9ybya",
+    "description": "An Open platform to create your sandbox of games and experience them in AR",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "anyoung",
+    "slug": "anyoung-at2ix",
+    "description": "Anyoung, the first AI city built on the web3 game engine MUD.  This is a ultimate autonomous world with lively AI NPCs and a complete economic cycle. Get ready for celebrity resurrections, mind-bending time-travel interactions, and breathtaking multimodal art creations here!",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MUDVRF",
+    "slug": "mudvrf-xcegu",
+    "description": "A secure, fast, and easy-to-use VRF for on-chain games built using MUD",
+    "event": "Autonomous Worlds",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "s184f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Droids Quests",
+    "slug": "droids-quests-nqm3b",
+    "description": "Droids Quests is a multi-game with NFT-evolutive in a world obsessed for details, games, puzzles, and fun. Each Droid has the power to create its own destiny, resulting in unique NFTs that represent each user while maintaining the rarity that defines the NFTs they love.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Im(ai)gine",
+    "slug": "im-ai-gine-aacm2",
+    "description": "Im(ai)gine is an Imagination Engine that lets players explore unknown worlds, dreamed up by AI.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xparadise",
+    "slug": "0xparadise-q3e5e",
+    "description": "0xParadise is a programming game designed to challenge players to develop a castaway character capable of surviving on an island for the longest time possible. Players can choose to program their castaway using Solidity code or utilize the provided no-code tool to play.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Property Art",
+    "slug": "property-art-en5j7",
+    "description": "It's the real world without the boring parts. i.e. stylized digital twin as an autonomous world that uses NFTs as real estate reproduction.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AirVoyage",
+    "slug": "airvoyage-kon1t",
+    "description": "AirVoyage is an exciting adventure game that merges strategy, chance, and aerial maneuvering. With stunning graphics and engaging obstacles, the game is perfect for gamers who love challenges and new heights.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pandora Maze",
+    "slug": "pandora-maze-k61aa",
+    "description": "Pandora Maze is a fully on-chain Match-3 roguelike game, developed on MUD. It offers two modes: Competition for score-based block elimination, and Free that enables user-created blockchain levels for endless challenges.",
+    "event": "Autonomous Worlds",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Netherscape",
+    "slug": "netherscape-2o2xn",
+    "description": "permissionless, composable, and autonomous on-chain RPG with playable characters as foundational element",
+    "event": "Autonomous Worlds",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qp08u",
+      "xdat5"
+    ]
+  }
+]

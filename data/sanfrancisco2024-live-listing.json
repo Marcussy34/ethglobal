@@ -1,0 +1,2109 @@
+[
+  {
+    "name": "Versioned Walrus",
+    "slug": "versioned-walrus-3btjd",
+    "description": "A lib based on walrus DB that supports the version control. A simple file system demo based on this versioned walrus lib.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "influencer swap",
+    "slug": "influencer-swap-zwff7",
+    "description": "Ai oracle swaps the influencer's photo onto brand's content. the influencer gets paid",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "Integration",
+    "slug": "integration-xuj1k",
+    "description": "AI powered post-journey guide to serve theraphy clinics. \"Unlocking Lasting Insights, From Treatment to Transformation\"",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Probana",
+    "slug": "probana-sn7tu",
+    "description": "User Powered Prediction Market for Real-World Events on Flow Chain",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P3-FV",
+    "slug": "p3-fv-95jy3",
+    "description": "Auto-generating formal verification specs from Plonky3 circuits",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NBA MOMENTUM",
+    "slug": "nba-momentum-9shz6",
+    "description": "NBA Momentum is a strategy-driven trading card game that transforms NBA Top Shot moments into competitive, stats-based gameplay. Players build decks and compete by using real NBA moments with custom abilities.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Engagemint",
+    "slug": "engagemint-t6caw",
+    "description": "Engagemint empowers users to earn, tokenize, and unlock rewards for their attention on their favorite artists and influencers. Mint unique tokens, track engagement, and redeem exclusive perks—all in a Web3 ecosystem.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "BlockLingo",
+    "slug": "blocklingo-9pf20",
+    "description": "A decentralized protocol enabling direct asset transfers between different blockchains.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ToneRight",
+    "slug": "toneright-xdj7q",
+    "description": "TuneRight is a web marketplace where artists and production companies trade music licensing as intellectual property. It empowers users to register their music, set licensing terms, manage royalties, and ensures the original artist is always credited and compensated.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Build Villager",
+    "slug": "build-villager-qsadf",
+    "description": "An interface to write community benefits into intellectual patent acquisitions",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "APIWink",
+    "slug": "apiwink-2ogub",
+    "description": "APIWink at core is an API micro-lending service, ideal to attract more users and reduce costs. It's developed on Skale contracts, invisible custodial experience, Europa testnet and program money.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Photo Booth",
+    "slug": "photo-booth-h1pz9",
+    "description": "Photo Booth is a fun tool that lets people take photos and add fun overlays including Nouns glasses and their ENS.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zk-checkpoint",
+    "slug": "zk-checkpoint-1humr",
+    "description": "ZK proofs for checkpointing on Polygon PoS to save on settlement gas and faster interop",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "bloq",
+    "slug": "bloq-9k8fv",
+    "description": "search on-chain data with a prompt, we enable users to search on-chain data and consume it in layman language",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SecurityModuleForAA",
+    "slug": "securitymoduleforaa-ufcg7",
+    "description": "The user enabled Safe Guard with 2FA (via email) to protect the Smart Account from the risk of a compromised EOA key.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BenderBite",
+    "slug": "benderbite-331m7",
+    "description": "AI Employee Bender: get AI advices based on previous winners, vote for other project and get prices and meet friends!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "EssenSwap",
+    "slug": "essenswap-82ygd",
+    "description": "EssenSwap is a limit orderbook-based exchange built on the Essential blockchain.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "7pft7"
+    ]
+  },
+  {
+    "name": "Wilson:sound intents",
+    "slug": "wilson-sound-intents-x147v",
+    "description": "Execute, Attest, Validate, and Share Communicated data via agent-assisted contracts.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Real Lend",
+    "slug": "real-lend-11w4v",
+    "description": "Borrowers pledge real-world assets as collateral. An oracle sets the asset’s value and posts a bond. Lenders provide loans with interest. If borrowers default, lenders sell the asset to the oracle to recover funds. Loans can also be sold early through Dutch auctions.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omi FM",
+    "slug": "omi-fm-i6xxx",
+    "description": "Decentralized music player, let smart contracts take care of creating the vibes.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Block-Jack 21",
+    "slug": "block-jack-21-t68nv",
+    "description": "I have build a multiplayer Blackjack game on the blockchain with one smart contract using Phoenix Solidity for data encryption and privacy. Web3.js and React with Tailwind CSS will handle the UI for smooth player interaction.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rhizome",
+    "slug": "rhizome-1a0t5",
+    "description": "Rhizome Markets is a synthetics protocol built on the Rootstock EVM. Rhizome enhances capital efficiency and risk diversification with multicollateralization, allowing users to engage in hedging, yield farming, and collateralized debt positions directly on Rootstock.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kiss Or Slap 2.0",
+    "slug": "kiss-or-slap-2-0-5yxze",
+    "description": "A gamified mobile social app that people can earn under prisoner's dilemma",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "artist-popup",
+    "slug": "artist-popup-8tqgc",
+    "description": "Short Description: A decentralized platform for artist pop-up events, enabling artists to mint NFTs for their physical artwork and attendees to collect digital assets with exclusive content",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EZLaunch",
+    "slug": "ezlaunch-p1gfa",
+    "description": "A platform for launching meme tokens with an innovative trading curve that optimizes liquidity and token price discovery. Users can easily mint and trade meme tokens, while the enhanced curve ensures better liquidity dynamics, fostering a smoother trading experience.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RPFT",
+    "slug": "rpft-jygem",
+    "description": "RPFT stands for Royalty Points Fungible Token is like transfer Royaltypoints of one brands to another one",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Earnify",
+    "slug": "earnify-4hks7",
+    "description": "An all-in-one platform that helps aspiring influencers earn instantly by completing brand tasks, while enabling companies to boost engagement and advertise effectively through real people.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Loop",
+    "slug": "loop-yjppn",
+    "description": "Loop is an onchain platform for reinforcement learning with human feedback (RLHF)",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "1kchc"
+    ]
+  },
+  {
+    "name": "splitoon",
+    "slug": "splitoon-s5j5c",
+    "description": "imagine giving ai access to your venmo account (real) (they could never)",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperTweets",
+    "slug": "supertweets-urhdz",
+    "description": "Do Crypto Transactions on your Twitter Feed - Now on any chain!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "1kchc",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "ReadyVU",
+    "slug": "readyvu-yc4hu",
+    "description": "SaaS platform for Teleradiology, remote reporting tools for medical Imaging for various stake holders",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GovernEase",
+    "slug": "governease-17pde",
+    "description": "GovernEase is a cross-chain DAO tooling platform that simplifies DAO creation. It enables users to configure governance, manage tokens, and select voting methods through a seamless interface, allowing quick and efficient setup across multiple blockchains.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "FlowBets",
+    "slug": "flowbets-u48sh",
+    "description": "A transparent, crowdsourced sports betting platform on Flow's network utilizing smart contracts",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "PixelProof",
+    "slug": "pixelproof-exdzo",
+    "description": "A Web Platform for Image Authenticity Verification Using Zero-Knowledge Proofs",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PintAuction",
+    "slug": "pintauction-jpwjo",
+    "description": "A Dutch auction platform written in Pint, Essential's DSL for declarative smart contracts, focused on logic rather than execution.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bet",
+    "slug": "bet-nqbcs",
+    "description": "An accountability app to share goals with your friends. put your money where your mouth is",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Socialfly",
+    "slug": "socialfly-qa3o7",
+    "description": "A decentralized social app where you store your encrypted data once and then use it across multiple apps",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "qdgjh",
+      "qdgjh",
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "Web3Warfare",
+    "slug": "web3warfare-qq1r9",
+    "description": "An IRL laser tag game with onchain components and fun. Place bounties on adverseries, mint powerup NFTs, and win the space race!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Liquid",
+    "slug": "liquid-yo7bg",
+    "description": "A crowd-sourced and incentivised bridging protocol using Layer Zero's OApp interface.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Fans",
+    "slug": "ai-fans-k8x9r",
+    "description": "An AI x Crypto OnlyFans. Uses Generative AI to create text responses and Images for the AI avatars, and faciiltates onchain transactions done by users and agents.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutoWebChain",
+    "slug": "autowebchain-8jbmi",
+    "description": "decentralised fine tuning of web agents and rag on chain, using lit and walrus",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gains Gladiator",
+    "slug": "gains-gladiator-qvbnj",
+    "description": "Gains Gladiator is an AI agent tournament simulator. It pits two AI's against each other in a battle to the riches!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rhmm3",
+      "rhmm3",
+      "qy8m3",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Fuse",
+    "slug": "fuse-5wsiz",
+    "description": "Infinite crafting game using GenAI and awarding NFTs, this game involves combining concepts and exploring what they might create",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Photo-Danksharding",
+    "slug": "photo-danksharding-11yph",
+    "description": "Instagram, but the photos are in EIP-4844 blobs. Ephemeral on-chain social.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vdiyd"
+    ]
+  },
+  {
+    "name": "MySFGame",
+    "slug": "mysfgame-fsd4k",
+    "description": "A simple, browser-based game where players s navigate through a foggy San Francisco, collecting and trading NFTs",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Roblox Coin Exchange",
+    "slug": "roblox-coin-exchange-833sq",
+    "description": "Enabling Roblox's 300 million (MAUs) to create, buy, and sell meme coins using bonding curves.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Intellijack",
+    "slug": "intellijack-75p06",
+    "description": "AI Oracle on Fhenix enabling inference over private data to go on chain. Demonstrated application of an agent and data economy",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rhmm3",
+      "croq1",
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "ChainSplash",
+    "slug": "chainsplash-m5db8",
+    "description": "ChainSplash revolutionizes charitable giving using blockchain. We ensure transparency, efficiency, and privacy in donations through smart contracts, NFTs, and zero-knowledge proofs. Empower trust in global giving with real-time tracking and reduced overhead costs.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "e3t1p",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DeForms",
+    "slug": "deforms-a8jbh",
+    "description": "Buy, sell and trade datasets as tokens to boost it's credibility, tracking ownership starting with survey data today",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ConversationStation",
+    "slug": "conversationstation-mnhr4",
+    "description": "Novel agent chat interface lets users interact with their autonomous agents",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Plutus",
+    "slug": "plutus-mtwx0",
+    "description": "Plutus is financial assistant that can help you with managing money, boosting credit score and paying off debts with lowest interests.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "croq1"
+    ]
+  },
+  {
+    "name": "Lit Data Market",
+    "slug": "lit-data-market-v2ms0",
+    "description": "Marketplace for data vendors and inference vendors. Run AI inference on any data vendor with your choice of open source models, without knowing the data.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "FriendlyIntent",
+    "slug": "friendlyintent-ipu74",
+    "description": "Intent bridging, but only your friends can fill them! No more whitelisted market makers. You pick who can fill your intent!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VVLDrizzy",
+    "slug": "vvldrizzy-he09i",
+    "description": "Mint, watermark, license, and protect your viral short form videos. Get paid by media outlets on your terms. Powered by Story Protocol, Walrus.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rhmm3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "DMNO - PKP secrets",
+    "slug": "dmno-pkp-secrets-vaytr",
+    "description": "dmno.dev plugin - encrypted secrets using a PKP gated by Github auth + teams",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "qdgjh",
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "OmiSwap",
+    "slug": "omiswap-b3ma8",
+    "description": "OmiSwap is an innovative platform that enables voice-activated on-chain transactions through an AI wearable device, allowing users to seamlessly interact with multiple blockchain networks using natural language commands.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "qy8m3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Earn Your Story AI",
+    "slug": "earn-your-story-ai-tp1jd",
+    "description": "Using AI to registering your most personal identity IP, based on your open tabs",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SmartSign",
+    "slug": "smartsign-zjyn1",
+    "description": "Transform conversations into contracts instantly with our app, combining advanced language models and blockchain for secure, efficient, and transparent deal closures.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Dream Green",
+    "slug": "dream-green-hk30m",
+    "description": "A blockchain-based payment solution for the cannabis industry. We eliminate cash-related risks and complexities for dispensaries by enabling secure crypto and fiat transactions, all settled in USDC. Simplifying operations, ensuring compliance, and improving customer experience.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi-Calendly",
+    "slug": "defi-calendly-h3cis",
+    "description": "A defi calendly, book appointments onchain with a staked deposit",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PQP",
+    "slug": "pqp-s48yc",
+    "description": "Post-Quantum Digital Signature on Trusted Execution Environment",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anti Swan",
+    "slug": "anti-swan-kxtyk",
+    "description": "An ERC-4626 tokenized vault designed to protect capital by betting against black swan events (P < 5%). Using market data, Kelly Criterion, and advanced strategies, we generate consistent yield while minimizing risk in prediction markets. Protect, profit, repeat.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniMemeFoodFactory",
+    "slug": "omnimemefoodfactory-fkwf7",
+    "description": "Launch your own AI-powered food meme coin as Omni Fungible Token (OFT) on 70+ chains in ONE click(*), made possible by LayerZero V2",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cara IP",
+    "slug": "cara-ip-x03th",
+    "description": "Let your imagination flow and your creativity go, with the power of AI and IP",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "Carbon Wheel",
+    "slug": "carbon-wheel-2x3ta",
+    "description": "CarbonWheel is a platform that incentivizes electric vehicle (EV) users by rewarding them with carbon credits for their contributions to environmental sustainability.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "LensChain",
+    "slug": "lenschain-2n6nx",
+    "description": "Lens Chain is a user-friendly NFT platform specifically designed for photographers to mint, showcase, and trade their unique prints. (not fully done yet)",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decl Prediction Mrkt",
+    "slug": "decl-prediction-mrkt-nocgs",
+    "description": "A very simply prediction market implementation on using Essential's declarative smart contracts.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BuildBlocks",
+    "slug": "buildblocks-af74h",
+    "description": "With BuildBlocks, we have created drag and drop dynamic smart contract components and a platform that allows *anyone* to develop, compile, and deploy audited smart contracts on Rootstock",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ggpyp",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Swapped",
+    "slug": "swapped-yhddc",
+    "description": "Monetize your digital persona with ethical deep fakes—upload, create, and earn through secure face-swap videos while preserving your anonymity",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Walruspecs",
+    "slug": "walruspecs-mtyf9",
+    "description": "Client-side object detection app deployed as a Walrus site. The app's dependencies are packaged into the project and published as a Walrus blob. The object detection model runs on the client's browser (thanks to transformers.js) without needing a web server for computation.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Baldr",
+    "slug": "baldr-wyv9f",
+    "description": "Baldr is an open source gaming escrow platform which aims to resolve disputes and provide clear resolution for all users. With trust and transparency using sign protocol upon user attestations.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "qdgjh"
+    ]
+  },
+  {
+    "name": "PPP",
+    "slug": "ppp-zzjn9",
+    "description": "An app that allows users to set up and manage personal pension funds using any ERC-20 token",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1kchc"
+    ]
+  },
+  {
+    "name": "NeoGraph",
+    "slug": "neograph-0ffz5",
+    "description": "NeoGraph is a highly powerful and extensible data visualization tool, that seeks to provide new and interactive ways of deriving meaning of otherwise hard to sift through data.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Aloria",
+    "slug": "aloria-gfwo5",
+    "description": "A decentralized omni-powerful AI personal assistant that can complete all kinds of tasks by operating directly on web browser",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "qiqkw",
+      "rhmm3",
+      "bdi3h",
+      "vsbye",
+      "ggpyp",
+      "1kchc",
+      "vy7pe"
+    ]
+  },
+  {
+    "name": "HOA Insight",
+    "slug": "hoa-insight-5bc3h",
+    "description": "Home Owners Association Board Members want to do right by their communities. HOA Insight Smart Contracts help Board Members evaluate and vote on Proposals, Quotes and Funds Allocation, with transparency to their community.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "$deeproot",
+    "slug": "deeproot-dm8yg",
+    "description": "Build a bitcoin  meme-defi dAPP  on RootStock protocol, implementing Reflection Token Reward Logic",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "EAT Global",
+    "slug": "eat-global-hdcq6",
+    "description": "EAT stands for \"Epicurean Advice & Travel\" and lets users post reviews about their food and travel experiences, and allows users to collaborate to generate curated food guides.  Share, Eat, and Earn.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "Neurosaurs",
+    "slug": "neurosaurs-4ymov",
+    "description": "A concentration game powered by the Neurosity Crown! Mint Neurosaur NFTs depending on how focused you are during the game.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "MAO One",
+    "slug": "mao-one-wyviu",
+    "description": "Chat GPT use twitter posts and onchain data to trustless manage funds via Intell SGX, XMTP and Smart Contract.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "5b69q",
+      "pfyco",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "TrailLink",
+    "slug": "traillink-tfpov",
+    "description": "An open Protocol for Marketing Teams to launch campaigns and events onchain",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Stackr ERC721",
+    "slug": "stackr-erc721-15c7x",
+    "description": "Modular implementation of ERC721 in Stackr deployed on AvailDA",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "910t9",
+      "pe7wh"
+    ]
+  },
+  {
+    "name": "Meta Splash",
+    "slug": "meta-splash-suf85",
+    "description": "Beautiful lock screens for MetaMask. We redesigned the lock screen for most used crypto wallet MetaMask.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "freeTrader",
+    "slug": "freetrader-cjm7o",
+    "description": "A smart contract that trade according to user defined price and real time price",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StoryVerse",
+    "slug": "storyverse-hot66",
+    "description": "Authors craft unique universes by defining key elements such as lore, environments, characters, and interactions. Build off another author's world, protect your IP and receive royalties.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "Betsy",
+    "slug": "betsy-9qx39",
+    "description": "A Web3 betting platform on Skale with XMTP-powered messaging for group bets. USDC funds are transparently handled via smart contracts, and AI helps determine outcomes. Bets are finalized and resolved on-chain, ensuring secure, trustless, and engaging group betting experiences.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "t5on2",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SmolSend",
+    "slug": "smolsend-n3gsh",
+    "description": "Send tokens to friends via a link, without them needing a wallet upfront",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qiqkw",
+      "bdi3h",
+      "1kchc",
+      "026zc"
+    ]
+  },
+  {
+    "name": "OmnichainFHEAuction",
+    "slug": "omnichainfheauction-h4q81",
+    "description": "Using fully-homomorphic encryption on Fhenix to implement second-price sealed bid auctions, and using LayerZero to allow bids from any chain, unifying liquidity: a global secret auction across all chains.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Things2Do",
+    "slug": "things2do-pugqi",
+    "description": "Our Discovery Feed curates relevant news and offers based on user transaction history, driving higher engagement. By promoting actionable content, it boosts user retention, reduces churn, and encourages transactions.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainSage",
+    "slug": "chainsage-0pwyv",
+    "description": "ChainSage: AI-powered DeFi strategy optimizer across multiple chains. Leverages Zircuit for high-performance smart contracts, LayerZero for cross-chain messaging, and Phala Network for confidential AI computations. Maximize your DeFi returns with personalized, secure insights.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qiqkw"
+    ]
+  },
+  {
+    "name": "tinder for memecoins",
+    "slug": "tinder-for-memecoins-q3i3k",
+    "description": "tinder for memecoins is a telegram mini app that lets you swipe right to purchase a memecoin",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "racoon-crypto-ai",
+    "slug": "racoon-crypto-ai-r0vyu",
+    "description": "Imagine being able to interact with your favorite protocols, but this time with a chat interface",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Easypeace",
+    "slug": "easypeace-mo3do",
+    "description": "There is room for improvement as to how we navigate conflict. Easy peace helps with that.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omni Castles",
+    "slug": "omni-castles-yv5wp",
+    "description": "In Omni Castles, players conquer castles across blockchains, using Skale’s gasless battles, Fhenix’s hidden armies with Acurast weather, and Rootstock’s Bitcoin-based morale. Control 70% of castles to be crowned Emperor—each requiring a unique strategy!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "croq1",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "ProgressionXR",
+    "slug": "progressionxr-84tjv",
+    "description": "ProgressionXR blends AI, XR, and Web3 for the ultimate fitness journey! 🧠🕶️🌍 Train with AI wellness coaches, sync workouts with Fitbit & VR, and earn rewards through fitness challenges while ensuring your privacy with multichain attestations. 🚀💪",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Best Consumer App",
+    "slug": "best-consumer-app-tcm75",
+    "description": "We make it easy for anyone - even consumers - to \"cook\" code with an AI-assisted interface.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "My Little Quant",
+    "slug": "my-little-quant-bmjyb",
+    "description": "AI agent to read charts and tell you where the orderblock is (so you know if it's a good time to buy)",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crède",
+    "slug": "crede-pucis",
+    "description": "Decentralized platform using Zero-Knowledge(K) circuits for secure identity verification.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bitGaming",
+    "slug": "bitgaming-2up94",
+    "description": "Play-to-earn gaming platform and NFT marketplace powered by AI, Blockchain and Decentralized storage",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Guides",
+    "slug": "guides-ac8ng",
+    "description": "An educational app for learning Web3 protocols with interactive lessons, on-chain actions, and attestations. Users earn XP, complete quizzes, and validate achievements on Polygon while seamlessly engaging with blockchain tech like Coinbase AA and Sign Attestation Protocol.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vdiyd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Notarix",
+    "slug": "notarix-hyb0a",
+    "description": "Our project is a secure, real-world, ID-verified notarization platform designed to streamline digital notarization while maintaining strong user privacy and security.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x3xey"
+    ]
+  },
+  {
+    "name": "TrueCanvas",
+    "slug": "truecanvas-5uwmd",
+    "description": "TrueCanvas empowers digital artists to authenticate their original work using zero-knowledge proofs. By providing command logs and artworks, artists generate proofs published to blockchains. This allows anyone to verify authenticity, enhancing trust in digital creations.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rhmm3",
+      "bk5qx",
+      "qy8m3",
+      "910t9"
+    ]
+  },
+  {
+    "name": "The Monk Store",
+    "slug": "the-monk-store-zsjk1",
+    "description": "Add feature that will allow user ENS names to be resolved to wallet address for payments",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "biwnb"
+    ]
+  },
+  {
+    "name": "EthBox",
+    "slug": "ethbox-ce3s1",
+    "description": "EthBox is a Web3-based Dropbox for artists and listeners. It ensures secure, tamper-proof, and verifiable file sharing through Dynamic login and Weavechain for encrypted storage, and Skale’s Calypso Chain for transaction proofs creating a decentralized solution to protect IPs",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Medily",
+    "slug": "medily-66gcm",
+    "description": "An on-chain platform for medical image storage, solving interoperability across global healthcare systems.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CareHippos",
+    "slug": "carehippos-sn19u",
+    "description": "Data aggregation app to give a real-time, reputational, and quantitative assessment of the community's health.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniV4Backtester",
+    "slug": "univ4backtester-ht1e6",
+    "description": "An institutional grade UniV4 backtester that faithfully replays UniV3 events (Swap, Mint, Burn), and see how a hypothetical position would have performed over a time window.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "CryptoBASO",
+    "slug": "cryptobaso-d7xqy",
+    "description": "Splits swaps across multiple transactions to prevent front running",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Liquidity",
+    "slug": "liquidity-w7ccf",
+    "description": "Implementation of an Automated Market Maker (AMM) contract using PINT (Programming Intent Notation). Supports providing liquidity, removing liquidity, token swaps, staking LP tokens, and claiming rewards based on staking duration.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "7pft7"
+    ]
+  },
+  {
+    "name": "ETHGambit",
+    "slug": "ethgambit-y8v9e",
+    "description": "A superior, decentralized alternative to online chess betting.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "TerraTracker",
+    "slug": "terratracker-7jne7",
+    "description": "TerraTracker: Harnessing blockchain and AI for hyper-local disaster predictions. Empower communities with real-time insights, engage users through staking rewards, and support relief efforts with a portion of profits. Predict. Prepare. Protect.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fluxus",
+    "slug": "fluxus-ci8sj",
+    "description": "The project aims to maintain stablecoin price stability within a Uniswap V4 pool by using Chronicle oracles and dynamic fees.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "sct4c",
+      "026zc"
+    ]
+  },
+  {
+    "name": "StreamChain",
+    "slug": "streamchain-zj41z",
+    "description": "We don’t want a centralized organization controlling crucial video evidence of things like police brutality or war crimes, but safety and legality must be paramount. StreamChain combines the trust of decentralized storage with the versatility of multi-modal LLM moderation.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vsbye",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "undegen finance",
+    "slug": "undegen-finance-ym8tt",
+    "description": "Undegen simplifies portfolio management by using a risk survey defined strategy to build and rebalance crypto investments automatically. Users can easily sign up, deposit funds, and maintain an optimal mix of assets based on their risk tolerance.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "sct4c",
+      "8o6ne"
+    ]
+  },
+  {
+    "name": "Æxtend",
+    "slug": "aextend-6e2df",
+    "description": "Æxtend is a way to take your life, your specialty, and spread it everywhere.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swipa.meme",
+    "slug": "swipa-meme-zucyg",
+    "description": "Memecoin collecting with Tinder UI and points. If you like it, swipe right 🚀",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Carbon Alerts",
+    "slug": "crypto-carbon-alerts-gus4z",
+    "description": "We built a React app that connects to user authentication via Alchemy’s Accounts UI Widget. We're creating a composite Ethereum token of two crypto carbon credits on Celo using Toucan Protocol. A subgraph listens to wallet events and broadcasts via XMTP to a Telegram bot.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PintSwap",
+    "slug": "pintswap-70ayj",
+    "description": "We built the first DEX on Essential Blockchain, powered by a declarative framework. Users can seamlessly add/remove liquidity, swap tokens, and earn LP tokens. Plus, we open-sourced a JS framework to make Essential development accessible to all developers.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "7pft7"
+    ]
+  },
+  {
+    "name": "SuperPass",
+    "slug": "superpass-z2esk",
+    "description": "Super secure password management to prevent database pass code from getting lost or stolen.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qdgjh",
+      "qdgjh",
+      "pk3b6"
+    ]
+  },
+  {
+    "name": "SmartEthereumWallet",
+    "slug": "smartethereumwallet-t692u",
+    "description": "Smart Ethereum Wallet is a secure, user-friendly wallet tracker that monitors your Ethereum wallet activities, sends notifications for incoming/outgoing transactions, and provides a summary of balance changes over time—all in one streamlined dashboard.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeHack",
+    "slug": "dehack-vepwo",
+    "description": "A blazing fast cross-chain bridge utilizing account abstraction across all EVM chains",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PumpRoyale",
+    "slug": "pumproyale-vdz5o",
+    "description": "Improve your fitness goals while also exposing yourself to immense monetary gain.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "x3xey",
+      "fjaae",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Curvy",
+    "slug": "curvy-vjk7e",
+    "description": "Uniswap V4 hook that interpolates between different types of AMM models based on parameters.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "HelloACAI",
+    "slug": "helloacai-hbeet",
+    "description": "HelloACAI is Agent-based Collaborative AI infrastructure running On-Chain",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SmolKOL",
+    "slug": "smolkol-v4sy5",
+    "description": "A transparent LLM-powered attention marketplace for Twitter.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "1kchc"
+    ]
+  },
+  {
+    "name": "Spatio",
+    "slug": "spatio-6ikch",
+    "description": "Spatio is the perfect assistant for new crypto retail traders",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8o6ne"
+    ]
+  },
+  {
+    "name": "BAM Protocol",
+    "slug": "bam-protocol-mg10y",
+    "description": "The BAM Protocol defines a new primitive for incentivizing provable off-chain actions on chain. In addition we have built the BAM portal v0.1, a competitive, scam resistant escrow market for Twitter KOL’s powered by our new primitive.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Archivault",
+    "slug": "archivault-46nts",
+    "description": "Museums collection management tool with blockchain-based storage",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPFi Strategy",
+    "slug": "ipfi-strategy-kxcda",
+    "description": "Create and tokenize your trading strategies on UniSwap with Story Protocol",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReFy",
+    "slug": "refy-ppy1t",
+    "description": "We're building a rewards system for businesses, where customers earn points on every purchase.   These points can be redeemed for gifts, driving customer loyalty and repeat visits.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anon Therapy",
+    "slug": "anon-therapy-sjjk0",
+    "description": "Still waiting for that bull cycle to arrive? Well, you tried therapy and that didn't quite work out, did it? We built Anon Therapy just for you. Speak freely to our trained AI therapists that know how to help degens like you.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TokenTally",
+    "slug": "tokentally-pceqb",
+    "description": "Empowering hackathons with decentralized, fair, and programmable judging.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stake2Meet",
+    "slug": "stake2meet-9c8do",
+    "description": "Stake2Meet: Stake ETH to book, show up to reclaim, valuing your time.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOsaster",
+    "slug": "daosaster-ngboi",
+    "description": "Built a decentralized, autonomous disaster response system using AI agents, drones, and blockchain to detect disasters and coordinate responses without relying on traditional infrastructure.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "bk5qx",
+      "jxca4",
+      "pfyco",
+      "rhmm3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Permissionless GPT4",
+    "slug": "permissionless-gpt4-h8oyg",
+    "description": "Permissionless access to the OpenAI API using TEE and TLS Notary.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PicFable",
+    "slug": "picfable-bzitq",
+    "description": "PicFable allows anyone to monetize their camera roll. Just upload your photos, set the price and terms of use, and you’re done. Buyers can purchase the rights to use your images, remix them, or train AI models on them - with everything handled onchain.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "Found in Translation",
+    "slug": "found-in-translation-rxyws",
+    "description": "Decentralised system for real time language translations, using open-sourced AI wearables.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "pk3b6"
+    ]
+  },
+  {
+    "name": "Archiv3",
+    "slug": "archiv3-183kk",
+    "description": "A video archive aggregator that allows documentary makers to license clips from multiple archives with ease.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "ETH Movie Voting",
+    "slug": "eth-movie-voting-msbpq",
+    "description": "The ETH Movie Database is a decentralized app built with React and Ethereum. It allows users to vote on movies transparently via MetaMask, recording votes on-chain for a secure, tamper-proof ranking system. A showcase of blockchain's potential in entertainment",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gameverse",
+    "slug": "gameverse-h8w91",
+    "description": "A chatbot integrating a text-based currency game and a real-world auction system",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "PolymarketAnalytics",
+    "slug": "polymarketanalytics-vt1dm",
+    "description": "Polymarket Analytics allows you to fetch and analyze all trades made by any account on Polymarket, bypassing the platform's viewing limitations. Track profit and loss over time, inspect impactful trades, and uncover trading strategies. Built using Scaffold-ETH-2 and subgraphs.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "SnapSafe",
+    "slug": "snapsafe-oa3mv",
+    "description": "The world's first secure screenshot app that prioritizes your privacy.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "vy7pe"
+    ]
+  },
+  {
+    "name": "AutoSplit",
+    "slug": "autosplit-dr6oj",
+    "description": "AutoSplit is an expense-sharing dApp that revolutionizes debt management. Define personalized debt thresholds, and watch as automated reimbursement requests with secure payment links are effortlessly dispatched—all powered by the gas-free Skale Network.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "my own words",
+    "slug": "my-own-words-9uap2",
+    "description": "Browser Extension for portable IP experimentation and interactions",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "Left Curve Simulator",
+    "slug": "left-curve-simulator-zzzqa",
+    "description": "LCS is a dex where users press one button and automatically purchase 3 silly memecoins at random.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IP Infinity",
+    "slug": "ip-infinity-mnkym",
+    "description": "The user will input their ENS; their NFTs are processed, labeled as a type of game object (character, equipment, other), and given stats based on its floor price and traits. The NFTs get put in a world with a procedurally generated map/world with full game functionality.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "t5on2",
+      "rhmm3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ZK Wallet",
+    "slug": "zk-wallet-tnmaq",
+    "description": "ZK Wallet improves wallet signature security and creates new authorization flows",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ExerciseTee",
+    "slug": "exercisetee-qepxo",
+    "description": "Monitor your exercise from Whoop and shame you on twitter if you don't exercise for two consecutive days!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quantum Gate",
+    "slug": "quantum-gate-7btoa",
+    "description": "Quantum Gate unlocks EVM utilities on BTC Ordinals inscriptions.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "Power Agents",
+    "slug": "power-agents-djqmb",
+    "description": "Create, manage and chat with your AI agents from a XMTP group chat.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "rpi4f",
+      "dkzkp",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Essence Vault",
+    "slug": "essence-vault-dmrve",
+    "description": "Essence Vault: a secure, efficient multisig wallet on Essential's declarative blockchain. #Essential #DeFi #Multisig #EthGlobal",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TipJar",
+    "slug": "tipjar-789zv",
+    "description": "The Tip Jar is a DApp that gamifies tipping and incentives community use.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pinnect",
+    "slug": "pinnect-j3531",
+    "description": "Pinnect: Interactive story co-creating platform that lets creators write and link stories on open-world.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JunLend",
+    "slug": "junlend-58snu",
+    "description": "One-click migration that guarantees better yield and liquidation protection.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "sct4c",
+      "026zc"
+    ]
+  },
+  {
+    "name": "root4.fun",
+    "slug": "root4-fun-uubnf",
+    "description": "memecoin launchpad built on Rootstock, offering easy tools for creating, buying, and selling memecoins. With AI-generated designs, seamless wallet connections, and credit card payments, it makes launching and sharing memecoins fun, fast, and accessible for everyone.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ggpyp",
+      "026zc",
+      "pk3b6"
+    ]
+  },
+  {
+    "name": "TheLottery",
+    "slug": "thelottery-jy2xa",
+    "description": "It's a cross chain lottery operated with LAyerZero, Dynamo, Ledger and ENS. Everybody from everywhere with everywallet can play",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeepTrust.eth",
+    "slug": "deeptrust-eth-6rv0v",
+    "description": "SoTA On-chain proofs for LLM Model Executions. DeepTrust.eth makes sure that OpenAI, Anthropic, Groq be honest about the model they are serving.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "hoshi",
+    "slug": "hoshi-xzzxj",
+    "description": "A web3 social media app that gives automatic IP rights to content creation through NFTs, making use of AI to identify derivative work.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rhmm3",
+      "t5on2",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "BulletPay",
+    "slug": "bulletpay-rsx64",
+    "description": "BulletPay is a blockchain native payment protocol. It enables instance confirmation in face to face payment while keeping the assets safely on-chain.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "tradealerts",
+    "slug": "tradealerts-43gav",
+    "description": "tradealerts notifies individuals or interest groups of trade events for a given policy.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTap",
+    "slug": "nftap-z0740",
+    "description": "connect via ens by bumping phones with verifiable irl connections",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shared trading",
+    "slug": "shared-trading-mzh4z",
+    "description": "Let one person trade, but many people contribute and withdraw any time they want",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Internet Astronaut",
+    "slug": "internet-astronaut-sq7ik",
+    "description": "Internet Astronaut is an innovative Web3-powered lottery that gives participants a once-in-a-lifetime opportunity to win a chance to become an astronaut.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TonGamers",
+    "slug": "tongamers-k3nq4",
+    "description": "Game built on TON integrated with Telegram built using react and ton smart contracts",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dextra",
+    "slug": "dextra-9wnc2",
+    "description": "Dextra is an on-chain text-based choose your own adventure game system ~ create or play!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "AVAZON",
+    "slug": "avazon-ed8hi",
+    "description": "Avazon creates AI agents using avatars and manages them with avatar ip assets 1.Users create avatars using prompts. 2.These avatars become AI agents, generating content like videos, music, and interacting in real-time. 3.Users can share and manage avatars and content via IP asset",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "FanFuel",
+    "slug": "fanfuel-3ds1u",
+    "description": "Grow your savings while supporting student-athletes with crypto staking. Fans earn rewards, athletes get funded, and teams thrive.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "ClippAi defi ai-gent",
+    "slug": "clippai-defi-ai-gent-b7qz3",
+    "description": "A crypto agent that helps make defi transactions safe and easy.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LayerKit",
+    "slug": "layerkit-ksqw0",
+    "description": "LayerKit lets you deploy LayerZero into rollups like Optimism with just one command in just a few minutes. This helps developers easily test and build cross-chain dApps with full flexibility",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "dkzkp",
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "SwiftStable",
+    "slug": "swiftstable-qnskc",
+    "description": "A global financial platform that enables seamless conversion and withdrawal of stablecoins across borders.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smart Storybook",
+    "slug": "smart-storybook-8foca",
+    "description": "Notebook with AI powers and automatic IP protection via Blockchain.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rhmm3"
+    ]
+  },
+  {
+    "name": "Improved Fruit Box",
+    "slug": "improved-fruit-box-eoxe8",
+    "description": "An improved version of the game \"Fruit Box\" in which you match apples such that they add up to ten",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CredPortal",
+    "slug": "credportal-abp5w",
+    "description": "User Interface for verifying on-chain issued Cred Tokens in person.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OV2 SF",
+    "slug": "ov2-sf-6tm05",
+    "description": "Crypto and CryptotoFiat Payments assisted through whatsapp for normies to use seamless blockchain interactions",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI agent PhalaN",
+    "slug": "ai-agent-phalan-vhtrw",
+    "description": "AI agent built on Phala Network to make payments autonomously",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HonorDAO",
+    "slug": "honordao-j6zw2",
+    "description": "HonorDAO distributes ‘Honor Token’ for every good transaction you do, and ‘Dishonor Token’ if you do a bad transaction. It allows users on Ethereum to rate the integrity of a transaction on whether the counter party held up their side of the deal.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alpha Scorpion",
+    "slug": "alpha-scorpion-bo9kn",
+    "description": "Alpha Scorpion is a multi-chain NFT project powered by LayerZero, offering seamless cross-chain minting, IP management, and immersive storytelling. Mint on Holesky, protect IP on Story Protocol, and unlock interactive experiences across blockchain networks. #NFT #Web3 #CrossChain",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chain Waves",
+    "slug": "chain-waves-6yipt",
+    "description": "A dApp that allows you to watermark audio files, and secure them on the blockchain",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rhmm3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Qiao",
+    "slug": "qiao-6o7h9",
+    "description": "Introducing 桥 Protocol 🌉 — an innovative layer that offloads computation to off-chain resources, enables cross-chain delegations, and offers a universal resolver for smart contracts to ensure seamless interoperability.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AITrainingDAOonchain",
+    "slug": "aitrainingdaoonchain-05vex",
+    "description": "Decentralized HuggingFace (Nostr-based decentralized AGI model storage protocol + AGI Git version control + SAAS private model Tokenomics) AGI as a Service, GIT as a Service",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SillyVoting",
+    "slug": "sillyvoting-6p76b",
+    "description": "Trying to allow people to create Survivor-like games on-chain!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aurum",
+    "slug": "aurum-7ry36",
+    "description": "The app that connects them all... Aurum is the payment experience that connects all worlds.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "sct4c",
+      "biwnb"
+    ]
+  },
+  {
+    "name": "?",
+    "slug": "-b0ih4",
+    "description": "a web3 integrated, culturally neutral pattern recognition game",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TerraFlow",
+    "slug": "terraflow-1gvun",
+    "description": "Terraflow is a DeFi AgriTech platform that tokenizes farmland and enables consumers to stake funds to support local farmers. Using blockchain, smart contracts, and NFTs, users can invest in fractional ownership, receive rewards, and help farmers access sustainable funding.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yield",
+    "slug": "yield-z4rt5",
+    "description": "Find the best, AI-optimized, interest rates in one click!  Yield is the robinhood of finance, it permits everyone (even your grandmother) to easily profit from the best interest rates in DeFi.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "vdiyd"
+    ]
+  },
+  {
+    "name": "Salus",
+    "slug": "salus-1xvur",
+    "description": "Salus is the first Web3 protocol that incentivizes health data sharing for discounts on medical and term insurance. By sharing data from apps like Apple Health, users can earn cash rewards and premium reductions.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bk5qx",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Zend It!",
+    "slug": "zend-it-0f93v",
+    "description": "Zend It ensures secure blockchain transactions by allowing users to verify details before signing, especially with Ledger hardware wallets. Using ZKPs and building on Polygon, Zend It offers transparent, risk-free interactions with smart contracts, putting users in full control.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "q7a12",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Decentralized Memes",
+    "slug": "decentralized-memes-0mpqc",
+    "description": "Decentralized Random Meme Generator while leveraging Ethereum blockchain for storing data, managing tokens, and interacting with smart contracts.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ether Go",
+    "slug": "ether-go-9y3ry",
+    "description": "Pokemon Go but with actual animals to crowdsource the $2.1B problem of wildlife tracking!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vy7pe",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "onChain Shopify",
+    "slug": "onchain-shopify-hmtu3",
+    "description": "Onchain Shopify platform; allows users to create online stores on the blockchain.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uneedswap V5",
+    "slug": "uneedswap-v5-jn1hx",
+    "description": "Multi-protocol Liquidity Pool - hosts multiple protocols and minimizes asset transfers",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "qy8m3",
+      "026zc",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Prop2Block",
+    "slug": "prop2block-oxvck",
+    "description": "A decentralized NFT real estate marketplace on Ethereum and Polygon. Users can buy, sell, and transfer property tokens with metadata on IPFS. Features escrow services, multi-party interactions (buyers, sellers, lenders), and low gas fees on Polygon.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Grid",
+    "slug": "the-grid-kxbwq",
+    "description": "Created a search engine of 10M+ free 3D models with AR Experience. Users can mint models as NFTs with metadata of artist. Integrated Coinbase AI wallet that reward user based on prompts. Features an AR experience like Minecraft Earth to showcase that nft",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0p5er"
+    ]
+  },
+  {
+    "name": "faxx_",
+    "slug": "faxx-2my3n",
+    "description": "faxx_ is a blockchain-powered platform that transforms the way we verify and interact with information in the digital age. It combines the transparency of blockchain technology with the power of crowd-sourced fact-checking to create a new paradigm for truth in media and beyond.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quark",
+    "slug": "quark-py5p4",
+    "description": "At Quark, we revolutionize asset management with omnichain messaging. QuarkVaults lets users deposit assets into managed vaults, each secured by policy-driven smart contracts, ensuring a secure and compliant experience across chains.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rhmm3",
+      "dkzkp",
+      "8o6ne",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Lifomation",
+    "slug": "lifomation-t48d7",
+    "description": "Lifomation is a smart platform that organizes and secures your important documents in one place. Powered by AI for seamless categorization and Walrus for decentralized, blockchain-backed storage, we ensure your information is always accessible, safe, and ready when needed.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Palace of Web3",
+    "slug": "palace-of-web3-b4z46",
+    "description": "Palace of web3 is a A web3 metaverse where avatars hang out, chat, have cute dates, complete social game quest to earn game coins and send gift.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dTunes",
+    "slug": "dtunes-bbdof",
+    "description": "dTunes opens up the world of Decentralized music sharing and discovery",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Thurman",
+    "slug": "thurman-2sxqj",
+    "description": "Unsecured SMB lending focused on community ownership and transparency.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Beertalik Brokerin",
+    "slug": "beertalik-brokerin-57rkv",
+    "description": "Combination of memecoin trading and beer! Tool for event organisers to let customers trade beer. The more users purchase beer, the higher the prices rise. Beer purchases are stored on NFC-enabled wristband, making it easy to exchange digital tokens for actual beverages.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "DAZU",
+    "slug": "dazu-jnuds",
+    "description": "DAZU is a decentralized invoicing platform improving traceability & cashflow",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "KOSMA",
+    "slug": "kosma-ek5nm",
+    "description": "Kosma is a decentralized social media platform that empowers content creators with true ownership through NFTs, ad-free privacy, and innovative monetization using background soft mining—all built on blockchain to ensure user data remains private and secure.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VoiceProfile",
+    "slug": "voiceprofile-twjwf",
+    "description": "Create dynamic user profiles through voice recordings minted as NFTs. Capture the richness of your voice to enhance social matching across apps. More than text—your voice is your unique identity.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dAIp",
+    "slug": "daip-fa9fa",
+    "description": "dAIp is a website builder for creating composable, IP-protected Dapps, empowering builders' monetization through AI and royalties.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rhmm3",
+      "5b69q",
+      "biwnb",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Game Matchmaking",
+    "slug": "game-matchmaking-pdkt1",
+    "description": "Gas efficient smart contract SDK for Multiplayer Game Matchmaking",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Touch",
+    "slug": "touch-7apnj",
+    "description": "Give NFTs to anyone you meet, by tapping your NFC card on their smartphone.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "ChimiaDAO",
+    "slug": "chimiadao-xsmjg",
+    "description": "Open sourcing DeSci R&D pipelines in applied chemistry via an experimental data marketplace and tokenized reactions",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "AI+web3 metrics",
+    "slug": "ai-web3-metrics-a18ra",
+    "description": "Adds a textual blackjack game on XMTP using message-kit against a dealer bot agent",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Pryv",
+    "slug": "pryv-e9x2i",
+    "description": "We use Marlin's TEE's to run inference that protects users PII from LLM providers.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Game Plus",
+    "slug": "game-plus-vjf8h",
+    "description": "Create your own personalized AI avatar by contributing social media and gaming data",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MachineMetricAgent",
+    "slug": "machinemetricagent-xcsp8",
+    "description": "Building open, verifiable hardware and software stacks using proof-of-machinehood",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lumina",
+    "slug": "lumina-01crm",
+    "description": "Lumina is an AI-powered mental health app combining therapy, journaling, & dreamsculpting. Log life events, explore dream visuals, & interact with 24/7 AI therapists. Earn rewards from daily prompts. Share encrypted data to connect with others on similar journeys.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "STS42 Smoothies",
+    "slug": "sts42-smoothies-aiq48",
+    "description": "Protect and monetize thinking process creators' intellectual property using web3.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Axolovision",
+    "slug": "axolovision-dyz54",
+    "description": "Streaming dapp for crowdsourced scientific research on Axolotls",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Super Tours",
+    "slug": "super-tours-9ekxy",
+    "description": "Super Tours is a cutting-edge mobile dapp revolutionizing tourism with AR and user-generated content. Instantly Create AI-powered routes of your favorite cities in 5 languages, explore immersive self-guided tours, and monetize your creativity through blockchain. All in one dapp!",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SocNet.Lol",
+    "slug": "socnet-lol-n7h79",
+    "description": "Bots invading human networks? Where else could a bot go? Here's a social network for bots to interact with each other. [most bots made by us]",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crocial",
+    "slug": "crocial-8nbt7",
+    "description": "web2 social media bridging web3 dapps. use social media in tradionatl web2 fashion but use web3 products without needing to know how to.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AGI-PIVOT",
+    "slug": "agi-pivot-swzoo",
+    "description": "If you upload an image, you can see the uploaded content in the individual decentralized block nodes on the left side. It's quite intuitive, like an AI photo album, with fragmented content. The main emphasis is on the concept of decentralized storage.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unihook",
+    "slug": "unihook-ujo6v",
+    "description": "Market Maker Hook aims to extend a real case based on Aggregator Hook. When a user initiates a transaction, the hook is called to add liquidity, allowing users to use quote from orderbook directly. It makes it possible for Market Maker to seamlessly integrate into Uniswap V4.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Gojo",
+    "slug": "gojo-nn59s",
+    "description": "No code solution for \"ANYONE\" to build a web3 prototype in less than 10 minutes",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockybara",
+    "slug": "blockybara-396sp",
+    "description": "An application leveraging FHE encryption for secure data protection, with decentralized file storage powered by Walrus.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoIndexFund",
+    "slug": "cryptoindexfund-0xrun",
+    "description": "Crypto index fund bundles for employee retirement benefit programs",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Open Frame",
+    "slug": "open-frame-t9rmb",
+    "description": "Open Frame generates dynamic previews for ENS in any XMTP client",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bucket.Foundation",
+    "slug": "bucket-foundation-atgp0",
+    "description": "Bucket provides a research platform with free to read and paid to cite research.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rhmm3",
+      "vsbye"
+    ]
+  },
+  {
+    "name": "AutoRetroFunding",
+    "slug": "autoretrofunding-bxy5k",
+    "description": "AutoRF is retro funding made simple. Project impact metrics are regularly indexed, which is used to configure on-chain splits contracts to reward projects over regular settlement periods. We launched “The Grinder’s Fund”, to reward the hardest working projects at ETHGlobal SF.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "e3t1p",
+      "qy8m3",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Keyless",
+    "slug": "keyless-znz6x",
+    "description": "Keyless AI is an AI-powered assistant that simplifies blockchain interactions. Users can perform token swaps, staking, and transfers using natural language. It leverages multi-agent systems to optimize transactions securely, integrating with smart accounts for seamless execution.",
+    "event": "ETHGlobal San Francisco",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jxca4",
+      "fjaae",
+      "qy8m3"
+    ]
+  }
+]

@@ -1,0 +1,1843 @@
+[
+  {
+    "name": "EdgeCause",
+    "slug": "edgecause-sbb9y",
+    "description": "EdgeCause: Empowering Change through Decentralized Campaigns. Join our portal, where individuals and organizations harness the crowd's power.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FIL-Riot-Protocol",
+    "slug": "fil-riot-protocol-3yuy5",
+    "description": "Experience the secure and reliable communication offered by the Riot protocol. Protect your IoT networks from security threats.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LPU NAME SERVICE",
+    "slug": "lpu-name-service-78z36",
+    "description": "Name Service for students to claim their credentials and documents which will be issued as NFT by Universities, like certificates and documents.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaBox",
+    "slug": "metabox-km0vi",
+    "description": "One Click Checkout for NFTs Cross-Chain and in any token (NFT.CLICK.BUY)",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShareDrop-P2P",
+    "slug": "sharedrop-p2p-kgmwj",
+    "description": "P2P ShareX: Fast, secure, and decentralized web app with PWA support, inspired by AirDrop. Transfer large files directly between devices without server uploads. User-friendly interface for easy management. Harnessing web3 technology for seamless decentralized sharing.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Redia",
+    "slug": "redia-j4kv5",
+    "description": "A medieval-themed RPG where AI controlled adventurers quest and slay monsters.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MintLock",
+    "slug": "mintlock-qsd53",
+    "description": "MintLock is a secure and user-friendly platform for minting encrypted NFTs. It leverages the Lit protocol, Spheron Network, and Push Protocol for its operations.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "launchyard (Incomplete)",
+    "slug": "launchyard-incomplete-z7kyg",
+    "description": "Launchyard is Mobile DAO platform to learn, engage and find ppl to collaborate and build together",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tribe: A decentralized community platform",
+    "slug": "tribe-a-decentralized-community-platform-mjj4z",
+    "description": "Tribe is a decentralized community platform which brings the independent content creators and their fans together.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "UploadIt",
+    "slug": "uploadit-8oz3h",
+    "description": "Dashboard that helps store and retrieve data from Filecoin via Lighthouse",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Community-Hub",
+    "slug": "community-hub-pz04s",
+    "description": "Community-Hub is a platform through which users from DAO can interact with each other without sharing their identity instead the users can connect through the ENS domain and can have video-chat as well group chatting through them as well.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SafeUpload",
+    "slug": "safeupload-whsj5",
+    "description": "SafeUpload is a cutting-edge application that prioritizes user safety and content integrity. With advanced NSFW (Not Safe for Work) checks, it ensures that only safe and appropriate videos are allowed for upload,",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Ark",
+    "slug": "ark-9nnp2",
+    "description": "Tradable Decentralised Gaming IDs platform to hold game assets & Trade DIDs or Characters",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "FanStreamium",
+    "slug": "fanstreamium-206rg",
+    "description": "FanStreamium: Decentralizing video streaming inspired by OnlyFans. Utilizing React, Next.js, Lighthouse, Livepeer, RainbowKit, NFTs. Featuring an integrated CMS, Tableland Web3 DB, and Lit Protocol for data control and privacy.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moonyield",
+    "slug": "moonyield-4yj0h",
+    "description": "Cross-chain gasless USDC deposit on Moonbeam from 5+ L2 chains",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "web3stash",
+    "slug": "web3stash-mn6iu",
+    "description": "Web3Stash is a standard library to get a single API to connect to multiple decentralized storage service providers.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "uorta",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Zen Garden",
+    "slug": "zen-garden-7g5kx",
+    "description": "A game that lets you virtually own and care for a forest, with our actions performed in the real world",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DANCOF",
+    "slug": "dancof-ma4i9",
+    "description": "Our vision is to become an infrastructure tool powered by blockchain technology that enables borderless money transfer for all those interested in establishing their own bank-like financial system. In essence, we aspire to be the \"bank of everything.\"",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Netcast",
+    "slug": "netcast-96pkh",
+    "description": "Netcast enables privacy preserving web3 social content distribution through zero knowledge machine learning enabling every content to be attested from it was original produced.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Definity",
+    "slug": "definity-ak5ad",
+    "description": "Definity is a way to safely share research paper between different organizations, or as an independent researcher, to publish your research work, using a cluster system.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NewOp.",
+    "slug": "newop-axsoy",
+    "description": "create campaign, join campaign, vote, and claim rewards, We have identified a problem where many individuals possess talents and skills in various fields, but they lack opportunities to showcase their abilities due to a lack of startup capital.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutonomousWorldsAvatar",
+    "slug": "autonomousworldsavatar-z2jhx",
+    "description": "With the power of the MUD framework and web3 storage integration, we empower users to upload and preserve their unique Autonomous World avatars.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeStore",
+    "slug": "destore-9jh1f",
+    "description": "Redefining Data Storage and Collaboration with Decentralization, NFTs, and Secure Chat Integration!",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "u0e0c"
+    ]
+  },
+  {
+    "name": "ai article generator",
+    "slug": "ai-article-generator-029u9",
+    "description": "I aspire to create an AI-powered article generator that utilizes Ethereum blockchain technology for gated access to high-quality, generated content. This application will combine the capabilities of advanced natural language processing",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeBlog",
+    "slug": "deblog-n8vir",
+    "description": "DeBlog: Decentralized blogging with blockchain & IPFS. Preserve content integrity, transform into unique collectibles. Empower bloggers & writers, monetize work. Join a decentralized ecosystem that values authenticity & community.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "888",
+    "slug": "888-bajjd",
+    "description": "An Open, Verifiable & Permissionless Filecoin FVM Fil+ Notary",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "botswald",
+    "slug": "botswald-1waoy",
+    "description": "create & sell & personalise chatbots on botswald, changing how we interact with bots.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Clover",
+    "slug": "clover-fk9jh",
+    "description": "Clover is a decentralised collaboration tool for DAOs, with the aim to reduce latency in DAO operations and activity.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Load Runner",
+    "slug": "load-runner-x4btd",
+    "description": "Load-Runner is a task runner concept using Bacalhau and provides a platform where the user can chain tasks(built by Devs for royalty fee) allowing non-tech users to be able participate on tech/code heavy operations.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTGenesis",
+    "slug": "nftgenesis-f4d37",
+    "description": "NFTGenesis is an innovative platform that empowers creators and collectors to launch their own unique NFT collections. With NFTGenesis, you can unleash your creativity and bring your digital assets to life in the form of non-fungible tokens.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "E2A",
+    "slug": "e2a-9hy6e",
+    "description": "Day 2 Day tool / APIs that used to analyze, extract and format the documents with the help of LLM",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nsgxy"
+    ]
+  },
+  {
+    "name": "FreeLance.eth",
+    "slug": "freelance-eth-zpdkd",
+    "description": "A platform for freelancers that operates on a peer-to-peer basis, is decentralized, and supports multiple blockchains.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "The DAO",
+    "slug": "the-dao-arkrr",
+    "description": "The-Dao: Empowering Data Dao with user-friendly UX, smart contract automation, and seamless orchestration for complex storage deals among Filecoin providers and clients.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3 React Boilerplate",
+    "slug": "web3-react-boilerplate-skg65",
+    "description": "Calling all aspiring Web3 developers! We're thrilled to unveil our latest creation: the ultimate Web3 React boilerplate. 🎉 Now, you can jumpstart your decentralized application (dApp) development journey with ease by simply cloning this powerful boilerplate.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArtQuire",
+    "slug": "artquire-mbf75",
+    "description": "ArtQuire is Built to Revolutionize how designers and artists showcase their talent, while users discover, customize, and collect unique digital art. Viewers can acquire art files, personalize them, and connect with designers for gigs.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filroad",
+    "slug": "filroad-h41pr",
+    "description": "One Stop Platform to buy and sell all digital products for all creators and DataDAO aggregators.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hexagon",
+    "slug": "hexagon-dhhto",
+    "description": "A dapp that leverages the power of blockchain technology, specifically Filecoin FVM Blockchain, to enable secure drug authentication. It allows users to verify the authenticity of pharmaceutical products, and get crucial drug information directly from the manufacturer.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecTube",
+    "slug": "dectube-gb25s",
+    "description": "DecTube: Decentralized YouTube. Upload, share, and watch videos. Privacy, censorship resistance, data ownership. Connect with creators, independent content discovery.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "venom-advanced-cli",
+    "slug": "venom-advanced-cli-m1m6e",
+    "description": "Venom dev ecosystem is growing, we need quick tools to get started with. We built a CLI tool to start frotnend with venom quickly with Next and React. More features like transaction scanner and CLI wallet to interact with the network also there.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Yield Data Collector",
+    "slug": "decentralized-yield-data-collector-hs96d",
+    "description": "We made a proof of concept of decentralized yield data aggregator. It gets the pool data, does calculation on it and shows the best APY value of the reserve to the user with push notification.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4hh1n"
+    ]
+  },
+  {
+    "name": "Delta",
+    "slug": "delta-qy7xd",
+    "description": "Institution-grade Lending/Borrowing & Insurance Markets on FVM",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Anon",
+    "slug": "anon-wgrk1",
+    "description": "Anonymity guaranteed! Chat, connect, and reveal your identity when you're ready on our dating site. Geeky mode for devs, Crazy mode for diverse matches based on shared interests. Say no to lewd comments! Safe, inclusive, and exciting.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kitai Pay",
+    "slug": "kitai-pay-ja4qx",
+    "description": "Experience hassle-free subscription management with our cutting-edge platform powered by Superfluid SDK. Seamlessly create, manage, and maintain subscriptions across multiple blockchain networks and tokens. Simplify your subscription process for individuals and businesses.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockmail",
+    "slug": "blockmail-n4nym",
+    "description": "Blockmail is a decentralized mail system, where you can send and receive mails using wallet addresses, ensuring secured and decentralized data transactions",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "MetaStadium",
+    "slug": "metastadium-yefp3",
+    "description": "A decentralized live streaming platform merging the metaverse and streaming, empowering streamers to monetize their content and engage with fans in interactive virtual environments. NFT minting, spatial audio, and blockchain integrations enhance the immersive experience.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fil Frens",
+    "slug": "fil-frens-fry85",
+    "description": "Fil Frens is an innovative web app to discover addresses on FVM. By submitting an address, the user can explore the ENS address, domain, and chat with the user. forge new friendships directly with address holders.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "u0e0c"
+    ]
+  },
+  {
+    "name": "gaming Studios",
+    "slug": "gaming-studios-ed3vr",
+    "description": "Connecting Stars and Studios: TrustPoint - The Decentralized Deal-Making Platform",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SyncX",
+    "slug": "syncx-sw30b",
+    "description": "Connect with your audience and grow your business seamlessly",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "v693n"
+    ]
+  },
+  {
+    "name": "Blockaoke",
+    "slug": "blockaoke-unsoh",
+    "description": "Have an enriching web3 experience and let AI decide who is best at singing in a karaoke battle with your friends!",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3 Restaurant Reviews",
+    "slug": "web3-restaurant-reviews-c65su",
+    "description": "A decentralized review system built on blockchain. There are many restaurant review platforms available, but they are often centralized and lack transparency.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ApeCam",
+    "slug": "apecam-b3pi5",
+    "description": "Stealcam but for Ape community. Steal other videos using APE.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Global PayChain",
+    "slug": "global-paychain-ca7yp",
+    "description": "International money transfers are expensive, complicated, and long. Global Paychain lets you transfer funds from anywhere, any way.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lit-SimpleAA-Demo",
+    "slug": "lit-simpleaa-demo-qaz11",
+    "description": "I have created a demo that seamlessly generates a Smart Wallet (ERC-4337 Account Abstraction) from an email address. It's a forked version of the demo created by Lit, which allows easy creation of PKP using email verification.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BidBuddy",
+    "slug": "bidbuddy-1d3gw",
+    "description": "Bidding platform for crypto event tickets. Connect your wallet, message the buyer, and place a bid!",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Secure Stamp",
+    "slug": "secure-stamp-p7jsv",
+    "description": "Verification of possession during crucial moments of your significant creations and ideas supported by the potency of Hashing and Merkle trees.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "🔔 PENSER - Push ENS Expiry Reminder",
+    "slug": "penser-push-ens-expiry-reminder-n753i",
+    "description": "get reminded when your ENS domain is about to expire with the power of Push Protocol",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MedDAO",
+    "slug": "meddao-0fh4w",
+    "description": "We revolutionize medical research by incentivizing patient's personal contributions to create decentralized datasets for AI-driven healthcare advancements. Completely anonymous, aggregrated, encrypted & secure platform. Privacy is our utmost priority",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TENTAI",
+    "slug": "tentai-ub5xn",
+    "description": "sdk to shill AI models running on decentralized cloud instead of hugging face spaces",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4hh1n"
+    ]
+  },
+  {
+    "name": "ArtiFi",
+    "slug": "artifi-03rxd",
+    "description": "Artifi is an innovative platform that empowers professional artists to showcase and monetize their artwork through the use of NFTs (Non-Fungible Tokens).",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "BidMyVideo",
+    "slug": "bidmyvideo-5xodo",
+    "description": "BidMyVId: Share & bid on videos! Upload, auction, and earn with video NFTs. Powered by LivePeer, Polybase, & Push Protocol. Subscribe for notifications. Join the revolution!",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "ResearchDao",
+    "slug": "researchdao-e0c89",
+    "description": "Unleashing the Future of Science: ResearchDao a DataDao built on FVM.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "LightPort",
+    "slug": "lightport-fvcik",
+    "description": "A more accessible Filecoin data storage platform for more users",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tantrika",
+    "slug": "tantrika-0xq6r",
+    "description": "An Open-Source Distributed AI Infrastructure built on top of FEVM",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Midnight Snack",
+    "slug": "midnight-snack-g2kib",
+    "description": "--TestData----TestData----TestData----TestData----TestData----TestData----",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fractional Over Collateralized Stablecoin",
+    "slug": "fractional-over-collateralized-stablecoin-yim38",
+    "description": "The next evolution in stablecoins, combining DAI's collateral with (prev) FRAX's seigniorage. An answer to centralized risk, FOX fuels safer DeFi and blockchain ecosystems.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "polyvisor",
+    "slug": "polyvisor-2t9fr",
+    "description": "Polybase data visualiser, analysis, compute, backups, search and filter web app",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "DAOmocracy",
+    "slug": "daomocracy-uaqed",
+    "description": "DAOmocracy is a dapp for decision-making by random delegations and rewarding individuals for votes that benefit the collective",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "o1uf7"
+    ]
+  },
+  {
+    "name": "Habitz",
+    "slug": "habitz-84byt",
+    "description": "Habitz is a habit-forming platform that combines blockchain technology, behavioral economics principles to inceltivize and reward users for forming and sticking to new habits.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "One Ring",
+    "slug": "one-ring-t0jcz",
+    "description": "A dweb implementation based on Rings Network, which allows unrestricted access to network services and content. The process of accessing content is end-to-end encrypted. In this demo, we provide a simple decentralized access method for Uniswap and Tornado Cash.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVMCall",
+    "slug": "fvmcall-eur9j",
+    "description": "The ultimate oracle for Web3 developers on FVM. Automate and manage smart contract effortlessly on the FVM. Seamlessly automate storage deals, unlocking the power of decentralized storage. Empowering you with a powerful platform, rich UI, and automatic storage deal management.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "attendify",
+    "slug": "attendify-7h9sf",
+    "description": "Attendify is a protocol to reward participation. Hackathons, meetings, conferences, reward attendees with non transferrable, soul bound nfts called prezents and build their onchain presence. register your event on attendify to get your magic mint link and QR code!",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pensieve",
+    "slug": "pensieve-d0ixh",
+    "description": "Pensieve is a decentralized file storage to recreate your those moments in your memories and share with others. As you upload these memories, you can also choose to take part in the documentation of the HISTORY OF APES (HOMO SAPIENS).",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "u0e0c",
+      "4hh1n",
+      "op6xo"
+    ]
+  },
+  {
+    "name": "FileUnify",
+    "slug": "fileunify-ffm0h",
+    "description": "FileUnify is a revolutionary DApp that harnesses the strengths of IPFS and FVM to provide a safe and reliable storage solution for humanity's most important information.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKHack",
+    "slug": "zkhack-k0xtn",
+    "description": "Our project tackles the problem of plagiarism in hackathons by leveraging AI to analyze project descriptions and identify unique keywords.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FIL CAD",
+    "slug": "fil-cad-fvv6v",
+    "description": "Developer tools to enable CAD designers and Web3 artists with on-chain and open source raster graphics editor for free form drawing, editing using Filecoin and Web3 ecosystem tools",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockCMS",
+    "slug": "blockcms-vp974",
+    "description": "Headless CMS for the Decentralized web built on Polybase and Ceramic.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3 Youtube",
+    "slug": "web3-youtube-7h05w",
+    "description": "A web3 Youtube which helps users have the hold of their content and does not depend on any other platform for their content. Users can get superchats in Crypto, make live streams, make rooms with the fellow subscribers, etc",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Open Profile",
+    "slug": "open-profile-vfwkz",
+    "description": "Open Profile is a decentralized social media infrastructure built on blockchain using APE COIN and IPFS",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Career Bro w/ AI",
+    "slug": "career-bro-w-ai-tdg95",
+    "description": "AI assistant for building a great resume and getting a dream job",
+    "event": "HackFS 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9",
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Xstream",
+    "slug": "xstream-c4bxm",
+    "description": "Xstream is a token-gated Video streaming platform for watching exclusive content of your favourite streamers by minting their NFT and also can chat with these streamers using Push Chat by holding their NFT.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Chain Schedule",
+    "slug": "chain-schedule-t5se4",
+    "description": "Scheduling made simpler for web3 native ecosystem, introducing wallet based scheduling solution",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Test",
+    "slug": "test-opmnk",
+    "description": "Test test test test test test test test test test test test test test",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wis3",
+    "slug": "wis3-91a0v",
+    "description": "Create, Sell, Buy online courses and get certificates on completion",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "v693n"
+    ]
+  },
+  {
+    "name": "OnlyFan3",
+    "slug": "onlyfan3-4689y",
+    "description": "Onlyfan3 is a decentralized social media that allows creators to share & monetize their content directly with fans. Thanks to web3, users of Onlyfan3 benefit from 1)strong privacy, 2)direct p2p transactions, 3)lower fees, and 4)a healthy ecosystem driven by community governance.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Knights Descent",
+    "slug": "knights-descent-mty7o",
+    "description": "An engaging web3 rougelike gaming experience with numerous earnable rewards",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Archangel",
+    "slug": "archangel-qysk0",
+    "description": "The ultimate video chatting Web3 application you will ever need.It comes with Public rooms created by online users across the world ready to be joined by anybody on Archangel.It also has a feature of Private rooms that can be joined by particular NFT holders set by room creator.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FileCoinGPT",
+    "slug": "filecoingpt-r8xwr",
+    "description": "This is a chat bot gpt paradigm. I am using a new UX pattern ChatDex for (chat driven experince) to interact with the Filecoin ecosystem.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Subpr0br",
+    "slug": "subpr0br-ohvbo",
+    "description": "An all in one, no-code, decentralized IPC subnet explorer. Subnet creators will be able to deploy all infrastructure easily.",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "j5c6h",
+      "eov0f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Twype",
+    "slug": "twype-nebh5",
+    "description": "Twype is a tradeable video calls platform based on Orb NFTs. It uses Huddl01 for weekly token-gated calls at specified time slots.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "v693n"
+    ]
+  },
+  {
+    "name": "Dapp Classroom",
+    "slug": "dapp-classroom-q1xok",
+    "description": "Dapp Classroom: Decentralized Google Classroom. Teachers create classes, students join with unique codes, online meetings are held, assignments are created and submitted securely. A decentralized solution for collaborative learning, enhancing transparency and data integrity.",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9",
+      "v693n"
+    ]
+  },
+  {
+    "name": "Vidispark",
+    "slug": "vidispark-igt6m",
+    "description": "Vidispark is a decentralize streaming platform that provides users with great experience and also great security",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ethereum Account Fraud Detection",
+    "slug": "ethereum-account-fraud-detection-fc10c",
+    "description": "EFD also know as Ethereum Account Fraud Detection is a smart contract on Filecoin that allows users to check if a particular Account is Fraudulent or not which is powered by Machine Learning.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Datanomy",
+    "slug": "datanomy-qxn0b",
+    "description": "Fueling the data economy with collaborative, trusted, and incentivized data creation. Post bounties, reward contributors, and store datasets on Filecoin.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FeatureChain",
+    "slug": "featurechain-k6ifd",
+    "description": "FeatureChain is an open source decentralized app that empowers users to create and manage public feature request boards without using centralized platform authorities such as Jira or Trello.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "IdP3",
+    "slug": "idp3-1j0ar",
+    "description": "IdP3 is a fully decentralized solution for authorization, leveraging SIOPv2 and OID4VP. This system empowers users to turn their wallets into Self-Issued ID Token Providers (SIOP) and attach credentials as Verifiable Presentations.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "spaces3",
+    "slug": "spaces3-p2r17",
+    "description": "An audio conference app you've been waiting for! With token gating, you decide who joins your calls. Stay connected with your team through live chat support and customize your experience with profile management and make it your own. 🚀",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "v693n"
+    ]
+  },
+  {
+    "name": "TableSwap",
+    "slug": "tableswap-vfi5d",
+    "description": "Storing peer-to-peer hardware swap offers and trades on the blockchain",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trade-Xp",
+    "slug": "trade-xp-eb0p0",
+    "description": "A socio-finance dapp which enables users to trade while interacting with other users",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PeerPlay",
+    "slug": "peerplay-jqwpa",
+    "description": "🎥 Unlock your creativity and earning potential with Peerplay! Monetize from day 1 with token-gated videos and live streams support. It also supports chat and 1-on-1 video calls, empowering creators like never before. 🚀",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "DecentralStock",
+    "slug": "decentralstock-ug6iv",
+    "description": "Discover a decentralized alternative to Google Photos with our innovative dApp. Utilizing Filecoin's secure storage and AI-driven categorization, easily store, organize, and share your photos and videos while maintaining complete control over your personal data.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DUAL",
+    "slug": "dual-e36jb",
+    "description": "Dual is a social GameFi platform built on Filecoin. It empowers gamers to explore and trade NFTs by participating in dual battles. Dual also provides a platform for users to build gaming communities and monetize their skills through live streaming and video content",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "waslah",
+    "slug": "waslah-8kcem",
+    "description": "enable data to be migrated from mongodb Web2 data storage layer to Spheron Storage. For example a connector that can create a backup of MongoDB via Spheron or a building connector",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "u0e0c",
+      "omyxt",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "GreenChain",
+    "slug": "greenchain-ak4x2",
+    "description": "\"Introducing GreenChain, a user-friendly Web 3.0 app that helps individuals and companies monitor their carbon emissions and taxes. Stay below government-set caps, earn rewards in crypto tokens, and track your progress towards a sustainable future. 🌍\"",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dat-Sat-4A!",
+    "slug": "dat-sat-4a-ibh75",
+    "description": "Revolutionary Dataset Compute and Annotate Platform.on bacalhau",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fvm-cli",
+    "slug": "fvm-cli-txxd1",
+    "description": "A cli tool similar to Hardhat for filecoin, this cli tool will make it easy to develop FVM specific smart contracts.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Daggle",
+    "slug": "daggle-6xot9",
+    "description": "A swiss knife for Bacalhau, everything you need in an easily accessible dashboard.",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4hh1n",
+      "bw7y9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Videfi",
+    "slug": "videfi-nvth7",
+    "description": "NFT content that you actually create, own and earn. Built with ❤️ by Videfi",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t3zyt"
+    ]
+  },
+  {
+    "name": "Saturn Moonlet",
+    "slug": "saturn-moonlet-c4583",
+    "description": "Filecoin Saturn monitoring for node operators. More powerful and insightful alternative to Saturn Node Dashboard that anyone can run.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jwenb"
+    ]
+  },
+  {
+    "name": "HomeChain",
+    "slug": "homechain-r9usq",
+    "description": "House exchange (buy/sell) easily with zero-knowledge database",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PeerLock",
+    "slug": "peerlock-y9yk4",
+    "description": "PeerLock is a Key sharing Layer which run on top of Filecoin. And It will act as a network of Nodes which clients will rent out and store their keys.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GPU-Hub",
+    "slug": "gpu-hub-1ktpy",
+    "description": "GPUHub enables decentralized sharing of GPU computing power, connecting owners with users in need. It optimizes resource utilization, empowering developers and researchers to speed up GPU-intensive tasks.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FileMore",
+    "slug": "filemore-v69ev",
+    "description": "FileMore extends NFT longevity with Filecoin's bound SmartAccounts (ERC-6551)",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "libp2p Universal Connectivity: File-sharing",
+    "slug": "libp2p-universal-connectivity-file-sharing-or7cn",
+    "description": "Adding a file-sharing feature to libp2p universal connectivity, so that developers can know what they can do with libp2p these days in various environments.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mi9fg"
+    ]
+  },
+  {
+    "name": "Cannabis Genome DAO",
+    "slug": "cannabis-genome-dao-wv1oq",
+    "description": "A marketplace for a Data DAO that operates on Polygon and stores encrypted data on Filecoin.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Our Vault",
+    "slug": "our-vault-bvurj",
+    "description": "Easy Social Recovery.  Back up any seed phrase or secret, powered by the magic of verifiable encryption.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Chamber of Secrets",
+    "slug": "the-chamber-of-secrets-78v06",
+    "description": "The Chamber of Secrets is a decentralized dead man switch powered by The League of Entropy and the InterPlanetary FileSystem available on any Ethereum Virtual Machine",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "o1uf7"
+    ]
+  },
+  {
+    "name": "Star Streamer",
+    "slug": "star-streamer-huakw",
+    "description": "p2p video streaming for decentralized content sharing with libp2p, ipfs and hypercore",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "uorta",
+      "mi9fg"
+    ]
+  },
+  {
+    "name": "Peersky Browser",
+    "slug": "peersky-browser-c0a9m",
+    "description": "A p2p, offline, and experimental web browser for everyone!!!",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Workspace3.0",
+    "slug": "workspace3-0-f9svf",
+    "description": "Best way to collaborate and work for an organisation/DAO. Built on top Push, Huddle01, Lighthouse and Polybase.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Secret Agent",
+    "slug": "secret-agent-h7cfs",
+    "description": "Local application for building AI agents, and collaborating with your team through chat and documents.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "De-DataCollabria",
+    "slug": "de-datacollabria-64czd",
+    "description": "We are creating a decentralized platform In which a user can upload the different category datasets and also upload the ML Model, and by uploading the code users can  compute their code in a decentralized way.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "x2bo0"
+    ]
+  },
+  {
+    "name": "VidWeave",
+    "slug": "vidweave-y8a4k",
+    "description": "VidWeave: Empowering decentralized video messaging and screen recording. Seamlessly communicate and collaborate with others through encrypted, peer-to-peer video sharing. Take control of your data and privacy while revolutionizing the way we connect and create.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4jgzz",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "digital-ticket-stream",
+    "slug": "digital-ticket-stream-kffp8",
+    "description": "digital tickets stream platform help content creator sell tickets",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "v693n"
+    ]
+  },
+  {
+    "name": "Peer 'n' Pay",
+    "slug": "peer-n-pay-hc2hz",
+    "description": "Peer'n'Pay is an easy to use mobile wallet app, which aims to fully abstract the technical blockchain part away from the user.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "GetYourDoctor",
+    "slug": "getyourdoctor-hxwzy",
+    "description": "GetYourDoc: Decentralized healthcare platform with video conferencing, secure patient data storage on Filecoin, NFT-based doctor authentication, and non-transferrable ERC20 tokens for free trial. Connecting patients and doctors for convenient online consultations.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anonique",
+    "slug": "anonique-qu2uu",
+    "description": "Anonique is a non-custodial solution that uses stealth addresses which enables users to receive funds on Filecoin Blockchain without revealing receivers real address.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyFile",
+    "slug": "onlyfile-2arur",
+    "description": "Pay per view protocol and frontend for IPFS and FIlecoin files",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flight",
+    "slug": "flight-4b08a",
+    "description": "Flight is a decentralized platform that creates a vibrant community where FPV pilots, racers, and drone enthusiasts can hang out, connect, chat, and collaborate even go out on virtual FPV expeditions.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Patr",
+    "slug": "patr-z194x",
+    "description": "Nostr-compatible decentralized social media that uses open-source decentralized tech like ENS and IPLD to provide implementations of important parts of the Nostr protocol family.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "JamiiLab",
+    "slug": "jamiilab-9z60q",
+    "description": "A decentralized citizen science platform that connects passionate individuals to contribute their expertise, share data, and collaborate on scientific projects",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4jgzz"
+    ]
+  },
+  {
+    "name": "unid.store",
+    "slug": "unid-store-2yukr",
+    "description": "Super simple file sharing  - decentralized, quick, and without registration",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "uorta"
+    ]
+  },
+  {
+    "name": "Gangabon Protocol",
+    "slug": "gangabon-protocol-o6xu4",
+    "description": "digital Measurement Reporting Verification (dMRV) for emerging renewable energy that we can trust",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeSearch DAO",
+    "slug": "desearch-dao-3ydgn",
+    "description": "Empowering the Scientific Community with Decentralized Science (DeSci) with the help of DataDAO",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockhead: HackFS 2023",
+    "slug": "blockhead-hackfs-2023-edg0v",
+    "description": "Visualize and explore files and content from across the InterPlanetary File System using Blockhead's IPFS explorer, file browser, file uploader, CID decoder tool and an in-browser IPFS node powered by libp2p and Helia!",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentralAI",
+    "slug": "decentralai-53tkx",
+    "description": "DecentralAI: Unleashing the power of Web3 DAO communities to collectively own, collaborate, build and share AI applications trustlessly, all without the need for coding, providing data engine solutions for AI businesses via Web3",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Join",
+    "slug": "join-i5mn9",
+    "description": "Suite that allows community to finds all web3 events in one place receiving decentralized notifications.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Storyteller",
+    "slug": "storyteller-iyi51",
+    "description": "A creator collaboration tool that allows artists to leverage AI and create visually stunning stories living on the blockchain.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Archivooor",
+    "slug": "archivooor-jrwsh",
+    "description": "Watch and capture your favorite moments and highlights of events",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4jgzz",
+      "bw7y9",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "InferAI",
+    "slug": "inferai-21kyn",
+    "description": "A single click deploying of your ML models on a decentralized compute and storage powered by Filecoin Virtual Machine, Bacalhau & Libp2p",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4hh1n"
+    ]
+  },
+  {
+    "name": "Amarum",
+    "slug": "amarum-h7khc",
+    "description": "Amarum is a web3 video project with the aim of helping creators publish exciting video datasets and share them easily while getting paid for that. The datasets upon submission is curated and stored on the filecoin SPs through data deals that are renewal by the DAO admin.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Proof of Dev",
+    "slug": "proof-of-dev-xcpwf",
+    "description": "Proof of development - get rewarded for open source contributions",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalletDrop",
+    "slug": "walletdrop-7apwi",
+    "description": "WalletDrop, a CLI tool, enables instant, secure file sharing to wallet addresses and ENS. Leveraging Libp2p's decentralization, it offers a seamless user experience with easy to use commands.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Web3Sound",
+    "slug": "web3sound-o5i42",
+    "description": "The issue: Giant music streaming platforms take a majority % of the revenue that the artist's content generates. The solution: Use web3 to govern a new streaming app that lets creators earn their fair share from the listeners.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DataNexus",
+    "slug": "datanexus-f0p75",
+    "description": "Building Trust around storage & Building Trust around storage",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "YES",
+    "slug": "yes-p937m",
+    "description": "The Decentralized Verifiable Credentials Document Issuance Infrastructure is a platform where institutions can issue and store VC Documents for holders in a decentralized manner.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DaoLingo",
+    "slug": "daolingo-fd6uw",
+    "description": "A DataDao for accessibility of high quality data about rare and dying languages.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "360 Apartment View",
+    "slug": "360-apartment-view-4hb6y",
+    "description": "Immersive 360-degree virtual tours of apartments where you can upload and view a 360-degree virtual Apartment",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wallet OTP (One Time Password)",
+    "slug": "wallet-otp-one-time-password-pp9gx",
+    "description": "Wallet OTP provides 2FA for any web2 or web3 service by generating one-time-passwords from your wallet encrypted secrets",
+    "event": "HackFS 2023",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "jwenb",
+      "bw7y9",
+      "t4bwy",
+      "hp48a",
+      "t3zyt",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Collectify",
+    "slug": "collectify-wiap2",
+    "description": "Collectify WordPress Plugin enables site owners to integrate smart contracts into their posts and pages, effectively restricting access to content. Readers can only view these posts and pages if they possess specified NFTs in their digital wallets.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "qdrive",
+    "slug": "qdrive-g6qp2",
+    "description": "A tool that uses natural language via langchain to upload files to IPFS using web3.storage",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Strim3",
+    "slug": "strim3-0s5mv",
+    "description": "A p2p streaming platform utilizing decentralised technologies, IPFS, Filecoin, Huddle01",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TeleMedic",
+    "slug": "telemedic-mzhwm",
+    "description": "Telemedic: A DApp enabling doctors to provide online consultations & host health seminars. Seamlessly connect with patients remotely, diagnose conditions, prescribe medications, & conduct virtual sessions.",
+    "event": "HackFS 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "v693n",
+      "t3zyt",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Hearthside Hangouts",
+    "slug": "hearthside-hangouts-ah41z",
+    "description": "Experience a different way to read with Hearthside Hangouts 🏕️🌟 📚 Start or join bookclubs that match your vibe and (re)discover reading with milestone-based reads and dedicated chapter reviews discussions in both text and exclusive audio rooms.",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4jgzz",
+      "v693n",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Polyverse",
+    "slug": "polyverse-s9qn2",
+    "description": "Introducing a groundbreaking web3 content platform that completely transforms the creators' payment and content sharing landscape, while empowering them like never before.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OrionSync",
+    "slug": "orionsync-o74ap",
+    "description": "Multi-signature workspace for BuildLers to collaborate effectively on projects, and fairly distribute prizes/revenue",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DatAgent DAO",
+    "slug": "datagent-dao-gkd66",
+    "description": "A DAO marketplace where communities can share their datasets to train models, etc and earn collectively from them as per their choice.",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "u0e0c",
+      "nsgxy",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Chitty chat",
+    "slug": "chitty-chat-6x1ip",
+    "description": "Meet Chitty Chat, an enhanced Push chat app! A one-stop shop for easy interaction with web3 tools, DataDao management, ChatGPT access, and IPFS file handling.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "EtherEngine",
+    "slug": "etherengine-100ep",
+    "description": "We want to create a Data DAO where scientists can pay for AI work or different stuff, we want to use Bachalau in order to achieve this",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cosmicwaves",
+    "slug": "cosmicwaves-20gwo",
+    "description": "This unique music streaming service is decentralized, community-driven, and prioritizes user privacy and security. You can share your music and collaborate with others while enjoying a personalized, engaging experience. Give it a try and experience the future of music streaming!",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Catalyst",
+    "slug": "catalyst-a8i6j",
+    "description": "Introducing Catalyst: a revolutionary app for storing all your photos and videos with unlimited storage on your phone, completely free! Say goodbye to storage limitations and keep your entire media library at your fingertips.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Dauthenticator",
+    "slug": "dauthenticator-5w4mw",
+    "description": "Dauthenticator is a decentralized version of the google authenticator app. Users can register entries and generate TOTP codes to authenticate against their favorite services and applications all over the world.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "TrueSnap",
+    "slug": "truesnap-c1ubn",
+    "description": "A revolutionary mobile app that restores trust and authenticity to digital photography. With TrueSnap, users can snap a picture and mint it as an NFT, verifying its uniqueness and preserving its integrity forever.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RapidStore",
+    "slug": "rapidstore-vao9f",
+    "description": "We now have a decentralized storage application. Meet RapidStore, you can use it for your storage needs and it is easy to use. It is also much more efficient compared to many other decentralized storage applications we see today in the web3 ecosystem.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyChains",
+    "slug": "onlychains-ho8a7",
+    "description": "OnlyFans completely decentralized on the blockchain with Apecoin!",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Art Liberation DAO",
+    "slug": "art-liberation-dao-y5f5y",
+    "description": "Art Liberation DAO was launched to rethink about new business models, NFTs and Web3 native, to empower art creators in general.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zenith",
+    "slug": "zenith-3wesj",
+    "description": "Building a web3 solution for Scientific Article peer review and publishing platform",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ai.repo",
+    "slug": "ai-repo-7o893",
+    "description": "AI Tuning and Model Repository with Discoverability and ENS enabled use",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "96pd9"
+    ]
+  },
+  {
+    "name": "FileBlox",
+    "slug": "fileblox-y0rjm",
+    "description": "FileBlox enables the creation of encrypted NFTs. It solves the right-click-and-save problem for our content creators while letting them get all the benefits of tokenization.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "uorta",
+      "t3zyt"
+    ]
+  },
+  {
+    "name": "JournaLink",
+    "slug": "journalink-ix7qs",
+    "description": "A data DAO for news enthusiasts that incentivizes their enthusiasm.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Ads Network",
+    "slug": "ads-network-mzpn3",
+    "description": "adsmarket-based social network built around reputation system and self-regulations",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Poptart2",
+    "slug": "poptart2-yb90c",
+    "description": "testestestestestestestestestestestestestestestestestestestesstestesstestesstestesstestes",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Garage Against The Machine",
+    "slug": "garage-against-the-machine-gniwo",
+    "description": "A game about SPACE. Emergently co-generate an urban commons as a Self-Provisioning Autonomous Commons Entity in an eastern-European garage cooperative site, using MUD, Unity and EIP6551 autonomous agents",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YieldGranter",
+    "slug": "yieldgranter-vsf5f",
+    "description": "A transparent donation app with subscriptions. Stake funds, donate a percent of yields to projects",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RegenWise",
+    "slug": "regenwise-55beo",
+    "description": "Regenwise is a DApp that is designed to collect, organize, analyze, interpret, teach and promote one of the planet's most important data, namely regen data. Regen (regeneration) means the restoration and responsible management of environmental systems.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "DataTrustedGraph+",
+    "slug": "datatrustedgraph-55geg",
+    "description": "We would like to add value to the data already gathered in FileCoin and DataDAO by providing an easy way to access data and a review of the reliability of the data.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jwenb"
+    ]
+  },
+  {
+    "name": "The Eden",
+    "slug": "the-eden-g939p",
+    "description": "The Eden is a decentralized live streaming platform empowering web 3 projects with privacy-focused features, token incentives, and community ownership.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Artworks Data DAO",
+    "slug": "artworks-data-dao-aopjt",
+    "description": "Artworks Data DAO on the Filecoin network, creating a decentralized platform for artists, collectors, and enthusiasts to manage, incentivize, and invest in artworks.  The DAO will leverage the benefits of fvm to ensure secure and transparent management of artwork data.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiKicks",
+    "slug": "defikicks-b1wo0",
+    "description": "DefiKicks is a decentralized, community-governed Data DAO on Filecoin that democratizes DeFi data aggregation and TVL calculations, enhancing transparency and fostering collaboration through on-chain adapter proposals, off-chain voting, and interoperable token rewards.",
+    "event": "HackFS 2023",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "o1uf7",
+      "4hh1n",
+      "t4bwy",
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Inter Planetary Cultural Storage (IPCS)",
+    "slug": "inter-planetary-cultural-storage-ipcs-1tyg2",
+    "description": "We are building “Inter Planetary Cultural Storage” to empower historians and communities to capture and preserve histories and places in blockchain based file storage.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeciStream",
+    "slug": "decistream-f0qaf",
+    "description": "Decentralized multiplayer streaming platform. channel subscribers will own NFT to make channel decisions",
+    "event": "HackFS 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "bw7y9",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "DataBridge",
+    "slug": "databridge-50wpc",
+    "description": "A place to store and compute over valuable datasets. DataBridge mission is to create an easy to use platform that can get used by users and companies",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Peer-News",
+    "slug": "peer-news-yz9vd",
+    "description": "Introducing a decentralized news platform where users can upload local news stories. Powered by Livepeer technology for content delivery and Polybase as a decentralized database, this platform enables ordinary individuals to share their news with transparency and credibility.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "route finance",
+    "slug": "route-finance-8b16q",
+    "description": "Introducing Route Protocol - Supercharge FVM Payments Infrastructure using FIL + Fiat",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Libp2peasy, the Libp2p Plugin System",
+    "slug": "libp2peasy-the-libp2p-plugin-system-h4q2u",
+    "description": "Plug and Play Libp2p Apps to fast track Development. Build a plugin, compile it to wasm, and run it with any libp2p implementation.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mi9fg"
+    ]
+  },
+  {
+    "name": "uniti",
+    "slug": "uniti-q8rpy",
+    "description": "An exciting way to run community programs on-chain with on-chain history of the contribution by contributors.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gratie",
+    "slug": "gratie-skp16",
+    "description": "Our platform empowers businesses to issue custom crypto rewards, fostering engagement, retaining talent, and fueling collaboration. Leverage our platform to make your business web3 native with user-friendly tech and cost-effective methods.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "direct3",
+    "slug": "direct3-m9f5q",
+    "description": "Discord meets Steam. direct3 is a game launchpad and social platform for web3 gamers.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Demo.Vault",
+    "slug": "demo-vault-xkx6d",
+    "description": "Vault.demo is a digital gallery that provides marketplace and vault functions for collecting and preserving digital artifacts: 'demos' in the case of this hackathon.'",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Front Door",
+    "slug": "front-door-tqt2k",
+    "description": "The Open Referrals Protocol. Front Door unlocks collaboration in the $420 billion recruitment ecosystem.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Veritas-ID.org FVM",
+    "slug": "veritas-id-org-fvm-n9f84",
+    "description": "Verifiable Climate Emission Reporting - built on FVM & ChainLink (In Progress)",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Card Protocol",
+    "slug": "card-protocol-7w362",
+    "description": "Decentralized business card protocol with privacy. The data is stored in IPFS & decentralized db, and encrypted with Lit Protocol.",
+    "event": "HackFS 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4jgzz",
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Filecoin Security Plugin",
+    "slug": "filecoin-security-plugin-0wfdr",
+    "description": "A static analysis plugin with filecoin integration vulnerability detectors",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CloudNative3",
+    "slug": "cloudnative3-mshbo",
+    "description": "CloudNative3 is a disruptive decentralized cloud computing platform that realizes seamless migration from Web2 to Web3, and realizes decentralized security control through the oracle network.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kyte",
+    "slug": "kyte-9oz8t",
+    "description": "Kyte provides you a web3 platform which serves as a dynamic decentralized social space where you can engage in collaborative interactions, engage in messaging conversations and partake in 1-on-1 audio calls.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Yak Domain Studio",
+    "slug": "web3yak-domain-studio-pqcpe",
+    "description": "🚀 The ultimate platform for companies to unleash their web3 domain potential. Empower your brand, innovate, and connect like never before.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PubGoods",
+    "slug": "pubgoods-55cts",
+    "description": "distributed and inter-operable collaboration workspace tool between DAO contributors to better facilitate discussions and proposal reviews",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Promise Cards",
+    "slug": "promise-cards-f9gde",
+    "description": "The project enables the creation of a decentralized web3 account compatible with the web2 OAuth protocol. Users gain access to their account through a private key that can only be decrypted after a certain period of time.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "OkozukaiWallet",
+    "slug": "okozukaiwallet-gwi9y",
+    "description": "OkozukaiWallet is a product that creates an opportunity for mass adoption of Web3.",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "CoinTime",
+    "slug": "cointime-3i0v1",
+    "description": "A application that helps organize meetings with clients and accept payments for the meeting, additionally supporting messaging and video calls.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FileBunnies",
+    "slug": "filebunnies-zmdpw",
+    "description": "First-ever EFT collection on Encrypted FileToken Protocol that is deployed on FVM of 10,000 unique NFTs featuring various rarities with real value inside, dedicated to the Filecoin Ecosystem. FileBunnies FREE Mint will happen on June 28 on FileMarket.xyz",
+    "event": "HackFS 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Web3Eye NFT Survivor",
+    "slug": "web3eye-nft-survivor-dxnsb",
+    "description": "Web3Eye NFT Survivor is a tool created by web3eye.io team. The tool is used to backup blockchain content like NFT to Filecoin storage. After then even the original picture is lost, we still can restore it from Filecoin storage.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Serial Pairs",
+    "slug": "serial-pairs-56v1j",
+    "description": "An interface for evaluating the effectiveness of pair programming sessions to be part of a larger system for distributed software development.",
+    "event": "HackFS 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

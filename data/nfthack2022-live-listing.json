@@ -1,0 +1,2392 @@
+[
+  {
+    "name": "UnRUG DAO",
+    "slug": "unrug-dao-prick",
+    "description": "UnRUG DAO is the DAO that pledges to fight against the NFT scams and rugpulls running rampant in the wbe3 space by uniting all scammed chads in a DAO and leveraging their collective identity to counter all economic losses to the DAO members",
+    "event": "NFTHack 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f5vjp",
+      "f5vjp",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "The Dojo",
+    "slug": "the-dojo-1nie1",
+    "description": "Quick setup for defi projects, to build on and create a wonderful daap.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nines",
+    "slug": "nines-e30p5",
+    "description": "Nines is a cross-chain NFT game where NFTs from different chains come together in bands of 9 NFTs and challenge each other for low or high stakes.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yrwii"
+    ]
+  },
+  {
+    "name": "Klee-NFTs-Faucet",
+    "slug": "klee-nfts-faucet-cdsdu",
+    "description": "This project is a simple ERC721 (ethereum) NFT minting contract & user interface. It's a little play around the fork of https://github.com/DeveloperAlly/filecoin_nft_starter",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flowing",
+    "slug": "flowing-1in4u",
+    "description": "Flowing is a generative art  project where users create art using mouse/curosr",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFT Birthday Cards",
+    "slug": "nft-birthday-cards-bqn7r",
+    "description": "NFT Birthday Cards is an app that helps you digitalize your memories forever.  Join us to create, trade, and sell your Birthday Cards",
+    "event": "NFTHack 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "f5vjp",
+      "r9t85",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFT Wyre",
+    "slug": "nft-wyre-bxvfc",
+    "description": "an example tutorial for  providing non web3 native users to interact with multichain NFT marketplaces usinf circle  payment gateway",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ens-resolver",
+    "slug": "ens-resolver-yr4v3",
+    "description": "Microservice to resolve ENS domains to ERC-721 Token IDs, and viceversa.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Common Name Service",
+    "slug": "common-name-service-ubdcu",
+    "description": "Add a personal touch to the blockchain by allowing any DApp access to your preferred name. All languages supported even emojis. ERC721 Compliant.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f5vjp"
+    ]
+  },
+  {
+    "name": "TulipManiacs",
+    "slug": "tulipmaniacs-b95tf",
+    "description": "A new NFT generated art collection, based on tulip mania first speculative bubble from 1634.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Swanky Manky Math Game",
+    "slug": "swanky-manky-math-game-yonwk",
+    "description": "It's a math game for kids that helps them learn basic mathematics and earn at the same time!",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "DBeats",
+    "slug": "dbeats-xu8tf",
+    "description": "DBeats is a patreon on Web3 which lets Superfans make monthly subscriptions to their favorite creators",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolySocial",
+    "slug": "polysocial-ft0tc",
+    "description": "NFT gated social media platform on Polygon. Unlock content by buying a NFT.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Twitter with DAO",
+    "slug": "crypto-twitter-with-dao-9f4ve",
+    "description": "This is Crypto Twitter project to post tweets on blockchain as an NFT",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "365daysofweb3",
+    "slug": "365daysofweb3-xi7rr",
+    "description": "An NFT based Calendar app with a collection of unique NFTs - each one signifying one day of the year.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f5vjp",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "nounonouno",
+    "slug": "nounonouno-fhb45",
+    "description": "A user focused web3 interface.  The web3 experience made social. The goal was to make an interface were the user can interact with several different decentralized tools.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "GEN-I",
+    "slug": "gen-i-1fnus",
+    "description": "Gen-I is a platform that leverages NFTs and tokens to incentivize Open source contribution. It rewards users with custom NFTs for their commits to open source projects and their repositories.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Seeds + Worlds: interop & generative art nfts",
+    "slug": "seeds-worlds-interop-and-generative-art-nfts-1nber",
+    "description": "Create a set of seed NFTs and a range of simulated worlds, in order to explore the complex phenomena possible between different NFTs and worlds they are placed in.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Toolbox",
+    "slug": "nft-toolbox-g36dp",
+    "description": "A suite of online tools for NFT collection, NFT discovery and NFT trading",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "yrwii"
+    ]
+  },
+  {
+    "name": "Quest Of Zelda - An NFT based game",
+    "slug": "quest-of-zelda-an-nft-based-game-06n1w",
+    "description": "A new form of gaming with NFT based characters and interactive NPCs that unveils the story based on the progression of the player.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Adspaces",
+    "slug": "decentralized-adspaces-a7nxy",
+    "description": "The decentralized version of million dollar homepage. Own a piece of the future.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Carnival",
+    "slug": "carnival-v048b",
+    "description": "An auction-based NFT fractionalize project on Harmony chain",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Block Ticket",
+    "slug": "block-ticket-sg6ur",
+    "description": "Revolutionizing event management and decentralized ticketing with NFTs",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Mobile Icons",
+    "slug": "mobile-icons-kyog8",
+    "description": "100 different NFT of Mobile Icons. There 100 unique NFT collection of Mobile Icons.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "KryptoBirds",
+    "slug": "kryptobirds-2rw9s",
+    "description": "KryptoBird is an NFT Marketplace where users can upload there work and other users could mint and become the owner of the NFTs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FreeWayDAO",
+    "slug": "freewaydao-sj902",
+    "description": "The Freeway DAO is a community owned ride sharing platform.  There are riders and drivers. There will be two different NFTs available to mint: Driver NFTs, and Rider NFTs. Governance token. Payment is done by streaming the driver's fare rate the the duration of the ride.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT-Cast",
+    "slug": "nft-cast-c58if",
+    "description": "Radio for Music NFT, you can upload your music nft to this site",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Hunt",
+    "slug": "nft-hunt-dgbth",
+    "description": "NFT Hunt is a play to earn blockchain/Web3 game called NFT Hunt.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Writemon",
+    "slug": "writemon-nyb0x",
+    "description": "Writemon is the experiment on Web 3, where you get rewarded with Writemon[pokemon + write !] NFTs based on how much you write and how often you write.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaNFT",
+    "slug": "metanft-0xbwe",
+    "description": "MetaNFT is a fully community driven, 100% fair release NFT marketplace and DeFi community. Reflex, Auto LP and Burn.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Real Meta Key",
+    "slug": "real-meta-key-hbxjj",
+    "description": "Real Meta Key is a tool that enables users to support public goods and crypto brands through stream payments,  get NFT as rewards. The special NFT can be used to collect additional rewards such as activation codes.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Storyblocks",
+    "slug": "storyblocks-j9x7h",
+    "description": "A collaborative story, told one word at a time. Each word is an NFT. Holders get rewards for every word after them.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "VRNFT",
+    "slug": "vrnft-kxtcc",
+    "description": "DApp prototype, that allows any person to purchase entry tickets for virtual reality concerts and events as NFT, and uses livepeer as a decentralized video streaming protocol to connect fans with the artist.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTickets",
+    "slug": "nftickets-ipnys",
+    "description": "NFTickets is a ticketing dApp that allows customers to select and reserve seats for restaurants, concerts, gatherings, and even Metaverse events!",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "r9t85",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Tasker",
+    "slug": "tasker-sdhpe",
+    "description": "A task assignment system that rewards with NFTs (built with educational institutions in mind). Teachers can assign Tasks and create NFTs to be rewarded on completion. Students report done, and win NFTs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f5vjp"
+    ]
+  },
+  {
+    "name": "DecentralisedCoupons",
+    "slug": "decentralisedcoupons-j6yqz",
+    "description": "NFT-ising consumer coupons. The goal of this project is to create a complete ecosystem around the coupon creation and redemption for all companies.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Accred Badges",
+    "slug": "accred-badges-7anqh",
+    "description": "Decentralized Application to Draft, Design and Issue Certificates, Badges and any type of Credential to Individuals as Non Fungible Tokens (NFTs) to your Recipients, Participants and Community",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ZoraPlayer",
+    "slug": "zoraplayer-px1ru",
+    "description": "Spotify for NFTs (specifically Zora). Streaming platform to find and listen to the latest music NFTs",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LetterLoops Unlocked!",
+    "slug": "letterloops-unlocked-ijd8p",
+    "description": "Our project uses the Unlock-Protocol to provide paid game access to Discord guild members.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "NFT Viewer",
+    "slug": "nft-viewer-evz9v",
+    "description": "A better NFT viewer for EVM testnets that reduces the friction to view and debug NFTs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "dPaaS",
+    "slug": "dpaas-39rk2",
+    "description": "A decentralized PaaS for DAO and Metaverse founders to connect Web3 with their ideas.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Grocery Quest",
+    "slug": "grocery-quest-z95nt",
+    "description": "Grocery Quest is a NFT turn-based battle play-to-earn game. Progress through the world by defeating enemies with your weapon arsenal - your groceries.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "k3j5f"
+    ]
+  },
+  {
+    "name": "JPEGs Pay It Forward",
+    "slug": "jpegs-pay-it-forward-bjhp7",
+    "description": "Leveraging rivalries between NFT communities to see which can one-up the other to donate the most to Girls Who Code",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTinBio",
+    "slug": "nftinbio-7jfvd",
+    "description": "NFTinBio’s platform allows users to showcase their NFTs on their customizable page along with links to other social media channels for their audience. In the future, we hope users will be able to auction off their tokens to the highest bidder.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Exclusive EveNFT",
+    "slug": "exclusive-evenft-t84z5",
+    "description": "Dapp created for events like wedding websites where guests can mint party gifts after the event on Polygon",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "r9t85",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Reality dApp",
+    "slug": "reality-dapp-gciar",
+    "description": "A decentralized real estate platform that uses NFTs as deeds",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Blockchain Elections",
+    "slug": "blockchain-elections-dmcwz",
+    "description": "A simple voting system to solve transparency issues by moving elections onto the blockchain!",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyAvatar",
+    "slug": "myavatar-ee85f",
+    "description": "A fundamental web3 protocol that provides PFP NFTs utilization with ownership proven as an avatar in everywhere.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Toque´n Chef",
+    "slug": "toque-n-chef-ke217",
+    "description": "Recipe license management and royalties payment automation for Chefs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scholar",
+    "slug": "scholar-tgjt2",
+    "description": "The scholarship automation platform democratizing the ability to EASILY generate yield on your Axies with no management required.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Multi-Contract Battle Royale w/ Rolling Queue",
+    "slug": "multi-contract-battle-royale-w-rolling-queue-jhe9z",
+    "description": "A fully on chain battle royale, queueing system, & analytics with multi-contract support. The actual battle royale heavily utilizes chainlink VRF for determining power levels and dice rolls to determine winner.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "NFTix",
+    "slug": "nftix-w3n8a",
+    "description": "A decentralised event organizing app, for selling NFT-based tickets & enabling a secure resell market - to make it simple - the Eventbrite of blockchain.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "COOODE: Code One of Ones",
+    "slug": "cooode-code-one-of-ones-tehh7",
+    "description": "a code sandbox where you can get creative and mint anything you make",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Soul Minter",
+    "slug": "soul-minter-uwk0n",
+    "description": "PFP collection that harnesses the VQGan+Clip machine learning model to create unique one of one NFT’s per user wallet",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Survey DAPP",
+    "slug": "survey-dapp-majnn",
+    "description": "Dapp using which users can fill up surveys as well as get their surveys filled",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LINKE",
+    "slug": "linke-fwz3w",
+    "description": "LINKE is a decentralized image-sharing platform that is similar to Instagram",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFT Widget",
+    "slug": "nft-widget-gh92z",
+    "description": "Currently, there aren't any NFT specific widgets that a user or collection can add to their website, blog, storefront, or newsletter. It is usually links and all. So built an NFT widget that people can add to their website just like the Github fork widget.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "NFTly",
+    "slug": "nftly-fn2fk",
+    "description": "A mobile first Tiktok/Tinder like frictionless NFT explore and mint Dapp",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFTastic",
+    "slug": "nftastic-t60o5",
+    "description": "Simple tool to pull some NFT Collection metrics across all Chains/Collections available from Covalent APIs",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "zarena",
+    "slug": "zarena-nugye",
+    "description": "Zarena is a video livestream for decentralized communities for NFT drops",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f2so0"
+    ]
+  },
+  {
+    "name": "Instant Blockchain Domain Search",
+    "slug": "instant-blockchain-domain-search-uyq28",
+    "description": "Search domain availability across various blockchain name providers",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "FluidNFTs",
+    "slug": "fluidnfts-4pf2z",
+    "description": "Concept to bring streambale NFts with the  aim of providing  platform for developer to build streamable NFTs on top of SuperFluit",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "dHub",
+    "slug": "dhub-7jswv",
+    "description": "Event Management for Web3 Audience. On dHub you can create exclusive events for your token holders.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "ZeusDAO",
+    "slug": "zeusdao-zwmpm",
+    "description": "Web3 Open Protocol for Community Management (If Discord was to take the Web3 Pill)",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Trophy Case",
+    "slug": "trophy-case-mkbk3",
+    "description": "A dead simple way for developers to let users mint NFTs from in-app achievements, and a wallet for users to view all their achievements & discover others with similar interests.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFT2DeFi",
+    "slug": "nft2defi-o4x4e",
+    "description": "NFT Lending protocol and dapp allows borrowers to find best lenders via auction and both sides to further engage in DeFi",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Passports - PLANET EARTH",
+    "slug": "nft-passports-planet-earth-dxyud",
+    "description": "NFT digital Passports -  If you has verified your identity and your wallet address in POH you can get NFT Planet earth Passport. ( Interact Physical passport with virtual world )",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Teacher Bai's Friend",
+    "slug": "teacher-bais-friend-spe8c",
+    "description": "Teacher Bai's Friend publish XB NFT on Opensea and create its minting Dapp to optimize minting experience for Bat's Friend to interact with Xiao Shan Cat in metaverse.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DronieNexus",
+    "slug": "dronienexus-xqxds",
+    "description": "A Map Centric NFT Marketplace for UAV image and video art, that features searching by location.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Pins2NFT",
+    "slug": "pins2nft-edkf1",
+    "description": "Pins2NFT create your ideas as a pins on Pinterest. Then, use our DAPPs to do auto convert. And we can show their current available pin2NFT tokens, on token page. So that they can link to OpenSea for sell We will use ipfs, we can link users pinsNFT to for sales in opensea",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kira",
+    "slug": "kira-zatc5",
+    "description": "What would be the ideal interface for everyone (even my mom) to manage NFTs?  The answer: a spreadsheet-like  interface.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cafecito DAO",
+    "slug": "cafecito-dao-ug0kp",
+    "description": "Cafecito DAO is a co-operative organization to incentivize functional and active membership to spread Cafecito cheer!",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTBet",
+    "slug": "nftbet-t6tyd",
+    "description": "NFTBet is a Dapp where players can pool in ETH and a random player will get an NFT as a prize.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FirstName NFT",
+    "slug": "firstname-nft-kntkj",
+    "description": "Give a FirstName for NFTs, LastName for Collections . To ease the access to NFTs",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "prana:",
+    "slug": "prana-3h64j",
+    "description": "An ebay like platform for ebooks where each book is represented as NFTs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "POPP Gotchi Score",
+    "slug": "popp-gotchi-score-rochu",
+    "description": "🍿 POPP Gotchi Score will give Accountability  Score base on your Aavegotchi on-chain activities",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3.Club",
+    "slug": "3-club-xyk3k",
+    "description": "3.Club is bridging the NFT to IRL gap.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ABSwap",
+    "slug": "abswap-qiwsc",
+    "description": "Solves the problem of trustless batch swapping of NFTs between Alice and Bob",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "memint",
+    "slug": "memint-88mva",
+    "description": "Enable anyone to easily mint an NFT for any day of their life.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Blocktators",
+    "slug": "blocktators-5dfhk",
+    "description": "Blocktators are a collection of potatoes that dictate the narratives changing our world.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Monkey Protocol",
+    "slug": "monkey-protocol-9ng6z",
+    "description": "Feed, nurture and explore with your Monkey! Turn your favorite NFT into a Monkey or adopt one!",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "GAirdropper",
+    "slug": "gairdropper-xpg8n",
+    "description": "One-stop solution that links and distributes with Generative Art.",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFT Lounge",
+    "slug": "nft-lounge-oi4b8",
+    "description": "The future of web3, The metaverse : This is the metaverse where you can view your NFT in 3D and stream live across verses",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "CreativeNFT",
+    "slug": "creativenft-724ck",
+    "description": "Creative is a marketplace aggregate that supports artists and creators in connecting to paid brand opportunities with low overhead and easy access..",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTpay",
+    "slug": "nftpay-xiset",
+    "description": "Make your own blockchain-hosted invoices - hosted for free on IPFS and fulfilled by cryptocurrency.",
+    "event": "NFTHack 2022",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "r9t85",
+      "x3xey",
+      "r9t85",
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFTActions",
+    "slug": "nftactions-xi4c4",
+    "description": "NFTActions is a real-time dashboard to discover the hottest NFT projects on OpenSea",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnTrac",
+    "slug": "ontrac-6j0eu",
+    "description": "OnTrac is a unique motivational tool that gifts you NFT's for completing goals, making your self-improvement journey more thrilling. It blends financial incentives, accountability partnering, and collectable rewards to help each user become the best version of themselves.",
+    "event": "NFTHack 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "f5vjp",
+      "k3j5f",
+      "x3xey",
+      "f5vjp"
+    ]
+  },
+  {
+    "name": "bridge",
+    "slug": "bridge-h0v71",
+    "description": "A platform where traditional artists with an idea are matched with a supportive community (DAO) to grow & collaborate  in the creation of a piece of art.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Showcases",
+    "slug": "nft-showcases-qzf5t",
+    "description": "A dapp where you can see all NFTs from wallet address in different networks.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Nfty links",
+    "slug": "nfty-links-bu8sp",
+    "description": "Do you want to create an NFT and package it into an URL ? Only whoever has the url can mint it, now you can :D",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Payee",
+    "slug": "payee-to8ji",
+    "description": "Payee is an AI-powered payroll Dapp enabling automated payment streams through the analysis of real life contracts. By leveraging the Superfluid framework, NFTs are issued to payees once the flow has been initiated.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quote Me On That",
+    "slug": "quote-me-on-that-kds0u",
+    "description": "A simple chat dapp that allows you to mint NFT quotes from your chats",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFPs: Non-Fungible Podcasts",
+    "slug": "nfps-non-fungible-podcasts-d558b",
+    "description": "Non-fungible Podcasts enables the next million podcasters to use NFTs to make a living and connect more deeply with their fans",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nifty-Billy",
+    "slug": "nifty-billy-setwf",
+    "description": "NFT expense management solution with invoices and currency conversion",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cropsin",
+    "slug": "cropsin-u0wxa",
+    "description": "A platform that pays creators in crypto to use indie artists songs in their videos, and lets them share in an artists success by investing in them through album art, songs, tickets, metaverse merch, and song royalty NFTs. Artists stay independent and get noticed, paid, and funded",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Cotropolis",
+    "slug": "cotropolis-njj20",
+    "description": "Innovating on what a generative/cooperative NFT is. Everybody owns a part of the NFT / everybody contributes to it (with some lightweight leaderboard competition for biggest sector).",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MemoTickets",
+    "slug": "memotickets-ge43y",
+    "description": "An NFT-based Ticketing Platform for Events. Event Planners and mangers can create a ticket for their events and users come and purchase using thier web3 wallet or credit card",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Recursive",
+    "slug": "recursive-zjm9z",
+    "description": "Recursive is a NFT marketplace which provides users recursive (repeat) value",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Speaking Alpha",
+    "slug": "speaking-alpha-p058x",
+    "description": "Speaking Alpha lets anyone record and share their thoughts, insights, and alpha with other Web3 enthusiasts",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT for AI/ML Morphisms",
+    "slug": "nft-for-ai-ml-morphisms-scamh",
+    "description": "A NFT representing personalities of AI/ML algorithms based on their training sets and/or morphisms",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ethereum: The Tribe",
+    "slug": "ethereum-the-tribe-0vd2y",
+    "description": "Digital collectible card based on a users Ethereum address. Uses ENS for card name and avatar. Additionally, it pulls traits from Etherscan API to determine user tx types. Acts as a scorecard for Ethereum engagement and can be minted as an NFT.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "TransparentNFTs",
+    "slug": "transparentnfts-dqt31",
+    "description": "A multi-chain interface explorer, to make NFTs available to people with disabilities",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Flashdrop!",
+    "slug": "flashdrop-buihx",
+    "description": "Engage your target audience with a flash mob approach to advertising. Airdrop tokens to your most engaged customers within a limited timeframe.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockchain Activity Avatar",
+    "slug": "blockchain-activity-avatar-mm0dj",
+    "description": "Generate a visual representation of blockchain activity for an Ethereum address",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "shinew.art",
+    "slug": "shinew-art-1af7g",
+    "description": "shinew.art is the first platform that enables artists to promote their art work through NFT Raffles",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "reNFTer",
+    "slug": "renfter-scfyx",
+    "description": "A better, more secure and trustless way to rent your NFTs, no collateral",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT HeatMap",
+    "slug": "nft-heatmap-4war2",
+    "description": "NFT Heatmap is a visual way to see the trends of NFT rankings",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT House",
+    "slug": "nft-house-u08j0",
+    "description": "Generate passive income buy holding your NFTs. House owners can buy, rent, and access their properties by holding their house NFTs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyJpegs",
+    "slug": "onlyjpegs-x1gy8",
+    "description": "A Dapp giving owners of specific NFTs exclusive access to live video streams.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Gether",
+    "slug": "gether-2dkzn",
+    "description": "Gether is an NFT badge protocol that gamifies event attendance through social staking. Instead of using tokens, attendees mint a NFT as a stake that can be kept and shared as proof of attendance.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTickets",
+    "slug": "nftickets-45c54",
+    "description": "NFTickets is a public transportation ticketing dapp that allows users to purchase ride tickets as NFT's which will then be burnt on use.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Arcanar",
+    "slug": "arcanar-qd3eg",
+    "description": "Monetize your project faster than ever by turning it into an NFT.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "HoloNFT",
+    "slug": "holonft-q0hpj",
+    "description": "Trunk is a minting service for 3D NFTs. It leverages existing NFT marketplaces by hiding three-dimensional assets within 2D pictures. The 3D rendition can only be produced by authorized users.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Streamgate",
+    "slug": "streamgate-d5q93",
+    "description": "Streamgate gives anyone the ability to add live streams to their webpages and configuring access control conditions",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFT Cam",
+    "slug": "nft-cam-i3whx",
+    "description": "NFT Cam brings your NFT to AR in one click: NFT Cam can turn any OpenSea NFT link into an interactive AR experience. >>Follow us (https://twitter.com/nftcam_cc) <<",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Got It",
+    "slug": "got-it-yqg1q",
+    "description": "Got it is an NFT-based ecosystem to help broadcasters better engage with their audiences. Got it is a censorship resistant video live streaming service with membership-only access options powered by Livepeer, IPFS, and Unlock.",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "mdb6w",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "SimpleDApp",
+    "slug": "simpledapp-6kdsd",
+    "description": "Simple DApp - greets, changes greet, gets the balance and sends the native token.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MintHunt",
+    "slug": "minthunt-mr3vi",
+    "description": "MintHunt.io. - TreasureHunt NFT - Gems - TreasureMap - Moralis Wallet screen",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EZUX Redesign: NFT Dashboard and Metrics",
+    "slug": "ezux-redesign-nft-dashboard-and-metrics-sxgua",
+    "description": "Measuring the quality of NFT artists and NFT artworks by redesigning the NFT creator Dashborad and metrics (i.e., Visual Hashing)",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spyglass",
+    "slug": "spyglass-5nr4o",
+    "description": "Spyglass is an NFT curation tool featuring powerful real-time analytics and organizational tools built into a snappy UI. Use Spyglass to find the best NFTs out in the OpenSea before anyone else!",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "e8ob5",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "LIV3",
+    "slug": "liv3-gngaw",
+    "description": "LIV3 is an NFT-driven live events Web3 company. We harness the power of Web3 to improve reality. Own the moment.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTCrawler",
+    "slug": "nftcrawler-xsm39",
+    "description": "Create an online NFT Crawler that makes possible to retrive NFT information on blockchains.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "NFT_FANS",
+    "slug": "nft-fans-bcu8y",
+    "description": "(UNFINISHED) Social media platform where posts are tokenized and users can offer other users to buy subscriptions for  gated content",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "ETH PLZ",
+    "slug": "eth-plz-r4ucr",
+    "description": "The seamless and secure gateway into the NFT ecosystem for casual users, leveraging cross-chain fiat gateways and cutting edge social recovery.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "ZORA Python SDK",
+    "slug": "zora-python-sdk-skdww",
+    "description": "ZORA Protocol Python SDK for permissionless Ethereum NFT metadata retrieval",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f2so0",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "Money Stream Network",
+    "slug": "money-stream-network-7ebon",
+    "description": "A Tradable Cash-Flow DeFi-NFT that gives a holder the power to leverage their superfluid flow to get loans or funds",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT4X",
+    "slug": "nft4x-n77yg",
+    "description": "A dApp 💻 for making an existed NFT collection become redeemable token\" for anything from hoodie merchandise to tungsten cube.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dragons and Dungeons",
+    "slug": "dragons-and-dungeons-0x0ee",
+    "description": "A modular NFT game that uses the character model creation like Dungeons and Dragons",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TR33 DAO",
+    "slug": "tr33-dao-uj5xp",
+    "description": "TR33 DAO is a non-fungible token project that consumes ERC-20 in the contract. TR33 NFT will generate EXP from liquidity locked and grow the TR33 NFT as an evolution NFT. The locked liquidity can be governed by DAO using EXP points in TR33 DAO as a voting power.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pokumon",
+    "slug": "pokumon-43y6p",
+    "description": "This is an NFT game you raise and fight unique characters generated by AI called Pokumon. The NFT character pick up tokens by Walk and increase its status by Food.  If you lose a battle against another player, your Pokumon will never pick up a token again.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "HoloApes",
+    "slug": "holoapes-mquae",
+    "description": "Flex by truly diamond handing your Ape. Show CT who's got their Ape on ice.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solvent Exchange",
+    "slug": "solvent-exchange-ebdsk",
+    "description": "Solvent Exchange (SolvEx) provides liquidity pools for NFTs with randomised withdrawal function",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Challengy",
+    "slug": "challengy-5yggk",
+    "description": "Earn yield by being accountable through an NFT proof",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ArtisanDAO",
+    "slug": "artisandao-o92rf",
+    "description": "ArtisanDAO aims to build a curated museum of indigenous art forms, connecting patrons with artisans through NFTs in the real world and  in the Metaverse.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTBags",
+    "slug": "nftbags-xe5m5",
+    "description": "Create NFTs Collections that you can trade, operate, and compose.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Noodles - Streaming app",
+    "slug": "noodles-streaming-app-8fmtv",
+    "description": "Streaming app that uses NFT to encourage users to view, subscribe to content",
+    "event": "NFTHack 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "bw7y9",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Member only event",
+    "slug": "member-only-event-thiza",
+    "description": "Dapp that allow group members to access online events and join discussion",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Wise",
+    "slug": "wise-rpy5h",
+    "description": "NFT based Identity and Social Profile with Verifiable Credentials",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Starter",
+    "slug": "nft-starter-jsu6d",
+    "description": "A tool for project owners to start their NFT sales in minutes, without concern about development.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "The Mango Jelly",
+    "slug": "the-mango-jelly-494y2",
+    "description": "A Web3 social media platform which helps content creators to build multiple revenue streams for attaining financial freedom.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Drupal NFT",
+    "slug": "drupal-nft-nz1bv",
+    "description": "Integrate non-fungible tokens in Drupal as media. Mint NFTs from any given Drupal entities too.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Graphene",
+    "slug": "graphene-xi56r",
+    "description": "With the rising amount of NFT metadata stored on IPFS, comes the need for new means to collaborate widely on our use of these storage capacities. Graphene is a protocol aimed at enabling such open collaboration, a necessary step towards the emergence of a free and open metaverse.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFTxFASHION",
+    "slug": "nftxfashion-11dv3",
+    "description": "NFT X Fashion is a platform that bridges the metaverse and physical world.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SkillSet",
+    "slug": "skillset-zor97",
+    "description": "NFT Talent & App Store Marketplace. Get hired based on skill NFT and paid real time per hour in crypto.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Plutus",
+    "slug": "plutus-49rc2",
+    "description": "A user-friendly decentralized lending platform that allows you to get a loan instantly using your NFTs",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dspyt-NFTs",
+    "slug": "dspyt-nfts-80g08",
+    "description": "We provide simple interface to interact with NFT.storage. Particularly, the app is configured to store and upload images.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "The Guilds of Sibiu",
+    "slug": "the-guilds-of-sibiu-rsa4h",
+    "description": "The Guilds of Sibiu is a mixed reality artwork using a new music web3 primitive — smart scores",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "k3j5f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Metaverse Advertisement DAO",
+    "slug": "metaverse-advertisement-dao-ers1f",
+    "description": "A decentralized autonomous organization dedicated to facilitating business models in the metaverse by maximizing utilization of community-owned virtual real estate assets in advertising, and sharing profits with metaverse players such as landowners and builders.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gqlX",
+    "slug": "gqlx-r7upf",
+    "description": "gqlX: building NFT-native music-making experience for music3-makers.  Tokenizing everything from your samples to DAW plug-ins  into NFTs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "SYGS",
+    "slug": "sygs-s22i0",
+    "description": "Using NFTs to fundraise money for small businesses through fiat currency",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phi Land",
+    "slug": "phi-land-2f6hf",
+    "description": "Phi Land（φ Land）- Generates a unique Metaverse Land to Anyone with an ENS address.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "The Encrabment Series",
+    "slug": "the-encrabment-series-bihz3",
+    "description": "The Encrabment is an auto-generated work of art composed of layers of text, graphics and music that will combine to form a unique story.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrueNFT",
+    "slug": "truenft-7icrx",
+    "description": "It is a NFT marketplace to mint NFTs with AI-enabled counterfeit NFT detection capability across networks and membership functionalities",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "NFTEarn",
+    "slug": "nftearn-huqs4",
+    "description": "We help NFT projects grow by letting them rent profile picture space across Twitter & Discord",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WatchMyNFT",
+    "slug": "watchmynft-rfnc0",
+    "description": "WatchMyNFT is the NFT Apple Watch Face generator app supported by OpenSea. Create your own watch face with your NFT in seconds. NFT is no more just a in-browser’s item!",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "e8ob5"
+    ]
+  },
+  {
+    "name": "Loreverse",
+    "slug": "loreverse-dvppn",
+    "description": "Loreverse enables anyone to create lore and fork what someone already wrote. And It enables anyone to count how many times the lore forked as on-chain data.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Provenir",
+    "slug": "provenir-hm7k8",
+    "description": "NFT-Based provenance to protect against counterfeit merchandise and authenticate ownership of a product",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Battle Cryptography",
+    "slug": "battle-cryptography-16506",
+    "description": "Add skills to your existing NFTs and go to battle against any other NFT",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Parakeet",
+    "slug": "parakeet-vokue",
+    "description": "Parakeet is an omni-chain bridge for NFTs . Enables users to transfer NFTs across chains.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Arcade",
+    "slug": "nft-arcade-48q2g",
+    "description": "NFT-Arcade is an NFT marketplace where streamers, creators and gamers can easily and quickly upload short videos of their best moments and turn them into NFTs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "CraftyCocktails",
+    "slug": "craftycocktails-dr8f1",
+    "description": "Buy and Sell cocktail ingredients to craft your own Cocktail Creations!",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pool Noodles Boat Cruise",
+    "slug": "pool-noodles-boat-cruise-n5s2c",
+    "description": "Pool Noodle Boat Cruise represents a new sunset horizon for NFTs. Bringing connectivity, connectedness, and dynamic movement to the static jpeg movement. Jump aboard!",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PoetGallery",
+    "slug": "poetgallery-fzg9t",
+    "description": "PoetGallery is the first decentralized NFT Bookstore for Poetry Collections.  Artists and Poets co-create a shared Poetry Collection, of which they have full ownership, and whose royalties are shared amongst all the contributors.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "stems-nft-hack",
+    "slug": "stems-nft-hack-591cy",
+    "description": "Using Superfluid for real-time money streams and The Graph for indexing on-chain data, NFTs can now showcase “sponsors” that provide ongoing revenue streams.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "NFTShuffle",
+    "slug": "nftshuffle-z5u5z",
+    "description": "Own randomness, building block for developers trying to empower their application with affordable randomness.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dragverse",
+    "slug": "dragverse-feczf",
+    "description": "Drag artists belong in the metaverse! Let's build the DragVerse together, where you be the drag persona you always wanted to be.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f2so0"
+    ]
+  },
+  {
+    "name": "Anala Art",
+    "slug": "anala-art-zw0j0",
+    "description": "Download Free, HD One-Of-A-Kind Analog Created Art Wallpapers - Sized For Any Device",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Biased generative art",
+    "slug": "biased-generative-art-co1mg",
+    "description": "Creating an algorithm that controls the supply of minted ERC-721 tokens. This will focus on the supply of NFTs so that specific rare images stay rare.",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f2so0",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Johnny dApp",
+    "slug": "johnny-dapp-77jco",
+    "description": "NFT Project: Johnny dApp is the Pirate of the 7 (Open) Seas and sets the sail to find the big treasury across the entire Blockchain.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Roadmaps",
+    "slug": "roadmaps-38th7",
+    "description": "7,777 generative NFT project roadmaps, minted as NFTs (7,777 generative NFT project roadmaps, minted as NFTs)",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DoNFT",
+    "slug": "donft-kjks3",
+    "description": "Do[NFT] is a protocol that allows to create NFT that can own other NFTs. We provide a protocol that helps to modify the existing NFT with the help of different neural network models.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaVault",
+    "slug": "metavault-8x5yc",
+    "description": "A web application for minting NFTs on Ethereum and permanently storing them on Subspace",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DuoMint",
+    "slug": "duomint-k1614",
+    "description": "Duomint is the stress-free onramp to web3. New users receive an NFT for free and are guided through the magic of web3 without the stress of wire transfers and gas fees.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Toddler Tycoons",
+    "slug": "toddler-tycoons-od5pi",
+    "description": "Li'l investors trying to take over the world economy. NFT's that own a treasury and reward their holders. #NFTthatPays #NFTxDEFI",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SAY DAO",
+    "slug": "say-dao-7fgq0",
+    "description": "Governing an existing network between Donors,  E-commerce, NGOs, Social workers and Children using wallet signature and proof of Done need..",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFTRoad",
+    "slug": "nftroad-syo2w",
+    "description": "NFTRoad is the Platform for content creators and their customers that uses NFTs as a subscription and access to the course.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f5vjp",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ARCLand",
+    "slug": "arcland-jmy6y",
+    "description": "Arcade Virtual lands which are NFT Showcases",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The-IMR-Experience",
+    "slug": "the-imr-experience-i2mbv",
+    "description": "Checkout the next generation of Immersive Mixed Reality Experiences built on OpenSea, Moralis and Snapchat",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "e8ob5"
+    ]
+  },
+  {
+    "name": "Carbon Token Project",
+    "slug": "carbon-token-project-a0jzt",
+    "description": "Issuing a crypto currency called Arboreum against living trees",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyNFT App",
+    "slug": "mynft-app-jb5jp",
+    "description": "MyNFT App allows a user send ERC20 tokens and query all NFT of the connected account @OpenSea",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "tock3ts",
+    "slug": "tock3ts-8st3z",
+    "description": "tock3ts is a dApp focused on migrating nowadays ticketing system to web3.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SquadFund",
+    "slug": "squadfund-w3do9",
+    "description": "Squadfund.xyz - Funds to power your NFT community. Squad fund helps you create and fund projects together with your NFT squad",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Game Card",
+    "slug": "nft-game-card-zkxfd",
+    "description": "Game which uses the NFT score cards generated by your high scores in 2048 game to enter into a pool and win rewards",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Seadogs",
+    "slug": "seadogs-zkqgv",
+    "description": "Using Seadog NFTs as access tokens, the Seadogs project enables players and writers to experience the fantasy world of the Seadogs through games and co-operative storytelling.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tales of Eldevia",
+    "slug": "tales-of-eldevia-jo8y4",
+    "description": "Discover the secrets of the metaverse through specific missions for each class, unravel the mysteries, defeat enemies and shape the story with your choices.  Evolve your character, making him UNIQUE and inimitable, in a continuous struggle between good and evil.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VHigh! Avatar",
+    "slug": "vhigh-avatar-rv5n2",
+    "description": "We are here to excite Japanese VTuber culture, driving it with NFT",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YCYC - yacht club yacht club",
+    "slug": "ycyc-yacht-club-yacht-club-umwi7",
+    "description": "Set your NFT Profile free, and join the Yacht Club Yacht Club. A community built around minigames and tokens that provides your NFT purpose!",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SquareETH",
+    "slug": "squareeth-zt4en",
+    "description": "Build with the community on a giant collaborative canvas of pixel NFTs",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CodeDiamonds",
+    "slug": "codediamonds-k7oxt",
+    "description": "CodeDiamonds is an NFT marketplace for all the artwork that is generated via code.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFT Degenerator",
+    "slug": "nft-degenerator-t3t70",
+    "description": "NFT Degenerator is a platform that empowers artists & creators to submit their NFTs to the blockchain. They can either upload their creations or mint a short video randomly generated for them to experience the power of the Degenerator",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFTsave",
+    "slug": "nftsave-x7hgh",
+    "description": "Nftlized Defi crypto savings platform and NFT dashboard to onboard users into nft and defi",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFT Airdrop",
+    "slug": "nft-airdrop-pa9b1",
+    "description": "NFT Airdrop is used to airdrop NFTs, anyone can create a campaign to start a NFT airdrop",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Hunt",
+    "slug": "web3hunt-t2psw",
+    "description": "Web3Hunt is THE hunting ground for all web3 products, starting with NFTs. It’s the one-stop-shop for you to conduct market and social intelligence research and discover your new NFTs, DeFi protocols, tokens, basically all things in web3!",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "NiftyBadger",
+    "slug": "niftybadger-4xjwg",
+    "description": "The one-click web3 platform for creators to generate NFT storefronts and empower their communities with exclusive gated experiences",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Chataro",
+    "slug": "chataro-b00ra",
+    "description": "Basic NFT Marketplace built with the Moralis tutorial on YouTube",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dop.io",
+    "slug": "dop-io-gfdzx",
+    "description": "Dapp for NFT Derivatives from pixel based assets.  Punks are our main model.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "PlanB",
+    "slug": "planb-bzt2k",
+    "description": "Building stronger bonds  between creators and subscribers through airdrops and NFT-gated content",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Charisma - Personality Using Wallet NFT Data",
+    "slug": "charisma-personality-using-wallet-nft-data-8kh19",
+    "description": "Charisma analyzes your personality through your NFT assets and on-chain data. Mint your personality NFT and find similar friends.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Superfluid Subscription Service",
+    "slug": "superfluid-subscription-service-j6c6e",
+    "description": "tOkeNisabLeY transFerAble super subscriptioNS - Create Web3 subscriptions with ownership proved by NFTs and viewership paid through Superfluid streams.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Graffiti Mint",
+    "slug": "graffiti-mint-kj7dh",
+    "description": "A Dapp to digitize and mint street art from IRL graffiti events",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "r9t85",
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Eggie Planet",
+    "slug": "eggie-planet-orfc6",
+    "description": "Welcome to Eggie Planet, home of the Eggies. They dreamed of being accepted by the other planets in their galaxy, but they were accepted neither as a fruit nor a vegetable, no matter how hard they tried to assimilate.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS On Steroids",
+    "slug": "ens-on-steroids-fhs4k",
+    "description": "A dashboard to boost the power of ENS by showing the community very useful informations.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ENS Events",
+    "slug": "ens-events-knrmi",
+    "description": "ENS debugger tool to see what happened to your ENS name and when it happened",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "VeriDAO, the NFT collection verification DAO",
+    "slug": "veridao-the-nft-collection-verification-dao-eftgq",
+    "description": "Decentralized NFT collection verification for collectors, creators and developers",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETH Time",
+    "slug": "eth-time-1pjav",
+    "description": "ETH Time is an on-chain generative NFT collection that changes with time and at each transfer.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Beastieland",
+    "slug": "beastieland-tvao1",
+    "description": "Beastieland is the first animal NFT collection responding to global environmental changes 🐼  Built with #SmartWeave Contracts, Beasties die out with negative climate trends and have offspring with positive ones - creating an emotional bond to human impact on the environment 🌎",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KrakensClub - Decentralized Membership",
+    "slug": "krakensclub-decentralized-membership-fvwjv",
+    "description": "KrakensClub - Decentralized Membership Platform based on generative NFTs",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PlanIt",
+    "slug": "planit-x9wd1",
+    "description": "No more scribbled notes, abandoned plans or the never ending search for the perfect restaurant. PLANIT is a one-stop planning tool that allows you to search, make lists, share, and even sell them as NFTs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Architecture Skills",
+    "slug": "nft-architecture-skills-j4s0c",
+    "description": "An NFT schema that allows you to proof, validate, and promote your skills in architectural design",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KitaJaga Volunteer Stream Money NFT",
+    "slug": "kitajaga-volunteer-stream-money-nft-zirwy",
+    "description": "Volunteer membership NFT that receives a constant stream of funds from donation campaigns",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JustiFi",
+    "slug": "justifi-dt5pa",
+    "description": "Unsure about purchasing via NFT marketplaces? JustiFi's escrow service grants buyers and sellers fair trials with each transaction - allowing users to dispute transactions via crowdsourced juries.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WeBill.io",
+    "slug": "webill-io-2tbbe",
+    "description": "Instant cross-chain transactions to buy NFT or GameFi Tokens",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nftcerts",
+    "slug": "nftcerts-zoa9w",
+    "description": "Make it easy to create and verify educational certificates as NFTs.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Mint Page",
+    "slug": "mint-page-0pamb",
+    "description": "A mint page for a Rinkeby NFT using a smart contract that could be deployed to Ethereum or Polygon.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "scoreMinter",
+    "slug": "scoreminter-fg1jz",
+    "description": "a marketplace (and a DAP) for musical scores, to buy, sell and get commisioned!",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Creep Kids NFT Polygon Extension",
+    "slug": "creep-kids-nft-polygon-extension-p43h4",
+    "description": "Verify Asset ownership on ETH from polygon to build game layer for NFT Collection",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Roboto Interactive NFT",
+    "slug": "roboto-interactive-nft-1fpnx",
+    "description": "Roboto is a SVG composable and interactive NFT.  Wear your Roboto with antennas, ears and glasses. Keep the battery charged!",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Super Fractionalizer",
+    "slug": "super-fractionalizer-mdgur",
+    "description": "An NFT to Super Token Fractionalizer factory contract serving as a primitive for real time NFT fraction streaming on the Superfluid Protocol.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "NFTPass",
+    "slug": "nftpass-sf3nw",
+    "description": "Create Wallet passes for your NFT collection so you can more easily",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTown",
+    "slug": "nftown-ftwyv",
+    "description": "NFTown is an NFT (meta-)marketplace with a Super NES JRPG-style UI",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "NFZ.WORLD",
+    "slug": "nfz-world-wai9i",
+    "description": "NFZ.WORLD – A world where we take your 2D NFT collection into the 3D-Metaverse, or what we prefer calling it - Profile Pictures 2.0",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TaxiderMeme",
+    "slug": "taxidermeme-k72tj",
+    "description": "Humanely framed memes, stuffed, and mounted on a wall to decorate your meta-home (Your Twitter Banner).",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenShelf | OpenDesk",
+    "slug": "openshelf-opendesk-sh96c",
+    "description": "A NFT marketplace for e-Book. Here, Authors can self-publish books. Readers can buy or sell books while compensating the author on every exchange transaction.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFTBet 1",
+    "slug": "nftbet-1-9mp32",
+    "description": "A betting game where users guess the colors of a randomized NFT's tiles to win it",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "OpenLand",
+    "slug": "openland-ws520",
+    "description": "OpenLand is the most open platform for buying, selling and earning returns on land assets on the blockchain.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTHackST",
+    "slug": "nfthackst-mxfh0",
+    "description": "NFTHackST is an NFT factory for minting recording artist community social tokens",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verse",
+    "slug": "verse-03r7a",
+    "description": "Verse is a high liquidity NFT Marketplace that allows users to buy and sell NFTs without having to worry about it's future worth",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "MURAL TOKEN - Whitepaper V.0",
+    "slug": "mural-token-whitepaper-v-0-w7u75",
+    "description": "Community token from the cryptomurals platform who allows people to promote street art around the world and the metaverse.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeBooki",
+    "slug": "debooki-sevbv",
+    "description": "A Metaverse NFT Books Library. Here, Authors can self publish NFT books. Readers can buy or sell NFT books while compensating the author on every exchange transaction.",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f5vjp",
+      "f5vjp",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "WHOODID.COM",
+    "slug": "whoodid-com-vuuz0",
+    "description": "NFT Native Social Platform - connecting people with NFT as a bond of identity, persona, and interest.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "SuperCard",
+    "slug": "supercard-3kxkf",
+    "description": "Superfluid credit card. Get revolving credit against your Superfluid income stream.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "ENS Signatures on DocuSign with MyWalliD",
+    "slug": "ens-signatures-on-docusign-with-mywallid-g2n94",
+    "description": "We're bringing ENS into WalliD and DocuSign's integration for PDF signatures with ETH addresses",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "0xPhotos",
+    "slug": "0xphotos-kf3ha",
+    "description": "Stock photography marketplace using NFTs that puts creators first  and pays royalties every second.",
+    "event": "NFTHack 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "qy8m3",
+      "x59d1",
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFTopia",
+    "slug": "nftopia-usdqg",
+    "description": "An NFT marketplace fusing the power of DAO and AI, that encourages reviewing NFT to earn reward,  and provides smart insights to help buyers make better decisions.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "PlantyBois",
+    "slug": "plantybois-1mc64",
+    "description": "🌼 PlantyBois is a dynamically changing collection of 3,333 hand drawn plants minted on Polygon.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Dapp Ideas",
+    "slug": "dapp-ideas-vutfc",
+    "description": "Mint your projects as NFTs to gain some decentralised funding",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTPortal",
+    "slug": "nftportal-c6q9s",
+    "description": "The project that I hacked on is a ticketing API for Nfts. It uses Moralis to get user addresses and verify token ids. The platform itself lets users sign-up, create a portal (ticketing portal) where they can see what tickets are being used, if they are successful and so on.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Student Loans on DEFI",
+    "slug": "student-loans-on-defi-rongn",
+    "description": "Bringing support to web3 learners to reduce the pain to get the first web3 job",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Poly Machine",
+    "slug": "poly-machine-iaa4i",
+    "description": "A digital vending machine that mints Polygon NFTs in timed drops",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Random Acts of Kindness",
+    "slug": "random-acts-of-kindness-vhzrw",
+    "description": "Deposit into tiers, wait a day and hit withdraw to receive a random deposit within that tier. 6% tx fee taken and sent to charity (Fred Hutchinson Cancer Research Center). Guaranteed to receive almost your entire deposit back. Can receive up to max deposit for tier. Be kind!",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Floor Price Prediction",
+    "slug": "nft-floor-price-prediction-c1giu",
+    "description": "NFT floor price prediction using Covalent API data and time-series model, developed in Python's Jupyter Notebook",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hourglass",
+    "slug": "hourglass-pmhnu",
+    "description": "Crowdfunding with money streaming through an NFT. An unique and better way to send funds to projects.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Bl3nd",
+    "slug": "bl3nd-zoqpu",
+    "description": "Generate super rare NFTs by yourself, by mixing your beloved collection.  Let’s Bl3nd them! | by Wake Up DAO",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creativerse (Minecraft on Ethereum)",
+    "slug": "creativerse-minecraft-on-ethereum-wrodr",
+    "description": "A Minecraft server where you own plots of land as NFTs, and all of the block data of each plot is stored in the NFT. This allows anyone to run a server, making it a decentralized Minecraft protocol.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "nft-marketplace",
+    "slug": "nft-marketplace-qs2g3",
+    "description": "A market place to mint and purchase NFT's using the rinkeby testnet",
+    "event": "NFTHack 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Greedy Bots",
+    "slug": "greedy-bots-sou6t",
+    "description": "A robot themed NFT project that comes with its very own trading bot in each NFT. The cheapest and most universal trading bot you can find.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Dungeon Adventure",
+    "slug": "nft-dungeon-adventure-bbndf",
+    "description": "Mint an adventurer and a dungeon map and fight monsters and find treasure!",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yrwii",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFTree",
+    "slug": "nftree-kc14o",
+    "description": "The Linktree for NFTs. View the NFTs owned by a wallet address or ENS you enter, and get a shareable link of those NFTS for others to see.",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Nifty Memories",
+    "slug": "nifty-memories-4ybgy",
+    "description": "A social platform with an endless feed of memorable tokens, like photoalbum, that you can share with people with whom you've experienced some emotions or you're just in the same interest group",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "crypt0graff",
+    "slug": "crypt0graff-5jxx8",
+    "description": "crypt0graffs mission is to enable all members in graffiti's ecosystem to take part in its growth by contributing a defi based value system.",
+    "event": "NFTHack 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NST-NFT",
+    "slug": "nst-nft-qdp9a",
+    "description": "Generate Art NFTs from Neural Style Transfer method by help of Eager Execution",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yoink Club",
+    "slug": "yoink-club-jc17p",
+    "description": "Releases NFT utility tokens that are otherwise locked in secondary markets and liquidity pools",
+    "event": "NFTHack 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PoolFi",
+    "slug": "poolfi-px8on",
+    "description": "Collateralized & instant borrowing protocol working with NFT collections of all sizes and trade volumes.",
+    "event": "NFTHack 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "x3xey",
+      "f5vjp",
+      "f5vjp",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "RainbowRibbon",
+    "slug": "rainbowribbon-xc8o7",
+    "description": "After the rain, the sky was clear, the rainbow appeared in the sky at this moment, and its soft body stretched out like a magnificent ribbon.",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZappierFi",
+    "slug": "zappierfi-b0x7m",
+    "description": "Permissionless funding for early-stage projects based on NFT credentials",
+    "event": "NFTHack 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

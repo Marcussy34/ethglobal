@@ -1,0 +1,2205 @@
+[
+  {
+    "name": "Revoke GHO",
+    "slug": "revoke-gho-a108u",
+    "description": "Revoke GHO token approvals to fake contracts in just 1 click",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spooky",
+    "slug": "spooky-e2wj4",
+    "description": "Making using GHO easier by building a simple cross platform app",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Super Wallet",
+    "slug": "super-wallet-6jabd",
+    "description": "Simple mobile number based wallet using ghost and account abstration",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOExpense Companion",
+    "slug": "ghoexpense-companion-nsj2d",
+    "description": "Empower Finances, Simplify Delegation - Your Ultimate Family Expense Companion!",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Hodl payment",
+    "slug": "hodl-payment-2zfk0",
+    "description": "with Hodle Payment you can stake your Etheruem in Aave protocol and send(spend) GHO token to any address that you want this way you will spend the price of ETH and later when ETH goes higher you can unlock your ETH",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Shippr",
+    "slug": "shippr-q6ixt",
+    "description": "An escrow contract that releases funds only if the package is successfully delivered",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHO-SDK",
+    "slug": "gho-sdk-wpvif",
+    "description": "Swiss Knife for GHO devs, that enable faster development and lets one experiment with GHO!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BankWim",
+    "slug": "bankwim-qyr0v",
+    "description": "Stake your NFTs as collateral, a complete NFT utility platform",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "State of GHO",
+    "slug": "state-of-gho-07xxu",
+    "description": "A experimental project using the Aave GHO subgraph and building a discord bot to query it",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO-Nexus-Protocol",
+    "slug": "gho-nexus-protocol-5iowq",
+    "description": "Interchain Credit System Leveraging GHO and Chainlink CCIP: This is the First GHO Lending and Borrowing Protocol and a Cross-Chain Bridge.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Crypto Wager",
+    "slug": "crypto-wager-wgvzz",
+    "description": "Fun and short crypto game, if you love dice you gotta play it",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Pendulum",
+    "slug": "pendulum-rjaec",
+    "description": "A Decentralized Consultancy with earnings for expert and end users",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Monte Carlo GHO",
+    "slug": "monte-carlo-gho-eiy5w",
+    "description": "Using PIDs to adjust borrow rates to maintain peg of GHO. User simulation done using Monte Carlo method",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK-Offchain Sentinel",
+    "slug": "zk-offchain-sentinel-31k9x",
+    "description": "Securely collateralizing off-chain assets using TLSN to obtain GHO on-chain",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoBridge",
+    "slug": "ghobridge-530hy",
+    "description": "GhoBridge is a decentralized, secure, and efficient cross-chain bridging solution powered by Chainlink's Cross-Chain Interoperability Protocol (CCIP), and Gho Token's Facilitator Logic designed for the Gho Token.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "\"./yieldGhoVault\"",
+    "slug": "yieldghovault-3sf1a",
+    "description": "Yield strategies vault of gho overcolateralized stablecoin to produce up to three different yield revenues from the same supplied investment..",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO Wallet",
+    "slug": "gho-wallet-qiwb4",
+    "description": "Gho Wallet is Account Abstraction wallet made using the ERC-4626.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GhoVista",
+    "slug": "ghovista-sasa1",
+    "description": "Protocol and Telegram Bot For all your GHO operations. Create limitorders, Borrow/Lend GHO, Pay With GHO in single click by sending a message in telegram",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "letsghotothemoon",
+    "slug": "letsghotothemoon-gcg36",
+    "description": "canceled, it was a private zk rollup with fees payed in gho with native yield (on gho)",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SecureSure Protocol",
+    "slug": "securesure-protocol-uvfej",
+    "description": "SecureSure Protocol: Revolutionizing DeFi insurance with decentralized, trustless coverage. Connects risk-taking Backers with users seeking protection. Dynamic pricing, fair terms, and swift claims. Trustlessness redefined! #DeFi #Insurance #Crypto",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Degram2.0",
+    "slug": "degram2-0-2z2f5",
+    "description": "Degram2 is a decentralized social media platform. By utilizing Web 3 Storage solutions provided by IPFS (InterPlanetary File System), degram aims to provide users with a privacy-focused and adfree",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LendNFT",
+    "slug": "lendnft-a7chx",
+    "description": "Unlock the potential of your property with permissionless peer-to-peer vault share loans on our platform! NFTs serve as collateral for borrowing GHO vault shares, combining ownership and value. Incentives await through GHO tokens and vault shares. 🚀 #CryptoInnovation #NFTs",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Acta-Rebalancer",
+    "slug": "acta-rebalancer-0cquh",
+    "description": "A Backend infrastructure for Programmable Rebalancing for Vaults using Account Abstraction",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOYeildHub",
+    "slug": "ghoyeildhub-jrd6u",
+    "description": "GHOYeildHUB: Unlock uncollateralized loans with GHO stablecoin via credit delegation. Stake assets, delegate borrowing limits, and earn double interest for lenders from AAVE and GHOYeildHUB. Boost liquidity with platform fees and LP strategies.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gho-Tip",
+    "slug": "gho-tip-i4t9o",
+    "description": "GHO-TIP is application to tip anyone with GHO-tokens with just a link, without knowing their address in a completely decentralized way. It uses Account Abstraction with features of GHO token and chainlink CCIP to achieve this.",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "831ya",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "ConnectKit Faucet",
+    "slug": "connectkit-faucet-4k4h5",
+    "description": "A ConnectKit powered basic crypto faucet that connects and distributes",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Ghost App",
+    "slug": "ghost-app-cbi0o",
+    "description": "Ghost is a complete mobile app for GHO token, It offers a comprehensive GHO mobile experience for users.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CorporateBondsGHO",
+    "slug": "corporatebondsgho-faz05",
+    "description": "Revolutionize corporate bonds with CorporateBondProtocol, powered by GHO tokens. A decentralized solution on Ethereum, ensuring transparency, efficiency, and accessibility in bond issuance, trading, and redemption.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "se2-connectkit",
+    "slug": "se2-connectkit-dn4p2",
+    "description": "Web interface to the GHO token contract I deployed to Sepolia with Vercel and Connectkit",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GoldSmith Finance",
+    "slug": "goldsmith-finance-dv4fq",
+    "description": "Buy, Lend & Borrow tokenized Precious Metals with ease with a buttery smooth UX!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOStation",
+    "slug": "ghostation-xdjc2",
+    "description": "The all-in-one insurance, yield generation and analytics platform for GHO ecosystem protocols.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Bankless Wallet",
+    "slug": "bankless-wallet-yuhe8",
+    "description": "Bankless Wallet is a smart contract wallet that leverages zero-knowledge proofs for authentication where users can pay transaction fees in GHO",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Blockchain Market",
+    "slug": "blockchain-market-knqx2",
+    "description": "This is a project to prevent fraud operations in online markets. Thanks to power of the blockchain, user can see who is the owner, past owners.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "AAVE-Snap",
+    "slug": "aave-snap-det91",
+    "description": "The metamask snap notifies the user of all information related to AAVE (APY, Supply change,...)",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "PaperStack",
+    "slug": "paperstack-ttsef",
+    "description": "PaperStack provides an efficient solution for organizations dealing with vast amounts of on-paper open data.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AaveArtVault",
+    "slug": "aaveartvault-55cfh",
+    "description": "Revolutionizing art finance, our platform pioneers NFT collateralization with GHO tokens on Aave, empowering creators through decentralized lending. We offer artists a gateway to financial support, fostering innovation and creativity in a decentralized economy.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "PoSMinter",
+    "slug": "posminter-k0gg9",
+    "description": "Proof of Stake minter facilitates borrowing GHO token on L2 based on the ETH supplied to Aave protocol on Ethereum network with help of Chianlink CCIP.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "vegen Protocol",
+    "slug": "vegen-protocol-bymzu",
+    "description": "Storage dapp for users so that they can seamlessly connect any wallet and use it like a grdive",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "BitCloud",
+    "slug": "bitcloud-nx21o",
+    "description": "Bitcloud - Streamlining cross-chain token transfers with  innovation and security",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoShare",
+    "slug": "ghoshare-nggb3",
+    "description": "An iOS app created to address shortcomings in expense splitting apps by enabling decentralised direct in-app settlements of payments using credit delegation, token swapping and cross-network transactions. Secured by biometric authentication and EIP 4337 smart accounts.",
+    "event": "LFGHO",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "f8ku2",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "GHOVerifyRewards",
+    "slug": "ghoverifyrewards-6cwfz",
+    "description": "GHOVerifyRewards: Empowering KYC companies and platforms with a structured incentive product. Attract and onboard an active customer base effortlessly.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOAlert",
+    "slug": "ghoalert-a86w9",
+    "description": "Stream Overlays for GHO Related Alerts that works on any streaming software",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "831ya"
+    ]
+  },
+  {
+    "name": "Proton",
+    "slug": "proton-63dqw",
+    "description": "ProtonPack enables users to pool staked AAVE, amplifying yield and offering discounted GHO rates.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fishStick",
+    "slug": "fishstick-rumdd",
+    "description": "Customized EVM with the help of precompiles to save gas in transactions. Can be deployed to any chain for transactions.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoPay SDK",
+    "slug": "ghopay-sdk-cqvyo",
+    "description": "An SDK for quickly interacting with the GHO ERC20 Token Contract",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "gho dashboard",
+    "slug": "gho-dashboard-ik02j",
+    "description": "A dashboard showing certain metrics like gho minting amount over time.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AaveFamily",
+    "slug": "aavefamily-oqq15",
+    "description": "Do you want to connect your wallet, and see market data ? Well we've got the platform for you !!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiSurfer",
+    "slug": "suisurfer-3qas9",
+    "description": "Engage with media, earn coins, snag exclusive merch! Seamlessly make payments within the platform. Elevate your experience with rewards and stylish gear. Dive into a world where interaction meets convenience",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EKINOX",
+    "slug": "ekinox-qda6x",
+    "description": "A tokenized AMLCFT Ramp to get GHO or Colaterized national Stablecoin to get services automated.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Muchiko Facilitator",
+    "slug": "muchiko-facilitator-6kap2",
+    "description": "Multi-chain collateral facilitator for the GHO stablecoin that allows for locking collateral.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoCoffeeCart",
+    "slug": "cryptocoffeecart-vsvdk",
+    "description": "CryptoCoffeeCart revolutionizes online support for creators by merging virtual coffee purchases with cryptocurrency",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tap",
+    "slug": "tap-0py4w",
+    "description": "Send and receive payments fast and easy with GHO, gas-free and with a great focus in User Experience",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "831ya"
+    ]
+  },
+  {
+    "name": "LEGHO",
+    "slug": "legho-42jbh",
+    "description": "Send & Receive GHO between frens with Legho, a payment mobile dapp for your social events.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GhrossChain",
+    "slug": "ghrosschain-tynd1",
+    "description": "Send Assets to any user with their desired chain, desired address and asset preferences",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHO Rewards",
+    "slug": "gho-rewards-mp82x",
+    "description": "Discover decentralized rewards with GHO Rewards using Chainlink CCIP. Mint NFTs across chains, gaining privileges as GHO expands. Join for a glimpse into the future of rewards",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liquid",
+    "slug": "liquid-sm0on",
+    "description": "Create a social on-chain profile and earn GHO rewards from your audience",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHOvardhan",
+    "slug": "ghovardhan-q62vv",
+    "description": "Multiple ERC4626 vaults, powered by our in-house highly accurate ML models. A powerful SDK for your aave-GHO needs, and an interactive UI with credit delegation marketplace",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Our MerryGoRound",
+    "slug": "our-merrygoround-roqpz",
+    "description": "Funding merry go round, each participant puts in GHO funds every month and each person will randomly get out the full payment",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoShares",
+    "slug": "cryptoshares-arfwp",
+    "description": "A web3 based platform which allows founders to list their startups and other investors to buy shares and fund the startup",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ghovident",
+    "slug": "ghovident-c8y6k",
+    "description": "Govident is an application that serves as a centre for collecting provident funds on blockchain. To allow employers to choose to invest and serve as long term savings to support an employee's retirement and elevate the level of blockchain to help shape society.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Wakeme Crypto",
+    "slug": "wakeme-crypto-bf20t",
+    "description": "WakeMeCrypto: Ethereum DApp for rewarding wake-ups. Stake ETH, set alarms; wake up on time, reclaim stake. Failure results in stake loss. Smart contracts manage alarms, stakes, creating an incentivized wake-up system",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "ReInvest",
+    "slug": "reinvest-oquf8",
+    "description": "ReInvest is a DeFi platform that lets people delegate borrowing power to professional investors and other users, thereby allowing them to earn passively from supplying funds to the protocol and earning from vaults in which they delegate their borrowing power to",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutoDCA",
+    "slug": "autodca-eo9ud",
+    "description": "AutoDCA, the Decentralized Investment Planner (DIP), empowers users for seamless, trustless crypto investments on Ethereum. Smart contracts automate personalized plans, managing token selection, frequency, and total commitment. Experience secure, user-friendly investing with DIP!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOCC",
+    "slug": "ghocc-vejcm",
+    "description": "GHOCC is a peg stability and cross-chain GHO Facilitator that swaps USDC to GHO and send it cross chain",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Entropay",
+    "slug": "entropay-cc8o9",
+    "description": "Introducing Entropay: The ultimate payment super-app! Earn rewards for every transaction, enjoy 'Buy Now Pay Later' options, customizable payment widgets for businesses, QR code payments, and daily incentives. Transform your spending into earning with Entropay!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOHealthCheck",
+    "slug": "ghohealthcheck-jnzdv",
+    "description": "Introducing the GHO Stablecoin Monitoring Tool: A cutting-edge platform for real-time tracking and analysis of stablecoin metrics. Stay ahead with our innovative tool! #GHOStablecoin #CryptoAnalytics",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BOO! the Faciliator",
+    "slug": "boo-the-faciliator-s99rc",
+    "description": "BOO! is an innovative Native Bitcoin GHO Faciliator, trustless mechanism where BTC transactions verifying via its BTC LightClient(spv) and minting GHO on Ethereum, with user ETH addresses tagged in OP_RETURN parsed by specialized contract.",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "831ya"
+    ]
+  },
+  {
+    "name": "Get Some Cred",
+    "slug": "get-some-cred-qbj5q",
+    "description": "Peer to peer lending protocol that allows for users to form uncollateralized loans with another. Secured using military grade document identification and face scanning to prevent multiple accounts. All payments and loans powered by GHO!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ParkGHO Family",
+    "slug": "parkgho-family-8fjyy",
+    "description": "Revolutionizing Sustainable Mobility & Road Safety using GHO Faciltators, Vault and Payments, Family Wallet & Chainlink CCIP",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO__PAY",
+    "slug": "gho-pay-mquwu",
+    "description": "Pay in $GHO, Receive any way you want without any gas. FAST AND EFFORTLESS",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GetSet GHO",
+    "slug": "getset-gho-9vg4z",
+    "description": "GetSetGho - Use GHO to access any Dapp across multiple blockchains.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cirql Protocol",
+    "slug": "cirql-protocol-2skus",
+    "description": "Cirql Protocol: A decentralized finance solution using ERC-4626 vaults, enabling users to fund and acquire shares while facilitating credit delegation for efficient borrowing. Integrated with GHO stablecoin for optimal lending strategies.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lot's gho shopping",
+    "slug": "lots-gho-shopping-ayz3k",
+    "description": "Lot's GHO shopping is a platform that users can shop multi-chain NFTs using GHO on mainnet, additionally the user will get a lottery ticket for each NFT they purchased, where the lottery prizes will be provided by the profit of us utilizing flashmint to do arbitrage.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "token-project",
+    "slug": "token-project-p68sx",
+    "description": "Welcome to Token Buddy! Your go-to solution for deploying tokens on the Sepolia testnet.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHO UPI",
+    "slug": "gho-upi-fsyg9",
+    "description": "Minting GHO tokens by paying in rupees (fiat currency) using UPI (Unified Payment Interface)",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHO now pay later",
+    "slug": "gho-now-pay-later-t3jrb",
+    "description": "GHO-NPL empowers you to make purchases without needing to sell your valuable crypto assets. With this payment method, you can pay later by borrowing GHO, using your existing crypto holdings as collateral.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Lfgho-SubPay",
+    "slug": "lfgho-subpay-69nqy",
+    "description": "\"Lfgho-SubPay\" is an Ethereum smart contract for automating and managing subscriptions using ERC20 tokens.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Crypto Wallet",
+    "slug": "crypto-wallet-w8sf8",
+    "description": "Crypto Wallet where you can see the balances and quick descriptions of each of your tokens!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO NFT Market",
+    "slug": "gho-nft-market-tjirb",
+    "description": "An AAVE for NFTs where we act as a facilitator for GHO for people to borrow against their uTokens minted by fractionalizing their NFTs on the flooring.io platform.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lord of the solvers",
+    "slug": "lord-of-the-solvers-w3oay",
+    "description": "FHE and ML powered user intent solver, ensuring user privacy and facilitating web2 like experience.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO Trade Vaults",
+    "slug": "gho-trade-vaults-fey2f",
+    "description": "A revolutionary DeFi platform for fixed-price asset trading with GHO tokens. Eliminate slippage, ensure fair value trades, and engage in a secure, decentralized trading environment. Redefine your trading experience!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO Sensei",
+    "slug": "gho-sensei-jth3o",
+    "description": "I modified the oSnap module to create a natural language contract to distribute GHO. To help write the contract, I created an AI framework for quickly building and deploying new agents, and prompts for writing optimistic governance rules.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gho-M",
+    "slug": "gho-m-yvtgi",
+    "description": "Gho-M ~ Where Conversations and Consensus Converge. GhoM is a Web3-based application designed for secure and smart and seaamless payments and messaging.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "AmiGHOs",
+    "slug": "amighos-o3jtm",
+    "description": "a seamless way to track, share, and settle expenses among (crypto-native) friends",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOPPA",
+    "slug": "ghoppa-y34ti",
+    "description": "An all-in-one AA wallet for Aave where you can handle all your payments through GHO, automate your debt repayments, and use your assets across multiple chains simultaneously.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossStaking",
+    "slug": "crossstaking-v6vnp",
+    "description": "Cross Chain staking app to allow user to stake gho token from different chains",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "DeBaGHO",
+    "slug": "debagho-v0fhh",
+    "description": "An interface for global public to use GHO as their primary token",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "weloan",
+    "slug": "weloan-0kz4h",
+    "description": "cloning aave, but trying to make its  UI easy to use and simple.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Karma Vouch",
+    "slug": "karma-vouch-gwpxz",
+    "description": "An on-chain vouch based Karma system for DAOs, enabling a trust based approach for figuring out the legitimacy of an Address",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GETGHO",
+    "slug": "getgho-0ncgt",
+    "description": "An innovative way of accessing the AAVE ecosystem and borrowing GHO in every possible way.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "AAVE Checks",
+    "slug": "aave-checks-j9yyx",
+    "description": "Pay and endose checks/ invoices! All securly authenticated by an AAVE mediator!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Retro NFTs",
+    "slug": "retro-nfts-thwhz",
+    "description": "A retro NFT's app based on zelda classics and have seemless experience in intergrating my wallet in to it.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "X-chain GHO Payment",
+    "slug": "x-chain-gho-payment-tjiwk",
+    "description": "A seamless marketplace to buy and sell NFT with GHO (or whatever token you choose)",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHOIT",
+    "slug": "ghoit-m0tk7",
+    "description": "The gateway to a world of secure and transparent transactions, connect, create, and make payment.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOld Rush",
+    "slug": "ghold-rush-eaikb",
+    "description": "It is a GHO powerball lottery where people can stake their GHO tokens and receive the prize in GHO tokens if they win.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHO-payment-SDK",
+    "slug": "gho-payment-sdk-csmoj",
+    "description": "🛠  An SDK for building applications on tops of GHO as payment input.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pay-GHO",
+    "slug": "pay-gho-ump6q",
+    "description": "A DeFi payment application for seamlessly paying through GHO",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "DeCredit Wallet",
+    "slug": "decredit-wallet-0su87",
+    "description": "Our ERC-4337 compatible wallet works like a credit card for any GHO transaction. You don't need to have any GHO on the balance to perform operations with it, just make sure to pay off your credit later!",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "GHOsafe Credit (GSC)",
+    "slug": "ghosafe-credit-gsc-7v5nf",
+    "description": "Lending platform dependent on the Credit score on the platform",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Social-Redpack",
+    "slug": "social-redpack-hkisg",
+    "description": "We use the Family SDK, GHO and CCIP to build a Social Redpack module on our CreatorX platform",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LetsGHO",
+    "slug": "letsgho-r97r6",
+    "description": "LetsGHO is an on-chain payment processor which supports both Credit and Debit payment powered by GHO",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "resolution",
+    "slug": "resolution-zxd2z",
+    "description": "Why New Year Resolution doesn't work? Create a task and challenge yourself. Donation and getting rewards!",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "DeWork",
+    "slug": "dework-cqc5h",
+    "description": "A Decentralized freelancing platform connecting businesses and professionals",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "LensPay",
+    "slug": "lenspay-37cjk",
+    "description": "Introducing LensPay: Deposit GHO, get NFT gated access and engage in premium LENS discussions. A cross-chain DeFi and social blend where your insights earn rewards. #LensPay #DeFi #NFT #SocialFi",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lazy Ghost",
+    "slug": "lazy-ghost-b7xye",
+    "description": "A web3  lazy payment gateway (Buy Now, Pay Later) , Shop today, pay later effortlessly with our decentralized Buy Now, Pay Later platform.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO Figure",
+    "slug": "gho-figure-80s7v",
+    "description": "Gho Figure is a new way to do cross chain DeFi using Gilts and Gho",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Auto Echidna",
+    "slug": "auto-echidna-81ytg",
+    "description": "AutoFuzzer: Smart contract auditing made efficient. It is a CLI tool integrated with ChatGPT that auto-generates Echidna test functions for automated testing. The result helps auditors and developers improve contract security. Streamline your workflow with our powerful solution.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SAVVY",
+    "slug": "savvy-dcjib",
+    "description": "SAVVY | DeFi for teens: Project to onboard high school students through schools to DeFi with saving and investing strategies with a safe and educational approach.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AlphaGHO",
+    "slug": "alphagho-jjiuq",
+    "description": "One stop shop for all things GHO ranging from payments to arbitrage, completely gasless!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PaywithGHO",
+    "slug": "paywithgho-3z61v",
+    "description": "Streamlined Payments, Seamless Transactions with easy onramp solution 🎉",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoTicket",
+    "slug": "ghoticket-0hkpx",
+    "description": "Generate claimable tickets to send GHO without specifying any wallet address. Simple as using cash.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Gho Forward",
+    "slug": "gho-forward-1ghjt",
+    "description": "The GHO-Forward project brings numerous benefits to both borrowers and lenders. For borrowers, it opens up opportunities to obtain uncollateralized loans based on their credit scores.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Snowflake",
+    "slug": "snowflake-h2oaf",
+    "description": "Powerful set of APIs, SDKs, and tools to build and scale a web3 Dapp",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "No project",
+    "slug": "no-project-yn9qf",
+    "description": "............................................................",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ve8020GHO",
+    "slug": "ve8020gho-vcbj1",
+    "description": "veGHO20 provides projects with long-term, time-locked GHO-based AMM liquidity, replacing  mercenary yield farmers and market makers. Protocols that adopt ve8020 are eligible for a 25k BAL grant (~$105k) distributed to lockers of veGHO20 BPTs that contain at least 20% GHO weight.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AaveGHOtchi",
+    "slug": "aaveghotchi-yt37y",
+    "description": "Reimagined NFT Collateral with ERC6551 - A merger of NFT and DeFi",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Awa",
+    "slug": "awa-i7snj",
+    "description": "Group minter - group funds a vault, and delegate to a poolmanager to become a flashminter (facilitator)",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO-Energy",
+    "slug": "gho-energy-4wzcr",
+    "description": "In essence, the Sustainable Energy Project in Africa, driven by onchain mechanics like GHO and Chainlink, becomes a catalyst for positive change. It not only addresses the pressing need for sustainable energy solutions but also pioneers a novel approach to project financing.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Aave Secret Loans",
+    "slug": "aave-secret-loans-i6sq5",
+    "description": "A decentralized application built on blockchain technology, providing a fun and secure way for users to participate in a Secret Santa gift exchange using crypto tokens.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FRAGOLA  👻 🍓",
+    "slug": "fragola-oatod",
+    "description": "FRAGOLA is a framework to create cross-chain GHO facilitators, allowing for the secure minting/burning of GHO on Ethereum while depositing the collateral on a different chain.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0w2pp"
+    ]
+  },
+  {
+    "name": "GHO a StableSail",
+    "slug": "gho-a-stablesail-t349j",
+    "description": "GHO : A Stablecoin is a Comprehensive Analysis of the protocol with Visualisation through Dashboard and Real Time Discord Data Bot",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoFlow",
+    "slug": "ghoflow-e8y2c",
+    "description": "Payment widget + smart contacts to streamline creation of superfluid subscriptions/streams of GHO, by depositing ETH or some supported token. From 5-6 transactions to 1 (ETH) or 2 (Token approval)!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phirotto",
+    "slug": "phirotto-512r3",
+    "description": "A stablecoin reverse airdrop protocol that helps project distruibute unused funds",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ghoul",
+    "slug": "ghoul-hm4ta",
+    "description": "Ghoul manage your subscriptions payment by supply the Aave and borrow asset to pay your subscription",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Boo",
+    "slug": "boo-ckewj",
+    "description": "GHO-focused solution designed to elevate your web3 transaction experience: Painless Transactions, Cost-Free Payments and Private Key Safeguarding",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "GhoStream",
+    "slug": "ghostream-6qcog",
+    "description": "A platform where users supply collateral to borrow GHO in a stream, aligning with income flow for new payment use cases. This method gradually mints GHO, reducing risk, and unlocks innovative streaming payment possibilities within a secure framework.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "CILA: Omniasseets",
+    "slug": "cila-omniasseets-7ncpm",
+    "description": "CILA is an innovative omni assets platform transforming ERC-20 token transfers across blockchains. It uniquely enables transfers and commission payments using ERC-20 tokens, offering unmatched flexibility and convenience in the DeFi ecosystem. #CILA #DeFi #Blockchain #ERC20",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOat",
+    "slug": "ghoat-w64wu",
+    "description": "The no commission payment gateway for any Web2/Web3 shop to accept and manage GHO. Frictionless Web3 onboarding integrating simple passkey login with zero gas fees and no confusing seed phrases. Businesses can accept GHO payments with an SDK easy to integrate to existing stores.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "LendPact",
+    "slug": "lendpact-7qztm",
+    "description": "LendPact is a community lending platform where web3 projects can raise money by debt.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Esprit",
+    "slug": "esprit-jms1b",
+    "description": "Esprit is an e-commerce payments solution for both shoppers and merchants with gasless transactions, and an intuitive Web2-like experience. Easily integrate GHO payments into your online store using our WooCommerce plugin or SDK, or download the app for elegant web3 payments.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0w2pp"
+    ]
+  },
+  {
+    "name": "Pegho",
+    "slug": "pegho-gv6gr",
+    "description": "Revolutionize payments and finance with our plugin widget! 🚀 Seamlessly embed GHO for cross-chain transactions, borrow/pay with Aave GHO, and yield farm with Aave ETH. Securely connect wallets with WalletConnect. Enhance your app's financial capabilities effortlessly! 💳💸",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TopicTrove",
+    "slug": "topictrove-tmnyp",
+    "description": "An AI content detection platform, It's a project that wants to revolutionize content writing as we know it. Introducing a revolutionary content platform that redefines the way we value and appreciate creators — a space where ingenuity meets recognition.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO Bank",
+    "slug": "gho-bank-867th",
+    "description": "A dapp which acts like a bank, who stakes your assets on your behalf on aave v3 market.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IRONVAULT",
+    "slug": "ironvault-r1sxc",
+    "description": "IronVault is a collaborative, decentralized financial platform fostering shared benefits and financial inclusion",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "D4X meets BLP",
+    "slug": "d4x-meets-blp-g8ke6",
+    "description": "A fully new type of leverage pools BLP for the spot margin trading protocol d4x.io utilizes overcollateralized borrowing from AAVE and GHO - Borrowed Leverage Pool (BLP)",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkKey",
+    "slug": "zkkey-vqyiy",
+    "description": "zkKey is a seamless, walletless experience that simplifies daily transactions, offering unparalleled ease and efficiency for users. Perfect for everyday use.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Casper",
+    "slug": "casper-jxxch",
+    "description": "Casper is a widget generator for anyone to receive support via GHO.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Rivera Money",
+    "slug": "rivera-money-xy6jj",
+    "description": "Earn risk-free returns on $GHO. ERC-4626 vault for delta-neutral farming.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOFundMe",
+    "slug": "ghofundme-5pu5s",
+    "description": "Incentivization Infrastructure for Lens creators powered by GHO",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArbiGHOst",
+    "slug": "arbighost-cwh4e",
+    "description": "\"Revolutionizing DeFi with a GHO liquidation bot. 🤖 Sends on-chain alerts to at-risk users using Chainlink CCIP for precise data. Enhances UX with a sleek ConnectKit-powered frontend. #DeFiSafety #Chainlink #GHO\"",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "SuperWallet",
+    "slug": "superwallet-dor30",
+    "description": "A wallet that allows the sender to send any token and receive it in a specified token (GHO, USDC, or ETH).",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Community Vault",
+    "slug": "community-vault-bdwqs",
+    "description": "Community Vault, providing you the opportunity to deposit GHO and earn APY while unlocking exclusive NFT rewards",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TapQuest",
+    "slug": "tapquest-2qptw",
+    "description": "Transforming payments and marketing through integrating blockchain, AR, and NFC wearables",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Event Ticketing",
+    "slug": "event-ticketing-ngdae",
+    "description": "This project is a web3-based event ticketing platform that allows users to create events and buy tickets utilizing blockchain.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Boomie",
+    "slug": "boomie-wruot",
+    "description": "P2P of USD/MXN remittances using GHO/XOC stablecoins and the MP platform.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hive",
+    "slug": "hive-0vxb4",
+    "description": "A unique dApp blending DeFi with social networking. Utilizing Aave's GHO, it lets influencers, professionals, and celebrities monetize their reputation through NFTs, offering services, and interactive experiences, all backed by a robust Proof of Reputation system.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOmium assets",
+    "slug": "ghomium-assets-7hxzb",
+    "description": "GHOmium Assets: Earn GHO by depositing Real-World Assets (RWAs) like bonds, Bitcoin ETFs, and gold. Utilize our smart contract facilitator, Chainlink CCIP integration, and health index dashboard. Unique benefits: Collateral earns interest, and AAVE users get stkAAVE discounts.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PalBorrow",
+    "slug": "palborrow-r23uw",
+    "description": "Check if it's safe to borrow GHO tokens to a friend and send the funds right away",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AdFuel",
+    "slug": "adfuel-5edoy",
+    "description": "Pay your Gas with Ads. Enjoy gasless GHO transfer experience powered by EIP-2612",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "GoPay",
+    "slug": "gopay-vy9hq",
+    "description": "Introducing GoPay, the ultimate Web3 wallet, seamlessly integrating the GHO token for easy utility payments",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "vibecluv",
+    "slug": "vibecluv-uexf1",
+    "description": "web3 appliances on music festivals, concerts, clubs, bars and events",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hakken",
+    "slug": "hakken-gexrd",
+    "description": "A journey in a japan street to discover Web3 with first transactions",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOTip",
+    "slug": "ghotip-5vix5",
+    "description": "A web app that helps customers to tip anonymously and easily with GHO.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LOGHO",
+    "slug": "logho-98z83",
+    "description": "loGHO: Revolutionizing crypto access with no on-ramp fees, free GHO minting, and 1:1 USD-based stablecoin mint value. Enjoy easy GHO onboarding, liquidity benefits, and governance incentives.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Swaphix",
+    "slug": "swaphix-4gzi1",
+    "description": "Swaphix is a crypto to fiat payment manager for business implementing payments with GHO stablecoin.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gho Multichain",
+    "slug": "gho-multichain-qxsja",
+    "description": "enable multichain GHO to create new synergies. Let's build layer for GHO mass adoption",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoPaySDK",
+    "slug": "ghopaysdk-xj1va",
+    "description": "Ghopay introduces a virtual on-chain credit card that transforms the way you interact with your assets on Aave. With a simple \"Pay with GHO\" button, experience the freedom of spending without selling and triggering taxable events.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Ghommerce",
+    "slug": "ghommerce-w0ubi",
+    "description": "Meet Ghommerce: A seamless e-commerce platform revolutionizing merchant transactions. Simplify payments with modular invoicing, versatile integrations, and our SDK. Empower customers to leverage crypto for credit, while merchants can invest earnings",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kite",
+    "slug": "kite-g5fnj",
+    "description": "Kite is a BNPL integration with a GHO-backed ERC-4626 vault. Users can conveniently offset interests accrued on their installment payments with yields earned from the Aave marketplace.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "nexus",
+    "slug": "nexus-qk9me",
+    "description": "ERC-4337 is the keystone of a promising Web2-Web3 integration that allows both onboarding and effective “payment solutions”; to build a comprehensive “PAYMENT INFRASTRUCTURE” we concentrate specifically on exploiting and expanding the potential of the “paymaster contract”",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOcard",
+    "slug": "ghocard-3jtyy",
+    "description": "GHO powered crypto off-ramp powered by Aave. Mainly using a card to have an off ramp for GHO and AAVE.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "💰GHO Grants",
+    "slug": "gho-grants-bsb2q",
+    "description": "Project contributions are hard to track and the actual ways DAOs have to reward contributors are not efficient.  Our product aims at distributing a treasury of GHO tokens to project contributors, by checking deliverable quality.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOFund",
+    "slug": "ghofund-wsxrh",
+    "description": "A Treasury Management Platform to bring insights and effective management to DAO treasury. The platform is designed to use GHO for day to day operations & payments.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "invoice3.xyz",
+    "slug": "invoice3-xyz-3fb87",
+    "description": "Create, pay, and manage crypto invoices all in one flow without needing to create an account",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "831ya",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Streamline",
+    "slug": "streamline-40r8i",
+    "description": "Streamline enables web3 companies/projects to leverage their idle treasury funds in order to issue self-repaying cross-chain streaming payments to 3rd parties",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "MultiKor",
+    "slug": "multikor-iyqw7",
+    "description": "A customizable, multi-signature GHO wallet that opens a wide range of possibilities in the GHO payment sector.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lens Giveaway",
+    "slug": "lens-giveaway-739es",
+    "description": "An Open Action Module that allows Lens users to create giveaway publication on Lens Protocol for their community.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pawn",
+    "slug": "pawn-3mctf",
+    "description": "NFT-Collaterized Lending & Borrowing Platform based on Aave Protocol",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ghost NFT Protocol",
+    "slug": "ghost-nft-protocol-sy40u",
+    "description": "Facilitator that accepts NFTs as collateral for minting GHO tokens.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHODiversiTech",
+    "slug": "ghodiversitech-dj11m",
+    "description": "A truly chain-independent🔗 stablecoin that integrates a diverse collateral framework, a robust stability mechanism, risk bonds and risk evaluation models! 💰",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vola",
+    "slug": "vola-mwbg7",
+    "description": "Vola is the only on-chain volatility Swap that offers liquidity as a service.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOToEvents",
+    "slug": "ghotoevents-gy8os",
+    "description": "Transform event coordination with GHO tokens. Our tokenized platform effortlessly syncs RSVPs, allowing organizers to set max capacities. Participants? They pay the RSVP fee in GHO tokens, while we seamlessly integrate payments and unlock the vault utility of GHO..",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOmni",
+    "slug": "ghomni-mn6c6",
+    "description": "Provide developers an abstracted toolkit to build using GHO including recurring payments, credit delegation, borrowing tokens etc.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Burra Vault",
+    "slug": "burra-vault-ptohp",
+    "description": "Vault allowing people to borrow GHO at different rates basing on the gho market price,",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Ghoul-Finance",
+    "slug": "ghoul-finance-14af7",
+    "description": "Ghoul Finance: Revolutionizing DeFi with Cross-Chain Lending-Borrowing and NFT-based Vaults.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "chatWallet",
+    "slug": "chatwallet-5rp2j",
+    "description": "A multichain GHO erc20 focused  hot wallet  with which you can chat",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOPay Points",
+    "slug": "ghopay-points-8tn6p",
+    "description": "Decentralised Loyalty Reward System by leveraging GHO across chains.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Documentation of GHO",
+    "slug": "documentation-of-gho-rnahj",
+    "description": "Improvements and recommendations on the documentation for the GHO stable coin.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LFG",
+    "slug": "lfg-ja5ou",
+    "description": "Something cool idea we are working on and will be in field of UX",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoBox",
+    "slug": "ghobox-c94e5",
+    "description": "GhoBox: Takeout GHO loans backed by your aggregate borrow power across multiple chains without transferring  collateral",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "GHO Tunes",
+    "slug": "gho-tunes-i252t",
+    "description": "Automate recurring payments on Aave using GHO Stablecoin credit delegation and Chainlink Cron based Automation Upkeeps.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ghothique",
+    "slug": "ghothique-7s6vo",
+    "description": "Ghothique is an On-Chain Cap Table -> Issue equity as RWA digital assets, manage the projects funds with all-founders multisig, facilitate investor's exit automatically, view detailed statistics about the project’s fundraising & finances process",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "831ya"
+    ]
+  },
+  {
+    "name": "Quadrivo",
+    "slug": "quadrivo-5mj6w",
+    "description": "Powerfull sdk and platform for permissionless agreement based credit delegation",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOPay",
+    "slug": "ghopay-zgriq",
+    "description": "GHOpay | Bridging the Future of Payments with GHO, Inspired by Decentralization🚀",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "LP Money",
+    "slug": "lp-money-osf6n",
+    "description": "GHO Facilitator that will enable UniV3 LP positions as a collateral for GHO minting. Unlock that capital.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoPe",
+    "slug": "ghope-fwqsd",
+    "description": "Embed seamless, secure GHO stablecoin payments into your app with ease.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOround",
+    "slug": "swallet-6g073",
+    "description": "An ecosystem for Lending & Borrowing AI Models using ProofOfStake & P2P to mint GHO stablecoin.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "rwAave",
+    "slug": "rwaave-rpv0v",
+    "description": "We are building a permissionless rwa facilitator, that will also support GHO's peg",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Privacy GHO Token",
+    "slug": "privacy-gho-token-g65by",
+    "description": "We created a privacy layer for GHO stablecoin by allowing the issuance and transfer of GHO while maintaining an encrypted balance.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "AdMe",
+    "slug": "adme-gqd2a",
+    "description": "A social media app that rewards users through GHO tokens for paying attention and engaging with advertisements.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO Payy",
+    "slug": "gho-payy-aa05s",
+    "description": "Seamless multi-chain GHO stablecoin payments application. GHO payments made super simple!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "unHODL",
+    "slug": "unhodl-2fkdf",
+    "description": "NFT collateralized cross-chain GHO facilitator to borrow and earn yield on unused capital",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "eGHO",
+    "slug": "egho-2i2kw",
+    "description": "eGHO is an innovative interest-bearing stablecoin based on the AAVE protocol. By depositing aLST assets into the protocol, users can improve capital efficiency, obtain protocol incentives, and own practical stablecoins.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WrappedToGho",
+    "slug": "wrappedtogho-30pvq",
+    "description": "Multichain Gho Issuance protocol to simplify payments backed by GHO stable coins 1:1",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOPIX",
+    "slug": "ghopix-esdvc",
+    "description": "We created a lending protocol with Sablier NFTs as collateral. It enables borrowing against assets locked in Sablier. Imagine using your salary as collateral.. etc",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Raise The Stakes",
+    "slug": "raise-the-stakes-j6bnb",
+    "description": "About The \"RaiseTheStakes\" game contract is a suitable for games or applications where players can participate, earn rewards, and interact with their in-game assets.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoForge Bank",
+    "slug": "ghoforge-bank-run4x",
+    "description": "GHO: Revolutionizing Finance with Blockchain, Smart Contracts, P2P Lending! 🚀💡",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DooshBank",
+    "slug": "dooshbank-90eit",
+    "description": "Invest in your favorite web3 index funds using AAVE GHO. Create your own index fund plan or invest in an existing one. Eat, Sleep, Invest, Repeat",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Payclick",
+    "slug": "payclick-0cd6p",
+    "description": "Building a decentralized employee management and payment system that is user-friendly, secure, and transparent, paving the way for a more efficient and equitable future of work",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RewardRift",
+    "slug": "rewardrift-mmps0",
+    "description": "An ecosystem for the influencers to bring their fans to upgrade their content creation skills by donations  ( in the form of shares of the profit ) from their fans which flows back toh the fans who donated after the live demo.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PAYGHO",
+    "slug": "paygho-18rxw",
+    "description": "It is currently So it's very easy to integrate as a payment method. We made a gaming where users can participate in each round can guess their number which we use API3 QRNG for random number, if the user guessed number is less than random number , user gets reward",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ghooey",
+    "slug": "ghooey-qiyny",
+    "description": "ghooey is a versatile drop-in front-end toolkit that helps developers build and integrate Aave widgets in their existing codebase with just HTML markup. The baseline is to help promote the growth the adoption of web3 protocols in web2 products through developer experience.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0w2pp"
+    ]
+  },
+  {
+    "name": "AAVE AI Agent",
+    "slug": "aave-ai-agent-e8cfz",
+    "description": "AAVE AI Agent specializes in providing concise and straightforward guidance on the Aave protocol, It focuses on lending, borrowing, and understanding Aave's features with a priority on brevity and clarity. Also creating transactions for you",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PiGHOBank",
+    "slug": "pighobank-1qnje",
+    "description": "A saving platform that helps you to stash away your cash and resist the temptation to spend it all at once.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LFRaclette",
+    "slug": "lfraclette-200nt",
+    "description": "Multi-Gaming Platform where users can mint and stake their GHO tokens using Vaults to receive R-GHO in order to access the Board Games collection.  Play and enjoy time with you friends with games known worldwide !",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOst",
+    "slug": "ghost-mae3q",
+    "description": "Ghost is a mobile-native AA smart wallet designed for p2p payments, featuring automatic saving plans and easy-to-use investment features GHO-based.",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Arttribute Finance",
+    "slug": "arttribute-finance-8mejo",
+    "description": "Arttribute Finance is a platform that empowers visual artists to tokenize their fine-tuned AI art models, enabling fractional ownership and collateralization through GHO tokens. 🖼️💰",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AAVE Shortcuts",
+    "slug": "aave-shortcuts-w5a79",
+    "description": "Leverage Account Abstraction to invest & borrow GHO with credit card payment only.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoWoo",
+    "slug": "ghowoo-vnqje",
+    "description": "allow merchants using woocommerce platform to use GHO as thier payment solutions",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "831ya"
+    ]
+  },
+  {
+    "name": "Weave",
+    "slug": "weave-u3wh5",
+    "description": "Weave, a \"Meet-to-Earn\" SocialFi project, boosts event visibility by integrating an interactive map and by rewarding the attendees for their participation.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHO.ZEN",
+    "slug": "gho-zen-72n9h",
+    "description": "Widget button to embed on sites and pay with GHO. Easy to embed",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Exorcise Your GHO",
+    "slug": "exorcise-your-gho-0aawf",
+    "description": "Use your GHO/USDC and GHO/USDT liquidity positions as collateral to mint GHO",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Pripe",
+    "slug": "pripe-4wmde",
+    "description": "Pripe is a payment gateway that makes GHO payments easy for developers and businesses.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SAML-Wallet",
+    "slug": "saml-wallet-d738w",
+    "description": "Introducing a SAML token-based wallet : A hackathon project aiming to integrate corporate IdP systems with Web3, enabling secure and efficient digital wallets for smoother adoption of blockchain technology in the business sector.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rent",
+    "slug": "rent-2pgzn",
+    "description": "Set up and pay your rent with GHO. Earn interest on your deposit and verify your credit on chain",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOunicorns",
+    "slug": "ghounicorns-jrzb6",
+    "description": "GHOunicorns is a GHO facilitator that mints GHO using Uniswap v3 positions as collateral.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOPRD",
+    "slug": "ghoprd-1r53t",
+    "description": "Simple dapp that allow to make strong predictions using GHO for Web2 and Web3 users",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpaceTokenHunt",
+    "slug": "spacetokenhunt-5trwp",
+    "description": "🛰️Dive into #SpaceTokenHunt, an interactive game that simplifies learning DeFi! Navigate a spaceship through a crypto universe, understand LTV & Health Factor, and master DeFi strategies risk-free. 🌌 #DeFiEducation #LearnCrypto #BlockchainGaming",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spectre Protocol",
+    "slug": "spectre-protocol-r77xr",
+    "description": "Spectre Protocol is a p2p platform for collateralised loans using NFTs. Another user can give you the supply needed to borrow GHO through AAVE 👻, if you have no debt at the end of the loan,the supplier will receive the supply plus the APY earn in AAVE and a GHO reward!🤑",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0w2pp"
+    ]
+  },
+  {
+    "name": "Subfluid",
+    "slug": "subfluid-z0fny",
+    "description": "Subfluid is a crypto-native subscription protocol implemented with account abstraction and the Aave ecosystem.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO-ECO",
+    "slug": "gho-eco-x84x2",
+    "description": "GHO-ECO a platform where we connect blockchain and sustainability. Organizations showcase their eco-friendly packaging and products. The best ones get rewarded with GHO tokens. Join us on a journey towards a greener future. Let's Gho Eco !",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flamingo",
+    "slug": "flamingo-zy4i7",
+    "description": "As a Flamingo does, GHO needs equilibrium. Let's flamingho!!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LiquidFlow",
+    "slug": "liquidflow-25z4q",
+    "description": "Revolutionizing trade finance with our DeFi project: Streamlining global commerce using GHO Token. Featuring user-friendly account abstraction, automated smart contracts, sleek React frontend, and efficient The Graph indexing.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GCLC",
+    "slug": "gclc-9vtzp",
+    "description": "Web3 GHO-based simple payment system and dNFT credit loan card payment system",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChinGHOn!",
+    "slug": "chinghon-k7qyj",
+    "description": "Ask the AAVE Commnunity to collateralize your milestoned GHO loans in the same way you ask for a Grant, get your funds unlocked in a very well known DAO flow and deliver the results to get more funding!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StokenETF",
+    "slug": "stokenetf-kjt3h",
+    "description": "A Web3-based exchange traded fund for securitized tokens using GHO as a stablecoin.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BoxedGHO",
+    "slug": "boxedgho-dva30",
+    "description": "Covert GHO & send across any chain into any token using the Box & Smart contract wallet integration",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHOptim",
+    "slug": "ghoptim-nmd1a",
+    "description": "GHOptim: Efficient, GHO-Denominating Aave-dependent Options Protocol",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hom3Page",
+    "slug": "hom3page-yvuwx",
+    "description": "Home3page is the home of web3. A decentralised wall of interactive web3 blocks that connects the web3 ecosystem and community.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "Ghostie",
+    "slug": "ghostie-8vq92",
+    "description": "A web3 platform transforming prize bonds. Enjoy transparent draws and security. Stake your ticket as collateral for GHO borrowing, enhancing your cashflow. Seamlessly integrating blockchain for a cutting-edge and decentralized gaming experience",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "GHO YearnV3 vault",
+    "slug": "gho-yearnv3-vault-wau9w",
+    "description": "A Yearn multi-strategy V3 vault that uses the ERC 4626 Standard to aggregate current yield sources available for GHO",
+    "event": "LFGHO",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "0w2pp",
+      "831ya"
+    ]
+  },
+  {
+    "name": "DocInfo",
+    "slug": "docinfo-zzeaa",
+    "description": "It is a project to store the medical history of a patient. At the moment, the website works only on Desktop and is a simple MVP.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FiatBasedFacilitator",
+    "slug": "fiatbasedfacilitator-u19ee",
+    "description": "Facilitator based on off-chain fiat collateral using proof of reserves",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "C.D. Roulette",
+    "slug": "c-d-roulette-761xd",
+    "description": "A modern variation of credit card roulette using smart contracts, the AAVE protocol, and Chainlink oracles to generate provably fair results.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RWA Marketplace",
+    "slug": "rwa-marketplace-o3hoh",
+    "description": "Market for Real-World Asset (RWA) based synthetics. Our platform offers a controlled marketplace for investors to safely and effectively take exposure to real-world assets, combining the power of financial innovation with the stability of tangible assets.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ghoTunes",
+    "slug": "ghotunes-s26wa",
+    "description": "Decentralizing music discovery where collectors get rewarded for their taste. Users purchase auto generated Spotify playlists from music NFT collectors",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO ZK Facilitator",
+    "slug": "gho-zk-facilitator-x9rdg",
+    "description": "L2 Flashminter following AAVE Governance limitation from the Mainnet and returns Rewards to L1",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LensGHO",
+    "slug": "lensgho-2mgb7",
+    "description": "GHO themed Lens Protocol web app bridging the gap between DeFi & SoFi. Users can view GHO related lens posts, lens profiles, and connect their wallet to view their own stats.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOOK",
+    "slug": "ghook-ysajp",
+    "description": "A Uniswap v4 manager that allows you to mint gho against your LP positons",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LFGHO - Verified ID",
+    "slug": "lfgho-verified-id-rwnb3",
+    "description": "GHOID unlocks liquidity for everyday people and empowers credit delegators by providing insights into the creditworthiness of wallet owners. We examine information associated with credit bureaus and other financial sources to create a unique identity linked to a wallet address.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoSafe",
+    "slug": "ghosafe-341fc",
+    "description": "GhoSafe is a groundbreaking Ethereum-based DeFi platform, offering secure, efficient lending with vaults, credit delegation, and cross-chain collateral. Integrated with Aave and Chainlink, it simplifies and elevates the DeFi experience for lenders and borrowers",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ghotel",
+    "slug": "ghotel-1ttv2",
+    "description": "Travel voucher (Purposed Bound Money) using GHO token as store of value.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO CrowdFunding",
+    "slug": "gho-crowdfunding-pig7a",
+    "description": "A platform that rebuilds unbuilt projects with multiple developers and receives funding with GHO tokens on various chains using CCIP.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Simon Wallet",
+    "slug": "simon-wallet-2e5p3",
+    "description": "Simon Wallet: Revolutionizing  Accounts with Zero Trust and Passkeys. Send GHO seamlessly, earn interest on stablecoins. Non-custodial, user-empowered, ensuring privacy and control. Elevate your aave experience.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Give it a GHO",
+    "slug": "give-it-a-gho-avxwn",
+    "description": "Give it a GHO thought as a platform like Gitcoin that enables donations in GHO, uses a GHO facilitator upon minting GHOs at depositing.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Experience Love",
+    "slug": "experience-love-shvmi",
+    "description": "'Experience Love,' a metaverse space using Unity and Chainlink VRF for XR where customizable experiences await. The VRF powers asset transactions. It accompanies people to explore their worth, which AI can't replace yet.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "True Telegram Wallet",
+    "slug": "true-telegram-wallet-fm229",
+    "description": "ERC-4337 wallet based on the Telegram bot with Aave integration",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS2DNS",
+    "slug": "ens2dns-hpocp",
+    "description": "I want to have a look at the ENS resolver contract. How can it be used in a scenario with webhosting by a decentralised compute marketplace/network",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PERP-GHO",
+    "slug": "perp-gho-hh8g0",
+    "description": "PERP-GHO is an on-chain perpetual protocol, that gives Traders and Liquidity providers, the opportunity to trade Crypto, Forex, Metals and any Asset pair, using GHO token and Chainlink price oracle, traders can trade pairs like BTC/ETH, BTC/LINK, EUR/BTC, BTC/XAU etc.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "HealPhi",
+    "slug": "healphi-4t2ry",
+    "description": "A place to heal yourself before you hit your rock bottom being an anon.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Face2GHO",
+    "slug": "face2gho-035a0",
+    "description": "DApp that allows you to send GHO to anybody with a pic of their face!",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHO Lens",
+    "slug": "gho-lens-dzvk1",
+    "description": "Immerse yourself in the dynamic GHO Ecosystem for real-time insights. Explore Markets, Facilitators, monitor DeFi metrics, and stay informed about network activities.",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GHOLITE",
+    "slug": "gholite-z52wv",
+    "description": "Lite site to interact with Gho token. Quickly borrow or repay your Gho tokens.",
+    "event": "LFGHO",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "831ya"
+    ]
+  },
+  {
+    "name": "PiggyVest",
+    "slug": "piggyvest-hf840",
+    "description": "A simple savings app that help Africans hedge against hyperinflation",
+    "event": "LFGHO",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "ZeroSwap",
+    "slug": "zeroswap-a66gc",
+    "description": "Automatic market maker written in Zinc for zkSync, based on Uniswap v2",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NGO Fundraiser",
+    "slug": "ngo-fundraiser-4rcpp",
+    "description": "NGO Fundraiser: Your small contribution can make a difference.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Photogrammetry (3D scanning) on Golem",
+    "slug": "photogrammetry-3d-scanning-on-golem-ps511",
+    "description": "An online IDE which lets you run Micmac photogrammetry workloads on Golem.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ray Tracing",
+    "slug": "ray-tracing-cwgnv",
+    "description": "Ray Tracing allows to trace MEV (miner extractable value) hiding between the glass shards of the Eth1-Eth2 devnets and testnets.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EverlastingNotebook",
+    "slug": "everlastingnotebook-d6dv2",
+    "description": "There are too many lies in this world, and the hateful lies will be forgotten into the long river of history with the passage of time. This timeless notebook is used to record stories that should not be forgotten.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EWallet",
+    "slug": "ewallet-9c42i",
+    "description": "Non custodial wallet for corporation, non profit or group sharing the same wallet.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dAppy Doge L2",
+    "slug": "dappy-doge-l2-7k5sa",
+    "description": "dAppy Doge, a L2 game using Polygon, Torus and Unity. Very wOw.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prime Choice Select",
+    "slug": "prime-choice-select-bokuz",
+    "description": "Prime Choice Select is blockchain payment application that automatically selects the best blockchain given the requirements of the payment.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Harmonia",
+    "slug": "harmonia-5ovwy",
+    "description": "Harmonia is a platform for scalable, decentralized dispute resolution through NuCypher time encrypted voting and the SKALE blockchain network. Harmonia is peer to peer dispute resolution.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "B-Commerce - Web3 + L2 Retail Solutions",
+    "slug": "b-commerce-web3-l2-retail-solutions-q5482",
+    "description": "Decentralized Shopify using L2+Web3 for payments, storage, API, and digital ID",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Handler Exchange",
+    "slug": "handler-exchange-9qbbc",
+    "description": "A decentralized freelance platform with variable initial payments and escrow built in!",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shhh!",
+    "slug": "shhh--6otiu",
+    "description": "It's like Snapchat for secrets. Try it out at https://shhh.buzz.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scaffold Reach UI",
+    "slug": "scaffold-reach-ui-myej2",
+    "description": "Scaffold Reach UI allows Reach Ethereum developers to create and deploy dApps with ease.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scaling Concept",
+    "slug": "scaling-concept-kon5c",
+    "description": "Adaptive proof-of-work blockchains that independently submit transactions to the main net.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Udhar",
+    "slug": "keshav-mundhra-7yfnz",
+    "description": "Idea is to use liquidity available on L1 on L2.  To enable people for various advantages like to take FlashLoans on chains where a lot of liquidity isn't available. Which would enable users to take make most of arbitrage opportunities and various other benefits.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polygon Galaxy",
+    "slug": "polygon-galaxy-3bw09",
+    "description": "It is a dashboard of polygon network with in-depth. meaningful & clearly understandable details & statistics about the popular projects on polygon.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Myield",
+    "slug": "myield-xjjj1",
+    "description": "Myield manages your Matic to earn the highest amount of Polygon rewards",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Parimutuel on MATIC",
+    "slug": "parimutuel-on-matic-ua808",
+    "description": "Parimutuel is a system where bets for all possible outcomes of an event are put into a single pool, and the winning outcome bettors split the entire pool pro-rata sans fees. Most forms of prediction market can be implemented using the Parimutuel protocol.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hardhat-deploy multi-chain",
+    "slug": "hardhat-deploy-multi-chain-gy2rv",
+    "description": "Improve tooling for multi chain deployment using existing toolchain",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "diLaunch",
+    "slug": "dilaunch-rpsi4",
+    "description": "Tokenomics tool to automate a fair token launch, and a native profit-sharing economy within any(!) protocol.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NERD: Nifty Erdstall",
+    "slug": "nerd-nifty-erdstall-a1yht",
+    "description": "NERD: Nifty Erdstall. An off-chain NFT marketplace with confidential NFTs. Scaled with Erdstall.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Exfil",
+    "slug": "exfil-sfq30",
+    "description": "Exfil is a protocol and SDK that provides instant withdrawals of crypto assets from L2.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Earnifi POAP Raffles",
+    "slug": "earnifi-poap-raffles-b1svk",
+    "description": "POAP offers raffles often, but hearing about them, signing up, and getting notified if you were a winner is a black-box.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bundle.bond",
+    "slug": "bundle-bond-dwqpy",
+    "description": "Create an online reservation that makes possible to reserve a team/time NFT on blockchain.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Synthetic Central Bank",
+    "slug": "eugene-mcquaid-0odey",
+    "description": "A Special Drawing Right (SDR) Synthetic Central Bank Digital Currency CBDC constructed on scalable Web3 and L2 Technology'",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flaunt",
+    "slug": "flaunt-b60m6",
+    "description": "Enabling NFT owners to creative meme-ified derivative assets (new NFTs) from items they already own.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Steak Master",
+    "slug": "steak-master-rxkg4",
+    "description": "The newest decentralized business steaking system #trustmysteak",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKSwap Things",
+    "slug": "zkswap-things-zpa29",
+    "description": "A Python wrapper around the ZKSwap API, with augmented functionality.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Encryption Art",
+    "slug": "zhida-luo-mjx3k",
+    "description": "NFT encryption art entertainment creation platform, to provide users with a full range of NFT encryption art creation, GDT as the only pass of the platform. With the development of gamedao ecology, gamedao will open the NFT auction system in the later",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Optimistic Raiden",
+    "slug": "optimistic-raiden-tgmb9",
+    "description": "A port of the Raiden Protocol contracts to the Optimism Scaling Solution",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atelio",
+    "slug": "atelio-5495x",
+    "description": "A Swiss manufacturing ecosystem ensuring industry compliance, product authentification, IP security, and quality assurance",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agora",
+    "slug": "agora-epsi5",
+    "description": "Community driven education platform to make education more engaging and less intimidating",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Haus",
+    "slug": "nft-haus-myk8n",
+    "description": "NFT Haus is a website where non-developers can easily deploy and interact with NFT contracts on the L2 and mainnet",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockhead - Crypto Portfolio and Explorer",
+    "slug": "blockhead-crypto-portfolio-and-explorer-90a9v",
+    "description": "Blockhead is a user-friendly crypto portfolio and explorer interface for Ethereum, Polygon, Binance Smart Chain, and other blockchains/layer-2 solutions within the EVM Multiverse.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vol Protocol",
+    "slug": "vol-protocol-4rm7a",
+    "description": "tokenized volatility protocol with a mechanism to peg the volatility value on optimism using  uniswap.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solve",
+    "slug": "solve-mtuym",
+    "description": "Auto-tests for Solidity smart contracts: upload your contract and get a report",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BrainStore Payments gateway",
+    "slug": "brainstore-payments-gateway-njddm",
+    "description": "A Simple Non-Custodial Payments Gateway For Web2-or-3 Marketplaces",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "milliondollartokenpage on L2",
+    "slug": "milliondollartokenpage-on-l2-q8xhc",
+    "description": "Milliondollarhomepage with Ethereum NFTs - now on L2 through Polygon",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "L2 Exit Format",
+    "slug": "l2-exit-format-b3qbh",
+    "description": "An exit format allows one to specify how assets locked up and redistributed in an L2 should be paid out in L1. We present a general standard, along with coders and helpers written in Typescript, Solidity, and Cairo which will aid L2 interoperability and support arbitrary tokens.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAO Dapp Store",
+    "slug": "dao-dapp-store-eap7x",
+    "description": "Non-custodial wallets with multiple private keys distributions. Supporting simple switch between layer1 and layer2 and vice versa. DAO Based application – Holders can vote on anything related to the DappStore.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CropTracker",
+    "slug": "croptracker-8iemx",
+    "description": "CropTracker is a dashboard for gardeners, yield farmers, and agriculturalists",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gnuswap",
+    "slug": "gnuswap-tkg8f",
+    "description": "Gnosis safe plugin that provides an interface for multichain swap",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Standard",
+    "slug": "standard-jqbrw",
+    "description": "A simple entry point for non-crypto natives to engage with DeFi that is affordable for someone with $100 and no knowledge of crypto  can participate",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gas Relay Service on zkSync",
+    "slug": "gas-relay-service-on-zksync-jawqq",
+    "description": "With zkSync wallet, token receiver can pay gas fee for the sender.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3d NFT",
+    "slug": "3d-nft-aznod",
+    "description": "a marketplace fo 3D Non-Fungible Tokens with interesting integrations",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KOKU",
+    "slug": "koku-ihc87",
+    "description": "Sandbox of Distributed Authority Management System (Executor, Legislator, and Judgement)",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OptimisticKovanArtStore",
+    "slug": "optimistickovanartstore-voebw",
+    "description": "An ERC721 Store Demo Deployed on Optimism Kovan  for minting NFT",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quartier",
+    "slug": "quartier-19ger",
+    "description": "E-voting and liquid democracy for everyone through secret contracts.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Addendum",
+    "slug": "addendum-5z98o",
+    "description": "Smart Wallet attachment that translates your crypto transactions into human language",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gradient",
+    "slug": "gradient-x1hxb",
+    "description": "A defi ecosystem whose participants compete to infer, assemble & provide the resources required to help people reach their full potential",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Charon",
+    "slug": "charon-og8ap",
+    "description": "Charon is the ferryman that helps you crossing the styx beween the Ethereum world and the L2 underworlds",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OMG!",
+    "slug": "omg--jshzv",
+    "description": "Decentralized food review platform allowing for tipping of honest reviews.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cross rollups O(1) messages bridge",
+    "slug": "cross-rollups-o1-messages-bridge-irdpn",
+    "description": "Cross-rollup trustless O(1) bridge.  Send messages between rollups at minimal gas cost.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CIRCULAR",
+    "slug": "circular-ddvmj",
+    "description": "How to scale Ethereum to real world project and inch world closer to circular economy?  What problems are there to solve to bring people to Ethreum? What technical hurdles would need to be cleared? That's what we hacked to find out!",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rickoshea",
+    "slug": "rickoshea-mh012",
+    "description": "Scaling and simplifying  Dollar-cost Averaging using Superfluid",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Perun Channels On Rollups",
+    "slug": "perun-channels-on-rollups-h6vvo",
+    "description": "Perun Channels can enable micro-transactions between rollups without going through an intermediary.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlashMove",
+    "slug": "flashmove-tkqsk",
+    "description": "Tool to Move tokens  between multiple blockchains , from Ethereum to Matic",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Object Migration Oracle (OMO)",
+    "slug": "object-migration-oracle-omo-v4hp4",
+    "description": "OMO is a system that analzes interaction between objects in a sharded blockchains and performs smart cross-shard migrations to maximize the global TPS.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockChopper",
+    "slug": "blockchopper-4zhe4",
+    "description": "Multilayered Layer 1 Layer 2 Tool to deploy multiple contracts.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ToroSwap",
+    "slug": "toroswap-erxg3",
+    "description": "ToroSwap is the best way for creators and influencers to get paid",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Azulo",
+    "slug": "azulo-7jm7i",
+    "description": "Azulo is a decentralized digital family trust system to manage and govern joint assets.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RainbowBridge",
+    "slug": "rainbowbridge-t9i6p",
+    "description": "Cross-chain asset bridge to connect Secret Network to Polygon",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Secret Manufaktur",
+    "slug": "secret-manufaktur-kgc33",
+    "description": "Secret Manufaktur brings privacy to NFT art. It allows artists and collectors to leverage secret networks privacy preserving smart contracts to enable on-chain unlockable content, hidden ownership and private transactions.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoinPort",
+    "slug": "coinport-todjy",
+    "description": "CoinPort offers insightful and detailed data on the history of your DeFi portfolio, conveniently all in one place.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DVHDB - Distributed Video Hash Database",
+    "slug": "dvhdb-distributed-video-hash-database-gxm15",
+    "description": "Colaborative and distributed database of video hashes                                                                                                                   .",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "deprecated",
+    "slug": "deprecated-fnfdq",
+    "description": "This project has now been deprecated. Please ignore. This project has now been deprecated. Please ignore.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TaDa!",
+    "slug": "tada--uvt3o",
+    "description": "TaDa allows you to own tradeable tokens of your favourite YouTube creators. Token value goes up with demand.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Ransack",
+    "slug": "agent-ransack-vwq1b",
+    "description": "Confronting Wash Trading with an agent Ransack acting as a watchdog that flags the spoofing transactions between the traders that manipulates both volume and price of the assets in the NFT ecosystem thereby protecting the platform (marketplace’s) market mining.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pixfarmon",
+    "slug": "pixfarmon-299yk",
+    "description": "A small game about farming and pet raising and fighting. Here, we can improve the attributes of fruits through farming. The attributes of fruits can improve the attributes of pets. Players can also get unique pets with different styles and attributes through pet breeding.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RegenYield",
+    "slug": "regenyield-11xui",
+    "description": "Though without relevant technical skills I present an idea that sits at the intersection of sustainability, NFTs & DeFi.  We aim to make sustainable products cheaper with yields. The NFTs are the digital representations of the sustainable product.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHHole.link",
+    "slug": "ethhole-link-naqyy",
+    "description": "On-chain analytics of how tokens flow through the Layer 2 and Sidechain from Ethereum",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "etheye",
+    "slug": "etheye-3fb2q",
+    "description": "(i) decentralised data store for nano-satellite industry + (ii) compute to securley data to train geo predictive models on sensistive data + (iii) marketplace - built using ocean procol + secret network",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPDID",
+    "slug": "ipdid-speed-up-did-resolution-h5dd3",
+    "description": "Inspired by IPFS, we want to implement a DID compliant verifiable credential ecosystem on top of the SKALE network during this hackathon.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Snek",
+    "slug": "proof-of-snek-yro1w",
+    "description": "Players want instant gratification. Deploying an old game I had started building to a SKALE chain",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mark UI",
+    "slug": "mark-ui-0jfa3",
+    "description": "The Mark dapp hackathon project provides a UI to connect creators with licensing.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Golden Ticket",
+    "slug": "golden-ticket-pctw2",
+    "description": "NFT Raffle on Polygon using Chainlink VRF for drawing the winner",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Musicoin",
+    "slug": "musicoin-7rtks",
+    "description": "Revolutionizing the creation and distribution of value for musical activity",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Farmtopia",
+    "slug": "farmtopia-gqj1j",
+    "description": "Farmtopia is a high yield savings account, backed by the blockchain. It offers the DeFi “Float APY” which is the highest yield earning opportunity in the market and is autonomously updated when a better opportunity arises. Farmtopia aims to simplify the UI/UX and leverages L2",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Perpetuity",
+    "slug": "perpetuity-qtt2p",
+    "description": "Perpetual options market that quickly transfers funds from one wallet to another.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScalingEthFR",
+    "slug": "scalingethfr-br16m",
+    "description": "Building a sort of optimistic rollup protocol which stores the resulting data either on mainnet of polygon, depending on the gas price",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eth Gas Recommender",
+    "slug": "eth-gas-recommender-jvyux",
+    "description": "Dashboard site telling the user if they might want to wait to schedule their transaction (based in historical data)",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Devolution",
+    "slug": "devolution-vszym",
+    "description": "Flexible L2 DAO platform that provides scalable base layer interoperability with customizable organizational design in a friendly user-interface.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sustainable Metadata",
+    "slug": "sustainable-metadata-oc5bj",
+    "description": "NFTs have a problem that their metadata can be changed without the owners' permission. In this project, I propose a solution to that. As a trial implementation, I have used Ethereum, Flow, and IPFS.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cairo Debugger Adapter Protocol Support",
+    "slug": "cairo-debugger-adapter-protocol-support-4k25o",
+    "description": "The Cairo Debugger Adapter Protocol brings feature-rich debugging of Cairo programs to VS Code, Emacs, and Vim.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Braineum",
+    "slug": "braineum-tfq8d",
+    "description": "A massively redundant parallelized global computer with N blockchains modeled on how the brain works.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Voltaire",
+    "slug": "voltaire-s9jut",
+    "description": "A high-yield savings account for everyday investors, powered by decentralized finance.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Curator Token",
+    "slug": "curator-token-ntzbo",
+    "description": "A decentralized Hacker News. The front page of web3. Content curated by staking tokens.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shiny L2",
+    "slug": "shiny-l2-gfvbz",
+    "description": "Making the L1 PixelCon NFT ecosystem 'shine' using Optimism L2",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AddrList",
+    "slug": "addrlist-o2tuq",
+    "description": "AddrList allows anyone to maintain a list of addresses for use in smart contracts. It is a mechanism for delegating trust.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Welter",
+    "slug": "welter-ig2cq",
+    "description": "L2-agnostic private transaction dApp that allows arbitrary deposit and withdrawal amounts",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PotatoWallet",
+    "slug": "potatowallet-fi7ec",
+    "description": "This is a proof of concent of generating ethereum wallet and recover it.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HydroFile",
+    "slug": "hydrofile-rye9e",
+    "description": "An automated way to keep track of IPFS CIDs -- sail the seas of CIDs!",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zeneth",
+    "slug": "zeneth-phfsf",
+    "description": "Zeneth uses Flashbots to enable arbitrary meta-transactions so EOAs can enter L2s without ETH",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "offchain.network",
+    "slug": "offchain-network-636sy",
+    "description": "Layer 3 bidirectional payment channel solution on top of Layer 2",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The LabRats",
+    "slug": "the-labrats-rwhy3",
+    "description": "A multiplayer trading graph betting game where you bet if the graph will go up or down. Sign and send the transaction on every bet using optimism L2 to show how you can do complete on chain betting without spending loads of ETH on gas.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Layer 2 Finance Combination Strategy",
+    "slug": "layer-2-finance-combination-strategy-i0dwv",
+    "description": "A layer 2 finance strategy combining both cream and compound protocol to achieve optimal yield",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nama Finance",
+    "slug": "nama-finance-1gf4o",
+    "description": "A decentralized one-stop-shop data manager for meta creators",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "flex-dapps",
+    "slug": "flex-dapps-5j0qc",
+    "description": "A simple tool that allows you to dollar cost average a position automatically and cheaply",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rentify",
+    "slug": "rentify-dcpb4",
+    "description": "Fluidify rental contracts in a decentralised way for vacation guest houses",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PixelProperty",
+    "slug": "pixelproperty-qskds",
+    "description": "The community driven evolving digital canvas running on sidechains with Connext bridges linking them.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainYield",
+    "slug": "chainyield-s66nb",
+    "description": "Open standard for calculating historical APRs and predicting future APRs of crypto investments.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alexandria",
+    "slug": "alexandria-u24n1",
+    "description": "A dApp using STARKs to verify aspects of your identity without revealing more than you should!",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHtarium",
+    "slug": "ethtarium-gkr1j",
+    "description": "Creating a 3D map of all of crypto.  Visualizing suggested  transaction routes from point-to-point.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Masket",
+    "slug": "masket-70cfu",
+    "description": "Masket is a a privacy-first marketplace that enables buyers and sellers to transact with each other without the marketplace having access to any sensitive information.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PennyDAO",
+    "slug": "pennydao-xyzn5",
+    "description": "PennyDAO creates a marketplace for impact NFTs that reduce student debt with Ethereum. Where our community collects stories of personal impact they make with CHANGE.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bridge Troll",
+    "slug": "bridge-troll-pjdde",
+    "description": "Bridge Troll allows users to cross over to L2s without the initial fee for bridging gas tokens.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Circularise",
+    "slug": "circularise-6arw4",
+    "description": "We’re exploring solutions to get more scale with ERC1155 smart-contracts for our circular supply chain tracking tokens.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTree",
+    "slug": "nftree-ufbgi",
+    "description": "Plan is to build a tree-like data structure composed of ERC-721 NFTs. An NFTree can have 1 root and many elements having an address of it's parent. We want to do simple UI allowing to define NFTree and mint it on L2 and then burn while sending to L1, Optimism way.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ether Empire",
+    "slug": "ether-empire-a4tj4",
+    "description": "A 2D kingdom-building game hosted on Ethereum where players can purchase lands for yield farming, or conquer others'  lands, with intricate diplomacy handled by smart contracts.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ethentity",
+    "slug": "ethentity-e10j7",
+    "description": "A Decentralized government ID verification platform on top of Arbitrum (Ethereum Layer 2)",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrollBridge",
+    "slug": "trollbridge-8ebc1",
+    "description": "Fast withdraw your tokens to from L2 to L1 (Optimism) using private swap pools",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DDToken",
+    "slug": "ddtoken-pwyke",
+    "description": "Combining growth hacking with self-sovereign identity in the DeFi world.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Panopticon + Token Wormhole",
+    "slug": "panopticon-token-wormhole-r9gkx",
+    "description": "An oracle for cross-chain proof of events, with a neat token wormhole proof of concept",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MATOKEN Market",
+    "slug": "matoken-market-cgghm",
+    "description": "A storefront interface for music minted in the all new MATOKEN - an NFT based  music format on Polygon",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cipay",
+    "slug": "cipay-aggqj",
+    "description": "Cipay allows you to pay fiat invoices with your ETH on Optimism.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Investin",
+    "slug": "investin-xh6ha",
+    "description": "Decentralized fund management protocol using NFTs to track invstments",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lodestar Light Client",
+    "slug": "lodestar-light-client-y30h8",
+    "description": "We build a prototype of an Eth2.0 lightclient to sync to the Lodestar beacon chain and consume proofs",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Heterotope",
+    "slug": "heterotope-6ey9n",
+    "description": "Market based information curation using natively-shortable bonding curves",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Primer",
+    "slug": "primer-d9bio",
+    "description": "Primer is the first worker-sided payment protocol.  It uses fractionalized Harberger tax NFTs to gamify the freelance marketplace to the freelancer's advantage.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Attendance",
+    "slug": "proof-of-attendance-xzgtm",
+    "description": "Dapp to manage people and track attendance within an organization [DAO]",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cities Protocol",
+    "slug": "cities-protocol-qtxz8",
+    "description": "A Dapp to digitize urban governance in Queretaro City through gamified interactions using Skale network.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kangaroo",
+    "slug": "kangaroo-7u26t",
+    "description": "Kangaroo is Discord Layer 2 Wallet powered by zkSync. It provides a Discord bot experience that won't break the bank and enables seamless L2 onboarding.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ELMO",
+    "slug": "elmo-rki93",
+    "description": "It's Venmo, but for Layer 2 -- Exchange L2 Money Optimistically",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creative",
+    "slug": "creative-f307i",
+    "description": "A gamified blockchain platform for independent creators, fans, and brands collaborate directly and earn DeFi incentives",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Popcorn",
+    "slug": "popcorn-f49e7",
+    "description": "Popcorn is a yield optimizer where fees are used to fund educational, environmental and open source initiatives.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XLN: Extended Lightning Network",
+    "slug": "xln-extended-lightning-network-5n3w0",
+    "description": "Solving the fundamental flaw of collateral-only payment channel networks such as LN/Raiden - lack of inbound capacity. Payment channels extended with credit lines: pay, exchange, borrow & lend with single layer2 construct.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "2pi.finance",
+    "slug": "2pi-finance-vkgjj",
+    "description": "Yield Aggregator that operates on Polygon and (in a future) interact with multi-chain vaults",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Layer2 DEX Aggregator",
+    "slug": "layer2-dex-aggregator-4i3hb",
+    "description": "Keep track of your money across chains and exchange it automatically if needed.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Boson Cross-Chain",
+    "slug": "boson-cross-chain-5md7i",
+    "description": "Sell physical goods across different blockchains. We need a mechanism to transfer a given quantity of an ERC1155 token, from a chain with a low demand to another chain with higher demand",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "mBondX",
+    "slug": "mbondx-zvzdt",
+    "description": "Bond Market-  sell and buy bonds.  it provide the platform to the user  to buy and sell bonds",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Twister",
+    "slug": "twister-k3394",
+    "description": "Bringing Tornado Cash's privacy to Arbitrum's Layer 2 technology.",
+    "event": "Scaling Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

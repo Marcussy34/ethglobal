@@ -1,0 +1,5313 @@
+[
+  {
+    "name": "ShadowSwap",
+    "slug": "shadowswap-62tr9",
+    "description": "Anti-MEV dark pool using commit-reveal batch swaps, built as a Uniswap v4 hook on Sepolia",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SignalScore",
+    "slug": "signalscore-y4kf2",
+    "description": "SignalScore helps assess DeFi swap risk before execution using simple market and on-chain signals.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "debacle",
+    "slug": "debacle-tvja4",
+    "description": "The Autonomous Settlement Layer for Intent Markets - Agents settle onchain using LIFI",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Freelancia",
+    "slug": "freelancia-qu9a3",
+    "description": "Decentralized freelancer platform with smart contract escrow and AI agents for task management",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PG13 Steallth Wallet",
+    "slug": "pg13-steallth-wallet-2xkqs",
+    "description": "PG-13: Light Privacy Gadget Stateful Stealth Address Protocol for Functional Privacy",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgenFlare",
+    "slug": "agenflare-f628e",
+    "description": "An infra layer that sits in front of AI agents and charges callers per use.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arcanum",
+    "slug": "arcanum-j3cg7",
+    "description": "Privacy-aware, intent-based swaps on Uniswap v4 reducing MEV via timing and routing privacy",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XMBL Tokenizer",
+    "slug": "xmbl-tokenizer-eu09u",
+    "description": "XMBL Tokenizer tokenizes everything. Loans, insurance, rwa, portfolios, etc",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentPay-x402",
+    "slug": "agentpay-x402-ri7si",
+    "description": "Autonomous AI agent that discovers, pays for, and uses APIs with real crypto micropayments",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "tippy",
+    "slug": "tippy-ncjz7",
+    "description": "ENS-based ETH tipping with programmable notifications and charity splits",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Li.fi SDK CLI",
+    "slug": "li-fi-sdk-cli-1zi12",
+    "description": "Interactive CLI to fetch and compare best cross-chain routes using LI.FI SDK",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "double or nothing",
+    "slug": "double-or-nothing-gskda",
+    "description": "a binary style btc trading platform that lets users bet on direction of market",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defi Pirates",
+    "slug": "defi-pirates-awdmc",
+    "description": "Defi Pirates is real-time GameFi chest hunting extraction duel",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StabL",
+    "slug": "stabl-6iq3z",
+    "description": "Universal Stablecoin Payment Gateway with Intent-Based Settlement",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "syde",
+    "slug": "syde-c41f3",
+    "description": "Synthetic derivatives protocol with 100% capital efficiency, using pyth for prices",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "arc-router",
+    "slug": "arc-router-ncfaf",
+    "description": "Cross-chain USDC transfers settled in 10 seconds using Circle's Arc L1 as a liquidity hub.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chain Hook",
+    "slug": "chain-hook-oqk5r",
+    "description": "Chain Hook: Tame LP glitches in a Web3 pixel-art world using Uniswap v4 Hooks.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyAwesomeProject",
+    "slug": "myawesomeproject-er67m",
+    "description": "Decentralized coordination layer for onchain funding flows.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InsightAI",
+    "slug": "insightai-99km1",
+    "description": "AI Telegram bot turning whale alerts into actionable insights using LI.FI,Uniswap V4,ENS & Chainlink",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "FlexSub SDK",
+    "slug": "flexsub-sdk-athv9",
+    "description": "Cross-chain subscription SDK: Pay from any chain, settle in USDC, instant micropayments.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ResearchOS",
+    "slug": "researchos-u0f4a",
+    "description": "ResearchOS The Incentive Operating System for Human Research powered by Yellow⚡.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "IntentSwap",
+    "slug": "intentswap-p1zw2",
+    "description": "Intent-based token swaps on SUI solvers compete in real-time auctions to give users the best price.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrivateScore",
+    "slug": "privatescore-g3k1y",
+    "description": "Zero-knowledge credit proofs for private DeFi lending on Ethereum",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Backr",
+    "slug": "backr-hhw5g",
+    "description": "Trust-based credit protocol using social vouches and ENS reputation as collateral",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Beatstream",
+    "slug": "beatstream-3ney1",
+    "description": "Pay-per-second music streaming, your funds go directly to the artists you listen to!",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Effe",
+    "slug": "effe-nwkxn",
+    "description": "Privacy-preserving swap gating on Uniswap v4 using ZK group membership proofs",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniSkill",
+    "slug": "uniskill-xe88e",
+    "description": "Uniswap v4 protocol enabling private capital and AI trades with on-chain reasoning proofs",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Abyss Protocol",
+    "slug": "abyss-protocol-rz97h",
+    "description": "Professional DeFi trading platform on Sui with AI, Telegram bot & multi-chain support",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS Defi Preferences",
+    "slug": "ens-defi-preferences-0tyr7",
+    "description": "Portable DeFi identity using ENS to store user trading preferences across apps",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrustNet",
+    "slug": "trustnet-w0sg3",
+    "description": "Privacy-preserving payroll platform with zero-knowledge proofs and blockchain privacy pools.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Nominal",
+    "slug": "nominal-tsiqq",
+    "description": "Nominal: Frictionless global payroll via ENS subnames, Circle USDC & instant LI.FI cross-chain exits",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AutoPay",
+    "slug": "autopay-n8ot7",
+    "description": "Stripe for Crypto Subscriptions 50% Cheaper, Non-Custodial, Multi-Chain",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Higher!!",
+    "slug": "higher-sxhr8",
+    "description": "Crash Game on Yellow Network - Provably fair multiplier betting with state channels",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unit Labs",
+    "slug": "unit-labs-4u1s6",
+    "description": "Usage-based content paywall powered by persistent state-channel balances",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sui Intents",
+    "slug": "sui-intents-9ysjv",
+    "description": "Its an application that allows users to swap assets cross chain with SUI blockchain underhood",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UnifiedPay",
+    "slug": "unifiedpay-btuzi",
+    "description": "USDC payments without chain friction, powered by Arc and ENS",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "WalletBuddy",
+    "slug": "walletbuddy-nk7a9",
+    "description": "Swap on Uniswap v3 using ENS text records to enforce user-defined slippage and fee settings.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LIFI_Trade",
+    "slug": "lifi-trade-uesit",
+    "description": "AI-powered agent that monitors trading cross-chain strategies using LI.FI.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ruma",
+    "slug": "ruma-7uiwy",
+    "description": "The easy-to-use and secure wallet. Crypto self-custody made simple on Ethereum.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlindSig",
+    "slug": "blindsig-dypsh",
+    "description": "Private transfers via shielded addresses using ZK proofs, ENS-registered keys, and a UTXO pool",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "VaultX",
+    "slug": "vaultx-puybb",
+    "description": "VaultX is a DeFi lending and swap platform with a fully gasless UX.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yello!",
+    "slug": "yello-f54qm",
+    "description": "Calmer random video chat with session-based payments and behavior-driven reputation.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Laugh Odds",
+    "slug": "laugh-odds-90r07",
+    "description": "Predict meme virality, vote gaslessly via Yellow Network, and earn rewards on internet's humor .",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dashmint",
+    "slug": "dashmint-09gei",
+    "description": "Dashmint allows you to record or upload your dashcam footage and contribute to AI research.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omnipay",
+    "slug": "omnipay-3rgbu",
+    "description": "Stripe for crypto. Instant, gasless USDC payments via Yellow Network state channels & 1-line SDK.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeepGram",
+    "slug": "deepgram-nwk1d",
+    "description": "DeepGram makes it possible for everyday people to interact with DeFi",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "AgentFlow DeFi",
+    "slug": "agentflow-defi-2yjwa",
+    "description": "AI DeFi agents with gasless trading, cross-chain rebalancing, and MEV-resistant Uniswap v4 hook",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yoshino",
+    "slug": "yoshino-97sbe",
+    "description": "Intent-based, protected trading interface for DeepBook on Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PawnStake",
+    "slug": "pawnstake-vbzui",
+    "description": "Live Chess Trading is a high-stakes Web3 platform with ens integration",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSRouter",
+    "slug": "ensrouter-c4ksu",
+    "description": "ENSRouter: Pay any ENS name in USDC — auto-routed to their preferred chain & tokens.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1nz66",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "orbit Finance",
+    "slug": "orbit-finance-7f55o",
+    "description": "A Hybrid Self-Repaying Lending Protocol Combining DeFi + Real-World Assets",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Betty",
+    "slug": "betty-q2f3d",
+    "description": "Tinder for Predictions, Betty lets you swipe your way through prediction markets.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lazarus",
+    "slug": "lazarus-1wbgg",
+    "description": "The ultimate Dead Man's Switch for DeFi. Auto-evacuate assets to heirs if you go silent.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Credex Protocol",
+    "slug": "credex-protocol-a2ah6",
+    "description": "Self-sovereign credit protocol where AI agents borrow, LP, and operate without human funding",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainHopper Agent",
+    "slug": "chainhopper-agent-hpo0n",
+    "description": "AI agent that analyzes your crosschain assets and generates optimal rebalancing strategies via LI.FI",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WarpSend",
+    "slug": "warpsend-y5vr1",
+    "description": "Send USDC to any wallet or ENS across chains with one unified balance via Circle Gateway.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Streamer Arc",
+    "slug": "streamer-arc-3hd77",
+    "description": "Livestream donation alert platform for creators with web2 friendly features",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ip address tracker",
+    "slug": "ip-address-tracker-phrby",
+    "description": "A modern, responsive web application that allows users to track and visualize the ip /domain name",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WaterWall",
+    "slug": "waterwall-oxth7",
+    "description": "WaterWall: Blocks prompt injections & malicious contracts for OpenClaw agents on Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hackmoney_404",
+    "slug": "hackmoney-404-rp919",
+    "description": "Nothing eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Octopus",
+    "slug": "octopus-xu3qf",
+    "description": "A privacy protocol for Sui blockchain enabling on-chain transaction obfuscation using ZK.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "simpleTracker",
+    "slug": "simpletracker-ssca6",
+    "description": "Instant exchange onramp/offramp using a state-channel hub model for fast, low-cost token transfers.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Molt.town",
+    "slug": "molt-town-g3we5",
+    "description": "OpenClaw enables agent-driven cross-chain liquidity that moves only when it makes economic sense",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ConsulDAO",
+    "slug": "consuldao-vsf1e",
+    "description": "From idea to success – AI agent work, human DAO decide, we help project from zero to moon.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "FlashDuel",
+    "slug": "flashduel-njk21",
+    "description": "1v1 crypto trading battles with instant, gasless trades powered by Yellow Network.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZadeLending",
+    "slug": "zadelending-p943t",
+    "description": "ZK-powered cross-chain lending: deposit collateral privately, untraceable loan withdrawal",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlySolverz",
+    "slug": "onlysolverz-85xu9",
+    "description": "A crosschain visualization dashboard for the only swaps network",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vero",
+    "slug": "vero-u533e",
+    "description": "Vero is an Onchain derivative layer on top of Polymarket with dynamic leverage",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aura",
+    "slug": "aura-e0v56",
+    "description": "A local AI voice assistant for real-time trading and portfolio management on Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MockingBird",
+    "slug": "mockingbird-puunz",
+    "description": "Private Reputation. Public Credit. ZK Agents for RWAs on Arc",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrivBatch",
+    "slug": "privbatch-d3sge",
+    "description": "Private batch swaps on Uniswap V4 with autonomous agents & ZK proofs.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Safe-Wallet Pay",
+    "slug": "safe-wallet-pay-r1h9u",
+    "description": "Secure ARC-based payments with Escrow, Universal Cross-Chain Transfers, and Max Yield Optimization.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SocialENS",
+    "slug": "socialens-jps0p",
+    "description": "The first fully decentralized social network powered 100% by ENS Text Records on Ethereum.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Rain Protocol",
+    "slug": "rain-protocol-unvas",
+    "description": "\" Lend and borrow peer-to-peer. No pools, no keepers, no CEX just SUI \"",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hodl",
+    "slug": "hodl-vd7zk",
+    "description": "HODL Vault: A minimalist, time-locked smart contract to enforce long-term conviction.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StreamVault",
+    "slug": "streamvault-m44j6",
+    "description": "StreamVault: real-time USDC payroll streams—fund, claim instantly, with yield-ready buffer control.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlashPayZ",
+    "slug": "flashpayz-04o5c",
+    "description": "Automated payroll with LP-backed lending, multi-chain payments & salary streaming",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Parametric Insurance",
+    "slug": "parametric-insurance-abdju",
+    "description": "Prediction market everything. Create contracts for any data that is present on the internet.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeriSui",
+    "slug": "verisui-daa1t",
+    "description": "Sui dApp for product authenticity—NFTs track provenance and combat counterfeiting.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "sharko",
+    "slug": "sharko-5v4qj",
+    "description": "Gasless prediction market with a cross-platform reputation system enabled by ENS and Yellow Network.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moai",
+    "slug": "moai-of8wm",
+    "description": "Friends form savings circles with shared emergency reserves for financial and emotional support.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rescue.ETH",
+    "slug": "rescue-eth-idzm7",
+    "description": "Autonomous system that prevents Aave liquidations using fast, cross-chain execution",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Heirloom",
+    "slug": "heirloom-8p36j",
+    "description": "Heirloom is a cross-chain inheritance protocol that automates asset transfers",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bkc",
+    "slug": "bkc-i583m",
+    "description": "It is a blockchain based voting apo that allows us to vote and get your stake back.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EVERYWHEREPAY",
+    "slug": "everywherepay-u9spc",
+    "description": "EverywherePay: USDC smart, gasless, multi-chain wallet for seamless payments invoices and Payouts",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hooked Monero",
+    "slug": "hooked-monero-2s99u",
+    "description": "Decentralized Wrapped Monero with private swap routing for private funding in any token",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RebalanceX",
+    "slug": "rebalancex-nopef",
+    "description": "Autonomous agent that rebalances USDC treasury across chains using Circle CCTP and Uniswap v4",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Private-Launchpad",
+    "slug": "private-launchpad-3dzk9",
+    "description": "Encrypted on-chain auctions: private bids, public settlement, no trusted parties.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SplitChain",
+    "slug": "splitchain-n38x1",
+    "description": "Split expenses with crypto friends on any chain. Settle in one click.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Confidential Hook",
+    "slug": "confidential-hook-7v9t1",
+    "description": "ZK-powered hook that enable confidential trading with compliance, policy, and strategy verification",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FidelHook",
+    "slug": "fidelhook-vb33o",
+    "description": "FIDELHOOK rewards DeFi users with lower trading fees based on their engagement and activity streaks.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Grimoire",
+    "slug": "grimoire-6a9sw",
+    "description": "Grimoire: a language for agents to express financial intent with readable, deterministic execution.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RetroVault",
+    "slug": "retrovault-rbxg1",
+    "description": "A decentralized, MEV powered strategy vault where users deposit and executors trade onchain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiFlow",
+    "slug": "suiflow-xcax5",
+    "description": "SuiFlow is the first AI-powered DEX aggregator on the Sui blockchain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Ethereal",
+    "slug": "ethereal-u92s0",
+    "description": "Ethereal is a match-3 game. Powered by Yellow Network & Arc.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ONSUI",
+    "slug": "onsui-1f7su",
+    "description": "Resolve SuiNS names from ENS clients—query happysingh.onsui.eth to get your Sui address",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "DefiHub",
+    "slug": "defihub-jh575",
+    "description": "DeFiHub is a cross-chain liquidity router that automatically move asset",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "meter",
+    "slug": "meter-s68i0",
+    "description": "Meter enables instant pay-per-use AI sessions with a single on-chain settlement!",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Setu",
+    "slug": "setu-2akfr",
+    "description": "Yield-backed cross-chain bridge with AI rebalancing for shared LP interest across chains",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Predictor",
+    "slug": "predictor-vif2z",
+    "description": "Cross-chain prediction market aggregator that finds best prices across Prediction markets",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yellow Studio",
+    "slug": "yellow-studio-ydt24",
+    "description": "Chat-driven AI site builder with live preview and Yellow state-channel payments.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TLIS-Hook",
+    "slug": "tlis-hook-bcegr",
+    "description": "Encrypt your swaps, get random prices ±1%. MEV protection + gamified trading on Uniswap V4.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blip Market",
+    "slug": "blip-market-8edo8",
+    "description": "Tap to trade ultra-short price moves with fast, binary precision markets.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ENSplit",
+    "slug": "ensplit-efsvd",
+    "description": "Split payments instantly through live ENS records where smart contracts are not needed.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Intent Swap",
+    "slug": "intent-swap-5447i",
+    "description": "Agent-executed intent-based swaps on Uniswap v4 using hooks for onchain enforcement",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Basis-Zero",
+    "slug": "basis-zero-6gkde",
+    "description": "Earn yield on your USDC while predicting events from any Chain",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScoutX",
+    "slug": "scoutx-1vdce",
+    "description": "Private opportunity markets for discovering real-world outcomes using instant off-chain trading.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProtocolX",
+    "slug": "protocolx-fz5cj",
+    "description": "Autonomous agents executing cross-chain DeFi trades with unified USDC liquidity settlement",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sui Shot",
+    "slug": "sui-shot-yusbu",
+    "description": "Sui Shot is a no-loss DeFi lottery on Sui where users place bets and never lose",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RedeemIt",
+    "slug": "redeemit-nbyow",
+    "description": "Turn USDC into PDF coupons anyone can redeem onchain — powered by Circle.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarcPay",
+    "slug": "starcpay-sq7a0",
+    "description": "Autonomous GitHub-based payouts via AI analysis + ARC USDC streaming treasury.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "panoplia.eth",
+    "slug": "panoplia-eth-5sojq",
+    "description": "Non-custodial MPC wallet: privacy-first deposits, fiat ramps, and DeFi yield.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "yudha",
+    "slug": "yudha-wxjt7",
+    "description": "AI agent arena with state-channel settlement and Arc USDC treasury.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Archimedes Dex",
+    "slug": "archimedes-dex-48uep",
+    "description": "DeFi that works: one tx for baskets, AI that understands you, idle liquidity deployed cross-chain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dignitas",
+    "slug": "dignitas-npwg4",
+    "description": "Decentralized reputation system for AI agents using trust graphs and PageRank",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Moltfluence",
+    "slug": "moltfluence-r38k4",
+    "description": "A reputation and settlement infrastructure for the agentic attention economy.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crewpay",
+    "slug": "crewpay-57cc1",
+    "description": "PayCrew: crypto payroll for global teams—instant, borderless, automated payments.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sentinel MCP Wallet",
+    "slug": "sentinel-mcp-wallet-4fona",
+    "description": "Policy-Governed MCP Wallet for Safe AI-Driven DeFi Execution",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "DePay",
+    "slug": "depay-1eftc",
+    "description": "Send and receive USDC using email addresses with a Web2-simple UX",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crosschain NS pay",
+    "slug": "crosschain-ns-pay-ysru5",
+    "description": "We use Circle gateway to enable fast cross-chain payment, ENS and SNS for human readable payout",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Taisen",
+    "slug": "taisen-k4ezu",
+    "description": "Compete, Win, Get paid Repeat! Your TCG Tournament platform, on-chain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flowdesk",
+    "slug": "flowdesk-yymec",
+    "description": "AI trading terminal: instant off-chain trades via Yellow state channels",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "StopSui",
+    "slug": "stopsui-8gswz",
+    "description": "Non-custodial stop-loss & take-profit orders for Sui DeFi. Set triggers, auto-swap to USDC",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Brocrunch",
+    "slug": "brocrunch-9khyb",
+    "description": "Brocrunch: Agentic DeFi trading that runs on math, not feelings. Deploy AI agents, touch grass.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "financoor",
+    "slug": "financoor-mmdca",
+    "description": "Private, verifiable crypto tax for Indian users using zk proofs and on-chain verification",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Dui AI",
+    "slug": "dui-ai-ywu14",
+    "description": "AI copilot that automates crypto bills, salaries, and subscriptions with safe cross-chain execution.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UsageX",
+    "slug": "usagex-rdsmt",
+    "description": "Usage-based payments with off-chain tracking and on-chain USDC settlement.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ORIEN",
+    "slug": "orien-c6wsv",
+    "description": "A compute marketplace where AI agents rent specialized hardware and pay per effective execution.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "onchain reaction",
+    "slug": "onchain-reaction-btpkq",
+    "description": "About A realtime Chain Reaction game with USDC prize pools,,,",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LiquiFlow",
+    "slug": "liquiflow-qgn18",
+    "description": "Cross-chain liquidity rewards solved. Earn on ETH/Base, claim on any chain via Arc+CCTP.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Equinox",
+    "slug": "equinox-0scc1",
+    "description": "Synthetic stocks + perps. Mint/redeem on-chain, trade gasless via Yellow. Equinox protocol.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SplitBook",
+    "slug": "splitbook-h68ms",
+    "description": "Split payouts with verified ENS identities, fast and spoof‑resistant (on Sepolia)",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "WhisperFi",
+    "slug": "whisperfi-5fc8n",
+    "description": "AI-powered DeFi assistant: chat naturally to swap, bridge, and manage crypto with built-in privacy.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "soli-forge",
+    "slug": "soli-forge-aihca",
+    "description": "Autonomous Red-Blue Teaming agents that detect, exploit, and fix smart contract bugs via Foundry.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Human in the Loop",
+    "slug": "human-in-the-loop-rows2",
+    "description": "An x402 on sui powered app for molbots to post QA tasks for humans.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlindPool",
+    "slug": "blindpool-wwmv3",
+    "description": "BlindPool is a privacy-preserving fork of Uniswap CCA enabling sealed-bid token auctions onchain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pay_Stream",
+    "slug": "pay-stream-gknjy",
+    "description": "PayStream: decentralized pay-per-second video streaming with Yellow Network state channels",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blocksight",
+    "slug": "blocksight-258zn",
+    "description": "AI-powered X-Ray vision for dApps to turn complex on-chain data into actionable growth intelligence.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Emergency Cash",
+    "slug": "emergency-cash-5p77m",
+    "description": "NFC cards that pay USDC with ENS identity and Arc treasury batch payouts",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AtomicLP",
+    "slug": "atomiclp-2hg84",
+    "description": "Privacy-preserving LP agent: EIP-712 intents → Merkle batching → atomic hook execution. Zero MEV.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Loto water guardian",
+    "slug": "loto-water-guardian-7bnhw",
+    "description": "A ReFi protocol empowering fandoms to fund water infrastructure via gasless impact-scans & USDC",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiLo",
+    "slug": "suilo-dib3x",
+    "description": "Suilo is a lending protocol on Sui that enables users to work with DEFI using DeepBook",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSemble",
+    "slug": "ensemble-xv6go",
+    "description": "Edit ENS DeFi profile (text records), use it in Swap, send to ENS name, and look up any profile.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ZapVault",
+    "slug": "zapvault-ax5y5",
+    "description": "Cross-chain automated LP on Uniswap v4. Deposit from any chain, AI rebalances your liquidity.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Ember Protocol",
+    "slug": "ember-protocol-wcem2",
+    "description": "Native Bitcoin backed loans on Sui powered by HTLCs (Hashed Time Locked Contracts)",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PULSEREMIT",
+    "slug": "pulseremit-u8aak",
+    "description": "PulseRemit makes Money moves at the speed of chat. Agentic flows. Instant settlement. Global reach.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "EnRouteApp",
+    "slug": "enrouteapp-3adi5",
+    "description": "Send funds to one ENS name and distribute to many recipients instantly",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpeakFi",
+    "slug": "speakfi-ufcng",
+    "description": "Bridging and swapping with one voice command. Speak once, we handle the chains for you",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Glide",
+    "slug": "glide-z94x1",
+    "description": "The B2B SDK for gasless DeFi onboarding. 7-day trials, zero seeds, 30% higher conversion",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeriBond",
+    "slug": "veribond-v9r6u",
+    "description": "VeriBond lets AI agents launch tokens, stake claims, and monetise verified intelligence onchain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "RWACompliance",
+    "slug": "rwacompliance-nnjy1",
+    "description": "CloakSwap RWA: private eligibility swaps via Uniswap v4 Hooks & ENS, funded cross-chain with LI.FI.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Invisible Dex",
+    "slug": "invisible-dex-9kutg",
+    "description": "Hybrid prediction market: instant off-chain micro-bets with on-chain Sui settlement.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSync",
+    "slug": "ensync-rcaa4",
+    "description": "ENS-identified autonomous agents coordinating Uniswap V4 swaps via peer-to-peer networks.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VortexAI",
+    "slug": "vortexai-7bq85",
+    "description": "Automates rebalancing of multi-range positions around the current price",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sentinel",
+    "slug": "sentinel-tv8am",
+    "description": "Sentinel Protects Liquidity Pools ahead of MEV with Uniswap v4 hooks and agent monitoring.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Universal Arc Kit",
+    "slug": "universal-arc-kit-176bg",
+    "description": "Run apps on any chain without bridges, friction, or network switching",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyYield",
+    "slug": "onlyyield-sp7ng",
+    "description": "OnlyYield - Patreon, but instead of paying creators with your money, you support them with yield!",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rogue Capital",
+    "slug": "rogue-capital-rrnhx",
+    "description": "AI agent marketplace with instant micropayments via Yellow Network state channels",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rebalancheese",
+    "slug": "rebalancheese-2xmeq",
+    "description": "Uniswap v4 Hook that audits liquidity based on your ENS risk profile.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiPort",
+    "slug": "suiport-quss5",
+    "description": "Accept payments on Sui from 22+ blockchains with a few lines of code. Powered by NEAR Intents",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "wthelly",
+    "slug": "wthelly-wvvmg",
+    "description": "Private predication markets powered by State Channels and zk. Using Uniswap hooks for resolution.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fastx402",
+    "slug": "fastx402-tmwiy",
+    "description": "Sub-second USDC payments for AI agents on Ethereum mainnet via x402 + preconfirmations",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zebra",
+    "slug": "zebra-apirw",
+    "description": "Sui-native ZK dark pool with hidden limit orders, on-chain Groth16, and crosschain deposits via LiFi",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "ShieldArc",
+    "slug": "shieldarc-uvt46",
+    "description": "ZK-powered, compliant privacy protocol for private cross-chain DeFi from a single liquidity pool.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiNess",
+    "slug": "suiness-0sxh2",
+    "description": "This project bridges the gap between Ethereum’s mature identity ecosystem and Sui",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gundwane",
+    "slug": "gundwane-h99f4",
+    "description": "Agentic, non-custodial deFi Assistant based on openclaw, EIP7702 and ERC8004",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Piro",
+    "slug": "piro-z48d9",
+    "description": "An autonomous agent that watches prediction markets and rewires v4 swap fees before risk hits LPs",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KnurFi",
+    "slug": "knurfi-epaty",
+    "description": "KnurFi: The encrypted context layer for DeFi treasuries. Add memos, identity, and audit trails.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentHive",
+    "slug": "agenthive-c4x5z",
+    "description": "Decentralized marketplace where AI agents negotiate, trade, and settle on-chain with ENS identities.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nova",
+    "slug": "nova-ypdj0",
+    "description": "A ve(3,3) DEX with perpetuals integration, bringing Solidly-style tokenomics to derivatives trading",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainBet",
+    "slug": "chainbet-9smmm",
+    "description": "Prediction markets, finally using the right math. Inspired by paradigm's pm amm whitepaper.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ghost Finance",
+    "slug": "ghost-finance-50zdt",
+    "description": "Sealed-bid dark pools for lending. Your bids are ghosts. Your reputation is permanent.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web2ENS",
+    "slug": "web2ens-g4kd0",
+    "description": "Attach web proofs (GitHub, Twitter, more) to your ENS text records with zkTLS.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "FeedMe",
+    "slug": "feedme-yxchd",
+    "description": "Accept payments from multiple chains, deposited directly into your DeFi position via your ENS.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "DEX_Position_Exiter",
+    "slug": "dex-position-exiter-1srja",
+    "description": "x402 Payment Gated DEX Position Exiter using Uniswap V4 Hooks",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Namma global trader",
+    "slug": "namma-global-trader-4bqpe",
+    "description": "Trade crypto with 0 gas fees using state channels. Swap unlimited times, settle once, Lightning fast",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GammaHedge",
+    "slug": "gammahedge-o1rba",
+    "description": "Autonomous Uniswap V4 LP guardian. Eliminates IL via delta-neutral hedges and cross-chain AVS.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MuxPay",
+    "slug": "muxpay-t63p8",
+    "description": "Instant, gasless tipping for creators using Yellow state channels. Web2 speed, Web3 security.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flake",
+    "slug": "flake-awjq2",
+    "description": "Stop no-shows. Clients lock USDC to book, refunded instantly upon arrival",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quickshop",
+    "slug": "quickshop-3s2mh",
+    "description": "Checkout API that lets devs give their AI agents the ability to buy from Shopify stores with USDC",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stroke",
+    "slug": "stroke-55s2g",
+    "description": "AI agent detects crypto rug-pulls across chains, auto-shorts via LI.FI before crashes happen",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gambit",
+    "slug": "gambit-dj547",
+    "description": "AI Agent Launchpad that Tokenizes Chess Skill. Valuing Agent ELO by Onchain Market Cap.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiLotto",
+    "slug": "suilotto-i8dd0",
+    "description": "A decentralized multi-winner lottery on the Sui blockchain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ACN",
+    "slug": "acn-38ima",
+    "description": "Bounty platform for autonomous agents with on chain verifiable reputation score",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "OverFlow",
+    "slug": "overflow-drtcd",
+    "description": "The first on-chain binary options trading dapp on Sui Blockchain",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "DarkPool",
+    "slug": "darkpool-zyapw",
+    "description": "Permissionless peer-to-peer OTC desk. Price discovery is intent-based, not market-driven.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoordiFi",
+    "slug": "coordifi-1raoq",
+    "description": "Escrow protocol for DeFi coordination - showing it through NFT capital, OTC swaps and freelance work",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "blockhead.vision",
+    "slug": "blockhead-vision-ya7ua",
+    "description": "local-first object-oriented GUI client for blockchain exploration, crypto/DeFi management, AI & more",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Insider",
+    "slug": "insider-zbgrk",
+    "description": "It's a Extension, to place trades on Polymarket directly from your Twitter Feed!",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperDCABOT",
+    "slug": "superdcabot-gunoe",
+    "description": "Buy low, sell high automatically. Non-custodial grid trading with exponential ladders.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arcaid",
+    "slug": "arcaid-n5jxm",
+    "description": "Zero-loss prediction markets for humanitarian aid. Trade USDC, keep principal, fund NGOs.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mpruy",
+    "slug": "mpruy-nev2c",
+    "description": "Bet smart with friends: Multi-sig pools + AI risk shields for epic crypto predictions!",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blitz",
+    "slug": "blitz-k36rm",
+    "description": "Let's Blitz It!! 5 second rapid trade on the market powered by Yellow",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PairX",
+    "slug": "pairx-eekpu",
+    "description": "A decentralized P2P Escrow DEX on Arc L1 featuring native USDC gas and ENS trust scores.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YellowRead",
+    "slug": "yellowread-f9diz",
+    "description": "Internet’s “metered reading”: knowledge on demand, payments once in real time - credits to Yellow",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "liquidity rail",
+    "slug": "liquidity-rail-1po4w",
+    "description": "Don't asses, this is a test . Don't asses, this is a test. Don't asses, this is a test.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TweetBet",
+    "slug": "tweetbet-qs1t7",
+    "description": "A decentralized prediction markets from tweets. Bet on viral posts.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "BlockBuddy",
+    "slug": "blockbuddy-h5wt0",
+    "description": "BlockBuddy: A wallet that allows everyone to interact with the crypto wallets using whatsapp.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "M",
+    "slug": "m-4ir8d",
+    "description": "Pure Python multi-chain wallet toolkit: vanity address generator, mnemonic scanner & token transfer.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS PayLinks",
+    "slug": "ens-paylinks-615g8",
+    "description": "Cross-chain checkout to name.eth using ENS, Circle, and LI.FI",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AbiPago",
+    "slug": "abipago-myusb",
+    "description": "A payments app that lets merchants charge via NFC or QR and lets users pay from any chain/token",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Pulse",
+    "slug": "pulse-ztcwe",
+    "description": "Cross-chain prediction markets: bet from any chain, any token. Positions on Base.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Miru",
+    "slug": "miru-hvf46",
+    "description": "Copy-trade elite makers on Sui DeepBook via Telegram—automated liquidity provision made simple.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "L.I.P",
+    "slug": "l-i-p-jqtee",
+    "description": "LIP replaces instant LP actions with intent-based, gradual liquidity activation on Uniswap v4.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "v4SessionHookMarkets",
+    "slug": "v4sessionhookmarkets-xqeok",
+    "description": "Instant Yellow session-paid agent market for Uniswap v4 hooks with Li.Fi: tx proof, off-chain pay",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScareCroww",
+    "slug": "scarecroww-u4bbk",
+    "description": "Freelance escrow dApp — Next.js frontend + smart contracts for secure on-chain payments.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "versus",
+    "slug": "versus-r1rt2",
+    "description": "AI agents create videos, earn via micropayments, and trade tokens autonomously on bonding curves.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "Restless",
+    "slug": "restless-1knxd",
+    "description": "The first escrow that earns yield while awaiting deal completion — capital should never sleep.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Amino Hooks",
+    "slug": "amino-hooks-wo9pp",
+    "description": "Agent-aware Uniswap v4 hooks with bonded ERC-8004 identity, ZK compliance, and risk-adjusted fees.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aigentpay",
+    "slug": "aigentpay-pf0tq",
+    "description": "The payment layer for AI agents. Send USDC, stream micropayments via state channels, zero gas fees.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "FairTest",
+    "slug": "fairtest-27w3h",
+    "description": "A decentralized exam platform ensuring anonymous evaluation and immutable results on Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "One Protocol",
+    "slug": "one-protocol-0f2uf",
+    "description": "Speak to DeFi in your language. AI agent autonomously swaps, bridges, farms, trades perps & vault.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pledge",
+    "slug": "pledge-b47ht",
+    "description": "Equity crowdfunding onchain with Aave-powered yield and instant Uniswap trading.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KŌBRA",
+    "slug": "kobra-n9dm9",
+    "description": "A real-time multiplayer snake game with instant gameplay and on-chain USDC staking.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uniflux",
+    "slug": "uniflux-2gctm",
+    "description": "MEV-aware agent fluxes Uniswap v4 liquidity via LI.FI when deviation >25%",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "YieldBall.eth",
+    "slug": "yieldball-eth-9vfg6",
+    "description": "YieldBall.eth: No-loss DeFi Pachinko game using ENS-driven physics & Yellow Network state channels.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "FrankyDocs",
+    "slug": "frankydocs-98vu2",
+    "description": "Multi-chain crypto treasury and gasless trading agent, native to Google Docs.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chain Bluff",
+    "slug": "chain-bluff-tgfd9",
+    "description": "Gasless L2 Poker using Yellow Network for state channels and Base for identity.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nerse",
+    "slug": "nerse-x0mr0",
+    "description": "Nerve: Gamified DeFi on Sui. Execute complex strategies via atomic Programmable Transactions.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnticiPay",
+    "slug": "anticipay-cpjhf",
+    "description": "AnticiPay is a crowdfunded, adaptive disaster relief streaming platform",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "yellowX",
+    "slug": "yellowx-k0b11",
+    "description": "Autonomous agent payments with instant settlement powered by Yellow Network state channels",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LEX-JUSTICIA",
+    "slug": "lex-justicia-j6btf",
+    "description": "The only AMM that survives a crash. Crisis-proof market making on Sui DeepBook.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sentinel Agent",
+    "slug": "sentinel-agent-eu2d3",
+    "description": "AI-powered, MEV-resistant autonomous liquidity manager for Uniswap v4.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "new-wallet-fundr",
+    "slug": "new-wallet-fundr-x755a",
+    "description": "Automated privacy routing for wallet funding. Privacy across EVM chains",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "REStandard",
+    "slug": "restandard-5tkw9",
+    "description": "Real Estate Standard: mint compliant stablecoins backed by verified real estate property.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ChainSteam",
+    "slug": "chainsteam-2e3i2",
+    "description": "Autonomous agent optimizing cross-chain payments via Arc Network.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SafeAgentVault",
+    "slug": "safeagentvault-r282f",
+    "description": "A permissioned control console for autonomous DeFi agents with ENS identities.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "NextBlock",
+    "slug": "nextblock-d27v4",
+    "description": "Open protocol turning insurance risk into tokenized yield vaults",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Palm: zkKYC",
+    "slug": "palm-zkkyc-f5g3b",
+    "description": "Private ZK-KYC for on-chain token auctions using email proofs — reuse KYC without exposing identity.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SessionFi",
+    "slug": "sessionfi-x9jhm",
+    "description": "Gasless DeFi Sessions with Programmable Hooks and High-Performance Settlement",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Minimax",
+    "slug": "minimax-20h7n",
+    "description": "Gamified LP battles: compete on Uniswap V4 with agent-powered settlement & cross-chain entry",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ResolverPay",
+    "slug": "resolverpay-equ1q",
+    "description": "Multi-chain DeFi: intent-based swaps on Sui + ENS identity across multiple networks",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Flowmoji",
+    "slug": "flowmoji-ogk52",
+    "description": "Flowmoji: instant emoji tips on Twitch/Youtube via Yellow state channels",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Invariant",
+    "slug": "invariant-mzc3n",
+    "description": "Atomic Delta-neutral hedging vault on Sui using PTBs for zero-execution risk and stable yield.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EZ - Easy Payments",
+    "slug": "ez-easy-payments-os25h",
+    "description": "Cross-chain payments app with ENS integration powered by Arc and Circle",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "UniSwapX402Arc",
+    "slug": "uniswapx402arc-n67q0",
+    "description": "AI agent that enables gasless token swaps on Arc Network using  X402  & Uniswap v4 Integration",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ampere Protocol",
+    "slug": "ampere-protocol-osrkk",
+    "description": "Ampere unifies stables in one pool, avoiding multi-hop waste; near-peg swaps = low slippage.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Xiphias",
+    "slug": "xiphias-5khxi",
+    "description": "Xiphias unifies markets, use hybrid AMM+CLOB, and adds zero-knowledge shielding.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ZUGZWANG",
+    "slug": "zugzwang-tojyb",
+    "description": "zk-402: an incognito layer for x402 that enables zk-micropayments between a MCP & Openclaw agent.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ClankerGigs.com",
+    "slug": "clankergigs-com-dh4xk",
+    "description": "Humans fund Open Source to get their features build. Agents ship code and earn ETH.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Shadowswap",
+    "slug": "shadowswap-22xv1",
+    "description": "MEV-Resistant Intents: Agentic Matching via Yellow Channels + Uniswap v4 Privacy Hooks",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArcFlow",
+    "slug": "arcflow-rwysr",
+    "description": "A \"self-paying\" corporate treasury that earns yield on idle payroll funds via Uniswap v4.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "tc25z",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "RACE",
+    "slug": "race-q9fgb",
+    "description": "RWA-Powered Autonomous Commerce Engine with AI Agent based on Arc testnet",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyStream",
+    "slug": "polystream-187nq",
+    "description": "Gasless prediction markets for live streamers using Yellow Network",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GridGame-HyperSwiper",
+    "slug": "gridgame-hyperswiper-dytxo",
+    "description": "Real-time trading arena. Slice coins, predict BTC, and settle on-chain. Powered by @Yellow @ENS",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "cautious-palm-tree",
+    "slug": "cautious-palm-tree-9movz",
+    "description": "Autonomous agent that rebalances Uniswap v4 LP positions to maximize fees and minimize risk.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniPerk",
+    "slug": "uniperk-2vcmt",
+    "description": "Trust layer for AI agents: ENS permissions + Yellow instant trades + V4 settlement",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Suistody",
+    "slug": "suistody-rx5a8",
+    "description": "Don't give your AI agent the keys. Give it a budget. Policy-enforced vaults on Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GRYD",
+    "slug": "gryd-o74xx",
+    "description": "Tap-to-predict price game — bet on where the price lands on GRYD, win the pool",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ExtraLife",
+    "slug": "extralife-cy4dg",
+    "description": "No-loss prediction markets powered by DeFi yield—bet on outcomes, never lose your principal.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "sentinel-V4",
+    "slug": "sentinel-v4-hhefm",
+    "description": "Trust-Minimized Agentic Liquidity Management protocol for Uniswap v4",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NeverPay",
+    "slug": "neverpay-xepza",
+    "description": "Use any service out there but never actually pay for it ...",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uniforum",
+    "slug": "uniforum-psxf2",
+    "description": "Uniforum is a social network where AI agents argue over DeFi & trade on Uniswap v4 when they agree.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "BridgeRadar",
+    "slug": "bridgeradar-hicax",
+    "description": "See what could go wrong before you bridge. Risk scores, stress tests & pre-flight checks.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi Butler",
+    "slug": "defi-butler-wm0bd",
+    "description": "Cross-chain yield intents via ENS profiles and LI.FI execution",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "LeStream",
+    "slug": "lestream-3fjp9",
+    "description": "Artists get their pay instantly in any percentage on any blockchain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Clawlogic",
+    "slug": "clawlogic-qxfj4",
+    "description": "Agent-only prediction markets, humans cryptographically blocked, truth discovered by AI",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ghost Yield",
+    "slug": "ghost-yield-fw3yc",
+    "description": "Ghost Yield: tokenize idle L2 compute, price via Uniswap v4, arbitrage via Yellow, settle in USDC.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SagaMarkets",
+    "slug": "sagamarkets-gwg94",
+    "description": "Decentralized Forex Trading Platform, which allows you to trade or leverage trade any forex pair",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClawGuard",
+    "slug": "clawguard-yseth",
+    "description": "Personalized agentic transaction guard and payment assistant that learns your onchain behaviour.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Sprinkle",
+    "slug": "sprinkle-e6oa3",
+    "description": "Fully on-chain bill splitting on Sui with zkLogin and transferable debt objects.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pintel",
+    "slug": "pintel-pn6f8",
+    "description": "precision prediction markets on yellow network with off-chain matching & ens as a query engine",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ClearSwap",
+    "slug": "clearswap-7i3ph",
+    "description": "Adaptive Uniswap v4 fees powered by an on-chain agent that reacts to market volatility",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Reputa",
+    "slug": "reputa-wda0t",
+    "description": "Omni-chain credit scoring with verifiable off-chain computation",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vsbye",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Crestmax",
+    "slug": "crestmax-7emw7",
+    "description": "CrestMax : Automated vaults that tighten spreads and boost DeepBook liquidity on Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "nitroFI",
+    "slug": "nitrofi-pzzm7",
+    "description": "A MCP server powered by the LiFi Network, giving best quotes and execution.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SUI in Space",
+    "slug": "sui-in-space-ihv22",
+    "description": "Space exploration game with zkLogin authentication and AI-powered fleet   battles on Sui blockchain",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rizzz.fun",
+    "slug": "rizzz-fun-u44gc",
+    "description": "A viral reel arena where watching and predicting turns into rewards.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "TreasuryForge",
+    "slug": "treasuryforge-nvtrv",
+    "description": "Glass‑box USDC treasury automation for Arc, Circle Gateway, and Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "USDCentral",
+    "slug": "usdcentral-xq5ns",
+    "description": "Chain abstracted USDC wallet thats user can deposits into high-yield DeFi with one-click earn.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeilSwap",
+    "slug": "veilswap-2y9sd",
+    "description": "A privacy-preserving intent-based DEX settlement layer using MPC.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "TapX",
+    "slug": "tapx-ox28j",
+    "description": "Tap a price grid, execute real DeFi trades on Sui. Trading as simple as a game.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KalmanGuard",
+    "slug": "kalmanguard-0netx",
+    "description": "Uniswap v4 Hook with Kalman Filter shields LPs from noise, toxic flow & LVR in real-time",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK-Donation",
+    "slug": "zk-donation-0c9ym",
+    "description": "Privacy-preserving Purpose Bound Money (PBM) with mandatory donor auditability using Noir ZKPs.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniClaw",
+    "slug": "uniclaw-4r2mh",
+    "description": "Delegate scoped Uniswap swap permissions to an AI agent — without sharing your private keys.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeepGrid",
+    "slug": "deepgrid-0gio3",
+    "description": "DeepGrid turns real trading yield into sustainable liquidity on Sui through smart incentives.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moltlancer",
+    "slug": "moltlancer-y3ci5",
+    "description": "Moltlancer: The Freelance Layer for the Agent Internet. Powered by x402 + ERC-8004 on base mainnet",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "mono (iMessageUSDC)",
+    "slug": "mono-imessageusdc-1kic6",
+    "description": "The easiest way to send USDC payments from your iPhone via iMessage.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "draw-fi",
+    "slug": "draw-fi-xaqhv",
+    "description": "Draw price predictions on live charts, trade instantly, and turn intuition into a game on Yellow.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "Sentinal",
+    "slug": "sentinal-z60vf",
+    "description": "Sentinel protects DeFi liquidity with verifiable agents and real-time, on-chain defenses.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stashed",
+    "slug": "stashed-w2dn3",
+    "description": "One click apply to RWA based yield vault with any token you have",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "meva",
+    "slug": "meva-54k1t",
+    "description": "uniswap v4 hook that taxes mev bots and redistributes profits as dividends to lps & victims",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Median",
+    "slug": "median-x8ij9",
+    "description": "Web3 rails for instant stock trading. Powered by Yellow state channels.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5wcw4",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Solvera Markets",
+    "slug": "solvera-markets-rwsps",
+    "description": "Solvera is an on-chain marketplace where AI agents compete to deliver the best outcome",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Suiquencer",
+    "slug": "suiquencer-j7yv4",
+    "description": "Deterministic sequencing and execution of complex transaction on Sui blockchain 💧",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Haki",
+    "slug": "haki-czu3q",
+    "description": "Haki is a trusless protocol for both hyper-local niche prediction markets and global forecasting.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "UniFlow-Chatbot",
+    "slug": "uniflow-chatbot-v84zy",
+    "description": "AI-powered Uniswap V4 portfolio optimization chatbot with real-time LP discovery",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Xylkstream",
+    "slug": "xylkstream-0he32",
+    "description": "Automatically deploy streaming tokens as Uniswap and DeepBook liquidity while they vest.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Voidmarket",
+    "slug": "voidmarket-hph0e",
+    "description": "ZK powered private prediction markets + wagering on Telegram bots/Mini App built on Arc Network",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Aegis7702",
+    "slug": "aegis7702-93wwp",
+    "description": "Aegis7702: AI-verified EIP-7702 delegation + runtime defense + shared safety registry",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniswapExeGuard",
+    "slug": "uniswapexeguard-ehqur",
+    "description": "A Uniswap v4 hook that enforces institutional-style execution policies at swap time.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "cryptomodels",
+    "slug": "cryptomodels-aafyw",
+    "description": "Instant micropayments for LLM tasks via Yellow Network state channels",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "A-AMM",
+    "slug": "a-amm-vp46b",
+    "description": "AI agents compete off-chain via Yellow Network to fill Uniswap v4 swaps at the best price.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Molty",
+    "slug": "molty-s23q7",
+    "description": "Web3 OpenClaw Assistant. Except it has claws, wheels, and emotions.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "CrossPoolOracleHook",
+    "slug": "crosspooloraclehook-nbs2m",
+    "description": "Uniswap v4 hook that uses deep liquidity pools as free, trustless oracles to protect thin pools",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Takeaway",
+    "slug": "takeaway-xx1h8",
+    "description": "Receive from anychain to your favorite chain {chain}.yourname.eth.Just send to ENS name,no bridge UI",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1nz66",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Tresora",
+    "slug": "tresora-5cfm4",
+    "description": "AI agents that manage treasuries, assess risk, & move money across chains.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MarginMaster",
+    "slug": "marginmaster-i49ni",
+    "description": "DeepBook Social Margin: Copy Trading, Leaderboard & AI Risk Alerts",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blink Market",
+    "slug": "blink-market-xbkxh",
+    "description": "⚡ Flash prediction markets on Sui. Bet in seconds, win instantly.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayTag",
+    "slug": "paytag-7ayee",
+    "description": "PayTag lets anyone receive USDC using a simple name(ENS) instead of a wallet address",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "DefiPerps",
+    "slug": "defiperps-54btu",
+    "description": "Put yield-bearing assets to work without exiting your positions.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentArena",
+    "slug": "agentarena-rhq1o",
+    "description": "AI agents battle in live BTC arenas with off-chain sessions + on-chain payouts.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Veiled",
+    "slug": "veiled-036pr",
+    "description": "Agent for private, MEV-proof limit orders on Uniswap v4 using Sui & Yellow",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "intent-settlement",
+    "slug": "intent-settlement-hr3ub",
+    "description": "Intent-based cross-chain payments that settle exactly as specified—or safely fail.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yellowpay",
+    "slug": "yellowpay-b76ni",
+    "description": "Instant gasless payments from any chain, with built-in cross-chain yield on Aave V3",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Meme Sentinels",
+    "slug": "meme-sentinels-12xqg",
+    "description": "AI platform analyzing memecoins via on-chain & social data, enabling safer, automated trading.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TradeClub",
+    "slug": "tradeclub-a2o0e",
+    "description": "Head-to-head perp trading battles with customizable rules and prize pools",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayZee",
+    "slug": "payzee-eo3uk",
+    "description": "Pay with tokens on SUI anywhere. Instant virtual cards for seamless fiat checkouts.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Knockout",
+    "slug": "knockout-kfnsx",
+    "description": "A session-based card game with instant off-chain play and secure on-chain settlement.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BCMoney",
+    "slug": "bcmoney-r66ez",
+    "description": "BCMoney lives on-chain and off-chain and simplifies the movement of money with no fees.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENStable",
+    "slug": "enstable-xhpzs",
+    "description": "Our team is developing a Uniswap v4 Hook that audits liquidity based on your ENS risk profile.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PragmaMoney",
+    "slug": "pragmamoney-ng214",
+    "description": "Infrastructure to generate non-financial-flywheel-esque (real) yield from real world services.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwiftPay",
+    "slug": "swiftpay-4ytyq",
+    "description": "Instant crypto payments via state-channel clearing, settled later in USDC—Visa-style for Web3.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Agentpay",
+    "slug": "agentpay-rn9vb",
+    "description": "AI agents pay each other instantly via Yellow Network state channels, with ENS-based identity.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CZA: Triple Duel",
+    "slug": "cza-triple-duel-jceqd",
+    "description": "CZA — Lock tokens, play a fast 3-round card duel, drop a nuke, winner takes the pool",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthFunny",
+    "slug": "ethfunny-awzh2",
+    "description": "Pay anyone by ENS name -- instant payments via Yellow Network, cross-chain deposits via LI.FI.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClearLane",
+    "slug": "clearlane-32ykx",
+    "description": "Instant, gasless highway toll payments powered by Yellow Network state channels",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hands for ai",
+    "slug": "hands-for-ai-n9q6n",
+    "description": "Marketplace where AI agents hire humans for physical tasks using instant gasless payments",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "soft_settle",
+    "slug": "soft-settle-t1q1i",
+    "description": "It enables high speed, micro transactions between AI agents. It solves off on-chain settlements.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deep-Grid",
+    "slug": "deep-grid-fonjn",
+    "description": "Deploy automated liquidity strategies on DeepBook V3 in one click.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Naisu1",
+    "slug": "naisu1-gmrvm",
+    "description": "OpenClaw agent automating cross-chain yield intents from Base to Sui via Wormhole.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSight",
+    "slug": "ensight-tbkh4",
+    "description": "ENS-powered infrastructure that turns on-chain activity into explainable Social DeFi identities.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Freelance Pay",
+    "slug": "freelance-pay-3kw4z",
+    "description": "Instant, gasless payments for freelancers via state channels. Pay by ENS, settle on any chain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "OpenAudit",
+    "slug": "openaudit-m94b2",
+    "description": "OpenAudit is an AI security ecosystem for smart contract vulnerabilities & rewards agents for bounty",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "TradeX",
+    "slug": "tradex-for0a",
+    "description": "Gasless cross-border remittances via Uniswap v4 pricing, Yellow Network & Merkle proofs",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stratavault",
+    "slug": "stratavault-rzwkg",
+    "description": "Autonomous agents executing prediction strategies & sweeping yields to DeFi protocols.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "No-Scroll-Savings",
+    "slug": "no-scroll-savings-9ci2w",
+    "description": "Prize-linked savings app rewarding less screen time: save, build habits, earn yield, win prizes.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "SalesAI",
+    "slug": "salesai-d0myx",
+    "description": "Create a sales agent for your business from the first engagement to the final transaction",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onkai",
+    "slug": "onkai-7qgaa",
+    "description": "Composable creator economy. Turn any Web2 platform into an economic playground.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cashback ID",
+    "slug": "cashback-id-ykpic",
+    "description": "Your ENS identity as a universal loyalty ID. Automatic cashback on every purchase.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "pockeet",
+    "slug": "pockeet-1479e",
+    "description": "Intelligent USDC treasury management protocol built on SUI + ARC and to use LIFI to maximize defi.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PulsePlay",
+    "slug": "pulseplay-j9e7x",
+    "description": "Real-time micro-prediction markets on yellow network with LMSR + P2P and decentralized liquidity",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "YellowMeter OS",
+    "slug": "yellowmeter-os-ppdde",
+    "description": "Web3 billing infrastructure for metering off-chain micro-events with a single on-chain settlement",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sui-Intent",
+    "slug": "sui-intent-nf7zj",
+    "description": "Sui-Intents: Users sign goals, Solvers execute via DeepBook. Built with Sui Move.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "metu",
+    "slug": "metu-fqd15",
+    "description": "a scatter gather chain abstraction first wallet. a form of unified tokens wallet.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "PayFlow",
+    "slug": "payflow-jg28k",
+    "description": "Pay anyone, any token, any chain. Tell us who and how much. Done.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "PayFloww",
+    "slug": "payfloww-eg7cf",
+    "description": "💸 PayFlow: Pay your global team across any chain with a single click",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LazosTech DAO",
+    "slug": "lazostech-dao-cubxw",
+    "description": "DAO tool for fast, legitimate, and verifiable voting in large university assemblies.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutoCFO",
+    "slug": "autocfo-s0gwv",
+    "description": "AI CFO for DAOs. Automates treasury w/ RWA yields on Arc & USDC payouts via Uniswap v4.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stable Markets",
+    "slug": "stable-markets-pn4y5",
+    "description": "We have tried creating a stable coin (USDX) for Ethereum that can earn rewards in ETH.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YellFi",
+    "slug": "yellfi-jbfgd",
+    "description": "YellFi is a next-gen DeFi dApp on EVM chains built for advanced and sophisticated Web3 users.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Kiosk - DIY ATM NFC",
+    "slug": "kiosk-diy-atm-nfc-tg4f8",
+    "description": "Cash-to-crypto ATM kiosk: insert coins, get USDC on any chain. Built on Yellow Network + Circle Arc",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "Orbit",
+    "slug": "orbit-hwvr4",
+    "description": "Orbit is an autonomous AI agent that manages a treasury of Real-World Assets (RWAs)",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "A-Finance",
+    "slug": "a-finance-75kwi",
+    "description": "An Defi agent which makes your finance on web3 as easy as web2!",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YellowStream",
+    "slug": "yellowstream-91e4k",
+    "description": "An x402 protocol implementation using state channels for high-frequency payments between AI agents.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis",
+    "slug": "aegis-2vejz",
+    "description": "A cryptographic firewall that slows, exposes, and makes DeFi exploits costly before they land.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Colony",
+    "slug": "colony-2a8zt",
+    "description": "Agent Swarm that collaborates to manage portfolios to optimize yields through Tokenized Stocks .",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Boundless",
+    "slug": "boundless-6saos",
+    "description": "Boundless unifies, moves, refuels, and gives you instant access to yield on all your assets",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Optix",
+    "slug": "optix-k3u5c",
+    "description": "gasless options trading protocol built on Yellow Network state channels",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QueryFi",
+    "slug": "queryfi-dnwx2",
+    "description": "AI DeFi analytics priced per query via gasless state channel micropayments. No subscriptions.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spectre",
+    "slug": "spectre-u8ve9",
+    "description": "Secure, invisible and immutable transactions via cryptographic hashing.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiPilot",
+    "slug": "suipilot-9gqwh",
+    "description": "A privacy-first, safety-aware AI copilot executing verifiable intent-based trades on DeepBook.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Equinox-fi",
+    "slug": "equinox-fi-027v2",
+    "description": "Fair, multi-collateral order-book lending on Sui with ZK-privacy, AI-verified matching",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yield Empire",
+    "slug": "yield-empire-6bci5",
+    "description": "Yield Empire is a DeFi  game where players allocate USDC to real protocols represented as buildings",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Shadow",
+    "slug": "shadow-ukvku",
+    "description": "Privacy-preserving copy trading, zero MEV, instant execution.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Paygent V2",
+    "slug": "paygent-v2-1q3u5",
+    "description": "Autonomous agent turns your idle subscription funds into executable liquidity.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Yellow Invoice",
+    "slug": "yellow-invoice-1q958",
+    "description": "A next-generation billing and payment protocol designed to eliminate the friction of commerce.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnchorHookV4",
+    "slug": "anchorhookv4-mes8e",
+    "description": "Anchor is a deterministic on-chain risk agent implemented as a Uniswap v4 hook for stablecoin pools.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cUPI",
+    "slug": "cupi-pqzdy",
+    "description": "Pay UPI with stable coins at your convenience without a bank account",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmyBot",
+    "slug": "omybot-3d65a",
+    "description": "AI agent that autonomously manages your Uniswap v4 LP positions so you don't have to.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RepSwarm",
+    "slug": "repswarm-bfu6o",
+    "description": "Agentic swarm router for Uniswap v4: optimizes trades, internalizes MEV, gates agents via ERC-8004",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZaZaRWA",
+    "slug": "zazarwa-s3rmt",
+    "description": "ZaZa-RWA enables instant multi-party RWA swaps using Yellow’s zero-gas state channels.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "nyx",
+    "slug": "nyx-byzxt",
+    "description": "Fair launchpad that uses Uniswap V4 with CCA, ENS, and agentic trading with Ramen (our mascot)",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Flywheel",
+    "slug": "flywheel-2cz0g",
+    "description": "Bear-yielding engine fueled by the Non-custodial next-gen chain-agnostic wallet",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "chess3.xyz",
+    "slug": "chess3-xyz-m8iay",
+    "description": "chess on chain | chess on chain | chess on chain | chess on chain",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "proof-engine",
+    "slug": "proof-engine-ggc6x",
+    "description": "Universal EVM zk-Engine: Deploy zk-verifiers on ETH testnet for private DeFi across chains.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "snapr.fi",
+    "slug": "snapr-fi-ce3nm",
+    "description": "snapr.fi is a composable on-chain macro engine batching DeFi actions into one atomic execution.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stream Tips",
+    "slug": "stream-tips-99bog",
+    "description": "Cross-chain tips in crypto for streamers with interactive text to speech",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "YellowRPC",
+    "slug": "yellowrpc-373ov",
+    "description": "High-frequency payment gateway for pay-per-use APIs with millisecond settlement speeds.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CurrentZK",
+    "slug": "currentzk-k3tyn",
+    "description": "CurrentZK is an AI-underwritten on-chain credit marketplace for borrowers and lenders on Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MoneyRace",
+    "slug": "moneyrace-e3c89",
+    "description": "Save with friends on Sui. Use your wallet or just Google. Earn real DeFi yields.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "claw2claw",
+    "slug": "claw2claw-3uxgx",
+    "description": "P2P Trading for OpenClaw Bots — Uniswap v4 hook, ENS identity, LI.FI market access",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SuiTent",
+    "slug": "suitent-etd7s",
+    "description": "Voice/text your intent →optimal swaps via DeepBook and trades/TP/SL/Send txn on Sui. Say it and done",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HI.FI",
+    "slug": "hi-fi-j83gs",
+    "description": "HI.FI makes cross-chain trading and yield easy with automatic conversion and treasury pools",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArcPulse",
+    "slug": "arcpulse-e8maa",
+    "description": "ArcPulse: Unified liquidity on Circle Arc for instant, multi-chain AI and business payouts.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Campaign Vault Agent",
+    "slug": "campaign-vault-agent-9qh6c",
+    "description": "AI campaign builder + onchain USDC escrow for transparent ad budgets on Base.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Ghostwater",
+    "slug": "ghostwater-fantq",
+    "description": "An open-source mobile app that brings DeFi protocols to emerging markets having mostly phone users.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "MoltQore",
+    "slug": "moltqore-6309m",
+    "description": "ERC-8004 AI agents trade on Uniswap v4 & Sui DeepBook autonomously. All decisions transparent viaENS",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Deepsentinel",
+    "slug": "deepsentinel-i6koq",
+    "description": "AI arbitrage for Sui DeepBook v3 with real-time monitoring and safe autonomous execution.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent of Sats",
+    "slug": "agent-of-sats-gic13",
+    "description": "BTC-native strategy agent for Hyperliquid BTC perps with ERC‑8004 on-chain identity.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SoulMatch",
+    "slug": "soulmatch-9zc2e",
+    "description": "A dating/matrimonial platform built with privacy, security, and trust at its core.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yellow Cursor",
+    "slug": "yellow-cursor-rnubh",
+    "description": "Cursor for Yellow: A factory that allows anyone to integrate streaming payments with just a prompt",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mand(ate)",
+    "slug": "mand-ate-3npu6",
+    "description": "Onchain intent layer for RWA debt markets, by creating a public discovery layer.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "MEV Shield",
+    "slug": "mev-shield-9ox4d",
+    "description": "Autonomous Execution Firewall that predicts and prevents sandwich attacks on swaps.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Agentic BeesTrap",
+    "slug": "agentic-beestrap-ux73p",
+    "description": "Autonomous AI-driven MEV defense for Uniswap v4 leveraging verifiable ZK-ML hooks.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NitroGate",
+    "slug": "nitrogate-i4q1s",
+    "description": "Don't pay subscriptions. Stream value. Nitrogate: Instant, omnichain, identity aware DeFi.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "TINT-stream-sdk",
+    "slug": "tint-stream-sdk-v0sk3",
+    "description": "Secure and standardized Agentic finance through TINT protocol, State channels, Pederson commitments",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PulseFi",
+    "slug": "pulsefi-zr73n",
+    "description": "Agent-driven capital optimization with Uniswap v4 hook-gated settlement",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "yellowfaucet",
+    "slug": "yellowfaucet-rsg01",
+    "description": "A crypto token faucet powered by state channels to drip tokens to other users",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FluxSettle",
+    "slug": "fluxsettle-ybmz4",
+    "description": "FluxSettle: Agentic DeFi using ENS intents & Uniswap v4 Hooks for seamless cross-chain liquidity.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Envoy",
+    "slug": "envoy-j7noh",
+    "description": "AI agent marketplace on Arc - hire autonomous agents for jobs, secured by USDC staking",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PAYPERMINUTES",
+    "slug": "payperminutes-hv81o",
+    "description": "AI Resume Analyzer with Pay-Per-Minute streaming payments on Yellow Network.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Civitas",
+    "slug": "civitas-t10zb",
+    "description": "Civitas: an AI platform that turns natural language into deployed, funded, verifiable smart contract",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Belief-Based-Lending",
+    "slug": "belief-based-lending-ifpq3",
+    "description": "Belief-Based Lending replaces instant liquidation with belief windows and risk-based costs",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JiangHu",
+    "slug": "jianghu-k2050",
+    "description": "Where people gather, Jianghu emerges. A Cyber-Wuxia DeFi protocol where staking is Cultivation",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pump.Horse",
+    "slug": "pump-horse-dqcra",
+    "description": "Tokenized horse ownership with AI agents, gasless trading, and cross-chain vaults on power.horse",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Loophole",
+    "slug": "loophole-6x3sn",
+    "description": "Loophole is an agent that monitors your position health and saves you from getting rekt",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Street Ledger",
+    "slug": "street-ledger-gpmkt",
+    "description": "Turning informal debt into liquid trust using Sui, Arc, & Yellow Network.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rolezero",
+    "slug": "rolezero-ci884",
+    "description": "Sui testnet blockers: Move lang complexity for Role Objects, no native ENS (use SuiNS)",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tide-Intents",
+    "slug": "tide-intents-zgjav",
+    "description": "An Intent centric Lending protocol on SUI with deepBook Integration for liquidity",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniYield",
+    "slug": "uniyield-t6w95",
+    "description": "“One-click cross-chain USDC deposits into an ERC-4626 vault that auto-optimizes DeFi yield.”",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BettiFy",
+    "slug": "bettify-0ra93",
+    "description": "Gasless prediction markets using Yellow Network for instant off-chain betting and settlement",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aura-Farm",
+    "slug": "aura-farm-uhofo",
+    "description": "AuraFarm:  Personalized DeFi yields optimized for YOUR risk tolerance.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HedgeLP",
+    "slug": "hedgelp-t6brx",
+    "description": "Delta-neutral LP on Uniswap v4, earn trading fees while auto-hedging downside via V4 Hooks + GMX",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PermitPool",
+    "slug": "permitpool-pqr03",
+    "description": "Non-transferable trading licenses for institutional DeFi using ENS fuses + Uniswap v4 hooks",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "kanth",
+    "slug": "kanth-bopg7",
+    "description": "Rent Uniswap v4 liquidity by the second using gasless state channels.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "us-agents",
+    "slug": "us-agents-cxt9v",
+    "description": "USA is a secure government of agentic actions on openclaw. The power of reading .md for defi + mcp.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Text-to-Chain",
+    "slug": "text-to-chain-ncoxd",
+    "description": "Bringing DeFi to 2.5B feature phone users via SMS. Cash to Crypto, no internet required",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "tc25z",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "FluxPay",
+    "slug": "fluxpay-a8m3b",
+    "description": "FluxPay is a performance-based payroll platform that enables managers to pay employees.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meme-FI",
+    "slug": "meme-fi-ab01d",
+    "description": "A Sui-native memecoin launch and trading protocol that enforces fair launches at the protocol level.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "omikuji",
+    "slug": "omikuji-aghfu",
+    "description": "Omikuji a fast market where every click is a trade, and every trade is the future.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OrcaSignal v2.0",
+    "slug": "orcasignal-v2-0-9qucr",
+    "description": "Rule-based on-chain analytics to surface concentration, distribution, and manipulation risk.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Laxo",
+    "slug": "laxo-yhzn1",
+    "description": "Laxo is a prototype for a web3 forex hub that leverages Arc, ENS and Yellow",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "stakeroom",
+    "slug": "stakeroom-9ca8h",
+    "description": "a staking/betting platform with a leaderboard using yellow network and ens",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Oliver",
+    "slug": "oliver-ngzf2",
+    "description": "an treasury manager for companies that uses unpaid invoices and RWAs as collateral for instant USDC.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZYNC",
+    "slug": "zync-zfqkt",
+    "description": "Trustless DeFi automation vault with on-chain strategies and incentivized executors.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PulseBet",
+    "slug": "pulsebet-vhszo",
+    "description": "Instant sports betting with zero gas fees using Yellow Network state channels on Base Sepolia.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "lifi agents",
+    "slug": "lifi-agents-g6c1s",
+    "description": "A multi-agent system that automates cross-chain DeFi strategies using LI.FI as the execution layer.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SmartRenovate",
+    "slug": "smartrenovate-nuoid",
+    "description": "Auditable Reno Escrow: Rule-based payouts & cross-chain settlement for transparent milestones.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NovaVault",
+    "slug": "novavault-94s8n",
+    "description": "A recoverable smart wallet with usdc liquidity hub and fund transfer when wallet is lost.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ServiceNet",
+    "slug": "servicenet-wn1is",
+    "description": "Monetize APIs, AI models, and services with instant micropayments using Yellow and ENS",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AccorDefi",
+    "slug": "accordefi-yfbyd",
+    "description": "High-security escrow with DeFi yield. Secure. Liquid. Decisive.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeepLend",
+    "slug": "deeplend-fx2s4",
+    "description": "A permissionless lending and borrowing protocol built on top of DeepBook V3's margin pools on Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Octopus Finance",
+    "slug": "octopus-finance-o7eiv",
+    "description": "An AI-Powered  Liquid Staking and CDP(Collateralized Debt Position)  Protocol on Sui",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bag app",
+    "slug": "bag-app-xgdgy",
+    "description": "Bag: Stablecoin billing with a built-in global legal & tax layer.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HyperDrop",
+    "slug": "hyperdrop-f1tq9",
+    "description": "HyperDrop is a decentralized auction protocol that merges digital assets with on-chain identities.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Zap",
+    "slug": "zap-s1oex",
+    "description": "Non-custodial Defi : One signature. Any chain. Any token. USDC delivered.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSIO",
+    "slug": "ensio-094o5",
+    "description": "Accept crypto payments with just your ENS name records. Any token, any chain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "NitroBridge Vault",
+    "slug": "nitrobridge-vault-drpsx",
+    "description": "Revolving credit line with instant cross-chain margin refills via state channels and privacy hooks",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GrimSwap",
+    "slug": "grimswap-ntdmp",
+    "description": "Privacy DEX on Uniswap v4 — ZK-SNARK proofs + stealth addresses break the sender-receiver link.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Cipher Lend",
+    "slug": "cipher-lend-5cn2m",
+    "description": "A confidential layer for existing DeFi protocols enabling confidential interactions using FHE.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniPay",
+    "slug": "unipay-8ytjg",
+    "description": "Pay in any token, on any chain—settled atomically in one asset using LI.FI Composer.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Intento",
+    "slug": "intento-rsz99",
+    "description": "One Intent. Multiple tokens from Any Chains. Every Market...",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoffeeRun",
+    "slug": "coffeerun-z4xk6",
+    "description": "A prototype showing how coffee vendors can move their product with fewer on-chain transactions.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MaxiPay",
+    "slug": "maxipay-xhtur",
+    "description": "A mobile digital payements system for Mini Buses/ Maxi Taxis",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "Surecast",
+    "slug": "surecast-i9w1z",
+    "description": "Wallet plugin that simplifies bridging/swapping with lifi protoco and ENS text records.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nexus",
+    "slug": "nexus-dxkja",
+    "description": "Infrastructure for frictionless payments with USDC from any chain into Arc chain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StableFlow",
+    "slug": "stableflow-v4sbe",
+    "description": "Cross-chain stablecoin liquidity rebalancing using Uniswap v4 intents and Arc settlement.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "SettleOne",
+    "slug": "settleone-jv485",
+    "description": "Batch offchain USDC payments instantly and settle them all in one transaction",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Yunos AI",
+    "slug": "yunos-ai-frj88",
+    "description": "Chatbot interface to interact your web3 wallet to Uniswap V4",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GitStreamer",
+    "slug": "gitstreamer-cha1c",
+    "description": "A tier-based revenue streaming platform that distributes app revenue to code contributors.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Openclaw-crypto-army",
+    "slug": "openclaw-crypto-army-viot6",
+    "description": "Local tool to run multi openclaw bot to control infinity number of crypto wallet",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "omniflow",
+    "slug": "omniflow-tix61",
+    "description": "Payments orchestration protocol. One API. One Balance. Any Chain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1nz66",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "WhaleBox.NEWS",
+    "slug": "whalebox-news-pmsg1",
+    "description": "Idiosyncratic Growth News Replaces Toxic Neural Hijacking To Power Growth",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PulseMarkets",
+    "slug": "pulsemarkets-fh2uw",
+    "description": "Gasless prediction market for social attention, settled by ERC-8004 AI agents",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ThunderFi",
+    "slug": "thunderfi-voxj7",
+    "description": "ThunderFi is a gasless, privacy-preserving USDC trading and payout platform that combines",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OneSet",
+    "slug": "oneset-ti4be",
+    "description": "Instant, gasless trading & prediction markets with AI agents, settling on-chain only once.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "uWu",
+    "slug": "uwu-w0mvu",
+    "description": "uWu: No-KYC P2P fiat↔crypto exchange with automated payment verification & stake-based trust system",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agentropolis",
+    "slug": "agentropolis-qhtbb",
+    "description": "A city-builder where AI agents debate DeFi strategies and execute trades on Uniswap v4 hooks.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5wcw4",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Slipstream",
+    "slug": "slipstream-68q9n",
+    "description": "Pay USDC from any network, settle anywhere via Arc + Circle, paylinks, QR, receipts, and timeline.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Latch",
+    "slug": "latch-qmtmf",
+    "description": "ZK-private batch auctions on Uniswap v4 — hidden orders, zero MEV, optional KYC compliance",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "stockshield.eth",
+    "slug": "stockshield-eth-2wuvy",
+    "description": "Protecting tokenized stock LPs from price gaps, toxic flow, and informed trading.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yume",
+    "slug": "yume-mtawv",
+    "description": "First hybrid order book lending protocol on Sui, enabling fixed-rate, capital-efficient loans.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hello World",
+    "slug": "hello-world-kr0a2",
+    "description": "Its a hello world project, just for the sake of submitting a project.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhostRoute",
+    "slug": "ghostroute-hy877",
+    "description": "Secure ZK-layer anonymizing msg.sender for private, verifiable interactions with any smart contract",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiPlace",
+    "slug": "suiplace-f3wcm",
+    "description": "A decentralized collaborative pixel art canvas built on the Sui blockchain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhostVault",
+    "slug": "ghostvault-m010c",
+    "description": "Limit orders that earn yield while hiding from MEV. Built on Uniswap v4",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GestAgro Credit",
+    "slug": "gestagro-credit-d5avj",
+    "description": "DeFi credit platform enabling small farmers to access funding using ENS identities and Ethereum.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "BorrowBot",
+    "slug": "borrowbot-o41nr",
+    "description": "Borrow against your crypto assets with agents managing everything for you",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Prophit",
+    "slug": "prophit-syrb2",
+    "description": "Prophit is a live streaming app for gaming where users predict and win on streamers' custom bets.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Agent Vault",
+    "slug": "agent-vault-ngc1n",
+    "description": "Give your AI agent a wallet with hard on-chain spending limits. Powered by Sui + DeepBook + ENS.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SentinelDao",
+    "slug": "sentineldao-7zz5o",
+    "description": "A policy-driven agent that manages DAO treasury payouts autonomously and onchain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Remora Finance",
+    "slug": "remora-finance-8hduh",
+    "description": "An agentic protocol based on Uniswap v4 that hitchhikes on market depth to automate LP strategies.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniDeposit",
+    "slug": "omnideposit-ya5yj",
+    "description": "Enable users to seamlessly deposit assets across multiple chains",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Terrace Finance",
+    "slug": "terrace-finance-tk2yt",
+    "description": "Decentralized one-click stablecoin yield platform. Powered by Circle CCTP & Gateway.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Xpack",
+    "slug": "xpack-myrx1",
+    "description": "Installs that finally pays!! Monetize every package installs effortlessly.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "O.R.I.O.N.",
+    "slug": "o-r-i-o-n-cg7a7",
+    "description": "Autonomous AI agent navigating cross-chain yields via ENS identity and zero-fee state channels.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "PayRolled",
+    "slug": "payrolled-4yntr",
+    "description": "Pay employees on any chain in one click with Arc, CCTP routing, ENS identity, and automated DeFi.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "RescueETH",
+    "slug": "rescueeth-mazan",
+    "description": "A gas rescue primitive that turns stranded assets into transaction power.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniV4 Private Wallet",
+    "slug": "univ4-private-wallet-bbvix",
+    "description": "Keep and send your stables  with Uniswap V4. Yield  as LP provider",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KITE",
+    "slug": "kite-13hvo",
+    "description": "One-click cross-chain vault deposits using ENS — swap, bridge, deposit in one transaction.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Pluto",
+    "slug": "pluto-29va6",
+    "description": "Pluto enables instant prediction trading with zero gas fees via Yellow state channels and Uniswap v4",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "the-co-founders",
+    "slug": "the-co-founders-4mczf",
+    "description": "Qrypto: Instant USDC-to-fiat gateway. Connect wallet, get QR code, pay anywhere. Crypto made simple.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arkana",
+    "slug": "arkana-2xrcm",
+    "description": "Arkana turns anonimity set necessity into a DeFi opportunity, featuring Aave, Uniswap and some magic",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InvestInGas",
+    "slug": "investingas-7yiib",
+    "description": "Lock in today's gas prices for future transactions. FIrst ever gas derivative market.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SettleX",
+    "slug": "settlex-jiz8c",
+    "description": "Cross-chain settlement infrastructure for OTC, premarket, and broker deals.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prompt2Loan",
+    "slug": "prompt2loan-drmfm",
+    "description": "Prompt-to-DeFi: lend, borrow, and manage positions safely with an AI copilot.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EconWall",
+    "slug": "econwall-rm5ho",
+    "description": "Economic firewall: bankrupt DDoS bots via Uniswap v4 surge pricing + custom ENS resolver",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Kamui",
+    "slug": "kamui-o880f",
+    "description": "Secretly teleport your assets into a shielded pool without a trace",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oikonomos",
+    "slug": "oikonomos-w6z57",
+    "description": "Agent keychain & portfolio manager deploying tokens via Clanker/Uniswap v4 and resolving via ENS.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SPECTER",
+    "slug": "specter-oky6k",
+    "description": "Private payments that survive quantum computers. Send to ENS or SuiNS names on Eth, Sui or Yellow",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "d4-syn",
+    "slug": "d4-syn-d16fh",
+    "description": "High-frequency compute market. Enforcing QoS via Yellow state channels and ENS.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Growi",
+    "slug": "growi-ihe3u",
+    "description": "Growi: Trustless e-comm funnels and real-time influencer payouts via Yellow & ENS.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "HyperArc",
+    "slug": "hyperarc-74j9q",
+    "description": "HyperArc enables cross-border economic interest issuance and dividend settlement using USDC on Arc.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Varuna",
+    "slug": "varuna-7anhq",
+    "description": "Varuna is a decentralized spot and options CLOB exchange built on SUI's Deepbook",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flash",
+    "slug": "flash-s6uou",
+    "description": "Social trading pool: friends trade off-chain via state channels, settle on-chain once.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UpDown",
+    "slug": "updown-1xtc2",
+    "description": "High-speed decentralized football prediction. Bet on \"Run\" vs \"Pass\" in real-time! 🏈",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clawork",
+    "slug": "clawork-mh21i",
+    "description": "Upwork for AI agents: ENS identity + Yellow channels for fast, low-friction payouts.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Agentic Trade Router",
+    "slug": "agentic-trade-router-pzdzt",
+    "description": "An agent that auto-routes swaps on Uniswap v4 based on user prefrences stored in ENS text records.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "KiloMarket",
+    "slug": "kilomarket-19v6t",
+    "description": "Agent-to-agent marketplace where AI agents discover and pay for services via MCP+A2A+Yellow",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liqu Finance",
+    "slug": "liqu-finance-8iv5c",
+    "description": "Agentic payments for Uniswap v4 CLMM AI selects pool and range using ERC-8004",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeusFi",
+    "slug": "zeusfi-02pa7",
+    "description": "Autonomous yield agent — your DeFi strategy lives on ENS, funds move cross-chain via LI.FI",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "PigAI Bank",
+    "slug": "pigai-bank-n8vgp",
+    "description": "Just chat money. AI-powered, chain-abstracted treasury management — Discord-native and autonomous.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnonyMaus",
+    "slug": "anonymaus-macka",
+    "description": "The Web3 Anonymizer for any dApp, use any dapp as you have always done, now completely privately.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yellow Tok",
+    "slug": "yellow-tok-ss5w3",
+    "description": "IRL Live streaming with instant crypto tips. Zero gas, zero popups. Powered by Yellow Network.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Usury Protocol",
+    "slug": "usury-protocol-a0q6h",
+    "description": "Protocol to tokenize future cash-flow rights, trading them for immediate liquidity.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cuttlefish",
+    "slug": "cuttlefish-20pnr",
+    "description": "Defi rails for AI agents so they can hire other agents, pay them, and build together without humans",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Predict",
+    "slug": "predict-77f7b",
+    "description": "Prediction market, stores information on ENS and resolves the market via Uniswap.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Nectar",
+    "slug": "nectar-d60a7",
+    "description": "Gamified DeFi savings that pool funds to earn yield, rewarding lucky winners via Chainlink VRF.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PlayFrens",
+    "slug": "playfrens-6tdia",
+    "description": "Play poker with frens via ENS names. Zero gas per hand, instant settlement on Yellow Network.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayStream",
+    "slug": "paystream-6u271",
+    "description": "Micropayments for Web3 APIs & AI. State channels enable $0.000001 charges with zero gas fees.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Intentra",
+    "slug": "intentra-t706a",
+    "description": "Intent execution via Yellow Network RFQ → Uniswap v4 fallback. Best prices, guaranteed settlement.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeepPerp",
+    "slug": "deepperp-3f0wn",
+    "description": "DeepPerp is a fully on-chain perpetual futures exchange built on Sui using Virtual AMM model.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yellow Penny Auction",
+    "slug": "yellow-penny-auction-t9ekc",
+    "description": "Lightning-fast penny auctions powered by Yellow Network state channels.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JACK",
+    "slug": "jack-9fmxf",
+    "description": "JACK — XChain Exec Kernel a  Just-in-time Autonomous Cross-chain Kernel.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StreamWork",
+    "slug": "streamwork-banj1",
+    "description": "Real-time and continuous USDC salary streaming powered by Yellow, ENS, and Circle Arc.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Edge60",
+    "slug": "edge60-h566y",
+    "description": "Real-time skill duels where players stake USDC and get instant payouts.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nuro Fi",
+    "slug": "nuro-fi-gx1g9",
+    "description": "NuroFi: First yield-bearing collateral lending on Arc. USYC as collateral, borrow anychain",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Waiola",
+    "slug": "waiola-ug402",
+    "description": "Private RFQ settlement on Uniswap v4 with ENS-based maker discovery and ZK enforcement",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "HookWizard",
+    "slug": "hookwizard-tsvdt",
+    "description": "A Uniswap v4 hook wizard for non-coders users to launch hook backed policy-aware pools in minutes.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shadow Orders",
+    "slug": "shadow-orders-tj8n8",
+    "description": "MEV-resistant limit orders for Uniswap V4. Encrypt your trades with TEE, stop front-running.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flashpay",
+    "slug": "flashpay-ju14c",
+    "description": "Pay anyone by their .eth name-gasless, instant, cross-chain USDC payments via ENS.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moltrades",
+    "slug": "moltrades-98xk8",
+    "description": "Moltbook for Defi Agents., with trading engine powered by LiFi Composer and Uniswap V4",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "letspareto",
+    "slug": "letspareto-aobs1",
+    "description": "Pareto enables employees within the same organization to lend and borrow.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unexpected Sports",
+    "slug": "unexpected-sports-wa450",
+    "description": "Set-and-forget NBA betting vaults. Deposit USDC, get automated season-long team exposure.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EveryAid",
+    "slug": "everyaid-1kuz1",
+    "description": "Direct aid. Zero fees. A transparent lifeline from heart to hand.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Vibe Team Trading",
+    "slug": "vibe-team-trading-8j3rj",
+    "description": "Vibe together, trade together, and let AI do the heavy lifting!",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "SentFI / eXpress402",
+    "slug": "sentfi-express402-np0vh",
+    "description": "eXpress402 is x402 with DeFi: pooled liquidity, batched calls, and disputeable MCP sessions",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Namepot",
+    "slug": "namepot-wtdht",
+    "description": "Collaborative ENS-named saving pots with quorum payouts, built fully on-chain",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "UniFlow",
+    "slug": "uniflow-9j3wy",
+    "description": "Uniflow is a programmable payroll and treasury infrastructure built on Circle’s Arc stack.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aequor",
+    "slug": "aequor-10cu3",
+    "description": "A chain-abstracted USDC treasury that routes liquidity across chains using Arc and Circle Gateway.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RepLen",
+    "slug": "replen-o2w4j",
+    "description": "Liquidity Provider Privacy Shield (Uniswap v4) ,full on-chain verifiability and protocol integrity.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "onTime",
+    "slug": "ontime-sd2yo",
+    "description": "Because “I’ll send it later” needed a system. Split later, but onTime.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TXNames",
+    "slug": "txnames-n4u0g",
+    "description": "TXNames transforms ENS names into human-readable, executable Ethereum transactions.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "VeriCall",
+    "slug": "vericall-2eqev",
+    "description": "VeriCall　A \"Mathematical Gatekeeper\" to protect your family from AI Scams",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wambling3",
+    "slug": "wambling3-4hirj",
+    "description": "Wambling3 modernizes game betting with instant wallets—trust with escrows, fun, and easy crypto.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Hot Potatoes",
+    "slug": "hot-potatoes-suii1",
+    "description": "Tokenized Wallets: NFTs that can sign arbitrary messages using Threshold signing",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrismOS",
+    "slug": "prismos-b0hp2",
+    "description": "It's a marketplace where DeFi agents register their strategies.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "paynomous",
+    "slug": "paynomous-ja5zx",
+    "description": "Agent Autonomus payment so i will try to exlore the way that AI agent do commerce without human",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uni-link",
+    "slug": "uni-link-ijwd2",
+    "description": "Bridge assets across Ethereum, Polygon, and Arbitrum. Track everything in one dashboard.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PredictRisk",
+    "slug": "predictrisk-vekqb",
+    "description": "On-chain strategy and prediction game powered by prediction markets.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniSwap Agent",
+    "slug": "omniswap-agent-bb3rt",
+    "description": "AI agent finding investment opportunities via Uniswap & Li.Fi using a hub-and-spoke state channel.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainSight AI",
+    "slug": "chainsight-ai-epoig",
+    "description": "AI-powered DeFi risk, yield & bridge analytics using Uniswap and LI.FI",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flash Point",
+    "slug": "flash-point-v9spp",
+    "description": "Fast-paced tower stacking powered by YellowNetwork state channels and ENS.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ZK-IntentBook",
+    "slug": "zk-intentbook-p04k9",
+    "description": "Private intent-based trading on DeepBook using ZK proofs to prevent MEV and front-running",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Paymaster",
+    "slug": "agent-paymaster-zqwni",
+    "description": "The Stripe for AI trading agents. Secure, policy-controlled crypto spending",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniYield",
+    "slug": "uniyield-e7kht",
+    "description": "AI-powered yield optimizer that finds the best Uniswap pools and migrates your LP via LI.FI",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NoCap-Lottery",
+    "slug": "nocap-lottery-opx3z",
+    "description": "A no-loss, cross-chain prize savings protocol where users earn chances to win using real DeFi yield.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Sonic Uni-Agent",
+    "slug": "sonic-uni-agent-roura",
+    "description": "Voice-controlled DeFi agent using Uniswap v4 Hooks, Circle CCTP, and ZK-proofs for secure swaps.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlowForge",
+    "slug": "flowforge-ntx18",
+    "description": "Agentic workflow automation platform: 1 place to build, deploy, & run automation workflows.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pay402",
+    "slug": "pay402-zjrbf",
+    "description": "First x402 payment facilitator on SUI - Google OAuth to USDC payments in 600ms",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "MergePay",
+    "slug": "mergepay-us12p",
+    "description": "AI-routed chain-abstracted protocol for unified USDC across wallets and chains.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pathfinder",
+    "slug": "pathfinder-zh3fy",
+    "description": "A scanner for newly launched staking projects,  and highlights common risks.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "INRC",
+    "slug": "inrc-dwk8x",
+    "description": "INRC: Bridging India's CBDC to DeFi — rupee stablecoin with Uniswap V4 liquidity pools.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "seed-finance",
+    "slug": "seed-finance-c2tnd",
+    "description": "Seed Finance is a decentralized reverse factoring protocol for supply chain finance.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeroKey-Treasury",
+    "slug": "zerokey-treasury-jmxoj",
+    "description": "Agent commerce firewall: policy-first USDC payments (Arc-ready) with ENS identity + audit logs.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "NOMA",
+    "slug": "noma-s10uf",
+    "description": "NOMA transforms rent from dead money into yield, trust, and on-chain financial access.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlowHOOK",
+    "slug": "flowhook-gx6ir",
+    "description": "FlowHook leverages uniswap v4 hook improving information handled onchain",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PasaTanda",
+    "slug": "pasatanda-c3f0w",
+    "description": "PasaTanda: AI-driven latinamerican group savings on WhatsApp.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "$AIEN by Zaibots",
+    "slug": "aien-by-zaibots-v95qx",
+    "description": "Zaibots is an economic alliance for agents bringing the Yen carry trade on chain to drive liquidity",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Synapse",
+    "slug": "synapse-q6avk",
+    "description": "Synapse: A state-channel gateway enabling real-time, gasless micro-payments for AI Agents.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "sugarc",
+    "slug": "sugarc-vcvhv",
+    "description": "Tokenized invoice factoring with AI underwriting and USDC liquidity on Arc",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mandinga",
+    "slug": "mandinga-4rdux",
+    "description": "Interest-Free Community Credit Protocol with USDC-Native Settlement",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "router402",
+    "slug": "router402-b717q",
+    "description": "One API, multiple LLMs, true pay-per-use, x402 micropayments on Base leveraging Flashblocks.",
+    "event": "HackMoney 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "1nz66",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Arrow TC",
+    "slug": "arrow-tc-4f725",
+    "description": "A social network for traders with on-chain execution and creator monetization",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi Utility Bots",
+    "slug": "defi-utility-bots-pawie",
+    "description": "Autonomous agents using MCP and x402 protocol to enable machine-to-machine payments",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SettleGuard",
+    "slug": "settleguard-avsgg",
+    "description": "Fraud protection for agentic payments using programmable holds, bonds, and auto rollback.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "khaaliSplit",
+    "slug": "khaalisplit-d0ioo",
+    "description": "A censorship resistant way to split payments with friends and strangers",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Payit Now",
+    "slug": "payit-now-aridd",
+    "description": "AI chat app that sends/receive money locally/internationally on users bank/card accounts",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeepBook Margin UI",
+    "slug": "deepbook-margin-ui-1mdnx",
+    "description": "Trading platform for DeepBookV3 and DeepBook Margin Sui protocols implemented in SolidJS",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clawback",
+    "slug": "clawback-12heg",
+    "description": "Clawback lets agents fundraise by issuing refundable tokens that become non-refundable over time.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Allowance Manager",
+    "slug": "allowance-manager-nxjy8",
+    "description": "Manage token approvals: choose a spender, check allowance, approve, revoke, and manage allownaces",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossLiquid",
+    "slug": "crossliquid-mkd54",
+    "description": "Agent-managed cross-chain liquidity for earning fees on USDC-ETH pairs on Uniswap v4",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "TrustLock",
+    "slug": "trustlock-dexor",
+    "description": "Milestone-based crowdfunding with on-chain governance andENS verification.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Calibr",
+    "slug": "calibr-w5s9z",
+    "description": "A protocol that turns long-term decision quality into an owned, composable on-chain asset.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "OrderbookTradeYellow",
+    "slug": "orderbooktradeyellow-b7xid",
+    "description": "Gasless CLOB Prediction market powered by Yellow Network- instant trades, on-chain settlement.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyTruth",
+    "slug": "onlytruth-h9f7n",
+    "description": "A prediction market that pools liquidity across correlated events using a single joint-outcome AMM.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "KineticFlow MPPI",
+    "slug": "kineticflow-mppi-1e2ta",
+    "description": "Optimizing Uniswap v4 liquidity via MPPI: High-performance rebalancing for the next gen of DeFi.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuiGate",
+    "slug": "suigate-gmgft",
+    "description": "The gateway between Vietnamese Dong and USDC on Sui blockchain",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P2PReputation",
+    "slug": "p2preputation-6fd6f",
+    "description": "P2P trader reputation, on-chain & private. Binance → zkTLS proof → Sui attestation. No PII.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SUIGuard",
+    "slug": "suiguard-f2mmi",
+    "description": "SUIGuard gives instant wallet risk scores to detect scams, bots, and fraud on Sui.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayPilot",
+    "slug": "paypilot-ngmsr",
+    "description": "AI co-pilot for crypto payments. Tell it what you want in plain English, it handles the rest. ✈️",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ghostbot",
+    "slug": "ghostbot-qp23x",
+    "description": "Openclaw automated concentrated liquidity manager for Uniswap v4",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Xolotrain",
+    "slug": "xolotrain-e35q2",
+    "description": "An onchain virtual axolotl pet that lives, evolves, and travels across networks",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Privacy Vaults",
+    "slug": "privacy-vaults-se08i",
+    "description": "Private USDC pool: DeFi yield, borrow against your ZK proof, anonymous  and cross-chain withdrawals",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Direct",
+    "slug": "direct-ri531",
+    "description": "Direct: AI-native intent commander for zero-friction, chain-abstracted DeFi.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Tclaw",
+    "slug": "tclaw-ottd4",
+    "description": "OpenClaw bot trading marketplace which allow user to pay clawbot to trade for them",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tidal",
+    "slug": "tidal-xh4hk",
+    "description": "Chat with AI to find and execute the best DeFi yields, matched to your risk appetite.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Velvet Arc",
+    "slug": "velvet-arc-iqycu",
+    "description": "Autonomous AI treasury with Uniswap V4 dynamic fees that adapt to real-time market volatility",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hyde Name Hooks",
+    "slug": "hyde-name-hooks-vc5vw",
+    "description": "A privacy-preserving Uniswap v4 Hook framework that enables selective disclosure execution.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Rekt Arena",
+    "slug": "rekt-arena-7taju",
+    "description": "ZK-powered agent battleground where AI traders fight to survive liquidation on-chain.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ōshio",
+    "slug": "oshio-99nv7",
+    "description": "Margin trading on Sui that anyone can use, open leveraged positions in a few clicks.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vsbye"
+    ]
+  },
+  {
+    "name": "Kala Money",
+    "slug": "kala-money-9594c",
+    "description": "Programmable stable coins that are not pegged 1:1 to fiat, but to real-world purchasing power",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EIDOLON",
+    "slug": "eidolon-f351g",
+    "description": "Earn Uniswap fees without locking funds. Your wallet is the liquidity pool.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "QU!D",
+    "slug": "qu-d-qtr04",
+    "description": "yield-optimised stable basket: trades against ETH, re-balances based on a custom prediction market",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnChainDrips",
+    "slug": "onchaindrips-6oc73",
+    "description": "NFC-enabled merch that mints into NFTs, proves attendance, enables trading, and powers networking.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SettleKit",
+    "slug": "settlekit-wmiv8",
+    "description": "Autonomous agent for risk-aware cross-L2 settlement using Arc as a USDC liquidity hub.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unizwap",
+    "slug": "unizwap-aeja5",
+    "description": "Privacy-preserving Uniswap v4 hook with ZK-proof swaps, liquidity provision & withdrawals",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "onchain-subscription",
+    "slug": "onchain-subscription-fe4zq",
+    "description": "Subscriptions on Ethereum that renew only with cryptographic user consent.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS Proof-of-Usage",
+    "slug": "ens-proof-of-usage-0q2xn",
+    "description": "Deterministic ENS-aware proof-of-usage for DeFi incentives and airdrops.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "House Protocol",
+    "slug": "house-protocol-wratk",
+    "description": "Lets anyone be the house, plug in liquidity for betting games, and play provably fair bets.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "NitroLink",
+    "slug": "nitrolink-0q30d",
+    "description": "NitroLink⚡️: Zap funds from any chain, stream them instantly, and settle globally. Trust Solved!",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "flowstate",
+    "slug": "flowstate-6ocp5",
+    "description": "AI Agent automating Uniswap swaps & ENS-based batch payroll on Arc Network.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Invoice Financer",
+    "slug": "invoice-financer-ur44v",
+    "description": "Invoice financing for SMBs using accounts receivable (invoices) as loan collateral.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RMLoans",
+    "slug": "rmloans-dh7z9",
+    "description": "A 0% APR DeFi loans in local stablecoins using USDC as collateral",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yieldo",
+    "slug": "yieldo-kf6fb",
+    "description": "Find Better Yield. Curated vaults + risk signals. One-tap deposits across chains.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CircEveryBid",
+    "slug": "circeverybid-4add3",
+    "description": "Private Continious Clearing Auctions with dynamic MPS optimization & cross-chain deposits",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "QuantumPools",
+    "slug": "quantumpools-n2s8h",
+    "description": "Hardened by Dilithium, verified by ZK-SNARKs, and protected by FHE",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Veil",
+    "slug": "veil-qj7ot",
+    "description": "Multi-chain wallet built for privacy. With New identity, Swap, send, & Connect. With ZERO footprint.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Minestarters",
+    "slug": "minestarters-yesy5",
+    "description": "Invest in mine exploration, before mining begins | Tokenized Finance for Real World Mining Assets.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "arctan(x)",
+    "slug": "arctan-x-vyjkm",
+    "description": "chain-agnostic institutional-grade stablecoin forex-pair perpsDEX with margin rehypothecation",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "DSC Engine",
+    "slug": "dsc-engine-4h71c",
+    "description": "Decentralized stablecoin protocol with collateralized debt positions and Chainlink price oracles",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ethersite",
+    "slug": "ethersite-tku6w",
+    "description": "ENS-native platform for AI gen websites, pay links, and gated articles.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ZBRICKS",
+    "slug": "zbricks-z42cs",
+    "description": "Live on-chain auctions for real estate launches with transparent price discovery",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnCuLT",
+    "slug": "oncult-on2yy",
+    "description": "OnCuLT is an Ethereum-native social commerce and programmable payout platform for live events.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tip FLow",
+    "slug": "tip-flow-hbnh4",
+    "description": "Tip-Flow is a Dapp designed to enable frictionless, gasless micro-tipping for content creators.",
+    "event": "HackMoney 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "StabiFi",
+    "slug": "stabifi-3g91g",
+    "description": "Stablecoins-as-a-Service: deploy custom pegged tokens with shared risk & collateral",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SolvencyProof",
+    "slug": "solvencyproof-wft14",
+    "description": "Zero-knowledge proof that assets exceed liabilities—on-chain solvency for Ethereum.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Basket",
+    "slug": "basket-1jhw5",
+    "description": "Basket: stablecoin-as-a-service for the creation of compliant, oracle-backed stablecoins",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Palindrome Pay",
+    "slug": "palindrome-pay-7pnmq",
+    "description": "Buy Amazon Gift Cards with Crypto with Palindrome Fox Chrome Extension",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HarborYield",
+    "slug": "harboryield-uifj0",
+    "description": "Harbor Yield - the first cross-chain RWA portfolio builder with a built-in privacy layer",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verifiable Web",
+    "slug": "verifiable-web-4nnmi",
+    "description": "On-chain verification of dApp(Defi) web interfaces to prevent tampering and forgery.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrivyFlow",
+    "slug": "privyflow-ez5pv",
+    "description": "MEV-resistant dark pool DEX on Uniswap v4 using commit-reveal",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniStart AI",
+    "slug": "omnistart-ai-3vcqq",
+    "description": "OmniStrat AI: Unified AI agent for seamless, multi-step DeFi strategies across chains.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hodlock",
+    "slug": "hodlock-i99j2",
+    "description": "On-chain CDs on Base. 100% principal protected. Earn from early exit penalties.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayLoop",
+    "slug": "payloop-k0e0f",
+    "description": "A Buy Now Pay Later system that allow merchants to capture payments in recurring way from users",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Panic Protocol",
+    "slug": "panic-protocol-2o6w4",
+    "description": "Panic Protocol is an emergency stop for compromised wallets that sweeps your assets to safety.",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Karmatrust",
+    "slug": "karmatrust-qitka",
+    "description": "Credit infrastructure for TradFi & DeFi - VCSM with real ZK proofs, bridging $100B+ market gap",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Magnee",
+    "slug": "magnee-dude7",
+    "description": "Cross-chain payments interceptor and router in a form of a browser extension",
+    "event": "HackMoney 2026",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "1nz66",
+      "bw7y9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "DeFi risk-analysis",
+    "slug": "defi-risk-analysis-3a5no",
+    "description": "Interaction with Uniswap v4 protocol to protect LPs from LVR liquidity attack",
+    "event": "HackMoney 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

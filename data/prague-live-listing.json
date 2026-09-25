@@ -1,0 +1,2024 @@
+[
+  {
+    "name": "BlockscoutLite",
+    "slug": "blockscoutlite-70gb3",
+    "description": "A lite version of Blockscout without some of the complex stuff",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mosaic Receipt",
+    "slug": "mosaic-receipt-5z0o5",
+    "description": "Extension that generates Mosaic image based on the nature and type of transactions",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrueLens",
+    "slug": "truelens-40d1x",
+    "description": "TrueLens: AI-powered multi-chain news verification system with Hedera consensus, vlayer & Pyth",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decycle",
+    "slug": "decycle-ke8bj",
+    "description": "A smart trash can that automatically separates garbage and rewards users who recycle with tokens",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "HouseFly",
+    "slug": "housefly-c14xh",
+    "description": "Home search. Fixed forever using the power of verified IDs and private storage",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK-Loans",
+    "slug": "zk-loans-9se3h",
+    "description": "A protocol for uncollateralized lending, harnessing cross-chain reputation backed by zk-proofs.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "SkillSphere",
+    "slug": "skillsphere-ttvsc",
+    "description": "SkillSphere enables a freelancers marketplace with strong task completion guarantees and rewards.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "CowDAO",
+    "slug": "cowdao-t36g2",
+    "description": "Bet on real-world cows with dynamic NFTs, farm data, and prediction markets in the CowDAO universe.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Party On",
+    "slug": "party-on-13bxq",
+    "description": "Party On is on-chain social and event management app, where your plans and people click.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LockBlock",
+    "slug": "lockblock-mxtfh",
+    "description": "Infinite play-to-earn 2d platformer with community made maps",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sophos",
+    "slug": "sophos-a3fjg",
+    "description": "A decentralized platform for betting on live chess moves using ZKP and state channels.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Contragent",
+    "slug": "contragent-8x0c9",
+    "description": "Contragent is an AI-powered autonomous crypto trading agent.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "ByteQueryProtocole",
+    "slug": "bytequeryprotocole-jredy",
+    "description": "Privacy-Preserving DAO Data Queries with TEE and Akave storage",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MemoryPlus",
+    "slug": "memoryplus-m99vs",
+    "description": "AI-powered Telegram bot with memory storage + multi-chain token data from Ethereum, Flow, Rootstock",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "blockhead.vision",
+    "slug": "blockhead-vision-5gs42",
+    "description": "See what's onchain. A modern, local-first block explorer with a real-time 3D visualization.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "a-proof",
+    "slug": "a-proof-a3erk",
+    "description": "Services' marketplace where privacy is taken much more seriously then it should've ever been",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Evil Megacorp Auth",
+    "slug": "evil-megacorp-auth-8y2jw",
+    "description": "FaceScan Auth Login / Sign Up system, minting stylized NFTs as access keys.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlipOrFlow",
+    "slug": "fliporflow-pdaw1",
+    "description": "Trading and Gamified Collectibles, with Verifiable Randomness onchain",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LieAbility",
+    "slug": "lieability-50wq5",
+    "description": "Verify authenticity in interviews using facial, speech, and cryptographic analysis.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Airspace",
+    "slug": "airspace-xqmd3",
+    "description": "AirSpace is building the first marketplace to buy, sell, and lease air rights",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SmartShoppie",
+    "slug": "smartshoppie-dx0jp",
+    "description": "This project combines a simple smart contract with a Web3-enabled React e-commerce frontend.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trade Layer",
+    "slug": "trade-layer-4q9d3",
+    "description": "Yellow-powered seamless trading with swipe mechanics for rapid positions",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "Vaultify",
+    "slug": "vaultify-cw3ow",
+    "description": "Send time-locked or instant messages, media & tokens with full ownership.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "WorldStream",
+    "slug": "worldstream-r4bss",
+    "description": "Streaming application inside the worldcoin app with verified humans",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "FusionPlusTON",
+    "slug": "fusionpluston-uzsox",
+    "description": "Extension for 1inch Fusion+ supporting TVM - TON Virtual Machine.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ontology",
+    "slug": "ontology-fsn3g",
+    "description": "Ontology turns every data-labeling task into a crypto micro-bounty",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FlashBid",
+    "slug": "flashbid-4vwk2",
+    "description": "Trustless auctions with zero gas bidding via ERC-7824 state channels.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TKNZD_MARKET_P",
+    "slug": "tknzd-market-p-axsvn",
+    "description": "Tokenized marketplace for real assets with decentralized financing and AI-based verification.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Consentoi",
+    "slug": "consentoi-nw4yr",
+    "description": "Control your captured image. Consent, blur, & receive payments via World ID",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vebay",
+    "slug": "vebay-ndj7v",
+    "description": "Second hand shop with verifiable time and price of purchase",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LayerGreen",
+    "slug": "layergreen-7r9p2",
+    "description": "Flare users can now view their onchain carbon emissions, and offset them with Toucan carbon credits",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Reloop",
+    "slug": "reloop-j4ezj",
+    "description": "We're building the Stripe for Web3—simple, automated crypto subscriptions for users and creators.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Domain Airdropper",
+    "slug": "domain-airdropper-8gwru",
+    "description": "Permissioned airdrop platform using vlayer email proofs for domain-based NFT distribution",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "GatedPools",
+    "slug": "gatedpools-v7n4q",
+    "description": "Permissioned UniV4 pools for DAOs—access granted via vLayer email-domain ZK proofs",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Discovery Roulette",
+    "slug": "discovery-roulette-xf1mm",
+    "description": "🎰 Discover amazing websites through blockchain roulette! Built on Flow EVM with 10s cooldown.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "vGrant",
+    "slug": "vgrant-xuoxs",
+    "description": "Automates dev payments on open source issue merge with zk-proof, no delays or approvals.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "8inch",
+    "slug": "8inch-o3wq7",
+    "description": "EVM <-> APTOS Cross-Chain intent-based swap powered by Fusion+",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Predict Yield",
+    "slug": "predict-yield-p6huf",
+    "description": "DeFi yield prediction markets on Flare - stake $FXRP, bet on yields, win with verifiable randomness",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "ChronoTrade",
+    "slug": "chronotrade-yoxnf",
+    "description": "ChronoTrade is a platform where users trade services using TIME tokens, each representing one hour.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Wallet Warden",
+    "slug": "wallet-warden-yav9z",
+    "description": "Web3 reputation tracker analyzing Ethereum addresses using 7+ Blockscout APIs for security.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Unlloo protocol",
+    "slug": "unlloo-protocol-sjdnp",
+    "description": "Reputation matters — Unlloo rewards good behavior with trust, status, and DeFi access.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "noScalp",
+    "slug": "noscalp-p00z2",
+    "description": "A ticket-selling platform for social events where only verified users can purchase NFT tickets.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": ":bitogochi",
+    "slug": "bitogochi-bcvx9",
+    "description": "A playful Web3 pet on the surface — a limitless hardware-to-chain engine underneath.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "dkzkp",
+      "8kguf"
+    ]
+  },
+  {
+    "name": "SAM",
+    "slug": "sam-qhmbp",
+    "description": "AI voice assistant application to  make your onchain transactions seemlesly. Multi and Cross Chain",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossChainer",
+    "slug": "crosschainer-bdcdz",
+    "description": "Allows Flow's Cadence fungible tokens to be traded using 1inch fusion+",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "HTLC AVM-EVM",
+    "slug": "htlc-avm-evm-vqxg8",
+    "description": "Production ready HTLC solution for AVM, fit for purposes of 1inch",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "$tayRich",
+    "slug": "tayrich-a2fxp",
+    "description": "Yield-generating group booking mini-app, leveraging zk-anticipated payments",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NanoPools",
+    "slug": "nanopools-xg5gs",
+    "description": "On-chain micro-pools for collective funding with escrow logic and optional World ID verification.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "𝐃𝐔𝐒𝐓.𝐎𝐏𝐒",
+    "slug": "dust-ops-uk2n7",
+    "description": "DUST.OPS is a token sweeper that declutters your wallets and ghosts your exit.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "WalletPersonhood",
+    "slug": "walletpersonhood-yrbrz",
+    "description": "A simple personhood verification system to verify wallets on-chain",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IWasThere",
+    "slug": "iwasthere-af5us",
+    "description": "NFTs as proof of participation in real time events, made easy for web2 normies",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FILMFUND WORLDCOIN",
+    "slug": "filmfund-worldcoin-1k3zo",
+    "description": "FilmFund.eth: Worldcoin-powered film voting & reviews platform.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cha-Ching",
+    "slug": "cha-ching-q4wuw",
+    "description": "Cha-ching: reward open-source devs in crypto the moment PRs are merged—no signups, just cha-ching!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZkDev",
+    "slug": "zkdev-mhsuv",
+    "description": "Verify your code contributions across projects—anonymously and trustlessly using ZK",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wrld Map",
+    "slug": "wrld-map-v64h2",
+    "description": "WrldMap: Your Globe, Verified! zk-proven travel tracker for unique humans on WorldChain.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "8kguf",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "DeCom",
+    "slug": "decom-d6zdm",
+    "description": "ERC4626 vault for decentralized companies that allows shares management and fundraising",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "TrustworthyTransfers",
+    "slug": "trustworthytransfers-jgn06",
+    "description": "Peer to peer transfers with wise. Verified by Flare data connector.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Goldman Stacked",
+    "slug": "goldman-stacked-xr505",
+    "description": "AI council vets cross-chain DAO proposals with quadratic voting and blocks whale attacks",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "Mini",
+    "slug": "mini-4k2i8",
+    "description": "Stealth payments mini app for World Chain using ZK, with benefits for verified humans.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yetris",
+    "slug": "yetris-czm88",
+    "description": "Yetris allows for you to prove you're the best tetris player in the world, on chain",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PingPay",
+    "slug": "pingpay-vdknr",
+    "description": "Micro-payment gateway for API services utilizing x402: Internet-native payments",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "Sisifos",
+    "slug": "sisifos-rkbg9",
+    "description": "Sisifos, a lightweight but powerful system that tracks and rewards participation across blockchains",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "CapyData",
+    "slug": "capydata-2chkj",
+    "description": "Capydata is a gamified way to earn and learn about your data with AI",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Trust Bazaar",
+    "slug": "trust-bazaar-a6fiu",
+    "description": "Trust-based P2P marketplace using World ID, Smart contract escrow and Blockscout merits",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "goulHash",
+    "slug": "goulhash-19gnf",
+    "description": "PoC to enable swaps between EVM chains and Cardano in Fusion+",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "MoleSwap",
+    "slug": "moleswap-a7w12",
+    "description": "Cross-chain swap from TON to Ethereum using 1inch Fusion+ & BlockScout tracking",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "wallet-migrator",
+    "slug": "wallet-migrator-ndcru",
+    "description": "Migrate your assets from wallet to wallet or chain to chain with one click",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "DegreeVault",
+    "slug": "degreevault-o531j",
+    "description": "A decentralized credential vault for students and institutions.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoSumo",
+    "slug": "cryptosumo-ysfmh",
+    "description": "CryptoSumo is a game widget with on-chain actions right from your social feed",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "WStack3",
+    "slug": "wstack3-v2183",
+    "description": "DeFi app with PHP, JS, Web3, 1inch, Server-Side API Proxy Architecture, and API calls aggregator.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DED0",
+    "slug": "ded0-32u9m",
+    "description": "Decentralized Event-Driven Oracles to fuse onchain and offchain signals with AI for automated DeFi",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainChat",
+    "slug": "chainchat-86wyi",
+    "description": "AI chatbot for querying Ethereum blockchain data using natural language",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "YellowScout Explorer",
+    "slug": "yellowscout-explorer-krg94",
+    "description": "Blockscout Explorer for Yellow with a backend in go to fetch data.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "Prompt Genius",
+    "slug": "prompt-genius-tv801",
+    "description": "A platform where creators generate AI images using prompts and players try to guess the prompt",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "RSM Perpetuals",
+    "slug": "rsm-perpetuals-p70wp",
+    "description": "Trade dominance with perpetuals. Zero-sum P&L, Pyth oracles, live on Arbitrum. Built at ETH Prague.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "OmniBet",
+    "slug": "omnibet-m5eu9",
+    "description": "Omnichain prediction markets + AI-generated NBA bets. Swipe to win NFTs tied to real merch!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "VectorPlus",
+    "slug": "vectorplus-p8qg3",
+    "description": "Options on order execution rights + volatility-aware TWAP execution for 1inch limit orders",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "0xCollateral",
+    "slug": "0xcollateral-wc4iq",
+    "description": "Anonymous and permissionless use of your Web2 creditworthiness to borrow Web3 assets.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "92qx9",
+      "8kguf",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Fidora",
+    "slug": "fidora-qc59b",
+    "description": "Decentralised reputation system that tracks and scores the credibility of X users",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "DAFO",
+    "slug": "dafo-uff52",
+    "description": "Decentralized Autonomous Financial Organization (DAO for Meme coins investment)",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CypherShare3",
+    "slug": "cyphershare3-xiq8q",
+    "description": "Secure, decentralized file exchange between wallets with identity proof via blockchain.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Syntheos Atomic Swap",
+    "slug": "syntheos-atomic-swap-m2s4i",
+    "description": "VaultOS with Atomic Swap with 1inch Fusion+. Breaking down the walls between EVM and Solana.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GasDash",
+    "slug": "gasdash-g19jp",
+    "description": "GasDash—live Hedera fee report; paste account ID, click once, see costs in HBAR + USD",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EasyWallet",
+    "slug": "easywallet-x4rj5",
+    "description": "A beginner-friendly MOBILE web app crypto wallet wrapper with insights, risk tools, and token swaps.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlareX",
+    "slug": "flarex-1wsbv",
+    "description": "A sleek DeFi hub for FTSO, FAssets, and RNG with live metrics, staking, and real-world apps.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "QuantumLeap  ❇️",
+    "slug": "quantumleap-r31vu",
+    "description": "Automated multi-chain OHCLV data to optimized, risk-adjusted DeFi portfolio suggestions.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Revertilo",
+    "slug": "revertilo-g5xxv",
+    "description": "Blockchain debugging tool to simplify the analysis and troubleshooting of transaction reverts",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "FlareEnough",
+    "slug": "flareenough-eznvs",
+    "description": "Event-Based Options Trading Platforme. Options are only traded if your event occurs",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2ugg8",
+      "8kguf"
+    ]
+  },
+  {
+    "name": "AgriCult",
+    "slug": "agricult-giozt",
+    "description": "On-chain Dutch auction platform for verified organic producers to sell their goods at fair prices",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uncle",
+    "slug": "uncle-ii6o8",
+    "description": "Excluded from credit? Uncle helps you borrow and grow your score, one payment at a time.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Zappmint",
+    "slug": "zappmint-mm73p",
+    "description": "Turn any idea into a tokenized mini app using AI — built, deployed, and shared in seconds.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Gas Analyser",
+    "slug": "gas-analyser-m7whu",
+    "description": "A web-app using Blockscout to analyze gas spending, tx patterns & estimate location from activity.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Tickets",
+    "slug": "tickets-rabar",
+    "description": "The end of ticket fraud; event access, reimagined; simple, secure, seamless with World ID.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ajna 🧿",
+    "slug": "ajna-25byf",
+    "description": "Spiritual oracle app using World ID to unlock a unique AI-generated message of consciousness.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Kairos",
+    "slug": "kairos-75wyr",
+    "description": "Cross-chain DeFi investing, simplified by AI. No hopping around chains, no missed opportunities.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "gm",
+    "slug": "gm-e0rim",
+    "description": "Terminal based wallet written in Rust with features like smart address book",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "D&AI",
+    "slug": "d-and-ai-gqs8u",
+    "description": "A web3 in-chat game inspired by D&D and powered by Hedera blockchain and AI",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proximity",
+    "slug": "proximity-04v6e",
+    "description": "A proximity proof, protocol & native app that enables mobile device wireless contract interaction.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "SE-2 + Blockscout",
+    "slug": "se-2-blockscout-tz3p2",
+    "description": "Scaffold-ETH enhanced with Blockscout SDK, showcasing real-time blockchain transaction notification",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "NeuraLend",
+    "slug": "neuralend-2etcf",
+    "description": "NeuraLend: micro-lending on Rootstock. Use tRBTC as collateral, borrow wUSDC, keep your Bitcoin",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Fundra",
+    "slug": "fundra-ptqmu",
+    "description": "Fundra is a blockchain-based app for launching projects and receiving secure, transparent donations.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smart TWAPer",
+    "slug": "smart-twaper-pr2yi",
+    "description": "Smart TWAPer splits big swaps into secure, automated trades using 1inch and EIP-7702 smart accounts.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "InspectiFI",
+    "slug": "inspectifi-tu6n1",
+    "description": "Ask blockchain questions in plain language and get clear, real-time answers easy to understand!!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "conduct.chat",
+    "slug": "conduct-chat-9kzz0",
+    "description": "AI workflow orchestrator: natural language → multi-agent blockchain execution with smart contracts",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "fjaae",
+      "bdi3h",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Play On",
+    "slug": "play-on-6z9qi",
+    "description": "Play ON is a decentralized app (DApp) that empowers street artists.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mind Your Data",
+    "slug": "mind-your-data-5pyj3",
+    "description": "AI models training while preserving biometric data ownership and privacy.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PropChain",
+    "slug": "propchain-1s1u8",
+    "description": "A comprehensive AI-powered rental management system with fractionalized real estate properties",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Circles Subscriptz",
+    "slug": "circles-subscriptz-tgfhj",
+    "description": "Circles users can now securely, trustlesly & smoothly authorize recurring payments.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "TruDelnik",
+    "slug": "trudelnik-86xvj",
+    "description": "TruDelník: stake crypto, face escalating odds, cash out anytime or lose all—provably fair on-chain.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "2ugg8",
+      "9zj01",
+      "8kguf"
+    ]
+  },
+  {
+    "name": "BEAVII",
+    "slug": "beavii-g7x4r",
+    "description": "AI ETF Portfolio Management suite that’s target user is influencers, fund managers, & Investors.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "Memedici",
+    "slug": "memedici-2d7ax",
+    "description": "Memedici: a metaverse city of AI creators collaborating on art, videos, and digital culture.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "DAOScape",
+    "slug": "daoscape-g8f8m",
+    "description": "Privacy-preserving DAO with reputation-based governance using ZKP. Bringing accountability to DAOs.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Remote",
+    "slug": "remote-913v9",
+    "description": "Access DeFi anywhere: Remote enables one-tx access to any protocol from any chain.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "dkzkp",
+      "fjaae"
+    ]
+  },
+  {
+    "name": "bounties",
+    "slug": "bounties-mpzv7",
+    "description": "zkEmail-verified bug bounty proofs minted as NFT badges on-chain.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "SPQRFi",
+    "slug": "spqrfi-ztc53",
+    "description": "SPQRFi: AI powered DeFi made easy just connect, deposit, and let smart agents grow your funds.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "FlowFit",
+    "slug": "flowfit-ipg12",
+    "description": "FlowFit , A Healthy Habit Builder App on the Flow Blockchain",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SnakeDuel",
+    "slug": "snakeduel-9fywu",
+    "description": "Real-time snake battles. Challenge your friends, stake money, and the winner takes the full prize!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Mini Jackpot",
+    "slug": "mini-jackpot-g7awq",
+    "description": "Decentralized MiniJackpot using Pyth Entropy for secure, verifiable random winner selection.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "chAInomaly",
+    "slug": "chainomaly-1yd8i",
+    "description": "AI-powered blockchain transaction analyzer and visualizations using Google Gemini and D3.js",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "TrustGiveaway",
+    "slug": "trustgiveaway-vpego",
+    "description": "Enable fair and transparent Twitter contests powered by blockchain.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "AccountingOne (A1)",
+    "slug": "accountingone-a1-fk6vt",
+    "description": "AI-powered accounting for freelancers: auto journal entries, crypto tracking, tax-ready reports",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "StreamAid",
+    "slug": "streamaid-nm473",
+    "description": "Make Crypto the First-class Citizen for Live-Stream Donations",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "Panda Trade",
+    "slug": "panda-trade-rzpvb",
+    "description": "AI-powered multi-token trading based on your risk and interests.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "HackerPayoutsBuddy",
+    "slug": "hackerpayoutsbuddy-ipy5d",
+    "description": "The future of hackathon accountability is here. report, track, and verify hackathon prize payouts.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "ZKTap",
+    "slug": "zktap-4br4m",
+    "description": "I'm building the ‘Apple Pay’ of verified truth — except you’re not paying, you’re proving something.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bloxtension",
+    "slug": "bloxtension-dgund",
+    "description": "Easily navigate addresses, transaction hashes and more on the web using blockscout and 1inch.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Coinlaunch",
+    "slug": "coinlaunch-ifqvg",
+    "description": "Coinlaunch: the first Tweet launcher for EVM tokens. Launch with a tweet, earn fees. No insiders.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "CzechOut",
+    "slug": "czechout-bzi3a",
+    "description": "Fastest wallet app where you use face to zkPay and pay without latency.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "Pythora",
+    "slug": "pythora-bee0o",
+    "description": "Pythora: Decentralized agents for secure entropy generation and on-chain Pyth price feed updates.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cosmos RollUp",
+    "slug": "cosmos-rollup-qgojw",
+    "description": "This project comes with an ambitious goal to extent Cosmos hub",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Persona",
+    "slug": "persona-93t7w",
+    "description": "Persona turns user's on-chain activity to verifiable badges on X, powered by Blockscout and vlayer.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "nomad visa app",
+    "slug": "nomad-visa-app-oeuxc",
+    "description": "digital nomad visa application income verification using zkemail",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NoDistraction",
+    "slug": "nodistraction-jovcz",
+    "description": "dApp for increasing your productivity which rewards' you as well. To stay motivated and progress.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "donnut",
+    "slug": "donnut-333a6",
+    "description": "Donnut: Send crypto donations across any chain, creators get USDC. Simple, transparent, and sweet!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "eth4estate",
+    "slug": "eth4estate-mzovg",
+    "description": "Eth4Estate is a Web3 real estate platform targeting the Czech market, built as a two-DApp system",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Average Message",
+    "slug": "average-message-4pwu2",
+    "description": "What real people think: As individuals, and as collect groups!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Compass",
+    "slug": "compass-wswgx",
+    "description": "Compass connects verified (g)local issues with builders and bounties at global hackathons",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lexproof",
+    "slug": "lexproof-7q793",
+    "description": "Blockchain email notary - Private, safe and verifiable emails!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Toxel",
+    "slug": "toxel-d3h05",
+    "description": "Pixel Battle on Flow blockchain: Draw. Battle. Earn. Own pixels in the Web3 world!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reviews for World",
+    "slug": "reviews-for-world-j3sh3",
+    "description": "Human-only reviews: World ID-verified users can leave real, sybil-resistant business feedback.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Acrozz: OptZKBridge",
+    "slug": "acrozz-optzkbridge-tgpfi",
+    "description": "Optimistic ZK Bridge: using a mix of features to achieve Fastest, Cheapest and Safest Bridging",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "92qx9",
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "OnlyPass",
+    "slug": "onlypass-r4s07",
+    "description": "A human-verified ticketing platform leveraging proof of personhood and blockchain-backed tickets.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Replay",
+    "slug": "replay-ur2df",
+    "description": "Composable provenance and attribution graph for AI agents—traceable, replayable, and rewardable.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "BuildAhead",
+    "slug": "buildahead-ksh7t",
+    "description": "AI-powered construction delay predictor with on-chain transparency and cross-chain data oracles.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scorify",
+    "slug": "scorify-0qn4v",
+    "description": "Scorify is a challenge app where users create, share, and complete real-world challenges",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TradeFlow",
+    "slug": "tradeflow-domu6",
+    "description": "Decentralized order system with merit rewards, flash loans, and Pyth price feeds.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "OmniSynth",
+    "slug": "omnisynth-sfp75",
+    "description": "Cross-chain synth on/offramp using LayerZero + ZK proofs + state channels hub",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeepThought",
+    "slug": "deepthought-95u82",
+    "description": "DeepThought: AI-powered WhatsApp bot that makes Web3 interactions as easy as chatting with a friend.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Syndicates",
+    "slug": "syndicates-vn8bb",
+    "description": "Telegram bot for token-gated investing via group voting and automated execution",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "REVIEWs",
+    "slug": "reviews-dryvi",
+    "description": "A World ID powered review platform for genuine reviews and ratings by authentic humans.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "8kguf"
+    ]
+  },
+  {
+    "name": "RSK Attestor",
+    "slug": "rsk-attestor-d4wpw",
+    "description": "RSK Attestor introduces a new financial primitive: decentralized credit scores",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Change.WLD",
+    "slug": "change-wld-br8mx",
+    "description": "Share your petition and be sure that every signature is given by a real human being!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BLUMFI",
+    "slug": "blumfi-c63vu",
+    "description": "A platform offering blockchain-based courses and credentials for lifelong skills.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Memora",
+    "slug": "memora-3hcfg",
+    "description": "Memora transforms personal memories into permanent, immersive Memory NFTs",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "RockOffChain",
+    "slug": "rockoffchain-qoqv3",
+    "description": "A whimsical musical duel judged by machine learning, with rewards handled via state channels.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Detox-Hook",
+    "slug": "detox-hook-mppeg",
+    "description": "DetoxHook transforms MEV extraction into LP earnings via Uniswap V4 hooks and Pyth real-time oracles",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "g7h9m",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "MCPay.fun",
+    "slug": "mcpay-fun-y16d3",
+    "description": "MCPay.fun: Pay-per-use APIs! Leveraging x402 and MCP for a new payment web.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "VeriGreen",
+    "slug": "verigreen-haoer",
+    "description": "Onchain Verification for Climate Truth: linking conservation success with modern technology!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "DAO Janny",
+    "slug": "dao-janny-5mmxh",
+    "description": "DAO Janny is DAO Proposal Task Manager for Delegates to coordinate on proposal execution",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "emailBasedVoting",
+    "slug": "emailbasedvoting-1nrct",
+    "description": "Web3 DAO enabling domain-restricted, anonymous voting via ZK email proofs on Base Goerli.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vank Cliff",
+    "slug": "vank-cliff-khvzs",
+    "description": "Vank Cliff - Liquidity Management and Payroll/Vesting System",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Credit Swap",
+    "slug": "credit-swap-dko1u",
+    "description": "Credit Swap helps people buy homes in crypto via peer to peer credit swaps!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "mailproof.net",
+    "slug": "mailproof-net-nt4bz",
+    "description": "Anti phishing / blockchain proof. MAIL Proof – Verify with AI, Secured by Chain",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Interact",
+    "slug": "interact-9qtx7",
+    "description": "Automated real-world actions that let you turn crypto into real-world things, through AI agents.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "Do Nothing",
+    "slug": "do-nothing-ndiey",
+    "description": "How easy it is to do nothing? Let the AI judge your stillness and earn onchain rewards!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pomodoki",
+    "slug": "pomodoki-oomhr",
+    "description": "Pomodoki combines the Pomodoro technique with gamification and a Tamagotchi-style virtual pet",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "mivio",
+    "slug": "mivio-6ukub",
+    "description": "One wallet for instant rewards, cashless payments & real-time analytics at festivals.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5wcw4"
+    ]
+  },
+  {
+    "name": "AnyStake",
+    "slug": "anystake-819mz",
+    "description": "🚀 AnyStake: Cross-chain staking dApp—stake any token on any chain, earn rewards everywhere!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENBANKED",
+    "slug": "enbanked-2ymfv",
+    "description": "A decentralized project where 1.4 billion unbanked can withdraw cash and anyone can become a bank.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "zkMed",
+    "slug": "zkmed-ae3dp",
+    "description": "Privacy-preserving healthcare claims using vlayer Proofs , ERC-7824 sponsored transactions & USDC",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WeSplit",
+    "slug": "wesplit-jsbqa",
+    "description": "Cross-chain bill splitting app with a focus on user experience.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Sharknado Cash",
+    "slug": "sharknado-cash-du1qh",
+    "description": "Like Tornado Cash but more Extreme. Brings Monero Privacy to Ethereum, Ethereum DeFi to Monero",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "zyaqr"
+    ]
+  },
+  {
+    "name": "Propellant",
+    "slug": "propellant-46g6a",
+    "description": "Launch tokens for fans via ZK-proofed engagement — boost loyalty, grow your creator economy.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "No Privacy",
+    "slug": "no-privacy-65n0g",
+    "description": "Demonstrate the potential of leveraging even minimal on-chain data effectively",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Karma Proof",
+    "slug": "karma-proof-f1gdv",
+    "description": "Turning real-world public good into onchain proof and rewards.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "92qx9",
+      "8kguf",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Poly-Block-Reaction",
+    "slug": "poly-block-reaction-ntb6y",
+    "description": "Amplifying DNA, governance, and privacy. Bridging bioinformatics to the blockchain.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TightKnit",
+    "slug": "tightknit-n0cg7",
+    "description": "Our goal is to weave meaningful relationships, so that a trace of them may endure forever.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SubsCrypt",
+    "slug": "subscrypt-dypc4",
+    "description": "SubsCrypt: Private, anonymous on-chain subscription payments via ZK-proofs and EIP-7702 automation.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "OneVault",
+    "slug": "onevault-bh8qp",
+    "description": "Enables Telegram’s 1 Billion users to earn EVM yields on USDT via a LayerZero-powered TON vault.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "dkzkp"
+    ]
+  },
+  {
+    "name": "CeDeFire Vault",
+    "slug": "cedefire-vault-yfg50",
+    "description": "CeDeFire Vault is a non-custodial smart contract help you stake stables, buys assets, earn yield.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Press F",
+    "slug": "press-f-7d5nc",
+    "description": "Tokenize attention. Pay respect to creators. Turn viral tweets into tokens that reward creators.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "42_Email_Protocol",
+    "slug": "42-email-protocol-dvve0",
+    "description": "Verify email authenticity on-chain with vlayer's ZK Email Proofs, ensuring  private interactions",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RightClickExplorer",
+    "slug": "rightclickexplorer-8o49h",
+    "description": "Right-click any wallet to reveal onchain identity, reputation & cross-chain actions.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Bear Market",
+    "slug": "bear-market-r4qym",
+    "description": "A protocol that uses oracles to create synthetic, yield-bearing stock options based on stablecoins",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "zyaqr"
+    ]
+  },
+  {
+    "name": "WalletUX",
+    "slug": "walletux-fey45",
+    "description": "Ever wondered what wallet has the best UX? I created a wallet rating dashboard for that",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FiatNest",
+    "slug": "fiatnest-xyuzu",
+    "description": "A stablecoin-first wallet that feels like a banking app and is so simple, my grandmother can use it",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "syde.fi",
+    "slug": "syde-fi-km8jw",
+    "description": "syde - EVM integration of synthtetic derivatives protocol on ton",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TicTacToe on World",
+    "slug": "tictactoe-on-world-2tfqj",
+    "description": "Play verified-human Tic-Tac-Toe inside World App—powered by World ID in under a minute!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cucumber Moped Bot",
+    "slug": "cucumber-moped-bot-hjhfn",
+    "description": "Cross-chain Telegram trading bot you can trade any token across 9 EVM networks with",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Grass",
+    "slug": "grass-svvf7",
+    "description": "Grass is a fitness verification platform that uses zkTLS to combine health tracking with community",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "92qx9",
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Oracle Beat",
+    "slug": "oracle-beat-r0n20",
+    "description": "Compares oracle data quality & let social layer provide feedback.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "DApp Analytics",
+    "slug": "dapp-analytics-wtp2s",
+    "description": "DApp Analytics tool that helps developers track how users interact with their smart contracts",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BrickFi",
+    "slug": "brickfi-t8v71",
+    "description": "Bricks Fi is a blockchain-based real estate investment platform that helps users grow capital",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Habitat",
+    "slug": "proof-of-habitat-aaaef",
+    "description": "Local-first, private, proximity proofs: prove you’re nearby without sharing your location.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoFood",
+    "slug": "cofood-tp73j",
+    "description": "CoFood: A community DAO funding food for IRL events with sustainable DeFi yields.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Larisa Assistant",
+    "slug": "larisa-assistant-ib53h",
+    "description": "AI tool that explains EVM transactions in any human language using onchain metadata and labels.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Mini Vote",
+    "slug": "mini-vote-k30jj",
+    "description": "Next generation ranked-choice voting via World Mini App to support better democracy",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "PQ KINGS",
+    "slug": "pq-kings-y251k",
+    "description": "Onboard user to AA with wristbands, secure them against Quantum computers with ZKNOX contracts",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "trdelnik.ai",
+    "slug": "trdelnik-ai-8q4r7",
+    "description": "Explore Prague with AI-crafted trips that preserve history and match your unique interests! 🏰✨",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "rizzerve",
+    "slug": "rizzerve-2yhi4",
+    "description": "Treasure-backed token stabilizing market fluctuations impact on savings.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Payworld",
+    "slug": "payworld-oaaec",
+    "description": "A simple Ethereum marketplace I built as a Web3 rookie using Scaffold-ETH to learn the basics.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jailbreakmart",
+    "slug": "jailbreakmart-ek83m",
+    "description": "LLM jailbreak marketplace - prove you know a jailbreak prompt for a given LLM and sell it.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lending Protocol",
+    "slug": "lending-protocol-ar81v",
+    "description": "Multi-purpose real estate tokenisation and trading website.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nocena",
+    "slug": "nocena-7xbri",
+    "description": "Hearth of my SocialFi #chalenge2earn app - human verification checking completed a challenges",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buy and Chill",
+    "slug": "buy-and-chill-s8h2k",
+    "description": "Innovative Always Up DeFi instrument! Reduces ETH and BTC volatility. Not financial advice. DYOR!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrustBuddy",
+    "slug": "trustbuddy-zu2zs",
+    "description": "Trustpilot but for People (Telegram/Twitter/LinkedIn) to reward trust and avoid scammers.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2ugg8",
+      "8kguf"
+    ]
+  },
+  {
+    "name": "coinscope",
+    "slug": "coinscope-7oo3z",
+    "description": "Real-time onchain token prices, completely decentalized with RPC events",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainFlash Pro ⚡",
+    "slug": "chainflash-pro-tpwb3",
+    "description": "ChainFlash Pro is a revolutionary cross-chain high-frequency trading platform",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5wcw4",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "cash out",
+    "slug": "cash-out-5bngg",
+    "description": "unlocking instant liquidity for freelancers & SMEs using zk powered by vLayer",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ggpyp"
+    ]
+  },
+  {
+    "name": "Proofs of Inference",
+    "slug": "proofs-of-inference-6rug4",
+    "description": "Zero-knowledge ML proofs marketplace: request, verify, and pay for private, auditable AI inference.",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "PeerDOS",
+    "slug": "peerdos-9etbu",
+    "description": "MVP retro terminal inspired app with a unified ui/ux to perform all tasks web3 related",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "SwapLite",
+    "slug": "swaplite-pxx3y",
+    "description": "A Lite SDK/CLI for cross chain swaps between ethereum chains and solana",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "yellow.fun",
+    "slug": "yellow-fun-m4vgw",
+    "description": "Faster, cheaper, and EVM-secured alternative for pump.fun, built using ERC7824",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prorosca",
+    "slug": "prorosca-gnd6n",
+    "description": "Peer-to-Peer Lending Circles for Funding Your Next Startup Idea",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "BuzzMint",
+    "slug": "buzzmint-8ndt1",
+    "description": "AI-powered NFT minting platform with cross-chain swaps and decentralized Swarm storage integration",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Starkhero",
+    "slug": "starkhero-ve6td",
+    "description": "Gamified journey turning contributors into maintainers with StarkHero achievements!",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "who do u think ur?",
+    "slug": "who-do-u-think-ur-kx5an",
+    "description": "Rust implementation of MAYO Signature Scheme (NIST-recommended Quantum Resistant Signature)",
+    "event": "ETHGlobal Prague",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

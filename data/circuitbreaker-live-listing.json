@@ -1,0 +1,926 @@
+[
+  {
+    "name": "Futuristic-zk-DAO",
+    "slug": "futuristic-zk-dao-aqsny",
+    "description": "Community and privacy are at the heart of web3 ecosystem. So, I have built a zero knowledge dao application where users can join and create daos and find people according to their interests.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IronPay (with SDK)",
+    "slug": "ironpay-with-sdk-ozyp6",
+    "description": "\"IronPay: Empowering merchants with seamless integrations! Create a payment gateway with IronfishButton, effortlessly manage their online store, and gain insights into product sales and revenue. Seamlessly bridge between Sepolia and Ironfish testnet for secure transactions.\"",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "cycii"
+    ]
+  },
+  {
+    "name": "Voter",
+    "slug": "voter-ks1zb",
+    "description": "Smart Wallet  with the help of which we can deposit, send and withdraw the asset",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Juice",
+    "slug": "juice-f66kv",
+    "description": "Juice is a evm rollapp created using Dymension. Juice also uses Avail as a Data Availability layer",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OmniGovern-DAO",
+    "slug": "omnigovern-dao-n775q",
+    "description": "OmniGovern is on a mission to erase the complications intrinsic to managing multi-chain DAOs. It aspires to be a one-stop platform where users can effortlessly propose, debate, and vote on decisions, irrespective of their operational blockchain network.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CFP",
+    "slug": "cfp-fqbpu",
+    "description": "\"Crowdfunding Smart Contract on Ethereum - A decentralized fundraising solution enabling contributors to support projects. Secure, transparent, and automated. Set goals, track contributions, and ensure refunds if goals aren't met. #Blockchain #SmartContracts #Crowdfunding\"",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Whitelist Factory",
+    "slug": "whitelist-factory-0w9py",
+    "description": "whitelist smart contract for subscription without revealing users address or collections",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "chaum pedersen",
+    "slug": "chaum-pedersen-gp8nf",
+    "description": "The Chaum-Pedersen protocol is a cryptographic method ensuring verifiable and confidential electronic voting.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOConnect",
+    "slug": "daoconnect-6jor6",
+    "description": "Introducing DAOConnect: Simplifying DAO creation & management with seamless governance and transparent tokenomics. Join Bandada groups securely. Redefining decentralized collaboration.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pxs8d"
+    ]
+  },
+  {
+    "name": "zkFil",
+    "slug": "zkfil-rr64u",
+    "description": "zkFil, utilizing Zero Knowledge Proofs, fortifies service provider identities for any DataDAO.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrivChainEx",
+    "slug": "privchainex-ohoh3",
+    "description": "Our platform facilitates trading between tokenized assets using interoperable private chains with a ZK bridge, paving the way for a new era of secure and efficient financial transactions.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "Myriad",
+    "slug": "myriad-ikrgt",
+    "description": "Myriad is a new approach towards having actual fun with DAOs. It is a platform that allows you to create and participate in DAOs and also take them to Farcaster Frames which add a new layer of fun and excitement to the DAO experience.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Wavecoin",
+    "slug": "wavecoin-fnnz6",
+    "description": "WaveCoin stands as an exemplary ERC20-based DeFi coin, offering an extensive array of utilities designed to empower its users and foster financial inclusivity.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Edith Distance Noir",
+    "slug": "edith-distance-noir-jnyxg",
+    "description": "Zero Knowledge Circuit in Noir to Calculate Edith Distance between 2 strings",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZkAuctiSphere",
+    "slug": "zkauctisphere-8rwnu",
+    "description": "ZkAuctiSphere revolutionizes auctions with zkSync's fast, cheap transactions, combining web3 security with web2 simplicity, and features like stablecoin fees, multicalls, and one-click buys.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Frenzie.fun",
+    "slug": "frenzie-fun-7rn5g",
+    "description": "At events, scanning QRs can be cumbersome with varying apps. Imagine a unified platform for connections, offering optional Web3 logs for interactions. Plus, commemorate meetings with attestations, NFTs, or permanent records.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "prezkription",
+    "slug": "prezkription-mbb4r",
+    "description": "Privacy-first healthcare web app for verifiable international prescriptions",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Discovery Donar",
+    "slug": "discovery-donar-qfnhb",
+    "description": "Empowering academic funding via email-based transactions. Easily allocate funds to authors and contributors of research papers. Secure, transparent, and accessible. 🎓💸",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK-Med",
+    "slug": "zk-med-s2hmm",
+    "description": "Ensure trust in online medicine purchases with our ZKP-powered solution, verifying the authenticity of prescriptions for safer, reliable healthcare.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PlatformDAO",
+    "slug": "platformdao-rswd9",
+    "description": "PlatformDAO redefines subscriptions, letting users vote on service features for platforms like Twitter, YouTube, and Twitch; gaining advantages over what they pay.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentralBraind",
+    "slug": "decentralbraind-y23bm",
+    "description": "DecentralBrain is Kahoot-like quiz game on blockchain that provides you to create your quiz contracts and share it with your friends.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeroBin",
+    "slug": "zerobin-nuw0y",
+    "description": "A sybil account checker that preserves the privacy of the user",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MINAPolis",
+    "slug": "minapolis-dcnky",
+    "description": "he city-building arcade game on the MINA blockchain that brings strategic gameplay to new heights. Prepare to embark on an adventure where every move you make shapes the destiny of your burgeoning city—all while preserving your privacy with zero-knowledge proofs.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Annon Aadhaar",
+    "slug": "annon-aadhaar-sbbcd",
+    "description": "A simple example of Anon Aadhar for using vote, review and many more.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "framava",
+    "slug": "framava-p8fqr",
+    "description": "A simple fun use case: Farcaster frame your ethereum attested strava activity.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nothing",
+    "slug": "nothing-94vgb",
+    "description": "Something cool idea we are working on and will be in field of UX",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EVMTrace",
+    "slug": "evmtrace-z6vh8",
+    "description": "EVMtrace aims to shed light on adopting cryptography on chains. Collecting data with techniques like tracing, tracking precompiles, pattern recognition, and manual works. EVMtrace provides a user-friendly dashboard and etherscan-like tools.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "wasmSNARK",
+    "slug": "wasmsnark-jv0wh",
+    "description": "A IVC SNARK implementation based on the Fold scheme, capable of running insde a browser based p2p network, support continuation and parallelization.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "your-data",
+    "slug": "your-data-kaj5w",
+    "description": "Scroll Sepolia Testnet - ERC20 staking app. This app will allow users to stake a token and earn a reward token in return",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3BD",
+    "slug": "3bd-tx1mh",
+    "description": "3BD is a markeplace protocol for blind sided deeds which enable the user to colaterlize thwir assets without revealing what their assets are",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zk-geo",
+    "slug": "zk-geo-5rfdt",
+    "description": "Introducing zk-Geo: A privacy-first solution leveraging zero-knowledge proofs to verify your location without revealing exact coordinates. Perfect for secure check-ins and geo-based services, ensuring privacy and trust.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BreakerCircuit",
+    "slug": "breakercircuit-goghr",
+    "description": "Project Submission for Circuit Breaker Hackathon by ETH GLOBAL",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "maci-subgraph",
+    "slug": "maci-subgraph-89h7c",
+    "description": "A subgraph to index data from MACI protocol to serve as data layer for frontend integration",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pxs8d"
+    ]
+  },
+  {
+    "name": "ZK Medical Billing",
+    "slug": "zk-medical-billing-1m4ra",
+    "description": "Track, trace and record work orders, invoices and receipts for medical diagnostic labs using zero knowledge proofs on Polygon zkEVM and Scroll, analytics and validation tools on Bandada and Sindri , custom rollapps on Avail, ZK email wallet and Web3 ecosystem tools on Aztech.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "POAP Manager",
+    "slug": "poap-manager-8k9ph",
+    "description": "The POAP Manager DApp, powered by Bandada, simplifies POAP token and group management",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Luna",
+    "slug": "luna-azng8",
+    "description": "Luna is an On-Chain Non-custodial Wallet that even your grandma can use it",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnonUBI",
+    "slug": "anonubi-bd8xg",
+    "description": "Introducing Anon UBI: A revolutionary platform leveraging Scroll & Anon Aadhaar for secure, privacy-first Universal Basic Income distribution. Claim your ETH anonymously, fostering financial inclusion & privacy. #BlockchainForGood #Privacy #UBI",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unknown Finance",
+    "slug": "unknown-finance-e24oc",
+    "description": "Checking your credit score using your email to allow credit delegation from your peers",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Coffe Monsters",
+    "slug": "coffe-monsters-h2sp0",
+    "description": "Hey there, caffeine junkies and crypto enthusiasts! Buckle up, because we're about to launch the most exhilarating event of the year on the Starknet blockchain: \"Coffee Crisis\" Forget your usual coffee run; this is where the real buzz is at!",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Project Maya",
+    "slug": "project-maya-s58p5",
+    "description": "Command line tool to generate and verify correct image transformations",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Urban Odyssey",
+    "slug": "urban-odyssey-d0vor",
+    "description": "An immersive, collaborative play-to-earn game invites players to step into the roles of two visionary factions: the EcoGuardians,  and the TechnoMads, pioneers of advanced digital infrastructure and smart city solutions.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "DA-DeFi",
+    "slug": "da-defi-jv6je",
+    "description": "A zk-rollup DeFi Dapp seamlessly integrated into the appchain",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "910t9"
+    ]
+  },
+  {
+    "name": "ZK Timeline",
+    "slug": "zk-timeline-84fxd",
+    "description": "This project ensures your social media feed is personalized by verified AI rankers, not government-controlled. Using Scroll, we deploy these rankers, tailoring timelines to individual user traits.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Covenant",
+    "slug": "covenant-5rk77",
+    "description": "A platform for onchain agreement and policy management with private and public verifiable cryptographic proofs",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proven",
+    "slug": "proven-n4e42",
+    "description": "Prove characteristics of test environments such as the latest fork version",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkFL",
+    "slug": "zkfl-um0wm",
+    "description": "An interprise product aimed to solve the data issue while training models in industry where data is highly sensitive.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "h0nyy"
+    ]
+  },
+  {
+    "name": "AAV",
+    "slug": "aav-27ybo",
+    "description": "application-specific chain using Karnot/Madara and use Avail DA",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK ≠ Zero Income",
+    "slug": "zk-zero-income-ghssr",
+    "description": "A on-chain proof of income utilizing Zero Knowledge to not divulgate the exact income",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AzMath",
+    "slug": "azmath-t9oa9",
+    "description": "A complex math library with fast fourier transform and some trigonometric functions, along with concerned circuits in Noir.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKupid",
+    "slug": "zkupid-7z8kj",
+    "description": "ZKupid: An anonymous rose exchange on the blockchain using zero-knowledge proofs for Valentine's Day.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BankWim",
+    "slug": "bankwim-xcjqp",
+    "description": "Stake your NFTs as collateral, a complete NFT utility platform",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Activis",
+    "slug": "activis-rwkvx",
+    "description": "A zk Dapp for individuals or groups to organize, collaborate, and advocate for social or political causes in a secure, censorship-resistant manner",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zero to Hero",
+    "slug": "zero-to-hero-95y28",
+    "description": "Zero to Hero is a revolutionary hiring platform. A trust-less system where peer to peer reviewing dynamics are introduced to give peace of mind to both employers and freelancers, the platform uses the best of Zero Knowledge and DeFi, creating a fair system for all participants.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blind Spot Auction",
+    "slug": "blind-spot-auction-zeffz",
+    "description": "The Blind Auction of NFT Art on the Blockchain project is redefining standards in the NFT world, with a focus on addressing two critical issues: unwanted price gouging and biased valuation of digital artworks. It is ZK proof-based.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Twister",
+    "slug": "twister-hqgid",
+    "description": "Transfer tokens privately from 0.001 eth with no maximum limit to one or more accounts.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK BRM",
+    "slug": "zk-brm-q6ifs",
+    "description": "Voting system deployed on Scroll ZK-EVM Blockchain in order to preserve the privacy of voters",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnonFund",
+    "slug": "anonfund-diog1",
+    "description": "Platform for (1) anonymous (2) regulatory-friendly (3) cryptocurrency donations",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "cycii"
+    ]
+  },
+  {
+    "name": "ZKBiometrics",
+    "slug": "zkbiometrics-7e0ef",
+    "description": "ZK powered Biometrics SDK and wallet that makes use of Zero knowledge proofs to grant absolute privacy to signatures and identity.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DataMine",
+    "slug": "datamine-d2d1b",
+    "description": "decentralized data marketplace project that empowers individuals to take control of their data ownership and customers can buy zero custody data",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkCreditScore",
+    "slug": "zkcreditscore-fcao5",
+    "description": "zkCreditScore lets you prove your credit worthiness using zk proofs.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Z-gamer",
+    "slug": "z-gamer-pfkeo",
+    "description": "here is the game where we use random number coming dice roll game where we use qrng random numbers",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zk Op",
+    "slug": "zk-op-rgt7t",
+    "description": "Zero Knowledge OP is a DAPP that collects polls from subject while maintaining subject anonymity and automatically, register a likely vote based on the poll questions.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkGitPerks",
+    "slug": "zkgitperks-9af3e",
+    "description": "zkGitPerks allows GitHub contributors to anonymously enjoy various perks and claim reimbursements on event tickets, travel expenses, and much more",
+    "event": "Circuit Breaker",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pxs8d",
+      "pxs8d"
+    ]
+  },
+  {
+    "name": "RPS (Extended)",
+    "slug": "rps-extended-5zop4",
+    "description": "Creating a rock-paper-scissors game with zero-knowledge proofs! Players privately choose their moves, prove their choice's validity cryptographically, then reveal to determine the winner.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zk-DeSci",
+    "slug": "zk-desci-qsf5f",
+    "description": "ZK + DeSci = Revolutionize scientific research by ensuring participation and privacy",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnonInsight",
+    "slug": "anoninsight-c9ksj",
+    "description": "Conduct rating surveys or polls anonymously on any web3/web2 app using our widget. Protect user privacy while gathering valuable insights!",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Legatus",
+    "slug": "legatus-jnie4",
+    "description": "A regulatory-friendly privacy-preserving layer for DeFi protocols like Aave",
+    "event": "Circuit Breaker",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "h0nyy",
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "Semaphore Relay Bot",
+    "slug": "semaphore-relay-bot-atdw9",
+    "description": "A relay bot which could help in relaying transaction through semaphore network",
+    "event": "Circuit Breaker",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "h0nyy",
+      "cycii"
+    ]
+  },
+  {
+    "name": "ZKaptcha",
+    "slug": "zkaptcha-07v6p",
+    "description": "Zkaptcha is the first ever Web3 captcha, designed to operate on the Mina Protocol. It utilizes zero-knowledge proofs and merkle proofs for on-chain reputation and secure captcha verification.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "eZKclaim",
+    "slug": "ezkclaim-8ovfp",
+    "description": "Leveraging zero knowledge proofs to make on-chain payments using email as identifier for origin and destination",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shadow Warfare",
+    "slug": "shadow-warfare-gxvty",
+    "description": "\"Shadow Warfare: City under Siege\" is an autobattler game with hidden states (uses zk-snarks)",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "zkblind",
+    "slug": "zkblind-ty0ir",
+    "description": "Making the platform blind.com, actually blind. Verifying the emails belonging to the actual employees without needing for an email from blind, i.e the current format.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zk-Gas",
+    "slug": "zk-gas-kpbu2",
+    "description": "A zero-knowledge based social media application built using Noir ZK Suite",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnyLens",
+    "slug": "anylens-ogi13",
+    "description": "a dapp that allows lens users to post annonymously on lens.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CreditVerifier",
+    "slug": "creditverifier-0z053",
+    "description": "A pre-approval credit tool that verifies a bank loan application.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CIL Private DAO",
+    "slug": "cil-private-dao-zictt",
+    "description": "Elevate DAO governance with a Zero Knowledge framework, enabling any member to add new members while maintaining vote anonymity with Solidity.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK-Dapp-Templates",
+    "slug": "zk-dapp-templates-mpdex",
+    "description": "I created two repos that can be used by developers as scaffolding templates to get their zk-dapp up an running very fast.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "anom-me",
+    "slug": "anom-me-8zwte",
+    "description": "Community platform where people can join into the exclusive groups , verifying their identites using Anon aadhar . Groups are meant to share data between the users anonymously but with authenticated trust.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK open banking",
+    "slug": "zk-open-banking-vd8kx",
+    "description": "A fully private open banking protocol powered by aztec network",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "zkCV",
+    "slug": "zkcv-z33gh",
+    "description": "Anonymous, until not. Side stepping unconscious bias with blockchain thorough an anonymous CV application process",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Noir Secret Sharing",
+    "slug": "noir-secret-sharing-1geq9",
+    "description": "Verifiable secret sharing amongst various clients. The ZKP that accompanies the share proves the share is valid.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "Lottery",
+    "slug": "lottery-g93zi",
+    "description": "Sample Lottery App on Aztec network Written in Noir, with pseudo randomness",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crowdzero",
+    "slug": "crowdzero-qz1tw",
+    "description": "A decentralized crowdfunding platform with ZK features uses blockchain for secure, anonymous fundraising. It enables transparent, private transactions without intermediaries, enhancing user trust and privacy in digital fundraising",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Beetray",
+    "slug": "beetray-bkuct",
+    "description": "Beetray is a social deduction game where players are assigned roles",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK Auth",
+    "slug": "zk-auth-5w3qt",
+    "description": "Investigating ZK compression with the ability to deploy them on the blockchain.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Semaphore Wallet",
+    "slug": "semaphore-wallet-s7ja9",
+    "description": "It's a privacy-focused ERC-4337 (a.k.a. AA) wallet using Semaphore",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ezElection",
+    "slug": "ezelection-hndf1",
+    "description": "A application to help private organization in election process",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mail List",
+    "slug": "mail-list-rpg3w",
+    "description": "MailList is a user-friendly email management tool designed to streamline communication and enhance productivity.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkCOVID",
+    "slug": "zkcovid-exr2q",
+    "description": "A zero-knowledge machine learning project, trained on COVID patient data from Kaggle, designed to categorise patients into risk categories",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ethTLS",
+    "slug": "ethtls-uchay",
+    "description": "ethtls is a network of tls notaries. These notaries use eigenlayer for restaking and run the notary server from the tls notary project. The project's mission is to trustlessly bring web data on chain.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xShadows",
+    "slug": "0xshadows-mqrbo",
+    "description": "A multi-signature wallet where owners can anonymously submit / approve / reject transactions.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "BreakCircuit",
+    "slug": "breakcircuit-67s4q",
+    "description": "An app that uses the new Observable framework to show some data about Iron Fish.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Challenger",
+    "slug": "challenger-ja2jw",
+    "description": "Why New Year Resolution doesn't work? Create a task and challenge yourself. Donation and getting rewards!",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkDL",
+    "slug": "zkdl-zvh0y",
+    "description": "zkDL is a proof of personhood project that leverages Zero Knowledge proofs to preserve user privacy.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Zero explorer",
+    "slug": "zero-explorer-2cjgi",
+    "description": "Discover, verify & interact with Zero-Knowledge (ZK) transactions effortlessly. View proofs, smart contract code, & transaction history. Privacy-focused blockchain explorer.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK-Whistle",
+    "slug": "zk-whistle-kqbsh",
+    "description": "A dApp that that leverages the Zero Knowledge to preserve the identity of Whistle blowers who can reveal important and vital information that can help nations building.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Banganoir",
+    "slug": "banganoir-sozqd",
+    "description": "Banganoir is an ERC4337 Wallet controlled by your Aadhaar identity, which integrates NoirOTP, a trustless zkOTP system, to provide an additional layer of security for your funds.",
+    "event": "Circuit Breaker",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pxs8d"
+    ]
+  },
+  {
+    "name": "DecentralizedTwitter",
+    "slug": "decentralizedtwitter-q3a5h",
+    "description": "This project is an demonstration of where social media will be in a couple of years and how it can impact our society with a decentralized networking system.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zKhorus",
+    "slug": "zkhorus-z43wg",
+    "description": "Tired of inactive DAOs? ZKhorus uses AI & zero-knowledge proofs to guarantee quorum & ensure your voice is heard, even if you miss a vote while being absolutely anonymous.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeriBot",
+    "slug": "veribot-6qpb6",
+    "description": "Using zkML to prove the absence of vulnerabilities in (closed-) source code.",
+    "event": "Circuit Breaker",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "h0nyy",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ZK-LinkHub",
+    "slug": "zk-linkhub-yfk7g",
+    "description": "Unlock online potential with ZK email: Unique email, website, and collaboration tools for seamless digital experiences.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkCert",
+    "slug": "zkcert-06upk",
+    "description": "A platform for anonymous comments on scientific articles that allows for anonymous academic credential verification",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "priv.cast",
+    "slug": "priv-cast-hzitq",
+    "description": "Sybil Resistant and Private Voting Application built with Farcaster Frames using Noir.",
+    "event": "Circuit Breaker",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "nhs1x",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Trusted Score",
+    "slug": "trusted-score-p7woy",
+    "description": "Trusted Score allows you to own a score of how trusted you are and you can prove how trusted you are without revealing your score.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProjectNiels",
+    "slug": "projectniels-3aq0q",
+    "description": "The Niels Project is a web3 dapp Create a decentralized social networking platform where users can interact and share content without revealing their true identities. Zero-knowledge proofs can be used to verify certain attributes without exposing personal details.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mosaic",
+    "slug": "mosaic-mf550",
+    "description": "A trust score network, where users' network is never revealed.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Inro",
+    "slug": "inro-rped8",
+    "description": "A privacy-first, decentralized ID verification system using Sindri. Prove your age without revealing personal info, ideal for bars and rental shops. Simple QR code scans for age verification",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Patient AnalyticsZKP",
+    "slug": "patient-analyticszkp-4o1m2",
+    "description": "Analytical research using ZKP on Private Patient Healthcare Records potentially to be stored on the Blockchain.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tandem String",
+    "slug": "tandem-string-3bp43",
+    "description": "Two goals of using barcodes with blockchain technology; 1: Eliminate counterfeit identifications through a unique key verification system. 2: Use tracking and traceability aspects of the blockchain to track and monitor products throughout their life-cycle.",
+    "event": "Circuit Breaker",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

@@ -32,7 +32,7 @@
     "howItsMade": "Kinora is TypeScript end to end, built directly on Hedera SDKs — no Solidity, no EVM. Two agent processes talk over the A2A protocol (@a2a-js/sdk, AgentCard 1.0/0.3 over JSON-RPC), each backed by a genuine Task state machine — offers, counter-offers, and decisions persist and carry context across rounds, they aren't scripted request/response calls dressed up to look like a negotiation.\nPayments run over x402 (@x402/hedera), settled with the blocky402 testnet facilitator, which handled the 402 → sign → 200 payment-verification flow for us so we didn't have to build our own settlement server. The paid endpoint cross-checks every incoming request against the exact terms that were actually negotiated and accepted — track, shares, licence type, territory, use case — so a buyer can't negotiate a cheap licence and then request something different at payment time.\nIdentity runs on HCS-14: each agent's UAID is derived deterministically from its Hedera account, and its profile is published to a Hedera Consensus Service topic we treat as an on-chain registry, since the HCS-14 spec itself doesn't mandate one. A completed licence triggers an idempotent chain — HCS audit entry, HCS reputation feedback, capacity decrement, and an HTS certificate NFT minted to the buyer, with a real 5% royalty fee schedule baked in at token creation.\nThe rights holder's licensing terms are written once in plain English and parsed into structured, machine-checkable rules by Groq (llama-3.3-70b), which we chose specifically for low-latency inference so policy updates feel instant in the demo.\nThe hackiest bug we caught ourselves: our A2A layer was generating a taskId on every reply that looked resumable but wasn't — nothing was actually persisted, so following up on that id threw \"task not found.\" We fixed it by wiring the executor to actually persist the task before replying, which is also what made real multi-round negotiation possible — a buyer's counter-offer now genuinely continues the same session instead of starting fresh. We also deliberately left the royalty's fallback fee unset — our certificate delivery transfer carries no accompanying HBAR, so a fallback fee would have silently charged buyers on every legitimate delivery, not just resales.",
     "prizes": [],
     "githubUrl": "https://github.com/SweetieBirdX/Kinora",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -56,7 +56,7 @@
     "howItsMade": "The stack combines Foundry/Solidity smart contracts, a TypeScript evaluator service, a React/Vite frontend, and 0G Storage. The contracts were written in Solidity with Foundry and deployed to 0G Galileo (chain ID 16602): GovernanceMultisig enforces unanimous governance, PresetPolicyRegistry stores active policies, EvaluationGateway receives encrypted evaluation requests, MultisigWallet enforces signer thresholds and evaluator signatures, AuditLog records evaluation receipts, and WalletFactory clones full wallet instances.\nThe evaluator service uses viem to watch EvaluationGateway events, eciesjs for payload decryption, the 0G Compute TS SDK for AI calldata/intent analysis, the CoinGecko API for USD price conversion, the chainscan-galileo API for contract verification, and the Ledger ERC-7730 GitHub registry for clear-signing descriptors. It runs 11 weighted risk checks, uploads the receipt through the 0G TS SDK, and submits the result on-chain via EvaluatorVerifier ECDSA verification.\nThe frontend is built with React, TypeScript, and wagmi, allowing users to propose transactions, approve them, and view 0G Storage-backed audit logs. The entire system is containerized with Docker Compose and validated by 36 Forge tests and 37 Vitest tests.",
     "prizes": [],
     "githubUrl": "https://github.com/psinelnikov/multisig-policy-engine",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -104,7 +104,7 @@
     "howItsMade": "ReDevice uses Sui Move smart contracts to create shared DevicePassport objects and store verifiable repair attestations on Sui Testnet. AdminCap and RepairerCap objects provide capability-based authorization, ensuring that connecting a wallet alone does not grant permission to register devices or add repair records.\nSerial numbers are hashed locally, and the on-chain registry prevents duplicate device registrations. The browser-based frontend connects to Sui wallets, reads passport data from the network, supports QR scanning or pasted QR content, and generates downloadable QR passport PDFs. After a repair transaction is signed, the interface reloads the updated history from Sui, while transaction details can be independently inspected through SuiVision.\nThe architecture reflects key ideas of the EU Digital Product Passport framework: a unique product identity, a digital data carrier such as a QR code, role-based access, traceable product information, and support for repair and circular use. The European Commission’s DPP Registry became operational on July 20, 2026 and supports registration through a user interface or API. ReDevice is currently an independent hackathon prototype and is not yet connected to the official EU Registry, but its modular design provides a path toward future API integration and standardized, interoperable product data.\nEvidence references are supported without claiming that blockchain itself verifies that a physical repair occurred. Instead, the blockchain verifies which authorized wallet signed the record, when it was created, and that it was not silently modified.",
     "prizes": [],
     "githubUrl": "https://github.com/Ihlasthetics/redevice",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -198,7 +198,7 @@
     "howItsMade": "The SDK is TypeScript and viem, and it runs entirely in the browser with no backend of ours. Every protocol gets its own adapter that reads its contract directly, and ten of those are live right now against World Chain, Gnosis, Base and Sepolia. The part that decides which protocols share an underlying check lives in a registry contract on Sepolia rather than in the code, so the rules are public and every change to them is an event you can query.\nFor World I used AgentKit on both sides of the flow. The agent uses createAgentkitClient and the counterparty is a real AgentKit resource server.\nFor The Graph I used two products together. There is a subgraph on Subgraph Studio indexing Proof of Humanity v2 and Circles v2 on Gnosis, and a self hosted graph-node indexing my own registry. An indexer is necessary because a contract call cannot tell me when a credential was issued or where an account sits in a trust graph.\nFor ENS I registered print.eth on Sepolia. The parent name carries the set of wallets a person declares as theirs, and each agent gets a subname that points back at the human behind it",
     "prizes": [],
     "githubUrl": "https://github.com/andrevalenm/poh-aggregator",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -278,7 +278,7 @@
     "howItsMade": "The project was built through many iterations, evolutionary experiments, and continuous redesigns. We explored multiple genomic representations, fitness functions, inheritance strategies, and survival mechanics before converging on the current architecture.\nDifferent LLMs were benchmarked to evaluate reasoning quality, latency, and inference cost, allowing us to balance intelligence with economic sustainability.\nThe simulation itself runs on an authoritative server that manages the world state, while blockchain interactions are reserved for economically significant events such as births, deposits, settlements, and withdrawals. AI inference is integrated through decentralized compute providers, making every thought carry a measurable cost.\nWe also implemented custom budgeting, concurrency limiting, and persistence systems to ensure agents can operate continuously without exceeding compute limits. The result is a hybrid architecture combining artificial life, evolutionary algorithms, LLM reasoning, and on-chain economics into a persistent autonomous ecosystem.",
     "prizes": [],
     "githubUrl": "https://github.com/flphth/devot",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -424,7 +424,7 @@
     "howItsMade": "Next.js 16 / React 19 / TypeScript; every external response (0G, Hedera, World) is Zod-validated; no DB, no Solidity — SDKs only.\n0G (sealed inference): the pinned TEE model (single-provider, temp 0) judges both positions and may output only an enum — the parser refuses to extract a verdict from prose, and consent gates the gap:* values twice. The hard part was attestation: the 0G Router never yields a verifiable signature (it pays the broker with its own wallet, so it is the customer), so we make direct on-chain-paid broker calls and verify the enclave's response signature ourselves with general-purpose crypto (@noble) — no 0G code in the trust path, and we never call the SDK's own processResponse(). The signing key is checked on-chain (teeSignerAddress from the InferenceServing contract — not the provider address, a trap that cost us a night). The signature provably covers the inputs as well as the output: \"this model saw these positions and said this.\"\nHedera (storage IS the topic): three versioned HCS message types (expiry, commitments, verdict) per room; deadline published before anyone can write; reads via Mirror Node REST. No scheduler daemon — the first reader past the deadline triggers the reveal, with per-room in-flight coalescing to stop duplicate paid enclave calls.\nWorld ID: one verification per (room, side) via runtime-scoped actions (they auto-create on first use — found by probing the precheck API, not the docs) and the v4 verify endpoint. max_verifications: 1 is our anti-probing control, so server checks are ordered to never burn a user's single verification on a doomed submit.\nNotably hacky/honest: positions are ECIES-sealed in the browser to an enclave-directed key, deliberately randomized so equal plaintexts don't leak equality on the public topic — but since the 0G router is a chat API that can't hold a decryption key, the server unseals just before the enclave call. We document that seam instead of hiding it. Positions also reach the model in canonical byte order, never seat order — the same texts measurably produced different verdicts by seat before we fixed it.",
     "prizes": [],
     "githubUrl": "https://github.com/fabroche/ethglobal-lisboa-2026",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -496,7 +496,7 @@
     "howItsMade": "We built NoFomo's architecture around a unique \"Keyless AI\" concept. We used OpenClaw and Hermes, but not in the traditional, risky way of giving an AI access to private keys. Instead, they serve strictly as strategy configurators. The AI pieces together deterministic building blocks (like chained limit orders) and outputs a configuration. The user's private keys remain completely isolated outside the agent, securely signing only these pre-agreed rules. This is our most notable \"hacky\" feature: completely removing AI hallucination risks and saving users' capital from rogue trades.\nFor the execution and routing layer, we pieced together two main partner technologies:\n\nUniswap API & Robinhood Tokenized Stocks: We integrated the Uniswap API as a core routing engine for our strategies. Crucially, we used the API to fetch quotes and execute swaps not just for standard crypto tokens, but specifically for Robinhood tokenized stocks. This allowed our AI configurator to seamlessly build automated exit strategies and portfolio rebalancing that includes traditional equities, all within one unified interface.\nSui Network & Cetus DEX: To handle fast, multi-chain execution without high gas bottlenecks, we built on the Sui Testnet. We integrated with the Cetus DEX smart contracts to manage the actual swapping logic on the Sui ecosystem. In our implementation, we successfully tested and routed automated chained orders using hbtc through the Cetus pools. Sui's architecture provided the perfect low-latency environment needed to instantly trigger our chained limit orders the moment a price target was hit.",
     "prizes": [],
     "githubUrl": "https://github.com/mejordev/nofomo",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -556,7 +556,7 @@
     "howItsMade": "Stack: a pnpm/TypeScript monorepo. The front end is Next.js 15 + React 19 with\nreact-three-fiber/three for the 3D mesh and Zustand for state, fed by Supabase\nPostgres over realtime subscriptions. The agent loop is a standalone Node\nservice. Contracts are Solidity 0.8.28 on Base Sepolia via ethers v6. The\nsubgraph is AssemblyScript mappings deployed to Subgraph Studio. Correctness is\nvitest plus fast-check property tests (82 green), on top of a deterministic\nphysics model shared by the simulator, the verifier and the agent.\nThe pipeline: simulator/device telemetry lands in Supabase; a deterministic\ndetector spots a node past its thermal or contention bound; the agent queries\nThe Graph for that node's prior incidents; it makes one 0G Compute inference\n(qwen2.5-omni-7b in a dstack TEE) to diagnose and propose; a verifier projects\nthe action 30 steps through the physical model and returns a verdict; an\nauthorization policy maps blast radius and history to T0/T1/T2; humans clear the\ngate with World ID; then the reasoning blob goes to 0G Storage and the decision\nplus its 0G root is emitted on Base Sepolia and indexed.\nPartner tech, and why each is load-bearing. 0G Compute makes the LLM decision\nverifiable rather than merely remote — processResponse returns a TEE attestation\nwe store per proposal, so an unattested inference is visibly marked as such. 0G\nStorage holds the immutable reasoning payload. The Graph is what makes the agent\nhave a memory it does not own: it queries the indexed history of its own past\ndecisions before acting, so \"this node has failed twice before\" is a fact from\nan independently queryable index, not from our database. World ID supplies\npersonhood, and specifically distinctness — nullifiers are the only thing that\nmakes \"two different humans\" unfakeable.\nNotable/hacky:\nThe registry does not live on 0G Chain. The Graph does not support 0G Galileo,\nso rather than self-host graph-node on the demo laptop we deployed the registry\nto Base Sepolia and let Studio index it. The seam is preserved in the data: the\nCommitted event carries the 0G Storage root, so every indexed row points back\ninto 0G.\nThe Graph's own Subgraph MCP server cannot query an arbitrary endpoint — the\ngateway only serves subgraphs published to the decentralized network, and\npublishing is mainnet-only. So we wrote our own MCP server over our GraphQL\nendpoint to expose get_history to the agent.\nThe physical node was the deepest rabbit hole. A Galaxy S22 runs a Termux\nreporter, but Android denies /proc/stat, /proc/loadavg, /proc/pressure/cpu and\n/sys/class/thermal to unprivileged apps via SELinux — so there is no CPU\nutilisation counter and no SoC sensor. We rebuilt load from run_delay in\n/proc/self/schedstat, which a process may always read about itself. Window size\nturned out to be decisive: below ~100ms a freshly-woken thread keeps its\nscheduling advantage and is handed a core on demand, so it reads ~0% whether the\nphone is idle or on fire. At 200ms we get 0.1% idle vs 52.3% saturated. So the\nphone reports genuine scheduler contention — the CPU being oversubscribed, not\nmerely busy — and we say exactly that rather than calling it utilisation.\nActuation had no inbound path: the phone is behind NAT with no server on it. The\nagent's decision rides back on the HTTP response to the telemetry POST the phone\nis already making every two seconds, and the reporter scans /proc/*/cmdline to\nSIGTERM the load generator — not pkill, because procps isn't guaranteed present\nin Termux. So a committed THROTTLE_NODE genuinely stops the load.\nNullifiers are canonicalised once (lowercase 0x, zero-padded to 32 bytes) so they\nmap straight onto bytes32 with no conversion at the chain boundary — a mismatch\nthere would silently break the quorum in the one place we could not afford it.\nThe bug we most enjoyed: the agent's staleness guard hashed the grid before and\nafter reasoning and discarded the cycle if anything changed — but the hash\nincluded metric timestamps, which change every simulator tick. Any reasoner\nslower than one tick was therefore always discarded. The instant heuristic\nfallback was the only thing that ever survived, so the system looked like it\nworked. Fixing 0G Compute is what exposed it.\nFinally, an acceptance harness reads the registry's logs straight over RPC and\nchecks them against the deployed subgraph and the operator allowlist. It is\ndesigned to catch the failure mode we feared most: a demo that looks perfect and\nis quietly lying.",
     "prizes": [],
     "githubUrl": "https://github.com/Tyler-n-Alex/verimesh",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -642,7 +642,7 @@
       }
     ],
     "githubUrl": "https://github.com/Lem0nTree/BananaESP",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -654,7 +654,7 @@
     "howItsMade": "It's a pnpm monorepo: Next.js on the frontend, NestJS on Fastify for the API, Postgres/Prisma as the source of truth, and a separate BullMQ worker that's the only thing actually talking to Hedera. A DB write and a Hedera transaction can't be atomic, so every blockchain action goes through an outbox table first - the API commits the intent in the same transaction as the domain change, then the worker picks it up and executes it idempotently through our HederaProvider abstraction, which wraps the Hedera SDK for HTS token create/mint/transfer and HCS message submission. Balance reads go through Mirror Node with retries since indexing lags a few seconds. On the wallet side we support Hedera WalletConnect (HashPack, etc.) for native signing, plus a MetaMask path - for token association specifically we call the IHRC-719 facade contract directly (the associate() selector) so EVM wallets can associate an HTS token without ever touching the Hedera SDK. World ID's Selfie Check gates reward payouts to stop sybil farming. No Solidity anywhere, everything runs on native Hedera services.",
     "prizes": [],
     "githubUrl": "https://github.com/BitterZluka/Stage",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -698,7 +698,7 @@
     "howItsMade": "ENS provides a global-scale, distributed database of character profiles. Anyone with ENS names can add some special records in their names and have their characters participate in the game. The Graph is used to query the pool of all the characters. A random pool of them is presented to the players and, with the assistance of an AI (backed by 0G), will analyze their profiles to propose guessing hints to the player.",
     "prizes": [],
     "githubUrl": "https://github.com/AdCazzum/brincadeiros",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -710,7 +710,7 @@
     "howItsMade": "The hard part is that the Aqua TypeScript SDK does not build SwapVM programs. It exposes\nShip/Dock virtual-balance operations and event classes, and its README contains no strategy\nexamples at all. The real composer lives in the Solidity swap-vm repository. So we read the\ncontracts and ported the encoder to TypeScript.\nWe verified the wire format from both directions: the encoder in test/utils/ProgramBuilder.sol\n(abi.encodePacked(opcode, uint8(args.length), args)) and the decoder in ContextLib.runLoop,\nwhich shifts the opcode out of the first byte and the argument length out of the second. That\ngives [1 byte opcode][1 byte argsLength][args], a 255-byte cap per instruction, and a\n65,535-byte cap on jump-addressable programs because jump targets are uint16. We then derived\neach instruction's packed argument layout from its ArgsBuilder library and parse function.\nCorrectness is enforced by a golden-fixture test rather than by inspection: a Foundry script\nbuilds reference programs with 1inch's own ProgramBuilder and writes the resulting bytecode to\nJSON, and our TypeScript encoder must reproduce those bytes exactly. Testing a port against\nits own reimplementation proves nothing, so the oracle is always the real contract.\nTwo source findings shaped the architecture. First, Aqua is not an opcode set — it is\nMakerTraits bit 254, useAquaInsteadOfSignature. AquaSwapVMRouter dispatches neither LimitSwap\nnor StaticBalances nor the invalidators, so a limit-order ladder is impossible there. We use\nSwapVMRouter with the Aqua trait enabled, which gives the full instruction set and Aqua-backed\nsettlement at once. Second, neither repository publishes a mainnet deployment; every address\nparameter is a zero placeholder. So we fork mainnet for real tokens and liquidity and deploy\nthe official, unmodified contracts onto the fork ourselves, from pinned git submodules. No\n1inch code is vendored into our repository.\nThe validator's rule base is mechanically derived from the protocol's own failure modes —\nSetBalancesExpectZeroBalances, LimitSwapRequiresBothBalancesNonZero, LimitSwapRecomputeDetected,\nLimitSwapDirectionMismatch, MakerTraitsTokensNotSorted — plus the quote/swap divergence\ndocumented on DynamicBalances and the invalidators, which are wrapping instructions that call\nrunLoop internally and therefore must never be jump targets.\nStack: TypeScript monorepo (npm workspaces), Foundry and Anvil for the fork and fixtures,\nviem for submission and log decoding, Next.js for the lifecycle UI, and constrained structured\noutput for parameter extraction.",
     "prizes": [],
     "githubUrl": "https://github.com/erdemasik001/aquaPilot",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -821,7 +821,7 @@
     "howItsMade": "Reboleira is a Manifest V3 Chrome extension written in TypeScript and built with Vite. A content script extracts a semantic ContentGraph from the live DOM; a zod-validated UISpec is generated by a TEE-sealed LLM on 0G Compute and drawn into an isolated shadow-DOM overlay, with every link and button rewired to the original node. Identity is user-owned: World ID 4.0 (idkit) attests one human per profile, the profile itself is AES-GCM encrypted with a key derived from a MetaMask signature and stored on 0G Storage, and an ENS text record on Sepolia holds the pointer. Core logic is test-driven with Vitest, and a fixture fallback guarantees the page always renders.",
     "prizes": [],
     "githubUrl": "https://github.com/AdCazzum/reboleira",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -845,7 +845,7 @@
     "howItsMade": "pnpm monorepo, TypeScript ESM, run straight from source under tsx with no emit step. The shared contracts live in packages/core: Claim, Capability, Manifest, Reputation, Job, plus three ports (RegistryPort, PaymentsPort, GraphPort). Each network is an adapter behind one of those ports, so core orchestrates the loop and knows nothing about rug-score, and the one concrete capability knows nothing about how it gets paid.\nENS (Sepolia), via ethers. Each provider gets a subname under a parent I own, carrying two text records: assay:manifest (capability id, price, endpoint, bond reference, and a verifierHash committing to the verifier's source) and assay:rep (score, jobs, slashes, bond). Subnames resolve and accept writes through a wildcard resolver, so rugscore.assay.eth has no entry of its own in the ENS registry (its registry owner reads as the zero address) yet its text records read and write correctly. That is one transaction to set up the parent name and zero transactions per provider onboarded, which is the property that makes per-agent identity practical at all. One gotcha: the .eth BaseRegistrar reports the name expired while resolution works fine, so do not gate on it.\nHedera (testnet), via @hashgraph/sdk. Payments are HBAR transfers whose memo carries the request hash, confirmed by polling the mirror node before the provider serves. postBond and slash move real HBAR on the same rail. Two things bit me here. First, the portal issues ECDSA accounts, and PrivateKey.fromString silently reads a bare hex key as ED25519 and hands back a valid key that is not yours, which you find out at the network as INVALID_SIGNATURE. Second, and this one only showed up on a live run with every unit test green: the mirror node reports a self-transfer as only the fee movement, so with a single funded account the payment never appears in the transfer list and no amount check can pass on it. The fix was a second funded account, not a weaker check.\nThe audit trail is the Hedera Consensus Service, and it is the non-obvious use of the second service. Every other claim this project makes is re-derivable by a stranger (the Graph queries are block-pinned, the ENS records are public, the transfers are on a public mirror node) but the loop's event log was a file on my disk that I could have rewritten after the run. So the sink folds every line it writes into a SHA-256 chain and submits the head of that chain at each turning point of the loop. Six roughly 100-byte messages cover a run of any length, they leak no job data, and a match proves strictly more than a copy would: a copy shows those events existed, a chain head shows that no line anywhere before it was added, removed, reordered or edited. Topic 0.0.9753542 holds two live runs, and a committed log in the repo reproduces all 12 anchors with one command on a fresh clone, with Hedera's consensus timestamps attesting when that state existed.\nThe Graph, through the gateway against a Uniswap v3 subgraph. getTokenSignals(token, atBlock) returns liquidity in the deepest pool, age in blocks, transaction count, volume and top-pool concentration, always read at a specific block and never at current state, because the verifier has to query the same block the claim was stamped at. A block outside the subgraph's indexed range fails loudly rather than silently returning live data, which is the property a verifier needs: a silent fallback to whatever is true now would slash honest providers every time the chain moves.\nThe requester side is an MCP server (nine tools) registered in .mcp.json, so a real Claude Code session is the client. I built two custom demo runners and deleted both. The reason is worth keeping: a renderer I write is less credible than the tool the audience already uses, because in Claude Code a judge sees the MCP server badge, the real tool names, the arguments and the raw JSON that came back, and none of it has to be taken on trust.\nThe hacky part worth mentioning is the lying-provider harness. Rather than a second, less-real code path, it wraps the real capability and tampers exactly one claim before returning it, so the verifier gets tested against the real output shape rather than a fixture. That test is also the demo climax.",
     "prizes": [],
     "githubUrl": "https://github.com/fiorelorenzo/assay/blob/main/apps/mcp/agent/transcripts/2026-07-25-claude-code-session.md",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -877,7 +877,7 @@
       }
     ],
     "githubUrl": "https://github.com/Commitment-Issues-Protocol#quickstart",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -965,7 +965,7 @@
     "howItsMade": "Casium is a scoped rental-application agent: a renter authorizes an agent to apply for apartments, but the agent is constrained by both human identity and on-chain permissions. The core idea is: World limits who the agent represents. Sui limits what the agent can do.\nI built it as a pnpm/TypeScript monorepo with three main apps:\n\nNext.js 16 + React 19 frontend for renter, provider, landlord, and agent-operator views.\nHono provider API that owns listings, application reservations, duplicate-human checks, packet registration, receipt verification, and Postgres persistence via Drizzle.\nNode.js deterministic agent service that reads a renter mandate, evaluates listings, reserves an application slot with the provider, then submits the application on Sui.\n\nThe on-chain core is a Sui Move package deployed to testnet. It defines RentalMandate, OwnerCap, AgentCap, RentalListing, and ApplicationReceipt. A renter creates a RentalMandate with limits like max rent, municipality allowlist, bedroom count, expiration, and remaining application count. The agent receives an AgentCap, but Move still checks that the transaction sender matches the mandate’s authorized agent_sui, the listing is eligible, the mandate is not revoked/expired, and the agent has remaining application allowance.\nFor World AgentKit, the provider verifies the agent’s EVM identity before accepting a reservation. The app supports both a mock mode for deterministic local testing and real AgentKit verification using @worldcoin/agentkit helpers. The important part is that raw World human IDs are immediately SHA-256 hashed, and the provider enforces one application per verified human per listing. We also bind the AgentKit-verified EVM address back to the Sui mandate’s agent_evm field, so a random verified agent cannot use someone else’s mandate.\nFor documents, we used Walrus as the storage layer and Seal as the access-control layer. The renter’s browser generates a synthetic application packet, encrypts it client-side, uploads only ciphertext to Walrus, and registers the walrusBlobId plus packet hash with the provider. Walrus is abstracted behind one adapter interface with mock, HTTP, and CLI modes; the live HTTP adapter was smoke-tested against Walrus testnet with byte-identical download verification.\nSeal handles landlord-gated decryption. The packet identity is derived from:\nbcs(mandate_id) || bcs(listing_id)\n\nThat was a deliberate design choice because the renter encrypts before the eventual ApplicationReceipt exists, but we still wanted the ciphertext scoped to exactly one mandate and one listing. We upgraded the Sui package to add seal_approve_packet, which Seal key servers dry-run before releasing keys. The Move policy checks landlord sender, packet identity, receipt status, access expiry, mandate match, and revoked state.\nThe hackiest-but-important part was stitching together multiple identity domains safely. The agent has a Sui address for transactions and an EVM address for AgentKit. Sui cannot directly verify the AgentKit EVM signature inside the Move call, so the provider becomes the cross-chain enforcement point: it sees the AgentKit-verified EVM signer, reads the Sui mandate, checks the mandate’s expected EVM/Sui agent addresses, then only returns a reservation hint if everything matches.",
     "prizes": [],
     "githubUrl": "https://github.com/c3n21/casium",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1021,7 +1021,7 @@
     "howItsMade": "Stack: Next.js 16 (App Router, Turbopack), React 19, TypeScript, Tailwind v4, viem for all chain interaction, Privy for wallets, ENS on Sepolia, and Walrus on Sui testnet for published evidence bundles.\nPrivy handles the wallet without a browser extension — but the app prefers an injected wallet when one is connected, because if the signer already owns the project name no approval step is needed at all. Both the wallet client and the public client are built over the same EIP-1193 provider, so there's no NEXT_PUBLIC RPC anywhere and no signing key in the repo.\nWalrus stores registry snapshots as content-addressed blobs, uploaded server-side to dodge CORS. Each bundle embeds its own provenance block declaring which parts are live and which are simulated, so the artifact states its own limits instead of relying on a README.\nThe hacky part — we shipped onto ENSv2 with sparse / missing docs",
     "prizes": [],
     "githubUrl": "https://github.com/futorine/landstewards",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1151,7 +1151,7 @@
     "howItsMade": "On an existing app I am working on. Built in Next.js, the Vercel AI SDK, OpenAI embeddings, and Cloudflare Workers. An offline Node.js pipeline extracts Markdown and PDF content, splits it into chunks, generates embeddings, encrypts the snapshot with AES-256-GCM, and prepares it for 0G Storage. At runtime, SOLY decrypts the corpus, ranks chunks using cosine similarity, and can route answers through 0G Compute.",
     "prizes": [],
     "githubUrl": "https://github.com/CJ42/sourcify-contract-training-data",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1195,7 +1195,7 @@
     "howItsMade": "The judge accepts exactly one input: a Facts object validated against a zod schema. Nothing else is interpolated into the prompt.\nEvery field in Facts is a number, boolean, enum, address, or integer-as-string. There is no free-text field in the schema. Not for names, not for symbols, not for notes. tests/schema-audit.test.ts walks the schema tree and fails the build if any string field appears that is not regex-constrained to hex or digits.\nAddresses are rendered as hex, never resolved to a human-readable label.\nsrc/judge.ts imports from src/facts.ts and nothing else. It has no access to raw traces or contract source, and that is enforced by the import graph rather than by discipline.\nRevert strings are attacker-controlled too a honeypot can revert with \"SAFE: audited by CertiK\". Only the sell-outcome enum crosses the boundary.",
     "prizes": [],
     "githubUrl": "https://github.com/akerbabber/skye",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1291,7 +1291,7 @@
       }
     ],
     "githubUrl": "https://github.com/cqlyj/HORS",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1303,7 +1303,7 @@
     "howItsMade": "TypeScript on Node. @modelcontextprotocol/sdk for the server over stdio, graphql for introspection types and schema utilities, graphql-request against The Graph's gateway, gpt-tokenizer (cl100k_base) so the token counts are real rather than estimated, Vitest for tests, tsx to run without a build step. No database, no frontend, no contracts, no deployed subgraph.\nThe core is a single pure function — condense(introspection) → Digest — with no I/O, no state and no network, which is what makes it exhaustively testable. It drops introspection meta-types, the operation roots, graph-node scaffolding (Meta, Block, Block_height, BlockChangedFilter, SubgraphErrorPolicy), the OrderDirection enum, and anything ending in _filter or _orderBy. Input objects are dropped structurally rather than by name, since every INPUT_OBJECT in a graph-node schema is generated machinery. Custom scalars survive only if a kept field actually references them. Domain enums are kept deliberately — dropping all enums would be simpler and would silently break real queries. Output is sorted alphabetically so digests are byte-stable and diffable in CI.\nThe thing that actually makes it work isn't the stripping, it's the replacement: a nine-line convention header stating the filter and ordering rules once. That's what lets you delete 98% of a schema and still have a model write a valid query on the first try.\nTesting is three layers. A hand-built introspection fixture written inline in the test file that specifies each drop rule as its own assertion, including the NON_NULL(LIST(NON_NULL(Object))) type unwrapping that's the easiest thing in the codebase to silently corrupt. A named check against the real Uniswap V3 fixture. Then it.each invariants across all 30 saved fixtures: no boilerplate leaks (regex-based, so it catches generated types this codebase has never seen) and a rawSize/digestSize > 10 guard that fails the build if a future change starts leaking types back in and quietly invalidates the published numbers.\nTwo reproducible measurement scripts: npm run measure live-fetches all 30 subgraphs and saves fixtures plus two baselines, npm run condense runs fully offline and emits the reduction table as both JSON and markdown. The reduction range is wide (20x to 78x) and the cause is identifiable — per-entity digest cost runs from 82 tokens to 549 depending entirely on whether the subgraph author wrote GraphQL docstrings, which introspection preserves and the condenser keeps because they carry real semantic signal.\nThe notable part is a rescope. This was built on the assumption that The Graph's official MCP returns introspection. Mid-build I pulled the Rust source and grepped it: there is no introspection call anywhere in the repo. get_schema_by_subgraph_id queries the network subgraph for manifest { schema { schema } } — the authored source file. The premise was wrong. Rather than ship a 50-100x headline that dies at a judge's first question, I re-aimed the whole thing at introspection-only endpoints, deduplicated the sample (30 IDs, only 25 distinct schemas — several Aave and Compound deployments share the Messari standardized schema), and published the honest range instead of the flattering multiplier. The README states plainly where the tool doesn't help.",
     "prizes": [],
     "githubUrl": "https://github.com/Galo8to9/Subgraph-Schema-Condenser",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1371,7 +1371,7 @@
     "howItsMade": "It uses Hedera SDK to create a smart contract to check in a passenger and create a boarding pass. The app uses next js and typescript and the contracts are written with hederas node sdk. The users is prompted to enter their name and confirmation and that is stored on chain for lookup.",
     "prizes": [],
     "githubUrl": "https://github.com/Derricks-DApps/HFC",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1395,7 +1395,7 @@
     "howItsMade": "BITEBACK is a TypeScript application built with Hono, ethers, the Hedera SDK, The Graph Substreams, 0G, and a browser-based operator dashboard deployed on Vercel.\nThe Graph supplies compact, finalized blockchain data for transaction discovery and five-minute anomaly metrics. Deterministic rules group repeated-payment violations by merchant, token, amount, wallet, and UTC window. 0G Compute converts published merchant terms into an inspectable policy, while 0G Storage preserves the canonical evidence package and allows its SHA-256 hash to be independently verified.\nAfter reviewing the evidence, the merchant signs an explicit acceptance for the exact incident, evidence hash, and payout amount. Hedera then distributes the authorized compensation and records the evidence, decision, and settlement audit trail through HCS, without deploying Solidity contracts on Hedera.\nThe independent anomaly engine uses Normal–Inverse-Gamma posterior prediction, seasonal weekday/weekend baselines, conformal calibration, false-discovery correction, quarantine, and RPC heartbeat agreement. It includes a prequential yearly backtesting framework designed around precision-recall and detection latency rather than inflated point-adjusted scores.",
     "prizes": [],
     "githubUrl": "https://github.com/jstmepedr0/ETH-Global-2026",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1491,7 +1491,7 @@
       }
     ],
     "githubUrl": "https://github.com/lfglabs-dev/lean-silicon",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1503,7 +1503,7 @@
     "howItsMade": "Stack: Python throughout — FastAPI with Server-Sent Events for the streaming dashboard, scipy.optimize.linprog for the coherence LP, scipy.stats.t for confidence intervals, web3.py for contract calls, and a stdio MCP server exposing the same engine as a callable tool. Frontend is plain HTML/CSS/JS with no build step, consuming the SSE stream directly.\nThe core: a linear program over possible worlds. Three binary propositions give 8 combinations, but the price identity forbids two of them (all-rise and all-fall are arithmetically impossible), leaving 6 possible worlds. The LP asks: does there exist a probability distribution over those 6 worlds whose pairwise marginals match what the agent actually said? We maximize total assignable mass subject to marginal constraints; if the optimum is below 1.0, the shortfall is the incoherence — belief mass that cannot live in any consistent world. The Dutch book falls directly out of the LP's infeasibility.\nThe Graph supplies the live data the entire constraint depends on. We query the Uniswap v3 subgraph via the decentralized gateway for token0Price/token1Price, feeTier, liquidity, totalValueLockedUSD, and poolDayDatas across the three probe pools. Crucially, this isn't decoration: without live pool prices there are no propositions to elicit beliefs about. We also use TVL to auto-select the third leg of the probe triangle. A guard rejects the run if the three ratios don't multiply to within 1% of 1.0 — that check certifies the triangle is currently arbitrage-tight, which is what makes the constraint valid on independently-priced AMM pools rather than clean cross-rates.\nUniswap turns an abstract check into a gated trade. We quote each leg through QuoterV2 via staticCall — mandatory, since the Quoter is non-view by design and reverts to return its data, which is the single most common integration mistake. The quote is what makes the veto concrete: a real, executable route with real amounts and fees, blocked at the Execute button.\n0G Compute runs every belief elicitation. Rather than pulling in the TypeScript SDK, we point the standard openai Python SDK at 0G's OpenAI-compatible Compute Router (base_url), which let us keep the entire stack in Python and reuse our existing elicitation code unchanged. Each response's attestation metadata is captured and surfaced per-context in the UI. This is what makes the incoherence proof unforgeable — without it, a skeptic could reasonably say we fabricated the agent's answers.\nHacky bits worth mentioning:\nSubprocess-per-context isolation. The measurement only means anything if the agent genuinely cannot see its other answers. Rather than trusting conversation-history management, we spawn each elicitation as a fully independent inference call — fresh process, fresh context window, provably no leakage. Nine of them run concurrently via ThreadPoolExecutor, which is what keeps a full run under ~45 seconds.\nA leak bug that became a feature. Our first grounded run showed incoherence decreasing (0.68×). Tracing it, the market-data block was showing all three ratios to every context — letting the model infer the triangle constraint and enforce consistency it wouldn't otherwise have. We now slice the data block per-context so each conversation sees only its own two ratios. That bug is also the cleanest proof the phenomenon is real: give the model the whole picture and it becomes coherent; fragment it and it doesn't.\nt-intervals, not 2×SE. With only 3 reps per context, using a flat 2-standard-error threshold would overclaim confidence — exactly the sin the interval exists to prevent. We use t_{0.975, df} (4.30 at reps=3, 2.31 at reps=9), which makes low-rep runs appropriately conservative. The system reports \"no significant violation at this confidence\" rather than forcing a verdict, and refuses to issue a veto at all below 3 reps where no variance estimate exists.\nNo mocked-data fallback, anywhere. If The Graph, 0G, or the quote is unavailable, the run fails visibly. A cached-price fallback would have been trivial and would have quietly invalidated every claim the demo makes.\nSame engine, two surfaces. The dashboard and the MCP server call identical code paths, so coherence_check(pair, amount, reps, model) returns the same verdict object a human sees — meaning any MCP-capable agent can gate its own trades on it. In the demo, Claude Code runs with both Uniswap's MCP tooling and ours registered, and vetoes its own swap mid-conversation.\nTwo things to fix after building: the […]-style specifics (which 0G model we actually probed, real measured numbers from the final runs), and whether the Uniswap Trading API key arrived in time — if it did, add a line about POST /v1/quote alongside QuoterV2.",
     "prizes": [],
     "githubUrl": "https://github.com/Karkunow/eth-global-coherence",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1603,7 +1603,7 @@
     "howItsMade": "The core technical problem is deciding whether two images are the same photograph, and neither obvious method works alone.\nCryptographic hashing fails immediately. A keccak256 hash of the file bytes changes completely when an image is re-encoded, which every platform does on upload - the single most common real-world case. We found this by accident: files selected through the macOS Photos picker are re-exported to a new temporary file each time, so byte-identical verification failed on what was visibly the same photo.\nVision models fail in the opposite direction. Ask a multimodal model whether two photographs taken minutes apart at the same venue are \"the same\" and it says yes. It reasons about scenes, not instances.\nSo the pipeline uses both, for different jobs. A DCT-based perceptual hash (64-bit fingerprint, Hamming distance, threshold 8) decides instance identity. 0G Compute vision provides a verifiable, TEE-sealed second opinion recorded alongside every result. On a mismatch, a second 0G Compute call describes how the images differ, and that explanation becomes the reason shown to the user rather than a bare number.\nMeasured results: identical file distance 0, verified. Re-encoded copy distance 0, verified — where exact hashing fails. Different photo of the same venue distance 12, rejected - where vision alone fails. Different subject entirely distance 36, rejected, caught from a pasted URL.\nSigning writes the 0G Storage rootHash on-chain as the attestation's storage pointer, so verification fetches the original back by rootHash and the verifier supplies only the suspect file. The contract is first-writer-wins with no transfer function - accountability is not transferable, which is the main thing separating this from an NFT. A pre-flight read of the on-chain record means re-signing shows who already claimed the file, rather than a revert.\nStack: Solidity + Hardhat, React + Vite frontend, Express backend, ethers v6, sharp for image processing, World ID IDKit v4 with a relying-party signing backend, ENS resolution via the Universal Resolver, 0G Storage TS SDK, 0G Compute serving broker.",
     "prizes": [],
     "githubUrl": "https://github.com/N1n4CH/creator-signature#running-it-locally",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1655,7 +1655,7 @@
       }
     ],
     "githubUrl": "https://github.com/ethui/",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1667,7 +1667,7 @@
     "howItsMade": "A TypeScript pnpm monorepo of nine packages, plus a Python package for Hermes and a Next.js marketing site.\nMemory engine — mem0 OSS, not a rewrite. We originally planned to fork supermemory; research (all committed under /research) found its memory engine is closed-source, so we pivoted to mem0 OSS (Apache-2.0), which runs fully in-process and exposes a formal VectorStore adapter seam. The key design decision: rather than replacing mem0's store with a 0G-backed one (impossible — 0G reads are blob downloads, not queries, so search can't hit the chain) we wrote a journaling wrapper that implements mem0's VectorStore interface and delegates to the untouched native store. Search runs locally at full speed; every mutation is additionally appended to a journal as a typed delta op. That one seam is what makes flushing to an append-only chain possible without touching engine internals.\nBlob format as the interop contract. Our blob-spec package is a zero-dependency canonical format (dmemo/1) with two record kinds — delta (ordered insert/update/delete/deleteCol/tombstone ops) and checkpoint (full materialized state) — under an envelope carrying wallet address, agent scope, a monotonic sequence number, the previous root hash, and pinned embedder + engine identity. Raw SQLite files are explicitly not the format (that was a Phase-0 stepping stone), which is what lets a Python host read a chain a Node host wrote. The pinned embedder identity also drives automatic re-embed migration: if the embedder resolved at open time differs from the one in the head blob, every stored memory is re-embedded and journaled as update ops.\n0G Storage (partner tech), used natively. Via @0gfoundation/0g-ts-sdk: indexer.upload / downloadToBlob, with the SDK's native ECIES encryption option (UploadOption.encryption with the recipient public key) and tryDecrypt — no hand-rolled crypto, and the wallet that pays for storage doubles as the memory key, so there is exactly one secret to manage. 0G's append-only, content-addressed, Merkle-anchored log is what makes the \"chain of encrypted deltas plus periodic checkpoint\" model work at all, and its free Galileo testnet is why every number in docs/benchmarks.md is a live measurement rather than an estimate. Pointer resolution uses ethers eth_getLogs over the Flow contract's Submit logs. Two things we had to build around: the public RPC caps log ranges (live-measured at about 4.78M blocks), so scans paginate with halve-and-retry; and the SDK's with_proof flag is a no-op, and AES-CTR carries no auth tag, so our core package recomputes each blob's Merkle root from the raw downloaded ciphertext and compares it to the on-chain root before decrypting — always on ciphertext, never on an already-decrypted convenience path.\nLocal embeddings by necessity and by design. The 0G Compute Router has no /embeddings endpoint (verified against its OpenAPI spec), which turned out to be the right constraint: embeddings are computed on-device with fastembed (bge-small-en-v1.5, 384 dimensions), so plaintext never leaves the machine even for vectorization. The optional inference leg is config-only — the Router is OpenAI-compatible, so it drops into mem0 and both SDK wrappers as a base_url, and we send the private trust-mode header plus filter the model catalog to TeeML-verifiable models.\nDurability plumbing. Fire-and-forget flush with an awaitable waitForPendingFlush(); a checkpoint every 2 flushes or on a size threshold; a mandatory 120-second application-level upload timeout because the SDK's waitForLogEntry() retries unboundedly with no timeout of its own; a pointer cache that is a pure soft optimization (never load-bearing) with explicit dangling-pointer accounting so a crashed upload can't strand the chain head; and a graceful-shutdown handler on SIGTERM/SIGINT/SIGHUP so a signal arriving mid-flush still runs the bounded flush-and-close a normal return would.\nFive host integrations, two hook binaries. Codex's hook schema is deliberately Claude-Code compatible, so one esbuild-bundled set of dependency-free .cjs scripts serves both: Claude Code gets them through a plugin marketplace repo (SessionStart restore, UserPromptSubmit recall, Stop capture-and-flush, PreCompact persist, PreToolUse recall gating, a /dmemo:status command, and dmemo-save / dmemo-search skills), and Codex gets the identical files via an idempotent merge into ~/.codex/hooks.json. OpenCode uses chat.message, chat.messages.transform, and the compaction hook; OpenClaw uses its exclusive memory slot with before_prompt_build and agent_end. Hermes is a Python MemoryProvider on the same blob spec over a Node bridge — and because Hermes' prefetch budget is 3 seconds while a cold restore is about 6 seconds for a 568KB checkpoint, the provider pays restore once inside initialize() at startup and keeps the engine resident, turning per-turn prefetch into 15-85ms. Every hook fails open: with no key configured, they do nothing rather than break your session.\nThe notably hacky parts:\n\n\nNever asking for a private key. Onboarding serves a page on 127.0.0.1, discovers wallets via EIP-6963, and asks for one plain-text signature (no transaction, no gas), then derives a separate account from the signature bytes via HKDF-SHA256. Your wallet's own key is never requested, typed, or transmitted — there is deliberately no prompt in the CLI that asks for one, because that's the exact habit phishing relies on. A --scope flag derives further isolated accounts from the same wallet.\n\n\nOnboarding a user with no crypto at all. Memory writes cost gas, so dmemo fund serves a local page with three rails: send 0G from a discovered browser wallet; convert ETH or USDC from Base, Arbitrum, Optimism, Polygon, or BNB; or pay by card, Apple Pay, or Google Pay (via an embedded Tokenflight widget) which needs no wallet and no crypto. The destination address is locked into the payment URL and not editable from inside the page, and \"funded\" is always a fresh eth_getBalance read off the chain — never something the payment page claimed.\n\n\nStack: TypeScript, pnpm workspaces, mem0 OSS, @0gfoundation/0g-ts-sdk, ethers, fastembed/onnxruntime, better-sqlite3 and bun:sqlite, esbuild, Node 20+ and Bun, Python for Hermes, and Next.js 16, React 19, Tailwind v4, and Base UI for the site.",
     "prizes": [],
     "githubUrl": "https://github.com/dmemo-ai/dmemo",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1795,7 +1795,7 @@
       }
     ],
     "githubUrl": "https://github.com/GianfrancoBazzani/orloj-registry",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1819,7 +1819,7 @@
     "howItsMade": "The core is a typed Python application with Pydantic models for financial facts, legal qualifications and versioned tax-rule snapshots.\nDeterministic calculators apply French and Portuguese tax brackets, social contributions, withholding taxes and treaty credits. Multi-year structuring is formulated as a mixed-integer optimisation problem and solved with SCIP through OR-Tools, while Z3 checks important invariants and verifies that reported strategies satisfy the encoded constraints. FastAPI exposes calculation, optimisation, verification and rule-snapshot endpoints.\nThe frontend is built with React, Next.js and vinext for a Cloudflare-compatible runtime. It provides responsive inputs and recalculates a focused 2026 France–Portugal comparison directly in the browser. The complete Python engine remains the reference for multi-year optimisation and audit trails. Automated tests cover tax calculations, API behaviour, solver constraints and server-rendered frontend output; CI validates both the Python and TypeScript stacks.",
     "prizes": [],
     "githubUrl": "https://github.com/Gwen-M/optimizorrrr",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1831,7 +1831,7 @@
     "howItsMade": "Model Passport pairs a Python CLI with a zero-dependency judge UI. It resolves pinned Hugging Face revisions, canonicalizes manifests, and recomputes SHA-256 content roots locally. A Solidity registry on Base Sepolia anchors lineage; ENS enables discovery, while a The Graph subgraph exposes verification evidence.",
     "prizes": [],
     "githubUrl": "https://github.com/alogotron/Huggingface-Passport",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1843,7 +1843,7 @@
     "howItsMade": "The Graph (partner): one query written against the Messari standardized DEX-AMM schema is fanned across each AMM's subgraph via the decentralized gateway — adding a venue is one line of config, zero code. We compose two Graph products: the standardized subgraph plus the Subgraph MCP (used to discover/resolve the deployment IDs). The toxicity metric is oracle-free — execution price comes from each swap's own amounts, the reference mid from on-chain reserveAmounts, and USD fields are used only for notional weighting. A one-hop funding-graph provenance pass flags fresh wallets funded by known sharks, closing the wallet-rotation evasion.\n1inch (partner): three custom SwapVM opcodes appended to AquaOpcodes — a global spread, a per-taker toxic-flow toll, and a depeg circuit breaker — each reads an on-chain ParamOracle every swap via read-only staticcalls, preserving the quote==swap discipline (spread fails safe to max, toll fails open). Swaps settle as real ERC-20 transfers through Aqua's ship/pull/push.\nUniswap (partner): a v4 hook (BaywatchV4Hook) reads the SAME bytes32-keyed ParamOracle — a v4 PoolId slots exactly where the SwapVM orderHash goes — mapping the market index to a dynamic LP-fee override and the reputation to a per-swapper surcharge, and recovering the real swapper via Uniswap's official IMsgSender pattern behind a trusted-router allowlist.\nAn off-chain agent (deterministic, no LLM) ties it together: fetch → score → post the spread + tolls to the oracle, keyed by both the Aqua order and the v4 pool, so one signal defends both. Notably hacky: a dual-solc Foundry build (0.8.30/via-ir for the 1inch stack, 0.8.26/legacy pipeline for v4-core, via compilation restrictions) so both compile in one repo, and CREATE2 salt-mining to land the v4 hook at an address whose bits encode its permissions.",
     "prizes": [],
     "githubUrl": "https://github.com/mcmoodoo/baywatch",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1895,7 +1895,7 @@
       }
     ],
     "githubUrl": "https://github.com/fac3m4n/vouch",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1927,7 +1927,7 @@
       }
     ],
     "githubUrl": "https://github.com/PerkOS-xyz/PerkOS-EQLTY",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -1959,7 +1959,7 @@
       }
     ],
     "githubUrl": "https://github.com/akhtarshahnawaz/sui-ethglobal-lisbon-2026",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -2003,7 +2003,7 @@
     "howItsMade": "I used my blockchain engineer agent ístina (claude backend) to help me polish this maze. I additionally did a lot of research on ENS and tried to hack together the profile based score board. Additionally I setup pipelines for auto deploying on my scaleway account, and set up a registrar based serverless function to register the mazes and compute the optimal number of moves for the purpose of scoring and achievement badges",
     "prizes": [],
     "githubUrl": "https://github.com/vividn/mazeking_ethlisbon",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -2202,7 +2202,7 @@
       }
     ],
     "githubUrl": "https://github.com/acollette/alba",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -2294,7 +2294,7 @@
     "howItsMade": "I used full-stack technologies throughout the project, developing a smart contract in Solidity, a backend, a web application, and helper scripts in TypeScript. The payment dashboard is built as a Next.js application.\nUnder the hood, I integrated World AgentKit and ENS tools for domain registration, subdomain registry management, and granting permissions to enable agents to create domains automatically.\nAs a solo developer, I leveraged AI extensively through Cursor. To deliver a working project within the tight hackathon timeline, I provided detailed instructions and implementation plans to my Coder and Reviewer agents.\nOverall, everything went smoothly thanks to excellent documentation from both World and ENS. The most challenging aspect was the frontend, so I stopped at a minimal version that provides essential functionality—something that can be significantly improved and extended in the future.\nAs with blockchain development in general, debugging failed transactions and contract calls proved difficult but entirely manageable. Overall, the ENS functions and contracts performed reliably.",
     "prizes": [],
     "githubUrl": "https://github.com/krglsn/billie",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -2350,7 +2350,7 @@
     "howItsMade": "Clean Endpoints connects an autonomous client script (running Node.js or Python) to a headless Express microservice using the x402 micropayment protocol. When an agent requests a health check, x402 handles a $0.10 USDC fee directly over HTTP headers, bypassing traditional API keys. The backend then uses The Graph to batch-query all wallet LP NFTs at once. If a position drops out of range, the server leverages the Uniswap V3 SDK to calculate optimal tick boundaries and the Uniswap API to compute a 50/50 rebalancing swap. Viem then encodes the full sequence—withdrawal, swap, and re-mint—into a raw calldata payload returned to the agent wallet for signing.\nIt is currently deployed in local environment. It interacts with a base-mainnet fork and a local The Graph node for complex data retrieval.\nA highlight is its zero-custody design: instead of deploying a smart contract vault that takes custody of user tokens, Viem packages multi-step contract calls into a single signable bundle off-chain. This creates a deterministic \"math wall\" that protects against LLM hallucinations while keeping assets entirely in the user's control.",
     "prizes": [],
     "githubUrl": "https://github.com/jaimebarrancos/agent-endpoints",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {
@@ -2579,7 +2579,7 @@
     "howItsMade": "A Solidity contract built on OpenZeppelin v5: we extend ERC20Wrapper for 1:1 wrap/unwrap.\nPending transfers are keyed by a monotonic id with O(1) operations. Funds sit as the wrapper's own tokens at the contract address, so every send/cancel/claim emits a real ERC-20 Transfer event and stays fully backed. A factory deploys one wrapper per token. Built and tested with Hardhat 3, viem, and TypeScript.",
     "prizes": [],
     "githubUrl": "https://github.com/germartinez/unsend-contracts",
-    "demoUrl": "https://x.com/ethglobal",
+    "demoUrl": "",
     "teamMembers": []
   },
   {

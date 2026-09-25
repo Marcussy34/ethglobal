@@ -1,0 +1,2759 @@
+[
+  {
+    "name": "FlexPay",
+    "slug": "flexpay-1yt8q",
+    "description": "FlexPay is a cutting-edge platform that streamlines the management of freelancers for institutions, offering seamless contract creation, identity verification, and automated payments through smart contracts, ensuring secure and efficient compensation for freelance work.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Supersplit",
+    "slug": "supersplit-sb1j9",
+    "description": "allows you to share costs keep eachother accountable and earn yield",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockWallet",
+    "slug": "blockwallet-y3ywd",
+    "description": "A revolutionary wallet to settle your payments on your desired chains",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "orbvibe",
+    "slug": "orbvibe-52z2a",
+    "description": "Real world vibes with real people - attend events with like-minded individuals without worrying if they're real or not.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Hacsy Markets",
+    "slug": "hacsy-markets-fwg1e",
+    "description": "Hacsy Markets is an onchain prediction market based on mints on onchain spot price, that enables a wider reach of resources to 2nd degree wallets enabled by an offchain mixer",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CivGuard",
+    "slug": "civguard-juifx",
+    "description": "CivGuard is a privacy-focused voting system ensuring secure, anonymous, and verifiable local elections using advanced encryption and privacy-preserving tech. Vote with confidence and transparency! #Privacy #ElectionSecurity",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "RaiseCoin",
+    "slug": "raisecoin-bzeu0",
+    "description": "Raisecoin is a decentralized fundraising platform deployed on the Base blockchain. It enables fast, low-cost global transactions, breaking down geographical and financial barriers to make secure, transparent fundraising accessible to everyone worldwide.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ValuesDAO",
+    "slug": "valuesdao-3knt9",
+    "description": "ValuesDAO is a composable web3 social profile. ValuesDAO is a data layer for deep human data like Values and Beliefs.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockBatch",
+    "slug": "blockbatch-3y8i8",
+    "description": "Environment agnostic SDK for enabling native and ERC20 batch txns over EVM chains",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "SuDapp",
+    "slug": "sudapp-ebpa9",
+    "description": "Creating SuDapp - Hackathon Partner Finder   platform to meet and beyond hacker friends",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Lottery",
+    "slug": "crypto-lottery-tf0p1",
+    "description": "Create Lottery or Giveaway with fair and verifyable rules for your community",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Phoenix Pay",
+    "slug": "phoenix-pay-0oqpq",
+    "description": "Phoenix Pay Bot is a Telegram bot designed to simplify multi-chain cryptocurrency payments and split expenses.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PortfolioManagement",
+    "slug": "portfoliomanagement-a6uh2",
+    "description": "Rebalancing portfolios using real-time data to leave the market decisions rely on algorithms based on Data",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "oneshot.fun",
+    "slug": "oneshot-fun-6va0h",
+    "description": "A website you can only play once in your lifetime, powered by World ID. This site is designed to convey the message that \"you only live once\" through storytelling.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ratioed.fun",
+    "slug": "ratioed-fun-6u0qp",
+    "description": "A prediction market app for betting on whether a tweet will get ratioed (one of the replies will get more likes than OP).",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PetType Game",
+    "slug": "pettype-game-wxf7o",
+    "description": "Typing game with a pet feeding concept, users create and name a virtual pet, starting with a set amount of calories.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Social Tokens",
+    "slug": "social-tokens-mk7f0",
+    "description": "We have built a user Engagement platform which allows new platforms to launch their social tokens with bond curve mechanism and top of it we have used Farcaster followers and Pyth oracel to give bonus tokens",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TryToBuild",
+    "slug": "trytobuild-17sad",
+    "description": "Decentralized gpu service. We did implematation of p2p gpu share but we got some mistake while setup opStack so we couldn't finalize that project",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockchain101",
+    "slug": "blockchain101-ra26k",
+    "description": "A blockchain info hub that simplifies decentralized tech. Our website simplifies blockchain, crypto, NFTs, and DeFi concepts for beginners.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FxList",
+    "slug": "fxlist-vt2gg",
+    "description": "Empowering businesses to offer their shares directly to the public in a transparent and efficient manner.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ContractSentinal",
+    "slug": "contractsentinal-f7tgv",
+    "description": "ContractSentinel automates CI/CD for smart contracts with GitHub Actions and Tenderly, using Docker for hosting. It features AI-driven auditing, with reports attested by EAS powered by base blockchain.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CCIP Flip-A-Coin",
+    "slug": "ccip-flip-a-coin-tv9i2",
+    "description": "This is a simple game to demonstrate chainlink CCIP, the idea is to use a Contract which is deployed on Chain A to interact with another contract deployed on Chain B",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "LinkUp",
+    "slug": "linkup-37rj7",
+    "description": "Discover love in Web3! Whether you're a DeFi degen, governance guru, or meme coin lover, find your match and earn Boo Tokens for verifying users. Get rave reviews from 5 matches and score Boo Credits!",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "StakeMyEth",
+    "slug": "stakemyeth-m9k3t",
+    "description": "This smart contract allws a user to stake their ETH in and get lsETH liquid staking tokens which can be used to earn yields.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Agent 3.0",
+    "slug": "web3agent-3-0-pfywf",
+    "description": "Web3Assistant: Empowering Users to Seamlessly Access DeFi, Send Transactions, and Retrieve Portfolio Insights in Plain English, with Unified API Support for Both EVM and Non-EVM Platforms.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "0vx1d"
+    ]
+  },
+  {
+    "name": "Gas Fee betting",
+    "slug": "gas-fee-betting-7xhjd",
+    "description": "Fullyonchain is a decentralized gas fee betting platform allowing users to bet on future gas prices and manage their liquidity on the Ethereum blockchain, leveraging Solidity smart contracts for secure and transparent transactions.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Base Cards",
+    "slug": "base-cards-coaq4",
+    "description": "Buy gift cards with crypto directly from Farcaster frames using BaseCards",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Domino L2",
+    "slug": "domino-l2-qzyh1",
+    "description": "You'll get your withdrawls in 30 minutes: just like Domino's!",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaSphere",
+    "slug": "metasphere-wc3f3",
+    "description": "I utilized a webvr framework called aframe to create the web-vr-nft.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShopifyEcomFrames",
+    "slug": "shopifyecomframes-mqacd",
+    "description": "Introducing ShopifyBasedFrame: Seamlessly integrate your Shopify store with Smart Wallet for a streamlined shopping experience. Customers can order products directly within Frames and earn Onchain NFT rewards for each purchase.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "BASEpac",
+    "slug": "basepac-8954w",
+    "description": "BASEpac is an engaging \"tap to earn\" game designed to introduce users to the world of Web-3. In BASEpac, players tap a character to earn small amounts of ether with each tap.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shazam Pacman",
+    "slug": "shazam-pacman-3x6p8",
+    "description": "Shazam Pacman is a decentralized Pacman game built using React and Solidity. The project integrates Web3 authentication through Web3Auth, and users can interact with the game on the blockchain, tracking their scores and retrieving top users via Blockscout.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "BaseEarn",
+    "slug": "baseearn-oigo7",
+    "description": "BaseEarn is a user-centric platform that connects creators with the Base ecosystem. Earn bounties, engage with innovative projects, and help shape the future of the decentralized internet. Built with cutting-edge tech, BaseEarn is your gateway to the new web.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OG Tafl",
+    "slug": "og-tafl-d4sah",
+    "description": "On-chain Hnefatafl game with collectible King NFTs that could be won in battles",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Super Print Screen",
+    "slug": "super-print-screen-h2j8x",
+    "description": "Create Crypto Proof instead of Screenshot. e.g. capture what your AI says",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VerdictVault",
+    "slug": "verdictvault-8mui0",
+    "description": "Verdict Vault is a decentralized platform that manages contracts and resolves disputes between clients and freelancers. Using smart contracts for escrow and arbitration, it ensures funds are released only when work is completed as agreed, ensuring transparency and fairness.",
+    "event": "Superhack 2024",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "992b8",
+      "g7h9m",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "MintAFanta",
+    "slug": "mintafanta-rwppf",
+    "description": "Mint a fanta. Click the button to get a fanta :) Créez un fanta. Cliquez sur le bouton pour obtenir une fanta :)",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Capital Finance",
+    "slug": "capital-finance-175h6",
+    "description": "Capital Finance: A cross-chain yield aggregator maximizing USDC returns on Optimism and Base. Leverages Chainlink's CCIP for secure, automated yield optimization across multiple DeFi protocols. Your gateway to supercharged, cross-chain DeFi yields.",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "eirr9",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "Eventur",
+    "slug": "eventur-hf0ko",
+    "description": "Create, manage, and attend events with ease. Highly composable and built on Base.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "CeloAid",
+    "slug": "celoaid-uqena",
+    "description": "CeloAid is a decentralized fundraising platform on the Celo blockchain, empowering users to support meaningful causes with transparency and trust.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Rent3",
+    "slug": "rent3-8q0qv",
+    "description": "Rent3 is a decentralized rental platform that provides a secure and transparent rental experience, leveraging Worldcoin and Blockscout. Deployed on Mode.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "evm-explorer",
+    "slug": "evm-explorer-ehugj",
+    "description": "💠 Explore non-fungible tokens (NFTs) on blockchains that are compatible with the Ethereum Virtual Machine (EVM).",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "attestation-kit",
+    "slug": "attestation-kit-fse9e",
+    "description": "Libraries and tools for reading and creating schemas and attestations with EAS on the blockchain and offline",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GovLens",
+    "slug": "govlens-5ogc7",
+    "description": "Real-time governance analytics for stronger DAOs. Track voter turnout, proposal success, and more.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "RA - AI Agent",
+    "slug": "ra-ai-agent-1a2xy",
+    "description": "RA - AI Agent allows users to initialize the Research mode while publishing it as an NFT, granting them full ownership.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "ArtGridz",
+    "slug": "artgridz-heytj",
+    "description": "An onchain pixel art dApp where every change is permanently stored, demonstrating blockchain immutability. Sponsored gas fees make it accessible for all, easing onboarding and participation.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Breeze",
+    "slug": "breeze-sbztj",
+    "description": "Turbocharged multi-chain bridging with limit orders, DCA, and instant transfers.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Standard CLOB",
+    "slug": "standard-clob-rowte",
+    "description": "Standard is an real-time, fully onchain CLOB which provides fair and transparent order flow on blockchain.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MerchantsPay",
+    "slug": "merchantspay-yfeym",
+    "description": "Seamlessly connect merchants and customers across multiple blockchains with a secure and efficient payment system",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EasyPay",
+    "slug": "easypay-xicym",
+    "description": "A payment link generator for small businesses to help receive payments in USDT",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "NexTrade",
+    "slug": "nextrade-cfqg1",
+    "description": "We created a P2P marketplace where sellers list their tokens and buyers buy according to listings. Payments can be made direclty via wallets or bank transfers via attestation reports.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Delta-X Reward",
+    "slug": "delta-x-reward-3wdy7",
+    "description": "Delta-X Rewards is a decentralized rewards system that grants users Delta-X tokens based on their wallet transactions.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blue Finance",
+    "slug": "blue-finance-t3qzv",
+    "description": "ERC4626 Vault Factory integrating lending protocols to leverage on your favorite assets",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "kkegz"
+    ]
+  },
+  {
+    "name": "UNI-Bridge",
+    "slug": "uni-bridge-8w5hm",
+    "description": "UNI Bridge for All BlockChains, Our mission is to aggregate as much decentralized bridges for connecting different blockchains and take over the centralized exchange platforms.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AltInvest",
+    "slug": "altinvest-tkvx9",
+    "description": "AltInvest is an investment platform for crypto investors. AltInvest connects investors with companies and provides fixed income opportunities through invoice discounting.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Speedyploy",
+    "slug": "speedyploy-to79u",
+    "description": "Quick deployment of NFTs or ERC20s! Email, SMS, or Passkey to deployment in minutes.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Super Crypto Agent",
+    "slug": "super-crypto-agent-vgakz",
+    "description": "Agent that combines AI and Defi to easily analyze your crypto and swap it to the coin of your choice",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Based Trivia",
+    "slug": "based-trivia-607hx",
+    "description": "A live trivia game built using ThirdWeb on Optimism, Base, Mode and Livepeer. (HQ Trivia for Web3))",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Animated Umbrella",
+    "slug": "animated-umbrella-7tm2e",
+    "description": "Crypto betting redefined with gasless transactions and 2 click bet",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aHand",
+    "slug": "ahand-k5yw5",
+    "description": "A fully onchain gassles lightweight tool for person to find a solution to their problem via any social net by utilizing theory of n-degrees of separation and gamified incentive: raise a hand, shake it, give it and get rewarded",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EAS Pulse",
+    "slug": "eas-pulse-yhn4i",
+    "description": "EAS Pulse is a Dune analytics dashboard built from scratch for the Superhack 2024 for all about Ethereum Attestation Service: attestation usage, daily, weekly, monthly and quarterly performance, revenue generation, and trends in the superchain and other blockchain networks.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kiss or Slap",
+    "slug": "kiss-or-slap-bbn3c",
+    "description": "Kiss or Slap is an on-chain social app on Farcaster Frame creating a fun social experience of meeting strangers with underlying prisoner dilemma & tokenomics.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4o3cq",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "BitThetaSecure",
+    "slug": "bitthetasecure-f2kv3",
+    "description": ".BitTheta Secure is a cutting-edge decentralized platform for secure asset transfers, blending zkSync for privacy, Theta Network for decentralized storage, and Naoris for cybersecurity. It's the future of secure, efficient, and cross-chain transactions",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CommuDAO",
+    "slug": "commudao-i64gr",
+    "description": "A Tool to create and manage DAOs across multiple chains. It uses Chainlink CCIP for managing cross chain voting on proposals and  WorldCoin in order to verify people.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "EasyBiz",
+    "slug": "easybiz-pw09u",
+    "description": "Easy to use web3 CMS platform for P2P sales focused on micro-small sale companies. Our innovative approach, anyone can create an EasyBiz, collect payments with QR code via Celo MiniPay and administrate performance anywhere anytime!",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "4LoLZ",
+    "slug": "4lolz-dqc44",
+    "description": "Unleash the power of meme coins on our blazing-fast OP Stack L2! Instantly mint your own memecoin for under $1, complete with on-chain storage, dynamic analytics, yield-generating vaults, and a \"Go Viral\" toolkit—all crafted to make your meme go mainstream in seconds!",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "4uiut"
+    ]
+  },
+  {
+    "name": "SuperGraph",
+    "slug": "supergraph-dej6w",
+    "description": "The super social graph, bridging Web2 and Web3 to create Web5 world. Twitter x Threads x Mastodon x Blockchain, built on Farcaster.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "EAS Developer Kit",
+    "slug": "eas-developer-kit-wwh1o",
+    "description": "Unlock the full potential of EAS with our developer tool and eas-react SDK! Track, visualize, and analyze schemas and attestations in one intuitive dashboard. Seamlessly integrate React components to bring your data to life—tailored for builders, by builders!",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TalentMesh",
+    "slug": "talentmesh-fw829",
+    "description": "###   An attestation dApp designed for endorsing professional skills, allows users to validate and recognize each other's skills in a trustless and transparent manner",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FundFusion",
+    "slug": "fundfusion-aim5x",
+    "description": "A grants management system that provides a comprehensive solution to manage and track grants efficiently.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperBoard",
+    "slug": "superboard-9ueqg",
+    "description": "SuperBoard empowers developers with AI-driven analytics for superchains like Optimism. Using our Blockscout Python SDK, it provides EAS insights, network graphs, and comprehensive dashboards, simplifying Web3 development and optimizing projects—all in one platform!",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "commit.bet",
+    "slug": "commit-bet-3kozd",
+    "description": "commit.bet is a contest platform that turns your commitments into rewards. Stake crypto on personal goals with communit, achieve milestones and earn rewards!",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defidvisor",
+    "slug": "defidvisor-qai2r",
+    "description": "AI-Powered DeFi Advisor: A secure, user-friendly platform that provides personalized investment advice, risk assessment, and portfolio management. Get real-time insights, track whale activity, and access AI-driven DeFi strategies—all with seamless World ID login.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "DumpNotFun",
+    "slug": "dumpnotfun-hqpfn",
+    "description": "Dump is not fun, but at least you can short memecoin now! Built on Mode Network.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xList",
+    "slug": "0xlist-vo460",
+    "description": "The world’s largest onchain marketplace. List, buy and sell anything onchain superfast.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solar Pay",
+    "slug": "solar-pay-owvo9",
+    "description": "Revolutionary utility bill payments with seamless, secure, and decentralized experience",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Slip'n'Slide Game",
+    "slug": "slip-n-slide-game-krkjp",
+    "description": "In this hackathon, we build a fun \"Slip'n'Slide\" Game, where the user slides around the map until they find the finish line.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Needle",
+    "slug": "needle-4kzjz",
+    "description": "A decentralized Twitter-like social app network on Arweave",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrowdCaster",
+    "slug": "crowdcaster-f35su",
+    "description": "CrowdCaster is a decentralized crowdfunding plaform powered by Farcaster's frames",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "AlternateDefi",
+    "slug": "alternatedefi-gm5dw",
+    "description": "An alternate orderbook view of the complex AMMs like uniswap v3, helps people understand the amms better.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fightnight.fun",
+    "slug": "fightnight-fun-52s3v",
+    "description": "A trading platform that rewards honest memecoin traders with fun payout mechanisms.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g7h9m",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "CarbonTrace",
+    "slug": "carbontrace-t09yo",
+    "description": "A platform where companies buy carbon credits on-chain with a token (CBT). Offsetters propose environmental projects for funding, which are reviewed by validators. Approved projects receive funds, ensuring transparent, impactful carbon credit generation.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pepechain",
+    "slug": "pepechain-fbvh1",
+    "description": "Pepechain is a Layer 2 ecosystem powered by $PEPE that brings utility to memecoins by leveraging the mass appeal of memes to onboard new users into DeFi & Ethereum.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockhead: SH '24",
+    "slug": "blockhead-sh-24-kw3vj",
+    "description": "Explore the Superchain and Ethereum Attestation Service on Blockhead, an open-source interface for the decentralized web.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Quiza",
+    "slug": "quiza-gpot8",
+    "description": "Quiza is an account abstracted decentralized platform for secure, transparent job posting, bidding, and payments on-chain. Smart contracts streamline job completion, reputation tracking, and payments, ensuring trust and efficiency for freelancers and clients.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Drew Localhost",
+    "slug": "drew-localhost-5regi",
+    "description": "Run frontend of popular dApps locally for increased security & decentralisation, launch from within a desktop app. No more drainers and frontend hacks! Drew Localhost has you covered",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chainproof",
+    "slug": "chainproof-ik112",
+    "description": "Onchain notarization and verification service on Base powered by EAS.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "trador",
+    "slug": "trador-ndxo8",
+    "description": "this a project i couldn't complete due to time constraints, it was supposed to be magical",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AttestationOS",
+    "slug": "attestationos-2xibz",
+    "description": "An ecosystem of various EAS attestations powered tools, each showcasing the use of attestations in a different way",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BountyMarket",
+    "slug": "bountymarket-9koh8",
+    "description": "Bounty Market bridges the gap between companies and individuals by providing a platform where tasks are completed for rewards.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Opus Testnet",
+    "slug": "opus-testnet-q1081",
+    "description": "Opus Testnet is an experimental spin-off from the Ethereum Optimism network, designed to serve as a sandbox for learning and innovation.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "op-flash",
+    "slug": "op-flash-5q3q6",
+    "description": "DeFi Flash Loan Aggregator: Maximize capital efficiency by sourcing uncollateralized loans from multiple protocols. Optimize for best rates and largest sizes, enabling complex DeFi strategies without capital lockup.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OptiBook",
+    "slug": "optibook-p7ih5",
+    "description": "An Application Specific High Throughput Blockchain that runs as an OrderBook built on top of OPStack.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4o3cq"
+    ]
+  },
+  {
+    "name": "Borrow.ai",
+    "slug": "borrow-ai-k1edy",
+    "description": "Borrow.ai is a leverage aggregator that interfaces with multiple lending protocols to optimize the liquidity and positions of both lenders and borrowers. Lenders can choose the most optimal pool to stake based on their risk and APY preferences.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "River Protocol",
+    "slug": "river-protocol-u02mk",
+    "description": "A grant distribution platform for DAOs to grant funding to projects and grow their",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "CeloClub",
+    "slug": "celoclub-y6ap2",
+    "description": "Treasury management dapp, Dao based aplication, Student LOan, Funding",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CloseCaster",
+    "slug": "closecaster-zdfn1",
+    "description": "A concept of allowing curated and closed experiences for verified users on FarCaster",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperframeNFT",
+    "slug": "superframenft-z8fpi",
+    "description": "Project using SuperChains with OPSTACK, forked locally with op-node and op-geth. NFTs can be minted on any superchain by paying on BASE chain via OwlProtocol. Creators verified with WORLDID Authentication, mints on Frames, USDC set by creator.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "kyc-onchain",
+    "slug": "kyc-onchain-c5d55",
+    "description": "privately attesting to kyc details so they are available for all \"broker/dealer\" apps if current us legislation gets enacted",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Humanize",
+    "slug": "humanize-t1opj",
+    "description": "Humanize is a platform that attest users contributions to the blockchain ecosystem.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "LuciBot",
+    "slug": "lucibot-jcp4h",
+    "description": "LuciBot simplifies DeFi by providing intelligent recommendations, real-time data, and easy transaction execution, making decentralized finance accessible and efficient 🚀",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fn4k5"
+    ]
+  },
+  {
+    "name": "InvestRight",
+    "slug": "investright-u8p72",
+    "description": "Launching a decentralized crypto prediction platform that merges blockchain with social networking for transparent, accurate market forecasts. Engage, stake, and earn through peer-reviewed predictions and attestations!",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Hero Network",
+    "slug": "hero-network-wrkun",
+    "description": "An OP Stack Rollup build with Conduit and Eigen DA on which you can mine ERC20 Tokens",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Frames Creator",
+    "slug": "ai-frames-creator-g8qzb",
+    "description": "Platform for creating Frames for Farcaster using AI. You set the frame’s topic, and the platform generates all the necessary code and instantly deploys the application for use in Farcaster.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2t2i9"
+    ]
+  },
+  {
+    "name": "Pixel L3",
+    "slug": "pixel-l3-1ade3",
+    "description": "EthBet.games leverages Pixel L3 on Base-Sepolia for ultra-low gas fees in a provably fair online casino. Powered by OpStack, Pyth Entropy, WorldID, Blockscout, Base, and Conduit it offers secure, fast blockchain gaming. #BlockchainGaming #PixelL3",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "g7h9m",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "OP Concierge Suite",
+    "slug": "op-concierge-suite-5o70b",
+    "description": "Developer tools to enable concierge and cab companies to streamline operations with a comprehensive suite of software tools and utilities on Optimism blockchain.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Godbase",
+    "slug": "godbase-m7fjj",
+    "description": "Godbase is a meme-focused order book DEX on Base, offering seamless spot trading with no slippage, lower gas fees, and ERC-20 gas payments. Tailored for the Based community, Godbase empowers creators and traders with a new, cost-efficient way to trade and grow..",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Resell  Store",
+    "slug": "resell-store-dn7qk",
+    "description": "Any can sell re sell their old items on   this without any intermediate.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Operation Chokepoint",
+    "slug": "operation-chokepoint-ex8mp",
+    "description": "Fight as a Punk or Fed in Operation Chokepoint. Players will need to cooperate or strategically sabotage in order to get the most points.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EigenSync",
+    "slug": "eigensync-wspu7",
+    "description": "EigenSync allows verifying aggregated BLS signatures by EigenLayer operators on any EVM chain by mirroring their keys and stakes on them. This lets developers grant contract ownership on those chains to EigenLayer operators, a feature previously limited to mainnet.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Optionism",
+    "slug": "optionism-tr8uf",
+    "description": "Optionism is a permissionless platform to write or buy options of derivatives based on a wide range of assets market, like equities, commodities, fx. It uses PythNetwork Pull oracle prices + Gelato Web3 Function to cash-settle option contracts on derivatives products.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "PostAndVote",
+    "slug": "postandvote-wtnxp",
+    "description": "A Web3-based social media platform for creators to post content and compete in daily events. Users log in with Worldcoin, vote on posts, and win rewards. Smart contracts manage profiles, events, and rewards, promoting decentralization, transparency, and creativity.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "CookieJarProtocol",
+    "slug": "cookiejarprotocol-qb6mp",
+    "description": "Cookie Jar Protocol streamlines fund allocation in DAOs with optimistic governance and high social trust. Members can withdraw small token amounts with minimal overhead, ensuring transparency and accountability via Ethereum Attestations on EAS and Farcaster frames.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "MemeChain",
+    "slug": "memechain-ij2sj",
+    "description": "MemeCast ⛓️ - Get your Memes attested on-chain. Imagine, where the creator of meme gets his originality of creating the memes and he/she who is sharing the meme gets reward tokens.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Opti.Vote",
+    "slug": "opti-vote-wq3nf",
+    "description": "OptiVote empowers developers of all levels to participate in Retro Funding 5 voting in accordance with the official design, onboarding thousands of developers and providing a new perspective on voting analytics.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zephy",
+    "slug": "zephy-01pe2",
+    "description": "Consumer app revolutionizing finance: Seamless link-based payments, instant loans, and more. Empowering users with accessible, decentralized financial tools for the modern economy.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BetBazaar",
+    "slug": "betbazaar-4iofx",
+    "description": "A prediction market based on the Pari-Mutuel algorithm where participants can create market, place bets on the outcomes of specific events, and the payouts are determined by a pooled betting approach.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "DePay",
+    "slug": "depay-548hu",
+    "description": "DePay is a cross-asset decentralised payment gateway designed to facilitate seamless and secure cryptocurrency transactions.  Making it easier for businesses and individuals to accept and process crypto payments.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Deximpli",
+    "slug": "deximpli-inoab",
+    "description": "Deximpli is a cross-chain dapp built on Base, Optimism, Mode, and Celo. It offers a user-friendly experience for token swaps, liquidity provision, staking, yield farming, and lending. Unique features include sending crypto via email (no wallet needed) and a cross-chain bridge.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Esusu",
+    "slug": "esusu-5wa6a",
+    "description": "A decentralized savings platform that enables users to create and manage savings groups (Ajo/Esusu) on the Celo blockchain, leveraging smart contracts for secure, transparent, and automated transactions.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kyoso",
+    "slug": "kyoso-8g1nn",
+    "description": "Users select five types of tokens and their ratios to create a portfolio. Other users can buy this portfolio to earn profits. The platform offers seamless token selection and portfolio creation, integrating with Farcaster for enhanced communication and engagement.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "airline",
+    "slug": "airline-w6vn1",
+    "description": "A simple attestation and MM snap based token distribution service.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PromisePay",
+    "slug": "promisepay-sr1vh",
+    "description": "PromisePay replaces verbal commitments with financial incentives and penalties, boosting the likelihood of fulfillment. This approach makes it ideal for various life and work scenarios, particularly in crypto events and project commitments, enhancing participation and community.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Tiny Quests",
+    "slug": "tiny-quests-9gfwe",
+    "description": "Fun way to achieve short term saving goals through gamification",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IMMI",
+    "slug": "immi-zs2gn",
+    "description": "IMMI (It's My Medical Information) lets you give access to your records in seconds!",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Charity Base",
+    "slug": "charity-base-4vdsd",
+    "description": "Charity Base is a BASEd decentralized streaming platform where creators can create charity-based streams for social, environmental and economic causes.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "TrustFolio",
+    "slug": "trustfolio-2di9j",
+    "description": "Platform to connect companies, researchers, and scientists with the data they need. Share your insights, earn tokens, and transform the way knowledge is exchanged—fairly and transparently. Embrace the future of data sharing!",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "lazyswap",
+    "slug": "lazyswap-4t22y",
+    "description": "LazySwap envisions a future where cross-chain cryptocurrency swaps are as effortless as a single message.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RateCaster",
+    "slug": "ratecaster-5ykix",
+    "description": "RateCaster is a Social Rating System for Dapps. Built on Base, integrated with Warpcaster. Uses EAS for ratings and attestations",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Draw dash",
+    "slug": "draw-dash-x8y82",
+    "description": "DrawDash is an on-chain, AI art game that puts your creativity to the test! You’ll get a text prompt that generates an AI image, then you have just 60 seconds to sketch your version. The closer your sketch matches the AI's image—and the faster you finish—the higher your score.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Trusted OP Buildoors",
+    "slug": "trusted-op-buildoors-sdetp",
+    "description": "Grow the number of technical knowledgeable citizens that can participate in OP Stack RetroRounds on a p2p EAS attested trust basis.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YoTeAyudo",
+    "slug": "yoteayudo-bkst1",
+    "description": "An app to help gig workers secure affordable loans through community support, utilizing the Celo Minipay wallet.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Project Ivory",
+    "slug": "project-ivory-ypqnc",
+    "description": "A solution to help identify online scams and fraud content using attestations on Ethereum Attestation Service",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XocPay",
+    "slug": "xocpay-uji2b",
+    "description": "The easiest way to spend, save and invest the USD sent by your family",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "popupfaucet",
+    "slug": "popupfaucet-p03jk",
+    "description": "An ephemeral faucet creator ✨ use the CLI app to create a faucet or claim testnet tokens",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Siera",
+    "slug": "siera-fefi6",
+    "description": "An explorer for the Superchain with ERC3770 chain-specific addresss and ERC7683 Transfers",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "XChain Lend",
+    "slug": "xchain-lend-trenx",
+    "description": "A cross-chain lending and borrowing platform that helps users to lend and borrow tokens across different chains using Chianlink ccip.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GasTrade",
+    "slug": "gastrade-wrpuf",
+    "description": "A revolutionary trading system on Base that tokenizes gas prices across L2 chains (Arbitrum, Base, Optimism). Swap tokens pegged to real-time gas prices, enabling hedging and speculation. Powered by CCIP for cross-chain data, creating a unique DeFi instrument.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "Hotspots",
+    "slug": "hotspots-c3781",
+    "description": "Experience seamless Wi-Fi access with our crypto-powered captive portal! Pay for subscriptions or make donations using your favorite cryptocurrencies. Enjoy secure, transparent transactions and instant internet access. #Crypto #Blockchain #WiFi #Innovation",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "DcodeBlock",
+    "slug": "dcodeblock-t6b6i",
+    "description": "DcodeBlock gamifies Web3 development with thematic projects and clan-based collaboration, enabling developers to learn, build, and earn through engaging, competitive quests.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Realize It",
+    "slug": "realize-it-i99xr",
+    "description": "Realize It is a mobile-first application that allows changemakers to organize Transformations in any community to improve its state and create community heroes. We’ve created an optimistic review system to incentivize good coordination and elevate the kindest and best people.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "h5ps8",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Reach Billion Users",
+    "slug": "reach-billion-users-5s39u",
+    "description": "Attract a billion Telegram users to your dApp on Ethereum using this dev kit",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "rmkrz",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "TokenWizard",
+    "slug": "tokenwizard-t073x",
+    "description": "TokenWizard lets users to effortlessly Mint and Deploy their Meme Coins or ERC-20 Tokens on every Superchain and any EVM-Compatible Blockchain – No Coding Skills Required! 😉",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zz4k"
+    ]
+  },
+  {
+    "name": "EVM Pay Link",
+    "slug": "evm-pay-link-18zwm",
+    "description": "it's an EVM-based payment solution that enables users to receive one-time or recurring payments effortlessly via unique payment links.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SignUp",
+    "slug": "signup-3mygp",
+    "description": "Easily Create sign-ups for events, voting, IRL proofs, early access sign-ups—literally anything—with the ability to limit how many can sign up, add a price, and set start and end times.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GasFrees",
+    "slug": "gasfrees-1yqdp",
+    "description": "A testnet chain that provides gas subsidy to WorldID verified humans",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Cinimatix",
+    "slug": "cinimatix-noza3",
+    "description": "A decentralized platform that connects filmmakers with investors through token-based proposals. This secure and transparent system empowers creators, democratizes film funding, and brings visionary ideas to life.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "SwiftYield",
+    "slug": "swiftyield-j07r3",
+    "description": "We deploy our bot on Tenderly for real-time monitoring and management of smart contracts, ensuring accurate and efficient arbitrage trading.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fn4k5",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "AlphaHunt",
+    "slug": "alphahunt-7vydy",
+    "description": "Fully on-chain product hunt using attestations and account abstraction",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SplitterX",
+    "slug": "splitterx-hav6m",
+    "description": "SplitterX is a decentralized application (dApp) designed to streamline the process of dividing Frax Ether(frxETH) or ERC20 tokens among multiple recipients in a single transaction.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Versechain",
+    "slug": "versechain-ji9r0",
+    "description": "The MEV-less module is developed as part of our Versechain to resist MEV (Miner Extractable Value) attacks, aiming to enhance the chain's security and prevent MEV exploitation.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CredX",
+    "slug": "credx-84yao",
+    "description": "CredX is acredit system with KYC-verified & multi-chain support uses Credit Scores and Credit Tokens to provide a secure and flexible lending experience. Build credit with collateralized loans, increase your score with timely repayments, and eventually access no-collateral loans.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PopuliDAO",
+    "slug": "populidao-ffbb2",
+    "description": "A DAO platform with proof of personhood and a token cap per individual implemented to maintain decentralization and limit disproportionate influence by whales.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Shared liquidity dex",
+    "slug": "shared-liquidity-dex-my641",
+    "description": "A brand new decentralized exchange with a shared liquidity vault powered by PYTH oracles, enabling LPs to deposit into an index fund of assets with dynamic fees and integration for swap functionality",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0vx1d"
+    ]
+  },
+  {
+    "name": "floxi sfraxEth vault",
+    "slug": "floxi-sfraxeth-vault-aa1s8",
+    "description": "Liquid restaking on Fraxtal with additional FXTL rewards on top of restaking yield",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zz4k"
+    ]
+  },
+  {
+    "name": "BoostDAO",
+    "slug": "boostdao-j4yv5",
+    "description": "BoostDAO is created to be a crowdfunding platform where people can raise funds for communities, projects, businesses and individuals. BoostDAO offers unique priviledges to the investors",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "on chain sports",
+    "slug": "on-chain-sports-smq5e",
+    "description": "loyalty rewards and e commerce via web3 for baseball stadium and a professional baseball team",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "EasyFarm",
+    "slug": "easyfarm-wrv44",
+    "description": "Small and medium farmers lack adequate credit options, facing poor risk management and limited fund traceability. EasyFarm offers a decentralized, milestone-based funding system, enhancing transparency and risk management through verified, milestone-linked distributions.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Flux",
+    "slug": "flux-dosy8",
+    "description": "An L3 blockchain on Base Mainnet built using OP Stack and op-reth for the consensus layer while allowing creators to make merit-based contributions while helping project owners.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "KeylessWallet",
+    "slug": "keylesswallet-0fpo4",
+    "description": "A secure, lightweight browser wallet that doesn’t store any keys. It uses an innovative method to interact with external offline signers via the device camera, ensuring your assets remains protected.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "AutoSafe",
+    "slug": "autosafe-fy1i5",
+    "description": "AutoSafe is an automated piggy bank that saves  a predetermined amount cUSD at specified intervals as well as also saves Celo native coin whenever it goes -1% on the 24hour chart.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Copy Farming",
+    "slug": "copy-farming-hhg0k",
+    "description": "Copy yield farming traders automatically and get returns from now",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blossom",
+    "slug": "blossom-mrond",
+    "description": "Seamlessly authenticate, verify your unique identity, and delve into comprehensive blockchain data with user-friendly tools and intuitive interfaces",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "SchemaCraft",
+    "slug": "schemacraft-ysjy2",
+    "description": "Developer tool for custom attestation schemas. Built on OP Stack for fast transactions, secured by Eigen DA, and leverages Worldcoin ID for user verification. Manage, monitor, and analyze attestations efficiently.",
+    "event": "Superhack 2024",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "992b8",
+      "rmkrz",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Superfest Vaults",
+    "slug": "superfest-vaults-o37tg",
+    "description": "A collection of ERC4626/ERC7540 vaults for farming rewards during Superfest",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VouchSafe",
+    "slug": "vouchsafe-hg15f",
+    "description": "VouchSafe is an innovative platform designed to bring transparency to online employer reputations using Ethereum Attestation Service (EAS) and WorldID.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "MissionEnrollment",
+    "slug": "missionenrollment-i4fkr",
+    "description": "An enrollment tool for a collaborative mission on the Superchain.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MemeStake",
+    "slug": "memestake-1bbmg",
+    "description": "Push your memes to the top of the list to receive an airdrop",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Attestation Explorer",
+    "slug": "attestation-explorer-4b5o6",
+    "description": "Create Onchain Attestations for Talent Protocol Builder Passports",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SupaSave",
+    "slug": "supasave-zj3r8",
+    "description": "An app for saving that users can use to lock their cUSD for a specified period of time.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Block:the Love chain",
+    "slug": "block-the-love-chain-3q9s9",
+    "description": "\"Block\" merges AI romance with web3 on an L3 layer called the \"Love Chain.\" It's an interactive wallet where your digital love interest trades, analyzes tokens, and interacts with multiple chains, all while offering a personalized character-driven experience.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Kashi",
+    "slug": "kashi-fo1s1",
+    "description": "Payments Infra layer which supports subscription model and allows you to take a fee cut",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Runway",
+    "slug": "runway-syckv",
+    "description": "Runway transforms fashion sketches into stunning, photorealistic images and videos of models on the runway, empowering designers to visualize, showcase, and monetize their creations through NFTs.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BooFi",
+    "slug": "boofi-e2o7o",
+    "description": "Where spooky crypto-finance becomes easy! BooFi is a friendly ghost guiding you through the world of savings, payments, remittances, loans and DeFi, tailored for emerging markets.",
+    "event": "Superhack 2024",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "8kguf",
+      "eirr9",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Super Funding AI",
+    "slug": "super-funding-ai-sneqb",
+    "description": "Onchain funding in Celo Minipay with AI attestations using EAS",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "SuperxApp",
+    "slug": "superxapp-1qo25",
+    "description": "A  platform for sending and swapping digital assets accross evm chains.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "Haus",
+    "slug": "haus-cep9j",
+    "description": "Event ticketing in Web3 + World ID: 1 ticket per validated human",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Cookie Jar",
+    "slug": "cookie-jar-e9k9y",
+    "description": "Cookie Jar is a smart contract that contains a small amount of tokens in it that anyone in a DAO can withdraw from. The withdrawer must leave a note saying what the tokens are going to be used for, and DAO members can upvote/downvote those notes.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "WorldWise",
+    "slug": "worldwise-dne14",
+    "description": "WorldWise is a decentralized, gamified skill-sharing platform where users learn and teach Web3 and crypto skills, verified by Worldcoin ID, and earn rewards for their achievements.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Super-Gas-Free-Chain",
+    "slug": "super-gas-free-chain-ez0yr",
+    "description": "In this chain every project can chose to deposit some gas for their user. so the user can use their DAPP for free(in gas)",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChooseADelegate",
+    "slug": "chooseadelegate-i3cs3",
+    "description": "A farcaster frame that uses the social graph to help people choose an active delegate.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Origyn",
+    "slug": "origyn-n6v6g",
+    "description": "Origyn is a platform to sell digital goods using your World ID and attest all activity on-chain.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "GovGraph",
+    "slug": "govgraph-qf2ve",
+    "description": "GovGraph is an innovative approach to visualizing and understanding the relationships within governance ecosystems",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Orange",
+    "slug": "orange-snyyt",
+    "description": "Orange is a social appchain. Orange is a L3 rollup built on Zora L2 using Conduit",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Encapsul",
+    "slug": "encapsul-ggk7t",
+    "description": "Encapsul - Revolutionize Digital Gifting with Effortless Capsules",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "SuperFund",
+    "slug": "superfund-vf189",
+    "description": "A tool for helping crypto savvy individuals manage funds on behalf of others",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Napkin Contract",
+    "slug": "napkin-contract-s7p5q",
+    "description": "Simple web tool for creating on-chain attestations for in-person agreements",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "SuperConnect",
+    "slug": "superconnect-0iq4d",
+    "description": "We aim to deploy a Layer 2 blockchain using the OP Stack to enhance scalability and user experience. It will support decentralized applications (dApps) with seamless login via WorldID, fostering a robust ecosystem that simplifies blockchain access and encourages innovation.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "FeedSupport",
+    "slug": "feedsupport-417fn",
+    "description": "Feedsupport lets businesses create secure feedback forms, verified by Ethereum Attestation Service, and prevents duplicate submissions with Worldcoin. Verified feedback is transformed into testimonials, ready to embed on your website for enhanced trust.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Chain-chat",
+    "slug": "chain-chat-w2d5t",
+    "description": "Chain-chat: The decentralized SocialFi app on Celo! With WorldCoin ID, IPFS sharing, DAO governance, NFT marketplace, yield farming, and staking, it’s your gateway to social, DeFi, and business innovation. Experience the future today! 🚀🌐💬📈",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "TLDR AI",
+    "slug": "tldr-ai-e8cfa",
+    "description": "TLDR AI is a search engine that helps users get onboarded onto a chain with just a question like \"How do I bridge to Optimism?\".",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0vx1d"
+    ]
+  },
+  {
+    "name": "InfoMartKE",
+    "slug": "infomartke-nara7",
+    "description": "InfoMartKE: Revolutionizing IT shopping with blockchain! Explore and buy cutting-edge tech products and services securely, using decentralized payment solutions and smart contracts.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SeedSphere",
+    "slug": "seedsphere-z85g9",
+    "description": "SeedSphere is an on-chain funding Dapp that streamlines fundraising for Web2 and Web3 projects. Users submit one proposal to secure and manage funds across Celo, Optimism, Base, and Mode using the ERC4626A Vault, all on a secure and user-friendly platform.",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Vaulture",
+    "slug": "vaulture-mxx7s",
+    "description": "A cross-chain, AI empowered yield bearing vault. It will be accesible and help onboard non-crypto users with Alchemy & Metal while being accessible accross multiple chains using Superform, Optimism, Base, Mode & Fraxtal. Our AI will use data supplied by Chainlink, Goldsky & Pyth.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BestUSDC yield Vault",
+    "slug": "bestusdc-yield-vault-2p48x",
+    "description": "ERC-4626 USDC yield optimizer on Base chain, maximizing returns across ExtraFi, Aave, Seamless, and Moonwell. Efficiently handles deposits, withdrawals, rebalancing, and reward tokens.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WAd",
+    "slug": "wad-3ope9",
+    "description": "Revolutionizing digital advertising with Web3! Empowering user control, transparency, and engagement in advertising! 🌐✨",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "cast-cleaner",
+    "slug": "cast-cleaner-3ococ",
+    "description": "A bot to remove old casts. Cast older than say one week are more often than not irrelevant. Clean them automatically",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MediBoomer",
+    "slug": "mediboomer-nx984",
+    "description": "A Blockchain-Based Health Management App for Boomers. MediBoomer aims to become an essential tool for Boomers and their caregivers, ensuring they can manage their health with confidence and ease.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Fairpay",
+    "slug": "fairpay-49hmu",
+    "description": "An easy way to do crowdfunding onchain, thought for athletes. Why onchain? Because it allows for international, transparent, and fast payments. The cherry on top is the integration with Farcaster that allows to create communities around your cause.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "McVault",
+    "slug": "mcvault-x0sos",
+    "description": "Our cross-chain vault optimize user yields by bridging assets to protocols across multiple chains with the highest APY. Users interact from a single chain, while the vault manages fund allocation and converts SuperFest rewards into additional yield, ensuring maximum profit",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "kkegz"
+    ]
+  },
+  {
+    "name": "10tance",
+    "slug": "10tance-ggf1f",
+    "description": "Mapping the EVM worlds — they are doughnuts",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "CoInvest",
+    "slug": "coinvest-edzbm",
+    "description": "CoInvest: Empowering collective wealth through decentralized investing. Form groups, pool funds, and share profits with ease. Leverage blockchain transparency and automated smart contracts for a secure, seamless experience. Invest smarter, together! 🌐💸",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EAS React Components",
+    "slug": "eas-react-components-b4ap8",
+    "description": "This library offers a comprehensive solution for managing attestations and schemas, supporting both user and admin tasks by providing customizable forms, badge components, and tools for creating and revoking attestations, all within a React application.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "992b8"
+    ]
+  },
+  {
+    "name": "TransactGlobal",
+    "slug": "transactglobal-aqshh",
+    "description": "Decentralized human verified cross-border payment remittance platform where users are verified using worldID and transactions are prioritized. This ensures that all payments are initiated by real individuals, reducing fraud and enhancing trust in the system.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Cos72",
+    "slug": "cos72-i8w6f",
+    "description": "Yet Another DAO/Community Tool, BUT: get a Gasless, NFT, Contract Account and ENS, with your email on any Super Chain.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WorldWave",
+    "slug": "worldwave-dqrv1",
+    "description": "Implementation of a Reth client integrated with World ID verification and gas subsidy features.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Century Pay",
+    "slug": "century-pay-12dy7",
+    "description": "A discord bot to let users pay in discord! The bot will let users sign transactions with their wallets and send transaction.",
+    "event": "Superhack 2024",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "0vx1d",
+      "h5ps8",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "WorldVote",
+    "slug": "worldvote-j1mve",
+    "description": "web3 voting solution with attestations and account abstraction",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI-CrossFi with AA",
+    "slug": "ai-crossfi-with-aa-4br78",
+    "description": "Building a cross-chain token bridge & swap platform with Chainlink CCIP and thirdweb. Simplifying onboarding with managed factory for seamless user integration across multiple chains.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "One",
+    "slug": "one-c0rhm",
+    "description": "One is a unified payment app that solves blockchain fragmentation. Send and receive cross-chain payments using just an email! Powered by Ethereum Attestation Service (EAS) and liquidity pools, One ensures instant, secure, and transparent transactions across multiple blockchains.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AstraDeFi",
+    "slug": "astradefi-0mwzg",
+    "description": "🚀 Introducing AstraDeFi: The future of decentralized finance! Dive into seamless liquidity pools, staking, and lending with cutting-edge AI and real-time data from Goldsky. Powered by Mode's low-fee Layer 2, AstraDeFi offers an unparalleled DeFi experience.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "SuperHunt",
+    "slug": "superhunt-eu5w0",
+    "description": "A decentralized bounty and project listing platform leveraging the Superchain ecosystem for secure, transparent, and efficient collaborations. Ensuring trust and accountability through smart contracts and decentralized verification.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Good Afternoon",
+    "slug": "good-afternoon-y0n9e",
+    "description": "An experimental way to sign into web3. Say good afternoon to keyless accounts!",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Repo Rewards",
+    "slug": "repo-rewards-su0bh",
+    "description": "RepoRewards is a cool blockchain-based platform designed to make rewarding open-source contributions on GitHub super easy and transparent.",
+    "event": "Superhack 2024",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "992b8",
+      "rmkrz",
+      "h5ps8",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "DAO of the Ring",
+    "slug": "dao-of-the-ring-ovy2x",
+    "description": "A powerful set of privacy-oriented tools for DAOs: you can anonymously submit proposals, discuss them, and vote without revealing any personal information, thanks to the ring signature cryptographic scheme!",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Inject",
+    "slug": "inject-urykg",
+    "description": "A decentralized application (DApp) that enables users to claim unique NFTs by verifying their presence at specific locations where protests and demonstrations are taking place.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ecoSphere",
+    "slug": "ecosphere-cae54",
+    "description": "ecoSphere tracks and rewards sustainable actions using NFTs and blockchain, promoting eco-friendly practices with a transparent, decentralized system.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tower Defense Game",
+    "slug": "tower-defense-game-btbdk",
+    "description": "Tower Defense Game With Thirdweb is a game developed using Unity Engine and integrating Base's blockchain technology using Thirdweb Unity SDK. The game uses Account Abstraction and Smart Wallet to bring a compelling, immersive and seamless experience in the gaming world.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3gx1k"
+    ]
+  },
+  {
+    "name": "Dcrowd",
+    "slug": "dcrowd-6os6x",
+    "description": "A decentralized crowdfunding platform connecting creators with supporters through blockchain technology",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "rmkrz",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ChatScout",
+    "slug": "chatscout-bwoe8",
+    "description": "A chat-gpt like interface for querying data on chain as a block explorer does and with the possibility of improve the knowledge of the model to get better prompts in a social graph made with attestations.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Yieldhive",
+    "slug": "yieldhive-q9m8z",
+    "description": "Yieldhive is the home for cross-chain and native yield strategy vaults of OP chains.",
+    "event": "Superhack 2024",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "kkegz",
+      "8kguf",
+      "0vx1d",
+      "g7h9m",
+      "fn4k5"
+    ]
+  },
+  {
+    "name": "Tamayoshi",
+    "slug": "tamayoshi-9mw4g",
+    "description": "Tamayoshi is a Tamagotchi like gasless on chain mobile game. https://www.youtube.com/watch?v=3JoavKWtOgQ",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ChainChama",
+    "slug": "chainchama-a3j7v",
+    "description": "We want to allow small businesses to save and access short term liquidity at more affordable rates while adhering to peer to peer , open protocol principles and tailoring it to serve African consumer behaviour",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "StarSeal",
+    "slug": "starseal-qg8cu",
+    "description": "StarSeal: The Web3 app for digital NFT autographs! Celebrities can sign fans' digital collectibles, and friends can leave their mark on each other's NFTs. It's like getting your favorite star's autograph or a keepsake from a buddy, but for the digital age. Powered by EAS.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "nogyo",
+    "slug": "nogyo-3v9ri",
+    "description": "A marketplace to connect farmers with consumers with supply chain validation ensuring fair and equitable prices.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Net Zero 2.0",
+    "slug": "net-zero-2-0-dxzto",
+    "description": "An institutional Fund raising platform for renewable energy using governance and auditing",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Microbid",
+    "slug": "microbid-dqs54",
+    "description": "Provably fair penny auctions on Base using World ID for Proof of Personhood",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vdiyd",
+      "h5ps8",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Bazaar",
+    "slug": "bazaar-w17gi",
+    "description": "Mobile-optimized decentralized marketplace allowing users to browse, buy, and sell items",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Basics",
+    "slug": "basics-gzkfn",
+    "description": "Surf school for base, but cooler. Learn, Discover, and Surf through possibilities on Base while earning juicy rewards.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "Grant It",
+    "slug": "grant-it-h3sjo",
+    "description": "Decentralized Grant Management Dashboard - Manage and visualize grants, submit your projects and get rewards",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "Hunnid Finance",
+    "slug": "hunnid-finance-eo4bg",
+    "description": "A crypto-based microloan platform allows friends to lend and borrow small amounts of cryptocurrency securely and transparently. Using blockchain technology, it ensures trust, transparency, and automation.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Notpump",
+    "slug": "notpump-85xcd",
+    "description": "Empowers communities to grow new ERC-404 (or DN-404) standard using fungible and non-fungible tokens, achieving bonding curve fulfillment",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HomeBase",
+    "slug": "homebase-fhsze",
+    "description": "Discover and interact with your favorite onchain apps all in one place.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Foresight",
+    "slug": "foresight-cwc89",
+    "description": "Permissionless and local prediction market infrastructure for the Superchain. Now anyone can create their favorite markets to leverage the wisdom of the masses!",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Obsidian",
+    "slug": "obsidian-v6gup",
+    "description": "Obsidian is a Defi platform where we are building one click defi strategy like Leverage liquid staking vaults (ERC-4626 and ERC-7540 ) on base, optimism. Using superform we will allow users to interact in the vault from any chain with tenderly powered virtual testnet.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKAttestify",
+    "slug": "zkattestify-1jxe4",
+    "description": "We are making a developer tool that  creates ZKP of the attestations from EAS . We are trying to use the RISC Zero ZKVM for proof generation and verification.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Delvers",
+    "slug": "delvers-xivb4",
+    "description": "A roguelite game where you can explore, fight, gather and craft using blockchain tech",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainView",
+    "slug": "chainview-cwo5t",
+    "description": "Real-time insights for blockchain. Monitor tokens, track DeFi trends, and stay connected to the crypto world. 🚀📈",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "trophies.xyz",
+    "slug": "trophies-xyz-65uu9",
+    "description": "Platform that rewards builders that participates in hackathon with proof of winning.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Profile Onchain",
+    "slug": "profile-onchain-s02ov",
+    "description": "Increase crypto adoption by creating a CrossChain Identity for crypto donations. I'll use EAS to collect identities. Users can generate wallets (EVM, BTC, Solana, TON) and save their profiles. The profile can receive tips on my page and will also be public for other dapps.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Postino",
+    "slug": "postino-qivq3",
+    "description": "Document signer with identity verifiability through WorldCoin proofs and attestations (EAS)",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "992b8",
+      "rmkrz",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "instealth",
+    "slug": "instealth-cnxcn",
+    "description": "Onchain privacy-preserving settlement protocol for e-invoinces.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "GIG2Hire",
+    "slug": "gig2hire-68rjf",
+    "description": "Gig2Hire is a trustless and no fees, decentralized freelance market platform. Powered by DeFi and AI we bring back power to the users.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cyrus",
+    "slug": "cyrus-up8hy",
+    "description": "CYRUS is a Layer 2 blockchain platform specifically designed for the music industry. It harnesses the power of the Optimism OP Stack to create a scalable, efficient, and cost-effective environment for musicians, producers, and music enthusiasts.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "The inter-OP layer",
+    "slug": "the-inter-op-layer-xvxw2",
+    "description": "The inter-OP Layer is the intersection of OP L2's, think of it like a roundtable",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zz4k"
+    ]
+  },
+  {
+    "name": "ERC4626 Strategy",
+    "slug": "erc4626-strategy-2fin3",
+    "description": "ERC4626 Vault & Strategy that accepts WETH, mints iUSD on Ironclad (Mode network) and deposits into the Stability Pool",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nebula Protocol",
+    "slug": "nebula-protocol-rj9fs",
+    "description": "a modern plug n play onchain identity oracle protocol. build your own identities and use it anywhere",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Web3-IDEmblems",
+    "slug": "web3-idemblems-wtxyv",
+    "description": "Decoding Wallet Identities, One Emblem at a Time - Through this each wallet addresses will have verified badges and emblem associated to it.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ReviewChain",
+    "slug": "reviewchain-70swm",
+    "description": "Discover real reviews with Proof of personhood! Our app ensures genuine feedback by verifying each reviewer’s identity. Say goodbye to fake reviews and hello to trusted, authentic insights",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "OWL",
+    "slug": "owl-pq23w",
+    "description": "On-chain open-world game where players learn various subjects through a creative storyline. Players explore at their own pace, making connections that enhance long-term memory, all while interacting with blockchain technology seamlessly through a Telegram bot.",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "rmkrz",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "DAOcast",
+    "slug": "daocast-0xyi2",
+    "description": "DAOcast is a platform for secure DAO governance, using World ID for verified voting and streamlined community integration. It helps members ensure transparent decision-making, and fosters active, discover local groups,  engaged communities with privacy-focused features.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArtFusion",
+    "slug": "artfusion-qu7cj",
+    "description": "Explore your creativity with AI-driven NFT creation. Our app is straightforward—log in with your email, upload your images, and create unique NFTs, all without needing crypto knowledge. You can also combine two NFTs into something new. NFTs made accessible for everyone.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vdiyd"
+    ]
+  },
+  {
+    "name": "Dropcast",
+    "slug": "dropcast-2iqcg",
+    "description": "Cross-chain and sybil-proof airdrop protocol in Farcaster using Composer Actions.",
+    "event": "Superhack 2024",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "2t2i9",
+      "h5ps8",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ZKGambit",
+    "slug": "zkgambit-g0scz",
+    "description": "Building a Zk guessing game . It uses zk-SNARK and pyth on chain oracle.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rethos",
+    "slug": "rethos-amrv9",
+    "description": "Rethos - Modified Reth node with World ID gas subsidy and priority lane",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "SuperSolar",
+    "slug": "supersolar-zfxjj",
+    "description": "SuperSolar is built for bringing the solar - community to web3. Users can onboard for free, registration are free and also the gas fees are covered. For more motivation they can earn yield via their solar trades",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "vdiyd",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "UniX",
+    "slug": "unix-vaqqt",
+    "description": "A unified liquidity management protocol that combines AMM and lending.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QuickPay",
+    "slug": "quickpay-rxu7v",
+    "description": "USDC payments on Base via Mongolia's Qpay code. Free gas and RWA Mongolian tugrik token for seamless crypto-fiat bridging.",
+    "event": "Superhack 2024",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc",
+      "kkegz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "AttestDeFi",
+    "slug": "attestdefi-esej5",
+    "description": "A dapp to distribute tokens based on the attestations obtained within the Superchain",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "inotq"
+    ]
+  },
+  {
+    "name": "Onchain Senryu",
+    "slug": "onchain-senryu-sfbo5",
+    "description": "Onchain Senryu is a decentralized platform that lets users create, submit, and vote on Japanese senryu poems. Powered by AI and Base blockchain, it ensures secure, transparent, and global engagement with this traditional art form.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "DeVote",
+    "slug": "devote-naxbi",
+    "description": "DeVote Revolutionize Voting: Safe, Transparent, and Effortless!",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Mint Momentum",
+    "slug": "mint-momentum-s35vi",
+    "description": "Inspire, Motivate, and Earn on chain where motivation meets blockchain technology",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JustPay",
+    "slug": "justpay-ekzaj",
+    "description": "A payment system enabling EOAs and smart accounts to make ERC20 payments using a typedData signature, with flexible gas options and operator-executed transactions. It’s adaptable for any use case, including NFT exchanges, and more.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "Superwalk",
+    "slug": "superwalk-q5rqe",
+    "description": "A fun & competitive step tracker game where you can walk, use items or bribe other players to win.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "g7h9m"
+    ]
+  },
+  {
+    "name": "Liquid Domains",
+    "slug": "liquid-domains-v2ef4",
+    "description": "Unlock the value of onchain domains with a Chainlink-powered valuation price feed on the Superchain. Compatible with web2 and web3 domains, enabling minting, portfolio valuation, and smart contract integration.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Syenah",
+    "slug": "syenah-qo6af",
+    "description": "Syenah is a revolutionary decentralised asset management app designed to provide users with a unified platform to track their cryptocurrency and NFT holdings across multiple wallets and blockchains with the facility of cross chain swaps and communication and onChain gamefi .",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pocket Sub",
+    "slug": "pocket-sub-wi8ee",
+    "description": "NFT based subscriptions market with an app to allow and verify customers minted access",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Air Rights Trading",
+    "slug": "air-rights-trading-h9vw5",
+    "description": "SkyTrade lets you monetize your airspace, the legal right to use and control the space above buildings and land.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nyaya",
+    "slug": "nyaya-qinpu",
+    "description": "Nyaya is a blockchain-based FIR system ensuring transparency and security. Users file anonymous complaints via World ID, stored immutably on the blockchain. Police verify cases, and if valid, register the FIR. Corruption-proof, the system guarantees tamper-free records.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "medX",
+    "slug": "medx-fdmxz",
+    "description": "MedX leverages blockchain to secure medical records and streamline prescription processes, ensuring privacy and efficiency in healthcare management.",
+    "event": "Superhack 2024",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "992b8",
+      "3zpxc",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Governaut",
+    "slug": "governaut-nip9i",
+    "description": "A decentralized identity and governance dashboard integrating World ID for secure verifiable participation in grant funding proposals and voting.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "VeriPay",
+    "slug": "veripay-9dfo1",
+    "description": "VeriPay is a full-stack web3 application. It is a proof of concept (POC) demonstrating that it is possible to build complete web applications in a decentralized manner without making compromises. No central server is required to run VeriPay.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Build Trust",
+    "slug": "build-trust-do5bw",
+    "description": "Our software is trustless. Building relationships require trust. We help build on chain trust attestations",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PeerLinkDex",
+    "slug": "peerlinkdex-rw22j",
+    "description": "An OTC DEX to comfortably do P2P trading and exchange tokens using a global escrow",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Op Rollup Jackal Kit",
+    "slug": "op-rollup-jackal-kit-k16go",
+    "description": "This project allows rollups made with the OP stack to use the Jackal Protocol as a Data Availability layer!",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "DAAO",
+    "slug": "daao-p8ia7",
+    "description": "Decentralized AI-powered Autonomous Organization. Introducing an AI-powered DAO tool that automates and monitors governance proposals. Enhance participation, prevent malicious actions, and safeguard your decentralized governance with AI-driven precision. #DAO #Blockchain #AI",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Smart Frame",
+    "slug": "smart-frame-2km77",
+    "description": "Smart frame enables your token front-ends drive a new paradigm in token utility and liquidity",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bekwest",
+    "slug": "bekwest-yy527",
+    "description": "a Minipay-based on-chain funding platform  for donors to fund African educational initiatives",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "zkQV",
+    "slug": "zkqv-ouxr5",
+    "description": "Introducing zkQV: A secure, fair, and private voting system for blockchain governance. Combining Quadratic Voting and Zero Knowledge Proofs, zkQV ensures equal influence, protects voter privacy, and prevents manipulation. Revolutionizing governance #Blockchain #ZKP",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "Historeum",
+    "slug": "historeum-8u3vw",
+    "description": "L2 with a time-aware EVM: enables smart contracts to access historical on-chain data efficiently.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3 Pilot Log",
+    "slug": "web3-pilot-log-pws7n",
+    "description": "Blockchain based logbook for aircraft pilots - secure, private & verifiable!",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "AceDen",
+    "slug": "aceden-f82xa",
+    "description": "AceDen is a peer-to-peer betting platform where users wager on whether cryptocurrency prices will rise or fall. Place bets on Bitcoin/Ethereum/Solana, track real-time outcomes, and climb leaderboards in an engaging, social experience.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "Vortex",
+    "slug": "vortex-30n41",
+    "description": "We are building Vortex, a platform for users to launch tokens with lent initial liquidity for free, instantly tradable on Uniswap. Users can also stake to provide liquidity to the platform and earn revenue sharing.",
+    "event": "Superhack 2024",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "PointBase",
+    "slug": "pointbase-9wajr",
+    "description": "PointBase is a general-purpose point system and a marketplace for points, both built on top of EigenLayer and powered by Unitap.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DalleDress",
+    "slug": "dalledress-wwdcm",
+    "description": "A generative AI NFT mint framework built on Frog Frames for Warpcast",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FortuneTeller",
+    "slug": "fortuneteller-k9yu7",
+    "description": "FortuneTeller is a Farcaster frame application that calculates onchain fortune for the users. Users answer specific questions to the wizard. Then the wizard casts its spells and tells the fortune.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "QuickDapp",
+    "slug": "quickdapp-vmzyb",
+    "description": "QuickDApp: AI-powered Web3 frontend generator. Input smart contract, get instant web dapp. Customized components for your contract functions. Accelerate development, focus on innovation.",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8kguf"
+    ]
+  },
+  {
+    "name": "ClickPaid",
+    "slug": "clickpaid-i7h2x",
+    "description": "Creators upload, community votes on most clickable thumbnails, and wins ETH bounties. Incentivized engagement for creators, voters, and maximum visibility",
+    "event": "Superhack 2024",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8kguf",
+      "3gx1k",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Vanna Finance",
+    "slug": "vanna-finance-10fea",
+    "description": "A DeFi derivative proprietary trading protocol that connects experienced traders with lenders, allowing them to open undercollateralized loans and leverage up to 1000x on their initial capital to execute hedging strategies.",
+    "event": "Superhack 2024",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mintory",
+    "slug": "mintory-fwd6i",
+    "description": "If Solana has Pump.fun, Optimism and Base-based Superchain ecosystem have Mintory.fun, a playground dedicated to NFTs!",
+    "event": "Superhack 2024",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "EthDrive",
+    "slug": "ethdrive-f47r7",
+    "description": "Here’s a wallet like you’ve never seen before—Google Drive for your assets. Organize and manage your assets with a directory structure, trade them, and even connect your directories to dApps.",
+    "event": "Superhack 2024",
+    "prizeCount": 11,
+    "prizeBadgeOrgIds": [
+      "inotq",
+      "8kguf",
+      "rmkrz",
+      "eirr9",
+      "fn4k5",
+      "2t2i9",
+      "4o3cq",
+      "h5ps8",
+      "3zpxc",
+      "f8ku2",
+      "xdat5"
+    ]
+  }
+]

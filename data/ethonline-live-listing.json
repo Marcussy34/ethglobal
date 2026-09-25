@@ -1,0 +1,1450 @@
+[
+  {
+    "name": "Stake Legends",
+    "slug": "stake-legends-n7rqd",
+    "description": "DeFi meets real-world gaming: stake funds on Aave, play Apex Legends, win other players' interests!",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LQuiD.LiQpaiD",
+    "slug": "lquid-liqpaid-51k3n",
+    "description": "A L'QuiD-fork of the ETH-collateralized LUSD-borrowing protocol, Liquity, using modified liquidation and redemption mechanisms.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Goalify",
+    "slug": "goalify-k6u77",
+    "description": "Dapp that allows people to bet on themselves on the outcome of achieving their goals",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockSat",
+    "slug": "blocksat-5segr",
+    "description": "The goal of this project will be to develop a blockchain oracle that will provide satellite data to the blockchain",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AcceptEth",
+    "slug": "accepteth-54o0k",
+    "description": "AcceptEth is the turn-key way to accept crypto payments. Provide your wallet addresses and we create a beautiful payment or donation experience.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentracraft",
+    "slug": "decentracraft-jpnmw",
+    "description": "Decentracraft is Minecraft on the blockchain within the Decentraland universe.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "6Elements",
+    "slug": "6elements-fdbdz",
+    "description": "This is a collectible NFT game. Users who manage to complete a set (3 different tokens per element) can exchange it (burning the tokens) and receive a prize",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clash of Gears",
+    "slug": "clash-of-gears-upxeb",
+    "description": "A live action NFT DeFi robot tournament. Stake your entry, choose your robot, trade or bet NFT skills, and fight to the death 💀 🤖",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MiX",
+    "slug": "mix-gazsn",
+    "description": "Media Prediction Market (MPM)",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ediv",
+    "slug": "ediv-aspj1",
+    "description": "Payment plan using ethereum",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockChainARPG",
+    "slug": "blockchainarpg-19wqb",
+    "description": "An interest bearing eSport tournament game. An action role playing game in the style of Diablo that rewards Tokens for beating timed challenges",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chainnabis",
+    "slug": "chainnabis-kq0v3",
+    "description": "Develop technologies to provide security, transparency and quality assurance to the Cannabis ecosystem using Blockchain.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xLiquidity",
+    "slug": "xliquidity-baeiq",
+    "description": "A Liquidity Token and Protocol that allows investment into crypto without worrying about volatility and arbitrage.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Secret Hub",
+    "slug": "secret-hub-70xo0",
+    "description": "We're hacking on a web interface for the bridge connecting Ethereum with Secret Network, a unique transactional privacy solution allowing users to lock ETH or ERC-20 tokens in order to get an equal amount of privacy tokens, called secretTokens (secretETH or secretERC-20s).",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InstCrypt",
+    "slug": "instcryp-3mcaa",
+    "description": "Automated NFT marketplace using yield startergy and yield farming",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SonicFlo",
+    "slug": "sonicflo-7308r",
+    "description": "social feed hedge for global immune repair",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DewdLabs - Crypto Pear",
+    "slug": "dewdlabs-crypto-pear-sujdv",
+    "description": "Crypto Pear (or just Pear) is a crypto-to-item trading exchange and market place",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrafiGuard",
+    "slug": "trafiguard-96ge8",
+    "description": "Supply Chain Trade Finance made Inclusive",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "defi_blocks",
+    "slug": "defi-blocks-y9khf",
+    "description": "UI-based smart contract code generator",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Croco Finance",
+    "slug": "croco-finance-8gu7w",
+    "description": "Liquidity pool position analysis (Fees, Rewards, Transaction cost, Impermanent loss, Simulations)",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthWallet",
+    "slug": "ethwallet-n4r8c",
+    "description": "Cryptocoin storage",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthereumLearner",
+    "slug": "ethereumlearner-8xk23",
+    "description": "Learn Ethereum, Bitcoin, blockchain; then teach, consult.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Not Your Keys Not Your Crypto",
+    "slug": "not-your-keys-not-your-crypto-zrtet",
+    "description": "Making not your keys not your crypto a reality.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OSMOsis",
+    "slug": "osmosis-sa9sy",
+    "description": "Defi Yield Multiplier - a cashflow protocol that redirects unused collateral from Aave to Balancer and mStable enabling leveraged yield.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mainstream Crypto",
+    "slug": "mainstream-crypto-mnpic",
+    "description": "Easily send, receive or stream crypto dollars using Mainstream Crypto",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wallet wizard",
+    "slug": "wallet-wizard-bsypi",
+    "description": "Entry-level intro to wallets to help newbies get set up to use and understand Ethereum.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "samaj",
+    "slug": "samaj-p0vu9",
+    "description": "The idea is to let people interact with the dapps using any ERC20 token as gasFee instead of Ether and cutting a lot of trouble of getting eth from a exchange and then managing gas fee.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Compound PID interest rate controller",
+    "slug": "compound-pid-interest-rate-controller-w046e",
+    "description": "An interest-rate-targeting autonomous interest rate model for Compound markets.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Richard's Introduction Application",
+    "slug": "richard-s-introduction-application-2qjzg",
+    "description": "Simple app to facilitate voting in an election",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ERCGraph",
+    "slug": "ercgraph-zhdta",
+    "description": "Real-time and historic graph showing ERC20 transfers accross the Ethereum network",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Geofile — Hyper-localization storage",
+    "slug": "geofile-—-hyper-localization-storage-e33b0",
+    "description": "A tool that allows miners to offer their storage based on their location and miners characteristics",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi-Venture",
+    "slug": "defipoly-renamed-defi-venture-drwnh",
+    "description": "A decentralized board game to educate everyone about dApps, Blockchain and DeFi. Inspired by Monopoly but crypto-oriented, with game logic and crypto-economics mechanisms entirely performed by smart contracts running on blockchain",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Etherealm",
+    "slug": "etherealm-5deuo",
+    "description": "Build NFT oriented games from scratch",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Block Perks",
+    "slug": "block-perks-h0j9g",
+    "description": "Distributing vouchers, for employees, which are valid at participating merchants.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Optimistic Roll In",
+    "slug": "optimistic-roll-in-nk562",
+    "description": "Layer-Agnostic Optimistic Roll-In For Self-State Management",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Myo.Finance",
+    "slug": "myo-finance-35pss",
+    "description": "Combine paper and digital currencies to transform people’s livelihood",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XAIToken",
+    "slug": "xaitoken-t1vtz",
+    "description": "XAIToken let's avoid liquidity even if the ETH price drops 50%",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ExtropyChain",
+    "slug": "extropychain-qhux6",
+    "description": "Preventing people getting rekt from DeFi scams.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SIGH Finance",
+    "slug": "sigh-finance-xkf3e",
+    "description": "A money market protocol with an integrated financial model designed to address the loss potential due to price volatility of the crypto assets to improve profit margins and promote crypto adoption.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockhead",
+    "slug": "blockhead-fcce2",
+    "description": "A decentralized wallet manager, trading/DeFi interface and block explorer metaverse. Blockhead aims to provide a comprehensive, provider-agnostic interface that allows you to perform common blockchain-related activities in a fun, flexible, and transparent way.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pooled Loan: DeFi Chit Fund",
+    "slug": "pooled-loan-defi-chit-fund-jzdsk",
+    "description": "A decentralized chit fund platform where participants have to deposit collateral amount in the pool and they can bid to win the loan. The deposited amount will be used to earn interest from lending pools.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PermanentLoss.finance",
+    "slug": "permanentloss-finance-1k5hg",
+    "description": "PermanentLoss allows liquidity providers of ETH/Stable pairs to hedge against impermanent loss by utilizing options. The tool will help the user visually construct options strategies like strangles and straddles.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "yearn-hegic",
+    "slug": "yearn-hegic-5ohez",
+    "description": "yearn vault using hegic",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoverETH",
+    "slug": "covereth-pmbzv",
+    "description": "A platform to match people and groups who need and who perform security audits  for smart contracts along with an insurance to cover potential risks.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OracleSwap",
+    "slug": "oracleswap-mm4px",
+    "description": "Uniswap powered by Chainlink price feed for more accurate prices",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SecretPay",
+    "slug": "secretpay-8zy9f",
+    "description": "Private and decentralised escrow contracts for FIAT to ETH trading, facilitating Paypal and Revolut P2P Crypto purchases using Chainlink oracles and Textile.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Ether XP",
+    "slug": "the-ether-xp-non-transferable-nft-that-acts-as-reputation-01a9f",
+    "description": "Non-transferable tokens used to mark a user's reputation and trust level.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unite.community",
+    "slug": "unite-community-9ymr1",
+    "description": "We make it easy to automatically distribute tokens to reward social media engagement.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aurum Finance",
+    "slug": "aurum-finance-opr21",
+    "description": "Interest bearing platform for esports and streamers",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Juicer Protocol",
+    "slug": "juicer-protocol-7eqo8",
+    "description": "DeFi lending broker protocol",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Elastikchain",
+    "slug": "elastikchain-3zjma",
+    "description": "A plateforme to help Kickstart startups working on DApps.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cO-Op : Game",
+    "slug": "co-op-game-effiz",
+    "description": "Co-op is a multiplayer game verse-  an intersection between 3D games and onchain activity and economy,  defi and yeild farming, or is it yield gaming? is battle royal rpg maybe",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liminal",
+    "slug": "liminal-xscf1",
+    "description": "Interactive Fiction, on-chian",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Singleton",
+    "slug": "singleton-gbz86",
+    "description": "Singleton offers client-preferred payment methods to replace service providers' original payment methods.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eth 'Em All!",
+    "slug": "eth-em-all--5vod4",
+    "description": "Create an index of unlockable achievements (represented by NFTs and NTNFTs) based on a user’s wallet interactions with popular DeFi protocols.   Our goal is to gamify the DeFi experience and provide a tangible incentive for users to explore the limits of each DeFi platform.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DBeats",
+    "slug": "dbeats-vqwgk",
+    "description": "Decentralized stable earning platform for independent music creators!",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShareMyRPC",
+    "slug": "sharemyrpc-i9awy",
+    "description": "Running a node is expensive, earn money by sharing your RPC interface and decentralize Infura",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Openverse",
+    "slug": "openverse-q5ap2",
+    "description": "The open, permissionless and user-owned AR/VR metaverse of the future",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "My AirSwipe Ethereum Wallet and Reader",
+    "slug": "my-airswipe-ethereum-wallet-and-reader--cpbas",
+    "description": "A hardware wallet and reader to trade or transfer Ethereum. Using short range 2-way wireless to communicate transactions.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fund My Musician",
+    "slug": "fund-my-musician-3buwh",
+    "description": "A dapp that allows people to send money as ERC20 to their favorite musicians",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "onboarding-emyto",
+    "slug": "onboarding-emyto-nabw0",
+    "description": "Lowering the technical bar to ethereum with onboard.money a simple and elegant wrapper.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Ethereum Yield Curve",
+    "slug": "the-ethereum-yield-curve-nrz8i",
+    "description": "Watch defi capital markets mature before your eyes as the first ever ethereum based yield curves go live",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zenbit Protocol",
+    "slug": "zenbit-protocol-6xi2t",
+    "description": "A decentralized protocol for develop digital skills and digitize value on cities.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Darth Vega",
+    "slug": "darth-vega-m5b14",
+    "description": "A visualization tool for Vega trades. Part audio, part visual. Could be described as an art project...",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CortexHedge",
+    "slug": "cortexhedge-4mt6i",
+    "description": "A smart way to hedge forex exchange rate risks",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Inherichain",
+    "slug": "inherichain-uor7b",
+    "description": "A wallet which has inheritance built in on the Ethereum Blockchain",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Patient Med Insurance",
+    "slug": "patient-med-prescription-payments-history-t9tj1",
+    "description": "Medical prescriptions  history recording &  Automatic Claim Payment. As a  patient  fulfill prescription at pharmacy, it got recorded on Cloud for later referral, and Pharmacy providing it claims payment from patient's Insurance (a DAO)  through  Ethereum.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Protekt Protocol",
+    "slug": "protekt-protocol-gmzjp",
+    "description": "Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Paymunity",
+    "slug": "paymunity-u9adk",
+    "description": "Paymunity - a gasless community payment app, that aims to accelerat adoption by enabling everyone to send DAI without holding ETH.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Plantary",
+    "slug": "plantary-wsxem",
+    "description": "Grow and harvest NFTs. A mix between a game and art collecting platform.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SendUSDC",
+    "slug": "sendusdc-6cwta",
+    "description": "Spell Caster is able to cast up to 5 users with USDC in 1 single transaction.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reach IDE",
+    "slug": "reach-ide-qekwu",
+    "description": "IDE for the Reach DApp programming language",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decademy",
+    "slug": "decademy-y53rq",
+    "description": "Decentralized Education Platform",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pay with USDC",
+    "slug": "pay-with-usdc-r6j32",
+    "description": "A mobile app to send and receive USDC with your friends, Venmo style.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PersonalToken",
+    "slug": "personaltoken-un4yz",
+    "description": "A personal token basket",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HSM Swap",
+    "slug": "hsm-swap-kj22k",
+    "description": "C ethereum wallet",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dr's Alts Dashboard",
+    "slug": "dr-s-alts-dashboard--pcs1d",
+    "description": "Adapt an existing BTC maximalist dashboard to a DeFi dashboard on Hardware.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPDB",
+    "slug": "ipdb-6yb45",
+    "description": "Inspired by [IPLD](https://github.com/ipld/ipld) and [IPFS](https://github.com/ipfs/ipfs),  IPDB is a **protocol**: - Defines a schema-addressed database system - Coordinates database query delivery on Web3 - Designed with a public decentralized database in mind",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "whirlpool",
+    "slug": "whirlpool-aazon",
+    "description": "Highly incentivized mixing pool burner wallet generator tool",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "delay",
+    "slug": "delay-to2vb",
+    "description": "We want to help mainstream the power of money markets by offering the possibility of buying NFTs with lended money. And paying back the lend later on. For this purpose we will take advantage of the Aave protocol.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpringUp",
+    "slug": "springup-9bjk0",
+    "description": "Fund your creations, reward your audience",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "बटुआ (Batua) 🇮🇳",
+    "slug": "बटुआ-batua-🇮🇳-2c7mg",
+    "description": "बटुआ (pronounced 'batua') is a concept for cryptocurrency in India. It consists of a simple end-user wallet with a decentralised non-custodial stablecoin pegged to Indian Rupee.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xWin Investment",
+    "slug": "xwin-investment-ecrsu",
+    "description": "xWin provide the platform fund management, social trading and other protocol interaction. It also automatically distributes the fund unit as ERC20 token to investors for any subscription.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PhoBlock",
+    "slug": "phoblock-0f6j8",
+    "description": "We are thinking of building a community-owned decentralized free sharing photo platform: photographers upload their photos for commercial or non-commercial use for free  and will be rewarded utility tokens when their pics are downloaded.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defi Asset Manager",
+    "slug": "defi-asset-manager-8jpvo",
+    "description": "Manage portfolios with different asset classes on Defi",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Split",
+    "slug": "split-dxv4n",
+    "description": "A protocol for splitting tokens into fungible yield, governance and capital components",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pressed NFT",
+    "slug": "pressed-nft-z9pyh",
+    "description": "A procedural pipeline for tangible representation of ERC21 Tokens.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Secured Finance",
+    "slug": "secured-finance-anek5",
+    "description": "A protocol for financial transactions backed by crypto-assets",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "revert.finance",
+    "slug": "revert-finance-eainp",
+    "description": "A DeFi Liquidity Provider dashboard",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tonic",
+    "slug": "tonic-hb66e",
+    "description": "Tonic is a money account ready for mass adoption. It provides free instant transfers, interest on savings and much more.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GoodGhosting",
+    "slug": "goodghosting-78tdw",
+    "description": "A DeFi savings game which rewards regular saving",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "prana:",
+    "slug": "prana--f65x2",
+    "description": "Creating unique copies of ebooks that users can own outright, with the freedom to do what they want with it. Just like how physical copies are owned by users.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stoploss",
+    "slug": "stoploss-ojwn7",
+    "description": "The stoploss protocol protects uniswap liquidity providers against impermanent losses.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trustless.Insure",
+    "slug": "trustless-insure-ym366",
+    "description": "Completely trustless defi insurance protocol to insure against smart contract hacks",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Compound-DApp",
+    "slug": "compound-dapp-x21wt",
+    "description": "Build a DApp to use Compound SDK",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Karaokio Exchange",
+    "slug": "karaokio-exchange-8jhur",
+    "description": "Karaokio.Exhcange - Decentralized Karaoke Marketplace",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Thera",
+    "slug": "thera-om8d3",
+    "description": "Cool Way to decentralize reforestation, user buys trees and depending on balance unlocks different things in Dapp. Anything that makes a Dapp would come in, on purchase music, on transfer stars shooting, a cool Dapp with multi UI functions.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unipeer",
+    "slug": "unipeer-j7zgy",
+    "description": "Non-custodial p2p fiat on/off ramp using openbanking API",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "astralDAO",
+    "slug": "astraldao-pds3m",
+    "description": "AstralDAO the primitive that will stitch together various decentralized components to bring advanced spatial data technologies into the Web3 fold, which will enable an ecosystem of location-based dApps to support our transition to a just, sustainable and resilient world.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Digital Euro Stablecoin Protocol 💶",
+    "slug": "digital-euro-stablecoin-protocol-💶-7mq5t",
+    "description": "The world's first decentralized EUR pegged stablecoin",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oracle Sandbox",
+    "slug": "oracle-sandbox-d97md",
+    "description": "A sandboxing app for simulating how different oracles operate with different smart contracts, especially related to risk.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hesychasm",
+    "slug": "hesychasm-mzs67",
+    "description": "external adapter to get randomness from drand.love",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Open Journal Systems",
+    "slug": "decentralized-open-journal-systems-s911y",
+    "description": "Enabling publishers, editors and authors to store publication data on Ethereum and IPFS and to seamlessly onboard users (authors, reviewers, etc.) and giving them the opportunity to take control of their data.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TwentyPay",
+    "slug": "twentypay-s54kp",
+    "description": "E-commerce plug-in that enables buyers and sellers to transact using the ERC-20 tokens of their choice.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xmons",
+    "slug": "0xmons-7xbtk",
+    "description": "Neural network generated pixel monster NFTs",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DePay 2",
+    "slug": "depay-2-8ye0u",
+    "description": "Real time payment app using cryptocurrency or local currency, decreasing transaction time and mainstreamizing crypto in the local communities.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rupia (Derivative INR )",
+    "slug": "rupia-derivative-inr--deamv",
+    "description": "Rupia is a derivative Indian rupee using oracles collateralised to earn interest for trading/insurance use cases",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "myVote by Indigo Theory",
+    "slug": "myvote-by-indigo-theory-mores",
+    "description": "There were 550,000 mail ballots rejected this year in the primaries alone. MyVote aims to remove rejected ballots from the system all together ensuring every vote is counted.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YetiRoll",
+    "slug": "yetiroll-dh4p8",
+    "description": "A decentralized online payrolling platform for seamless processing of payments for people connected to centralized and decentralized organizations.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFette",
+    "slug": "nfette-u7926",
+    "description": "An Automatic Market Maker factory for NFT collectables where shares can be sold as a fundraising mechanism built for creators",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PoolTogether Aave Pool",
+    "slug": "pooltogether-aave-pool-symcf",
+    "description": "A PoolTogether pool using Aave as yield source",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "coinosis",
+    "slug": "coinosis-wa91i",
+    "description": "Coinosis is a blockchain-based videoconferencing platform. Meet interesting people, learn new things, share your knowledge and earn crypto.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Myel",
+    "slug": "myel-4ovwo",
+    "description": "Payment manager for Filecoin retrieval market",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperTrader",
+    "slug": "supertrader-nt3tq",
+    "description": "Marketplace to create decentralised mutual funds in crypto assets",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tokenize Music",
+    "slug": "tokenize-music-4xiwz",
+    "description": "Accept as input an mp3 file and convert into an ethereum token",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "iroiro",
+    "slug": "iroiro-88nsd",
+    "description": "The decentralized creators support platform which support creators and give rewards for there fans. By staking tokens on platform, both of creators and fans gain a more funds and rewards mutually.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YFNFT",
+    "slug": "yfnft-xdpdv",
+    "description": "Casual Game: Take Over, Hold, Score, Win. Grab the top prize every Sunday.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SalesTogether",
+    "slug": "salestogether-hgvjn",
+    "description": "Platform to enable sales reps reward people for providing signals about entities (companies, people)  with a propensity to buy",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "L2.money",
+    "slug": "l2-money-8d9k1",
+    "description": "Track L2 usage, manage wallets, and make it easier to move funds between various L2s",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Erdstall",
+    "slug": "erdstall-2reco",
+    "description": "Powerful Plasma Alternative using an Abstract TTP for Off-Chain Scaling",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "$upplyChainHub",
+    "slug": "-upplychainhub-pujxy",
+    "description": "Any individual without prior knowledge of Blockchain or Solidity can build and deploy a complete supply chain for his/her product, customized according to their needs using our user-friendly interface.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creaton",
+    "slug": "creaton-p8gwh",
+    "description": "Subscribe to your favorite creators for exclusive content!",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "composable",
+    "slug": "composable-kzsek",
+    "description": "smart contract tool for both protocols and users to compose arbitrary actions across defi space",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Articulate",
+    "slug": "articulate-i8opx",
+    "description": "Social media platform to provide infrastructure to prevent the spread of fake news",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Semiott Protocol",
+    "slug": "semiott-protocol-e564s",
+    "description": "Probabilistic Proofs and Coherent Cryptoeconomics for Financial Fairness Architectures",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "E-sports Results Oracle",
+    "slug": "e-sports-results-oracle-jadtx",
+    "description": "We are to building an oracle that is able to report the outcomes of e-sports matches.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LiquidL2",
+    "slug": "liquidl2-aw5og",
+    "description": "LiquidL2 allows users to take out loans collateralised by their pending withdrawals from Layer 2 solutions. This means that for a fee, users can avoid a 7 day challenge period to get access to funds instantly",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Raw Cipher",
+    "slug": "raw-cipher-7mn05",
+    "description": "DeFi UI for Compound and Aave with option of adding cover to your deposit using Opyn",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NewFi",
+    "slug": "newfi-dhhu3",
+    "description": "NewFi offers personalized crypto-asset strategies to help investors make the best returns.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "git3",
+    "slug": "git3-8pev8",
+    "description": "Moving git to ipfs, where each repository is controlled through a smart contract + leaving tips on issues to give maintainer incentive to work on them",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cameo",
+    "slug": "cameo-fuy81",
+    "description": "Chrome based DID wallet to manage your profile",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "oligo",
+    "slug": "oligo-j89uz",
+    "description": "Our project allows the monetization of voting rights in typical Token Governance.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mindful",
+    "slug": "mindful-18tc8",
+    "description": "Portfolio Alignment for Degens: With Mindful, you can adopt strategies to mindfully DCA into assets, rebalance your portfolio, and take profits automatically. Let your mindful self plan for your degen self's future.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Haciendas",
+    "slug": "haciendas-6acbq",
+    "description": "A decentralised game and interface to discover and interact with smart contracts",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flavor.finance",
+    "slug": "flavor-finance-pso2q",
+    "description": "Flavor adds a spicy new prediction market twist to DeFi savings",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Poolbet",
+    "slug": "poolbet-8nvd8",
+    "description": "Uses PoolTogether pools to allow social betting with a group of friends where the best performing better wins the interest beared.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Marklar Coin",
+    "slug": "marklar-coin-59mqe",
+    "description": "Create a Smart Contract with Solidity and deploy a small DApp.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Carbon Credit Project",
+    "slug": "carbon-credit-project-irjbc",
+    "description": "In this project, we aim to create a Carbon Credit Ecosystem on the Ethereum blockchain.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Athlete Equity",
+    "slug": "athlete-equity-sdzw8",
+    "description": "At player.finance we're building a dApp that allows anyone to build a portfolio of pro athletes. We gamify athlete performance similar to fantasy sports, then reflect that performance in the token price. Soon you will be able to build your own tokenized team!",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPFS-GBA",
+    "slug": "ipfs-gba-1ck3g",
+    "description": "Play GBA games from IPFS",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Huddln",
+    "slug": "huddln-blockchain-service-igh4g",
+    "description": "The Huddln Blockchain Service, provides social platform clients with a set of standard features that focus on content monetization.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "El Dorado",
+    "slug": "el-dorado-dka4u",
+    "description": "El Dorado: The Cryptodollar Bank of LATAM. We are reinventing the way financial products and services are designed, especially for people living in unstable economies. We are going to provide all the services a Bank can offer and more. USD savings accounts and a P2P exchange.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Space-dX",
+    "slug": "space-dx-1jtwq",
+    "description": "A yield gaming / tokenomic warfare blockchain game. Build a fleet and the explore the vast galaxy to discover the riches of the cosmos. Defend yourself with weapons and other technologies from random events in the skies. Engage in combat against other fleets, winner takes all.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NiftyCrates",
+    "slug": "niftycrates-djk1x",
+    "description": "Decentralized ERC-721 loot boxes",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wrapped Filecoin (WFIL)",
+    "slug": "wrapped-filecoin-wfil-k5vse",
+    "description": "WFIL is the First Filecoin Stablecoin on Ethereum",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tenderize.me",
+    "slug": "tenderize-me-3wx0h",
+    "description": "Combining Stake based protocols and liquidity pooling to create a liquid staking solution",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DePay",
+    "slug": "depay-y7xj8",
+    "description": "Decentralized Payments. No more going to exchanges. All in one. Anything to anything crypto payment processing.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "yieldSCAMM",
+    "slug": "yieldscamm-8rzb1",
+    "description": "In a world of scams, yieldSCAMM brings liquidity to non-fungible tokens within the same asset class, starting from UMA’s yield dollars.  yieldSCAMM= accruing sustainable yields (yield) + through rebases (SC) + while providing liquidity (AMM)",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tides Gas Saver",
+    "slug": "tides-gas-saver-2cx66",
+    "description": "USDC Transfer Gas Saver",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tweether",
+    "slug": "tweether-b79ug",
+    "description": "A voting platform for democrotizing communication, vote on your tweet with Tweether!",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Upala Digital Identity",
+    "slug": "upala-digital-identity-w8gg0",
+    "description": "Anti-Sybil system for DApps and a decentralized digital identity in the future and an example Upala-powered DApp.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "quack",
+    "slug": "quack-kpm9y",
+    "description": "public arts are public goods. can we fund artists and musicians.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Office",
+    "slug": "decentralized-office-srzrc",
+    "description": "Credit Union on blockchain(Esusu), Saving to earn on Defi Protocols (AAVE, COMPOUND, UMA etc using local currencies), decentralized Image/File storage API, and lots more",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Coin Chat",
+    "slug": "coin-chat-8kg6s",
+    "description": "Pay some amount to send messages. This reduces spam from sender and receiver is incentivized to read messages.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Signchain",
+    "slug": "signchain-o181u",
+    "description": "A platform that creates and manages tamperproof digitally signed documents using smart contracts, DIDs and decentralized storage",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aletheia",
+    "slug": "aletheia-akzng",
+    "description": "Profile management application built on top of Ceramic Network with IDX.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Molecule Protocol",
+    "slug": "molecule-protocol-rckdh",
+    "description": "If each token is an atom, and a combination of tokens will form a molecule, which can enable methods on a wallet. For example, only if a wallet contains a KYC token the transfer can be executed.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Overlay",
+    "slug": "overlay-i55n8",
+    "description": "A protocol for long/short trading of DeFi data streams",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Archie",
+    "slug": "archie-ij15n",
+    "description": "Archie is a unified crowd funding platform for Donors/investors to donate/fund NGO's  in accordance with cutting out the middleman and shipping the product as per the goal requirement",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Syndicate",
+    "slug": "syndicate-yed8q",
+    "description": "Syndicate is a web3 community chat app.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vault Alarm",
+    "slug": "vault-alarm-4qbh9",
+    "description": "MakerDAO's Vault tracker with alarms to avoid liquidations",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Squad Chess",
+    "slug": "squad-chess-es7e1",
+    "description": "Platform for user-submitted, tokenized game mods",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Paireth",
+    "slug": "paireth-0kc77",
+    "description": "Simple tool for checking and creating new Uniswap V2 Pairs across multiple networks",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Machu Picchu",
+    "slug": "machu-picchu-f0xau",
+    "description": "Open source using blockchain and Earth Observation to reduce drastically costs, allowing smallholder farmers worldwide to mutually share their crop risks",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flashbank",
+    "slug": "flashbank-6d6mb",
+    "description": "Flashloan on top of Compound using delegated borrowing limits.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Catalog",
+    "slug": "catalog-6u93d",
+    "description": "Catalog empowers artists with greater control in monetizing their work and community through the use of artist tokens, which unlock rewards, exclusive content, and revenue share for supporters.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Superfluid Subscriptions",
+    "slug": "superfluid-subscriptions-tmsf4",
+    "description": "We are building a subscription protocol with superfluid",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Durple",
+    "slug": "durple-04x92",
+    "description": "Decentralised Reddit. Durple combines everything you love about forums with a decentralised platform that allows communities to thrive free of censorship. Live Demo on MATIC Mumbai.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Paypal and Alipay",
+    "slug": "decentralized-paypal-and-alipay-uimgc",
+    "description": "This system is meant to build up a decentralized trustless system to act as an intermediary between buyers and sellers in various kinds of trading and shopping, it will function exactly as Alipay or paypal and more than that.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lucidity",
+    "slug": "lucidity-r9p8z",
+    "description": "Management of Bidding and Funds for Projects/Contracts/Services for Private/Public Organizations in a decentralized application.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ethFM",
+    "slug": "ethfm-i85nt",
+    "description": "Steganography Algorithm that works over ERC-20 Transactions",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DistributedTown",
+    "slug": "distributedtown-imrxs",
+    "description": "Distributed Town is a Network of DAOs  that lets people organize in self-sovereign communities. It aims to become the standard in Collaborative Economics - and it's based on a mutual credit system of accounting - and a universal-login based on Skills, rather than personal data.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kotanipay",
+    "slug": "kotanipay-c10j5",
+    "description": "A decentralised crypto to FIat onramp/offramp",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Audit Protocol",
+    "slug": "audit-protocol-ukr5o",
+    "description": "Tamper proof, automated vouching system for businesses.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "llama.community",
+    "slug": "llama-community-6vsae",
+    "description": "A tool to manage your crypto community treasury",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fountain.finance",
+    "slug": "fountain-finance-u6q6p",
+    "description": "An experiment in composable fundraising, income streams, surplus redistribution, and sustainable growth on Ethereum.",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Looking Glass",
+    "slug": "looking-glass-ihyzh",
+    "description": "Cross-blockchain asset transfer",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "rpc-network",
+    "slug": "rpc-network-r0y23",
+    "description": "a decentralized node services  according to the devp2p to find nodes this will reuse network node and if you run the full node with open RPC will get the reward， Pos consensus needs to be introduced to detect whether the node is running,  It will serve dapp  and eth2.0 beacon cha",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Podcast Pools",
+    "slug": "podcast-pools-udfsx",
+    "description": "Win NFT episodes from your favorite Podcasts",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Symfoni – Gluing together Eth tooling",
+    "slug": "symfoni-–-gluing-together-eth-tooling-7ngwh",
+    "description": "😫Turning Eth development into this 😎",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crescendo",
+    "slug": "crescendo-qiryy",
+    "description": "Gas optimizing proxy for DeFi apps which utilizes a custom Balancer pool+OpenGSN paymaster as a treasury",
+    "event": "ETHOnline",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "name": "GLSL-onChainArts",
+    "slug": "glsl-onchainarts-y2fee",
+    "description": "Onchain Arts using GLSL on webgl in Animation_URL DATAURI TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vitalik Number",
+    "slug": "vitalik-number-vn1j1",
+    "description": "Erdos Number, but for Vitalik and using github commits (calculating distance from vitalik on github contributions)",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "deadswit.ch",
+    "slug": "deadswit-ch-94bj7",
+    "description": "dead person switch for your crypto. send keys to family when you get hit by  a bus.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atlas Collection Sharing",
+    "slug": "atlas-collection-sharing-ohy7q",
+    "description": "Save crypto articles you find on the internet and share with others using IPFS.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Prototyping Web3 Citizens' Assemblies",
+    "slug": "prototyping-web3-citizens-assemblies-55xmj",
+    "description": "Solving persistent and future governence issues in DAOs and bringing that forward to broader society. Citizens’ assemblies with web3 technologies for and of the future",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PoolPing",
+    "slug": "poolping-eymko",
+    "description": "It is a yield notification system and stop loss mechanism where a user can protect farming positions against heavy losses",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hacking on PrimeDAO [pls don't judge]",
+    "slug": "hacking-on-primedao-pls-don-t-judge-8zfui",
+    "description": "Hacking Weekend for PrimeDAO [Please don't put the project up for Judging]",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jamerative",
+    "slug": "jamerative-moakr",
+    "description": "Jamerative is a platform that encourages generative artists to collaborate by sharing their code in the form of NFT and earn a revenue share from other NFTs that are generated with their code.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xNFTs - Crosschain NFTs -",
+    "slug": "xnfts-crosschain-nfts-y6f7k",
+    "description": "xNFTs is crosschain NFTs. It utilize the Connext as crosschain messaging protocol, and it can make NFT as crosschain NFT.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ygz83",
+      "46q4i"
+    ]
+  },
+  {
+    "name": "TrustStaking",
+    "slug": "truststaking-94dxe",
+    "description": "A Staking & Betting layer on-top a Web-of-Trust library to incentivize the creation of a user-owned social graph.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "poc.land",
+    "slug": "poc-land-7stxo",
+    "description": "The land of Proof of Comunity tokens. An alternative to POAPs with multichain and money-streaming capabilities, coupled with permissionless minting  and IPFS storage of metadata.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Raffle Party",
+    "slug": "raffle-party-dih8u",
+    "description": "Raffle Party provides liquidity for your JPEGs. Pool your NFTs with others, raffle, and earn.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "optimistic-erigon",
+    "slug": "optimistic-erigon-aek3f",
+    "description": "A fork of the Erigon client for Optimism with only one diff on top!",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "EthFlix",
+    "slug": "ethflix-z4hsq",
+    "description": "On-demand Video Platform built on Livepeer's VOD MVP         .",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Parasat Learn2Earn",
+    "slug": "parasat-learn2earn-igfps",
+    "description": "First business model of the learn2earn system. Tried to build a DAO at first, did not work out",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IMPACTO",
+    "slug": "impacto-2snpy",
+    "description": "IMPACTO books  &  goods. BUY ONE  .  GIVE ONE  .  IMPACT.   We're providing a simple, secure and transparent way to connect backers with underserved communities to maximize impact by buying your favorite books & goods with no extra cost.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rki5z"
+    ]
+  },
+  {
+    "name": "MinaFT",
+    "slug": "minaft-b1f35",
+    "description": "First ERC721 like smart contract on Mina Protocol with basic NFT minting and transferring UI",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Lensterdam",
+    "slug": "lensterdam-iikda",
+    "description": "Engaging push notifications for The Lens Protocol with EPNS, TheGraph and POAP",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "FLOAN - Cross-chain Debt Teleporter",
+    "slug": "floan-cross-chain-debt-teleporter-9ao56",
+    "description": "1-click to beam the user's debt position to their desired chain.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "ygz83",
+      "oiv32"
+    ]
+  },
+  {
+    "name": "Temp",
+    "slug": "temp-q7323",
+    "description": "",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Twitter ETH Price Oracle",
+    "slug": "twitter-eth-price-oracle-3x85c",
+    "description": "Updates an ETH price oracle from twitter posts! First steps towards real time decentralized data validated easily over tweets.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1pyem"
+    ]
+  },
+  {
+    "name": "SuperNFT",
+    "slug": "supernft-p2ahe",
+    "description": "A dynamic NFT whose image gets updated in real time to represent a Supefluid Stream position",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Raise",
+    "slug": "raise-szvvb",
+    "description": "Decentralise your child’s way of  learning. The foundation phase is an important aspect of your learners' education growth as it impacts their way of learning throughout their education. Give your learners’ a head start in learning confidently and comfortability.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Holdím",
+    "slug": "holdim-xxhme",
+    "description": "Holdim is a user-friendly governance aggregator in a form of mobile app with AI optimised proposal descriptions with a customisable watchlist of DAOs",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "88fj5",
+      "0k3eo"
+    ]
+  },
+  {
+    "name": "Candlekeep",
+    "slug": "candlekeep-112wc",
+    "description": "A distributed platform for publishing research papers governed by a DAO",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Together",
+    "slug": "together-3uu3q",
+    "description": "Smart Contract to split your earnings with someone to support them",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cyborgs",
+    "slug": "cyborgs-y9agk",
+    "description": "gnosis module for the legacy module. scared your crypto will follow you to your grave?",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2gzxu"
+    ]
+  },
+  {
+    "name": "DoNFT",
+    "slug": "donft-6km8y",
+    "description": "Selfy stylist with bundling NFTs mechanics (with minting nfts with selfy ans choosen style)",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "t5on2",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Tempra",
+    "slug": "tempra-xnxf4",
+    "description": "Messages are temporary, but connections are forever. Tempra is your all-in-one instant messaging platform on-chain. Inspired by Snapchat, upload ephemeral photos and videos, or private message your frens.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "46q4i",
+      "mdb6w",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Soul Protocol",
+    "slug": "soul-protocol-69p0s",
+    "description": "A DAO-owned protocol and dynamic NFT primitive that captures the holder’s constantly unfolding “self” on-chain.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpamDAO",
+    "slug": "spamdao-k2koq",
+    "description": "SpamDAO, democratizing spam. Propose a silly message and have fellow followers of the DAO vote to post them",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filmine v0.0.2 - Filecoin liquid staking",
+    "slug": "filmine-v0-0-2-filecoin-liquid-staking-kycbz",
+    "description": "Filecoin liquid staking, allows miners on the Filecoin network to tap into liqudity provided by FIL token holders staking into the protocol",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SquadGoals",
+    "slug": "squadgoals-w4dt8",
+    "description": "Rewards for your Public Good squad's achievements, distributed as a tradeable SuperFluid IDA share, enforced by the UMA Optimistic Oracle!",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "GoldenCircle",
+    "slug": "goldencircle-7xb1u",
+    "description": "A flexible lens module allowing  custom follower tiers  using harberger tax. Creators can now have followers and the golden circle, unlocking an entire new forms of monetization.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "0k3eo",
+      "vxwti",
+      "x59d1",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "RugPolice",
+    "slug": "rugpolice-3ww3e",
+    "description": "Label Malicious tokens on Uniswap V3. Moreover, we provide  Machine Learning algorithm to predict potential rug pulls.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "DALi",
+    "slug": "dali-p0q8r",
+    "description": "DALi extends Mina ZK Apps on-chain storage with a off-chain data availability layer using FileCoin.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "daodom",
+    "slug": "daodom-ijm81",
+    "description": "Propose a job which has to be done inside a DAO and get paid in real-time, every second",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "whl",
+    "slug": "whl-xu3i6",
+    "description": "Whl is a decentralized calendar dapp for mapping astrological and symbols to meaningful contributions for learning esoterics using a proof-of-lore approach.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "the-bridge-message-standard",
+    "slug": "the-bridge-message-standard-pxr1u",
+    "description": "PoC for TheBridge Message Standard connecting Polygon Toucan protocol with Regen Ledger",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "my3b7"
+    ]
+  },
+  {
+    "name": "DAOra",
+    "slug": "daora-au1wc",
+    "description": "DAOra is a project management and DAO analytics tracker. Think of it as a decentralized, multi-tenancy Jira board where you can track your tasks across DAOs and receive contributor rewards to simply the process of community-driven project completion in web3.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "46q4i",
+      "juzwo",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Placeholder Empty Project",
+    "slug": "placeholder-empty-project-b5t3r",
+    "description": "Couldn't find a team, did some learning anyway, hoping for the staked eth!",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fairymint – the fair mint raffle",
+    "slug": "fairymint-the-fair-mint-raffle-j09u9",
+    "description": "Fully on-chain allowlist raffle system on LENS with Chainlink VRF",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Carbon Pool Demand Analytics",
+    "slug": "carbon-pool-demand-analytics-gw4vi",
+    "description": "Identify the best candidates for new carbon pools by comparing off-chain demand with available on-chain supply",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "my3b7"
+    ]
+  },
+  {
+    "name": "Hexagons Protocol",
+    "slug": "hexagons-protocol-qpgnv",
+    "description": "A protocol and framework to build social-media driven smart contracts",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "StroopWallet",
+    "slug": "stroopwallet-9r2pj",
+    "description": "A yield infused smart contract wallet with relaying, disposable EOAs",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "mt1md"
+    ]
+  },
+  {
+    "name": "Omnii",
+    "slug": "omnii-urkyn",
+    "description": "Omnii is a flexible oracle that uses real-time satellite and other environmental data to scale the verification of carbon credit awards.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "my3b7"
+    ]
+  },
+  {
+    "name": "Team Pemma",
+    "slug": "team-pemma-2fz35",
+    "description": "Low risk, capital efficient and automated strategy for APY futures.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "0k3eo",
+      "d09ed",
+      "ta05h"
+    ]
+  },
+  {
+    "name": "Whaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "slug": "whaaaaaaaaaaaaaaaaaaaaaaaaaaaa-wvx6d",
+    "description": "Analysing Dune Analytics data using GTP-3 to produce a verbal report.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "juzwo"
+    ]
+  },
+  {
+    "name": "Collective Action",
+    "slug": "collective-action-sbrrr",
+    "description": "Collective Action is a donation platform enabling individuals to take social action. Donators can create a prize pool specifying a task and individuals can complete it and upload a proof.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "zxd3n",
+      "0k3eo",
+      "fbyii",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Swarm City - Shortcodes",
+    "slug": "swarm-city-shortcodes-99ue9",
+    "description": "Protocol to establish a fairly secure way to get someone’s account information using only a short code of 5 digits.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dYdX Analytics Dashboard",
+    "slug": "dydx-analytics-dashboard-zvkps",
+    "description": "Analytics dashboard examining dYdX's daily and trading league results with publicly available API data.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "zjspv"
+    ]
+  },
+  {
+    "name": "Decentr-Api",
+    "slug": "decentr-api-8v4ju",
+    "description": "Decentr-API is autonomous decentralized load balancing for web3 transactions",
+    "event": "ETHAmsterdam",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "2gzxu",
+      "t5on2",
+      "t5on2",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "♻️ DeCarbon",
+    "slug": "decarbon-gb4ob",
+    "description": "DeCarbon: The first service that enables you to compensate your ETH carbon footprint in a single click !",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Mana: More Anonymous Name Anchor",
+    "slug": "mana-more-anonymous-name-anchor-bgbvk",
+    "description": "With zero knowledge, Mana  allows you to anonymously name web resources and provide a concise proof to users. It's zkENS.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Positional Protocol",
+    "slug": "positional-protocol-on8f2",
+    "description": "Create NFT bids and listings that update dynamically, relative to the floor price",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Beaconpulse",
+    "slug": "beaconpulse-jxuyk",
+    "description": "A daily push notification showing the ETH winnings of your Ethereum Beaconchain validator.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Parto",
+    "slug": "parto-ym2gk",
+    "description": "Turn future streaming revenue of your song into a token and sell it on a DEX",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "zxd3n",
+      "fp1x1",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "globalframes - web3 powered video",
+    "slug": "globalframes-web3-powered-video-bgf0n",
+    "description": "Globalframes presents a convenient, web3 powered video service, for both Streaming and Video on Demand. No more deplatforming risk of centralized solutions. Globalframes is built on the shoulders of proven web3 solutions. Now catering to your DAO’s special needs.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "ZKRep",
+    "slug": "zkrep-zjxpr",
+    "description": "A way to track a user's reputation with an organization without disclosing it to others",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MaNFTesto Dapp",
+    "slug": "manftesto-dapp-564q0",
+    "description": "Collaborative Writing  and Ranking DApp to create trans-national papers and constitutions",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "one-vote-per-wallet",
+    "slug": "one-vote-per-wallet-ibq9x",
+    "description": "sybil resistant signal voting to replace traditional forum voting",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Marbel",
+    "slug": "marbel-7su6d",
+    "description": "A \"hacker news\" like board for every DAO with built in incentives and rewards.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Raritypfs",
+    "slug": "raritypfs-39vi0",
+    "description": "A permissionless and decentralized rarity checker tool that uses IPFS",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized IPFS Discovery Directory",
+    "slug": "decentralized-ipfs-discovery-directory-i31i9",
+    "description": "Keeping track of files on IPFS is hard. Our projects enables binding of custom metadata to any IPFS dataset (IPFS Hash) for easier tracking & discovery.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TheBridge",
+    "slug": "thebridge-dg3sv",
+    "description": "A lot of people find it confusing and intimidating when joining a DAO for the first time. We bridge the gap by providing recommendations of DAOs for based on interests and expertise, series of quests and issue reputation NFTs upon completion of quests.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rki5z"
+    ]
+  },
+  {
+    "name": "ćeD",
+    "slug": "ced-8bp6j",
+    "description": "Enabling leveraged LPing on UniswapV2-like DEXes with the help of the Gearbox protocol.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ta05h"
+    ]
+  },
+  {
+    "name": "Social Link",
+    "slug": "social-link-tn9yx",
+    "description": "Social Link is a bot that copies your follows on Social Media Platforms, such as Twitter to your decentralised Lens Profile.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTeaser",
+    "slug": "nfteaser-t2nbk",
+    "description": "NFTeaser is a rental platform for NFTs. Whether you wanna join a BAYC event or try out a skin in-game, you don't wanna risk buying it because of illiquidity. With NFTeaser, you can just rent them!",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0k3eo"
+    ]
+  },
+  {
+    "name": "Lending and Borrowing protocol for NFTs",
+    "slug": "lending-and-borrowing-protocol-for-nfts-eu8zq",
+    "description": "A protocol that let NFT Holders access instant liquidity without selling their assets",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DegenBox",
+    "slug": "degenbox-zh7pp",
+    "description": "Welcome to degen.bar where you steal the degenbox from your frens",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "mnb9g"
+    ]
+  },
+  {
+    "name": "oidc-siwe-app",
+    "slug": "oidc-siwe-app-ee3we",
+    "description": "A graphical attempt at understanding a bit more the process when using OpenID Connect and Sign-in with Ethereum",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x566a"
+    ]
+  },
+  {
+    "name": "Regen DAO Builder",
+    "slug": "regen-dao-builder-gjuzf",
+    "description": "We can launch DAOs with distinct contributor pools, each with a shared set percentage so that each season provides value to contributors directly related to the season contribution",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Retr0x",
+    "slug": "retr0x-2p73o",
+    "description": "Fully on-chain retro-generative public goods funding app deployed with Optimism. Our implementation includes funding initiation with a curated whitelist, a smart contract that executes quadratic voting and fund disbursement logic and a  dashboard to access on-chain data.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "xdat5",
+      "x59d1",
+      "x566a",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Valaxy",
+    "slug": "valaxy-wyxvh",
+    "description": "Valaxy is an earn-to-learn DAO onboarding platform where users are awarded on-chain credentials - and if applicable native tokens - by watching videos and completing quizzes.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Threshold Staking Subgraph",
+    "slug": "threshold-staking-subgraph-p0cre",
+    "description": "A project that uses The Graph technology which retrieves information about Threshold Network staking.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hacklens",
+    "slug": "hacklens-rx3gy",
+    "description": "A decentralised social network that allows hackathon organizers, builders & sponsors to form lasting creative relationships and support each other as they build the future of Web3 together",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PixelPeaks",
+    "slug": "pixelpeaks-cur1o",
+    "description": "on-chain svg nft that changes its content and metadata as the chain goes on",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zk-maia",
+    "slug": "zk-maia-mq7et",
+    "description": "Zk-maia is a private zk proof cross-chain bridge that allows user to transfer their assets at low cost and earn interest during the process",
+    "event": "ETHAmsterdam",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "ygz83",
+      "t5on2",
+      "oiv32"
+    ]
+  },
+  {
+    "name": "The DAOVerse",
+    "slug": "the-daoverse-o8g12",
+    "description": "The DAOVerse is a 3D Web & VR-enabled metaverse platform facilitating community onboarding & engagement. DAOs, NFTs & Web3 communities can create their own gamified experiences for the earning of tokens/rewards/NFT Badges in tailored community virtual spaces.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "zxd3n",
+      "r7x1c",
+      "qy8m3",
+      "fbyii",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "EthAms - BAYC subgraph API",
+    "slug": "ethams-bayc-subgraph-api-qbj90",
+    "description": "I created a basic subgraph which got the meta information of BAYC from IPFS and can get queried using the explorer.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Walzee",
+    "slug": "walzee-kkhd9",
+    "description": "Walzee is a way to curate content and make revenue from people following you for the content you're curating",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Leibniz Protocol",
+    "slug": "leibniz-protocol-0e2as",
+    "description": "Asset Management protocol that users can easily invest in options while maintaining their principal",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Love It? Hate It? Review  It!",
+    "slug": "love-it-hate-it-review-it-janox",
+    "description": "We write reviews for all the products that we use! Wouldn't it be great if we can get paid for it in tokens!",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dAPPlace.xyz",
+    "slug": "dapplace-xyz-609kv",
+    "description": "dAPPlace is a canvas for infinite social art. People can place one colored pixel at a time, collaborating or competing in art battles. An auction happens while the canvas is being edited. Every 100 edits an NFT of the whole canvas is minted and awarded to the highest bidder",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fbyii",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Nimi.eth",
+    "slug": "nimi-eth-ppok6",
+    "description": "Build and deploy your web3 profile page to your .eth domain in just a few clicks - with Nimi!",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Distro",
+    "slug": "distro-k3mj0",
+    "description": "Split crypto payments with your friends! Efficiency, ease of use, and peace of mind when it comes to managing many payments. Just connect wallet, add your friends, and relax!",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHGlobalxOpera  - Account abstraction",
+    "slug": "ethglobalxopera-account-abstraction-1p7v2",
+    "description": "Making wallets smarter, using ERC-4337 account abstraction helping with recoverability",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Protocol Analytics",
+    "slug": "protocol-analytics-36u9q",
+    "description": "Analytics dashboards for Gearbox Protocol and Polygon DEX activity",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ta05h"
+    ]
+  },
+  {
+    "name": "Ethereum Weekly",
+    "slug": "ethereum-weekly-pqpb2",
+    "description": "Ethereum weekly Dashboard on Dune Analytics: Covering the most important metrics in any week",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "juzwo",
+      "zjspv"
+    ]
+  },
+  {
+    "name": "SplitConnect",
+    "slug": "splitconnect-u37b7",
+    "description": "Less stress when sharing expenses with frens. SplitConnect has all your expenses covered.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sellary",
+    "slug": "sellary-kisdh",
+    "description": "Sellary allows freelancers, DAO contributors or employees to claim their streamed income instantly - by wrapping the future value of SuperFluid money streams into tradable NFTs.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "kindred",
+    "slug": "kindred-dk7as",
+    "description": "Kindred is a social recovery multisig dapp built on the gnosis safe that enables users to distribute funds from their wallets to family members, loved ones and friends for when they pass away.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2gzxu",
+      "mnb9g"
+    ]
+  },
+  {
+    "name": "stake-frens",
+    "slug": "stake-frens-20gu2",
+    "description": "Social task manager helping you to commit to your goals. The idea is that you and your peers stake together, and if one person doesn't finish the task all money is lost.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Primetime",
+    "slug": "primetime-jo5sf",
+    "description": "Tired of people showing up late to meetings? Use Primetime to get rewarded for being on time and let late showers pay for being late. Depending on the delay, their stake is distributed among all others.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0k3eo"
+    ]
+  },
+  {
+    "name": "Serenity Pool",
+    "slug": "serenity-pool-if7tb",
+    "description": "Serenity pool encourages collective presence and allows you to connect IRL to your environment. The more time you & others in your pool spend attentively, the more you can earn collectively.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "IntellectualDAO",
+    "slug": "intellectualdao-uvyyi",
+    "description": "Intellectual Property Proof Protocol. Let Artist, Developers, Designers and Authors prove their work is their own",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Watch my signing",
+    "slug": "watch-my-signing-ntj4k",
+    "description": "Using an Apple Watch we will be able to send transactions or sign messages offline. The watch will send signings to a terminal which will send payments to the chain or validate signatures.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Dating dApp",
+    "slug": "dating-dapp-jr34e",
+    "description": "A dating app for NFT community. Community is all about relationship and is there a stronger relationship than love?",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AlphaLeek",
+    "slug": "alphaleek-4ejgj",
+    "description": "Welcome  Hacker. Connect your GitHub, show your shadowy super skills   and claim an on-chain proof of your developer prowess.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "F3Bridge",
+    "slug": "f3bridge-r4bc9",
+    "description": "Web2 to Web3 Social media bridge dapp that helps transfer smoothly from Web2 to Web3",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "rki5z",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Minataur",
+    "slug": "minataur-f10d4",
+    "description": "Private, fair and secure zero-knowledge voting system on Mina network",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Flexergy",
+    "slug": "flexergy-q655w",
+    "description": "Our energy system must quickly decarbonize, yet the challenge to maintain the balance of supply and demand still remains. Our mission is to provide a decentralized marketplace for trading flexibility electricity services towards the transition to a smart, flexible power grid.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "6wi0d",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Krystal (unfinished)",
+    "slug": "krystal-unfinished-xghts",
+    "description": "(Unfinished) Zero-knowledge whitelist application running on top of Mina Protocol (a.k.a. proof of group chat)",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSRental",
+    "slug": "ensrental-h1ck5",
+    "description": "Secondary rental market for ens domains. Increase liquidity for ENS domain owners and decrease capital barriers for renters.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Human",
+    "slug": "decentralized-human-8rofk",
+    "description": "Decentralized Human is a depository of personalized human assets in the form of NFTs, for the development of synthetic media.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Herd of Cows",
+    "slug": "herd-of-cows-7md7g",
+    "description": "Upgrade COW swap mechanism to do cross chain coincidence of wants as the engine that optimizes the path in a cross chain swapping.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Looking for Party",
+    "slug": "looking-for-party-uh99e",
+    "description": "Value- and skills-based matchmaker for teams that want to build together!",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "NFTW",
+    "slug": "nftw-avt5d",
+    "description": "News For The Win, a censorship resistant news portal with mechanisms to reduce fake news",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Decentralized Electronic Health Record (DEHR)",
+    "slug": "decentralized-electronic-health-record-dehr-1asmi",
+    "description": "A health record is a sensitive information , and the patient should be the owner of his records. For this reason we built a decentralized electronic health record tracker.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "PPfinance",
+    "slug": "ppfinance-k02yv",
+    "description": "Directly purchasable onchain NFTs represented on an interactive pixel canvas",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "EtherForms",
+    "slug": "etherforms-xj0x0",
+    "description": "EtherForms is a plugin that can be used on any web builder or a CMS framework to build a web3 website without having the knowledge of blockchain Technology.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "zxd3n"
+    ]
+  },
+  {
+    "name": "DeFiTorch",
+    "slug": "defitorch-4z0qy",
+    "description": "Multichain Crypto & Stablecoins Portfolio Tracking with investment suggestions",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swapify",
+    "slug": "swapify-xkk8o",
+    "description": "Swapify makes swapping NFTs with a friend as easy as sending money on CashApp. This saves you both gas and marketplace fees.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "i6xez",
+      "mnb9g",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "mint trees",
+    "slug": "mint-trees-q0dz3",
+    "description": "Mint trees makes planting trees programmable. We enable web3 projects to integrate planting trees easily. #1swap1tree #1post1tree #1mint1tree #1booking1tree",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LimeDJV",
+    "slug": "limedjv-ksqav",
+    "description": "LimeDJV is a framework for decentralized joint ventures between DAOs.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DaoDash",
+    "slug": "daodash-a4wsc",
+    "description": "A  dashboard to keep track of governance within and between DAOs",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "peNFT",
+    "slug": "penft-1uf2y",
+    "description": "partially-encryptedNFT: Proof-of-concept of partial encryption of image NFTs, to display and prove ownership while avoiding the artwork being stolen",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "SuperElectro",
+    "slug": "superelectro-aum84",
+    "description": "Liquidation interface, built on top of the Voltz protocol, displaying positions allowing for easy liquidation of under margined ones. Additionally, if you own leveraged positions, you can fund them further to mitigate the risk of liquidation.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "r3g5r"
+    ]
+  },
+  {
+    "name": "😇 😈 Degen Heaven",
+    "slug": "degen-heaven-3k037",
+    "description": "Degen Heaven is the protocol, that empowers defi degens to create and manage vaults, that other users can invest in.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "zxd3n",
+      "fp1x1",
+      "mt1md"
+    ]
+  },
+  {
+    "name": "Aavegotchi-TT",
+    "slug": "aavegotchi-tt-mhkf5",
+    "description": "Aavegotchi Card Game on Polygon that leverages Aave deposit vaults to generate yield while users play on a wager game.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "oiv32"
+    ]
+  },
+  {
+    "name": "PeerStream",
+    "slug": "peerstream-234tq",
+    "description": "Live Stream Platform on web3  with LivePeer (API ,mobile app, website)",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NiftyRewards",
+    "slug": "niftyrewards-mu1yz",
+    "description": "Providing real world utility for NFTS with a simple platform",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "zxd3n"
+    ]
+  },
+  {
+    "name": "Democrazy",
+    "slug": "democrazy-05bma",
+    "description": "Democrazy enables privacy-preserving off-chain governance voting. Individual votes are encrypted, and only the total result is revealed. Think Snapshot but anonymous. Powered by zero-knowledge magic.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Lens Booster",
+    "slug": "lens-booster-7jox1",
+    "description": "Lens Booster allows you to boost your Lens content and skyrocket your audience reach",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Trebuchet",
+    "slug": "trebuchet-k7cti",
+    "description": "Trebuchet is a simple implementation of a flashloan on Aave.  Setup in Remix IDE on the Kovan test-network it will flash-borrow a million ($1'000'000) DAI.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "basketh",
+    "slug": "basketh-d1gqe",
+    "description": "Basketh: a crypto ETF token that lets you diversify your crypto investment",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "Archimedes",
+    "slug": "archimedes-xc7zd",
+    "description": "Distribution layer of investment strategies tokenized using ERC-4626 standard",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ta05h",
+      "zhkg5",
+      "mt1md"
+    ]
+  },
+  {
+    "name": "Contractalyze",
+    "slug": "contractalyze-k1us2",
+    "description": "Analyse smart contract logs to give devs and users an idea about the state of the contract",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZapSpot",
+    "slug": "zapspot-75r3o",
+    "description": "Multi cross-chain bridges and transaction batching on destination chain.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Horcrux",
+    "slug": "horcrux-et4ox",
+    "description": "Extend staking-deposit-cli to allow Shamir Secret Sharing of mnemonic words. This enables beaconchain Validators to distribute the risk of maintaining the backup of their keys.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MinaSnap",
+    "slug": "minasnap-4h4s3",
+    "description": "Metamask snap for interacting with Mina Protocol. With this snap you can use Metamask like any other Mina wallet.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "VeriFried-Strategy",
+    "slug": "verifried-strategy-g2fqu",
+    "description": "Backtesting and deploy decentralized - automated investment strategies",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ta05h",
+      "zhkg5"
+    ]
+  },
+  {
+    "name": "placeth",
+    "slug": "placeth-fudny",
+    "description": "Placeth is a crowd-sourced pixel art board where the community coordinates entirely on-chain. In placeth, art is collaborative; and, like a graffiti wall, the pixels are ephemeral",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Creatorsight",
+    "slug": "creatorsight-d9q3n",
+    "description": "Helping Web3 creators learn more about their collectors with easy to use dashboards and analytics.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "MediFind",
+    "slug": "medifind-vnp4k",
+    "description": "A tokenised prescription NFT that will counteract fake or counterfeit prescriptions.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Instant Market",
+    "slug": "instant-market-hiftk",
+    "description": "Dapp that puts your nft on the market in less than 5 minutes using the fractionalization, Instant Market",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "qy8m3",
+      "46q4i"
+    ]
+  },
+  {
+    "name": "VeriFT",
+    "slug": "verift-uoqi1",
+    "description": "Dapp for distributing and managing tickets for owners of particular NFT collections.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "ngmi Protocol",
+    "slug": "ngmi-protocol-80de8",
+    "description": "ngmi Protocol is a Decentralized Finance Trust Fund aimed at serving your interest irrespective of making it or not.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Superfluid Vortex",
+    "slug": "superfluid-vortex-d5qwv",
+    "description": "Vortex is a domain-specific language for Superfluid batch calls. It  allows you to perform multiple steps in a single transaction, including calls for Super Tokens, Super Apps, and both at the same time.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Recobee",
+    "slug": "recobee-pb25u",
+    "description": "Recobee is a use-case agnostic Recommendation-as-a-Service (RaaS) protocol layer that complements the Lens Protocol to enable personalized, social-graph based recommendations.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scroll",
+    "slug": "scroll-yu4eu",
+    "description": "Allow people to own and easily share their digital diploma, certificate or any kind of credentials without going through the tediously long verification process every time. I'll use smart contract, IPFS and chainlink to store data, prove identity and access off-chain data.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Whitelist Tool",
+    "slug": "whitelist-tool-9xxu1",
+    "description": "Cleanly log, manage and organize your whitelists in a transparent way.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Hunt",
+    "slug": "web3hunt-43443",
+    "description": "DappHunter is for finding the coolest new dapps and/or for showcasing and receiving feedback on your dapps. Made without special backends, only smartcontracts, ipfs, and thegraph.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "> rad drip",
+    "slug": "rad-drip-gx4jr",
+    "description": "Start crowdfunding straight from rad cli and get notified when u receive funds",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "46q4i",
+      "oa4ef"
+    ]
+  },
+  {
+    "name": "TEST PROJECT",
+    "slug": "test-project-qidfq",
+    "description": "test test test test test test test test test test test test test test test test",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "stark mfers",
+    "slug": "stark-mfers-9s90r",
+    "description": "We provide a Cairo library for creators to list their NFTs via a Gradual Dutch Auction. We also provide a proof of concept front-end using a flipped mfers collection.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTwin",
+    "slug": "nftwin-8oj9d",
+    "description": "NFTwin is a dApp tool that can be used to track the authenticity of physical goods using blockchain technology.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UnionQuest",
+    "slug": "unionquest-5z1fz",
+    "description": "a new fully on-chain MMORPG based around credit, built atop of Union, hosted on IPFS & utilising a subgraph for data.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "owr9j",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "PFPnative",
+    "slug": "pfpnative-jvsrr",
+    "description": "PFPnative is a no-code tool to generate unique PFPs for your community. It helps you bootstrap your treasury, create a unique community brand, and token-gate access.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Bidwatcher",
+    "slug": "bidwatcher-49vua",
+    "description": "NFT marketplace with gated livestreams accessible only by the holders or bidders of any NFT",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Detris",
+    "slug": "detris-ce21a",
+    "description": "Detris  is a playful combination of a playable NFT and a prospective puzzle game. You mint an NFT that serves as an interface to play Tetris. This NFT is an interface that will allow the owner to create several L2 transaction and eternalise your ENDGAME and high score.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "0xBOTS",
+    "slug": "0xbots-b6i7u",
+    "description": "0xBOTS.eth is an ENS-mediated protocol that enables web2 & web3 frontends to have lightweight compute-enabled distributed backends.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x566a"
+    ]
+  },
+  {
+    "name": "ActivityDAO",
+    "slug": "activitydao-2mn54",
+    "description": "We try to implement a costless DAO to facilitate the creation and the manipulation of sub-communities around activities.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "t5on2",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "NFTGuru",
+    "slug": "nftguru-eb8p3",
+    "description": "NFTGuru is a off-chain NFT valuation oracle allowing your NFTs to be used as collateral for DeFi.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FujiFlashLoans",
+    "slug": "fujiflashloans-75zyb",
+    "description": "Analytics on AAVE protocol on-chain data using GraphQL, Analytics on 3 flash loan cyber attacks, proposal to AAVE on algorithms to prevent flash loan cyber crimes",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Power Perp Peeps",
+    "slug": "power-perp-peeps-895w9",
+    "description": "FlatPerp enables retail traders to mint and short Squeeth via an ERC-4646 vault. Users make money when ETH stays flat or goes does, via a funding rate and delta-negative price exposure.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "mt1md"
+    ]
+  },
+  {
+    "name": "MultiBridge",
+    "slug": "multibridge-cnprz",
+    "description": "MultiBridge is a smart contract platform that allows users to bridge multiple tokens from their L1 wallet to Optimistic Rollups in one transaction.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Tandem",
+    "slug": "tandem-urj73",
+    "description": "DAO to DAO TokenSwap Protocol: Allowing DAOs to align insensitives and create synergy with others",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Diffusion",
+    "slug": "diffusion-xzx02",
+    "description": "The first auto compounder for Osmosis Liquidity Providers. Boosting Osmosis user's APY by automatically compounding rewards daily.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Adrenaline Finance",
+    "slug": "adrenaline-finance-rd2rz",
+    "description": "Defi platform providing real-world assets exposure without letting go of crypto; with an LP pool between assets in the same class, allowing yield without having to trust one oracle/custodian.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yieldgate",
+    "slug": "yieldgate-q9g9o",
+    "description": "Yieldgate is a tool to receive donations, or to support projects and creators, with yield. No NFTs or tokens, just good old MATIC! Built with ❤️ on top of Aave, Polygon, Coinbase, and WalletConnect",
+    "event": "ETHAmsterdam",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "r7x1c",
+      "qy8m3",
+      "46q4i",
+      "oiv32"
+    ]
+  },
+  {
+    "name": "Klim Sala Bim",
+    "slug": "klim-sala-bim-2wmsd",
+    "description": "KlimSalaBim enables users to reduce their carbon footprint by buying Carbon certificates and retiring them using Toucan smart contracts.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "my3b7"
+    ]
+  },
+  {
+    "name": "JP coin on optimism kovan and mainnet",
+    "slug": "jp-coin-on-optimism-kovan-and-mainnet-kns5i",
+    "description": "TL;DR I aimed to use Superfluid and Optimism to shape a bottom-up economy. #fail. But to be Optimistic: I learned Hardhat!",
+    "event": "ETHAmsterdam",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "join(T)research",
+    "slug": "join-t-research-u1jfn",
+    "description": "Using Voltz Protocol, join(T) enabling pooled, tokenized, and potentially continuous IRS positions. Our contracts enable seamlessly entering and closing liquid positions without yield earning downtime.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r3g5r"
+    ]
+  },
+  {
+    "name": "StakeOverflow",
+    "slug": "stakeoverflow-c1ukj",
+    "description": "StakeOverflow allows users to post community questions and rewards for potential answers.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Health.Wealth",
+    "slug": "health-wealth-650ik",
+    "description": "Health.Wealth leverages biometric wearables and Web3 to empower users to achieve their health and wealth goals by investing in themselves.",
+    "event": "ETHAmsterdam",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "46q4i",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Sign In with Ethereum plugin for Fastify",
+    "slug": "sign-in-with-ethereum-plugin-for-fastify-zka2w",
+    "description": "A plugin that allows painless setup of Sign in with Ethereum on Fastify",
+    "event": "ETHAmsterdam",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x566a"
+    ]
+  }
+]

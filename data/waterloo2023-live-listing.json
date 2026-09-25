@@ -1,0 +1,1620 @@
+[
+  {
+    "name": "Assiterr",
+    "slug": "assiterr-9i4s2",
+    "description": "Transforming static Web3 resources into a dynamic, queryable knowledge base, empowering developer relations teams, and accelerating developer productivity in the blockchain ecosystem.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fb98y",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "A VC-gated (verifiable credential gated) page",
+    "slug": "a-vc-gated-verifiable-credential-gated-page-0wa8j",
+    "description": "Beginner here creating a dApp on Polygon  Visit the template repo https://github.com/oceans404/fullstack-polygon-id-vc-gated-dapp/tree/main and click \"Use this template\" to create a new repo  Get a KYCAgeCredential Verifiable Credential",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unified Data (Network) Demo",
+    "slug": "unified-data-network-demo-95wzf",
+    "description": "This demo was created for the ETHGlobal Waterloo 2023 hackathon and is intended to illustrate a way of building apps on top of a unified data network composed of schema-defined datasets.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "6551AI",
+    "slug": "6551ai-ipvgo",
+    "description": "ERC-6551 NFT of new relevant embeddings from queries from a user",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trade Social",
+    "slug": "trade-social-2rcvr",
+    "description": "Trade social is a social platform for traders, investers to track, post, monitor the trending in cypto , nft, web3 world.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Escher",
+    "slug": "escher-uz52k",
+    "description": "Escher connects interactive art to blockchains. It allows observers to become participants in the performance by allowing them to contribute to the art as it happens.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P2PLend",
+    "slug": "p2plend-d8bnd",
+    "description": "Our P2P lending project empowers borrowers to directly access funds from lenders, bypassing banks. With World ID's credit verification, we ensure secure lending and lower rates for verified borrowers.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "GooseMedia",
+    "slug": "goosemedia-5r9qj",
+    "description": "GooseMedia is a decentralied social media page created using Lens Protocol!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Focal",
+    "slug": "focal-fowsf",
+    "description": "Focal aims to provide a visually appealing resource for marketing teams to gain insights into their web3 clientele, fuelling future marketing campaigns by providing necessary data.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pocket Persona",
+    "slug": "pocket-persona-ncuc5",
+    "description": "Unlock your digital identity! Using GPT-3, we create unique personas by blending your inputs and NFTs. Engage in conversations, hobbies, and interests with other personas. Connect your wallet or Worldcoin to explore a world of virtual interactions!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ThorGuide",
+    "slug": "thorguide-qkv6c",
+    "description": "Discover the exciting world of user-friendly travel with ThorGuide, where your wanderlust is ignited through AI, NFTs, and immersive experiences",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Explorer",
+    "slug": "nft-explorer-ar4dd",
+    "description": "A beautiful NFT Explorer through which you can search for NFTs using a wallet / collection address on EVM chains!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atila TickBot",
+    "slug": "atila-tickbot-m32ng",
+    "description": "Buy and pay for event tickets  on Ethereum, Polygon and Gnosis Chain using a Telegram bot with Safe Core Account Abstraction SDK.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHWinners",
+    "slug": "ethwinners-y9cgg",
+    "description": "An anonymous employee review system in which employees can get anonymous referrals from their colleagues based on Polygon chain.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5b69q"
+    ]
+  },
+  {
+    "name": "Signoff",
+    "slug": "signoff-hw8og",
+    "description": "Let your employees trade your funds, or access the company Lens account, with zero trust!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Nounish (⌐◨-◨) KZG Client",
+    "slug": "nounish-kzg-client-xne1m",
+    "description": "⌐◨-◨ Decentralized alternate KZG summoning ceremony contribution client built using NEAR BOS",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5b69q"
+    ]
+  },
+  {
+    "name": "My demo for Initial Liquidity Offering model",
+    "slug": "my-demo-for-initial-liquidity-offering-model-gboxk",
+    "description": "form a Liquidity pool to help the project token sale process to be both transparent and fair. we have created unique formula to do it",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "\"visibleDarkBox\"",
+    "slug": "visibledarkbox-8zcns",
+    "description": "A perfect public onChain secure password that can be used to socialRecover a smartAccount based off a NFT (erc6551) thanks to merkleTrees.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Scaling Crypto Social Media",
+    "slug": "scaling-crypto-social-media-95bg6",
+    "description": "Developed better Scaffold-Eth2-Subgraph then used new knowledge of TheGraph to develop the cheapest possible on chain twitter clone using Token Factories and TheGraph",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "NounsApp",
+    "slug": "nounsapp-hkmfv",
+    "description": "A new way to learn about web3 and how a dao like nouns is changing the way people build things",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StealthMail",
+    "slug": "stealthmail-m23vg",
+    "description": "Ensuring ultimate privacy with untraceable encrypted emails. Experience a new level of security and peace of mind in your digital communications. Say goodbye to privacy concerns and hello to confidential conversations.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Friend.fi - Collateral-Free F2F Lending",
+    "slug": "friend-fi-collateral-free-f2f-lending-19h4s",
+    "description": "A new Collateral-Free Lending Protocol which utilizes a Friend to Friend Trust Network",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "mraad"
+    ]
+  },
+  {
+    "name": "Token Rescue Buddy",
+    "slug": "token-rescue-buddy-bd0sd",
+    "description": "Never worry about receiving tokens on the wrong chain again. Safest & easiest way to prevent mistakes like the $20M Wintermute/Optimism accident",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "V3 Liquidity Governance",
+    "slug": "v3-liquidity-governance-s1bzy",
+    "description": "The project is a DAO that attributes voting power as V3 liquidty pools where the bounds of the pool multiply the amount of voting rewards.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8o6ne"
+    ]
+  },
+  {
+    "name": "Luban the Paymaster",
+    "slug": "luban-the-paymaster-apkf3",
+    "description": "A customized paymaster that allows user to hold asset on one EVM chain and use it to sponsor transactions on all other EVM chains",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "gt566",
+      "mraad"
+    ]
+  },
+  {
+    "name": "SquirrelPay",
+    "slug": "squirrelpay-44uow",
+    "description": "SquirrelPay is an on-chain, privacy-preserving payroll solution that uses attestations to prove legitimacy of funds",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "992b8",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "Worldcoinemail",
+    "slug": "worldcoinemail-gqw2m",
+    "description": "Chrome extension which indicates whether the email is sent by a real person.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Chameleon",
+    "slug": "chameleon-2zvtw",
+    "description": "Chameleon adapts to your creative ideas. Generate your own unique NFTs, using only text prompts.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Immutable ENS Websites",
+    "slug": "immutable-ens-websites-0ejxp",
+    "description": "Lock your IPFS website deployments to versioned ENS subdomains for ultimate decentralization",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Searcher Auction Spec",
+    "slug": "searcher-auction-spec-0wou9",
+    "description": "Significant # of txs are private order flow from Searchers to Builders via an auction & Searchers have to trust Builders run it fairly. To help transparency & debugging we put forth a spec, implementation, and dashboard for Builders to give anonymized visibility into the auction.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Piggybank 6551 NFT",
+    "slug": "piggybank-6551-nft-e2ai5",
+    "description": "Piggybank NFTs are 6551-powered ETH savings accounts.  Anyone can mint a Piggybank, send it some ETH, and keep track of your growing balance in the NFT's onchain rendered SVG metadata. To get the ETH out, you'll have to burn the Piggybank NFT.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bmhmf",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Shields for Crypto",
+    "slug": "shields-for-crypto-t8ch7",
+    "description": "A crosschain, token-gated NFT designed with privacy, serving as a robust platform to bolster crypto advocacy and uniquely used to collect a secure, private and Sybil-resistant ERC20 token airdrop",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "4i0qt"
+    ]
+  },
+  {
+    "name": "Spltit",
+    "slug": "spltit-u41kd",
+    "description": "Ever paid for the gang's concert tix at group discount but John didn't pay back and Doe vanished? Try Spltit, a decentralized expense split app. Each member pays individually. No more praying for reimbursement on traditional financial apps.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Polygon Smart Contract Count",
+    "slug": "polygon-smart-contract-count-7xc5o",
+    "description": "Created a Smart Contract using Polygon Testnet which acts as a counter for transaction",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "HyPerps",
+    "slug": "hyperps-tjo47",
+    "description": "Cross chain perpetual futures protocol built on top of Hyperlane. Allows users to trade perps on one chain while the collateral and liquidity can be on another. Benefits include: lower gas fees, higher price latency, more liquidity, and access to more assets.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "KarmaChainAI",
+    "slug": "karmachainai-60nx8",
+    "description": "Unleash Your Potential: Achieve, Grow, and Earn with our ecosystem for following through your goals and quitting bad habits.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Noun Knockout Card Game",
+    "slug": "the-noun-knockout-card-game-42sxm",
+    "description": "A fully decentralized deck builder featuring Nouns using XMTP, Airstack, and Near BOS",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fb98y",
+      "9zj01",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "NFT Tracker",
+    "slug": "nft-tracker-u7f0d",
+    "description": "Track NFT collections in real-time with our web app! Get dApp names, sale prices, and explore associated NFTs. Stay informed and make smart decisions in the fast-paced world of NFTs. #NFTTracker #Crypto",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tokenbound Titans",
+    "slug": "tokenbound-titans-5w6oq",
+    "description": "An implementation of ERC-6551 for NPC gaming; in  combination with dynamic generative NFTs",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "bmhmf",
+      "axdu9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ChatBos",
+    "slug": "chatbos-zqjq6",
+    "description": "ChatBos is an AI-driven personal assistant that helps blockchain professionals increase their efficiency and effectiveness by automating everyday tasks.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fb98y",
+      "5b69q"
+    ]
+  },
+  {
+    "name": "NounifyMyFace",
+    "slug": "nounifymyface-qmx4t",
+    "description": "Noun-style avatar generator based on user's photo. Makes user able to create some unique avatar",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OverRated",
+    "slug": "overrated-xprts",
+    "description": "A simple social media game where users rate each other. This creates an underlying public reputation database that can be used by other apps.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Awesome Wallet",
+    "slug": "awesome-wallet-r99pi",
+    "description": "A wallet where you can sign in with WorldID and access multiple wallets all in one place! Send and receive ETH.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MetaCert",
+    "slug": "metacert-k5atd",
+    "description": "Loyalty program that reward certified users for past activity and current knowledge",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "EtherVerse: Cosmic Ethereum",
+    "slug": "etherverse-cosmic-ethereum-sq3j4",
+    "description": "EtherVerse: Cosmic Ethereum, generative art NFT collection showcases visually stunning representations of Ethereum's role in the multiverse using Highlight.xyz's Generative Series feature.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9xedj"
+    ]
+  },
+  {
+    "name": "BCH-EVM cross-chain swap",
+    "slug": "bch-evm-cross-chain-swap-ap4wj",
+    "description": "BCH - EVM cross chain swaps via escrow contracts on both chains",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GoalQuest",
+    "slug": "goalquest-a6ncp",
+    "description": "Leveraging web3 to help people achieve their personal goals.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK-Werewolf",
+    "slug": "zk-werewolf-ce61c",
+    "description": "A game where zkp is used to implement the werewolf social game on-chain, with AI players integrated with chatgpt",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockmind AI",
+    "slug": "blockmind-ai-bcktq",
+    "description": "Abstracting away the complexities of blockchain with one chatbot. The ultimate location for all of your blockchain questions and struggles!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "fp1x1",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Look Into My Eyes",
+    "slug": "look-into-my-eyes-0j1uk",
+    "description": "Our revolutionary chatbot aggregates blockchain news into a one-stop hub of information!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FOUNDERSVILLE",
+    "slug": "foundersville-hv04x",
+    "description": "Organically grow your NFTs and the stories around them with AI and on-chain minting",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZK-Vote",
+    "slug": "zk-vote-h59qc",
+    "description": "Welcome to ZK-Vote, a privacy-preserving and trusted voting platform built on World ID.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UMAIA - Optimistic AI Attestation",
+    "slug": "umaia-optimistic-ai-attestation-3a96d",
+    "description": "Attestation of AI query and answer is important. Use cases range from financial accountability, medical record keeping and many other. Uses on-chain optimistic oracles to attest the authenticity of results. It works even when non-deterministic AI models are used.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "V-lance",
+    "slug": "v-lance-3j8qe",
+    "description": "Your Professional Identity Passport to Build Social Capital. Own Your Story & Prove Your Worth",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4i0qt",
+      "pfyco",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "OPCraft 2: Community blocks",
+    "slug": "opcraft-2-community-blocks-kukej",
+    "description": "Adding user-specified images on to OPCraft, a voxel-based game built on MUD",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AltTransfer",
+    "slug": "alttransfer-o6ngd",
+    "description": "Exchange funds with anyone on any blockchain. Get paid in the currency you want!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "pfyco",
+      "jywri"
+    ]
+  },
+  {
+    "name": "Repute",
+    "slug": "repute-o46vp",
+    "description": "Repute is a non-custodial OTC escrow service for special situations opportunities",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smarter Contract",
+    "slug": "smarter-contract-kw41h",
+    "description": "Smarter Contract, powered by Hyperlane, optimizes smart contract performance by intelligently delegating functions to the most cost-efficient blockchain in real-time. It's a leap towards efficient, accessible, and cost-effective blockchain interaction.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "VoteYourMind",
+    "slug": "voteyourmind-7ormx",
+    "description": "An application that helps to create a decentralized voting system.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AuctionVerse",
+    "slug": "auctionverse-7hwat",
+    "description": "An auction application with crypto wallet payment through MetaMask",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prompt-Lens",
+    "slug": "prompt-lens-ndf5g",
+    "description": "\"Built an decentralized social website with Lens protocol, World ID for identity validation, and ChatGPT for personalized content generation. Empowering users with secure interactions and dynamic posts. #DecentralizedWeb #AI #IdentityValidation\"",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyMiddleMan",
+    "slug": "mymiddleman-e0ps2",
+    "description": "web3 middleware application aimed to provide security to user transaction occurred on the blockchain. Using Tenderly to simulate and test a virtual transaction our product aims to guarantee 100% safe User transaction.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KnowYourPeer",
+    "slug": "knowyourpeer-b55v9",
+    "description": "We run data analysis and draw user profile based on the peers a blockchain address is interacting with.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Willfully",
+    "slug": "willfully-22u70",
+    "description": "An ERC-4337 Social Recovery wallet that doubles as a will to safely disperse your assets upon death.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jywri"
+    ]
+  },
+  {
+    "name": "CryptoCraze",
+    "slug": "cryptocraze-g5nfg",
+    "description": "CryptoCraze is an API that lets users view Ethereum Gas Prices",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fund AI Training DAO",
+    "slug": "fund-ai-training-dao-2isnr",
+    "description": "Our new type of DAO allows us to crowdsource and manage the multi-stage process of creating large AI models. We showcase the value of crowdfunded AI with its ability to find bugs in solidity contracts.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "mraad",
+      "8o6ne",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Habitat",
+    "slug": "habitat-zpg07",
+    "description": "Habitat is a sub-application focused on environmental conservation and social responsibility. It transforms energy from both on-chain and off-chain regenerative activities, converting it into real trees to foster a sustainable future.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bmhmf",
+      "992b8"
+    ]
+  },
+  {
+    "name": "Global Voice",
+    "slug": "global-voice-2s7sg",
+    "description": "Global Voice is a DAO representing all humans in the world. Through secure and transparent voting mechanisms combined with World ID powered by Worldcoin, every human is granted the right to participate in shaping societal solutions and policies.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NEAR BOS Component",
+    "slug": "near-bos-component-ucvz7",
+    "description": "Creating my first NEAR BOS component that weclomes ETHGlobal Waterloo!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EtherCare",
+    "slug": "ethercare-igx8r",
+    "description": "This web3 decentralized app enables users to book appointments with clinic doctors using blockchain storage. It provides a user-friendly dashboard for patients to manage appointments while allowing doctors to efficiently handle scheduling and appointment management.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Roll a Mate",
+    "slug": "roll-a-mate-ob574",
+    "description": "Send money on Ethereum Mainnet with transfers costing from zero to 4 cents",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "fp1x1",
+      "pfyco",
+      "nbyyv",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SeaTrack",
+    "slug": "seatrack-5rc02",
+    "description": "Introducing SeaTrack. Utilizing blockchain to address fish fraud and mislabeling in the global seafood industry, we enable the on-chain tracking of every fish from catch to sale. SeaTrack ensures accurate information and exposes fraudulent practices.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "RepuScore",
+    "slug": "repuscore-89o6s",
+    "description": "Unlock the power of decentralized consensus with RepuScore! 🚀 Our DAO tooling project for the hackathon, revolutionizing reputation-based decision-making in the blockchain space. #DAO #RepuScore #hackathon #blockchain",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "e3t1p"
+    ]
+  },
+  {
+    "name": "CoinGPT",
+    "slug": "coingpt-pfgvm",
+    "description": "Analyze your nft and crypto trading history using generative AI.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT replacement parts",
+    "slug": "nft-replacement-parts-1j9t4",
+    "description": "The NFT (car) has reach the most amount of life cycle/time. The NFT’s (car) wallet will keep track of all the maintenance history. If the NFT (car) is transferred to a new owner it will go with its wallet which will allow the new owner to see the maintenance history",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smile DAO",
+    "slug": "smile-dao-xogfo",
+    "description": "We use ZK+ML to verify smiles and build a DAO community of positivity",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "vision.dev",
+    "slug": "vision-dev-fc02e",
+    "description": "vision.dev: Transforming object detection using IPFS and blockchain. Secure, decentralized storage with IPFS and Ethereum. Real-time, reliable object detection for a new era of data integrity. #IPFS #blockchain #objectdetection #EthGlobal",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Hyperlane VS Code",
+    "slug": "hyperlane-vs-code-t3bbz",
+    "description": "Deploy Hyperlane to any chain for permissionless interoperability through VS Code",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Art.IO",
+    "slug": "art-io-w71ef",
+    "description": "Art.io is an innovative art and NFT investment platform designed to support artists and transform the way we appreciate and invest in art.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SimpliAudit",
+    "slug": "simpliaudit-r839h",
+    "description": "SimpliAudit, a post-audit deployment monitoring tool for auditors",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Videre",
+    "slug": "videre-wk314",
+    "description": "Video-sharing platform powered by ERC-6551. Empowers the content creator economy through advertisers' staking in smart contracts.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "D-Risk",
+    "slug": "d-risk-c0hj2",
+    "description": "D-Risk is a DeFi risk framework for cross-protocol risk analysis. By modelling potential price shocks, we derive a risk score for a collateral asset and publish it on-chain using UMA.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "WageVault",
+    "slug": "wagevault-dzsr7",
+    "description": "An anonymous app for coworkers to share salary info, uncover disparities, and ensure that they're being paid their worth.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "HackerGrant",
+    "slug": "hackergrant-1c0ht",
+    "description": "Hacker Grant is a crowdfunding platform designed to support and empower hackers in the fast-paced world of Web3 development. We connect aspiring hackers who need resources to attend ETH Global events  with like-minded supporters who share their vision.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Medici",
+    "slug": "medici-ni840",
+    "description": "Decentralizing medical records to allow patients to access and control their own medical data",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "dappchat",
+    "slug": "dappchat-ns277",
+    "description": "Dappchat is a web3 AI assistant for interacting with Gnosis dapps. Interact with Lexi to summarize deployed contracts, read on chain data, send crypto, and interact with the decentralized web.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jywri"
+    ]
+  },
+  {
+    "name": "TrustReviews",
+    "slug": "trustreviews-w9tcd",
+    "description": "A reliable app for Waterloo students to leave unbiased reviews on nearby rentals. Get insights on cleanliness, management, and more, empowering students to make informed decisions. Transparent, secure, and community-driven.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "mraad"
+    ]
+  },
+  {
+    "name": "LSDArbiBot",
+    "slug": "lsdarbibot-b7h5m",
+    "description": "An arbitrage bot between LSDs on the unshETH vdAMM and Curve Finance",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "814vz",
+      "814vz"
+    ]
+  },
+  {
+    "name": "MetaSplit",
+    "slug": "metasplit-whi6s",
+    "description": "Streamline bill splitting and ride payments with ease! Our React-based app integrates Metamask SDK for seamless wallet connectivity and transaction sending. Say goodbye to the hassle of repaying friends - simplify and expedite payments in a flash!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Saturn-Finance",
+    "slug": "saturn-finance-cnn6d",
+    "description": "On chain yield farming for Ethereum based LP tokens and index tokens (unshETH, ankrETH-ETH on curve ... etc.)",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Offline Wallet",
+    "slug": "offline-wallet-fsgce",
+    "description": "Offline Wallet is a mobile wallet app, facilitating offline crosschain payments using QR codes and crosschain bridges. Allows for users to be able to pay anywhere, and no matter where there funds are or what token they are in.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Giev",
+    "slug": "giev-vhjwu",
+    "description": "Creating a transparent charity platform using blockchain. Donations fund merchants to subsidize costs for those in need. Eligibility verified via ZK proofs. All transactions are on-chain, letting donors see exactly where their contributions go.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Discova",
+    "slug": "discova-e3jc2",
+    "description": "Discover and engage with NFTs like never before with Discovia. AI-powered search, on-chain engagement, and proportional rewards for your contributions. Join the future of AI enabled content discovery and get rewarded!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Yama Liquidation Checker",
+    "slug": "yama-liquidation-checker-7gc7g",
+    "description": "This tool checks if your Yama vault has been liquidated by querying blockchain events",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "pastel passion",
+    "slug": "pastel-passion-pwyjk",
+    "description": "generative art output on highlight's minting platform that utilizes p5js",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9xedj"
+    ]
+  },
+  {
+    "name": "Bonfire Wallet",
+    "slug": "bonfire-wallet-n1dzp",
+    "description": "Bonfire Wallet is a passwordless burner wallet that leverages WebAuthen to onboard the next 1 million crypto users, with biometrics or a token for authentication, making it accesible to anyone entering the crypto ecosystem.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "axdu9",
+      "axdu9"
+    ]
+  },
+  {
+    "name": "Aging Crypto Kitty",
+    "slug": "aging-crypto-kitty-47paz",
+    "description": "I used erc-6551 to place an Aging Kitty nft into the wallet of a Crypto Kitty",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crynance",
+    "slug": "crynance-d854e",
+    "description": "CryNance leverages decentralized blockchains to empower authors to publish articles securely. Using Worldcoin's World ID protocol, users register with a digital identity via privacy-preserving cryptographics. Data security is guaranteed by web3 decentralized Polybase.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WiserRiser",
+    "slug": "wiserriser-ku3hh",
+    "description": "A better way to bubble up good content by using a variant of prediction markets to lighten moderators’ loads, providing an accurate signal about whether any specific submitted content is a great fit for the community.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3",
+      "4i0qt",
+      "t3zyt",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "FireWalt",
+    "slug": "firewalt-5dvq6",
+    "description": "Allowing users to burn hacked wallets through a dApp on the web",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oculas",
+    "slug": "oculas-h9f3q",
+    "description": "This project combines Highlight.xyz's generative art repo with NounsDAO brand assets. Arbitrum contract address: https://arbiscan.io/address/0x3db09d29320a5ac19ba29192a49607f97406191a",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PROOF!",
+    "slug": "proof-qkc3x",
+    "description": "The PROOF! is in the checklist. Incentivized web3 enabled checklists and attestations for real-world individual and enterprise application in nearly any domain.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "5b69q",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "ETHStacks",
+    "slug": "ethstacks-gdtth",
+    "description": "ETHStacks.xyz is an account management interface for token bound accounts (TBAs). Stack your assets through token bound accounts and manage them all through a simple interface.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fb98y",
+      "bmhmf"
+    ]
+  },
+  {
+    "name": "Sparklers",
+    "slug": "sparklers-dvkyi",
+    "description": "User-focused analyzation tool and gain valuable insights into Spark Protocol users",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fb98y",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "VerifAI",
+    "slug": "verifai-qwv27",
+    "description": "Unleashing a secure, AI-driven cross-chain identity verification system! Harnessing World ID, Sismo Connect, Polygon ID's Credentials, Hyperlane, and Lit Protocol. Streamlined data with Airstack, Graph, QuickNode. Sybil-resistant, fraud-deterring, future-facing!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Promise Protector",
+    "slug": "promise-protector-vy9dx",
+    "description": "A smart contract that would allow individuals to bet on whether government will be able to reach their Carbon goals of 2030!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Open IE",
+    "slug": "open-ie-648fg",
+    "description": "Configurable system for rapid deployment of retro-funding rounds for public goods.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Will3",
+    "slug": "will3-0r705",
+    "description": "With rising digital asset ownership and high cost of administering wills through lawyers, our tool allows one to create a will for their wallet so that after they die, we validate their death and directly distribute their assets to designated beneficiaries according to their will",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "r9t85",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "AquaNet",
+    "slug": "aquanet-dzz2c",
+    "description": "A social network designed for AI-Driven NFTs to interact with each other and develop unique personalities.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "fb98y",
+      "bmhmf",
+      "t3zyt",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "CryptoCupid",
+    "slug": "cryptocupid-cegju",
+    "description": "A decentralized anonymous human to human dating platform powered by Worldcoin and XMTP",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "9zj01",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Copix",
+    "slug": "copix-28x5i",
+    "description": "A public canvas where real humans can create art collaboratively, one pixel at a time.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "WorldPass",
+    "slug": "worldpass-apm9w",
+    "description": "Demonstrate WorldID as a hardware authenticator (yubikey, touchID, windows hello) replacement",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "chainml-copilot",
+    "slug": "chainml-copilot-ph4c4",
+    "description": "An AI agent that is trained on documentation of projects and is then able to answer user questions related to that project.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Contract Explorer",
+    "slug": "contract-explorer-nyyi2",
+    "description": "Contract Explorer is a public good for running your own consumer-friendly front-end to any contract (even if it's unverified). No censorship. No phishing. Only contract!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fb98y",
+      "t3zyt",
+      "2mig9"
+    ]
+  },
+  {
+    "name": "POPGG",
+    "slug": "popgg-9p1r5",
+    "description": "Proof of Play: Game Governance is a web3 analytics provider for game developers.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fukuro",
+    "slug": "fukuro-3cdwv",
+    "description": "Bundle curations with EIP 6551. Auction marketplace for EIP 6551 supported tokens.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "bmhmf",
+      "bmhmf",
+      "pfyco",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "AnoniCard",
+    "slug": "anonicard-ro828",
+    "description": "Keep the information of the people you meet, all in one place, on chain!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Nouns Kart 3D",
+    "slug": "nouns-kart-3d-a3og1",
+    "description": "Nouns Kart 3D is where players put their $APE coins and NFTs to compete in high-stakes races with a twist where the loser surrenders their NFT to the winner.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t3zyt"
+    ]
+  },
+  {
+    "name": "Collaptz",
+    "slug": "collaptz-623pz",
+    "description": "Verified distributed computation of the Collatz conjecture. Leveraging risc0's zkVM to verify Collatz sequences from anyone in the world.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "axdu9"
+    ]
+  },
+  {
+    "name": "JuliETH",
+    "slug": "julieth-4sz4a",
+    "description": "A Decentralized Dating App: XMTP onboarding via Airstack (a recommendation engine)",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MultichainNFT",
+    "slug": "multichainnft-mnrzy",
+    "description": "Multichain NFTs enable ownership proof and enhanced appearance, with cross-chain minting and easy interaction, ensuring accessibility across multiple chains.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "TrueAthlete",
+    "slug": "trueathlete-b6xud",
+    "description": "TrueAthlete is a decentralized, user-focused dApp allowing donors, and sponsors from around the world to fund fully credible up-and-coming but under-capitalized athletes in Latin America.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Goose.ai",
+    "slug": "goose-ai-3tgh9",
+    "description": "Onboarding the next billion users onto blockchain across mobile, Discord, Slack, and Telegram!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3",
+      "9zj01",
+      "fp1x1",
+      "pfyco",
+      "jywri",
+      "9xedj"
+    ]
+  },
+  {
+    "name": "Probo",
+    "slug": "probo-o5oi8",
+    "description": "An AI art generation app unique to each identity, built on Worldcoin, MetaMask, and QuickNode.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "jywri"
+    ]
+  },
+  {
+    "name": "Chainsquare",
+    "slug": "chainsquare-07wjy",
+    "description": "Chainsquare ranks and rewards addresses based on their on-chain activity to incentivize users to do more. Every address will mint an NFT with their ranks. And the top 3 in each category will automatically receive a medal NFT.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CooperativeDAO",
+    "slug": "cooperativedao-64xu3",
+    "description": "Cooperatives are a physical representation of DAOs. Just created a DAO for my cooperative to try out.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polyguard",
+    "slug": "polyguard-aqecm",
+    "description": "Polyguard, a powerful fraud monitoring service designed specifically for account abstraction.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Employment Attestation",
+    "slug": "employment-attestation-q7v1i",
+    "description": "An app that verifies your employment history through Ethereum Attestation Service. Employers would be able to provide attestations with employee metadata, and query for attestations to any given employee.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Autonomous World ID",
+    "slug": "autonomous-world-id-k7odb",
+    "description": "Integrate game identities with zkp and show off your skills with attestation",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Savings DAO",
+    "slug": "savings-dao-bd533",
+    "description": "Permissionless creation of simple interest bearing vaults and strategies.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Join!",
+    "slug": "join-9hfyg",
+    "description": "Say goodbye to wasted hours searching for the perfect team or member. With Join!, finding the ideal teammates or project profiles is as easy as a conversation.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Etherfly",
+    "slug": "etherfly-jgnyo",
+    "description": "Buy flight delay insurance or submit the claim using decentralized app - \"Etherfly\"",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Dutch",
+    "slug": "dutch-pm2xo",
+    "description": "Group Expense Management dApp: Split Expenses. Preserve Friendships. Going Dutch the Socially Acceptable Way.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Narchive",
+    "slug": "narchive-eeci0",
+    "description": "This project aims to create an archive template for DAOs using ERC-6551 contracts to structure and organize communities. The long-term goal is to create a forkable template with contracts and an AI agent to streamline indexing.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Lit Paymaster",
+    "slug": "the-lit-paymaster-ckeo1",
+    "description": "The Lit Verifying Paymaster replaces the need for EOAs controlled by single entities as owners of verifying paymasters. By doing this it allows permisionless gas abstraction for any ERC-20 token listed on coingeko on most EVM chains.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Legit Reviews",
+    "slug": "legit-reviews-t9fvo",
+    "description": "Create reviews from identity verified, legitimate accounts with proof of purchase.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Inventory",
+    "slug": "inventory-mpeqp",
+    "description": "Smart Contract Wallet using ERC 6551 to store NFT game items",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "jywri"
+    ]
+  },
+  {
+    "name": "CharityDAO",
+    "slug": "charitydao-8eruo",
+    "description": "Introducing the CharityDAO, a voting app leveraging blockchain for transparent allocation of charitable funds. Cast your vote, make a difference!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Piglet",
+    "slug": "piglet-bs88i",
+    "description": "Piglet is designed to make setting your future self up for financial success a fun, effortless, and interactive experience. With just a few clicks, you can set up automatic deposits in either fiat or crypto, and set a savings schedule that suits you",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "5b69q",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Timbre",
+    "slug": "timbre-c9vaj",
+    "description": "A verifiable review protocol that enables customers to post reviews and share user experiences with the community. All reviews are stored on chain permanently and binding with users' identities for verification purposes.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "User Proof Membership",
+    "slug": "user-proof-membership-jvwx3",
+    "description": "User Proof Membership allows Token Bound Accounts to create and verify group memberships without revealing personal data. Our system uses an NFT that is minted with a zero knowledge proof verification process, ensuring privacy.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "4i0qt"
+    ]
+  },
+  {
+    "name": "Tanso炭素",
+    "slug": "tanso-107vh",
+    "description": "Carbon credit registry and marketplace that connects carbon projects, verifiers and companies with carbon emissions",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "992b8"
+    ]
+  },
+  {
+    "name": "CardTradingPlatform",
+    "slug": "cardtradingplatform-duhyw",
+    "description": "This decentralized application allows the creation and trading of virtual cards, using the Ethereum Blockchain.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "H4ck Th3 H4ck4th0n",
+    "slug": "h4ck-th3-h4ck4th0n-fcpr4",
+    "description": "Hack the Hackathon! We let teams create ERC20 tokens to represent their prize winnings, and incentivize other hackers to help them with micro bounties in said token.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JPEGated",
+    "slug": "jpegated-4w5qs",
+    "description": "A ticketing system, exclusively serving specific NFT holders, with access regulated by the Lit protocol.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "mraad"
+    ]
+  },
+  {
+    "name": "fundr - crowdfunding events & fundraisers",
+    "slug": "fundr-crowdfunding-events-and-fundraisers-oai5e",
+    "description": "Fundr is a crowdfunding platform that makes use of on-chain technology where users can get funding for their problems, hobbies, content and more. Fundr is not only is a crowdfunding platform, but it also rewards verified users through our raffle system and points based economy.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "zBay",
+    "slug": "zbay-r0724",
+    "description": "zBay revolutionizes online marketplaces by decentralizing eBay, empowering merchants and buyers. It enables seamless data and reputation import from eBay, secure escrow, XMTP chat, and transparent dispute resolution using the Uma optimistic oracle",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 8,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "fb98y",
+      "9zj01",
+      "fp1x1",
+      "4i0qt",
+      "pfyco",
+      "nbyyv",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Wealthsimpler",
+    "slug": "wealthsimpler-yktii",
+    "description": "A secure way for enterprises and users to invest in crypto and digital assets on-chain. Real-world investment platform UX with social login, account permissioning, and auto-investment in low-risk assets.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "fb98y"
+    ]
+  },
+  {
+    "name": "Starship",
+    "slug": "starship-x08is",
+    "description": "The Starship platform allows users to participate in prediction markets using Gnosis Chain and Worldcoin. It leverages the features provided by Gnosis Chain for scalability, security, and permissionless transactions.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uniswap V4 Hooks - Stop Loss Orders",
+    "slug": "uniswap-v4-hooks-stop-loss-orders-efx2d",
+    "description": "Onchain stop loss orders courtesy of Uniswap V4 Hooks. Guaranteed execution offers great UX for spot traders, leveraged positions, and protocols",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "j5u2x",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "Evy",
+    "slug": "evy-y06iw",
+    "description": "Evy to simply and directly create a convenient crypto payment method linking online events platforms in just few clicks. You can also utilize Worldcoin's human authentication to ensure that members who attend are not robots!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Keypom x BOS Event Ticketing",
+    "slug": "keypom-x-bos-event-ticketing-pow2e",
+    "description": "No-code on-chain Event Ticketing powered by Keypom and BOS . This project brings the benefits of on-chain ticketing eliminating the need for attendees to have a pre-existing wallet.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "5b69q"
+    ]
+  },
+  {
+    "name": "Me, Emergency Scan",
+    "slug": "me-emergency-scan-bbtr8",
+    "description": "Descentralize the most human service of all, health.  **Scan your health records in case of emergency, upload the data as data occurs.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Artifex",
+    "slug": "artifex-ppz2d",
+    "description": "Artifex democratizes AI by using idle retail GPUs in a POS era. GPU owners monetize their idle resources while users benefit from extra computational power. By overcoming AI challenges, Artifex inspires innovation in AI services.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Compound Notify",
+    "slug": "compound-notify-wobkb",
+    "description": "Compound Notify - standalone application with a user-friendly interface to configure alerts",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jywri"
+    ]
+  },
+  {
+    "name": "Kindness Cash",
+    "slug": "kindness-cash-e9ea4",
+    "description": "KindnessCash leverages the power of #ethereum #blockchain for good. We're using #MetaMask and #Polygon to launch a token-based donation distribution system. This project will ensure transparency, efficiency, and trust in every donation. #CryptoForGood #DonationTransparency\"",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralised Email",
+    "slug": "decentralised-email-yypcp",
+    "description": "Crypto Price tracker that allows users to track prices for multitude of cryptocurrencies",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prototype",
+    "slug": "prototype-of970",
+    "description": "A platform powered by smart contracts that allows anyone to fundraise or collect donations",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Earth Ether",
+    "slug": "earth-ether-5u1th",
+    "description": "Earth Ether is a new decentralized Ethereum staking protocol which we hope will provide the easiest end-to-end experience for everyone on Earth to join the Ethereum community, learn about regenerative finance, and much more, without ever having to give up control of their assets.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "a(i)udit",
+    "slug": "a-i-udit-ja32i",
+    "description": "A(i)udit is a platform for engineers that gracefully adds security best practices earlier in the developer loop to help write safer, more secure smart contracts. Engineers can use natural language to author, audit, and deploy - all with a single tool.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "qy8m3",
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "zkare",
+    "slug": "zkare-nxt7h",
+    "description": "zKare is a decentralized, zero knowledge based healthcare data distribution platform leveraging EAS and the convenience of digital wallets to keep patient data in the hands of the patients while enabling researchers to access data.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "992b8"
+    ]
+  },
+  {
+    "name": "NPC 6551 library",
+    "slug": "npc-6551-library-w74e8",
+    "description": "A TypeScript open-source framework leveraging EIP 6551, OpenAI API, and Tribes messenger to bring an NFT to life (i.e. NPC). The NPC's characteristics stem from its ERC721 metadata and is able to chat and transact with other users or NPCs",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SIREN",
+    "slug": "siren-yso0v",
+    "description": "SIREN, a new Slither plugin that creates sequence diagrams for smart contracts! Protocols are becoming increasingly complex, making it hard to assess for vulnerabilities/critical errors. Generate flow visualizations that help you validate your contract logic!",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2mig9"
+    ]
+  },
+  {
+    "name": "TrueWallet",
+    "slug": "truewallet-dhgd7",
+    "description": "Next-gen multichain crypto wallet based on account abstraction (ERC-4337)",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "LOC-DID",
+    "slug": "loc-did-wnrvp",
+    "description": "Privacy preserving location sharing DID method to enable associating wallet address with POIs/locations without sharing actual location information, allowing others to establish if these registered POIs are in proximity of their locations with the use of Homomorphic Encryption.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Blockchain in Aerospace Technology",
+    "slug": "blockchain-in-aerospace-technology-374p6",
+    "description": "Digitalization of the Flight Log Book because now the flight Log books is paper.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InstaDumper",
+    "slug": "instadumper-enas5",
+    "description": "Safe module to automatically sell received tokens via Cowswap.",
+    "event": "ETHGlobal Waterloo",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

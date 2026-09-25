@@ -1,0 +1,1522 @@
+[
+  {
+    "name": "Crypto Signals Oracle",
+    "slug": "crypto-signals-oracle-ga22a",
+    "description": "Provides a Crypto Trading Signal Oracle to Smart Contracts or Trading Bots for DeFi Projects",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YieldWell",
+    "slug": "yieldwell-xn9mr",
+    "description": "Lend your ETH to yield pools for funding microenterprises. Yield farmers funding real farmers.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EWallet",
+    "slug": "ewallet-sa0iu",
+    "description": "Non custodial wallet for corporation, non profit or group sharing the same wallet.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Manager",
+    "slug": "crypto-manager-f5yon",
+    "description": "Crypto Manager (Tracker)",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polycash",
+    "slug": "polycash-jaith",
+    "description": "Payment Links on Polygon. Create a full payment page in just a few clicks and share the link with your customers—no code required.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "REMIT",
+    "slug": "remit-5yg8q",
+    "description": "Remit is a platform which automates cross border transactions and authenticates identity of the receiver",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hoola",
+    "slug": "hoola-eth-954mz",
+    "description": "A DEFI protocol that uses NFTs to distribute shares of the protocols.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Safe CDP Farmer",
+    "slug": "safe-cdp-farmer-yr08f",
+    "description": "You want to have CDP and farm benefits by borrowed money, but you have no time for 24/7 position controlling? We want to take a load off your mind and let you do it by automated product with 2 buttons: Farm and Withdraw.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kombucha",
+    "slug": "kombucha-i8vgu",
+    "description": "We're building a systematic way for our token and others to drive new capital and trade by launching a on a vetted platform that will reach and engage with a trusted community.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TroveIt",
+    "slug": "troveit-yaw4m",
+    "description": "A decentralized  social media platform for content creators and a donation app built on polygon for giving tokens to your favorite creator, project, or meme lord.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CiteMe",
+    "slug": "citeme-59d31",
+    "description": "A platform to allow researchers to recieve CiteCoin based on the amount of citations their papers recieve",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Checkpoints NFT",
+    "slug": "checkpoints-nft-zc2ud",
+    "description": "A crowd-sourcing platform for game developers and creatives that lets their supporters build with them.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Streaming Farms",
+    "slug": "streaming-farms-1qbdu",
+    "description": "Using the Superfluid protocol to build a general version of streaming farms.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Claimable",
+    "slug": "claimable-ioh3j",
+    "description": "Claimable is a smart contract that allows you to schedule your token release or transfer. It works similar to a stock option grant, where you specify a cliff and a vesting period. This could be used for common use cases such as investor token release and incentive token grants.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buyao duowoshou",
+    "slug": "buyao-duowoshou-afqwv",
+    "description": "Is an interactive game based on Bumo chain, the main content refers to the equipment and play",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NoTrust",
+    "slug": "notrust-380ej",
+    "description": "NoTrust is an NFT lending protocol. Use NFT as a collateral to borrow money from AAVE",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FIL Bounty",
+    "slug": "fil-bounty-11j35",
+    "description": "A decentralized app to create bounties in exchange for files. Complete Bounties and Earn !",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperCheckOut",
+    "slug": "supercheckout-ym7pi",
+    "description": "SuperCheckOut application that allows a buyer to start STREAMING money to the seller. This enables the buyers to book items whose prizes are higher than their balance; giving them freedom to pay-per-second for those items--- we can take this like ESI - Equated Secondly Installme",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EVIDO",
+    "slug": "evido-oi5nx",
+    "description": "decentralized platform for journalism providing anonymity to journalists who wish to relinquish the true evidences",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JishnUshana",
+    "slug": "jishnushana-2go68",
+    "description": "Combining Blockchain and Data Analytics to get rid of cookies",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Xfolio Web",
+    "slug": "xfolio-web-1ev1p",
+    "description": "An alternative Chrome extension Ethereum wallet with native support of Uniswap and Arbitrum",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Superfluid EPNS",
+    "slug": "superfluid-epns-q3uuv",
+    "description": "Implementing notifications for Superfluid via EPNS - Our hack involved an integration for two protocols we are quite excited about: Superfluid, and Ethereum Push Notifications Service (EPNS).",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wrapd Whackd",
+    "slug": "wrapd-whackd-a2kpu",
+    "description": "It's WHACKD, but WRAPD! Wrapped WHACKD lets you transfer WHACKD without incurring the 10% burn (and 1/1000 entire burn) on transfer.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperXEROX",
+    "slug": "superxerox-fv0qm",
+    "description": "This super XEROX NFT printing machine could be used to make copies of your own NFT assets. (for backup or share with your friends, colleague, or family.)",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Numoen Protocol",
+    "slug": "numoen-protocol-6xbo1",
+    "description": "A protoccol for on-chain trustless bond swaps on Uniswap v3, built on Ethereum.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LoanRing",
+    "slug": "loanring-0ab2d",
+    "description": "LoanRing is an application that increases the utility of static cryptocurrency by offering managed loans to businesses.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wise",
+    "slug": "wise-vft4v",
+    "description": "CLI tool for ENS like whois, it supports print some recoreds, address, resolver info",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SubscriptionX",
+    "slug": "subscriptionx-xtfbb",
+    "description": "A content-agnostic open source subscription payment model using superfluid, polygon and a new Access Token standard",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DokodemoDoa",
+    "slug": "dokodemodoa-y7ybw",
+    "description": "All-in-one blockchain explorer. DokodemoDoa can be the best partner with blockchain developer.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Divvy",
+    "slug": "divvy-zzhxn",
+    "description": "Divvy is bringing DeFi to the gambling world to redefine the way people bet.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aavelopes",
+    "slug": "aavelopes-bszx4",
+    "description": "NFT based gifting of future yield using Aave and time-locks (but also trojan horse to interest rate swaps for dummies 👀)",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aave Explorer",
+    "slug": "aave-explorer-52zkr",
+    "description": "Aave Explorer allows you to explore how the Aave V2 protocol is being used in the mainnet",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "A History of our Making",
+    "slug": "a-history-of-our-making-x8rrm",
+    "description": "Datavisualisation tracking the growth of defi protocol governance",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Horse Race",
+    "slug": "horse-race-b3k7i",
+    "description": "A investing/betting site that gamifies investing to encourage FOMOers to invest",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Better Yield",
+    "slug": "better-yield-7v558",
+    "description": "Explore different strategies to achieve better yield for crypto assets",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Symphony Finance",
+    "slug": "symphony-finance-xnx9a",
+    "description": "IGLO or interest generating limit orders utilize open limit orders on the order book and generate yield.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NEA",
+    "slug": "nea-xsda8",
+    "description": "We help New Emerging Artists (NEAs) to smooth out their earnings by attracting investors and get paid each month!",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "G Yield",
+    "slug": "g-yield-n7048",
+    "description": "A project to provide stable quick turn around yields on your DeFi Protocol investements",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aletheia - Inflation Oracle",
+    "slug": "aletheia-inflation-oracle-safym",
+    "description": "An inflation oracle that uses a decentralised network of feeds to determine the global/local inflation. Feeds scrape pre-determined online retailers data and inform the oracle of the changes in prices of those items. It's designed so that it's crypto-economically secure.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "L2 Betting Game",
+    "slug": "alex-svoboda-whc80",
+    "description": "Betting mini-game meant for L2, meant to be completely transparent for 'house' and other participants with a interface displaying odds and other important information",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AlphaClaw",
+    "slug": "alphaclaw-5ffx8",
+    "description": "NFT appraisal pricing model using keras, Deep learning using CNN + autoencoder + ImageRegressor to get a good range of your price",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Badger Compound Strategies",
+    "slug": "badger-compound-strategies-ac2jf",
+    "description": "leveraging Compound to earn yield on wBTC  for a Badger Sett Vault (Yearn V1 style )",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bamsa",
+    "slug": "bamsa-5a6k6",
+    "description": "Build NFT subgraphs for specific contracts using The Graph - opensea",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Team Weivy",
+    "slug": "team-weivy-ht09r",
+    "description": "Learn DeFi with friends by staking your ETH and pooling interest with fun wagers/bets",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yield Volatility Oracle",
+    "slug": "yield-volatility-oracle-n8tyw",
+    "description": "A yield volatility oracle and protocol for synthetic derivatives based volatility",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ecco",
+    "slug": "ecco-1kcu4",
+    "description": "Ecco is an approachable Web3 commerce and personal finance platform for creators that 1) facilitates the smooth transfer of value between creators and fans  and 2) helps creators get the most out of their assets.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Otterscan",
+    "slug": "otterscan-jjp4c",
+    "description": "Open-source, blazingly fast, laptop-friendly,  Ethereum block explorer built on top of  Erigon archive node",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Opyn Easy",
+    "slug": "opyn-easy-4qo9p",
+    "description": "A library for trading options and option strategies on Defi magically",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yogeshwar B K",
+    "slug": "yogeshwar-b-k-tcrmn",
+    "description": "HubShare- A decentralized file share system with decryption to share files between users",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Talon",
+    "slug": "talon-b7de3",
+    "description": "Talon is a Dapp that connects a persons Twitter account to their Ethereum wallet. Talon allows NFT creators to showcase the owners of those NFT in real time. It also reinforces trust that a twitter user can prove they are the owner.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Magnanimity",
+    "slug": "magnanimity-3qrn9",
+    "description": "A digital donation DApp that builds on the idea of mutual funds and robo-investing. It pools cryptocurrency donations and dynamically allocates funds based on the occurrences and severity of natural disasters.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ante Finance",
+    "slug": "ante-finance-wy38m",
+    "description": "Empowering protocols to create incentivized on-chain smart tests for fundamental invariants",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SimpleCollateralSwap",
+    "slug": "simplecollateralswap-wwzc0",
+    "description": "This is Simple CollateralSwap demonstration with AAVE and UniSwap.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Commando",
+    "slug": "crypto-commando-bsayi",
+    "description": "Automate farming and staking of DeFi assets. Self Custodial.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Patreon NFT",
+    "slug": "patreon-nft-6dbfx",
+    "description": "Content sharing platform that allows creators to give access to their content by NFTs.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentraPay",
+    "slug": "decentrapay-49siz",
+    "description": "Automated credit card bill payment using DeFI income -- bridging DeFi and CeFi",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LendNFT",
+    "slug": "lendnft-c6u5f",
+    "description": "A platform to borrow and lend NFT, and use NFT as a collateral.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vanila",
+    "slug": "vanila-54pgs",
+    "description": "The vanila protocol is a decentralized exchange bringing expirable future contracts to Defi.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Data Guard (Limiting Data Sharing)",
+    "slug": "data-guard-limiting-data-sharing-qxyed",
+    "description": "Data Guard is new type of Oasis Parcel App that sits between a user (e.g. loan application) and a reviewer/auditor (e.g. Mortgage Lender) and guarantees limited & private data sharing through upfront mutually agreed rules (eg only Transactions over $1000 in last 2 months)",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Repay Protocol",
+    "slug": "repay-protocol-dp7yt",
+    "description": "A abstraction layer on top of existing DeFi protocols to add meta transaction capabilites",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "d-Pad Café",
+    "slug": "d-pad-cafe-k4zu8",
+    "description": "Join the d-Pad Café to design & Automate a fair, contributions-based Profit-sharing Economy - and split revenues with your Community (you included)!",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Trust",
+    "slug": "crypto-trust-xjedb",
+    "description": "The worlds first fully automated yield earning trust fund platform powered by crypto.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PlayHouse",
+    "slug": "playhouse-8i7oi",
+    "description": "A House where you can gambling with ERC20 tokens and receive PLAY token rewards for you play and your wins",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defi Donors",
+    "slug": "investment-pool-for-charitable-giving-0zko6",
+    "description": "Donor Directed Invesetment Fund for Charitable Giving.  Donors receive immediate tax benefits",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SoundPulse",
+    "slug": "soundpulse-m82j9",
+    "description": "The SoundPulse pieces are uniquely generated audio-visual artworks which are immutably stored in the Ethereum Blockchain using ERC-721 tokens.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TopCommits",
+    "slug": "topcommits-biyv3",
+    "description": "Own a piece of your favourite open source software - fractional ownership of open source software through NFTs",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperExchange",
+    "slug": "superexchange-ef4oo",
+    "description": "An exchange where users can trade using streams instead of atomic, instant swaps.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defi Toolbox   - Defi (lego) builders Toolbox",
+    "slug": "defi-toolbox-defi-lego-builders-toolbox-tae71",
+    "description": "A Hardhat plugin – the deployment scripts for leading Defi protocols.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wido",
+    "slug": "wido-9rnsd",
+    "description": "Best UI for yearn! Discover highest earning vaults, access historical APY and TVL, track your returns and learn from other investors.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKProofs-NFT-Security",
+    "slug": "zkproofs-nft-security-aeot9",
+    "description": "I want to use security from zero knowledge in designing a dapp",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uniswap Box",
+    "slug": "uniswap-box-6fwvb",
+    "description": "A grid trade tool base on uniswap,It helps people to trade on dex",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RunETH",
+    "slug": "runeth-26vvk",
+    "description": "An on-chain proof-of-workout decentralised application to help people develop good fitness habits where people stake their crypto as a proof of their commitment, and upload their proofs on IPFS for a truly open and global accountability system.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polygon Arbitrage Bot",
+    "slug": "polygon-arbitrage-bot-3ptp2",
+    "description": "A bot that identifies arbitrage opportunities on Polygon using custom arithmetic algorithms.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Concert Coin",
+    "slug": "concert-coin-54sc4",
+    "description": "A concert specific NFT that acts as a ticket preceding the event and a digital collectable afterward.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Grizio",
+    "slug": "grizio-1xqop",
+    "description": "We're building a visualisation app for block-chain data. It mainly uses APIs from the Vega protocol and the subgraph from Enzyme.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SocialFi",
+    "slug": "socialfi-395fa",
+    "description": "Decentralized credit lending protocol powered by social network and credit rating model",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defiris",
+    "slug": "defiris-sbe47",
+    "description": "Interest Rate Swaps made easy built using 88mph, Aave and Compound. Bet on future yield and get exposed to yield on assets you do not own.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HarmonyScan",
+    "slug": "harmonyscan-0zrgu",
+    "description": "User friendly Website for Harmony to access Dune Analytics dashboards as well as exchange data",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "eazy.finance",
+    "slug": "eazy-finance-a3xd5",
+    "description": "A simple app to bring the awesome world of Defi borrowing and earning - to everyone.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeChess",
+    "slug": "dechess-yzza8",
+    "description": "Play chess with your friends on a decentralized peer-to-peer platform, featuring unique cross-chain NFT pieces that you can collect and show-off when you play.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ride or Die",
+    "slug": "ride-or-die-8fzbp",
+    "description": "Yield generating commitment contracts tied to Strava activity. Ride your bike, earn yield!",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Remittance",
+    "slug": "decentralized-remittance-xobh9",
+    "description": "By opting in for a delay in your DAI transaction, use defi to pay for your gas.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Giveaway Wheel",
+    "slug": "crypto-giveaway-wheel-8sr9a",
+    "description": "Airdrop app with a spinning wheel that randomly selects one lucky winner for a grand prize.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFM",
+    "slug": "nfm-n8kxm",
+    "description": "Our idea is to create a new way to interact with your favourite celebrities that can lead to meaningful connections and help build communities through blockchain and non-fungible tokens. We help creators engage to their fan base in a more personal and meaningful way.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fun-dPool",
+    "slug": "fun-dpool-t2rkz",
+    "description": "fundPool is a web3 kickstarter, that allows you to fundraise for projects by lazy minting NFTs and fractionalizing the ownership across the contributors when fund goals are met.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TreasureBuidl",
+    "slug": "treasurebuidl-cru1w",
+    "description": "With TreasureBuidl you can create complex multi step transactions as NFTs on-chain, and execute them through our treasure planets.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ERC777 Token Distributor",
+    "slug": "erc777-token-distributor-ae1vw",
+    "description": "A Superfluid powered ERC777 token distributor to help easily collect & distribute donations/earnings at scale!",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tennerr",
+    "slug": "tennerr-ss447",
+    "description": "The project is a decentralised marketplace for freelance services built around a DAO.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flowroll",
+    "slug": "flowroll-t83g0",
+    "description": "Personal financial management app where you automate your money via streams",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Payquil",
+    "slug": "payquil-2xdtw",
+    "description": "An interface for creating shareable payment IDs on Ethereum.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flow State",
+    "slug": "flow-state-ry3zq",
+    "description": "An accounting and transaction tool for the Superfluid Protocol!",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Abonero",
+    "slug": "abonero-1vzy0",
+    "description": "Grow your trusted credit line. Build your plan, make payments, expend and grow your credit line.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fairdrop",
+    "slug": "fairdrop-s8p5b",
+    "description": "Interface to create merkle airdrops and reward specific users based on their activity",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Discovery",
+    "slug": "discovery-wyx4r",
+    "description": "Discovery is an application that helps educate and onboard both users and developers into DeFi. Users of the project will be able to choose a “path” that rewards them for learning, and links to included protocols so that the users can use or build on top of those protocols.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Openhouse",
+    "slug": "openhouse-9vpyk",
+    "description": "Openhouse is a project to prototype Synchronous Social Media with Community Moderation, running on Polygon and Ethereum.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Multichain Snapshot",
+    "slug": "multichain-snapshot-wesq2",
+    "description": "We attempted to build a multi-chain governance tool that integrates with Snapshot (that would work with DAOs)",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Integrating Badger Sett Vaults into Enzyme",
+    "slug": "integrating-badger-sett-vaults-into-enzyme-y0vzh",
+    "description": "An adapter for Enzyme to enable Enzyme Vault Managers to deposit capital into the Badger Sett Vaults",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aavesurance",
+    "slug": "aavesurance-iv9ia",
+    "description": "Insurance for Aave users against asset price fluctuations !!!!!!!!",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Climate Warriors",
+    "slug": "climate-warriors-k5h1v",
+    "description": "Climate Warriors team up to fight for the planet. Join as an Amazon Defender or Coal Crusher today!",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quadro",
+    "slug": "quadro-8r2xc",
+    "description": "Price risk market, that matches risk-takers and risk-averse players.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unifi",
+    "slug": "unifi-7g5kg",
+    "description": "Unifi is a vault-like liquidity manager for Uniswap v3. It provides a market-aware launchpad for deploying liquidity strategies to Uniswap v3.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "USA Wallet",
+    "slug": "usa-wallet-9r26v",
+    "description": "A wallet/dashboard localization to help on-board American no-coiners.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LETO",
+    "slug": "leto-xu2q4",
+    "description": "Automatically rebalancing ERC-20 long and short leveraged tokens based on recursive borrowing with AAVE, Uniswap and Chainlink integration",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Increment",
+    "slug": "increment-z8pda",
+    "description": "Increment is a Forex Derivatives Protocol. Empowering retail and institutional crypto holders including suppliers & borrowers on Aave to hedge against forex price movements.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Compound Wallet",
+    "slug": "enable-simple-lending-from-bitgo-wallet-a3i9u",
+    "description": "Simple Compound Lending Portal from both Metamask and Bitgo  Wallet",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Autonet",
+    "slug": "autonet-1hbov",
+    "description": "Self-contained economy for distributed deep learning applications. It allows anyone and everyone to become a shareholder of AI services.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTicketize",
+    "slug": "nfticketize-76p9u",
+    "description": "NFTicketize is DApp for create events (Concerts, Conferences, Festivals, Seminars, Sports, etc), create ticket categories for that events, buy tickets that are created as NFT's, and trade that tickets for cryptocurrency, for some other ticket, or for some other NFT.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hal Finance",
+    "slug": "hal-finance-o58pv",
+    "description": "Develop a very simple to use and understand dashboard that manages all your DeFi investments. The platform is cross chain and  includes different assets , different transactions (borrowing, lending, providing liquidity, etc).",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Know Your DeFi",
+    "slug": "know-your-defi-862jo",
+    "description": "Know Your DeFi is a strategy and data platform for Decentralized Finance, providing a visual data query interface and risk alerts. In this hackathon, we focus on building Liquity data query tools by subgraphs of The Graph.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeChitFund",
+    "slug": "dechitfund-36owx",
+    "description": "Chit Funds in DeFi. Chit funds are a type of ROSCA. A group of members would periodically pool together a fixed installment. On each installment, an open auction is conducted and the lowest bid would win from the pool. The remaining funds are be distributed to the other members.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOMoon",
+    "slug": "daomoon-mj0bd",
+    "description": "Build a DeFi Strategy that by nature provides Liquidity to DAOs that need it the most through unstoppable liquidity growth plan.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DegamiFi",
+    "slug": "degamifi-rmktt",
+    "description": "Bringing DeFi to the e-sport betting game space with special bets types",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Root Kit",
+    "slug": "root-kit-dct8y",
+    "description": "Once launched, Pandemic Tokens spread like a plague, endlessly self replicating when conditions are met or incentivized functions are called.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wolta Finance",
+    "slug": "wolta-finance-c45bq",
+    "description": "Yield optimizer on Polygon focusing on providing a low-entry barrier for users new to DeFi",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Degenfolio",
+    "slug": "degenfolio-6mcj2",
+    "description": "Multi-chain financial history visualizer and tax form generator",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeepFin",
+    "slug": "deepfin-hkvw0",
+    "description": "Deep tier financing (300B $ Market) to solve cash flow problems for the deep participants of companies supply chain. Solution for this is a comprehensive platform which can be used to mint tokens against invoice and use those tokens to pay and take loans until the payment date.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Irrevocable",
+    "slug": "irrevocable-ggiwe",
+    "description": "Irrevocable provides a trustless smart contract for NFT sellers to guarantee a certain price floor with a pre-auction agreement with a third-party Guarantor(s).  For the guarantee, Guarantors get a profit split above the floor price.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mimic",
+    "slug": "mimic-aqh6t",
+    "description": "Mimic - DeFi DAO - A platform focused on helping people diversify they crypto assets investments.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Overflow",
+    "slug": "overflow-u2yd2",
+    "description": "A DeFi Native Credit System  that allows people to earn interest on their streaming income.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jacque's Book",
+    "slug": "jacque-s-book-7gkzu",
+    "description": "a highly-customizable defi focused Profit/Loss tracker for the average yield farmers",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TokenBlend",
+    "slug": "tokenblend-9fxte",
+    "description": "TokenBlend - Asset allocation and rebalancing for your Enzyme funds and Ethereum wallet",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperKarma",
+    "slug": "superkarma-h37je",
+    "description": "A Decentralised Autonomous Non Profit Orginisation that accepts donations through SuperFluid and Stakes donations to Aave that is managed by a governance protocol",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Italics",
+    "slug": "italics-5r376",
+    "description": "Italics: Sell a PDF on your Website. We're building an ERC-1155 ecosystem for self-publishing.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Centurio",
+    "slug": "centurio-fxytx",
+    "description": "Nexus Mutual cover recommendation engine based on a wallet assets",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Raise the Colors",
+    "slug": "raise-the-colors-h05ix",
+    "description": "RPG items as NFTs with history of use, stats, and functions. Ability to pull live data from other campaigns.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Li.Finance",
+    "slug": "li-finance-vda54",
+    "description": "Li.Finance allows cross-chain any-to-any swaps by aggregating cross-chain liquidity protocols, DEXes and lending protocols.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GeoPS",
+    "slug": "geops-zuprj",
+    "description": "Geolocation Payment Streams (GeoPS) - An application that can open and close payment streaming channels, based on the user location.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SmolChitFund",
+    "slug": "smolchitfund-69o97",
+    "description": "An interest free chit fund pool. The selection turns of fund is based on the amount of collateral they put. The collateral assets will be used to staked in liquity and get stablecoin for further investment.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Azulo",
+    "slug": "azulo-6u8cn",
+    "description": "Decentralized digital family trust creation, governance, and asset management platform.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Delegate.fi",
+    "slug": "delegate-fi-uk360",
+    "description": "Use credit delegation from Aave to maximized returns to users who has idle borrowable power and does not know what to do with it. We handle it smoothly!",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "frak-a-sat",
+    "slug": "frak-a-sat-958hj",
+    "description": "frak-a-sat enables DeFi users to own fractionalised synths of space object IDs depending on their risk appetite.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vega Fees Dashboard",
+    "slug": "vega-fees-dashboard-45oeb",
+    "description": "A Golang batch to store Vega fees data into a PostgreSQL database and a Grafana dashboard to display data.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "supersaiyan",
+    "slug": "supersaiyan-ce5z5",
+    "description": "Supersaiyan is a decentralised platform that allows anyone to create a subscription service on ethereum in a just few clicks.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tiramisu",
+    "slug": "tiramisu-bb4pt",
+    "description": "Tiramisu is a safe, multi-layered, decentralized all-in-one platform for savings and payments.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EtherScore",
+    "slug": "etherscore-9c3e2",
+    "description": "DeFi community curation using NFTs based on Ethereum transaction history",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hippodrome",
+    "slug": "hippodrome-4pixf",
+    "description": "The cheapest and easiest way to onboard value to the Polygon network.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yin Finance",
+    "slug": "yin-finance-3crzm",
+    "description": "YIN Finance : Multi-Strategy NFT Liquidity Optimizer. The Solution to Liquidity in Decentralized Finance",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Western Gate",
+    "slug": "western-gate-pdhox",
+    "description": "Flashbots and related projects are optimizing the measurement and capture of arbitrage on Ethereum. Scaling solutions like Polygon create new cross-chain arbitrage opportunities. The purpose of Western Gate is to measure and report Ethereum-Polygon arbitrage in real-time.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aleph",
+    "slug": "aleph-gbgza",
+    "description": "A non collateralised investment platform for margin trading (shorting and longing) on traditional and exotic token pairs.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buy Me a Coffee Polygon",
+    "slug": "buy-me-a-coffee-polygon-ybav5",
+    "description": "An extremely easy way for creators to accept Matic from their supporters",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniswapV3 Liquidity Rebalancer",
+    "slug": "uniswapv3-liquidity-rebalancer-dr50i",
+    "description": "This project aims to give users an automated solution to generate high fees income from UniswapV3 “concentrated liquidity” opportunity",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solaris",
+    "slug": "solaris-k6nyc",
+    "description": "Margin trading using 1inch limit order protocol and different lending protocols: Aave, Compound, Liquity, 88mph",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Layer Exchange",
+    "slug": "layer-exchange-6y9qa",
+    "description": "LP token management across exchanges should be easy. This current version is working towards providing liquidity to Uniswap v3. We are also developing a stablecoin component.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Piped Piper",
+    "slug": "piped-piper-ennmq",
+    "description": "A money streaming router built with Superfluid which takes multiple incoming flows, aggregates them and redirects them to multiple vaults.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Convexity",
+    "slug": "convexity-udp6j",
+    "description": "Enabling fixed rate deposits and stable rate borrowing on Compound",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crescent",
+    "slug": "crescent-ynpas",
+    "description": "One simple wallet to instantly earn stable high-yield interest rates on your personal or corporate treasury (dollars only), built entirely on USDC.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NiftySubs",
+    "slug": "niftysubs-3z9ey",
+    "description": "Pay-as-you-use Decentralized Video Streaming Platform + Video NFT's.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stakeall Finance",
+    "slug": "stakeall-finance-dkh0r",
+    "description": "DeFi Platform for staking in various POS protocols.  Allows users to borrow from AAVE, swap from 1inch and stake to POS based protocol in a single transaction for earning passive income.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Atropos",
+    "slug": "atropos-maxio",
+    "description": "Atropos is an automated escrow contract that reacts to off-chain events with on-chain actions",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yield Swap Protocol",
+    "slug": "yield-swap-protocol-awhuy",
+    "description": "Yield Swap is a Decentralized Exchange that allows users to swap variable and fixed yields.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IndexPool",
+    "slug": "indexpool-mg8ad",
+    "description": "IndexPool simplifies crypto portfolios by leveraging Polygon’s low gas fees. We wrap all transactions that compose a portfolio into one while minting a portfolio NFT that enables composability.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bright Risk Index",
+    "slug": "bright-risk-index-oad0y",
+    "description": "The Bright Risk Index (BRI) is a diversified basked of risk cover staking positions. This is enabled by making NXM staking positions permissionless and tradeable.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Compound Swaps",
+    "slug": "compound-swaps-s4rri",
+    "description": "Collateral swaps on Compound - Swap collateral without a smart wallet",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized_Medium",
+    "slug": "decentralized-medium-u9055",
+    "description": "Our project aims to decentralize medium and improve the payment structure such that the user pays the owner of the article only while they read it.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polynomial Protocol",
+    "slug": "polynomial-protocol-9tuep",
+    "description": "Highly Efficient Options Liquidity Protocol using UMA and Uniswap v3",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kōen",
+    "slug": "kōen-iuc5h",
+    "description": "Crypto Tip-Jar and Subscription service for creators.They can accept  financial support, memberships, and build a direct relationship with their fans, from anywhere across the planet.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RaDAO: Minimal & Modern DAO Implementation",
+    "slug": "radao-minimal-modern-dao-implementation-wkhex",
+    "description": "An improved and modernized version of Compound's popular Governor Alpha ^^,",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Milliondollartokenpage - now with DeFi!",
+    "slug": "milliondollartokenpage-now-with-defi--1yzqo",
+    "description": "Content billboard using NFTs for ownership and DeFi staking rewards for user re-engagement.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Queens Gambit",
+    "slug": "queens-gambit-eznhy",
+    "description": "This project uses superfluid streaming payments to make a NFT piggy bank with incentives for saving. This app lets creators bundle their NFTs into savings accounts and they can share them with their fans.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Multiflow",
+    "slug": "multiflow-qggad",
+    "description": "A dapp to manage and fund decentralized urban jobs from multiple participants.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Radical",
+    "slug": "radical-pmhhp",
+    "description": "Radical is a decentralized protocol unlocking lifelong income for creators.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Discord Trading Bot",
+    "slug": "discord-trading-bot-afa9r",
+    "description": "Get price and trade on uniswap from discord. The bot is made using Python.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RealEstateDAOTokens",
+    "slug": "realestatedaotokens-yyjhd",
+    "description": "A real Estate NFT liquidity / wrapping platform that can provide access to DeFi to a lot more people.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GreenEarthNFT",
+    "slug": "greenearthnft-wvhky",
+    "description": "Greenearth NFT is animal and plant photos of the Metaverse  Original: take photos of animals and plants with mobile phone chip + cloud storage + app, record time, geographical location and digital ID of photos on the blockchain, and solve the original problem of NFT  Scientific r",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "APY - Ape Predict Yield",
+    "slug": "apy-ape-predict-yield-2g8y1",
+    "description": "Yield Token Compounding Dapp built on top of Element, with an accompanying real-time APY calculator to assess YTC strategies before aping in.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hokusai",
+    "slug": "hokusai-juj9g",
+    "description": "Embedded NFT = Don't need knowledge of Blockchain to create an NFT service.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Whitelisted",
+    "slug": "whitelisted-gcsiq",
+    "description": "One-stop dashboard for checking against suspicious source of funds",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spline",
+    "slug": "spline-t9oq0",
+    "description": "L2-native aggregator for L1 yield. Same returns, exponentially lower fees.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mavrik",
+    "slug": "mavrik-o70za",
+    "description": "Building a new UI to crypto via NFTs. We are imagining NFTs as a new major UI that people will use to interact with Crypto.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Catalyst",
+    "slug": "catalyst-v6o90",
+    "description": "Using on-chain historical transactions of Cryptopunks to create an index that tracks the value of Punks in real-time",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Variable Finance",
+    "slug": "variable-finance-taat4",
+    "description": "A decentralized PoS (Proof Of Sale) mechanism for ERC20 tokens. From Smart Contract to Brick & Mortar Store, accept any ERC20 token as payments.  Also, we implement an on-chain approval manager. Approve it Once, Use it Anywhere.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wicked",
+    "slug": "wicked-01sfz",
+    "description": "Currency hedging made easy.  Create / Trade / Settle tokenized long / short positions on exchange rates.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NostraSwap",
+    "slug": "nostraswap-6zw39",
+    "description": "A new-generation AMM that provides a stable and secure price oracle, and offers the fairest token swap prices.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Crowd Drop",
+    "slug": "nft-crowd-drop-k37hc",
+    "description": "A new way to sell NFTs where instead of doing an auction you just deposit ETH that gets put into a yield farm. Then we do a lottery for who gets the NFT with the probability in proportion to how much you stake.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Medicis",
+    "slug": "medicis-ot77b",
+    "description": "Medicis offers a solution for users to deposit capital, ensure capital is guaranteed and enable personalized allocation of yields to beneficiaries.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tesser",
+    "slug": "tesser-d9rkk",
+    "description": "Tesser: the magic DeFi portfolio manager. Instantly migrate your funds from any farm or liquidity pool to any other in a single tx!",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GIVE  ♥️",
+    "slug": "give-♥️-8c210",
+    "description": "Our mission is to create a social positive donation platform which maximize the value and impact of your donations by  Investing the initial donation, generating monthly revenue stream from interest profit , and reducing the campaign origination and operation cost",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Streamswap",
+    "slug": "streamswap-bexsb",
+    "description": "Seamlessly trade one Superfluid flow for another of equivalent value.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DIFO",
+    "slug": "difo-734p6",
+    "description": "DIFO - Derivated Income Funding Operations; Non-zero-sum strucure - For funding or for subscription and Quadratic Funding  option.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Perpetuity",
+    "slug": "perpetuity-ueq1a",
+    "description": "Perpetual options market that let's you write/buy perpetual options for WETH and WBTC",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tenderize",
+    "slug": "tenderize-xym59",
+    "description": "Tenderize is a liquid staking yield aggregator for web3 protocols that allows you to earn automated staking rewards without unstaking periods !",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "2pi.finance",
+    "slug": "2pi-finance-dbfbi",
+    "description": "Yield Maximizer and DeFi tools (on top of Polygon for the time being)",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Enhancer for Snapshot.org Browser Extension",
+    "slug": "enhancer-for-snapshot-org-browser-extension-um8gi",
+    "description": "A multi-browser extension to enhance on Snapshot.org user experience",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creative",
+    "slug": "creative-y9814",
+    "description": "A gamified blockchain platform for independent creators, fans, and brands to collaborate directly and earn DeFi incentives",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Default Swap Protocol",
+    "slug": "default-swap-protocol-b048b",
+    "description": "On-chain Default Swap providing lenders with protection from economic loss from under-collateralized loan defaults.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dokodemo Door",
+    "slug": "dokodemo-door-qtsyv",
+    "description": "A new limit order experience, utilising UNISWAP V3 features with 0 trading fees for limit order trading. And everything is automated.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Optyn",
+    "slug": "optyn-zkho5",
+    "description": "Option protocol for crypto currencies, tokens, commodities, stocks, forex & indicies",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rarepress",
+    "slug": "rarepress-mc0q6",
+    "description": "Rarepress is an NFT Operating System for minting, trading, and programming NFTs, effortlessly.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bm-dapp",
+    "slug": "bm-dapp-scg08",
+    "description": "A bare minimum dapp front-end for your decentralized web3 application. Create a one click dapp, bootstrapped with Create React App template.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Komodo",
+    "slug": "komodo-65c8q",
+    "description": "Komodo is a commodities trading protocol. It allows anyone to mint, buy or sell synthetic commodities and get exposure to oil, metals or farming crops on Ethereum.",
+    "event": "HackMoney 2021",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

@@ -1,0 +1,987 @@
+[
+  {
+    "name": "Donate for purpose",
+    "slug": "donate-for-purpose-6xcy3",
+    "description": "There is corruption all around the place and we aim to fix it",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Votechain",
+    "slug": "votechain-bbtue",
+    "description": "Votefvm is a community driven web3 education platform. We incentivise learning and the upload of quality content by rewarding our learners with tokens for each course completed, and rewarding the content creators with tokens.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "theGiving storage sponsor",
+    "slug": "thegiving-storage-sponsor-goqd9",
+    "description": "Proof of concept for a module based plugin for a fundraising sponsor to choose a decentralized way to host the fundraising project.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SpacEVM",
+    "slug": "spacevm-xu7hm",
+    "description": "An NFT marketplace for onchain space atmospheric data, to counter the bad role of agriculture in water usage on our planet. Copernicus data will be reliable, free for the next 40 years, and covers the whole world.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aquanet",
+    "slug": "aquanet-hh608",
+    "description": "Water Quality Verified On-Chain -> Aquanet allows users to get real-time water quality updates through the on-chain data in real-time. This allows for more transparency in water quality to everyday citizens, as well as citizen scientists.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Soulmates",
+    "slug": "soulmates-wveqg",
+    "description": "Soulbound tokens with provably stored metadata,  powered by F(E)VM",
+    "event": "Hack FEVM",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ChangeDao",
+    "slug": "changedao-2ceog",
+    "description": "ChangeDAO is DAO to vote on proposals and reward your participation using FEVM",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3ARTH",
+    "slug": "3arth-hvg84",
+    "description": "It is a game that promotes the habits of keeping the Earth green by awarding NFTs.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oracle",
+    "slug": "oracle-e7tdo",
+    "description": "Sample of an Oracle to show how to send/receive data from a script",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FILzk-NFT",
+    "slug": "filzk-nft-xrmze",
+    "description": "FILzk-NFT is an abstraction layer NFT backed by Zero Knowledge Proofs for service provider's identities that any DataDAO can leverage.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM Social",
+    "slug": "fevm-social-k5irv",
+    "description": "Social Premitive like lens on filecoin. Generally didn't get much finished.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trug",
+    "slug": "trug-dg0oh",
+    "description": "Trug is basically a Google Drive killer. Users can store their files & folders in a decentralized way and share them with their piers. Trug also has an inbuilt file marketplace where users can sell their files and receive payments on the Wallaby Testnet.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CliniDAO",
+    "slug": "clinidao-2dgcs",
+    "description": "To store clinical trial data for drug discovery purpose, accelerating the speed while reducing the cost by the data owner sharing data with other researcher.  The AI/ML component creates additional VALUE-ADD.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AllThatData",
+    "slug": "allthatdata-785d3",
+    "description": "AllThat Data is reinventing COLLABORATION in the most SECURE way!",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scappi",
+    "slug": "scappi-dxg0e",
+    "description": "Decentralized, chain-agnostic, authentication protocol. Authenticate a user uniquely using only decentralized resources and no intermediary secret.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPFSxYARA",
+    "slug": "ipfsxyara-gbyuk",
+    "description": "Zk on-chain verification of YARA scans for IPFS cids.  Yara scans bytes for malicious patterns.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PowerDAO",
+    "slug": "powerdao-y1dbf",
+    "description": "PowerDAO enables miners to sell the future earnings/rewards of a certain amount of mining power with the community.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "poLateral",
+    "slug": "polateral-88ipp",
+    "description": "poLateral is an FEVM-based open-source liquidity protocol to provide Filecoin collaterals as a loan for storage providers.",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Investorage",
+    "slug": "investorage-gobv4",
+    "description": "Investorage - let the interest of the staked money pay for your storage subscription",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FEVM",
+    "slug": "fevm-mnh5t",
+    "description": "I had an idea to create a data DAO that can be used by community to analysis data associated with the DAO.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UpToData",
+    "slug": "uptodata-m7haf",
+    "description": "Let the experts curate & varify your data using DATA DAOs! The experts verify the validity of the storage deals to make sure the data is stored securely and is available for use.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Limbo DAO",
+    "slug": "limbo-dao-wjps4",
+    "description": "Limbo is a distributed media platform for individuals to share their experiences of corruption, greed and inequality",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BraceletNFT",
+    "slug": "braceletnft-n35gn",
+    "description": "FEVM NFT Minting service for customers who have purchased handmade works",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM-Data-Dao",
+    "slug": "fevm-data-dao-uyo8s",
+    "description": "Data dao where members add data and gets rewards when their data is requested by a client",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bowled - File Store",
+    "slug": "bowled-file-store-eeyk3",
+    "description": "Bowled is a cricket team management game. As the owner of the team, the user needs to set strategies to win games against other players.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Storeama",
+    "slug": "storeama-8egkb",
+    "description": "Storeama is a decentralized storage platform on the Filecoin virtual network, it utilizes ipfs and a smart contract to store all kinds of filex, ranging from audio, video and documents",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MinerDealer",
+    "slug": "minerdealer-wmkqj",
+    "description": "The protocol helps increase storage in Filecoin, encouraging miners to have liquidity to operate within the network. Through this technology, it allows the miner to fulfill its obligations, creating a good reputation and allows it to expand.",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "CrypticVault",
+    "slug": "crypticvault-7gru5",
+    "description": "CrypticVault is a platform to store your data and give NFT membership-based access to your vault near and dear ones.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Transfer Of Value Protocol",
+    "slug": "transfer-of-value-protocol-dbsqk",
+    "description": "The Transfer of Value protocol will help us redefine the rules of a relationship in todays world.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3 Data Hub",
+    "slug": "web3-data-hub-o7bs0",
+    "description": "WEB3 DATA HUB is a place to pull or store datasets or ML models in one line commend. Its a hub that store datasets or models in decentralised way.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DigiBlock",
+    "slug": "digiblock-36ekz",
+    "description": "Soulbound token Dapp to hold our on chain resume. Share your wallet address to share your resume.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PODP - Proof Of Data Preservation -",
+    "slug": "podp-proof-of-data-preservation-57v6u",
+    "description": "PODP is Proof Of Data Preservation. PODP mint the dynamic SBTs based on the Filecoin data preservation status. That SBT proves that \"I'm an actual data preserver in the community.\"",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Minted",
+    "slug": "minted-izubd",
+    "description": "This project allows users to mint multiple copies of their NFTS on the Wallaby testnet of FEVM using ERC1155 standards contract.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT-DAO",
+    "slug": "nft-dao-y636b",
+    "description": "NFT-DAO where users can vote using NFT instead of ERC-20 token.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM-NFT-Buddy",
+    "slug": "fevm-nft-buddy-dbcqr",
+    "description": "NFT Marketplace deployed on FEVM Blockchain. It works on a listing basis, users can list any NFT on our platform (instead of minting NFT on our platform, which is generally a norm) by entering the NFT contract address, TokenID and Price.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "onTheFILEd",
+    "slug": "onthefiled-kk89q",
+    "description": "onTheFILEd is a decentralized pronostic platform for the FIFA World Cup 2022 built on the #FVM. The principle is simple: bet on your team, receive tokens from your team and join the community. If it wins, collect the profits.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filstake",
+    "slug": "filstake-si7z1",
+    "description": "Filstake is a liquid Staking Pool primitive that allows Filecoin users to earn yield on their FIL by providing storage providers collateral for their operations",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smartran",
+    "slug": "smartran-d1wt6",
+    "description": "Smartran functions as an decentralized cheque but in form of NFT that live streams money into wallets.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ContentCurationDAO",
+    "slug": "contentcurationdao-fy5qf",
+    "description": "ContentCuratorDAO lets DAO members curate content for various themes by voting & staking their DAO Tokens. The DAO tokens are incentives to Filecoin nodes to store that content longer. The curated content lives on Lens so that anyone can see the best content for that theme.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyUnderstandingofFEVM",
+    "slug": "myunderstandingoffevm-o0dmg",
+    "description": "List of all that has been referred during these 48 hours. Enjoyed learning about what FEVM is capable of doing. Looking forward to actually hack in the future",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FVM Bot",
+    "slug": "fvm-bot-zo3rs",
+    "description": "Real-time notification for any activity relating to any FVM smart contract, actor or FVM wallet; just let the bot know which address you wanna track!",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tasmia",
+    "slug": "tasmia-dtsnb",
+    "description": "tasmia aims to be a data labeling dao in addition to a marketplace for data",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StoreFi",
+    "slug": "storefi-m1npy",
+    "description": "A decentralized Auction provider, where potential buyers place competitive bids for Filecoin storage.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Data Bazaar",
+    "slug": "data-bazaar-9heqr",
+    "description": "a community forum allows anyone to track popular content just like Hacker.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DataWallet",
+    "slug": "datawallet-hjrcx",
+    "description": "Backup protocol with Social Recovery for private and secure storage of backup files",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VoteIt",
+    "slug": "voteit-irkt4",
+    "description": "Used to vote Suggestion on BLockchains and other information related to web3.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "De-File Drive",
+    "slug": "de-file-drive-1rvcq",
+    "description": "A GoogleDrive/Dropbox for files but decentralised powered with e2e file encryption,  private group creation for your friends and file sharing with no link management hassle!",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jackrabbit Finance",
+    "slug": "jackrabbit-finance-df4dm",
+    "description": "Decentralized Bond Exchange built on Filecoin Virtual Machine bringing Bonds to DeFi. http://www.jrt.finance/",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DEAL-LOCK",
+    "slug": "deal-lock-ob00d",
+    "description": "A new and efficient way to Time Lock Storage deals on Storage Providers in the Filecoin network.",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Wayback-Machine.eth",
+    "slug": "wayback-machine-eth-5kifb",
+    "description": "InterPlanetary Wayback Machine allows the user to go “back in time” and see how ENS linked dApps looked in the past. It also allows to donate in Filecoin to the preservation of those websites.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FILend",
+    "slug": "filend-pcttv",
+    "description": "FILend | A lending borrowing platform on FEVM, we can lend/borrow in FIL/ETH pair",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CaratoDAO - Decentralized Tree Registry",
+    "slug": "caratodao-decentralized-tree-registry-3ni5y",
+    "description": "A decentralized Tree Registry governed by DAO members, to publicly track all the planting efforts.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Document Verifier",
+    "slug": "document-verifier-yi824",
+    "description": "docVerifier was a on chain document verifier developed by using SHA256 and FEVM chian",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "w3mdb",
+    "slug": "w3mdb-kyw7j",
+    "description": "IMDB Movie Rating Platform on Web3 - deployed on the FEVM blockchain",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gemini",
+    "slug": "gemini-ypghx",
+    "description": "Gemini is an on-chain data funnel analysis. Gemini allows builders to identify rising opportunities, attract users in a more proactive way, and adapt their platform with a focus on customer experience.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM-Boost",
+    "slug": "fevm-boost-y6p79",
+    "description": "A Filecoin actor to store proposer's commitment from the mev-boost protocol.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3JobsFEVM",
+    "slug": "web3jobsfevm-inz64",
+    "description": "Decentralized job board where companies can publish their job postings along with bounties for candidates that reach certain stage and get rejected after.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SNDB - Social Network Data Bridge",
+    "slug": "sndb-social-network-data-bridge-uf8zx",
+    "description": "An interoperable social identity that bridges your established connections and reputation from web2 to web3",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "smoothdata",
+    "slug": "smoothdata-jxsjc",
+    "description": "Creating a data dao for individuals to collectively use with there post.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lookup",
+    "slug": "lookup-1gyzr",
+    "description": "Lookup - the filecoin search engine and distributed dataset index.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Athena",
+    "slug": "athena-062wp",
+    "description": "We built a Validium style rollup using Optimism bedrock and FEVM with provable data availability guarantees using Storage Deals",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cure dao",
+    "slug": "cure-dao-7uo9p",
+    "description": "Cure dao aggregates sensitive medical data from hospitals, encrypts it, and uploads it to filecoin network. Approved universities and research centers will be able to access data for a fee. On-chain access control and encryption are enabled by leveraging the Medusa contract. #FVM",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SPN DAO",
+    "slug": "spn-dao-zwbar",
+    "description": "SPN stands for spending. Our team has created a data DAO that empowers consumers to turn their data, in particular, their credit card transaction data, into assets and have true ownership over their data.",
+    "event": "Hack FEVM",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Filito",
+    "slug": "filito-2iu0d",
+    "description": "Fault-tolerant search by metadata stored in the IPFS decentralized network. The connecting link between the metadata and the user is a smart contract on the Filecoin blockchain (FEVM), which stores the IPFS CID array.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyFEVM Truffle Playground",
+    "slug": "myfevm-truffle-playground-dov75",
+    "description": "Truffle development tool for FEVM.  Compile, deploy and migration to Wallaby using  the Truffle framework",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shale",
+    "slug": "shale-anbpo",
+    "description": "Shale is aiming to bring cloud computing to Filecoin and make Storage Providers (SPs) directly compete with AWS, Google Cloud, etc..",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SolShare Wallet",
+    "slug": "solshare-wallet-swjjq",
+    "description": "We are the #1 wallet in FEVM that allows you to configure 2FA with 2 different wallets, increasing the security of your transactions and protecting your assets from possible attacks.",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Estate Governance",
+    "slug": "estate-governance-hmoip",
+    "description": "Real Estate Governance powered by FEVM and a suite of Filecoin and Ethereum blockchain protocols and solutions.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FILAfrique",
+    "slug": "filafrique-mneya",
+    "description": "Over collateralized Fil backed stablecoins for local African currencies",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "archivedMedia",
+    "slug": "archivedmedia-gsuws",
+    "description": "ArchivedMeta created an NFT collection archived into the filecoin network natively.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xyzDAO",
+    "slug": "xyzdao-qksh6",
+    "description": "xyz DAO is an Decentralized Autonomous Organization allowing the DAO members to own their content while earning incentives on it.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM DataDAO boilerplate",
+    "slug": "fevm-datadao-boilerplate-9majy",
+    "description": "Boilerplate project for quick launch of a token governed dataDAO on FEVM",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Chalkboards",
+    "slug": "chalkboards-whxn2",
+    "description": "Chalkboard is a NFT marketplace for artists to sell their chalkboard artwork",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KnowledgeDAO",
+    "slug": "knowledgedao-qz4gu",
+    "description": "Knowledge DAO is a platform that allow users to publish content freely over decentralized Storage , Get it verified  by DAO , and Earn rewards in Filecoin",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ncrypt",
+    "slug": "ncrypt-a1zu4",
+    "description": "Ncrypt is block-chain protected, advanced proof of work application, which can be utilized for claiming the copyrights and patent-ship of your works or creations.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeTRep",
+    "slug": "detrep-053my",
+    "description": "DeTRep is decentralization Twitter Reputation Platform which will decide the reputation of the Twitter user based on the rating given by the DAO users",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hyperqube",
+    "slug": "hyperqube-zstk5",
+    "description": "Generates a programmable NFT as digital twin based on health care parameters and personal birth chart date to provide an personalized astrological hero journey.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "comma-ref",
+    "slug": "comma-ref-4pf43",
+    "description": "fun challenging mind games platforms. consists of suduku , skyscraper and Futoshiki",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM Launch",
+    "slug": "fevm-launch-ywkwn",
+    "description": "FEVM launch is an ecosystem that helps Boba ecosystem users and investors to diversify their decentralized finances (DeFi).",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DogoQ (test, no participation in competition)",
+    "slug": "dogoq-test-no-participation-in-competition-smy0n",
+    "description": "Reputation based breeding of pets: blockchain supporting responsobility and tiny businesses",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Renown-ity",
+    "slug": "renown-ity-vfi4o",
+    "description": "Reputation System to track the on-chain activity of a user via granting upgradable NFTs.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CatalogDAO",
+    "slug": "catalogdao-r53w3",
+    "description": "Catalog is a dMRV Data DAO. Catalog is an incentivized network of regeneration advocates, storage providers, and researchers, working to support local carbon projects.",
+    "event": "Hack FEVM",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "bridgefabric",
+    "slug": "bridgefabric-4xse4",
+    "description": "BridgeFabric is a distributed serverless system based on web3. It aims to build an easy-to-use decentralized governance serverless system, making every piece of function code generates its value, making it easier for users to compute over on-chain or off-chain data.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Notifications Service",
+    "slug": "decentralized-notifications-service-4ew24",
+    "description": "Decentralized Notification App, where users with their wallet address and other smart contracts can create a channel and send notifications to the targeted user or broadcast to all the subscribers of that channel.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FAFU - Files Are Forever Urs - Gnosis Safe",
+    "slug": "fafu-files-are-forever-urs-gnosis-safe-oz4vb",
+    "description": "Gnosis SAFE App for safe DAO/multisig file storage. FAFU allows you to save your community files on any chain via a storage deal on the fly.",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Cool Froots",
+    "slug": "cool-froots-mr2ab",
+    "description": "The Cool Froots are a dynamic NFT collectible with the super power to speak to the world!",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FILETH Bridge",
+    "slug": "fileth-bridge-4evo0",
+    "description": "A bridge to send tokens between Filecoin and other blockchain",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sw/.tch",
+    "slug": "sw-tch-j3kxn",
+    "description": "decentralized builders network with social proof and referral smart contracts. JSON resumes are on IPFS, stake into connections to show importance, introductions and referrals are paid",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anc3stree",
+    "slug": "anc3stree-7a6y8",
+    "description": "Data DAO for eternal storage of family trees using smart contracts and filecoin storage.",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "DataMarket: Instant data purchase pages",
+    "slug": "datamarket-instant-data-purchase-pages-zz5z0",
+    "description": "Datamarket is an open blockchain platform designed to enable anyone to create Data purchase or checkout pages on the FEVM network.",
+    "event": "Hack FEVM",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Cryptea",
+    "slug": "cryptea-ty022",
+    "description": "Cryptea is a Blockchain payment processing software for businesses, aimed at making Crypto payments as seamless as Cards are, today.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Next",
+    "slug": "nft-next-1uiqy",
+    "description": "A DataDAO for self-sovereign content allows anyone publish articles, illustrated novels in NFTs and being accessed by the token holders only",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FileHealth",
+    "slug": "filehealth-8up41",
+    "description": "Decentralized Health Records. Patients are able to grant access to authorized doctors.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Distributed-Proofs",
+    "slug": "distributed-proofs-wr5ik",
+    "description": "Distributed_Proofs Transparent Legal System for DAOs used for multiple use cases for agreements or a set of commands with recorded verifiable proofs",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Koios",
+    "slug": "koios-adm6x",
+    "description": "Koios is the no-code Data Dao platform where you can  Launch, Manage, and Upgrade Data DAOs then enable data publishers, algorithm developers, and consumers to manage and use datasets.",
+    "event": "Hack FEVM",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Fireway",
+    "slug": "fireway-ho2g0",
+    "description": "Fireway is a cross-chain data oracle micro framework connecting real-world data and APIs to smart contracts",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "peerio",
+    "slug": "peerio-0bv55",
+    "description": "Peerio is a DeSci-application that allows people to submit scholarly articles, which must be peer reviewed as a form of consensus.",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Dripps",
+    "slug": "dripps-njspr",
+    "description": "A community-driven social event dapp that helps individuals to find nearby activities, and formations.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "De-Tok",
+    "slug": "de-tok-1jyno",
+    "description": "Decentralised video hosting platform that allows you to Trend-And-Earn by rewarding content creators and immortalising viral videos",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FilTube",
+    "slug": "filtube-qizv5",
+    "description": "First ever decentralized video sharing & social media platform on Filecoin blockchain.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Midaswap(nft amm for fvm)",
+    "slug": "midaswap-nft-amm-for-fvm-weits",
+    "description": "Midaswap is like uniswap for nft traders and developers(gamefi and lots of web3 dapp) without service fee, which will be the first permissionless,decentralized nft marketplace on fvm,allowing users to swap, creating pools for sale and becoming lp(earn swap fee/accept fraction).",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeShare",
+    "slug": "deshare-j5a51",
+    "description": "We are building a fully decentralized file trading platform DeShare`",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM Med",
+    "slug": "fevm-med-2w1g5",
+    "description": "Medical Counseling, preventive treatment and remediation portal powered by Embark and Filecoin eco-system tools. Enable secure data storage & transparency of medical report data.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3VitePress",
+    "slug": "web3vitepress-43gs7",
+    "description": "Create your content via VitePress and store on FVM && IPFS, it powered by Vue3, VitePress, NFT.Storage, FVM",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FNS: Filecoin Naming Service",
+    "slug": "fns-filecoin-naming-service-czomc",
+    "description": "FNS is a decentralized name service based on the Filecoin EVM. It resolves Metadata into easy-to-read xxx.fil names. fns.fil subdomains (such as alice.fns.fil) are distinguished from other domains by non-transferable SBT to ensure identity uniqueness.",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "0xRoyalty.xyz",
+    "slug": "0xroyalty-xyz-5joz6",
+    "description": "0xRoyalty is a developer leaderboard (linking protocol commercial results to developer contributions).",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM Lender",
+    "slug": "fevm-lender-j7b4g",
+    "description": "Prototype: Dapp FIlecoin Virtual Machine on-chain token Lender",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unoma",
+    "slug": "unoma-7ph1k",
+    "description": "Unoma a podcasting platform that utilizes FEVM to create actors to manage podcasting data,",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClearDAO",
+    "slug": "cleardao-8yjb8",
+    "description": "A data DAO to manage urban governance and transparency issues in mexican cities",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKsig NFTs",
+    "slug": "zksig-nfts-j597n",
+    "description": "Marketplace delegated authorization using NFTs and legally binding agreements",
+    "event": "Hack FEVM",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FIL-Peggy",
+    "slug": "fil-peggy-f77i2",
+    "description": "A playground & lending smart contract based on FVM in which can manage miner, accept deposit from user then send to miner for collateral, and distribute reward to users. Moreover, the smart contract support an upgrade governance implementation.",
+    "event": "Hack FEVM",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "CredLancer: Credentialed Freelancer Protocol",
+    "slug": "credlancer-credentialed-freelancer-protocol-znzpf",
+    "description": "On-chian Credentialing &  Collaboration Platform for Organizations & Freelancers",
+    "event": "Hack FEVM",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Mark3d",
+    "slug": "mark3d-cup3k",
+    "description": "Mark3d - NFT platform form Metaverse builders with Hidden File Tokens (HFT)",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM GREEN BIG BOARD",
+    "slug": "fevm-green-big-board-wa6h7",
+    "description": "FEVM GREEN BIG BOARD is a new way for Miners to obtain green powered liquidity",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FEVM Dapp Scaffold",
+    "slug": "fevm-dapp-scaffold-t58c5",
+    "description": "A Next Scaffold app to get started quickly with frontend for Filecoin Dapps",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Project Oasis",
+    "slug": "project-oasis-3m89e",
+    "description": "Project Oasis is an experimental AI generated art project with 10k NFT blocks. NFT owners can modify their blocks with Stable Diffusion. They can collaborate with their neighbor when creating art.",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dream Date World (DDW Ads)",
+    "slug": "dream-date-world-ddw-ads-ncqoy",
+    "description": "For our Advertisement partners, we index user data, and give them an interface to show their ad videos to our users",
+    "event": "Hack FEVM",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

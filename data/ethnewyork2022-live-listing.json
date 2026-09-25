@@ -1,0 +1,2555 @@
+[
+  {
+    "name": "PUSD",
+    "slug": "pusd-72aso",
+    "description": "Another ERC-20 that's pegged to the Dollar based on a published contract",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AttributionX",
+    "slug": "attributionx-ynucd",
+    "description": "Attribution for Advertisers : Facilitate sharing of data in a private way to get attribution calculated.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Optimistic Payments",
+    "slug": "optimistic-payments-wn8n2",
+    "description": "Allow your customers to pay with any token, and receive in your token of choice.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Smart",
+    "slug": "smart-a24kg",
+    "description": "Harbeger NFTs: Price Things based on how much the owner values it",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "world wallet",
+    "slug": "world-wallet-s15ep",
+    "description": "ZKP HD Wallets using Worldcoin. Using BIP32 and BIP39 to create a universal biometrically proven wallet.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "FocusedProfile",
+    "slug": "focusedprofile-gzy92",
+    "description": "One platform to manage all your crypto profile information. Don't go to different places to update your info. Update once and distribute across all your crypto profiles.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Velvet.Capital",
+    "slug": "velvet-capital-1xrgb",
+    "description": "Multi-chain DeFi Protocol that will allow regular users & professionals to create automated crypto portfolios, indexes and other financial products in a few simple clicks. We utilize modern portfolio theory and yield farming to deliver additional yield.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "RaiseBlock",
+    "slug": "raiseblock-fevop",
+    "description": "Raiseblock is a pooling solution for public goods running on both Optimism Kovan and Polygon Mumbai testnets",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Cross Fader",
+    "slug": "cross-fader-k2601",
+    "description": "A multi chain privacy mixer. Anonymize transactions on any L2.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "AirStreem",
+    "slug": "airstreem-n79q8",
+    "description": "A platform for Fractional NFT rewards Streaming and Trading",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "8trac",
+    "slug": "8trac-73kv3",
+    "description": "A music streaming platform where you can stream money directly to the artist wallet while listening.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "OMNI Protocol",
+    "slug": "omni-protocol-nfbys",
+    "description": "A general money market that supports ERC721 (Especially Uniswap V3 LP) and ERC20 assets.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Tactica",
+    "slug": "tactica-kb89d",
+    "description": "Tactica is a Decentralized DRM platform that allows complete configurability for licensing configurations.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mnb9g",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Decentra Date",
+    "slug": "decentra-date-j6u9t",
+    "description": "Decentralized dating on the blockchain. Each decision is a transaction (but L2 so it's cheaper)",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mnb9g",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Liquidity Pool",
+    "slug": "liquidity-pool-0pcnm",
+    "description": "This is a low level interface to a liquidity pool for two tokens. ETH and an ERC-20 Token called spacecoin.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Motivational wallet",
+    "slug": "motivational-wallet-sdwg2",
+    "description": "Motivational Contract - lose your fund if your self-imposed goals are not met",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Rails",
+    "slug": "rails-s6n2z",
+    "description": "Rails are dynamically generated, interactive maps that visualise interactions such as transactional and quantitive activity over time.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "PermitEverywhere",
+    "slug": "permiteverywhere-6k5q4",
+    "description": "The magic of allowance-less permit() for all tokens (even NFTs).",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "ETH Toolkit",
+    "slug": "eth-toolkit-9d8br",
+    "description": "Simplify your Ethereum toolkit by replacing dozens of bookmarked websites with one that does it all.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Web3 Event Check-In With Proof of Attendance",
+    "slug": "web3-event-check-in-with-proof-of-attendance-k9m7b",
+    "description": "Simple Web3 Based Check-In App using World Coin and Javascript",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS Dream Journal",
+    "slug": "ens-dream-journal-sdhh9",
+    "description": "Decentralized Dream Journal utilizing IPFS, ENS Reverse Lookup and WalletConnect",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZkSugar",
+    "slug": "zksugar-d40tf",
+    "description": "A private and secure way to invest in human relationships, where verified high net worth individuals & attractive people meet.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MeshLink",
+    "slug": "meshlink-iz3fu",
+    "description": "DApp specific user analytics platform. Think Google analytics for smart contract applications.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "kpdra",
+      "vr4u8",
+      "vr4u8",
+      "xefox",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Medici Finance",
+    "slug": "medici-finance-3fmj4",
+    "description": "Co-collateralized lending pool between borrowers and lender with on-chain reputation connected to your WorldID.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Gram",
+    "slug": "nft-gram-khbir",
+    "description": "Connect to NFT Gram, create your own NFT's, and sell them to your fans",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ricochet Tokens",
+    "slug": "ricochet-tokens-8pqpy",
+    "description": "Stake LP tokens that automatically claim rewards using Superfluid",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "UniChat",
+    "slug": "unichat-qb28p",
+    "description": "UniChat: An open decentralized protocol for public messaging",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Lens Subgraph with EPNS",
+    "slug": "lens-subgraph-with-epns-1gwt3",
+    "description": "Basic subgraph with EPNS on Lens protocol. Handle emitted events and read IPFS data to store it on graph level.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "10a1v",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Lunar NFT",
+    "slug": "lunar-nft-nd8rs",
+    "description": "Lunar Meta NFT collection for those who want to go to the moon. My very first time project in the web3 space.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rightoken",
+    "slug": "rightoken-bre3x",
+    "description": "A marketplace for music rights, owned collectively by artists",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Health Avatar and Mana Tree",
+    "slug": "health-avatar-and-mana-tree-3aveb",
+    "description": "Be healthy, and get rewarded in other ecosystems, dapps, and networks... and we build a test 3rd party network to reward you",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "KiwiRiser",
+    "slug": "kiwiriser-20882",
+    "description": "This project extends the plugins for Apeworx by providing a plugin for Blockscout explorer to increase the diversity.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "oa4ef",
+      "mj2m9"
+    ]
+  },
+  {
+    "name": "PolyCarbonX",
+    "slug": "polycarbonx-9n4o2",
+    "description": "PolyCarbonX is an innovative Peer-to-Peer Carbon Credit system. The aim of the project is to incentivise individuals to reduce their CO2 emissions by earning yields. In this way we can reduce green premium for vehicles by up to 60%.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "FreeganMap",
+    "slug": "freeganmap-fs5ph",
+    "description": "FreeganMap is an app for discovering and finding free stuff in your city.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "mj2m9"
+    ]
+  },
+  {
+    "name": "eth/place",
+    "slug": "eth-place-kwpve",
+    "description": "A Web3 version of r/Place where users can rent pixels on a blank canvas NFT",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Nonfungible Forest",
+    "slug": "nonfungible-forest-4sbwa",
+    "description": "NFT ecosystem which provided additional use cases for the Basic Carbon Tonne (BCT)",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Web3IRL / Proof of Friendship",
+    "slug": "web3irl-proof-of-friendship-8sz0i",
+    "description": "We wanted to create connections with other people in web3, so we built a simple contract to give both parties an NFT for connecting",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Step N Mint",
+    "slug": "step-n-mint-w3x1c",
+    "description": "Step N Mint is a Social Web3 Augmented Reality (AR) game where users can discover and mint new NFTs in the real world and on-the-go.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "MessageInABottle",
+    "slug": "messageinabottle-y6o6k",
+    "description": "A fully decentralized, fully anonymized, peer to peer messaging platform, crazy part is how we remain fully anonymous and yet do everything publicly.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "46q4i",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "FOMO NOMO",
+    "slug": "fomo-nomo-uh508",
+    "description": "FOMO NOMO is a Web3 event aggregation app for token-gated events that filters your eligibility based on your NFTs. We've got a working front end, and completely mapped out back end.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "46q4i",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "CUREO",
+    "slug": "cureo-bht6v",
+    "description": "Curated NFT pop up art exhibitions to improve the NFT experience",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "CommonGrants",
+    "slug": "commongrants-i3545",
+    "description": "Discovery issues, ghosting, and mercenary behavior plague web3 grants. CommonGrants makes it easy for builders to apply and gain reputation in the form of evolving, nontransferable badges. Protocols can lower their risk by streaming payments instead of giving one lump sum.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vr4u8",
+      "xefox",
+      "10a1v",
+      "x59d1",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Pew",
+    "slug": "pew-pza8i",
+    "description": "An free and innovative DAO creation tool with an improved governance system which rewards actual contributors with governance power instead of rich whales.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Touch the Grass",
+    "slug": "touch-the-grass-n70wy",
+    "description": "Wordle and Sudoku inspired and generative art mini web game that generates a large canvas of all completed puzzles, and where everyone shares one puzzle until someone completes it and submits their proof of completion to the smart contract",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "davatar.io - web3 gravatar",
+    "slug": "davatar-io-web3-gravatar-ch22o",
+    "description": "Davatar.io is gravatar for web3. https://davatar.io/api/[wallet address or ENS] returns their avatar or a placeholder image",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "i90pd"
+    ]
+  },
+  {
+    "name": "The Wellgorithm",
+    "slug": "the-wellgorithm-crn4z",
+    "description": "Own, Customize, Share, Save or Mint Your Social Media Algorithm",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vxwti",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "OTC Swap",
+    "slug": "otc-swap-n3vhk",
+    "description": "OTC Swap is a trust-minimized NFT OTC protocol. We support a less dependendent NFT P2P transaction. You don’t need expose your name or sns account any more. The only one thing you need is your web3 address. More privacy, more simple",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "nbyyv",
+      "e8ob5"
+    ]
+  },
+  {
+    "name": "Subfluid",
+    "slug": "subfluid-4w6bi",
+    "description": "A Superfluid-powered subscription streaming follow module for Lens",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vxwti",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "HE(ART)",
+    "slug": "he-art-cs85k",
+    "description": "HE(ART) is a gamified DAO governed collective to enable artists and users to take part in the creation and funding of public social good projects.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "t5on2",
+      "10a1v",
+      "f7o0p",
+      "fbyii",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Learn3",
+    "slug": "learn3-ikocu",
+    "description": "Learn3 is the next generation Web3 education NFT protocol that makes each online course an NFT collection. To enroll in the courses on the platform,  students need to mint an NFT. The course ownership can be resold, refunded in a timespan, shown as profile picture on ENS, etc.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PerformanceFlow",
+    "slug": "performanceflow-k1umi",
+    "description": "Payment streams for service providers that are dependent on them meeting performance requirements",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "W3B Glass Tiles",
+    "slug": "w3b-glass-tiles-s5fha",
+    "description": "W3B Glass Tiles is a browser based user interface for playing in the Web3 space.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "MakersPool",
+    "slug": "makerspool-6nco9",
+    "description": "MakersPool is bringing funding to makers everywhere. Join and create crowdsourced pools to make video requests. Receive access to all submissions and vote to determine which creator gets paid the pool amount.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tribe Discovery Service",
+    "slug": "tribe-discovery-service-ww4w9",
+    "description": "A tool for NFT collectors to find cross-project micro-tribes based on their NFT holdings.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "ikmn9"
+    ]
+  },
+  {
+    "name": "BlockFuse",
+    "slug": "blockfuse-skmz2",
+    "description": "Web3 Native Smart Recruitment Platform with Skill-Based Identities",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vxwti",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Pangea",
+    "slug": "pangea-8kw20",
+    "description": "first hackathon + shipped dao and dap + built with thirdweb.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHdos",
+    "slug": "ethdos-yyj28",
+    "description": "Presenting ETHdos numbers: measuring degrees of separation of people (akin to Bacon/Erdos numbers) while hiding individual friendships entirely. This is the first of its kind social experiment using the composability of recursive zk snarks.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "46q4i",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "svarknet",
+    "slug": "svarknet-8jx7n",
+    "description": "We've built a starter app for Starknet, using Svelte and ArgentX.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kronos",
+    "slug": "kronos-hape1",
+    "description": "___________________________________________________________________________",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fractal",
+    "slug": "fractal-g3wt1",
+    "description": "Fractal is a decentralized broadcasting service that allows users to contact holders of their NFTs!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Safenode",
+    "slug": "safenode-shtqy",
+    "description": "Smart anti-fraud/phishing ETH JSON-RPC firewall with visualized transaction simulation",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 8,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8",
+      "vr4u8",
+      "fn4k5",
+      "f7o0p",
+      "3zpxc",
+      "e8ob5",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Pozitions",
+    "slug": "pozitions-c53qd",
+    "description": "Pozition allows users to visually represent their perps futures positions as transferable NFTs",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Echooo Messaging Protocol",
+    "slug": "echooo-messaging-protocol-h7oms",
+    "description": "A secure and private messaging protocol for web3. Echooo helps users protect messages history and communicate anonymously.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PoolPartyNFT",
+    "slug": "poolpartynft-869mu",
+    "description": "Pool Party NFT enables liquidity (USDC loans) for Metaverse Land NFTs at a set interest rate through price prediction and risk assessment. The lands deposited are redistributed to rental protocols and event organizers to increase yield for land holders.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "i90pd",
+      "ikmn9"
+    ]
+  },
+  {
+    "name": "Space Steaks",
+    "slug": "space-steaks-w26tg",
+    "description": "Space Steak is a PvP conquest game. We tried to replicate the \"simple mechanics complex strategies\" features of Chess or Go. The main action is staking on planets & winners earn the stakes.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Etherscan To Sourcify",
+    "slug": "etherscan-to-sourcify-94hds",
+    "description": "Verify smart contracts on Sourcify using source files on Etherscan.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tsukiji",
+    "slug": "tsukiji-0y4x8",
+    "description": "Tsukiji is built on the Seaport Protocol. We are building the next-generation NFT marketplace. Create orders and asks. We aggregate and matchers are incentivized to match orders.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Apartment Referrals",
+    "slug": "apartment-referrals-a9rko",
+    "description": "Apartment Referrals is a platform that makes the renting process a little easier while protecting the user's privacy and the transparency of the apartment process.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8",
+      "i90pd",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "EthCal",
+    "slug": "ethcal-sifys",
+    "description": "Share calendars for events (like a hackathon) using ETH wallets instead of emails",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Innovation Accelerator Competition Protocol",
+    "slug": "innovation-accelerator-competition-protocol-oj659",
+    "description": "Skeleton design for a resource allocation mechanism to accelerate innovation",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Open Navi",
+    "slug": "open-navi-zxn34",
+    "description": "Open Navi is a protocol that enables any community (e.g. organization, DAO, protocol) to launch composable PFP NFT collections.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Na'vi Skills",
+    "slug": "na-vi-skills-isahm",
+    "description": "Na’vi Skills enables anyone to create a modularized non-transferable NFT (”Na’vi”) that visually represents their defining skills and achievements. As you grow over time, your Na’vi grows with you.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Burn My Wallet",
+    "slug": "burn-my-wallet-xqf4j",
+    "description": "Burn My Wallet reports your hacked wallet as burnt 🔥 by minting a soul bound (non transferrable) 🪙 token. Easily integrate your dApp with a dead simple API and check for burnt wallets on your favorite projects like XMTP.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "nbyyv",
+      "46q4i",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Cell",
+    "slug": "cell-wavzk",
+    "description": "Next generation of Social E-commerce for Web3   shop it, show it or web3 it",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DoCharacter",
+    "slug": "docharacter-oa44j",
+    "description": "NFT-character generator based on protocol for bundling NFTs",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "NFTicket",
+    "slug": "nfticket-qwwba",
+    "description": "NFT Ticket and then the user get's airdropped an NFT Lock with a highlight from the game",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "AirBlock",
+    "slug": "airblock-17jt8",
+    "description": "A decentralized marketplace for vacation rentals that bring together vacation renters and property owners",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockhead: ETHNewYork 2022",
+    "slug": "blockhead-ethnewyork-2022-4ffak",
+    "description": "Blockhead is a super-interface for blockchains, DeFi, and web3 protocols. Users can swap out the data sources powering the views and dashboards, offering a frontend experience that is decentralized, redundant, customizable, transparent, and accessible.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8",
+      "oa4ef",
+      "i90pd",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Blacklines",
+    "slug": "blacklines-vyrxu",
+    "description": "Blacklines is a community-generated NFT platform., creating a unique piece of art over time. The idea behind Blacklines is to allow anyone to participate in creating community-generated NFTs.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Non-Fungible Copyright Token",
+    "slug": "non-fungible-copyright-token-pv1sn",
+    "description": "Non-fungible token for copyright that the owner is able to control the distribution of copies and liscensing to others.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SSSS Wallet on Tatum",
+    "slug": "ssss-wallet-on-tatum-3pixc",
+    "description": "A Tatum Powered Wallet secured and distributed with Shamir's Secret Sharing",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fbyii"
+    ]
+  },
+  {
+    "name": "GETSecured",
+    "slug": "getsecured-asf8p",
+    "description": "The holy-grail of security for on-chain/every chain. We implemented a secured blockchain network to protect the smart contract codes at every stage of development and deployment",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "OpenShop",
+    "slug": "openshop-wa94r",
+    "description": "A plugin using REDEEM PROTOCOL that turns Opensea into Shopify.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dyve",
+    "slug": "dyve-rdhug",
+    "description": "Dyve unlocks NFT shorting opportunities with a decentralized & trustless lending and borrowing platform. Hodlers receive premiums to list NFTs,  borrowers pay for the ability to sell those NFTs promising to either return ANY NFT from the collection or forfeit posted collateral.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qy8m3",
+      "ikmn9"
+    ]
+  },
+  {
+    "name": "Promisingpreneur",
+    "slug": "promisingpreneur-kwp1j",
+    "description": "SUPPORTING THE NEXT GENERATION OF CREATIVES IN LEARNING, EARNING, AND LEVERAGING WITH NFT MEMBERSHIPS",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "RegenScore",
+    "slug": "regenscore-vc9xm",
+    "description": "Calculate and show off your on-chain regen activities with your personal RegenScore NFT!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Frens: mobile app to keep your connections",
+    "slug": "frens-mobile-app-to-keep-your-connections-x24r2",
+    "description": "Exchange humanity proved business cards and claim the Frens Token for proving your connection between your friends only when you meet them up in person.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "TruthMachine",
+    "slug": "truthmachine-jqm4c",
+    "description": "Truth Machine - Party Of Decided Voters Determine Truthfulness/Legitimacy Of Proposals Submitted",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Split/3",
+    "slug": "split-3-k97j9",
+    "description": "Web3 version of Splitwise: Friend-to-friend debt reconciliation and implicit lending app",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "xefox",
+      "xefox"
+    ]
+  },
+  {
+    "name": "Ethernifty",
+    "slug": "ethernifty-8jc21",
+    "description": "Ethernifty platform that allows custom creation and minting for a custom non tradeable token (SBT)  with a mission guide that can include optional ERC-20 tokens and custom oracle contract integrations.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8",
+      "oa4ef",
+      "t5on2",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Quadratic Voting with World ID",
+    "slug": "quadratic-voting-with-world-id-gup2s",
+    "description": "Chain agnostic onchain quadratic voting, enforced by zero knowledge proofs",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SubKey",
+    "slug": "subkey-4vxfk",
+    "description": "SubKey is a key management layer which allows granting specific permissions to any smart contract. No more private keys sharing! If you need to provide access to your assets to someone - share a SubKey.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2gzxu"
+    ]
+  },
+  {
+    "name": "Dropz",
+    "slug": "dropz-2gw8a",
+    "description": "Dropz is an airdrop eligibility standard and onboarding platform for web3 users. Dropz eliminates Sybil Attacks on airdrops (airdrop farmers) with proof-of-personhood verification through Worldcoin and calculates a web3 engagement score for end users.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "xefox",
+      "xefox",
+      "pfyco",
+      "2zqzn",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "NFTLive",
+    "slug": "nftlive-135nx",
+    "description": "LiveNFT - a live streaming social commerce app for NFTs. Users can live stream their NFT collections and get bids all in one app.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "lensurance",
+    "slug": "lensurance-kyphr",
+    "description": "collect module for lens protocol which only allows a single collect per person.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Period dApp",
+    "slug": "period-dapp-smcje",
+    "description": "period dapp strives to empower menstruating people with ownership and choice over how their menstrual data is shared and stored.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "oa4ef",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Live.Fluid",
+    "slug": "live-fluid-af2x3",
+    "description": "Live.fluid is the financial OS for DeFi-native users and communities. We start with simplifying and alignment incentives for smooth and punctual home rental payments.   We run a global hacker house movement (HomeDAO) & Live.fluid modules would help us scale.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "si7bt",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Apollo",
+    "slug": "apollo-t6sq7",
+    "description": "Preserving and resurfacing your old ideas in order to reverse memetics and preserve identity in a world where we all need to be reminded not to conform",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "oa4ef"
+    ]
+  },
+  {
+    "name": "Pearl",
+    "slug": "pearl-fpatq",
+    "description": "Keeping up to date with announcements from NFT communities is overwhelming. Through Pearl's mobile app, users can personalize their announcement experience and community managers can use Pearl to send secure messages via our wallet-to-wallet messaging protocol.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qy8m3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "QuestNFT",
+    "slug": "questnft-suay3",
+    "description": "Smart contract implementation for quest-based games. Players get NFT accounts that they can use to complete quests and earn XP.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Public Goods Grid",
+    "slug": "public-goods-grid-tgog2",
+    "description": "Like r/place and www.milliondollarhomepage.com, but with a public goods twist.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Devote",
+    "slug": "devote-q2cr3",
+    "description": "A solution for governance, using cutting edge technology with ZKP verification and decentralized storage",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "2zqzn",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Ahoy.ooo | Live Screening of Pal-bot 2",
+    "slug": "ahoy-ooo-live-screening-of-pal-bot-2-0gun6",
+    "description": "The goal was to live premiere a short indie film “Pal-bot 2” - for a certain duration - using a completely decentralized video stream.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "COMMADS",
+    "slug": "commads-jkxka",
+    "description": "COMMADS allows NFT projects to reward their community for creating viral content.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Staking Course Design",
+    "slug": "staking-course-design-yv8i8",
+    "description": "Online free education is a very powerful tool but how many people use it?",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Worktree",
+    "slug": "worktree-93qo4",
+    "description": "Worktree is a tool for creating zero-knowledge airdrops for Github contributors.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "si7bt"
+    ]
+  },
+  {
+    "name": "DeCanvas",
+    "slug": "decanvas-jfdvk",
+    "description": "A decentralised pixel grid canvas, where anyone can change the colour of a pixel on chain.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "vitalik onchian",
+    "slug": "vitalik-onchian-w9bg2",
+    "description": "Vitalik Onchain, degen's favourite way to discover Vitalik.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "oa4ef"
+    ]
+  },
+  {
+    "name": "Mirano Pay",
+    "slug": "mirano-pay-w0bpz",
+    "description": "Multi-chain trusted payment ecosystem for LATAM ---------------",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "2ixf3",
+      "rmkrz",
+      "oa4ef",
+      "xefox",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "DecenGame",
+    "slug": "decengame-dud1g",
+    "description": "DecenGame is a Monopoly game in Discord of tokenized real estate",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "many safes",
+    "slug": "many-safes-2otg1",
+    "description": "deploy the Gnosis Safe (v1.3) contracts on many networks for free",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "2inch",
+    "slug": "2inch-wxtu0",
+    "description": "Leverage the power of the multi-chain world to get the best possible price on your token swaps using 2inch - the first cross-chain DEX aggregator powered by the #1 DEX aggregator you already know and love.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "NFTickets",
+    "slug": "nfticket-7yyip",
+    "description": "We built an NFT ticketing system that solves for double-spending, coordination problems, and identification. We are launched on multiple chains, use ZK Proofs for safety, and bring on-chain governance to event organization to streamline the process for attendees and organizers.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CHEDDA'",
+    "slug": "chedda-jihud",
+    "description": "A win-win finance solution for both lenders and financiers. Build credit by paying back crypto micro loans on time, get access to bigger and better loan terms. As an investor, get full transparency into who and what you are funding and get social credit for funding more.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETH Profile",
+    "slug": "eth-profile-jbrcf",
+    "description": "Eth Profile It's an application that allows consolidating public and verified information about the professional and personal profile of a user.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Learning_About_Subgraphs",
+    "slug": "learning-about-subgraphs-4kcem",
+    "description": "Walked through a tutorial of a subgraph and made a subgraph myself that deployed on subgraph / the graph studio",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthBoy - EPNS Push Notifications for OpenSea",
+    "slug": "ethboy-epns-push-notifications-for-opensea-y67wa",
+    "description": "Customize your own decentralized EPNS push notifications for NFTs on OpenSea.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nomad Hacker Club",
+    "slug": "nomad-hacker-club-b7auj",
+    "description": "Nomad Hacker Club is an NFT membership community for conference goers, hackers, brave new web 3 explorers who want to meet friends and access exclusive perks while traveling. Find your true north with your tribe!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Guidl",
+    "slug": "guidl-qq1jy",
+    "description": "Guildl is a guild management platform for sharing player accounts and assets across the Web3 gaming ecosystem.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "26gjy",
+      "2gzxu",
+      "3zpxc",
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "MinAuction",
+    "slug": "minauction-vkit5",
+    "description": "An anonymous auction site to perform fair price discovery. Bidders may create offers without revealing their identity and provide a proof of payability. The top bidder can message seller and the seller may accept a bid before time elapses. Only the final winner may be public.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Sentinel Staking",
+    "slug": "sentinel-staking-wcjp4",
+    "description": "This is  contract that pools investor capital together to become a superfluid PIC. That role generates a revenue and after a time period it returns deposits with profit",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "BrentNFT",
+    "slug": "brentnft-rnv0y",
+    "description": "Currently there is no way to lend / loan an NFT and ensure that you'll get it back (without collateral). What we've created is an escrow dApp that lets the borrower sign transactions and interact with the blockchain, and the lender can retrieve their NFT as they please.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "2gzxu"
+    ]
+  },
+  {
+    "name": "LiquiFlow",
+    "slug": "liquiflow-sunj8",
+    "description": "Real time DCA'ing into leveraged positions using SuperFluid, Uniswap and aave. DCA by constantly streaming USDC into a contract and periodically receive tokens representing your leveraged positions, which can be burnt and used to sell the leveraged position.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Lilac",
+    "slug": "lilac-waeur",
+    "description": "Lilac is a new paradigm for improving the governance process. It helps DAOs bootstrap data-backed governance mining by empowering and incentivizing long-term, meaningful contributors with rewards according to their on-chain reputation.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "493ck",
+      "46q4i",
+      "oa4ef",
+      "pfyco",
+      "3zpxc",
+      "zjspv"
+    ]
+  },
+  {
+    "name": "Flourish - Connecting Lens frens Instantly",
+    "slug": "flourish-connecting-lens-frens-instantly-zoth4",
+    "description": "Flourish is a @LensProtocol interface that helps people meeting IRL exchange their Lens profiles effortlessly. Check it out: https://flourish-git-zac-mainnet-lfg-zdenham1.vercel.app/",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "Latte",
+    "slug": "latte-rkp39",
+    "description": "Interface to save videos for hippo wearable on a decentralized permissionless platform",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ensureth",
+    "slug": "ensureth-pf6qt",
+    "description": "Insurance company with liquidity pool which provides money to users that file a claim for a damaged item and/or more.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Presto",
+    "slug": "presto-afdab",
+    "description": "Presto is a peer-to-pool NFT lending protocol with asset appraisal and down payment. It aims to provide rare NFT evaluations so that rare assets can be better utilized as collateral. Down payment allows users the ability to lock in an NFT when only fewer funds are available.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ikmn9"
+    ]
+  },
+  {
+    "name": "Skube",
+    "slug": "skube-giy1b",
+    "description": "Skube is building a place for anyone to create an on-chain professional profile.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Leavs",
+    "slug": "leavs-y5zkw",
+    "description": "P2P lending platform making lending money more accessible and efficient",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Alketh / Alchethmy",
+    "slug": "alketh-alchethmy-i0jt5",
+    "description": "Alketh / Alchethmy is a Play to Earn NFTCG. Play, Collect and Trade.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "mnb9g",
+      "rmkrz",
+      "26gjy",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "zkCommonGround by Hashchat",
+    "slug": "zkcommonground-by-hashchat-cntfq",
+    "description": "zkCommonGround solves the first-offer dilemma by allowing buyers and sellers to match without disclosing prices",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wear 2 Earn",
+    "slug": "wear-2-earn-4p3dq",
+    "description": "Wear to earn: our t-shirts empower you to earn money by wearing them. In turn, they enable projects to get viral exposure and reward their most valuable ambassadors.!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "ZK KYC SBT",
+    "slug": "zk-kyc-sbt-ozwb2",
+    "description": "zero-knowledge know-your-customer and personhood proof soulbound token",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "46q4i",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "MEV and me: Trustscores for market places",
+    "slug": "mev-and-me-trustscores-for-market-places-x3706",
+    "description": "Basic Idea: Using zkProofs to have a private trust score for merchants on market places. Pivoted into modules built on top of NFT auctions for attack (sniping bot) and defense (commit reveal).",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "ikmn9",
+      "pfyco",
+      "e8ob5"
+    ]
+  },
+  {
+    "name": "MetaMelange",
+    "slug": "metamelange-7meh4",
+    "description": "Use ML to blend any two ERC-721 tokens together to mint a new expressive NFT, a melange, that is a unique reflection of your individualism.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "ygz83",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "matic-bike",
+    "slug": "matic-bike-z9izi",
+    "description": "matic-bike, bike renting dApp, NY need this application, I need this app, you need this app!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mad Finance Impressions",
+    "slug": "mad-finance-impressions-ika0b",
+    "description": "Private impressions data for monetizing sponsored web3 social content",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Granted",
+    "slug": "granted-vtxne",
+    "description": "Granted is a milestone-based granting solution providing visibility, bidirectional communication & accountability for grantors & grantees- to help all of us builders get further, faster.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qy8m3",
+      "10a1v",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "BetterWorld",
+    "slug": "betterworld-52fwh",
+    "description": "BetterWorld brings the charitable giving experience to a new generation of philanthropists with an immersive NFT platform powered by live performances",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "mnb9g",
+      "kpdra",
+      "rmkrz",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "supersig",
+    "slug": "supersig-kufvo",
+    "description": "Supersig: a Privacy-Preserving Multisig made with Apeworx, Privy, ENS and IPFS",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "ijybm",
+      "mj2m9"
+    ]
+  },
+  {
+    "name": "Super Safe Transfer",
+    "slug": "super-safe-transfer-9cqhv",
+    "description": "Safe Transfer is a tool that makes blockchain money transfers really safe! No more lost funds because of address misstape or un-deployed multisig!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "2gzxu"
+    ]
+  },
+  {
+    "name": "x-chain Arena",
+    "slug": "x-chain-arena-busmu",
+    "description": "x-Chain Arena is a medieval 32 bit, gladiator themed NFT game deployed on Cronos and Polygon testnets!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Steam Tokenizer",
+    "slug": "steam-tokenizer-knvbp",
+    "description": "Steam Tokenizer is a tool that bridges Steam digital assets by creating a Non-Fungible Token (NFT) backed by the corresponding asset stored in an escrow. The tool allows tokenizing any tradable asset, including trading cards, profile wallpapers, Dota 2 heroes, and CS:GO skins.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "e8ob5",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "BLNDR",
+    "slug": "blndr-ghnjz",
+    "description": "BLNDR is a decentralized application (dApp) on the Ethereum Network that brings modern dating apps to the world of web3.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SafeConnect",
+    "slug": "safeconnect-giy5k",
+    "description": "A security tool embedded within WalletConnect to warn users of potentially harmful websites.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "46q4i"
+    ]
+  },
+  {
+    "name": "ViewBasedRoyaltyNFT",
+    "slug": "viewbasedroyaltynft-bf6ww",
+    "description": "NFT owners and content creators today must give up ownership of their NFTs to be compensated for their work. This project aims to allow creators to receive royalties when others want to view their content.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "prospect",
+    "slug": "prospect-m5vat",
+    "description": "Support your favorite creators by streaming a constant subscription fee and get rewarded with loyalty tokens that can be staked to earn you a share of the creators revenue or used to buy exclusive NFTs or products. The earlier you discover and support, the better.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Worldfund",
+    "slug": "worldfund-x33bf",
+    "description": "Create free fundraiser pages powered by smart contracts, with assets and resources managed on IPFS.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "i90pd",
+      "f7o0p",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Gard3n",
+    "slug": "gard3n-fez2q",
+    "description": "A public good, social platform built on a lens, that creates a new way for creators and their fans to blossom together using social tokens. Simple tokenomics with easy to use templates, user friendly UI experience and multimedia creation all in one place.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qy8m3",
+      "vr4u8",
+      "vxwti",
+      "10a1v",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "DorkNet",
+    "slug": "dorknet-58vur",
+    "description": "Making scientific publishing fair by removing fee extracting publishing companies and creating a better social incentive network for authors, readers and peer reviewers!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "ijybm",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FreedomBridge",
+    "slug": "freedombridge-fcab4",
+    "description": "A cross-chain native bridge for cross-chain native assets without slippage.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "POAP Book Club",
+    "slug": "poap-book-club-tc3ea",
+    "description": "A Book Club that incentivizes Reading by utilizing POAP, creating new opportunities to discover new artists and authors, and making learning fun while disincentizing secondary sales.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Fund H3r",
+    "slug": "fund-h3r-5ygnz",
+    "description": "One-stop shop to donate crypto to organizations supporting women's reproductive rights.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "x59d1",
+      "2gzxu",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Cross-margin Engine for derivatives",
+    "slug": "cross-margin-engine-for-derivatives-zgy04",
+    "description": "Decentralized derivatives exchange with Cross-Margining for different derivative products",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "o8huu"
+    ]
+  },
+  {
+    "name": "gmfren",
+    "slug": "gmfren-nn3ra",
+    "description": "Gmfren is your personal NFT portfolio tracker. Receive daily messages from gmfren as well as real-time updates whenever your listed tokens are sold or you receive a new offer.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ftGatedRepo",
+    "slug": "ftgatedrepo-c087b",
+    "description": "(non-)fungible token gated github repo access​​​​​​​​​​​​​​​​​​​​​​​​",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yield.Share",
+    "slug": "yield-share-b9cef",
+    "description": "Support your creators by staking crypto allowing them to receive the interests and receive an NFT as a proof of support",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "2ixf3",
+      "rmkrz",
+      "vr4u8",
+      "xefox",
+      "xefox",
+      "fbyii",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "DAO-Gamify",
+    "slug": "dao-gamify-cbm6v",
+    "description": "Gamify DAO is a dApp to manage tasks for micro-participation and reward them using game mechanisms (XP and LVLs). Members can take tasks and submit proof of completion while admins can create tasks and verify completion.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Beerghain",
+    "slug": "beerghain-hyhby",
+    "description": "Beerghain is a platform that allows for web2 companies to support subscriptions paid out through Superfluid's continuous settlement tech. We also provide these web2 companies with security against continuous settlement defaults by providing an on-chain insurance protocol.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "sDao: Sorition-based DAO",
+    "slug": "sdao-sorition-based-dao-gjcbr",
+    "description": "Our project is a contract that optionally enables any DAO proposal to use sortition for voting. Sortition is the practice of randomly selecting a small group of eligible, unique voters from the wider population (e.g. 10%) to make decisions for the whole group (like a jury panel).",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "493ck",
+      "rmkrz",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Medichain",
+    "slug": "medichain-iesmk",
+    "description": "Empowering individual health record ownership with web3 and decentralization",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Podcha",
+    "slug": "podcha-xptrv",
+    "description": "Podcha hosts your podcast content and allows you to support your favorite creators on the decentralized internet, without any controlling platform in the middle. No more getting banned and losing access to all your followers or content at the whims of large platform companies.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "XrossLend",
+    "slug": "xrosslend-ywawa",
+    "description": "XrossLend makes possible to rent an NFT and enjoy exclusive perks",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8",
+      "oa4ef",
+      "xefox",
+      "t5on2",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Reverb",
+    "slug": "reverb-x2kgs",
+    "description": "Reverb is your all-in-one music platform and marketplace ecosystem on-chain, built for small and rising indie artists. Reverb was built to incentivize creativity and bridge the artist and listener relationship.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vxwti",
+      "mdb6w",
+      "x59d1",
+      "fbyii",
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "InPrint",
+    "slug": "inprint-qis0j",
+    "description": "Inprint is a social media platform where you own your own data.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Crypto Bodyguard",
+    "slug": "crypto-bodyguard-s0bu0",
+    "description": "A Dapp where you can hire bodyguard and pay them with Crypto",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "rmkrz",
+      "vr4u8",
+      "i90pd",
+      "xefox"
+    ]
+  },
+  {
+    "name": "datmissingsock",
+    "slug": "datmissingsock-f7bqp",
+    "description": "did you ever lose a sock in the wash machine? own a DMS (datmissingsock) NFT to get a lifetime of sock supply if you ever lose one!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Allo",
+    "slug": "allo-gvf6a",
+    "description": "Allo makes it simple for Web3 companies or DAOs to stream and automate token vesting for their employees, investors, advisors, partners, or community members.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Contx",
+    "slug": "contx-6d4ac",
+    "description": "This is a new type of CV for the web3 version, called Work CRDL. You will no longer have to struggle with writing a CV or selling yourself. Everyone will be able to take their trust-free CV with them wherever they go, simply by working as usual.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Fusion Credit",
+    "slug": "fusion-credit-9c6um",
+    "description": "Fusion Credit creates FusionScore that represents a universal reputation score with privacy in mind for the #DeFi markets of the future.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "9z8z1",
+      "t5on2",
+      "f7o0p",
+      "zjspv"
+    ]
+  },
+  {
+    "name": "Splytto",
+    "slug": "splytto-r56y1",
+    "description": "Splytto - a crypto expense splitting Dapp for friends and teams to split their share and settle it amongst themselves.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8",
+      "bw7y9",
+      "10a1v",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "VISITE",
+    "slug": "visite-ez53b",
+    "description": "VISITE enables safe, secure and private payment for group travel. It provides an abstraction layer between web3 travellers and Booking.com.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "W3B_W@Y (webway)",
+    "slug": "w3b-w-y-webway-jvicf",
+    "description": "Promises of a real distributed metaverse fall flat - we already have the tools: blockchain object ID routing and IPFS file sourcing. Grassroots metaverse bends sociality into non-Euclidian heights.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "pfyco",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "N3WY0xRK",
+    "slug": "n3wy0xrk-cr27y",
+    "description": "Token and NFT generator with the additional possibility of joining a DAO and DeFi protocols.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gato",
+    "slug": "gato-co4y8",
+    "description": "Framework for authorization of wallets into member-only area using on-chain data",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Fair Referral Network",
+    "slug": "fair-referral-network-cz9m0",
+    "description": "Sybil attack proof referral network using Worldcoin Zero Knowledge proof-of-personhood",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ETHGlobal DAO",
+    "slug": "ethglobal-dao-uymmv",
+    "description": "ETHGlobalDAO brings the community of in-person ETH Global hackathons to the blockchain with dynamic NFTs and engaging DAO proposals.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CovFolio",
+    "slug": "covfolio-7wn33",
+    "description": "Defi dashboard to check portfolio balances and prices ranked from highest value token",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bluechip Invest",
+    "slug": "bluechip-invest-6qdzy",
+    "description": "NFT Liquidity Provider, NFT Flip Tool, Collective Investment",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fbyii"
+    ]
+  },
+  {
+    "name": "IL (Interactive Live) Art",
+    "slug": "il-interactive-live-art-z6zu9",
+    "description": "Interactive Live Art Performance Concept, Participants Generate NFTs!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "kpdra",
+      "i90pd",
+      "t5on2"
+    ]
+  },
+  {
+    "name": "BleepJar",
+    "slug": "bleepjar-u0eh0",
+    "description": "Community based consensus for negative reinforcement or I fucked up.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ethnyc-muusic-hack",
+    "slug": "ethnyc-muusic-hack-bd29u",
+    "description": "A curated NFT marketplace exclusive to subscribers w/ Superfluid, Optimism, WalletConnect, and IPFS",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1",
+      "e8ob5"
+    ]
+  },
+  {
+    "name": "RGO Social Impact",
+    "slug": "rgo-social-impact-vr78b",
+    "description": "Insurance that is Healing Lives & Helping Survivors of Gun Violence",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "World Promotional Platform",
+    "slug": "world-promotional-platform-pfrsm",
+    "description": "Decentralized promotional platform built using World Coin for proof of personhood",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ōzen Web 3.0 Music Player",
+    "slug": "ozen-web-3-0-music-player-cpw4i",
+    "description": "We built a Web3 Spotify-disruptor where artists get paid directly in real time with no third-party intermediaries, all on the blockchain",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t5on2",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "DAODash",
+    "slug": "daodash-v5uhw",
+    "description": "DAODash is a gamified social experience for web3 contributors.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Etheree",
+    "slug": "etheree-6tx6i",
+    "description": "A platform that can help people in need by paying the minimum earnings in the Ethereum ecosystem.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "KEEP Finance",
+    "slug": "keep-finance-eqci6",
+    "description": "Allowing lenders, traders and borrowers to tap into the under-utilised liquidity on lending pools will lead to increased capital efficiency as they act to perform higher leveraged margin trading.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Phorms",
+    "slug": "phorms-0g359",
+    "description": "phorms.xyz is forms 3.0. This of us like the TypeForm for web3. Admins own their form collections and users own their answers",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Identi3",
+    "slug": "identi3-gzs3n",
+    "description": "Identi3 is a safe, versatile and convenient way to store your user web2 browsing data the web3 way;",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Eth.id",
+    "slug": "eth-id-heoay",
+    "description": "Is your .eth already taken?  Eth.id is your Web 3 profile page: https://chris.eth.id Get a powerful ENS domain that works on both Web and Eth.  No renewals.  Pay once, yours forever.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "The Soulcialites",
+    "slug": "the-soulcialites-zq07n",
+    "description": "Supergluing fragmentations across DAOs thru the Good Governance Protocol",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "493ck",
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Dribble DApp",
+    "slug": "dribble-dapp-7vyt6",
+    "description": "Dribble is a dApp that auto-streams assets out of inactive wallets and into beneficiary addresses.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Dexcellence",
+    "slug": "dexcellence-e7ya2",
+    "description": "Hassle-free and fair DeX - front-running resistant stable prices, private order book, and frictionless experience.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "ygz83",
+      "fbyii",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Trust Finance",
+    "slug": "trust-finance-z66g9",
+    "description": "Tools for DAO contributors and freelancers to optimize income and get access to benefits on-chain",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "DeCartography",
+    "slug": "decartography-u9prm",
+    "description": "A graph analysis framework for clustering and labeling wallets with similar behavior, which could be used to encourage pluralism in QV/QF.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Blobs.lol",
+    "slug": "blobs-lol-7gyaa",
+    "description": "Blob is a life style app based on NFT that encourages users to move more, eat healthier and live a better life",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Tokenized Award Badges",
+    "slug": "tokenized-award-badges-nk6b1",
+    "description": "Creating and issuing digital badges that represent an accomplishment and are linked to one or more digital assets.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nomad DAO",
+    "slug": "nomad-dao-8gesk",
+    "description": "NomadDAO is a decentralized platfoform bringing web3 community together. It makes co-living arrangement process easy, trustless and newcommers friendly.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "3zpxc",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "GiNFT",
+    "slug": "ginft-zbpww",
+    "description": "Gift an NFT to someone without directly revealing it. Recreating the same experience as with real gift unwrapping !",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Switch",
+    "slug": "switch-dkkpe",
+    "description": "Web3 twitch with pay per minute billing and instant replay clip NFT drops, using livepeer, superfluid, polygon",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "innerCircle",
+    "slug": "innercircle-a6uuj",
+    "description": "The professional network that pays users to get jobs, and find like-minded people to build the future of Web3 they dream of together.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "Boolena",
+    "slug": "boolena-5umvi",
+    "description": "Reward your fans for spreading your content! Decentralized AdSense lets you create advertisement campaigns where anyone can become your advertiser; rewarding each referred with a portion of the campaign funds dependent on how many people they referred to your content.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Rancho Del Vote",
+    "slug": "rancho-del-vote-b0g17",
+    "description": "Ranked choice delegated voting allows you to specify an ordered set of delegates, adjusting your votes down the list to an active delegate if your top choices misses a proposal.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MentorDAO",
+    "slug": "mentordao-u1cj7",
+    "description": "@_MentorDAO is where junior developers get to learn and earn/",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "oa4ef",
+      "xefox",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "ShipSeq",
+    "slug": "shipseq-azbtc",
+    "description": "Net-zero your package deliveries. (Currently works with Amazon packages delivered by Amazon.)",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sparta",
+    "slug": "sparta-aewjz",
+    "description": "Social fitness platform built on Lens protocol and forked from Lenster.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0 Card",
+    "slug": "0-card-3hm13",
+    "description": "Zero card allows you to link any wallet to a debit card, giving you an instant offramp for stablecoins.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "46q4i"
+    ]
+  },
+  {
+    "name": "GAMC",
+    "slug": "gamc-6kif1",
+    "description": "Gaming DEX with a summary dashboard of rewards, stakes, & more",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShopKeepr",
+    "slug": "shopkeepr-8dro7",
+    "description": "NFT primary sale through Seaport using lazy minting and partial fills",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "DebtFi",
+    "slug": "debtfi-w2dr6",
+    "description": "DebtFi is a decentralized bridge that connects individual investors with high-yield venture debt opportunities to finance top-performing startups in the emerging markets.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "PayPay",
+    "slug": "paypay-574ro",
+    "description": "Decentralized marketplace protocol for tradeable NFT lending.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "f8ku2",
+      "t5on2",
+      "10a1v",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Market3 & Walletscan: A Trusted Marketplace",
+    "slug": "market3-and-walletscan-a-trusted-marketplace-s9nsj",
+    "description": "Market3 is how we envision a safe, trusted, pseudonymous Marketplace. Market3 WalletScan is a suite of APIs that shows holistic trustworthiness of an address, and Market3 Magic Protocol is a smart contract that gives you control over which community you can sell to and buy from!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Artha",
+    "slug": "artha-q6pu5",
+    "description": "Functional metaverses w/importable data deployed on the blockchain",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Decentralize Events",
+    "slug": "decentralize-events-otwdx",
+    "description": "Decentralized event-platform for blockchain clubs to leverage education.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Meta Hack",
+    "slug": "meta-hack-bdiuv",
+    "description": "FFNFTs lending - Fungible Fractional NFTs lendiing, the best way to unlock the value of NFTs",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stargaze",
+    "slug": "stargaze-igmkq",
+    "description": "A simple, seamless way to support your favorite open-source projects. Built at the ETH NYC 2022 hackathon.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "MetaHackers",
+    "slug": "metahackers-qi3cc",
+    "description": "Manage your social contacts' key shards in MetaMask a MetaMask Snap!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "quantitativeeasing.eth | debtceiling.eth",
+    "slug": "quantitativeeasing-eth-debtceiling-eth-3b6ho",
+    "description": "A conceptual artwork diptych creating new token pairs (ETH/QE | BTC/USDEBT).",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scaffold-ETH Remix.Run",
+    "slug": "scaffold-eth-remix-run-6zf3z",
+    "description": "A scaffold-eth inspired Remix.Run React + Hardhat starter kit",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Car Sharing App using NFT",
+    "slug": "car-sharing-app-using-nft-asb1x",
+    "description": "My idea is to build a car sharing application using Decentralized ID (DiD) and temporary NFTs assigned to drivers when they book a vehicle",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Lotta Rolls",
+    "slug": "lotta-rolls-j3ip3",
+    "description": "Lottery Fractionalization by the man himself (Vitalik). Sell EV positive lottery tickets based on your NFTs.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "e8ob5"
+    ]
+  },
+  {
+    "name": "Automato",
+    "slug": "automato-q2v1t",
+    "description": "Automato enables customizable smart contract automation through an easy to use yaml file.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Krypt",
+    "slug": "krypt-0coga",
+    "description": "Because Crypto has an ever-increasing value, creating savings bonds for children or loved ones will be important. As well as helping you hodl during the hard times.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Keyko",
+    "slug": "keyko-nwqe1",
+    "description": "Decentralized private key management with a social recovery layer",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "ijybm",
+      "mj2m9",
+      "10a1v",
+      "3zpxc",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Cabal",
+    "slug": "cabal-jgj8g",
+    "description": "A standard for decentralized user authentication using smart-contracts and off-chain storage",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "xefox",
+      "xefox",
+      "3zpxc",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Utilities for Vyper",
+    "slug": "utilities-for-vyper-qfkg6",
+    "description": "Convenient on-chain state compression via secure hashes and compiler-verified proofs",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crowd Funded Cures",
+    "slug": "crowd-funded-cures-d6bwg",
+    "description": "DeSci crowdfunding platform to incentivise development of publicgood medicines without reliance on patents by using IP-NFTs & Pay-for-Success (PFS) contracts",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t5on2"
+    ]
+  },
+  {
+    "name": "LSD (Liquid Streaming Derivatives)",
+    "slug": "lsd-liquid-streaming-derivatives-6jip1",
+    "description": "LSD (Liquid Streaming Derivatives) is an open source protocol to create non-custodial liquidity markets for token vesting. Get liquidity for future tokens now. Why wait?",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "xefox",
+      "t5on2",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Earn while you learn",
+    "slug": "earn-while-you-learn-ngou0",
+    "description": "Stream tokens to promote learning effectiveness for students in emerging economies",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "NFT Safe Launch",
+    "slug": "nft-safe-launch-nckve",
+    "description": "Extend your ERC-721 smart contract with an on-chain roadmap and invite your minters to governance. No more empty promises and rugg pulls a win win for everyone!",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "xefox",
+      "fp1x1",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "E T H M G K",
+    "slug": "e-t-h-m-g-k-di6xu",
+    "description": "On-chain hierarchical royalties for open source software libraries",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "si7bt"
+    ]
+  },
+  {
+    "name": "rward",
+    "slug": "rward-wfpza",
+    "description": "The easiest way to add web3 token incentives to web2 projects",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fbyii"
+    ]
+  },
+  {
+    "name": "Harambitos",
+    "slug": "harambitos-of43j",
+    "description": "In this project we decided to make a bot that can help on board a user to get testnet eth to interact with Ethereum Networks.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "SHEETH, the wallet  condom",
+    "slug": "sheeth-the-wallet-condom-pvq8n",
+    "description": "A condom for your wallet. SHEETH automatically intercepts your transactions and creates burner wallets to interact with contracts on your behalf. This security layer helps keep your tokens in your main wallets safe from malicious code.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8",
+      "vr4u8",
+      "fn4k5",
+      "fbyii"
+    ]
+  },
+  {
+    "name": "a42",
+    "slug": "a42-517uo",
+    "description": "Unfortunately we decided not to attend the hackathon because some of our team members are not feeling very well.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Metafi",
+    "slug": "metafi-as01u",
+    "description": "A universal, multi-currency wallet that users can use across web2 and web3",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "L0YAL3",
+    "slug": "l0yal3-t4acu",
+    "description": "L0YAL3 is the Web3 protocol loyalty program infrastructure and platform.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "rmkrz",
+      "xefox",
+      "zjspv"
+    ]
+  },
+  {
+    "name": "On Chain Governance Protocol",
+    "slug": "on-chain-governance-protocol-2z349",
+    "description": "Token-based governance system for on-chain protocol upgrades",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "493ck",
+      "rmkrz",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Blockstories.xyz",
+    "slug": "blockstories-xyz-hzd23",
+    "description": "The footnote layer of the blockchain. Annotate a series of transactions to create a narrative story about what's happening on the blockchain",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vxwti",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "ConvexSwap",
+    "slug": "convexswap-bdfn3",
+    "description": "ConvexSwap allows large trades to be streamed over time to reduce slippage and price impact while also minimizing for gas.",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 8,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "2ixf3",
+      "493ck",
+      "rmkrz",
+      "f8ku2",
+      "f7o0p",
+      "x59d1",
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Pollymorph",
+    "slug": "pollymorph-kajph",
+    "description": "Pollymorph multiple NFTs together on chain, wrapping the original assets so you can unwrap them at anytime",
+    "event": "ETHNewYork 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fbyii"
+    ]
+  }
+]

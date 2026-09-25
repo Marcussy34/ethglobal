@@ -29,14 +29,20 @@ const OUT = `data/${slug}-details.json`;
   const todo = targets.filter(s => !done[s] || done[s]._fail || !done[s].projectDescription);
   console.log(`Targets: ${targets.length} (${ALL ? 'all' : 'winners only'}), to fetch: ${todo.length}, spacing ${SPACING_MS}ms`);
 
-  let ok = 0, fail = 0, n = 0;
+  let ok = 0, fail = 0, n = 0, streak = 0;
   for (const s of todo) {
     n++;
     const l = bySlug.get(s);
     const html = await fetchPage(`https://ethglobal.com/showcase/${s}`);
     if (!html) {
       done[s] = { slug: s, name: l.name, event: l.event, description: l.description, prizes: [], _fail: true };
-      fail++;
+      fail++; streak++;
+      // Five failures in a row means the network is down, not the pages. Save and stop; re-run to resume.
+      if (streak >= 5) {
+        fs.writeFileSync(OUT, JSON.stringify(Object.values(done), null, 2));
+        console.error(`FATAL ${streak} consecutive fetch failures at [${n}/${todo.length}]; stopping (resumable)`);
+        process.exit(1);
+      }
     } else {
       const d = parseDetailPage(html);
       done[s] = {
@@ -44,7 +50,7 @@ const OUT = `data/${slug}-details.json`;
         projectDescription: d.projectDescription, howItsMade: d.howItsMade, prizes: d.prizes,
         githubUrl: d.githubUrl, demoUrl: d.demoUrl, teamMembers: d.teamMembers,
       };
-      ok++;
+      ok++; streak = 0;
     }
     if (n % 10 === 0) {
       fs.writeFileSync(OUT, JSON.stringify(Object.values(done), null, 2));

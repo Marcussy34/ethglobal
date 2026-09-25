@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "Crypto Portfolio Defi Token",
+    "slug": "crypto-portfolio-defi-token-a41oy",
+    "description": "Using the Aave platform to list our token and enable portfolio positions to be updated, Chainlink oracles to stream live data into the portfolio app,  our token will allow users to own an index fund of the top 5 crypto tokens according to Coin Market Cap.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Levered.finance",
+    "slug": "levered-finance-4wq2k",
+    "description": "Decentralized margin trading protocol for opening long and short positions on any tokens listed on Aave with up to 5x leverage",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SIGH Finance",
+    "slug": "rahul-mittal-b7vcq",
+    "description": "SIGH Finance consists of an on-chain lending protocol designed to farm 'Volatility-Risk' of the supported instruments and an off-chain network intelligence infrastructure to study, develop and optimize crypto-econometric models supported by Digital Curation Markets (DCM).",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiPing",
+    "slug": "defiping-3e8kr",
+    "description": "Alert system for trades made by pool managers on DHedge",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Governor Alpha Vote Splitter",
+    "slug": "governor-alpha-vote-splitter-h0x2d",
+    "description": "Vote Splitter lets users 'rent out' their votes for Governor Alpha (Compound-style) governances.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SimpleDeFi",
+    "slug": "simpledefi-ands2",
+    "description": "A simple project to make deposits on the best available offer in DeFi",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Claimable",
+    "slug": "claimable-5iph6",
+    "description": "Airdrops are great, but did you miss any? How about POAPs? Now you'll know. Has been used to claim over $50,000USD already.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "coinfu.io",
+    "slug": "coinfu-io-wyrb3",
+    "description": "Workflow automation for cryptocurrency investors",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Immortal Hearing Aid",
+    "slug": "immortal-hearing-aid-yfzo3",
+    "description": "Allow people with hearing loss really owned their audiogram",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Credit3",
+    "slug": "credit3-4ndyw",
+    "description": "Unsecured lending vaults using Bloom, Molecule, and Aave",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AAVE-Leverage",
+    "slug": "aave-leverage-kah35",
+    "description": "You can leverage on your aave position by utilizing FlashLoan and 1Inch Swap",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aave V2 User Retention Dashboard",
+    "slug": "aave-v2-user-retention-dashboard-4vxns",
+    "description": "Aave V2 User Retention Dashboard and Funnel Analysis",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS Analytics",
+    "slug": "ens-analytics-2t1kn",
+    "description": "Anaytics Dashboard to Track ENS Domain  lifecycle",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZEUS",
+    "slug": "zeus-sz1ej",
+    "description": "sports prediction market + flash loan credit delegation",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CAT",
+    "slug": "matic-cross-chain-arbitrage-opportunity-graph-tm4pg",
+    "description": "CAT allows you to observe the historical price margins of ERC20 tokens between Ethereum Mainnet and Matic chain (and QuickSwap). This is going to be the port of similar project I did for Mainnet-xDAI at https://github.com/makoto/xdai-arb-graph a",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deer FlashLoan Protocol",
+    "slug": "deer-flashloan-protocol-89yv9",
+    "description": "A decentralized flash loan marketplace that enables flash loan for any token",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Revert",
+    "slug": "revert-bw8w7",
+    "description": "Actionable analytics for DeFi liquidity providers",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Islamic Aave",
+    "slug": "islamic-aave-4kjh1",
+    "description": "This is an attempt to implement a Shariah-compliant version of the Aave protocol that could be used through The Islamic Endowment and the Islamic loan Hassan.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aDebt",
+    "slug": "adebt-7vgo5",
+    "description": "A marketplace for loans from aave credit delegation  where aave holders can vote on lending proposals",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Leverager",
+    "slug": "leverager-nqyzv",
+    "description": "Leverage on AAVE using Flashloan and 1inch swap",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "refi-loan",
+    "slug": "refi-loan-8ba3o",
+    "description": "Allows to refinance loan in DeFi space by leveraging credit delegation.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shelter",
+    "slug": "shelter-1ihim",
+    "description": "peer to peer coverage protocol on Layer 2",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniScan by Graph",
+    "slug": "uniscan-by-graph-fmhuu",
+    "description": "Build an application to show  live activities such as transactions, gas, fee ... and do analytics as well such as trending coin based on transactions.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gov10",
+    "slug": "gov10-x2n3i",
+    "description": "Gov10 is GovTech that aims to solve the problem of routing digital attention to physical matter. Done through AAVE loans on land and biology, by building a credit network of attracting funds for builders with developments and users with well being contributions as NFTs from BCIs.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AAVE-Teller-Machine",
+    "slug": "aave-teller-machine-qzvp8",
+    "description": "The aave teller machine is a physical cash liquidity provider.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gearbox protocol",
+    "slug": "gearbox-protocol-vkz6v",
+    "description": "Uncollateralized protocol for margin trading",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dVIX",
+    "slug": "dvix-6f3mg",
+    "description": "A protocol for making decentralized volatility index feeds for synthetic tokens.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ALKEMY",
+    "slug": "alkemy-0f1cb",
+    "description": "Create a way to recover access to wallets via a secure , decentralized, and anonymous way in the Ethereum ecosystem.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AAVE Liquidation Protection",
+    "slug": "aave-liquidation-protection-uk00z",
+    "description": "AAVE Liquidation Protection Bot. Avoid liquidation penalties and take precise control over thresholds where repayment occurs.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "STONK Master",
+    "slug": "stonk-master-u1ar7",
+    "description": "An easy to use contract enabling the use of Aave flashloans to leverage a position in any supported token",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TheraId",
+    "slug": "theraid-sj5y4",
+    "description": "Attempt to create a goverment Id using erc 721 and hack in a voting system with ERC 721.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InterestSimulator",
+    "slug": "interestsimulator-pzr4a",
+    "description": "An interest earned simulator for the Aave deposits and borrows.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "V-Cred",
+    "slug": "v-cred-ruefk",
+    "description": "Enabling short-selling in DeFi using Aave credit delegation and One inch",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HenkiNet",
+    "slug": "henkinet-jzbys",
+    "description": "AAVE Credit Delegation V2 Workflow ERC 1155 Tokens, Token Farms and DAO & AAVE Flash Loan V2 Bonding Curve Integration Architecture on StarkWare StarkEx DEX",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "West Texas Oil",
+    "slug": "west-texas-oil-b2cda",
+    "description": "EthGlobal Market Make Hackathon - Solving crude oil theft by reconciling Bill of Lading between mid-stream suppliers and end-stream refiners from Midland, Texas to Houston, Texas.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LiquiDeFi Bot",
+    "slug": "liquidefi-bot-e0p6h",
+    "description": "AAVE liquidation notify Telegram bot, backed by Spreadsheet",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Awesom Pensions",
+    "slug": "awesom-pensions-twkyk",
+    "description": "This is a project to create a financial crisis resistant pension platform",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Continuous Coin Offering",
+    "slug": "continuous-coin-offering-g7e3c",
+    "description": "Reimaging ICO Fundraising",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aave Credit Delegation",
+    "slug": "aave-credit-delegation-qi5p0",
+    "description": "Aave Credit Delegation allows a depositor to deposit funds in the protocol to earn interest, and delegate borrowing power to other users.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "APYin",
+    "slug": "apyin-080vi",
+    "description": "Historical lending returns calculator on idle assets",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "tBTC Deposit Redemption Service",
+    "slug": "tbtc-deposit-redemption-service-log-oracle-2uo7d",
+    "description": "An attempt of capturing other contracts events via an oracle",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AVGMarket",
+    "slug": "avgmarket-wz2m1",
+    "description": "NFT based lucky coupon system by using with aave",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SimpleFi",
+    "slug": "simplefi-b1qpk",
+    "description": "SimpleFi makes it easy to track your DeFi investments. See exactly what you've invested in, and the breakdown of your ROI.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DropletPool",
+    "slug": "dropletpool-nqgr9",
+    "description": "Lossless Membership dApp",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Daeuri Prosperity",
+    "slug": "daeuri-prosperity-acvpo",
+    "description": "Token rewards bank to service an inclusive development community, giving depositors reward token drips, a personalized identity token, and high-yield staking returns.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BananaBread",
+    "slug": "bananabread-ikidk",
+    "description": "Boost a collateralised loan with a non-collateralised loan.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShuttleX.finance",
+    "slug": "shuttlex-finance-7pkay",
+    "description": "DeFi based life insurance with leveraged Aave crypto-asset depositors as reinsurers earning stable interest.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "deCent Dashboard",
+    "slug": "decent-dashboard-zex0b",
+    "description": "Bring together all your accounts and access the latest price data for your favourite pairs",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TuaTara",
+    "slug": "tuatara-oiiuh",
+    "description": "Crypto market and culture watch; stream synthesis bot.  An audiovisual program of whats happening in Crypto, entertainment from the blockchain, sourced through theGraph and smart contracts.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aave Liquidator",
+    "slug": "aave-liquidator-4abrb",
+    "description": "Create a liquidator bot (or libraries a liquidator bot might use)",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Price Oracle Connect Dotnet",
+    "slug": "price-oracle-connect-dotnet-4taer",
+    "description": "A set of extensions that help to use Aava's oracle and data provider and chainlink's oracles using Dotnet(c#)",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Malus",
+    "slug": "malus-szdzf",
+    "description": "7% peer to peer cashback using Dai.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Future Salaries",
+    "slug": "future-salaries-a0g5p",
+    "description": "Pay salaries to scientists, free software authors, etc. using money transfer from the future accordingly to traders predictions of future oracles. We can collect money during 100 years in the future.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hush Hush",
+    "slug": "hush-hush-ox9n9",
+    "description": "Hush Hush is a privacy extension to Aave interest bearing tokens that support anonymous savings accounts",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Watchful Eye",
+    "slug": "the-watchful-eye-9zb50",
+    "description": "A bot that allows users to set stop-losses on the value of an existing debt and collateral, which will automatically self-liquidate using AAVE flashloans and the 1Inch DEX when the user-defined threshold is reached.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fanance Club",
+    "slug": "fanance-club-vbt5h",
+    "description": "Fanance club is a Sports stars trading platform where one can invest in their favourite Sports Stars",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QuadraticTreasury (Q2T)",
+    "slug": "quadratictreasury-q2t-0c7sx",
+    "description": "Q2T combines DIDs, Mutual Credit & Quadratic Funding to allow (1) a sybil-resistant, fair mean for donors to support Public Goods - and (2) a way for projects to attract funds and non-repayable loans in a permissionless fashion, based on the milestones achieved.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Poolside",
+    "slug": "poolside-ayha2",
+    "description": "Poolside is a one-stop shop to discover new listings and top movers in DeFi. We provide near  real-time updates about",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polytax",
+    "slug": "polytax-i1m66",
+    "description": "Taxes and Profit/Loss tracking for Defi",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aave Wasabi",
+    "slug": "aave-wasabi-9d7wu",
+    "description": "Markets to buy and sell risk",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lump.Finance",
+    "slug": "lump-finance-a56oi",
+    "description": "Lump Finance is a decentralized-support platform that allows content creators to receive funding from their fans while significantly reducing the financial burden for the fans",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UMA1InchSynth",
+    "slug": "uma1inchsynth-r1zf5",
+    "description": "Create long and short synths for $1INCH token using UMA Protocol on Kovan Network",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yaka",
+    "slug": "yaka-sy0xp",
+    "description": "Yaka is a tool to automatically distribute stablecoins' yield from Aave to several strategies to newcomers who wants to start investing in cryptocurencies for long term, such a Dollar Cost Average strategies in Index Tokens or even payments.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zygo",
+    "slug": "zygo-ammii",
+    "description": "A priceless limit ordering system.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Idea Factory",
+    "slug": "idea-factory-78xc2",
+    "description": "Decentralized Startup incubator/funding pool that promotes investing and contributing to ideas",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fiber",
+    "slug": "fiber-e1c7g",
+    "description": "An Aave flash loan analytics web app for better understanding and reacting to flash loan transactions",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LiquiDeFi",
+    "slug": "liquidefi-mssj3",
+    "description": "Provide functionality to link a wallet and transact with the AAVE protocol.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HelloToken FlashLoan",
+    "slug": "hellotoken-flashloan-rdaeq",
+    "description": "FlashLoad powered by Aave",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Haciendas",
+    "slug": "haciendas-zuncv",
+    "description": "A fun, social and visual way to discover and learn DeFi protocols",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NotReal",
+    "slug": "notreal-uq124",
+    "description": "Tradeable AI-generated art NFTs that earn you passive income through AAVE",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LevAave",
+    "slug": "levaave-ov46w",
+    "description": "Non custodial Onchain Leveraged positions powered by Aave and 1inch",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stake Your Name",
+    "slug": "stake-your-name-iv1hy",
+    "description": "Keep your ENS name safe using automatic renewals",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Audits R Dead",
+    "slug": "audits-r-dead-☠️-po7ig",
+    "description": "DeFi insurance platform with an under-collateralized insurance pool that anyone can stake into, combined with in-house smart contract security analysis to offer protocols the lowest insurance prices in DeFi.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xCFD",
+    "slug": "xcfd-672xb",
+    "description": "xCFD is a decentralized CFD platform built on UMA. It's currently in beta, with a mainnet V1 coming soon!",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mobile App for AAVE",
+    "slug": "mobile-app-for-aave-hpki3",
+    "description": "We aim to built native mobile app (Both iOS and Android) for AAVE. By allowing mobile users (without any desktop access) to access AAVE via simplified user on boarding, we expand AAVE reach to broader audience",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fund The Restaurants",
+    "slug": "fund-the-restaurants-w9mrb",
+    "description": "An dapp that allow customers to donate funds to restaurants",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Premarket Protocol",
+    "slug": "premarket-protocol-wmt8i",
+    "description": "Synthetic premarket asset protocol built on UMA protocol",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EBT",
+    "slug": "ebt-jsnps",
+    "description": "Decentralized Food Stamp System EBT",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeriOne",
+    "slug": "derione-o0eis",
+    "description": "An on-chain crypto options aggregator that gives traders and developers the cheapest options price.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Copyright Securities (Royalhits)",
+    "slug": "copyright-securities-royalhits-kyqj8",
+    "description": "Copyright assets that are already tokenized would be accessible on our platform for securities solutions such as the sale of a bond based on the performance of the intrinsic asset- i.e the royalties it has generated so far and is expected to generate in the future.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CopyTrader",
+    "slug": "copytrader-0hzk1",
+    "description": "Put your transactions on autopilot and follow advanced ethereans strategies",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AAVEtrage",
+    "slug": "aavetrage-z6zxk",
+    "description": "AAVEtrage is a dashboard focused on interest rate arbitrage. AAVEtrage allows users to leverage their AAVE borrowing power and earn additional yield.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Balancer FYI",
+    "slug": "balancer-fyi-0cbuv",
+    "description": "Alternative UI for Balancer Pools",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cortex Hedge",
+    "slug": "cortex-hedge-n11ad",
+    "description": "Hedge the exchange rate risk of USD stablecoins",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenMarket",
+    "slug": "openmarket-de2pq",
+    "description": "A decentralized alternative to FB Marketplace, where you have to stake a small amount of ETH to message the seller.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lend2Protocols",
+    "slug": "lend2protocols-l2p-finance-yachx",
+    "description": "Undercollaterized loans to Dapps and protocols using aave delegation credit",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flash Daddies",
+    "slug": "flash-daddies-19q0i",
+    "description": "Shame front-runners by awarding untokens.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Winvoy",
+    "slug": "winvoy-ut8s7",
+    "description": "Winvoy is a decentralised invoice finance platform for small and medium businesses",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TOP5SWAP",
+    "slug": "top5swap-x37mm",
+    "description": "A crypto currencies exchange platform allowing to perform up to 5 swaps at a time with predefined lists of Top 5 performers by categories",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vesting Party",
+    "slug": "vesting-party-j4cu8",
+    "description": "Vesting Party is a platform for hosting token distribution events, we call these events parties. Hosts can use our tooling to distribute ERC20 tokens to eligible users in an effort to promote awareness and align their user community around a common goal.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "chronchain",
+    "slug": "chronchain-8kk6v",
+    "description": "Chronchain is bringing valuable real life asset in decentralized Finance.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Offs.eth",
+    "slug": "offs-eth-n5shc",
+    "description": "Our goal is to offset Blockchain transaction by purchasing CO2 token credits for a greener future",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlashSuite",
+    "slug": "flashsuite-va1j2",
+    "description": "FlashSuite is a set of tools created in a user-friendly interface with FlashLoan enabled features for position migration and arbitrage opportunities.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DethLock",
+    "slug": "dethlock-icjf0",
+    "description": "Adding a time-release to ownership of ETH and ERC tokens",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Creative Platform",
+    "slug": "the-creative-platform-4dp6k",
+    "description": "A creative blockchain platform for independent creators and brands to exchange services directly and earn incentives through the use of",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fantasy X",
+    "slug": "fantasy-x-xry2w",
+    "description": "A fantasy gaming application similar to fantasy football but geared towards the e-sports scene.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tokenized Asset Donation",
+    "slug": "tokenized-asset-donation-apzbx",
+    "description": "Automatically donate earned interest on tokenized assets from Aave's Lending Pool.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mantis",
+    "slug": "mantis-7kj4u",
+    "description": "Leverage on Aave using 1inch.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fuji Borrow",
+    "slug": "fuji-borrow-dtq6x",
+    "description": "FujiBorrow is the first protocol that aggregates borrowing rates from multiple lending platforms and facilitates its pool of users to constantly refinance debt to the lowest interest rate available.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StableYield",
+    "slug": "stableyield-wx89a",
+    "description": "StableYield simplifies lending/borrowing on Aave with automatic collateral swaps to highest yielding stablecoin and credit delegation using a DAO structure.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "yAAVE",
+    "slug": "yaave-9cv42",
+    "description": "Allow Aave users to delegate borrowing power to the yearn platform",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Paladin",
+    "slug": "paladin-7sc73",
+    "description": "Paladin is a governance lending protocol. This new money lego allows users to benefit from additional APY while helping governance activists user inactive voting rights.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Twister",
+    "slug": "twister-x56rg",
+    "description": "A fork of tornado.cash using Optimism's L2 optimistic roll-up",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WhiskeyCoin",
+    "slug": "whiskeycoin-wdpyh",
+    "description": "A platform that creates a whisky-backed cryptocurrency to link retail investors with small-batch distilleries.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Upala Digital Identity",
+    "slug": "upala-digital-identity-egc03",
+    "description": "Identity as a service. Alternative to state ID. Identity uniqueness is represented by it's forgery price.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Safekeep_Web3Bridge",
+    "slug": "safekeep-web3bridge-ayokm",
+    "description": "A smart contract that acts as a special kind of wallet where you must provide a backup wallet address when you deposit your assets. The depositor can then decide to opt-in to use their assets as funds for the Aave Lending Pool so they can earn passive interests on their assets.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "N3RDefi",
+    "slug": "n3rdefi-5kgyd",
+    "description": "Welcome to N3RDefi - Enter the N3RDs g33k-o-system, come join us as we gamefi decentralised finance 8 bit style",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PawnSpace",
+    "slug": "pawnspace-8qja0",
+    "description": "A platform that allows people to borrow ERC20 tokens with NFT tokens as collateral",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Big Mac Index",
+    "slug": "big-mac-index-0ttzp",
+    "description": "A seignorage token that aims to stay pegged to the total crypto market cap divided by 10^12 per token. (Base protocol meets Basis cash)",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blossym",
+    "slug": "blossym-g2t7v",
+    "description": "A unified platform for fans to donate crypto to their favorite creators and for creators to earn yield on their crypto assets through automated yield farming.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ExtraCredit",
+    "slug": "extracredit-0tgig",
+    "description": "Margin Lending app connecting lenders and borrowers",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Contract",
+    "slug": "contract-y9i1k",
+    "description": "Incentive Based Buyer/Seller Prevention",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sublimate Finance",
+    "slug": "sublimate-finance-–-streamable-tokens-xpiqz",
+    "description": "Make every second count! Whether you're an artist, open-source dev, content creator or organization, Sublimate lets you accept continuous financial support from anyone—paid automatically over time in ERC20 tokens per block—so you can focus on creating and building amazing things.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Better",
+    "slug": "better-geii3",
+    "description": "Let your ecosystem improve your dApp.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DigiU.Lab team",
+    "slug": "digiu-lab-team-1w1im",
+    "description": "Cross-Chain Swap DeFi platform based on Ethereum and Binance Smart Chain via ChainLink Oracles.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OctoBay",
+    "slug": "octobay-dwc67",
+    "description": "Onboarding GitHub Users to Ethereum: Decentralized tool for transfers, bounties, donations and promotions by connecting GitHub, Ethereum and Twitter with an intuitive and simplistic user interface.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aztec Interactive NFTs by Zenbit",
+    "slug": "aztec-interactive-nfts-by-zenbit-aetyc",
+    "description": "Experimental blockchain game playable with interactive crypto-collectibles (NFTs) running on ethereum.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buy Now Pay Later Crypto",
+    "slug": "buy-now-pay-later-crypto-xmdaj",
+    "description": "Buy now pay later means you pay by installments over time, instead of paying the full amount upfront for the Crypto you want. Sick of missing the hottest token dips? or Can't cough up the money straight away for your favourite Crypto? Buy Now Pay Later Model 4 Crypto.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Quickzap",
+    "slug": "quickzap-53gr4",
+    "description": "A payment gateway to allow decentralized payments",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ether Tree",
+    "slug": "ether-tree-securitising-lapse-risk-b4hn3",
+    "description": "If you don't forget to water the EtherTree, you will get a share of the fruit!",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polaris",
+    "slug": "polaris-mr06k",
+    "description": "A decentralized, transparent, fair, diverse lottery platform. It ultilizes yield farming protocols, such as Aave,to generate interest which is distributed as prizes for no participant losses. It offers sports and financial lottery by using Chainlink off-chain solutions.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arbitrium - Options Price Comparison",
+    "slug": "arbitrium-options-price-comparison-bqkso",
+    "description": "An options aggregator comparing both DeFi and CeFi options.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi Train by Protekt Protocol",
+    "slug": "defi-train-by-protekt-protocol-9069j",
+    "description": "The easiest way to onboard a friend into DeFi! Hop on the DeFi Train!",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Orca Protocol",
+    "slug": "orca-protocol-65ou5",
+    "description": "A flexible and adaptable DAO implementation",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mamemaki",
+    "slug": "mamemaki-sxi8v",
+    "description": "VTuber token on Matic",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Saké",
+    "slug": "sake-3csyo",
+    "description": "Create a trustless system for undercollateralized loans by implementing a credit score system.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bazaar.finance",
+    "slug": "bazaar-finance-ctru4",
+    "description": "We allow for a more sustainable financing of mission critical open source projects that better aligns depositor's sense of altruism with their profit motives by introducing a new Defi money lego",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Refungible Estate",
+    "slug": "refungible-estate-73vx3",
+    "description": "Refungible assets based game that demonstrates Defi concepts and gives exposure to projects with Minecraft based theme.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FidoByte",
+    "slug": "fidobyte-qqfp5",
+    "description": "A tokenized shelter-dog walking protocol.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BitFinca",
+    "slug": "bitfinca-jvk9s",
+    "description": "BitFinca is a blockchain-based lending platform that allows anyone to microinvest in ventures that matter, with no minimum investment.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFLend",
+    "slug": "nflend-subject-to-change--9pycx",
+    "description": "A lending market that uses Aave credit delegation to allow loans against ERC-721 tokens.",
+    "event": "MarketMake",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

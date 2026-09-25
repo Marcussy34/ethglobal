@@ -1,0 +1,1204 @@
+[
+  {
+    "name": "Culture DAO",
+    "slug": "culture-dao-xr0ic",
+    "description": "A DAO for preserving culture around the Globe. And for Exclusive NFT Collections.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ezra-Dao",
+    "slug": "ezra-dao-cc74z",
+    "description": "an agriculture  Dao to implemendt the fair trade protocol ..",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DA0xIZM",
+    "slug": "da0xizm-sprps",
+    "description": "DAO Hack to interact with web3 protocols and leran about DAO in depth.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cricket DAO",
+    "slug": "cricket-dao-qugs8",
+    "description": "Cricket DAO is a Decentralized Autonomous Organization which allows cricket fans from around the world to take charge of the sport they love.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Safe House",
+    "slug": "safe-house-4h7ze",
+    "description": "A tool for Dao’s and SubDao’s to manage Hierarchy Based Treasury and payments",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DaoForBonus",
+    "slug": "daoforbonus-97okn",
+    "description": "The idea of this project was to reward teams that manage portfolios for a fund manager with an NFT that reward streams of tokens via Superfluid. The data to measure the performances comes from Covalent.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FakeNews DAO",
+    "slug": "fakenews-dao-uti5g",
+    "description": "A DAO Factory on top of Lens protocol. Like Snapshot, but for your community's social media presence.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAO Hub",
+    "slug": "dao-hub-375z5",
+    "description": "A dashboard that monitor the health indicator of DAOs. It helps people to find more DAO.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "rki5z"
+    ]
+  },
+  {
+    "name": "Fundraising DAO",
+    "slug": "fundraising-dao-czz09",
+    "description": "Fundraising app to help people around the world in different situations",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "DaoFic",
+    "slug": "daofic-4bb35",
+    "description": "DaoFic allows Everyone to Build Super Communities with SuperFluid Payments",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOeasy",
+    "slug": "daoeasy-sw9qb",
+    "description": "DAO Easy helps everyone to create their own tokens, token lock, multi signature wallet, DAO list and token  sales in few seconds. Tokens created on DAO Easy will be verified and published on explorer websites.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rki5z"
+    ]
+  },
+  {
+    "name": "My Dao",
+    "slug": "my-dao-mrx98",
+    "description": "It is an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SoccerDAO",
+    "slug": "soccerdao-wweed",
+    "description": "SoccerDAO is a platform where Soccer organizers or coordinators can register their soccer community, set up a profile, create bounties,  and receive tips from the community.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Experiment Orchid DAO",
+    "slug": "experiment-orchid-dao-z574i",
+    "description": "This is an experiment DAO to test out SkillWallet using basic nextjs framework",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Frais",
+    "slug": "frais-mrt75",
+    "description": "An education platform allowing projects to outsource and incentives for the creation of high-quality learning materials.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "CivitasDAO",
+    "slug": "civitasdao-f0ix7",
+    "description": "CivitasDAO connect communities with Content Creators giving new ways to interact.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Endaoment",
+    "slug": "endaoment-osj81",
+    "description": "Endaoment is a project to help DAOs manage budget allocation to proposed projects",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Data House",
+    "slug": "nft-data-house-9iqa7",
+    "description": "The main goal of our project is to encourage individuals to invest in the proper NFTs based on our data because many people find it difficult or harder to choose the right NFTs for their wallet.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "FossDAO",
+    "slug": "fossdao-0a52o",
+    "description": "FossDAO is a platform that harnesses the power of DAOs to make opensource projects scalable and sustainable",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "rki5z"
+    ]
+  },
+  {
+    "name": "Simple Task Board for DAO member",
+    "slug": "simple-task-board-for-dao-member-qxp4u",
+    "description": "Create task management system where DAO member can apply to work for DAO task and get rewarded",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperFarmDAO",
+    "slug": "superfarmdao-wy9vy",
+    "description": "Matchmaker between FaaS (Farming-as-a-Service) and  LaaS (Liquidity-as-a-Service)",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VoiceDAO",
+    "slug": "voicedao-x7f1o",
+    "description": "VoiceDAO is a social decentralized community where users create a profile to join, post and interact in the community while also carrying tasks assigned in the DAO",
+    "event": "DAOHacks",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "f7o0p",
+      "rki5z"
+    ]
+  },
+  {
+    "name": "Grapevine",
+    "slug": "grapevine-m1dnd",
+    "description": "Grapevine provides Talent Corridors between friendly DAOs where projects can be matched to trusted contributors",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Revenue cashback for online shops",
+    "slug": "revenue-cashback-for-online-shops-b5k43",
+    "description": "A revenue share program based on web3 which keeps on giving money",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Game Guilds DAO",
+    "slug": "game-guilds-dao-zabcx",
+    "description": "A Gaming Community DAO Platform for streamers and viewers with unique guilds and polls",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Eco DAO",
+    "slug": "eco-dao-689ea",
+    "description": "A Decentralized Autonomous Organization that aims to support in the restoration of the environment and the world",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "The DAO Tool",
+    "slug": "the-dao-tool-fhvn7",
+    "description": "The DAO Tool helps DAO manage their role based Team membership using NFTs, Payroll management, DAO Drive for document management and grant role based permissions to DAO members.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "gas_stats",
+    "slug": "gas-stats-h5k6e",
+    "description": "A dapp that helps to generate gas statistics from wallets using moralis",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fractal DAO",
+    "slug": "fractal-dao-zgsm0",
+    "description": "Fractal DAO Fractal DAO Fractal DAO Fractal DAO Fractal DAO Fractal DAO",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CosmicDAO",
+    "slug": "cosmicdao-zwdgz",
+    "description": "A DAO for space exploration                                                                                                                                                                                    .",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kontour",
+    "slug": "kontour-01h9y",
+    "description": "Protocols give a ton of incentives to attract developers, but have trouble tracking attribution and engagement. Kontour helps onboard and educate developers while giving protocols visibility into the funnel.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAO Bad",
+    "slug": "dao-bad-mse6u",
+    "description": "DAO Bad (down bad) - an overview of how DAOs need work to be successful",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CricketDAO",
+    "slug": "cricketdao-xog54",
+    "description": "A DAO for cricket fans where members of the DAO control the whole DAO treasury on chain",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAO Guru",
+    "slug": "dao-guru-ovkff",
+    "description": "DAO Guru is a platform that makes it easy for DAOs to run businesses by providing their products, services, and subscriptions in a decentralized manner.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "dPatreon",
+    "slug": "dpatreon-rxrm8",
+    "description": "Decentralized platform allowing developers/creators raise fund without middleman",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Swap Market",
+    "slug": "the-swap-market-xs6yz",
+    "description": "The philosophy of this instrument is opposite to the one of fair trade: whilst the latter seeks to pay a better price to producers for products that leave their community, the Swapp MKT asks the producer to decrease the price for local people so that they can pay for the product.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dispay",
+    "slug": "dispay-4145g",
+    "description": "Dispay helps friends form friend-vestment groups to buy & own NFTs together",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Ollie DAO",
+    "slug": "ollie-dao-sr5f7",
+    "description": "Ollie DAO is a DAO factory that allows NFT creators to create DAOs with their existing NFT project. Their NFT owners automatically become DAO members and they can create proposals with modular and executable on-chain actions that generate off-chain evidence.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Recipe Hall of FameDAO",
+    "slug": "recipe-hall-of-famedao-kmyfu",
+    "description": "A DAO  to  reward unique food recipes. Chefs can submit their recipe to be added on the Recipe Hall of Fame. If voted in, the recipe is featured on the website, and they are given an HoF Token.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "thebonusbird",
+    "slug": "thebonusbird-gfciu",
+    "description": "Rewarding contributors while steering the DAO/group/team towards objectives and intended culture",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BCharity Social DAO",
+    "slug": "bcharity-social-dao-n5qcq",
+    "description": "BCharity Social DAO is a blockchain community-driven social graph DAO",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "rki5z"
+    ]
+  },
+  {
+    "name": "Omnichain Governance",
+    "slug": "omnichain-governance-gmfuy",
+    "description": "Omnichain Governance enables on-chain governance on one chain and on-chain execution on another.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tux3doDAO",
+    "slug": "tux3dodao-3gkz1",
+    "description": "an organization governed through Ethereum smart contracts. It allows network participants to vote freely from anywhere in the world on pertinent issues affecting the organization.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Decentralized Autonomous Review",
+    "slug": "decentralized-autonomous-review-3g5vo",
+    "description": "Decentralized Autonomous Review is a way to review list based items in a quorum voting format.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyDao",
+    "slug": "polydao-8k821",
+    "description": "Poly DAO uses a merit based system to  track and gamify the volunteer experience.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rki5z"
+    ]
+  },
+  {
+    "name": "PLANETARY DAO",
+    "slug": "planetary-dao-bz1zj",
+    "description": "PLANETARY ID wallet --> Global Tax Protocol We are solving Identity worldwide building a new wallet for all to track our taxes, to collect taxation in all the entire planet Earth DAO.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PeerReview DAO",
+    "slug": "peerreview-dao-48c13",
+    "description": "A self-sovereign acadmeic publication that allows scientists to distribute publications without paywalls and compensate peer-reviewers directly",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Fitness Ventures Sports Clubs",
+    "slug": "fitness-ventures-sports-clubs-mthbc",
+    "description": "Create Your Fitness Club On The Blockchain: Memberships, Competitions, and Event Scheduling",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "expansionDAO - Voting Insights",
+    "slug": "expansiondao-voting-insights-1zy43",
+    "description": "Playful dashboard that visualizes Snapshot vote results based on collection traits",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "POAP DAO Visualizer",
+    "slug": "poap-dao-visualizer-907py",
+    "description": "A NFT visualizer for DAOs, specifically focused on POAPs and recognizing user contributions.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Promise Protocol",
+    "slug": "promise-protocol-fa7x3",
+    "description": "Reward early contributors with future equity backed by collateral.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Organic Funds",
+    "slug": "organic-funds-h5hp7",
+    "description": "A democratic decentralized crowdfunding platform to change the future of funding.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Paperhands DAO",
+    "slug": "paperhands-dao-9ixgi",
+    "description": "Paperhands DAO - use NFTs to bootstrap DAO.  NFT is used for voting on governance and the longer you hold the NFT the more value it accrues.  If you want to cash out must destroy the NFT and lose vote power",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RooPics",
+    "slug": "roopics-geek4",
+    "description": "started creation of a dao for large group creativity games and tournaments.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "DAOPower",
+    "slug": "daopower-nhdm6",
+    "description": "DAO Power is the total wealth held by the specific DAO community",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Miner Pets DAO",
+    "slug": "miner-pets-dao-snf41",
+    "description": "Miningpets Dao is a fun community built as a framework to facilitate voting of ideas and narratives in building creative brands .",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "r9t85",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Evidence DAO",
+    "slug": "evidence-dao-y0mii",
+    "description": "Evidence DAO is a DAO created to support DAO project delivery by providing a single place where you can find all the evidence of project delivery",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Ream",
+    "slug": "ream-zu3u6",
+    "description": "Ream is a go-to analytical site that displays the asset(tokens), treasury, reciepts and payment, investment position in defi protocols of decentralized organization(DAO). This solution seeks to help DAO's get a performance glance of their funds, track assets, and portfolio value",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "HabitCult",
+    "slug": "habitcult-cf9n5",
+    "description": "A decentralized protocol to build/break habits using web3 incentives",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOHacksTestProject2022",
+    "slug": "daohackstestproject2022-0q9fp",
+    "description": "(02)--TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----TestData----",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AuditBlock",
+    "slug": "auditblock-uxkvu",
+    "description": "Reputation System For DAO and Contributors. In this project we are trying to create a Reputation system for DAO and Contributors",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WinWinDAO",
+    "slug": "winwindao-z5in0",
+    "description": "A decentralized Autonomous Organisation for Investors who wants to invest varioius categories of Web3 Projects. From Defi to NFT to Metaverse to DAos.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "onemark",
+    "slug": "onemark-tpiph",
+    "description": "DAO Knowledge Center",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Story Protocol",
+    "slug": "proof-of-story-protocol-v0aip",
+    "description": "POSP enables organizations such as DAOs to award their contributors with NFTs as proof of their contributions. These NFTs contain the description of the contribution.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Push",
+    "slug": "push-kpiua",
+    "description": "Push is a DAO analytics dashboard that details activity in the DAO",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "approvalsDAO",
+    "slug": "approvalsdao-5phiq",
+    "description": "ApprovalsDAO - a dapp where any influencer, NFT artist, or any group of NFT holders can have a micro DAO to crowdsource lists of addresses such as whitelists of approved donation or contract addresses",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "CourseDAO",
+    "slug": "coursedao-carkm",
+    "description": "A DAO that works together to improve the teaching curriculum.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "corporate autonomous organization",
+    "slug": "corporate-autonomous-organization-v7hk4",
+    "description": "Have you always wanted to be fully involved in your company? To be able to propose and vote for actions that make sense? Gamify your career and your raises? this application is made for you!",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "MultiversityDAO",
+    "slug": "multiversitydao-d1qja",
+    "description": "Decentralized Autonomous University with Cryptographically Verifiable Smart Degrees",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Brunch",
+    "slug": "brunch-qb7yi",
+    "description": "Dapp to coordinate brunch (or any meal) plans with friends, coordinating with custom options",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Progress",
+    "slug": "progress-yvopc",
+    "description": "Snapshot.org Proposal Progress Plugin - Easy Viewing of How DAO Proposals are Progressing",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalletSplitter.com",
+    "slug": "walletsplitter-com-qh15u",
+    "description": "An EVM agnostic wallet that splits crypto payments. Solidty contracts written by OpenZepplin.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fluss",
+    "slug": "fluss-comdf",
+    "description": "A Matchmaking Dapp that connects investment DAOs with entrepreneurs or project owners seeking funding or investment.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "#DAODashBoard",
+    "slug": "daodashboard-8xfpc",
+    "description": "DAODashBoard allow you to explore blockchain data collections specifically DAOs in a simple and efficient way.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FrankensteinDeFiDAO",
+    "slug": "frankensteindefidao-sojy5",
+    "description": "Frankenstein DeFi DAO - where people and robots join forces to manage DeFi liquidity",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "DAOSearch",
+    "slug": "daosearch-edr39",
+    "description": "An application built on distributed file system and API to explore and Learn about Different DAOs and Navigate the community Network.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "DAO Streamer",
+    "slug": "dao-streamer-nj4mr",
+    "description": "DAO Streamer app that distribute DAO treasuries to members,Send over at most 3 screenshots that you think represent the hack when being demo'd. Please keep the file sizes below 2 MB/image. Note: if you upload multiple files, only one preview will appear but all files will be uplo",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Refund",
+    "slug": "refund-tiy9y",
+    "description": "Refund - easily track and reimburse all expenses in your DAO",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Lens DAO",
+    "slug": "lens-dao-w2n20",
+    "description": "Lens DAO is a smart contract for building DAOs whose governance token is a FollowNFT from Lens Protocol. It uses OpenZeppelin's IGovernor interface because it is battle-tested and a standard, but replaces IVotes with the Lens Protocol FollowNFT's built-in capabilities.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vxwti"
+    ]
+  },
+  {
+    "name": "SynergyDao",
+    "slug": "synergydao-no01i",
+    "description": "A community NFT DAO collection to collectively buy, sell, stake and issue collateral on NFTs.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAO-N_with_Nature_NFTs",
+    "slug": "dao-n-with-nature-nfts-7opzt",
+    "description": "DAO-N_with_Nature_NFTs is a DAO for the governance of our NFT marketplace, Nature NFTs marketplace",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CompaoDAO",
+    "slug": "compaodao-vospx",
+    "description": "A payroll management platform for DAOs which can deal with varying salary flows",
+    "event": "DAOHacks",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "x59d1",
+      "rki5z",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "fluidDAO",
+    "slug": "fluiddao-3icec",
+    "description": "Fluid Dao is the Dao for Speed contributing and active membership",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MicroLaunch",
+    "slug": "microlaunch-jw4ud",
+    "description": "Crowdfund, launch and govern your initiative project in DAO with like-minded focused members. Govern the project with a sub-guild by sharing risks and upsides together.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Slashiee",
+    "slug": "slashiee-xg3e4",
+    "description": "Reimagine work, careers, and financial transactions in decentralized, community-led ecosystems with MicroDAOs.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "rki5z"
+    ]
+  },
+  {
+    "name": "DAO Caster",
+    "slug": "dao-caster-m1j80",
+    "description": "A multi-chain DAO caster/discovery service based off EIP-3722 Poster and ERC-4824. Uses a singleton factory pattern so that the same smart contract address is used across different Ethereum compatible blockchains,  so there is one place to post DAO updates.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Investify",
+    "slug": "investify-pc6is",
+    "description": "We are building a DAO investment platform by the people for the people and to the people",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "M-Tribe",
+    "slug": "m-tribe-ncufj",
+    "description": "At M-tribe, we are focused on building DAO tools and standards to empower existing NFT Communities transform into fully functioning DAOs. We leverage good organizational practices from Web-2.0  and use them for effective collaboration in Web-3.0 DAOs.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Valaxy",
+    "slug": "valaxy-f4z78",
+    "description": "Valaxy makes it easy to discover DAOs by being the aggregator of all insights  necessary to decide whether to join, contribute to, or partner with a specific DAO.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "TechQuorum",
+    "slug": "techquorum-u8z4a",
+    "description": "Tech Quorum is a platform for Developers to connect and collaborate around their favorite Technology garnering respect in the community and using this respect to score jobs.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FactStationDAO",
+    "slug": "factstationdao-1co9y",
+    "description": "As decentralized social media apps are pulling the power away from censorship for larger good the FAKE NEWS/FALSE FACT problem solving is a necessity. So, encouraging correct information to flow is at the heart of FactStationDAO",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "wholesomeDao",
+    "slug": "wholesomedao-k8xm2",
+    "description": "WholesomeDAO attempts to make a blogging platform with proposals for best content",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SideQuest",
+    "slug": "sidequest-ik8k9",
+    "description": "Gamified Coordination accomplished through \"Tokenized Contributions\" and memorialized through \"Tokenized Collaboration\".",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "DaoHunt",
+    "slug": "daohunt-ksw2k",
+    "description": "a dao discovery and curation  tool for users to  take informed decision by using analytics,user review etc also help daos communicate with people outside the dao display bounties,jobs,find their new users",
+    "event": "DAOHacks",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "r9t85",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "ReviewDAO",
+    "slug": "reviewdao-qp5ih",
+    "description": "ReviewDAO is an organization managing countless number of token curated registries. NFT holders propose new lists and get rewarded for successful proposals and votes. Factory contract deploys new TCR lists where anyone with enough native tokens can apply for listing.",
+    "event": "DAOHacks",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "pfyco",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "KnowYourDaos",
+    "slug": "knowyourdaos-egtbs",
+    "description": "Check all your DAOs activities, from voting to accounting, with a consistent, all-in-one layout to help you analyze the performance of your DAO",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "r9t85",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Butter",
+    "slug": "butter-snoc9",
+    "description": "Treasuries that spread. Diversify your Treasury by streaming tokens into auto-diversifying pools over time",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "DAOHub",
+    "slug": "daohub-9ti0c",
+    "description": "Unified cross chain API for DAO Registration, Exploration and Analytics",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Transaction Decoder",
+    "slug": "transaction-decoder-eywha",
+    "description": "This is a proof-of-concept app that stores the Ethereum contract ABIs on IPFS, and shows how to use them to decode NFTX DAO votes. It deals properly with different kind of proxies, such as Transparent Proxy and Beacon Proxy.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PRIZEDAO",
+    "slug": "prizedao-e5iyv",
+    "description": "The DAO that empowers competitive hackers by streamlining decision making and bounties in Hackathons",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aqua-Metaverse",
+    "slug": "aqua-metaverse-gsuvc",
+    "description": "We are building Aquatic Sports Games and DEFI financial services that have a positive impact on communities and our planet. Our simulation and minigames are about Aquatic sports and Water activities where the recycling/reusing or cleaning out plastics debris rewards the player",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Alas! Community Aid.",
+    "slug": "alas-community-aid-7jzjd",
+    "description": "Superfluid community aid is an dapp that distributes funds to reward Musical collaboration",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOflex",
+    "slug": "daoflex-22h1g",
+    "description": "DAOflex is the new way of boosting DAO collaboration and engagement. Get paid for contributions and pay back for your membership.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "r9t85",
+      "r9t85"
+    ]
+  },
+  {
+    "name": "Proof of Magician",
+    "slug": "proof-of-magician-k7pvz",
+    "description": "Proof of Magician DAO proves who is a magician and who is just faking it on Tiktok.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "QuickLend",
+    "slug": "quicklend-522q0",
+    "description": "Decentralized Lending Protocol for DAOs powered by Tanda model credit rating. Empowering DAOs by providing uncollateralized credit to their contributors.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "AgioDAO",
+    "slug": "agiodao-5fg8f",
+    "description": "Decentralized Application for Managing a SMART Fund with Real World Assets",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "License DAO",
+    "slug": "license-dao-dqos1",
+    "description": "LicenseDAO offers a repository of licenses residing on IPFS so developers, platforms, collectors and content creators of Web3 community can optimise their choice of permissions and tailor their rights in a simple, standardised and efficient way.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "NFTDAO Factory",
+    "slug": "nftdao-factory-1k1a3",
+    "description": "No more rug pulls! NFTDAOs put the treasury in the hands of the community.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "DAOFound",
+    "slug": "daofound-vrj65",
+    "description": "Decentralised Autonomous Charity Foundation - for collecting and sharing money between charity projects, upvoted by the DAO members.",
+    "event": "DAOHacks",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "r9t85",
+      "r9t85",
+      "f7o0p",
+      "rki5z"
+    ]
+  },
+  {
+    "name": "BALLSTREET DAO",
+    "slug": "ballstreet-dao-jt9pu",
+    "description": "BALLSTREET is the place where the people with the best cards in the world go to list their cards. BALLSTREET’s unique DAO structure gives you the power to be rewarded in tokens for contributing to the success of BALLSTREET any way you can. The opportunities are endless.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solarpunk DAO",
+    "slug": "solarpunk-dao-y0mjq",
+    "description": "A Daap for DAO governance on places minted as NFTs on Punk Cities game",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "EnDAOment.ca",
+    "slug": "endaoment-ca-8ucmp",
+    "description": "EnDAOment.ca is DAO that curates and collects Canadian Art work.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CRUZO",
+    "slug": "cruzo-vuimv",
+    "description": "The First NFT Greeting Card & Crypto Gifts Marketplace. Bringing a billion-dollar industry to Web3",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTBillboard Auction (for Metaverse)",
+    "slug": "nftbillboard-auction-for-metaverse-5meb1",
+    "description": "Whoever streams the most dao-tokens to an NFT contract controls the message + image rendered for the billboard",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "They don't know I own this song's nft",
+    "slug": "they-don-t-know-i-own-this-songs-nft-fsgoo",
+    "description": "A protocol that lets NFT owners to store their assets safely in a cold wallet, without losing the ability to use them in services which support the protocol.",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "gasDAOn",
+    "slug": "gasdaon-3zz8m",
+    "description": "gasDAOn extends the values of fairness and transparency from the blockchain space to the material world by basing voting power on an individual's annual use of CO2 equivalents",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DaoSurv",
+    "slug": "daosurv-nfpit",
+    "description": "DaoSurv is an analytic DAO tooling. aim to capture the public feedback to enhance DAO project decisions. We offer SURVeillance (monitor and alert), SURVey (announce governance proposal), and insightful analytics to iteratively improve the DAO, SURViving long-term success.",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "CameoDAO",
+    "slug": "cameodao-tp3cw",
+    "description": "Cameo DAO is the decentralized autonomous organization that uses yield from staked members to pay the cameo to create content that drives the DAO.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT DAO Tracker",
+    "slug": "nft-dao-tracker-o8hd6",
+    "description": "NFT DAO Tracker is an DAO AD delivery tool for Web3.0 users, including individuals, DAOs and other crypto teams.The dapp was inspired by the ideas and creations of projects like IPFS, Superfluid  and Polygon.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BAO WAO",
+    "slug": "bao-wao-9q9kw",
+    "description": "Bao Wao is a DAO's best friend. Modular DAO smart contracts to help deal with the many facets of running a Decentralize Autonomous Organization. Complete with on and off-chain options, and a library of community contracts, BAOWAO will help form the perfect DAO for your use case.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT With",
+    "slug": "nft-with-89m4a",
+    "description": "Search and promotion platform of NFT collection for solo or small team artists managed by DAO.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LxLDAO",
+    "slug": "lxldao-sp1vx",
+    "description": "LxLP(Love links Life Protocol) —— New generation of Proof of Humanity Protocol For DAO Community",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dao/nations",
+    "slug": "dao-nations-m6rp5",
+    "description": "DAOs At A Glance: Surface proposals that won by a hair & investigate actual participation as well a DAO’s engagement. Governance Profiler: Explore specific addresses and how they have voted.",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ethglobal-stake-contract-clone",
+    "slug": "ethglobal-stake-contract-clone-fugfp",
+    "description": "A smart contract that mirrors the functionality as ETHGlobal's staking contract",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOQuest",
+    "slug": "daoquest-7cogz",
+    "description": "A gamified onboarding tool for DAOs in the form of quest chains 🤘",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "uDAO",
+    "slug": "udao-a8s7k",
+    "description": "University Decentralized Autonomous Organization is designed to allow students at a university to submit proposals for projects and request funding. Members of the DAO can fund the projects that best advance UDAO's goal of spreading web3 awareness and creating projects that help",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BrickDAO",
+    "slug": "brickdao-jnz4a",
+    "description": "Donate ECO bricks to building Schools:  Contributors may be philanthropists,  Business with  incentives, e.g. attend 4 webinars and  x bricks will be donated, fundraisers;  Projects can be motivated through quadratic funding and on subscription",
+    "event": "DAOHacks",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "x59d1",
+      "rki5z"
+    ]
+  },
+  {
+    "name": "PulseDAO",
+    "slug": "pulsedao-sp84u",
+    "description": "DAO rewarding users and providing workshops (GiveAway rewards)",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Heroes DAO",
+    "slug": "heroes-dao-yuppq",
+    "description": "Heroes DAO is on a mission to honor living organ donors. The community will provide Hero NFTs to donors which will give them exclusive benefits!",
+    "event": "DAOHacks",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r9t85"
+    ]
+  },
+  {
+    "name": "DONE",
+    "slug": "done-kcrmx",
+    "description": "An NFT Airdrop service that runs monthly and Airdrops Monthly Ranked DAO participation NFTs to Users",
+    "event": "DAOHacks",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

@@ -1,0 +1,2908 @@
+[
+  {
+    "name": "Bowled x Polybase",
+    "slug": "bowled-x-polybase-quw8u",
+    "description": "Bowled is a card-based cricket game. Players get to test their cricket strategies using a deck of cards against other players.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solive",
+    "slug": "solive-picjb",
+    "description": "Solive is a flexible online playground for Solidity smart contracts, inspired by remix-IDE and react-live. You can edit, compile, deploy, and interact with solidity smart contracts in one React component.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y24y0"
+    ]
+  },
+  {
+    "name": "Telescope",
+    "slug": "telescope-abrra",
+    "description": "Private Attestation platform on blockchain to generate and verify the data",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "qfmej"
+    ]
+  },
+  {
+    "name": "CryptoSafe",
+    "slug": "cryptosafe-ishqd",
+    "description": "CryptoSafe is a recoverable safe that stores your crypto assets on recoverable smart contract so that you don't have the fear of loosing them. You can also recover your safe if you lost the access to the safe by setting up backup address.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deterministic Deployer",
+    "slug": "deterministic-deployer-p3eyi",
+    "description": "Basic infrastructure needed to deploy contracts and factories deterministically for ERC-4337 and others, on more chains",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "L2 Mania",
+    "slug": "l2-mania-bkfcc",
+    "description": "An easy to use multi chain transaction explorer and bridger. Connect with multiple l2's, see there data and interact with transactions and send your assets across them",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Claymore",
+    "slug": "claymore-jec6h",
+    "description": "Marketplace for selling codes or resell using polybase s a database",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "x-call-tracker",
+    "slug": "x-call-tracker-u7skx",
+    "description": "x call tracker helps users of contracts that depend on Connext to get real time status information about their xCalls through Push protocol",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Dappster",
+    "slug": "dappster-7gmd2",
+    "description": "Dappster is a decentralized application store built on the Polygon Dapp Store Kit.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AvatarMinto",
+    "slug": "avatarminto-oywcj",
+    "description": "AvatarMinto allow a wider range of design tools and dynamic avatars. include adding more design elements such as body tones, and facial features, as well as allowing users to upload their own designs",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NIFT",
+    "slug": "nift-wpr3j",
+    "description": "Gift vouchers as NFT; To appreciate anyone just gift them an NFT voucher",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Sadaiv ID",
+    "slug": "sadaiv-id-ozq13",
+    "description": "Proof of Work protocol for Developers powered by Polygon ID.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LeafTrack",
+    "slug": "leaftrack-s2v99",
+    "description": "Revolutionizing ecosystem monitoring with satellite images and blockchain technology",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "poolify",
+    "slug": "poolify-sppap",
+    "description": "Poolify  allows DAOs to create single-asset pools for their native token, and reward members of the DAO for acting as watchers by pushing exchange prices on chain",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Data Champion",
+    "slug": "data-champion-2r4nu",
+    "description": "It's a data marketplace where individuals and data daos can share and purchase datasets. Even more one can only purchase a sample of the dataset also, that can be used to check on the quality/feasibility of data for your use case.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKAudit",
+    "slug": "zkaudit-z14id",
+    "description": "We built a way to audit machine learning models with ZK proofs -- it could also be used to build on-chain data marketplaces!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xPrompt NFT",
+    "slug": "xprompt-nft-fuaby",
+    "description": "Experience the future of AI-generated art with OpenAI, Stable Diffusion. Simply prompt the AI to generate unique images, and seamlessly mint them as NFTs in your browser",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyMarket",
+    "slug": "polymarket-1nc8d",
+    "description": "Polymarket allows you to bet on different game outcomes and gamifies user experience.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Yieldify",
+    "slug": "yieldify-4gnx2",
+    "description": "Cryptocurrency holders can earn interest and pay for subscriptions by staking their tokens on a SAAS platform that accepts cryptocurrency payments.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Optimism ATST Subgraph",
+    "slug": "optimism-atst-subgraph-uoawe",
+    "description": "Optimism Attestation Station Subgraph - A subgraph for attestations of about address in Attestation Station",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spectrum3",
+    "slug": "spectrum3-pjn6y",
+    "description": "NFT powered community tool using which developers can build communities easily.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "UMA-safe",
+    "slug": "uma-safe-c7iew",
+    "description": "UMA-safe is a set of smart contract that allows permissionless creation of insurance pools for ERC4626 vaults/tokens.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Raise",
+    "slug": "raise-kitfv",
+    "description": "Platform that will help you to raise funds for your idea to save the world",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Tick3t",
+    "slug": "tick3t-jnufm",
+    "description": "Turn your events and tickets into nfts  and prevent fake tickets",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MamashooterXPolygon",
+    "slug": "mamashooterxpolygon-7k8u2",
+    "description": "Its a 2d platform game which can be run on browser and it is made using gdevelop and javascript. After the game you can mint nfts to keep as an asset.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "F-POAP",
+    "slug": "f-poap-3h7r3",
+    "description": "F-POAP is a Proof of Attendance Protocol (POAP) implemented on Fuel. It could be a useful feature for Fuel-based applications and events.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "u7kt2"
+    ]
+  },
+  {
+    "name": "SmartBuys",
+    "slug": "smartbuys-0do6a",
+    "description": "SmartBuys is a game changing solution to the problem of Product Counterfeiting.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "TaskVault",
+    "slug": "taskvault-ps9ro",
+    "description": "A decentralized freelancing-platform, which helps hiring web3-freelancers the web3-way (and more)",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Voting on Scroll",
+    "slug": "decentralized-voting-on-scroll-cie41",
+    "description": "Decentralized Voting smart contract deployed on scroll alpha testnet",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BAYC Gallery",
+    "slug": "bayc-gallery-cu2si",
+    "description": "A 3D NFT gallery showcasing BAYC NFT holders. Featuring top holders of BAYC NFT's and a simple way to view query any wallet address for BAYC NFT's",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t3zyt"
+    ]
+  },
+  {
+    "name": "NiftyPerks",
+    "slug": "niftyperks-nnios",
+    "description": "Unlock the power of loyalty with NiftyPerks - where earning rewards is as fun as spending them!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Ice Box",
+    "slug": "ice-box-u6err",
+    "description": "Our app allows users to create their stickers-nft in various L2 networks.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "tokenverse",
+    "slug": "tokenverse-q0tg2",
+    "description": "A no-code social token and NFT memberships multi-chain launchpad",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "BlockEdu",
+    "slug": "blockedu-br6bq",
+    "description": "Introducing BlockEdu! We prioritize privacy, security, and convenience with features like push notifications, Filecoin storage for student assignments, & ZK-EVM network for fast transactions. We use superfluid to pay fees in streams, & ERC721 SBT on Scroll for degree certificates",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "CCAN",
+    "slug": "ccan-2f56c",
+    "description": "A mirror copy but with token gating feature and decentralize(can use custom domain and deploy buy user them self)",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Journey",
+    "slug": "journey-34h5a",
+    "description": "Journey is a Gnosis Chain quests platform built to onboard the next billion users into crypto.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Global Passport App",
+    "slug": "global-passport-app-xjmom",
+    "description": "Global passport app on Optimism - soulbound NFT visas on Ethereum protocol",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DEStake",
+    "slug": "destake-yoxpx",
+    "description": "The goal of this project is to create a staking platform that allows users to stake various cryptocurrencies and earn rewards. The platform will use the UMA protocol's financial contract templates to create customized staking products with different parameters.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT-Game",
+    "slug": "nft-game-9xhk7",
+    "description": "Avenger NFT game that can be played by minting an avenger character to fight Thanos character. Thanos attacks back randomly that can make him win.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WillGaurd",
+    "slug": "willgaurd-r231i",
+    "description": "Protect your digital assets and ensure their rightful distribution with WillGuard's solution for managing and designating beneficiaries.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "CrossScale&the friends we made along the way",
+    "slug": "crossscale-and-the-friends-we-made-along-the-way-uk8v8",
+    "description": "Permissionless Modular Interoperability with Hyperlane -- Warp Routes, Community Building, and LINK & WETH freely exchanged between testnets!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAppStore",
+    "slug": "dappstore-qr13q",
+    "description": "A public, verifiable and trusted list of dApps across all chains.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swirl",
+    "slug": "swirl-q99u7",
+    "description": "Swirl  is a decentralized and non-custodial privacy solution for EVM chains",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Fund3r",
+    "slug": "fund3r-fw35o",
+    "description": "EMPOWERING COMMUNITY-DRIVEN FUNDING — Funding the future, one vote at a time.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "KUTUMB X SCROLL",
+    "slug": "kutumb-x-scroll-2j5k5",
+    "description": "Revolutionize DAO with our multi-channel team communication, seamless file sharing, streamings and more, all in one platform on Scroll, so what you are waiting, subscribe us!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "p2p cribbage",
+    "slug": "p2p-cribbage-tka81",
+    "description": "p2p cribbage is both a game and alt mempool that connects useroperations to bundlers",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buidlers.Space on Scroll Testnet",
+    "slug": "buidlers-space-on-scroll-testnet-0c2q6",
+    "description": "A nft space that can create/trade/buy/bid/ask NFT stuff! A web3 way of creater space that like a web3 amazon/stockx.com",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOist",
+    "slug": "daoist-7ec5h",
+    "description": "A DAO platform where your organisation can conduct decentralised secure voting for solving any problems you faced in your organisation.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "VVote",
+    "slug": "vvote-6r0i9",
+    "description": "VVote, the decentralised voting system that returns power to the people, you can say goodbye to manipulated elections and hello to transparent democracy. 🗳️💪",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ape Alpha",
+    "slug": "ape-alpha-uj78z",
+    "description": "Smart data for insightful Apes. Unleashing Governance and Financial Alpha on ApeCoin.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MedMate",
+    "slug": "medmate-ib5mk",
+    "description": "MedMate is a Web3 solution to manage medical records, consult with professionals, and book appointments with medical experts with different expertise all in one place.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Nidavellir",
+    "slug": "nidavellir-scmnt",
+    "description": "Nidavellir is an attestation-gated NFT creation platform that empowers creators to launch composable allowlists for NFTs.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Arbitration",
+    "slug": "arbitration-8iba9",
+    "description": "Dispute resolution/Arbitration system for the Hyperlane platform. I am using ERC-792 and ERC-1497 arbitration standards on the Hyperlane platform for interoperability.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MyScrollDeployment",
+    "slug": "myscrolldeployment-eiyr1",
+    "description": "Simple contract for Scroll test deployment, Scroll example usage",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RecycleChain",
+    "slug": "recyclechain-fhcjk",
+    "description": "RecycleChain offers web3 recycling services for the commercial and industrial sector with a focus on sustainability and innovative solutions for environmental challenges.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "DTender",
+    "slug": "dtender-6pzs6",
+    "description": "Decentralized bidding: where trust and transparency meet efficiency",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "THE GRAPH AI",
+    "slug": "the-graph-ai-z9cgp",
+    "description": "Goal is to make THE GRAPH protocol more accessible  to common peoples without much aware about graphql queries.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blockchain SyncTool",
+    "slug": "blockchain-synctool-ag8or",
+    "description": "State synchronization for web3 - propagate updates in your smart contract from one blockchain to another to keep them all in sync.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zKpk",
+    "slug": "zkpk-6erof",
+    "description": "ZK friendly pre-compiles for op-stack chains by applying a minimal diff to op-geth",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AttestationStationSubgraph",
+    "slug": "attestationstationsubgraph-ajuiu",
+    "description": "Query with graphQL the AttestationStation on Optimism thanks to a subgraph",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkExchange",
+    "slug": "zkexchange-9pfsn",
+    "description": "An 3rd party accounting software that scrapes data through csv balance sheets and proves assets, liabilities and ongoing debts without revealing any data at all to the verifier, using zero-knowledge",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoPetMint",
+    "slug": "cryptopetmint-2gjpd",
+    "description": "CryptoPetMint allows you to create and mint your own unique NFT pets on the Ethereum blockchain. Customize your pet's appearance and attributes, and trade or sell them on NFT marketplaces. Collect your own digital companions in the form of NFTs with CryptoPetMint! 🐾 #NFT",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ThirdFans",
+    "slug": "thirdfans-7ycuq",
+    "description": "ThirdFans is a decentralized and transparent platform that provides creators with greater control over their content and revenue streams",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "giftcard4us",
+    "slug": "giftcard4us-xij63",
+    "description": "NFT Birthday Cards is a platform that helps you protect your important memories, moments, and wishes. No more birthday cards ending up in the trash. With NFT Birthday Cards you can collect Birthday Cards, create, trade, and sell them.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Apeverse",
+    "slug": "apeverse-b4d69",
+    "description": "Launch a customized L2 rollup for the Ape community with governance token, swaps, and voting in one click with the OP stack!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RocketPoolDecentralizedFrontend",
+    "slug": "rocketpooldecentralizedfrontend-v2cnf",
+    "description": "Using the Near Blockchain Operating System to build a decentralized app on BOS.GG, integrated with RocketPool to offer quick swaps on Ethereum",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhoPay",
+    "slug": "ghopay-b0xyx",
+    "description": "Peer to peer decentralized payment protocol that supports multiple chains.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "DocSafe",
+    "slug": "docsafe-d5g60",
+    "description": "Safely share your documents with DocSafe - Encrypted, permissioned document sharing made easy.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MintBoxx",
+    "slug": "mintboxx-iz5cy",
+    "description": "MintBoxx is a NFT Hub built on FVM, it has it's own APIs which would enable the development of other NFT platforms on FVM.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwayStern",
+    "slug": "swaystern-ug175",
+    "description": "RetroActive public goods marketplace for DAOs, DataDAO for retroactive public goods funding based on quadratic voting to track web3 profiles and incentivize participants!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Scroll Kingdom",
+    "slug": "scroll-kingdom-gx9k8",
+    "description": "A decentralized browser game to level-up an NFT hero by collecting resources and training the hero. Hero's then craft items to be used in battle!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "TalentOnChain",
+    "slug": "talentonchain-pzaa1",
+    "description": "TalentOnChain is a decentralized autonomous organization (DAO). job listings on TalentOnChain are of high quality and integrity, creating a more efficient and effective talent management system.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Pixel",
+    "slug": "pixel-7zw9q",
+    "description": "A mobile-native hardware wallet powered by ERC-4337 account abstraction",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Buidl Bounty Hunters Credit Union",
+    "slug": "buidl-bounty-hunters-credit-union-qrfx9",
+    "description": "A Credit Union Data Dao with Transparant Private Banking providing Financial Data and Empowering Communities",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Splitz",
+    "slug": "splitz-eh0qv",
+    "description": "Split expenses and debts with friends on-chain. Receive funds in your preferred chain and token, and easily send and receive any token of your choice.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "L2 Staking",
+    "slug": "l2-staking-w54cw",
+    "description": "Stake ETH bridged from L1 to L2, having the native token of the L2 be a liquid staking representation of ETH by default, increasing the capital efficiency of the tokens locked in the bridge contract and increasing the value of users' tokens",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "DynamoNFT",
+    "slug": "dynamonft-qz38c",
+    "description": "DynamoNFT - AI Generative Dynamic NFT on zkEVM (Scroll - Polybase)",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Apecoin UEFN",
+    "slug": "apecoin-uefn-pm3fq",
+    "description": "This Apecoin-gated UEFN template will jumpstart the Apecoin community to create game experiences in Fortnite using \"Unreal Editor for Fortnite\".",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t3zyt"
+    ]
+  },
+  {
+    "name": "HomeChain",
+    "slug": "homechain-y7b7r",
+    "description": "HomeChain - a way of keeping track of home improvements and maintenance records",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "FlashGPT",
+    "slug": "flashgpt-ddn4w",
+    "description": "FlashGPT utilizes OpenAI's GPT language model to efficiently generate secure and reliable Solidity smart contracts and deploys them to a wide range of Layer 1 and Layer 2 solutions with just a few clicks.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Polyfun",
+    "slug": "polyfun-9zsz7",
+    "description": "Just a simple platform for user to post meetup invitation. Very Simple",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "OxUNO",
+    "slug": "oxuno-0j53o",
+    "description": "A cross chain P2E UNO game where players can play with opponents from a different chain and earn 💲",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "hp48a"
+    ]
+  },
+  {
+    "name": "De-BLog",
+    "slug": "de-blog-akhmw",
+    "description": "De-blog. Write & read centralized blogs, or switch to decentralized mode. Chat anonymously with other users using our push-protocol chat bot. We utilize the Polygon, FVM, and Optimism blockchains, and store your data securely on IPFS. FUTURE OF BLOGGING",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthEveryday",
+    "slug": "etheveryday-o4sne",
+    "description": "EthEveryday - NFT collection for ETH maxis. Deployed on Scroll & Goerli Testnet",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "PrivateGuardian",
+    "slug": "privateguardian-rxdrm",
+    "description": "We are building a project called PrivateGuardian which integrate privacy preservation function to guardian module contract wallet especially EIP4337 based on account wallet.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EtherRace",
+    "slug": "etherrace-opyk9",
+    "description": "EtherRace is a racing game built on the Ethereum blockchain using smart contracts. The game is designed to teach players about different Ethereum concepts, such as gas fees, block confirmations, and decentralized applications.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dapp Store",
+    "slug": "dapp-store-sc4dw",
+    "description": "DappStore that helps user easily access and manage frequently used mobile and web dapps",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Datum",
+    "slug": "datum-vxhd3",
+    "description": "A cross-chain permissionless oracle protocol for smart contracts built on top of Optimism's s newly created OP stack chains or superchains.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Xscrow",
+    "slug": "xscrow-j571i",
+    "description": "A scalable dApp that uses oracle chainlink to provide escrow infrastructure service to financial institutions who wish to grant credit to individuals with no credit history.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Midnight Snack",
+    "slug": "midnight-snack-q2k0o",
+    "description": "(sub)--TestData----TestData----TestData----TestData----TestData----TestData----T",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ape X Govern",
+    "slug": "ape-x-govern-qvtjx",
+    "description": "On and off chain activity for voting power in ApeCoin DAO. Don't let the wealthy people overpower your voting right.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Recurring Payment-based Memberships in Web3",
+    "slug": "recurring-payment-based-memberships-in-web3-bku7j",
+    "description": "We see the need for businesses to have recurrent stable income streams rather than unpredictable once based on hype and market conditions. So we developed a solution that separates \"ownership\" from \"use\" by modifying a ERC721 contract and building a frontend for managing them",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shadow DAO",
+    "slug": "shadow-dao-3u3de",
+    "description": "A DAO using Polygon IDs zk proofs as verification (on-chain verification inside smart contracts)",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hash RanCh VRF",
+    "slug": "hash-ranch-vrf-94n5r",
+    "description": "Morpheus is a framework that allows developers to request any API from web2, directly onchain for their web3 apps. This tool enables real-time data requests, any API and data to be used, and can be used on any EVM network. Morpheus has been bridging the gap between web2 and web3.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "globAAl-Abstraction",
+    "slug": "globaal-abstraction-kruz1",
+    "description": "Enable to abstract fees cross chain : I'll have a reserve on L1 that will regulary ajust L2 paymaster staking to abstract user's fees on L2. This aim to onboard newbies on L2, allowing them to use it without bridging eth themselves",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "GnosisSwap",
+    "slug": "gnosisswap-wh66r",
+    "description": "A one point destination to swap your cryptos on Gnosis blockchain.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crystalrohr",
+    "slug": "crystalrohr-adxi9",
+    "description": "Crystalrohr is an auto caption and in-video search platform built on YouTube. It makes content accessible to those with vision disabilities.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "musiChain",
+    "slug": "musichain-nhp1r",
+    "description": "Discover a revolutionary music app that tackles income inequality, offers engaging challenges, and rewards users with NFT collectibles. Experience fair artist compensation, secure licensing, and a unique platform that reshapes the music industry. 🎵🌟",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Valchi Protocol",
+    "slug": "valchi-protocol-yyxq2",
+    "description": "The lack of efficient investment products in real-economy loans makes it tough for non-bank lenders to collect liquidity from investors. For this reason, Valchi is building a global credit marketplace.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "you got the meme",
+    "slug": "you-got-the-meme-6m5w9",
+    "description": "Just description to save stack just desc to save stack Just description to save stack just desc to save stack",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eta",
+    "slug": "eta-fc250",
+    "description": "Capital-Efficient Decentralized Exchange providing seamless cross-chain asset transfers",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "rewardoor",
+    "slug": "rewardoor-6z35e",
+    "description": "Rewardoor is a social impact incentive protocol powered by DID. In the hackathon, we have reconstructed the value dilvery chain of the activity promotion in twitter，people could incentivize the authentic social impact contrubutions freely from platform control",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "BountyAttestor",
+    "slug": "bountyattestor-rkwwi",
+    "description": "Bounty Attestor allows to attest that an account won a bounty. It gives the bounty winners and opportunity to use that attestation in a number of use cases going forward.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bOrPa",
+    "slug": "borpa-edo5i",
+    "description": "Simple cross-chain swapping tool to trade ARB for OP or vice versa via Connext and Polybase",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Scaling Stable Coins",
+    "slug": "scaling-stable-coins-vina6",
+    "description": "VUSD is Backed by other StableCoins such as USDC , USDT, DAI, BUSD, Frax and more.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOFetcher",
+    "slug": "daofetcher-xomxb",
+    "description": "DAOFetcher is a platform for users to easily receive updates and learn about a given DAO's culture.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Polygon2Optimism",
+    "slug": "polygon2optimism-wsun2",
+    "description": "Polygon to Optimism Rollup where blocks in the Polygon ZKEVM rollup are batched, compressed and posted to Optimism Goerli Testnet",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "albumlog",
+    "slug": "albumlog-90g38",
+    "description": "Albumlog is a decentralized platform that empowers musicians to create, showcase, and sell their music without the need for intermediaries.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "UpiCrypto",
+    "slug": "upicrypto-rsdvc",
+    "description": "UpiCrypto: A seamless unified payment interface for crypto using account abstraction, smart contract wallet and sponsored user transactions",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SplitOnChain",
+    "slug": "splitonchain-9osfv",
+    "description": "A web-dapp for splitting shared expenses with friends or anyone with a wallet!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "d-3 Patti",
+    "slug": "d-3-patti-cgdmj",
+    "description": "Building a Decentralised card game that can be played by users from different chains",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Split IT",
+    "slug": "split-it-5m763",
+    "description": "Decentralised Bills Splitting application. where you can add all your expenses/bills of any of your trip and our app wil automatically settle the amount left between you and your friends.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "SofToken",
+    "slug": "softoken-4vh70",
+    "description": "SofToken is a DApp that allows users to Mint a NFT for their software with a license. Other users have a option to subscribe to the minted NFT and use it to build their own software. Different types of restrictions can be applied to the usage of a software before it is minted",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "spillTea",
+    "slug": "spilltea-7xwmc",
+    "description": "share your web3 stack in a simple way. show off which dapps you use and love on your socials!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AttestationExplorer",
+    "slug": "attestationexplorer-40cih",
+    "description": "Attestation Explorer allows users to attest and also verify the attestations. It leverages the power of subgraphs to index the events emit which allows seamless search through the contract's transaction history.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "PolyPass",
+    "slug": "polypass-fg8ru",
+    "description": "Poly-Pass is a password manager extension that uses blockchain technology to securely store and manage passwords.With Poly-Pass, users can access their passwords from any device with the extension installed, without having to worry about memorizing or managing multiple passwords.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "novusys",
+    "slug": "novusys-ir3qq",
+    "description": "First Account Abstraction wallet provider utilizing social signin through auth0.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9z8z1",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SCALE: Smart Contract Access Logic for EVM",
+    "slug": "scale-smart-contract-access-logic-for-evm-65e08",
+    "description": "Access control may require vast amount of data. For example, sanction lists. L2s enables data publishing on-chain at scale.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "EchoSync",
+    "slug": "echosync-xnooa",
+    "description": "ECHOSYNC employs the power of AI to help DAO members reach a consensus. With ECHOSYNC, DAO members VERBALLY AND ASYNCHRONOUSLY co-create internal & external documentation such as proposals, meeting notes, and social media content.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "XStream Mainnet : 1 to many",
+    "slug": "xstream-mainnet-1-to-many-7f2pc",
+    "description": "A payroll solution to send streams of tokens to any chain to 1 or many wallets",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Green Finance",
+    "slug": "green-finance-xrbax",
+    "description": "Web3 Invoicing made easy with Green Finance, Create, Receive and Settle your invoices",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Dexilla",
+    "slug": "dexilla-ry79x",
+    "description": "\"Dexilla\" is a decentralized exchange that utilizes an order book system and operates on Layer 2 technology based on the Optimism blockchain.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zk proof of evm execution",
+    "slug": "zk-proof-of-evm-execution-ix960",
+    "description": "Using zkevm circuits, this allows to prove knowledge of calldata that solves some challange on Ethereum blockchain.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "poly-attest",
+    "slug": "poly-attest-793q4",
+    "description": "Poly-attest - Unleashing the power of web3 database with the convenience of web2 tools",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "hp48a"
+    ]
+  },
+  {
+    "name": "zkConfidentialBridge",
+    "slug": "zkconfidentialbridge-pmr6a",
+    "description": "A general bridging solution using zkps to provide confidentiality and proof of burning / minting",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "L2 Transport DAO",
+    "slug": "l2-transport-dao-fx40c",
+    "description": "Developer tools to manage and enable connected vehicles for efficiency and sustainability, reduce fleet incidents, road accidents using L2 layer and Ethereum, Near Web3 tools.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Foundly",
+    "slug": "foundly-i5qt1",
+    "description": "A platform to help you find your lost items and return found items to their rightful owners.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "W3Space",
+    "slug": "w3space-u5c5p",
+    "description": "W3Space is a Cross-Platform Gamified Community Space. We’re building hyper-community spaces!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Highway NFts",
+    "slug": "highway-nfts-pd7y3",
+    "description": "Our project is a unique application of the Hyperlane ERC721 technology, which enables the creation and transfer of non-fungible tokens (NFTs) across multiple blockchain networks",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Bridge Pass",
+    "slug": "bridge-pass-zi3gr",
+    "description": "A new way to send cross-chain and on-chain crypto using gift cards​.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Ape-Sync",
+    "slug": "ape-sync-9ew12",
+    "description": "Ape Sync A Project build to Improve the Governance at Apecoin Dao and manage day-2-day tasks easily and never missing on Important Notifications related to Dao.  Dashboard for Governance of Apecoin DAO  Proposals, Governance , Votes , Group Messaging , Merchandise",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Fiat Paymaster",
+    "slug": "fiat-paymaster-rm3k3",
+    "description": "Account Abstraction Paymaster that allows paying for gas fees with PayPal",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "SurveyWei",
+    "slug": "surveywei-6u7ti",
+    "description": "SurveyWei enables market researchers on the Optimism blockchain to create surveys and reward respondents for answering questions.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SearchOS",
+    "slug": "searchos-gxx7v",
+    "description": "SearchOS is a web3 search engine making it easy to interact with your favorite blockchain applications. Query wallet balances, see real-time prices, swap, bridge, and send tokens (cross-chain) in just a few clicks.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Apes Refi Club",
+    "slug": "apes-refi-club-dirby",
+    "description": "We'll mint green NFTs called ARC to balance BAYC NFTs' carbon footprint. ARC's price will match BAYC's carbon emissions in ApeCoin. ARC holders get voting rights in Apes Refi Club DAO. Mint fees go to DAO treasury for decision-making.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "ROFL",
+    "slug": "rofl-b3q0x",
+    "description": "Building an NFT raffle platform for users who want to raffle off their NFTs on Ethereum.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arboracle",
+    "slug": "arboracle-vkkce",
+    "description": "Bring transparency and security to reforestation projects data",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "X-Chain Gaming NFT Marketplace",
+    "slug": "x-chain-gaming-nft-marketplace-ojuea",
+    "description": "Unlock limitless possibilities with our Cross-Chain Gaming NFT Marketplace - Where every NFT is a masterpiece Game Asset waiting to be discovered.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Attention Game",
+    "slug": "attention-game-w8k0n",
+    "description": "Attention game: A social NFT experiment on the blockchain, inspired by SaaS and DeSoc concepts, featuring hexagonal NFTs with adjacent link minting and ad showcasing capabilities.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalllaW Explorer",
+    "slug": "walllaw-explorer-m7ycu",
+    "description": "WalllaW explorer to view and interact with a walllaw instance.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lima Smart",
+    "slug": "lima-smart-4bji7",
+    "description": "Lima Smart is revolutionizing the agricultural industry in Kenya by creating a secure and transparent ecosystem for farmers to trade their goods using smart contracts and blockchain technology. Join us in transforming the future of agriculture! #LimaSmart #Blockchain #Agriculture",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "POLLL",
+    "slug": "polll-9exc7",
+    "description": "this is an social media where people can generate there poll and can use the result of it .",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Place",
+    "slug": "web3place-ihq2q",
+    "description": "Web3 Place: An onchain canvas where you can color squares and compete for the most colored squares. Pay more than the prev painter. Winner gets 80% of the total value. Inspired by r/place. Unique and fun for building community and experimenting with decentralized finance.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Troye",
+    "slug": "troye-zcwf9",
+    "description": "Foursquare meets Web3. Troye is a social reputation and loyalty-based score based on attestation between two parties.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CarboEx",
+    "slug": "carboex-o9tk7",
+    "description": "CarboEx is a decentralized application that creates an unchangeable and tamper-proof record of carbon credit transactions.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrustX",
+    "slug": "trustx-axpyu",
+    "description": "Building a Blockchain-based scientific publishing platform that incorporates shared governance , incentivization of authors through a DAO and a social network among the entities.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Multinate",
+    "slug": "multinate-kgqay",
+    "description": "Multinate is a web-based application that enables charity organizations to create fundraising events and accept donations from various supported blockchains.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "gt566"
+    ]
+  },
+  {
+    "name": "pst",
+    "slug": "pst-54ybm",
+    "description": "We are building an in-browser address-to-addres messaging service that you can access within a browser extension.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Humanity Card",
+    "slug": "humanity-card-u0dc5",
+    "description": "A FIAT/Crypto Credit Card that onboards people into Web3 and supports crypto unconditional basic income.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKaptcha",
+    "slug": "zkaptcha-4q4qz",
+    "description": "A cloudflare for web3. This is a captcha service that verifies challenges on the smart contract level to prevent spam and bots for hurting NFTs, exchanges, and games.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "yip67",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Feedhook",
+    "slug": "feedhook-8emv0",
+    "description": "Feedhook enables DApps, DAOs and other communities to get feedback/reviews via Attestations on-chain.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bricks",
+    "slug": "bricks-0s8n5",
+    "description": "Bricks is a solution to mint fractional NFTs using decentralised governance.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Verses.3",
+    "slug": "verses-3-14072",
+    "description": "A poet's paradise, hoping to utilize the web3 technology for creating a better experience for writers and readers.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Save Ocean",
+    "slug": "save-ocean-fpkrx",
+    "description": "Save Ocean where you can donate to clean up the ocean and earn NFT",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "AiNftFactory",
+    "slug": "ainftfactory-c5kjz",
+    "description": "AiNftFactory is a platform that uses AI-generated images to assist in creating NFTs. #AiNFT #NFTcreation #ArtificialIntelligence #Hackathon",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Crossfolio",
+    "slug": "crossfolio-s1nzf",
+    "description": "Crossfolio: showcase cross-chain contributions in an NFT-based resume. Aggregates data from EVM-compatible chains. Secure, decentralized, and easy.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Abstrade",
+    "slug": "abstrade-p0j2c",
+    "description": "Permissionless, non-custodial, peer to peer, on-chain limit order trading protocol built on Gnosis Chain for cheap gas and ERC-4337 account abstraction for easy UX.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Insure-a-bag",
+    "slug": "insure-a-bag-xwyvd",
+    "description": "Introducing Insure-a-bag, the innovative NFT insurance protocol designed to protect your valuable digital assets from theft and malicious attacks. Invest in peace of mind for your NFT collection.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Indexooor",
+    "slug": "indexooor-2j0f9",
+    "description": "A low-level indexing and querying solution for all of your smart contract state based on EVM chains.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "APE Dao (2.0)",
+    "slug": "ape-dao-2-0-i846k",
+    "description": "Cross Chain Governance Smart Contract for APE Community. Where users can vote on DAO in Polygon Chain from Optimism Network.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Prisma",
+    "slug": "prisma-9rspm",
+    "description": "A descentralized content creation platform, seeking privacy for al stakeholders, by all means.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "ProvyLens",
+    "slug": "provylens-58q4z",
+    "description": "We are building a supply chain management system for Web3. This would bring  a lot of advantages overs SCM's in web2. With ZK's involvement It will be cherry on cake. Providing more transparency and trust without revealing crucial Information.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Loan Less",
+    "slug": "loan-less-jp2bu",
+    "description": "P2P Collateralized Lending Protocol using Polygon ID to be more secured",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Opclave",
+    "slug": "opclave-94def",
+    "description": "Opclave is an OP Stack improvement with ERC-4337 compatible SC accounts that uses signatures abstracted with AppleEnclave which allows users to create and use non-custodial wallets with touch/face id without having seed phrases",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Key protocol",
+    "slug": "key-protocol-fb71v",
+    "description": "Key Protocol is a smart contract system that allows the NFT collection owners to assure their users by insuring their ERC721 tokens against Ethereum tokens.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Spark",
+    "slug": "spark-ut31u",
+    "description": "An NFT Staking application where anyone can come and stake their NFT and earn yield out of it.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Wisteria Labs",
+    "slug": "wisteria-labs-9ns79",
+    "description": "Gnosis wallet with security features like 2FA, location security & device whitelist",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyIDBridge",
+    "slug": "polyidbridge-jdvfj",
+    "description": "This project aims to create an OAuth 2.0 adaptor for Polygon ID, enabling legacy Web 2.0 apps to obtain secure zero-knowledge proofs and passwordless authentication.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Access Wallet",
+    "slug": "access-wallet-2n2u0",
+    "description": "A more accessible cryptocurrency wallet for people in the global south built on chat and ERC-4337!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OP AttestationStation Integration",
+    "slug": "op-attestationstation-integration-yv0px",
+    "description": "Integrated OP AttestationStation as data provider into Sismo using the Graph",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The ZK Powerball",
+    "slug": "the-zk-powerball-k7eo5",
+    "description": "The ZK Powerball is a scalable, secure, lottery game platform that offers Powerball and scratch off inspired lotteries.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Swirl",
+    "slug": "swirl-py6mx",
+    "description": "Swirl - the decentralized ad platform that puts privacy first, rewards publishers, and offers easy npm package integration. Say goodbye to invasive ads and hello to a better web experience.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "blossom.land",
+    "slug": "blossom-land-t6d1q",
+    "description": "Reputation protocol based on nested NFTs. Where users and DAOs can issue a reputation in a form of NFT.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "FeeLess",
+    "slug": "feeless-ep0jc",
+    "description": "Creating a wallet for fee-less crypto payments and crypto transfers.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "trucause",
+    "slug": "trucause-qq4bp",
+    "description": "A platform to connect volunteers and NGOs and incentivize volunteers via NGO specific on-chain creds, that they can use to redeem swag from sponsors. Volunteers can easily sign up for short and long term activities. Volunteer can upload proofs of what they've contributed.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "WalletRecovery",
+    "slug": "walletrecovery-54cu5",
+    "description": "Recovery of Smart Contract Wallets using Social Strategy / Guardian LockBox strategy.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xVaults",
+    "slug": "xvaults-qb4fm",
+    "description": "Transaction builder to deposit in multiple cross chain vaults in one transaction.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Instax.finance",
+    "slug": "instax-finance-p407t",
+    "description": "Building the next best generation zk-rollups Yield, Bridge, Stableswap experience.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "plac3",
+    "slug": "plac3-mu4oc",
+    "description": "Plac3 is a clone r/place on Web3, built on the lattice/mud framework. You can use Plac3 for making ads or showing the chain ecosystem. The purpose is to have fun in the community.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Omnible",
+    "slug": "omnible-pmras",
+    "description": "Omnible is an omnichain NFT studio for creating, managing, and trading NFTs across different networks from a single collection, providing interoperability, unity, and simplicity.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CFD DEX and Flash Trillions",
+    "slug": "cfd-dex-and-flash-trillions-ad666",
+    "description": "Contracts for Difference (CFD) Decentralized Exchange using a novel “Flash Collateral Trillions” borrowing of non-existent funds for efficient liquidations",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "rmkrz",
+      "jzpj5",
+      "qfmej",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "xEarn",
+    "slug": "xearn-pky22",
+    "description": "Cross Chain one-stop protocol for Yearn yield farmers. Say good bye to manually bridging and forget about the existence of multiple chains and rollups.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "X-CHAT",
+    "slug": "x-chat-tvq7v",
+    "description": "X-Chat is a Dapp where you can Chat and send Assets across EVM and ZK compatible chains",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Inter Engine",
+    "slug": "inter-engine-6fam7",
+    "description": "Inter Engine is a cutting-edge messaging gateway engine that operates in a decentralised manner across multiple blockchain networks.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "FamilyShare",
+    "slug": "familyshare-pmr7b",
+    "description": "FamilyShare is a highly customizable multi-sig family shared crypto wallet with account abstraction. This project aims to provide families with an efficient, secure, and transparent platform for managing their digital assets collectively.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Ethercard",
+    "slug": "ethercard-zv78k",
+    "description": "Ethercard simplifies cryptocurrency payments with NFC technology. Request payments on your phone, and senders can tap their Ethercard linked to their crypto wallet to approve transactions securely. Easy to use, and perfect for individuals and small business owners.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qfmej",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Consent-Before-Attest",
+    "slug": "consent-before-attest-4766o",
+    "description": "Say goodbye to defamatory data on-chain and hello to consent and privacy. No one can publish data about you unless you approve it with our attestation signing protocol. Take control of your digital identity today!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Third Board",
+    "slug": "third-board-782xm",
+    "description": "Self hosted and Lightweight alternative to dework with fast, customizable and chain agnostic project management solution for small to mid sized teams and hackers.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Power Push",
+    "slug": "power-push-5y93i",
+    "description": "A solution adding payment modal to any dapp, powered by Push wherein you can send direct payments via chat to a friend in the style of i.e. iMessage+Apple Pay. End user can accept their funds on their preferred chain without worrying about swaps, bridges, consolidating funds, etc",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Foreboding",
+    "slug": "foreboding-kr7jd",
+    "description": "The first co-op multiplayer mystery game built on the blockchain!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LearnIt",
+    "slug": "learnit-0xjvb",
+    "description": "Educational Platform made using polygonId , PushChat and Graph",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockLance",
+    "slug": "blocklance-z734k",
+    "description": "A platform for freelancers that operates on a peer-to-peer basis, is decentralized, and supports multiple blockchains.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "9zj01",
+      "yip67"
+    ]
+  },
+  {
+    "name": "TOKENLEASE",
+    "slug": "tokenlease-gaf4h",
+    "description": "The project is to develop an NFT renting and lending platform using blockchain technology. The platform will allow users to lend and rent NFTs, create smart contracts to manage transactions, and integrate with wallets to enable secure payments.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sassy - ZK Data NFTs",
+    "slug": "sassy-zk-data-nfts-roa6z",
+    "description": "Automatic ZK claim generator that can be trade across chains and marketplaces as an NFT",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "India3",
+    "slug": "india3-vize2",
+    "description": "India3 is a decentralized platform where we can verify the demographic data of a person. This system uses decentralized technology such as blockchain to ensure the accuracy and validity of demographic data, such as name, age, gender, and location.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "ScalingTree",
+    "slug": "scalingtree-zida1",
+    "description": "One repository for the world tree data. Social media for trees.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Attendify",
+    "slug": "attendify-g59yf",
+    "description": "Attendify app helps attendees find and connect with like-minded individuals at high-quality events. It ensures transparency and inclusivity through an attestation process for events and attendees.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Creatorz",
+    "slug": "creatorz-kscy2",
+    "description": "Creatorz is a decentralized video sharing platform where content creators can monetize their videos with social tokens and NFTs. Users can buy, sell, and collect videos as NFTs and earn advertising rewards. Creatorz is a video platform that empowers creators and users with web3",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "ExplorerX",
+    "slug": "explorerx-7w5hs",
+    "description": "ExplorerX simplifies deploying smart contracts on multiple layer2 blockchains. Deploy your contracts on any supported chain with just a few clicks, without manual interaction. Easier layer 2 onboarding, made possible with ExplorerX.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "hp48a",
+      "fp1x1",
+      "yip67",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Gamify",
+    "slug": "gamify-3fyh9",
+    "description": "Gamify is a Decentralised digital game distribution platform which offers a seamless experience for gamers to discover, purchase and play their favourite games. Gamify platform integrates NFTs as tradable in-game items and assets which can be minted(collected).",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Metch",
+    "slug": "metch-amr83",
+    "description": "Metch is a dapp for connecting hackers to form teams and build ideas as well as keep them informed about new hacking events.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "TBS",
+    "slug": "tbs-hqkne",
+    "description": "TBS is a high-performance blockchain scaling platform that achieves scalability through sharding technology, while maintaining a high level of security and decentralization.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Moses-staff",
+    "slug": "moses-staff-g27in",
+    "description": "Moses-staff 🏺 a Decentralizing NFT Marketplaces build in Optimism",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flowy",
+    "slug": "flowy-810ya",
+    "description": "Stream NFTs across chains seamlessly  in real-time @ just 1 click.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "OneFi",
+    "slug": "onefi-4dbxz",
+    "description": "One stop platform for investments in multiple chains built with OpLink, a custom L2 solution",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "zkSwap",
+    "slug": "zkswap-29kmk",
+    "description": "We build a completely anonymized DEX using Zero Knowledge and Account Abstraction.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zAAp Protocol",
+    "slug": "zaap-protocol-nmrh6",
+    "description": "Save time and money with zAAp'd transactions. Combine multiple transactions into one and pay only one gas fee!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y24y0"
+    ]
+  },
+  {
+    "name": "Dverse",
+    "slug": "dverse-htaa0",
+    "description": "Worried about centralized storage companies might sell your data, Use our DCUBE, Now your data is always in your hands... 🥳",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Linkme",
+    "slug": "linkme-i6xff",
+    "description": "Linkme | The future of Bios is here, show your story on Web3",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "DATA-EX",
+    "slug": "data-ex-x43o6",
+    "description": "A decentralised, censorless, and permissionless data marketplace where anyone can sell any data including but not limited to games, apps, software, videos, and images.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Kun",
+    "slug": "kun-6j1cr",
+    "description": "An NFT marketplace deployed on optimism,using the Graph as the query api",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Credence",
+    "slug": "credence-oq7gn",
+    "description": "Credence simplifies tracking and verifying identity & reputation on Optimism's AttestationStation for developers and users. Similar to etherscan, it offers a user-friendly interface. It also enables cross-chain attestation, which breaks down barriers between different networks.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "gt566"
+    ]
+  },
+  {
+    "name": "Chain of Impact: Witness the Change",
+    "slug": "chain-of-impact-witness-the-change-knbts",
+    "description": "Empower your donations with transparent blockchain data management, and stay updated on the real-world impact of your generosity",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Lynx",
+    "slug": "lynx-u5rnf",
+    "description": "Social media based Account abstracted smart contract wallet protocol with 1 EOA & 2 social media handle as keys",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Project Reputation",
+    "slug": "decentralized-project-reputation-bskpc",
+    "description": "On-chain star ratings for crypto projects and user can add comments and reviews",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Zklinks: Scalable L2 referral link tracking",
+    "slug": "zklinks-scalable-l2-referral-link-tracking-6mna3",
+    "description": "Zklinks is a link tracking platform that leverages zero knowledge proofs and L2 networks to provide users with a more secure and private way to track click referrals and earn rewards.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "hp48a",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Pass3manager",
+    "slug": "pass3manager-7ag68",
+    "description": "Our goal is to provide the user with a tool to store their credentials in a secure, private, and decentralized manner with self-sovereignty of their data.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Pool Party",
+    "slug": "pool-party-vwg6n",
+    "description": "A comprehensive decentralized identity directory for web3 social",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Papantla",
+    "slug": "papantla-jqomc",
+    "description": "If your flight is cancelled, we pay you immediately. Papantla: Insurance without intermediaries...On-chain insurance claim settlement for flights, using oracles for API communication and storing information in smart contract and Polybase database.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "fp1x1",
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Told You So",
+    "slug": "told-you-so-auvch",
+    "description": "Toldyouso is an app where you can make predictions provably. You can keep them secret until the time of revealing.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Ads-B Web3",
+    "slug": "ads-b-web3-tfp4g",
+    "description": "Ads-B Web3 is a decentralized flight tracking and airport information system that operates on the Web3 blockchain. It enables users to track flights and access real-time information about airports without relying on a centralized authority.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "(Self) Sovereign Money System",
+    "slug": "self-sovereign-money-system-kqce9",
+    "description": "Towards a (Self) Sovereign Money System promoting financial stability and economic growth equivalent to fractional reserve banking, trough an autonomous programmable money system on scalable blockchain technology.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SustainaFields",
+    "slug": "sustainafields-5ppds",
+    "description": "A decentralized log that tracks carbon credits on blockchain. By incentivizing sustainable practices with tokens, the aim is to promote a greener future.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZkTaxGovernance",
+    "slug": "zktaxgovernance-m0i1i",
+    "description": "A ZkProof Tax Fund allocation system where Taxpayers are provided with TAX tokens against the stablecoin deposits which can be used to vote for the projects, hence ensuring fair fund allotment. Zero Knowledge proofs is used to handle the registration and voting done by the users.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Universum",
+    "slug": "universum-zo4oa",
+    "description": "A universal name service for all chains and layer 2's with an application to register it on them",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Liquorice",
+    "slug": "liquorice-k4ra4",
+    "description": "A MEV-aware trading platform with a \"brokerage\" type of execution. Instead of placing limit orders, makers give \"commitment\" to execute the trade at a certain price plus their markup. Auction based execution system helps makers filter out toxic flow from uneducated flow",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalletX",
+    "slug": "walletx-ufxfy",
+    "description": "Modularized account abstracted wallet, providing customized user experience based on users' needs.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Wally Wallet - The Game",
+    "slug": "wally-wallet-the-game-8oh9v",
+    "description": "We are building a solution that enables efficient and effective education of children on the important concepts of Web3, using real-life examples and a simple onboarding process.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReccuriPay",
+    "slug": "reccuripay-j143d",
+    "description": "A wallet that allows you to set up recurring payments with a social recovery feature",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Rafflepay",
+    "slug": "rafflepay-at0i5",
+    "description": "We're a dapp for conducting sweepstakes. You can create sweepstakes for your followers/clients and segment your audience by subscription memberships.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Apes Legacy",
+    "slug": "apes-legacy-aw48c",
+    "description": "Apes Legacy is a dApp that enables BAYC, MAYC and BAKC assets inheritance.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "ethman",
+    "slug": "ethman-co4kj",
+    "description": "Postman, but for ethereum smart contracts. Collect and manage all your smart contracts under one roof for easy access.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Followem",
+    "slug": "followem-vbxuz",
+    "description": "Universal permissionless promotional and referral system for ethereum onchain activities.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "Cred-IT",
+    "slug": "cred-it-po79o",
+    "description": "Cred-IT is a loan aggregator system for both web3 based lending protocol and traditional banking system",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Snarky Monsters",
+    "slug": "snarky-monsters-1ei3d",
+    "description": "Maximally on-chain, Pokémon-style game, with trustless NPC interaction via ZK-SNARKs",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Medikai",
+    "slug": "medikai-6d7rk",
+    "description": "A Multi-Chain decentralized medical App for help the health sector by decentralizing the storage and retrieval of pateint's medical record.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Grimoire",
+    "slug": "grimoire-hb4f8",
+    "description": "Grimoire makes web3 more inclusive and accessible with open, quality, community-checked captions and transcriptions.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "hawler",
+    "slug": "hawler-nt38a",
+    "description": "hawler seek to provide psuedo-anonymous token transfers where only the sender and receiver know each other. This allows from some privacy between two parties transacting with each other.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Xpredic",
+    "slug": "xpredic-vrykg",
+    "description": "Introducing Xpredic , where users can enjoy predicting on their favorite real-world events from Sport games to politics and earn rewards!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "SCONE: Efficient PBS for High-load Chains",
+    "slug": "scone-efficient-pbs-for-high-load-chains-oqkmy",
+    "description": "Introducing Optimal Stopping to reduce computational load on relays/validators, for more efficient and secure block proposal validation in PBS.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Medjeds",
+    "slug": "medjeds-v8yay",
+    "description": "Test your thinking and Solidity coding limits with this full on-chain strategy games in which you battle agains powerful creatures referred to as only: \"Medjeds\".",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Fuchsia",
+    "slug": "fuchsia-dh0y8",
+    "description": "Fuchsia, wallet for community. Support membership to reward members for on-chain activity using Account Abstractions.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y24y0"
+    ]
+  },
+  {
+    "name": "AttestationStation Explorer",
+    "slug": "attestationstation-explorer-u2wu6",
+    "description": "This is an advanced attestation explorer that includes additional features",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOasis",
+    "slug": "daoasis-4wwia",
+    "description": "DAOasis provides a social platform that allows users to create and manage multisigs. Using proposals, users can carry out transactions to manage their tokens, and contracts, handle custom transactions, and create cross chain safe interactions using our custom connextZodiacModule.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "ZK-Novels",
+    "slug": "zk-novels-g9xy0",
+    "description": "Shareable privacy-preserving profiles utilizing Sismo zkConnect and Polybase for data storage. Scroll zkEVM chat (not implemented, ran out of time)",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "DefiLens",
+    "slug": "defilens-wmrcv",
+    "description": "Defi social graph on top of Lens protocol. To expand it a bit, the investments made by users like trade or buy/sell of ERC20/ERC721, lend/borrow, a governance vote on defi protocol, perps positions, or any DeFi activity of users will all be captured by DefiLens.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Paalam",
+    "slug": "paalam-61a44",
+    "description": "Custom oracle adapter contracts for the Hashi EVM Header Oracle Aggregator",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Cetra Finance",
+    "slug": "cetra-finance-hz9ee",
+    "description": "Cetra Finance is a Market-Neutral Market Maker for DeFi",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScaleyValley",
+    "slug": "scaleyvalley-e6f9p",
+    "description": "Game-focused marketplace with deep multi-chain integration and cross-chain bridging to access game content.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Star Name Service Omnichain Platform",
+    "slug": "star-name-service-omnichain-platform-s8wb2",
+    "description": "On Star Name Service Omnichain Platform (SNS), register & manage web3 domains across blockchains. SNS enables cross-chain features for domains, making them compatible with L1/L2 platforms like Ethereum, Polygon, Optimism, & more.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Transacta",
+    "slug": "transacta-1v2t4",
+    "description": "Transacta - Unified Cross-ZK NFT bridge and metadata relayer",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "RollTube",
+    "slug": "rolltube-d1ffu",
+    "description": "Decentralized Video Sharing Platform with the features like verifying user's age using decentralized identity, displaying age restricted content and managing Reviews and feedbacks On-Chain with.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DOMO",
+    "slug": "domo-5kv83",
+    "description": "Invest your cryptocurrencies in secure assets, generate monthly passive income, and participate in property value appreciation with Domo.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Cove",
+    "slug": "cove-8ohfk",
+    "description": "Simple, reliable, open-source contract verification built for an L2 centric Ethereum ecosystem",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "9z8z1",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Artizen",
+    "slug": "artizen-sbwhd",
+    "description": "Artizen is a data DAO as a storage onramp for stock photos and videos on Filecoin.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RarX - Advanced NFT Marketplace",
+    "slug": "rarx-advanced-nft-marketplace-gk9ek",
+    "description": "Rarx is a multi-chain and cross-chain advanced NFT marketplace with features like AI NFT Generation, Cross-chain NFTs, On-chain NFT Collections, Realtime Notifications, Subscriptions for artists, and many other features at one place",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "10a1v",
+      "48dft",
+      "hp48a",
+      "ygz83",
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "dEvents",
+    "slug": "devents-u81ty",
+    "description": "A solution for event ticketing. Gives users and event planners an easy interface to handle admissions for events.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t3zyt"
+    ]
+  },
+  {
+    "name": "Nomis",
+    "slug": "nomis-pkc3m",
+    "description": "Nomis is an identity protocol that enables users to leverage their on-chain reputation and get personalized Web3 experiences",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polynote",
+    "slug": "polynote-kbmcg",
+    "description": "Private note taking application #buidl on Polybase. Aiming to use power of Polybase to allow end users taking notes safely on web3.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Blockhead: Scaling Ethereum 2023",
+    "slug": "blockhead-scaling-ethereum-2023-0n199",
+    "description": "Track, visualize & explore all of crypto, DeFi & web3 with Blockhead's crypto portfolio tracker, cross-EVM block explorer, and interfaces for your favorite dapps and web3 infrastructure.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "48dft"
+    ]
+  },
+  {
+    "name": "Spire",
+    "slug": "spire-m0oip",
+    "description": "Spire is a SDK lets you spin up an app-specific L3 on top of zkEVM rollups such as Polygon zkEVM or Scroll.   We're also building a demo L3 app that monitors a set of contracts on the L2, indexes some data, and does some computing over it.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "quad_vote",
+    "slug": "quad-vote-heiej",
+    "description": "quadratic voting solution using rollups , and have interoperability , facilitated by hyperlane and connext , we plan to create wallet less wallet to make it easy for new users to easily vote for any quadratic voting",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KalloView",
+    "slug": "kalloview-wt1zm",
+    "description": "KalloView is a decentralized reviewing platform that utilizes blockchain technology to ensure authenticity, transparency and incentivize users for their contributions to make reliable and searchable reviews for businesses to improve their products and services.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "RoadFund",
+    "slug": "roadfund-211tx",
+    "description": "A decentralized app for creating & managing software project roadmaps. Engage users with consensus-building, game theory mechanics, and transparent pledging. Built for hackers, powered by blockchain.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "SilkPay",
+    "slug": "silkpay-67byt",
+    "description": "SilkPay is an arbitrable payment protocol on L2 that is capable of resolving disputes in various payment scenarios on a low cost and high efficiency basis. We introduce an arbitration mechanism to resolve disputes, and ZK technology to protect user privacy.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "BDrive PolygonStore",
+    "slug": "bdrive-polygonstore-vt64f",
+    "description": "BDrive PolygonStore is a storage platform built on blockchain that seeks to secure contents with blockchain technology.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Donate4Change",
+    "slug": "donate4change-jnnje",
+    "description": "This project aims to enable users to donate to NGOs in a decentralized manner through a blockchain-based platform. Users can select an NGO of their choice and send donations directly to their public address, ensuring transparency of transactions.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Cryptea",
+    "slug": "cryptea-8rhhb",
+    "description": "Cryptea is a software that enables businesses to accept Crypto as a payment method, using Payment links and APIs.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TranscriptChain",
+    "slug": "transcriptchain-fmiy7",
+    "description": "Transcript Nft is a platform which allows institutions such as universities, companies etc to issue out certificates and verify legitimacy of the certificate onchain.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Node-ETH",
+    "slug": "node-eth-u8hks",
+    "description": "Node-ETH is a drag 'n drop tool for web3 & defi actions. Build & automate your actions, connect them with the ecosystem of web & IoT integrations and share your solutions with others.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "FundPG",
+    "slug": "fundpg-qzzhg",
+    "description": "We allow individuals to allocate a percentage of yield to public goods using scaling solutions",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Deep Work",
+    "slug": "proof-of-deep-work-16ep6",
+    "description": "Proof of Deep Work incentivizes learning and deep work through rewarding deep work with NFT's.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bye Bye Private Key",
+    "slug": "bye-bye-private-key-wm3aa",
+    "description": "We are making it possible to sign transactions without using a private key.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "y24y0"
+    ]
+  },
+  {
+    "name": "Restaking.wtf",
+    "slug": "restaking-wtf-z4ysh",
+    "description": "Restaking.wtf allows for any ERC20 to be used to validate, simultaneously, any or all on-chain trust networks. Our mechanism is original, secure, and composable, and we use it to decentralize OP's sequencer and pioneer optimistic L3s on Polygon's zkEVM, Scroll, and Gnosis Chain.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Defi Tokenized Stock Exchange",
+    "slug": "defi-tokenized-stock-exchange-bqmub",
+    "description": "Revolutionize investing with a decentralized tokenized stock exchange platform. Trade custom tokens representing real-world assets like stocks with advanced security, fractional ownership, and 24/7 trading. Open up new opportunities and democratize investing for everyone.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "All0x",
+    "slug": "all0x-ua1xh",
+    "description": "cross chain web3 payment integration for web2 e-commerce.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Keep Scroll in",
+    "slug": "keep-scroll-in-47w8k",
+    "description": "Game of chance, double or nothing. Designed to fit on Scroll's blockchain",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "AutoAudit",
+    "slug": "autoaudit-niq4w",
+    "description": "AutoAudit: AI-driven Ethereum smart contract auditing. Paste code, get a full audit & tailored tests for a secure, reliable contract. Streamline your audit process with AutoAudit.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "y24y0"
+    ]
+  },
+  {
+    "name": "zkFund",
+    "slug": "zkfund-0u7ka",
+    "description": "A platform that enables the right of donation for every user",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cruzo Cards",
+    "slug": "cruzo-cards-xshdw",
+    "description": "The first multi-chain NFT Marketplace powered with AI tools for digital emotions like greeting cards, stories, crypto gifts, soul bonds, holiday avatars, and party goods in Metaverse. A place where users, creators, and brands can sell, buy, gift, or store their NFTs in Blockchain",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SimpliDAO",
+    "slug": "simplidao-q439k",
+    "description": "SimpliDAO Tools simplifies the construction and management of DAO's.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkDELX",
+    "slug": "zkdelx-54q26",
+    "description": "zkDELX is a decentralized electricity exchange market based on zkEVM to facilitate the electrical vehicles and renewable energy industries.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "hp48a",
+      "yip67"
+    ]
+  },
+  {
+    "name": "POAPcet",
+    "slug": "poapcet-c0mwf",
+    "description": "Public good to onboard testing users with POAP as access control",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TimePact",
+    "slug": "timepact-1mof1",
+    "description": "TimePact allows users to create secure time capsules containing specific data, with an expiration date, that can be unlocked using special NFTs. These NFTs can be easily transferred between accounts and bridged to other blockchains.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "yip67"
+    ]
+  },
+  {
+    "name": "QuickWallet",
+    "slug": "quickwallet-5c5dt",
+    "description": "A developer friendly wallet for EVM. Inspect input data, change it and simulate your entire transaction before sending it on chain.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dádiva",
+    "slug": "dadiva-h9m84",
+    "description": "Dadiva is a web3 learning tool, a calculator to understand quadratic funding",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShipItDAO",
+    "slug": "shipitdao-cbrvf",
+    "description": "ShipItDAO is Mobile DAO platform to learn, engage and find ppl to collaborate and build together",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Terso",
+    "slug": "terso-y0v8j",
+    "description": "Terso is a decentralized financial platform focused on providing accessible, cost-effective, and transparent investment products in the digital asset market.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moonboard",
+    "slug": "moonboard-j26t7",
+    "description": "A Social Pinning Platform for Interest Boards and early Creative Market Exposure.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SplETH",
+    "slug": "spleth-q91aq",
+    "description": "Cost splitting application for groups by multisignature smart contracts",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Revolte - Join the Web3 Onboarding Adventure!",
+    "slug": "revolte-join-the-web3-onboarding-adventure-e9qfk",
+    "description": "Revolte - An interactive novel to onboard Web2 users to Web3",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Coinfeeds",
+    "slug": "coinfeeds-agdnp",
+    "description": "A decentralized blogging service with subscribers, payments and posts managed on-chain",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ALFRED",
+    "slug": "alfred-k9b8n",
+    "description": "A.L.F.R.ED - Adaptive Learning Experience for Relevant Education & Development. A platform that gamifies learning and rewards people for functional and behaviour development.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "Synth-Art",
+    "slug": "synth-art-zhc4n",
+    "description": "AI 🤝 Blockchain, AI Generative NFT minter. Add Prompt, hit mint, done!!",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "3orum",
+    "slug": "3orum-0iacs",
+    "description": "Forum app for discussions/posts using Polybase and Remix (React).",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "DaTa BloCk",
+    "slug": "data-block-m6sgv",
+    "description": "Media Tracker for Fraud Detection and Prevention. Database for all media type for referencing and cross-referencing.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "hp48a"
+    ]
+  },
+  {
+    "name": "LEarn",
+    "slug": "learn-6o0gh",
+    "description": "This dapp will allow the users to learn and earn too, as they keep on completing modules in the designated time frame. Try on - https://l-earn-b0931.web.app/",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "u7kt2",
+      "yip67"
+    ]
+  },
+  {
+    "name": "STC-GlobalDevDao",
+    "slug": "stc-globaldevdao-utow4",
+    "description": "STC-GlobalDevDao Build a hub platform from web2 to web3,help web2 applications quickly realize web3 transformation,provides computing and service operation layer,and application Dao aggregation layer to help applications quickly realize decentralization and web3ization.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EveryLens",
+    "slug": "everylens-ikt4p",
+    "description": "EveryLens is a dapp that allows you to post anonymously on lens🌿 with Polygon ID.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SweepStocks",
+    "slug": "sweepstocks-yfud6",
+    "description": "Ask Chainlink oracle who is the winner of a football league. The oracle calls an external adapter that fetches the winner at the end of the football league season",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Isekai NFT Launchpad",
+    "slug": "isekai-nft-launchpad-nik6b",
+    "description": "Isekai NFT Launchpad is an archetype of an NFT launchpad for Isekai Platform",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "fluxen",
+    "slug": "fluxen-o3cxv",
+    "description": "One such platform is Fluxen, a decentralized peer-to-peer short-term rental platform built on the Fuel blockchain. Fluxen allows users to rent out their properties or book accommodations using cryptocurrencies,",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "u7kt2"
+    ]
+  },
+  {
+    "name": "The Ape Inn",
+    "slug": "the-ape-inn-1ntf4",
+    "description": "The Ape Inn is where all the big apes come to play... Stake, swap or shop with all your $APE's. Checkout our Gucci Ape merch section for limited releases, Ape AI search and so much more coming like our ApeSwap and more liquidity pools and pairings.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "t3zyt"
+    ]
+  },
+  {
+    "name": "Hardora",
+    "slug": "hardora-fwz87",
+    "description": "Hardora Oracle is a decentralized mobile-first hardware oracle for off-chain data computation and data access.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Loco (On-Chain Places Data)",
+    "slug": "loco-on-chain-places-data-msrw5",
+    "description": "An onchain, opensource, decentralized answer to Google's Place API and Bing's Geospacial-Data API",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Opencord SDK",
+    "slug": "opencord-sdk-aiy83",
+    "description": "Opencord is a Web3-native social platform designed for DAOs, providing integrated tools and DApps for streamlined communication and collaboration to empower DAOs to thrive.",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Publius",
+    "slug": "publius-h9gsy",
+    "description": "100% on-chain, permissionless, self-custodial, ERC721 publishing protocol for authors of all kinds",
+    "event": "Scaling Ethereum 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

@@ -1,0 +1,2264 @@
+[
+  {
+    "name": "Wilhelmus",
+    "slug": "wilhelmus-sj6o4",
+    "description": "Wilhelmus is a backtesting tool for DeFi investment strategies.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fuytu"
+    ]
+  },
+  {
+    "name": "Zerem",
+    "slug": "zerem-2g5n2",
+    "description": "I don't have time please let me in I don't have time please let me in",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DEEDOO",
+    "slug": "deedoo-ze167",
+    "description": "DEEDOO helps course creators get funded and launch profitable courses. It is the first Web3 MOOC (Massive Open Online Courses) designed for course creators, investors and students. Investors or backers get a share on each sale students made to course creators",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "mnb9g"
+    ]
+  },
+  {
+    "name": "Comet",
+    "slug": "comet-mtdj0",
+    "description": "Comet, is a browser extension that uses the news in addition to pricing data to help you make those once in a lifetime trades. Funds are stored in a staking pool",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TWAP til the CoWs come home",
+    "slug": "twap-til-the-cows-come-home-7igm0",
+    "description": "TWAP orders on CoW Protocol, enabling automated DAO buy-backs  at a steady pace",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Goldberg Calculator",
+    "slug": "goldberg-calculator-550cg",
+    "description": "The world's most over-engineered calculator: using Filecoin's Bacalhau to add integers.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Toboro",
+    "slug": "toboro-itns0",
+    "description": "Web3 Developer Alerts for issues on their dependent stack (Graph Protocol, Superfluid, ChainLink)",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dijza",
+    "slug": "dijza-oj2ht",
+    "description": "On-chain game of pizza delivery using Lens Protocol as social networking",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "World ID @ Mina",
+    "slug": "world-id-mina-embt9",
+    "description": "Bring World ID to Mina, as a core building block for zkApps, to enable all kinds of use cases from private voting, private transaction and more. It includes a demo UI and mock sequencer.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Chain Statements",
+    "slug": "chain-statements-kdurw",
+    "description": "A way to generate Statements for your crypto funds using ZK , privately and permissionlessly",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3",
+      "mnb9g"
+    ]
+  },
+  {
+    "name": "aztecattempt",
+    "slug": "aztecattempt-4jbxb",
+    "description": "spent my time debugging aztec's documentation and repo's which had lots of issues...",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HackHub",
+    "slug": "hackhub-pce7s",
+    "description": "hackhub allows hackers to build, connect, and grow their onchain resume.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Porton Wallet",
+    "slug": "porton-wallet-fo21h",
+    "description": "An Account Abstraction-based wallet that allows you to sign signature with Touch ID, pay gas fee with ERC20 token, and have gasless interaction with dApps!",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "362vt"
+    ]
+  },
+  {
+    "name": "SetOnStone",
+    "slug": "setonstone-uvbot",
+    "description": "Decentralized legal information about gender legal cases. Getting vulnerable women being helped contacting them with gender-specialized institutions.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3",
+      "mnb9g",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Dwitch",
+    "slug": "dwitch-ux1hk",
+    "description": "Dwitch empowers fans to get a closer connection to their favorite creators and provides creators with complete ownership of the communication channel to their most engaged community members.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "r7x1c",
+      "x59d1",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "NoDarPapaya",
+    "slug": "nodarpapaya-2b76i",
+    "description": "Shielded NFT purchases and sales by leveraging Aztec Connect",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "Trustless Pilot",
+    "slug": "trustless-pilot-dn8m9",
+    "description": "A developer kit for integrating personalised, reputation-based reviews into marketplaces and small businesses",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Interactor",
+    "slug": "interactor-pfyh7",
+    "description": "Interactor - authenticated smart token based messaging. Send messages via your NFTs",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "txn.xyz",
+    "slug": "txn-xyz-knbjw",
+    "description": "A dedicated page for Ethereum transactions. Never load ethers.js or web3.js again!",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "rmkrz",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "diZKreet",
+    "slug": "dizkreet-4rvz2",
+    "description": "diZKreet is a Zero Knowledge Privacy Layer for NFTs, using Aztec’s privacy-first zkRollup on Ethereum.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01",
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "Eco NFT",
+    "slug": "eco-nft-q6ksn",
+    "description": "Dynamic, interactive NFTs hold attributes about an ecosystem and natural resources enabling games to grow these synthetic ecosystems and players to learn about interactions in the environment.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bloom",
+    "slug": "bloom-bfdym",
+    "description": "Bloom is a solution based platform built by builders for builders. It is meant to minimize time on researching and spend it more on creating.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qy8m3",
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "Salto",
+    "slug": "salto-w4hsb",
+    "description": "An exciting Job platform that connects tasks with education so that everyone can start in web3",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "r7x1c",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "12web3",
+    "slug": "12web3-8ymh9",
+    "description": "We are a learning tool for web3 focused on young college students in search of their professional projection, using an easy and practical language so that anyone who is not familiar with the blockchain can learn and thus reduce the knowledge gap for the adoption of blockchain.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "Contributor Streams",
+    "slug": "contributor-streams-pvrbw",
+    "description": "Payment system for organizations to pay contributors based on contributions in a recurring way.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Lens <> Sports POC",
+    "slug": "lens-sports-poc-41shj",
+    "description": "A simple POC of how custom modules can be used to create a sports/fan-centric experience",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zecreyBlockchainWar",
+    "slug": "zecreyblockchainwar-w1fq7",
+    "description": "BlockchainWar is a simple online web3 game powered by zecrey gaming sdk. Anyone can join in the game by sending message in a public chatting room.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stay_Prevent",
+    "slug": "stay-prevent-6nkpj",
+    "description": "Stay away of be drained. Prevent risk for have a metric of be exploited and automate stop the exploit.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "skywood",
+    "slug": "skywood-mo3fy",
+    "description": "Skywood is a satellite ecosystem monitoring service, for save ecologic data to smart decision",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3",
+      "f8ku2",
+      "rpgqw"
+    ]
+  },
+  {
+    "name": "Relmia",
+    "slug": "relmia-rp6x2",
+    "description": "Decentralized ownable metaverse billboard protocol with ad auctions and real-time revenue streaming",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "SkyBlock",
+    "slug": "skyblock-xrttz",
+    "description": "DAO/Blockchain Management of ISO Compliant Cloud Computing Accounts",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Partier",
+    "slug": "partier-n9ob8",
+    "description": "Partier is a decentralized mobile instagram-like social network that aims to bring together in the same platform parties, social gatherings and meetings of crypto events where you can generate an NFT ticket to your side-event and people can buy it with their crypto wallets.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "Account Abstraction Gateway Wallet",
+    "slug": "account-abstraction-gateway-wallet-d99t6",
+    "description": "Account Abstraction Gateway is web wallet app which utilizing the Account Abstraction and add-on social recovery functionality, user can connect any wallet and enjoy the secure account abstraction.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "iTrained",
+    "slug": "itrained-wuia5",
+    "description": "Social media dapp that wants to beat the discrimination in recruitment process in LATAM, taking care on what really matters:the abilities",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "uni8ank",
+    "slug": "uni8ank-m1zxc",
+    "description": "Uni8ank is a divination tool for practitioners to stake ethereum on alchemical pathways from matter.direct light, sourcing instant futures yield using apwine and crystal recommendations for energetic stability",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arena protocol",
+    "slug": "arena-protocol-tr4nt",
+    "description": "Arena is a P2P communication protocol to exchange temporary hidden information in PvP games",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "43ago"
+    ]
+  },
+  {
+    "name": "Ready Set Bet",
+    "slug": "ready-set-bet-yoybu",
+    "description": "Ready Set Bet is an online betting platform built on UMA. You can take any position on any open word question.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zeromath",
+    "slug": "zeromath-cgqh9",
+    "description": "zeromath is an interactive blog that helps with number theory, cryptography, and works up to writing zero knowledge circuits",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Instream",
+    "slug": "instream-ean64",
+    "description": "The world's most flexible insurance platform built around real-time policy premium payments.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Curved Cow Orders",
+    "slug": "curved-cow-orders-s7msz",
+    "description": "Curved Orders are a new smart order type for CoW protocol which implement pricing curve logic",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "78tgi"
+    ]
+  },
+  {
+    "name": "🚨 MEV NFT 🚨",
+    "slug": "mev-nft-1gojv",
+    "description": "The ultimate NFT protection by using MetaMask Snaps! Exposing to the user all the necessary NFT activity data from Coinbase Cloud and QuickNode!",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "r7x1c",
+      "4pn9u",
+      "jywri"
+    ]
+  },
+  {
+    "name": "goEV",
+    "slug": "goev-ytmhb",
+    "description": "A decentralized market for EV Charging Stations, providing a better experience for EV owners.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpgqw"
+    ]
+  },
+  {
+    "name": "PrivateMultiSig",
+    "slug": "privatemultisig-v59mq",
+    "description": "Private Multi Signature Wallet Which Enables Private Voting And Custom Transfer Transaction Execution",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Anonymous Vickrey Auctions On Chain",
+    "slug": "anonymous-vickrey-auctions-on-chain-igh5e",
+    "description": "Maximally private, second price, sealed bid auction aka Vickrey auctions.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "rmkrz",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "zkVoice - Fighting Plutocrat DAO Communities",
+    "slug": "zkvoice-fighting-plutocrat-dao-communities-ptrzp",
+    "description": "zkVoice is a coordination tool that allow community members with less voting power to secretly signal their disaproval and come together to beat the Plutocrat Moloch",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Photo Pop Up",
+    "slug": "photo-pop-up-b3evi",
+    "description": "A new innovative market place for nft Photography. It will create community and exposure simultaneously. This will prevent the same photographers from making sells.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Menshen",
+    "slug": "menshen-i2kq1",
+    "description": "An app that converts selfies to sybil-resistant NFTs, using zk SNARKs to preserve privacy. Unlike other solutions, it requires no gov-issued IDs or lengthy setup ceremonies, and is accessible to 85% of humans.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "MyPFS",
+    "slug": "mypfs-8vrm0",
+    "description": "There is no easy way for the average user to store private data in a secure and decentralized cloud. MyPFS offers a simplified and user friendly web where any user just need a metamask wallet to upload, delete and access private data on a decentralized cloud.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "GoGas",
+    "slug": "gogas-t748y",
+    "description": "Pay for gas with your credit card.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "dragon",
+    "slug": "dragon-x00hj",
+    "description": "Track transactions that fail in the UI and never make to the chain.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "Allyu",
+    "slug": "allyu-jiv8n",
+    "description": "Allyu is a protocol that allows users to issue their own crypto backed paper money by creating a pair of keys that can only be matched by tampering a physical seal on the paper note",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Portal",
+    "slug": "portal-hqfee",
+    "description": "Portal is Web3's answer to WeChat. A single source for all web3 services. ````Built for everyone`!",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MiniHackers",
+    "slug": "minihackers-i9w55",
+    "description": "Mini hackers would like to organize kid friendly areas with a playground, arcade, and arts and crafts. We want to create workshops to educate young kids on the world of web3.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "WayBack",
+    "slug": "wayback-aoye3",
+    "description": "Proof of Screenshot. Prove a site looked a certain way at a certain time.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "fp1x1",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Freelensers",
+    "slug": "freelensers-3v207",
+    "description": "Freelance in Web3 done the safest way. Find work opportunities through the Lens social media platform. Safe and secure for both parties.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3",
+      "vr4u8",
+      "zxd3n"
+    ]
+  },
+  {
+    "name": "Wealth3",
+    "slug": "wealth3-wvmhp",
+    "description": "On chain dead man switch protocol that allows users to have a saving account with trustless fund transfer to chosen beneficiaries in case of an extended period with no proof of life. The funds are used to create Ethereum validators to help secure the network and users get yield.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y6na5"
+    ]
+  },
+  {
+    "name": "Verify Me!",
+    "slug": "verify-me-gcmnb",
+    "description": "We want to democratize the verification check mark on social media",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SimplyDAO",
+    "slug": "simplydao-aoaco",
+    "description": "Streaming vested tokens and payrolls to core contributors, effortless.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "AccountMask",
+    "slug": "accountmask-a51c3",
+    "description": "Extending Metamask capabilities by allowing users to add description notes (comments) to the transactions they make through MM, alongside options for CSV export, as well as a Watchlist feature :)",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "POAY",
+    "slug": "poay-ugprx",
+    "description": "Subscription Payment Program to support ReFi for Community Conservation in LATAM",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Snack Fair",
+    "slug": "snack-fair-ajihq",
+    "description": "DAO focused on food delivery person's problems and facilitate the purchase and sale of food with the use of cryptos.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "zxd3n",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "zm zm",
+    "slug": "zm-zm-ms4sv",
+    "description": "Chat app using Polygon ID to initiate chats based on desired Polygon ID verifiable credentials over XMTP network.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "VanityFactory",
+    "slug": "vanityfactory-01tpz",
+    "description": "VanityFactory allow one to issue bounty for vanity address using CREATE2.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trust Tree",
+    "slug": "trust-tree-oup09",
+    "description": "A discord Bot that allows  DAOs to create positive reinforcement, curate, validate and monitor trust within their community.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SmartCoW Protocol",
+    "slug": "smartcow-protocol-bkfyq",
+    "description": "SmartCow Protocol is an automatic DCA protocol built on top of CowSwap.",
+    "event": "ETHBogotá",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "r7x1c",
+      "78tgi",
+      "vr4u8",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "EIP-3074 on Optimism",
+    "slug": "eip-3074-on-optimism-fg1wf",
+    "description": "Implementing EIP-3074 on Optimism L2 geth to enable mass adoption through gasless onboarding.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Credible Anonymous Whistleblowers",
+    "slug": "credible-anonymous-whistleblowers-mn8ss",
+    "description": "Anonymous contributors, vetted by an editor, can submit stories without revealing their identity.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "PayForward",
+    "slug": "payforward-i2vo3",
+    "description": "A social experiment to \"pay it forward\" and donate funds to a pool.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Truth",
+    "slug": "truth-2wbd7",
+    "description": "Truth is a photo sharing app focused on combating disinformation and providing accessibility through ZKP Account Abstraction.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "362vt"
+    ]
+  },
+  {
+    "name": "DOOHNIBOR",
+    "slug": "doohnibor-i1xxk",
+    "description": "DOOHNIBOR is a 1B fixed supply ERC-20 token implemented with a twist as a fun gimmick – when the max supply is reached, a user can still mint tokens, but when done so, tokens are burnt from a random users wallet",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Billion Dollar Homepage",
+    "slug": "the-billion-dollar-homepage-ixisb",
+    "description": "An advertisement billboard for public goods.  Inspired by \"TheMillionDollarPage\" , but using harberger taxes that fund gitcoin.",
+    "event": "ETHBogotá",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "10a1v",
+      "vr4u8",
+      "x59d1",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Minado",
+    "slug": "minado-c1y18",
+    "description": "We build a Mixer for Mina, it allows private transactions in Mina with just 1 step.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "W2W-Chat",
+    "slug": "w2w-chat-5mvxk",
+    "description": "Wallet to Wallet Chat. Web3 users can communicate with each other using a simple browser-based chat interface. Users will authenticate with any wallet enabling a cross-chain chat and will also get message notifications.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "jywri",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Chimneey Testament",
+    "slug": "chimneey-testament-fdc7j",
+    "description": "Leave a Testament! Select a wallet to inherit your assets in case of loss.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Off Chain",
+    "slug": "off-chain-79by3",
+    "description": "The Social Off-Ramp Debit Card. Allowing crypto users to off-ramp conveniently and  Tap & Go.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "LastBrief",
+    "slug": "lastbrief-4n4jz",
+    "description": "Draft up a “Brief”, write down your most significant words and the most important message, and designate to who you would like to send to. It is encrypted and can be only decrypted by the addressee which will be automatically sent when you are not able to do it yourself.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "zkShips",
+    "slug": "zkships-cqtr8",
+    "description": "Variety on the game battle ships based on zk proofs (whit options of moving ships)",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "PL1",
+    "slug": "pl1-dty08",
+    "description": "Test - only mentoring this time - lLorem ipsum dolor sit amet",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto bazaar",
+    "slug": "crypto-bazaar-mca6g",
+    "description": "A dApp for a christmas market using a nfts drop as product representations and presented via a live stream using livepeer.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "BLS Snap",
+    "slug": "bls-snap-xm5n7",
+    "description": "BLS Snap is a MetaMask Snap which integrates BLS Wallet to MetaMask",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Hermes: Segmented Advertising",
+    "slug": "hermes-segmented-advertising-9byuo",
+    "description": "Hermes leverages under-utilization of POAP potential as a segmentation tool that powers an web3 marketing ecosystem. Marketers are now able to reach their selected web3 community within a few clicks for a fee that a portion is distributed to the audience through web3 payments.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "szht8"
+    ]
+  },
+  {
+    "name": "SlothyFi",
+    "slug": "slothyfi-r69m1",
+    "description": "SlothyFi is a no-code modular yield workflow automation tool built for lazy DeFi sloths and advanced users alike. It is user friendly, permissionless, trustless and easy to develop extensions for.",
+    "event": "ETHBogotá",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "d09ed",
+      "bw7y9",
+      "vr4u8",
+      "fuytu"
+    ]
+  },
+  {
+    "name": "Compliance for DeFi",
+    "slug": "compliance-for-defi-3t0ur",
+    "description": "Solution for DeFi protocols to take a risk based approach on compliance",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Namebound Tokens",
+    "slug": "namebound-tokens-cksq8",
+    "description": "Namebound tokens are non-transferrable NFTs that are assigned to an ENS name, instead of being assigned to an Ethereum address.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "L3ND",
+    "slug": "l3nd-y0n9f",
+    "description": "A NFT–backed lending solution for the majority of the retail collections, where users obtain instant liquidity from its NFTs by using them as collateral.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Boomerang 🪃",
+    "slug": "boomerang-8brdb",
+    "description": "Decentralized expense manager that creates disposable wallets so members of an organization can use a budget in designated expenses",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vr4u8",
+      "x59d1",
+      "fuytu"
+    ]
+  },
+  {
+    "name": "MetaGuides",
+    "slug": "metaguides-qc4nq",
+    "description": "We built a mobile-first dapp in which people can share their reviews and advices, receiving a reputational score that can later be translated to monetary benefits. .",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cosecha",
+    "slug": "cosecha-d811m",
+    "description": "Accelerating colombian farmers entry to the cannabis industry through blockchain validation.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "362vt"
+    ]
+  },
+  {
+    "name": "PRIVO",
+    "slug": "privo-agroc",
+    "description": "A private voting zkApp on Mina Protocol to enable groups such as DAOs to vote on proposals anonymously.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "ZkGov",
+    "slug": "zkgov-ty99s",
+    "description": "DAOs or any organization can do a vote process without revealing who voted in who",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "nocadena",
+    "slug": "nocadena-dm880",
+    "description": "A “decentralised Coinbase”, offering the same great UX as CeFi does like instant transactions, secure custody of keys and no exposure to technical details, but still enabling users to take advantage of the composability of DeFi.",
+    "event": "ETHBogotá",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "zxd3n",
+      "d09ed",
+      "gt566",
+      "vr4u8",
+      "vr4u8",
+      "6absf"
+    ]
+  },
+  {
+    "name": "Commit",
+    "slug": "commit-mx3ch",
+    "description": "Commit to the projects and people that matter to you most. Commit inverts traditional fundraising by combining the power of founders and their early supporters from day 1, creating regenerative capital networks that reward net-new solutions in communities around the world.",
+    "event": "ETHBogotá",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "r7x1c",
+      "bw7y9",
+      "vr4u8",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Degen Demons",
+    "slug": "degen-demons-fiaew",
+    "description": "A hypothesis based of Laplace Demon on chain application on how we could predict future probabilities of bytes and TX inside Ethereum.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Medellín",
+    "slug": "medellin-p8qb0",
+    "description": "The fair, privacy-preserving raffle tool built on Mina Protocol",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "ENS Snap",
+    "slug": "ens-snap-9oyz7",
+    "description": "App to create Push Notifications when it's time to snap up expired ENS Domains",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "bw7y9",
+      "10a1v",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Terrarium",
+    "slug": "terrarium-ztoes",
+    "description": "Protecting Endangered Species from poachers, Easter Delicacies and Enabling Wildlife Conservation",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "buucz",
+      "vr4u8",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "MashMesh on Lens",
+    "slug": "mashmesh-on-lens-opmek",
+    "description": "Our project \"Lens on MashMesh\" is a Lens extension (but independent effort) on MashMesh.knn3.xyz. MashMesh is a web3 search engine for EVM users, which is fully backed by EVM user's multi-chain user data. In this Hackathon, we built a new extension specifically for Lens user.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vxwti"
+    ]
+  },
+  {
+    "name": "zkp_block_headers",
+    "slug": "zkp-block-headers-uyf03",
+    "description": "We present single hash and recursive zk-SNARKs in circom for proving historical block headers.  A first application brings RanDAO values into L1 execution for RNG.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Checky dApp",
+    "slug": "checky-dapp-y7ruw",
+    "description": "Checky is a web3 dApp that uses a consensus mechanism to verify if news sources are legitimate, users are incentivized through staking and earn token rewards for sharing and accurately reporting true sources of information.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "zkZak",
+    "slug": "zkzak-tkbum",
+    "description": "Anonymous social media platform that uses zero knowledge verifiable credentials to onboard creators to the platform.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "r7x1c",
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "Dhorado",
+    "slug": "dhorado-isxjg",
+    "description": "Dhorado is a gamified IRL web3 project that will onboard the next billion users while bootstrapping a decentralized mapping system.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Mutually Covered",
+    "slug": "mutually-covered-i8rh1",
+    "description": "Mutual fund to protect protocols from smart contracts hacks and operating risks. The protocol uses an index of the protocol tokens as the currency of the system and a liquidity pool to collect solvency capital to back up the underline risks.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fuytu"
+    ]
+  },
+  {
+    "name": "Funds Flow",
+    "slug": "funds-flow-9mazn",
+    "description": "Funds Flow is an innovative way to stream a grant to chosen builders, and reward them based on their work/involvement within the community. Community members with a voting NFT will be able to assess them, which will be reflected on each builder’s stream flow",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "x59d1"
+    ]
+  },
+  {
+    "name": "SLiP",
+    "slug": "slip-0sap0",
+    "description": "SLiP is Short Liquidity Pool, the first protocol to short DEX LP tokens, changing Impermanent Loss in Impermanent Gain and allowing to build new unique products (depeg protection, antifragile stablecoin, …), making it a new primitive for volatility-based solutions.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Denetwork",
+    "slug": "denetwork-cp31q",
+    "description": "Building decentralized and inclusive job opportunities for the creators of the future.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "r7x1c",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "the final frontier",
+    "slug": "the-final-frontier-wmbz7",
+    "description": "The worst threat to life itself is making bad decisions.  The final frontier seeks to generate awareness of decision-making by building a model of conscious exchange.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SnarkyBaras",
+    "slug": "snarkybaras-c6c2g",
+    "description": "a Zero-knowledge 'Capybara' themed Battleships using SnarkyJS & Mina",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "avengers pocketdb",
+    "slug": "avengers-pocketdb-ogub2",
+    "description": "Avengers Pocketdb is a crypto-native database designed for individuals who are *privacy-conscious* & who like to keep their crypto data *organized*. It’s delivered as a web app, & the hardware it needs is designed to fit in your pocket - great for the *security-conscious*!",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tesoro",
+    "slug": "tesoro-nu5pd",
+    "description": "Tesoro is the paypal for cash and delivery. A checkout button merchants can integrate into their web applications to offer cash on delivery with the shipping cost as collateral.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3Create",
+    "slug": "3create-v6nrw",
+    "description": "1st Educational Platform nurturing the next generation of web3 leaders by enagaging learning tracks for kids ages 8-14.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qy8m3",
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Cyclone",
+    "slug": "cyclone-6saqd",
+    "description": "Cyclone is an Aztech Noir powered zero knowledge proof of access/subscription framework. It can be used to quickly build and deploy modular zk apps.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "Shrimps.farm",
+    "slug": "shrimps-farm-wuus8",
+    "description": "Simple no nonsense dev tooling for Optimism - Transaction Tracer, State + Bytecode Overrides",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Account Abstraction on zkSync with ApeWorx",
+    "slug": "account-abstraction-on-zksync-with-apeworx-d8c55",
+    "description": "An integration of the zkSync network into Ape framework, with support for Account Abstraction (AA) aware transactions",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReeFi-Jelly",
+    "slug": "reefi-jelly-pijwv",
+    "description": "A ReFi and DAO project to fund, restore and manage ecosystem services such as the Mesoamerican Coral Reef",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "blackbelt",
+    "slug": "blackbelt-vp2d4",
+    "description": "Blackbelt is your self-defence against scams, directly in your wallet and in real-time. It provides an easy-to-understand security assessment of smart contract interactions and reverting transactions so that users, especially non-tech savvy ones, are protected against exploits.",
+    "event": "ETHBogotá",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3",
+      "r7x1c",
+      "4pn9u",
+      "vr4u8",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Sava",
+    "slug": "sava-6dzzm",
+    "description": "Descentralized Collaborative Savings For Latam: a gamified savings pool platform where users can save money collaboratively and compete with each other to be the best saver and win rewards.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "earth3",
+    "slug": "earth3-qz97s",
+    "description": "earth3 makes web3 simple through an all-in-one dapp for web2 users.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "vr4u8",
+      "szht8"
+    ]
+  },
+  {
+    "name": "Tap Contacts",
+    "slug": "tap-contacts-s3ds7",
+    "description": "Making web3 transactions familiar using NFC tap-to-transfer and contact lists.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Blobscan Explorer",
+    "slug": "blobscan-explorer-5bmqk",
+    "description": "A forthcoming upgrade to Ethereum will allow the publishing of temporary blobs of data in the beacon chain. Blobscan is the first blockchain explorer that helps to navigate and visualize those blobs, providing the necessary infrastructure to scale Ethereum.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "rmkrz",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Bet Streams 🤑",
+    "slug": "bet-streams-i90s7",
+    "description": "Bet Streams is the pay-per-view live stream platform, enabling viewers to bet on the results that are streamed in real time, all based on the Web3 stack @Livepeer @Superfluid_HQ @UMAprotocol @optimismFND - watch games & TV-shows betting with friends on their outcomes!",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "mdb6w",
+      "vr4u8",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Lotto Loco",
+    "slug": "lotto-loco-qbsbh",
+    "description": "Lotto Loco is a classic lottery game played on the blockchain. It’s popular latino edition is similar to bingo, but it uses images from deck of cards instead of numbered ping pong balls. A new set of rules and strategies are brought through smart contracts and NFTs.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Sign EIP-1492",
+    "slug": "sign-eip-1492-e89jh",
+    "description": "Token Protocol that Guarantees total ownership, relationship, authenticity and control with an experience revolutionary Social Network use case.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "UmbrellaDAO",
+    "slug": "umbrelladao-zrgmm",
+    "description": "Providing disenfranchised builders and social entrepreneurs access to web3 grant funding for public goods.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Nomard",
+    "slug": "nomard-v5fr1",
+    "description": "Normad is SplitWise for web3, where users pay what everyone agrees on. We are a Travel dapp for splitting expenses with your friends and colleagues for events, holidays, work and nomading.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Coedia Network",
+    "slug": "coedia-network-tk4fu",
+    "description": "Decentralized social network to solved high-priority code issues using a help-and-earn open-source framework to build a wider, stronger and united Dev community.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "DeMuse",
+    "slug": "demuse-zgyo0",
+    "description": "We bring web3 to the music industry by providing investment and distribution in novel ways",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PULP",
+    "slug": "pulp-bfx1i",
+    "description": "To change the microlending narrative, the concept of uncollateralised lending using Self-sovereign identification seems to be an ideal alternative to the extant DeFi lending model.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3",
+      "362vt",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Proof of Mentorship Protocol POMP",
+    "slug": "proof-of-mentorship-protocol-pomp-0oanq",
+    "description": "Gated platform to connect community members who are open to mentoring other members based on specific topics and skills.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "buucz",
+      "mdb6w"
+    ]
+  },
+  {
+    "name": "Wrapped USD",
+    "slug": "wrapped-usd-snhaw",
+    "description": "Wrapped USD provides liquidity for DeFi protocols and enables innovation in the stablecoin space.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZkVaccination",
+    "slug": "zkvaccination-3mzzj",
+    "description": "Private vaccination correctness verifier to stop COVID certificate manipulation",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "6wi0d"
+    ]
+  },
+  {
+    "name": "Iris-Bound Tokens",
+    "slug": "iris-bound-tokens-3neee",
+    "description": "Iris-bound tokens: Soulbound tokens, that are actually connected to your soul.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "9zj01",
+      "bw7y9",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "W3HF",
+    "slug": "w3hf-wu40w",
+    "description": "Web3 Hall of Fame (W3HF) is way to accord recognition and financial help to Web3 & FOSS contributors as well as influential figures of the ecosystem.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Goodstake",
+    "slug": "goodstake-h6348",
+    "description": "Goodstake is a DeFi solution focused on the implementation of UBI (Universal Basic Income) for people and organizations in Latin America.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "y6na5",
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "MetaBlast",
+    "slug": "metablast-wpsv2",
+    "description": "MetaBlast has been developed for a much better wallet experience with bridge and DAO tools. Users can perform their cross-chain bridge transactions without leaving the wallet interface and can vote for their favorite tokens governance proposals.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "Trustless.Ink",
+    "slug": "trustless-ink-72q6k",
+    "description": "Trustless.ink is a launch platform that natively disincentivizes Rug Pulls AND creates better conditions for legitimate projects to rise above the noise.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Musiqu.eth",
+    "slug": "musiqu-eth-y4rbo",
+    "description": "Musiqu.eth is the web3 version of Spotify which allows music artists to connect with their fans. The dApp uses integrations such as Lens Protocol, Polygon, Push Protocol and Wallet Connect to enable seamless communication between an artist and their supporters.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "DeFormed",
+    "slug": "deformed-pmzzr",
+    "description": "DeFormed helps you share forms and surveys for your token-gated, decentralized community",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Layer 2 Multilanguage Video and Blog Content",
+    "slug": "layer-2-multilanguage-video-and-blog-content-tbn82",
+    "description": "Youtube videos and dev.to blog posts about Scroll zkRollup Testnet in Spanish, English and French",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MagicStart",
+    "slug": "magicstart-gjbz3",
+    "description": "VR game web3 Steam and VR film web3 Disney(we make lots of VR film ourselves)",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnboardingFrens",
+    "slug": "onboardingfrens-3i7hq",
+    "description": "Customer Service goes Web3 with OnboardingFrens. This project increases web3 inclusion by enabling blockchain protocols which currently lack support infrastructure to outsource real-time customer service to web3 agents who receive a reputation score and instant payouts.",
+    "event": "ETHBogotá",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "r7x1c",
+      "r7x1c",
+      "bw7y9",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Insidera",
+    "slug": "insidera-12fq9",
+    "description": "Bringing TradFi Insider Data to DeFi for Decentralized Dispute Resolution",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Purum",
+    "slug": "purum-d8sos",
+    "description": "Purum is a community of land stewards farming gourmet CO2 tokens",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3",
+      "vr4u8",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "🥥 coconnect",
+    "slug": "coconnect-gq5q4",
+    "description": "We help brands save time when launching marketing campaigns with content creators. Thanks to Lens, they can search for specific influencers and contact them quickly in one step.",
+    "event": "ETHBogotá",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "zxd3n",
+      "r7x1c",
+      "10a1v",
+      "vxwti",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "VERITAI",
+    "slug": "veritai-4k4fs",
+    "description": "Veritai ties the ownership of many NFTs to an SBT and allows for its recovery from a wallet using a novel social or personal recovery method. The SBT controls the ownership of the NFTs regardless of the wallet they reside in, solving security, convenience and UX problems.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Z-Tower",
+    "slug": "z-tower-bjerg",
+    "description": "Z-Tower is a metaverse, which contributes to education by generating a student scholarship fund.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "nauwe",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Pic-to-Peer",
+    "slug": "pic-to-peer-9eona",
+    "description": "Peer2peer escrow smart contract for NFTs on EVM blockchains using Optimistic oracles.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Multichain RPC / vrf Fetch",
+    "slug": "multichain-rpc-vrf-fetch-pushv",
+    "description": "Command line tool for automatically fetching JSON RPC URLs and Chainlink VRF constructor args for specified networks!",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vr4u8",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Super Social",
+    "slug": "super-social-rwbi9",
+    "description": "An application for Non-Govermental Organizations (NGOs), bringing efficiency, transparency and privacy to welfare programs.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "I AM: Self Sovereign zk-ID",
+    "slug": "i-am-self-sovereign-zk-id-q6cbr",
+    "description": "“I AM” is the mobile web3 Self-Sovereign NFT ID that helps Latin Americans control their future—enabling access to the quality of life that is currently unavailable for them, making them visible to their countries.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "9zj01",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "ZK Vote",
+    "slug": "zk-vote-9ipgt",
+    "description": "Privacy voting system using Zero-Knowledge Proofs via Polygon ID to ensure user anonymity and uniqueness of the vote.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "ETHernal Reviews",
+    "slug": "ethernal-reviews-9kwmk",
+    "description": "Dapps rating platform. Only users that interacted with a certain Dapp can rate it. User logs in with an ETH address. Users can evaluate a project only if there is an activity at his address with relevant contract addresses. This should guarantee that just real users rate Dapps.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "46q4i"
+    ]
+  },
+  {
+    "name": "ETH Stake Together",
+    "slug": "eth-stake-together-rcrn2",
+    "description": "ETH Stake Together is a DApp that makes possible to collectively stake ETH in pools to validate nodes with operators, in a trustless and decentralized way, with low risk and without worrying about slashes.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y6na5"
+    ]
+  },
+  {
+    "name": "Luminat3",
+    "slug": "luminat3-3xuss",
+    "description": "A marketplace for web3 educators to learn, earn and teach by creating content for protocols from an educators lens.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "MVC",
+    "slug": "mvc-r1d9n",
+    "description": "My Video Community (MVC) is a project aiming to allow the creators to manage their customer relationship based in memberships and content",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Defi Vista",
+    "slug": "defi-vista-i1kja",
+    "description": "DeFi Vista is a DeFi aggregator for users to manage liquidity pool in multiple DeFi protocols in one interface.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "78tgi"
+    ]
+  },
+  {
+    "name": "Superseed",
+    "slug": "superseed-sch5g",
+    "description": "Superseed is a simple, automated dollar cost averaging DApp paired with community impact to supercharge your DeFi investment strategy. We put your capital to work, generating yield as your funds await transfer and enable profit sharing options for public goods.",
+    "event": "ETHBogotá",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3",
+      "46q4i",
+      "10a1v",
+      "vr4u8",
+      "x59d1",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "inclusive DAO framwork",
+    "slug": "inclusive-dao-framwork-sbh7o",
+    "description": "This tool add gamification in DAO-member's experience in getting higher levels of DAO's structure to increase their voting power in protocol",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gates.wtf",
+    "slug": "gates-wtf-qy8w8",
+    "description": "User verification using decentralised identity and custom conditions. Gates enables dapps, metaverse games, and NFT projects to seamlessly verify users via custom conditions.",
+    "event": "ETHBogotá",
+    "prizeCount": 9,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "3zpxc",
+      "r7x1c",
+      "r7x1c",
+      "bw7y9",
+      "bw7y9",
+      "pfyco",
+      "96pd9",
+      "jywri"
+    ]
+  },
+  {
+    "name": "Colombian Snack",
+    "slug": "colombian-snack-n6euy",
+    "description": "(SUB)--TestData----TestData----TestData----TestData----TestData----TestData",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chalkboard",
+    "slug": "chalkboard-c7au6",
+    "description": "Chalkboard is a NFT marketplace for artists to sell their chalkboard artwork",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "vr4u8",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Garuda",
+    "slug": "garuda-q7vkm",
+    "description": "It is a backend service that uses SSV solution for Ethereum private keys splitting(DVT) and can be integrated with any staking pool solution.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y6na5"
+    ]
+  },
+  {
+    "name": "Orchid Wallet",
+    "slug": "orchid-wallet-7ybii",
+    "description": "Orchid Wallet is a smart contract wallet with a zero-knowledge based voting mechanism to allow a pre-defined group of members to vote anonymously to remove control of the wallet from the owner.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "bw7y9",
+      "bw7y9",
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "Chomp",
+    "slug": "chomp-p7hu6",
+    "description": "Chomp is a restaurant point of sale payment flow, built for Ethereum layer 2s. It's designed to help vendors keep more of their money.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "BookinChain",
+    "slug": "bookinchain-duuzr",
+    "description": "BookinChain is a Gamified reading platform that uses the model “read to earn”, aiming to create and stimulate a flourishing ecosystem through incentives and value distribution to the communit",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Konoha",
+    "slug": "konoha-zjxtb",
+    "description": "Omni-Chain Yield Aggregator. Bridge, swap and deposit all automatically.We constantly compare the highest APYs across multiple chains and optimally invest in them.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "PriceTrust",
+    "slug": "pricetrust-dj0yo",
+    "description": "Who hasn't realized too late that they've been overpaying for a product when they later decided to ask elsewhere?  Not all of us have time to go through several sites in search of the best offer; surely we could do it but time is gold and it is not a good idea to waste it",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sigcure",
+    "slug": "sigcure-2b7f7",
+    "description": "Sigcure is a gasless multisignature-protected password manager.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "46q4i",
+      "r7x1c",
+      "rpgqw"
+    ]
+  },
+  {
+    "name": "LOTUS DAPP",
+    "slug": "lotus-dapp-kj67q",
+    "description": "Dapp for Mexican women where they can receive a UBI that allows them to develop their professional career and escalate their socioeconomic status.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Virtual Study Groups App",
+    "slug": "virtual-study-groups-app-gkrct",
+    "description": "Meet new people from Latin America who share your interests in crypto. Become a crypto developer, supporter, or investor through online events. It’s free to create an account.",
+    "event": "ETHBogotá",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "qy8m3",
+      "vr4u8",
+      "x59d1",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Emprendedoras 3.0",
+    "slug": "emprendedoras-3-0-ocuoa",
+    "description": "We connect women entrepreneurs with the crypto world. With your purchase you help more women join the crypto ecosystem and build a circular economy of solidarity and empowerment",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "UnblockReceipts",
+    "slug": "unblockreceipts-u20fe",
+    "description": "UnblockReceipts gives you a receipt for your gas fees on Ethereum that you can use in expense reports. It helps those exploring web3 who still have to report to web≤2 accounting or tax authorities.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "r7x1c",
+      "r7x1c",
+      "bw7y9",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Humanoid",
+    "slug": "humanoid-w5g7o",
+    "description": "An Account Abstraction wallet and DApp that aims to solve ownership problems in Latin America.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "46q4i",
+      "vr4u8",
+      "szht8",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Instant fx for emerging markets currencies",
+    "slug": "instant-fx-for-emerging-markets-currencies-kcvyp",
+    "description": "A new payment infrastructure to replace SWIFT for emerging markets.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "DappStop",
+    "slug": "dappstop-fp7y3",
+    "description": "DappStop is a censorship-resistant mobile app distribution platform. Unlike the existing app stores, DappStop empowers creators by removing any form of restrictions on in-app monetization. Everyone will have the freedom to access any of these apps regardless of region!",
+    "event": "ETHBogotá",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "9zj01",
+      "qy8m3",
+      "43ago",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "DAOkeeper",
+    "slug": "daokeeper-tte4i",
+    "description": "DAO tooling for sustainable governance / Pre-scheduled airdrop platform based on token vesting",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "43ago"
+    ]
+  },
+  {
+    "name": "NF2U",
+    "slug": "nf2u-p7vu6",
+    "description": "NF2U is a bundle of developer tools that helps non specialized builders create and manage simplified NFT’s, using familiar infrastructure like API calls, via a simple and open-source SDK.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "r7x1c",
+      "6wi0d",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "missions4good.eth",
+    "slug": "missions4good-eth-wbo0i",
+    "description": "Web page to mobilize actions in favor of the planet, people and animals with crypto rewards.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "GiveFire - The Collective Giving Protocol",
+    "slug": "givefire-the-collective-giving-protocol-9n7qf",
+    "description": "GiveFire is a web3 protocol that makes the ritual of consistent collective giving go viral. Donate up to $10 to a non-profit of your choice with a group of friends, every week. Browse + donate to a social feed of trending nonprofits. Receive rewards and updates from non-profits.",
+    "event": "ETHBogotá",
+    "prizeCount": 8,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "3zpxc",
+      "46q4i",
+      "zxd3n",
+      "bw7y9",
+      "bw7y9",
+      "bw7y9",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Webb Cross-chain Bridge",
+    "slug": "webb-cross-chain-bridge-d52hs",
+    "description": "A cross-chain bridge that offers the potential for a single tx transfer flow for users to move assets across chain. The bridge will also allow additional smart contract calls after transferring assets across chain for interacting with DeFi protocols.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sequi",
+    "slug": "sequi-kocxy",
+    "description": "A protocol that allows for internet users to share ideas and build a following without fear of cancellation, demonetization or deplatforming.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "frens",
+    "slug": "frens-5qq7h",
+    "description": "Frens helps you mitigate the risks of solo staking while bonding with your Ethereum friends. Built on top of SSV to ensure fault tolerance and performance. Invite friends to pool 32 ETH and spin up a distributed validator. A unique Frens-NFT represents your share in the pool.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "y6na5",
+      "bw7y9",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Audio.xyz",
+    "slug": "audio-xyz-pbatg",
+    "description": "Audio.xyz is a web3 content platform that brings creators and fans closer together through Proof of Fandom SBTs.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "mdb6w",
+      "szht8",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "Anzen",
+    "slug": "anzen-xm37h",
+    "description": "Anzen is a smart contract wallet secured by Two-Factor Authentication.",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "46q4i",
+      "r7x1c",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Ethereum Social Contract",
+    "slug": "ethereum-social-contract-gwt57",
+    "description": "The Ethereum Social Contract proposes a decentralized and compliant justice system for web3.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Cocodrop",
+    "slug": "cocodrop-1iegy",
+    "description": "Airdrops made simple. Select a token, an amount, and a strategy. One click, and you will deploy a Merkle Tree airdrop.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Zenmo",
+    "slug": "zenmo-qfyku",
+    "description": "Venmo style app that allows private transactions and group chats to manage expenses",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "nhs1x",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ZK-Nullifier Snap",
+    "slug": "zk-nullifier-snap-6a9sq",
+    "description": "Using MetaMask snaps to generate ZK nullifier in privacy-preserving way",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4pn9u"
+    ]
+  },
+  {
+    "name": "WarmTokenGate",
+    "slug": "warmtokengate-op3si",
+    "description": "Token gate service provider to make it easier for websites or apps to unlock features or content based on owning specific NFTS. Do you normally keep your high value NFTs in a cold wallet? That's why we also support warm.xyz.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flex Loan",
+    "slug": "flex-loan-z7b5y",
+    "description": "Flex Loan is a DApp that allows NFT owners to get liquidity without loss the nft rights.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "4i0qt"
+    ]
+  },
+  {
+    "name": "Zipline",
+    "slug": "zipline-05w8k",
+    "description": "A trustless bridge from Eth2 to any EVM chain using provable execution",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "rmkrz",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "ClubSpace",
+    "slug": "clubspace-cwzqx",
+    "description": "ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens",
+    "event": "ETHBogotá",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3",
+      "vr4u8",
+      "szht8"
+    ]
+  },
+  {
+    "name": "p2pNFT",
+    "slug": "p2pnft-z65cb",
+    "description": "a p2pNFT protocol that help people mint mutually soul-bound NFTs together when all attendees aggree",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "qy8m3",
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "Olympus",
+    "slug": "olympus-8tysb",
+    "description": "OlympusGaming. We allow you to generate income by playing traditional video games as if they were web3 through tournaments and leagues. Where the professional career of gamers is boosted with a patronage system through NFTs. And where the community and its idols can play together",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "vr4u8",
+      "acypq"
+    ]
+  },
+  {
+    "name": "Just Commit",
+    "slug": "just-commit-ubgw5",
+    "description": "Just Commit is a decentralized application that leverages close-relationship accountability and strong monetary incentive mechanisms to motivate users to build healthy habits.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZipChain",
+    "slug": "zipchain-wozag",
+    "description": "ZipChain is a cross-chain NFT marketplace that supports buying NFT from any chains, any tokens. No more tedious steps to buy NFT!",
+    "event": "ETHBogotá",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "r7x1c",
+      "gt566",
+      "vr4u8",
+      "6absf"
+    ]
+  },
+  {
+    "name": "zmorph",
+    "slug": "zmorph-dad3s",
+    "description": "zmorpheus delivers a pseudonymous, seamless zk-based token-gating solution for real-world use cases of proving  ownership of NFTs with privacy with IoT Devices.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "362vt",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Shape Address :: Fun Memorable Wallet Address",
+    "slug": "shape-address-fun-memorable-wallet-address-o37vd",
+    "description": "Shape-Address makes wallets cute 😍, distinguishable, memorizable, easily transmittable via a voice..",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Ephere Football",
+    "slug": "ephere-football-2obp2",
+    "description": "Ephere Football crafts empowering blockchain gaming experiences for football fans ⚽️",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Networking dapp for Web3 events",
+    "slug": "networking-dapp-for-web3-events-b2vb6",
+    "description": "Digital business cards to help people connect easier while attending web3 conferences and events. The end goal is to create a reputation ecosystem to replace web2 platforms like LinkedIn and Eventbright.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3",
+      "4i0qt"
+    ]
+  },
+  {
+    "name": "Frmandy",
+    "slug": "frmandy-v1gr8",
+    "description": "A Fully on-chain NFT mint using Cartesi and Ethereum smart contracts",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "buucz"
+    ]
+  },
+  {
+    "name": "Perpetual Motion Protocol",
+    "slug": "perpetual-motion-protocol-d1kzw",
+    "description": "Perpetual Motion Protocol enables individuals to make perpetual micro-donations: Pick a cause, choose a donation method, and continue your normal on-chain life. Perpetual Motion’s first project aims to drive continuous funding to impact and ReFi projects in Latin America.",
+    "event": "ETHBogotá",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3",
+      "362vt",
+      "yip67",
+      "bw7y9",
+      "vr4u8",
+      "x59d1"
+    ]
+  },
+  {
+    "name": "VIIO - Social Recovery Key (Dapp)",
+    "slug": "viio-social-recovery-key-dapp-xd4g1",
+    "description": "Social recovery key accessible through wallet connect, simplifying the self-custody process of seed-phrases based on a social recovery method leveraging trust mediated by a Dapp/web2 app and a Trust Contract with which any wallet will be able to interact with.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Soul Wallet",
+    "slug": "soul-wallet-5srye",
+    "description": "The future of the Ethereum wallet is here. We provide a new way to explore Ethereum. ERC-4337 compatible.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "362vt",
+      "9z8z1"
+    ]
+  },
+  {
+    "name": "Regens",
+    "slug": "regens-9hxb6",
+    "description": "A #REGEN game to collect Bogota's public places and incentivize citizen coordination to solve public needs..",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rmkrz",
+      "9zj01",
+      "r7x1c"
+    ]
+  },
+  {
+    "name": "NEPHW: Decentralized Wallet With a Twist",
+    "slug": "nephw-decentralized-wallet-with-a-twist-15s2v",
+    "description": "NEPHW is a decentralized wallet standard which uses non-ephemeral 'transaction requests' as a base unit for execution. This provides notable usability and UX benefits when compared to traditional wallets. The wallet and tx requests are fully decentralized and hosted on IPFS!",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "A private trading ZK shielded pool on OP",
+    "slug": "a-private-trading-zk-shielded-pool-on-op-5c8hn",
+    "description": "A ZK shielded pool with programmability for derivative trading on Optimism",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rmkrz"
+    ]
+  },
+  {
+    "name": "Opencord",
+    "slug": "opencord-y12yg",
+    "description": "Opencord is a Web 3.0 social platform built for DAOs. We make it easy for you to discover and manage your favorite DAOs by connecting easy-to-use DAO tools and DApps to power up your DAO workflow.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Decentral EZ",
+    "slug": "decentral-ez-7ka6i",
+    "description": "A decentralized launchpad for DAOs. From education to tools this is made for everyone.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "CM Wallchain",
+    "slug": "cm-wallchain-yyad1",
+    "description": "The Cryptomurals wallchain aims to be a living archive in the Ethereum blockchain that allows navigating the history of all the layers of murals painted over the years on the same wall - we call it \"The Wallchain\".",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Web3 Coffee",
+    "slug": "web3-coffee-4o44u",
+    "description": "Web3 Coffee DAO – The Future Of Web3 Networking! We aim to make Web3 networking simple and productive for everyone. Powered with Lens profiles and XMTP communication, we enable meaningful matches between Web3 builders 1:1 on a weekly basis and facilitate their communication.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "r7x1c",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "brick2brick",
+    "slug": "brick2brick-6gqf0",
+    "description": "schedule savings program to housing with raffle to participants",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cosmos NFT",
+    "slug": "cosmos-nft-6uj5w",
+    "description": "Cosmos NFT is a decentralized social platform and marketplace focused on Latin American creators.",
+    "event": "ETHBogotá",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "vr4u8"
+    ]
+  },
+  {
+    "name": "CheckoutDAO",
+    "slug": "checkoutdao-c542a",
+    "description": "A peer to peer decentralised payments network for commerce.",
+    "event": "ETHBogotá",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "mnb9g",
+      "10a1v"
+    ]
+  },
+  {
+    "name": "APWinery",
+    "slug": "apwinery-r27bf",
+    "description": "AP Winery is a permission-less winery - a no loss lottery based on stETH yield derivatives from AP-Wine utilizing Chainlink VRF.",
+    "event": "ETHBogotá",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "d09ed",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Post2Help",
+    "slug": "post2help-6511s",
+    "description": "post2help is a marketing coordination mechanism for non-profits. Our post2help primitive allows posters to donate/get paid for their social media content contribution. Spreading the word about important causes brings in awareness and change.",
+    "event": "ETHBogotá",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

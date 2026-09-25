@@ -1,0 +1,1915 @@
+[
+  {
+    "name": "Dex",
+    "slug": "dex-x1gzk",
+    "description": "꩜ Dex is a climate proof point of sale gadget for pseudo traceability",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Exposed",
+    "slug": "exposed-498mk",
+    "description": "Has your address been exposed? Enter your addresses and check which are linked with each other",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PhotosBackup",
+    "slug": "photosbackup-c2h16",
+    "description": "A google photo alternative (cheap and completely decentralised)",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flamingle",
+    "slug": "flamingle-7jre0",
+    "description": "We build a Web3 social app based on In-Real-Life events to bridge real connection in DID.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Warp",
+    "slug": "warp-6jrwx",
+    "description": "Warp lets you Upload Files to IPFS & share it to a Mail Address which can only be accessed by the Receipent wallet Address which You choose to share.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "PoultryDAO",
+    "slug": "poultrydao-o057t",
+    "description": "Poultry based knock off dragon balls. The 7 legendary chicken balls are distributed randomly to addresses in the bottom 50% of holdings. If all 7 are gathered, something happens...",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Slidebits mobile NFT Share Extension",
+    "slug": "slidebits-mobile-nft-share-extension-deyxn",
+    "description": "The Share Extension uploads photos from the user Camera Roll directly into ipfs and creates a slideshow link",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EventOnChain",
+    "slug": "eventonchain-4x8rn",
+    "description": "Event on chain is an easy and one click Event Management and ticketing platform on Blockchain",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8i5pu"
+    ]
+  },
+  {
+    "name": "RipDB",
+    "slug": "ripdb-bdwpp",
+    "description": "RipDB is a dead simple, fast, decentralized JSON store built for web3.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "IDENTI3",
+    "slug": "identi3-u8rs7",
+    "description": "IDENTI3 is a data-driven self-sovereign identity protocol. Data is one of the world's most valuable assets.  IDENTI3 allows individuals to take control of their identity and data in a fully decentralised way.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MINX",
+    "slug": "minx-dw6ip",
+    "description": "IP Protection and Social Collaboration for Content Creators - Just MINX It !",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sports Case",
+    "slug": "sports-case-9sfwd",
+    "description": "We provide a unique way for sports nfts to be displayed in a collection.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tea",
+    "slug": "tea-9p3vn",
+    "description": "Archive social media platforms to decentralized storage networks",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniquenessDAO",
+    "slug": "uniquenessdao-73xpp",
+    "description": "New DAO voting mechanism based on historical voting patterns.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DEX-Sense Dashboard",
+    "slug": "dex-sense-dashboard-a8axj",
+    "description": "A multi-chain dex dashboard powered by the covalent API to display  blockchain and DEX selectors A DEX token summary A DEX market sentiment and socials summary Details of the asset pairs traded on the DEX",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GoodyBag",
+    "slug": "goodybag-fzhan",
+    "description": "GoodyBag is a digital community based advertising for online and IRL consumer brands.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Book Swap Dapp",
+    "slug": "book-swap-dapp-i35sp",
+    "description": "Trade in your books, notes, labs and more via the largest online decentralized book swapping community in the world.",
+    "event": "HackFS 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Rare Fans",
+    "slug": "rare-fans-4hwyb",
+    "description": "Rare Fans, is an NFT based, censorship resistant, web3 version of Patreon",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralized Global Billboard",
+    "slug": "decentralized-global-billboard-ft2rb",
+    "description": "Advertisement is a huge sector in informatics and real world. Websites, videos, applications show lots of ads. Our \"Billboard\" system makes advertisement system decentralized, global, censorship resistant and do not require private or personal datas.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Ceramic FOR DUMMIES",
+    "slug": "ceramic-for-dummies-bgc9x",
+    "description": "Provides a schematic flowchart of what happens under the hood when retrieving and updating profiles on the Ceramic network by connecting your wallet/using sign in with Ethereum. Also provides an app for retrieving Ceramic profile only with an address.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeGa - Decentralised Gallery",
+    "slug": "dega-decentralised-gallery-hr2o6",
+    "description": "DeGa is a decentralised photo gallery for NFT communities. It allows members of the same collection to share photos with each other after an event.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "ThanksGiving NFT",
+    "slug": "thanksgiving-nft-187hg",
+    "description": "A on-chain career proof protocol generating Non-transferrable NFT with comments from one’s colleague. After logging in with Metamask, people can leave comments for their teammates. Everyone can generate an NFT in which comments and one’s role in the team are written.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "How To Web3 - Storage",
+    "slug": "how-to-web3-storage-f2wkr",
+    "description": "This is the very first site of my series How to Web3. This is a series where its about to explain Web3 topics to the everyday user and explain it in very easy terms. This one is about Storage.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DHoster",
+    "slug": "dhoster-e0j1r",
+    "description": "It is a decentralized  web hosting platform for static web page...",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "One Piece",
+    "slug": "one-piece-p2ph0",
+    "description": "One Piece is a decentralized bucket where users deposit their NFTs in the vault and mention NFTs they are willing to swap with theirs.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPFS Calendar",
+    "slug": "ipfs-calendar-upijk",
+    "description": "A simple calendar which would track your upcoming events by storing the data on IPFS",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MashTag",
+    "slug": "mashtag-y19by",
+    "description": "MashTag is decentralized Social Media network built on Polygon blockchain.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "Tind3r",
+    "slug": "tind3r-i7rtt",
+    "description": "A social app powered by web3 technology that maximizes transparency and ownership of data.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "DFAQ",
+    "slug": "dfaq-vs3ho",
+    "description": "This is a web3 version of the FAQ tool. By recording and storing questions from community members and the contributors' answers to them on-chain, the community itself can build the project's FAQ site.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Interform",
+    "slug": "interform-7g9v3",
+    "description": "InterForm is the web3-native form builder platform powered by Filecoin. It is the decentralized, censorship-resistant way to collect data. Think Google Forms or Airtable but on decentralized storage. Our mission is to democratize access to data and build a censorship-free world.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Lens blog",
+    "slug": "lens-blog-83q6s",
+    "description": "Mind Tales is a Blogging platform build on top of the Lens protocol. We used GraphQl API provided by Lens Protcol to build Mind Tales.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ransom Network",
+    "slug": "ransom-network-v5u0u",
+    "description": "Exchange ransomware private encryption key between hacker and user in a trustless manner",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scoops.poly",
+    "slug": "scoops-poly-sn324",
+    "description": "Create Portable Web 3.0 Usernames with Scoops.poly to bridge identity with utility on the blockchain",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8i5pu",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Books2All",
+    "slug": "books2all-zc7xi",
+    "description": "Book lending is easy, do you want to have a copy of your favorite book? You can have a verified copy, and with a completion badge, you can easily lend it to someone without worrying about losing it or having the pages damaged.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tableland Deals Protocol",
+    "slug": "tableland-deals-protocol-ud4my",
+    "description": "An extension to Tableland that allows the execution of compound operations that require write access from multiple parties",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "CryptoWallet",
+    "slug": "cryptowallet-z84hu",
+    "description": "A mobile app with cryptocurrency wallet functionality. It allows you to import your wallet or create a new one, check the balance of tokens or NFTs, and send them.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PinSav3-VM",
+    "slug": "pinsav3-vm-1jzun",
+    "description": "Pin Sav3 VM is a decentralized image sharing platform where users can share their pictures on the decentralized storage",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Futurize",
+    "slug": "futurize-4mep7",
+    "description": "Share and encrypt files with the power of IPFS and Lit Protocol and smart contracts to give access to these files",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bloglens",
+    "slug": "bloglens-zmyd1",
+    "description": "Bloglens, a Blogging Platform where creators own what they write and can monetise their writing.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "partical.xyz",
+    "slug": "partical-xyz-vdhnr",
+    "description": "Partical is a portable and composable data layer for DAOs making it possible for DAOs to easily port data from one application to another and for developers to build new tools with composable data from existing applications!",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "96pd9"
+    ]
+  },
+  {
+    "name": "Brace-NFT",
+    "slug": "brace-nft-22705",
+    "description": "Event minting solution, a winning event-type solution that selectively mints after participation, not immediately by the user",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "People NFT Collection",
+    "slug": "people-nft-collection-cmvun",
+    "description": "A different People NFTs Collection Avatars, people like old, young etc..",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Allist",
+    "slug": "allist-dz27k",
+    "description": "Allist is your one place destination/tool to view all supported multichain chain transactions for your address",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "ETHQuest",
+    "slug": "ethquest-fmdy9",
+    "description": "NFT RPG adventure dungeon game built on Ethereum and Polygon & a Creator's Marketplace to mint Game & Map assets as NFTs and get rewarded by the community.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Zelda",
+    "slug": "zelda-19nnj",
+    "description": "Our3 is platform for generating token twins for real-world items to help build your personal inventory system",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WhoIsThis",
+    "slug": "whoisthis-ekqfi",
+    "description": "A Social Identity Manager for Anonymous Web3 Public Addresses",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "8i5pu"
+    ]
+  },
+  {
+    "name": "w@y_p01nt",
+    "slug": "w-y-p01nt-890c8",
+    "description": "True interoperability for the metaverse. Build and mint a virtual world onto Polygon+IPFS, then connect them together with on-chain portals - all from the browser.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NFT Console",
+    "slug": "nft-console-cmekq",
+    "description": "NFT Console is the NFT portfolio and data analytics application, that help to understand NFT marketplace's,collections, tokens , wallet analytics and wallet summary token minting. That support ethereum and polygon blockchain's.",
+    "event": "HackFS 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "8i5pu",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Lensgame",
+    "slug": "lensgame-w2yr6",
+    "description": "A decentralised game and in-game item marketplace built on Lensprotocol.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Artisane",
+    "slug": "artisane-p9a6m",
+    "description": "This is an app for NFT competitions. More like a America's got talent, but for NFT creators. voting will be done",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Willow",
+    "slug": "willow-0j1h8",
+    "description": "A Decentralized Blogging platform, where creators can publish blog posts as mintable NFTs.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RAZEMONEY",
+    "slug": "razemoney-njdp7",
+    "description": "A easy and transparent way to donate money and rewards the donator.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrypticVault",
+    "slug": "crypticvault-7a26t",
+    "description": "CrypticVault is a platform to store your data and give NFT membership-based access to your vault near and dear ones.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ChromeExt+ChatOnWeb3WithTokenGatingContent",
+    "slug": "chromeext-chatonweb3withtokengatingcontent-mq751",
+    "description": "XMTP web3 chat improvement that with chrome notification, token gating and NFT unlocking widget in chat box ;)",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "FS Announce",
+    "slug": "fs-announce-zu4rq",
+    "description": "Protocol that enables private encrypted messages to all NFT holders",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "PearTree",
+    "slug": "peartree-pxuut",
+    "description": "We are making APIs peer to peer instead of controlled by one entity.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yolo Club",
+    "slug": "yolo-club-zy1fx",
+    "description": "Crypto Casino for Degens. Are you Bullish or Bearish? Put your money where your mouth is.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unblogged",
+    "slug": "unblogged-nih1q",
+    "description": "A decentralized blog posting platform that is censorship resistant utilizing IPFS and Markdown",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Simple",
+    "slug": "simple-eeshu",
+    "description": "Decentralised documentation tool empowering liquidity and security through tokens.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "Waffy",
+    "slug": "waffy-55e36",
+    "description": "Waffy is a decentralized non-custodial NFT lending protocol where users can participate as lenders or bidders. It is basically the Aave for NFTs, with a 'seize' feature to incentivize loan repayment.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "u87dc",
+      "8i5pu",
+      "xefox"
+    ]
+  },
+  {
+    "name": "DesignProposal",
+    "slug": "designproposal-7ii7b",
+    "description": "A new easy way for DAOs to design proposals by vote before submitting for DAO wide acceptance",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "ChainLook",
+    "slug": "chainlook-1ft9u",
+    "description": "Decentralized blockchain data analytics platform powered by IPFS & TheGraph",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Plants And Pillars",
+    "slug": "plants-and-pillars-bvdtn",
+    "description": "Plants and Pillars is a decentralized organization that aims to encourage people to plant more trees and make Earth a better place to live in. We aim to build a community of enthusiasts who'll help us achieve our goal of planting 1 million trees through this project.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "8i5pu"
+    ]
+  },
+  {
+    "name": "Tide Protocol",
+    "slug": "tide-protocol-dhe4j",
+    "description": "Tide protocol is a new tool at the disposal of NFT and Crypto business development teams. We want to make marketing campaigns for this industry more efficient, effective, and transparent.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Consent Protocol",
+    "slug": "consent-protocol-2ijrk",
+    "description": "Decentralised consensual data and ad sharing protocol, allow ads to be served in your browser using data aggregated on you over different browing history, you can select what data can be shared and you determine who can purchase said data",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Music3",
+    "slug": "music3-zai5y",
+    "description": "Music3 let's you upload and share music over Decentralized Internet and mint it on the polygon mainchain",
+    "event": "HackFS 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "xefox",
+      "9zj01",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Musicviddle",
+    "slug": "musicviddle-r5yc0",
+    "description": "Music video guessing game sensation !! Test your music video knowledge against the world !!",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Muse",
+    "slug": "muse-qn40r",
+    "description": "A music NFT rental marketplace where creatives can rent out music and music scores for games",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3 Community Buidler",
+    "slug": "web3-community-buidler-ntm80",
+    "description": "Social media Dapp to bootstrap a community, with Blog, Comment, Search, Statistics and ERC20 functionality.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Chaindouble",
+    "slug": "chaindouble-x6c9q",
+    "description": "Chain Double is a backwards-compatible protocol that combines IPFS and cross-chain message passing to trustlessly expose on L1 NFTs the result of actions taken on L2.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Brandinate",
+    "slug": "brandinate-s4ygp",
+    "description": "A single, transparent data source for cryptographically secure, verifiable product information, managed on-chain by the brand owner, delivered instantly to stakeholders across the retail value chain — from e-commerce marketplaces to end consumers.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hygea3",
+    "slug": "hygea3-w1gsy",
+    "description": "Peer-to-Peer Medical File Sharing Network, with encryption. The DAPP is built with Lit Protocol, Arweave, and Bundlr.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "colloquium",
+    "slug": "colloquium-igxn9",
+    "description": "Colloquium is a marketplace for ideas. The platform allows you to mint an NFT proving authorship of articles published to IPFS.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "cozyfox",
+    "slug": "cozyfox-5p82w",
+    "description": "full-stack Ethereum Dapp Boilerplate ( ETH -BSC -POLY -AVL ..)",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Frontseat",
+    "slug": "frontseat-7uvdc",
+    "description": "Frontseat is a web3 membership platform. Creators can create an exclusive community for their supporters by using membership token ownership as a gate.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VoxelVerse",
+    "slug": "voxelverse-ak0wr",
+    "description": "This project will be an open-world MetaVerse with a community driven game mechanic.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "Chain me up",
+    "slug": "chain-me-up-g04mv",
+    "description": "Descentralized uncensorable onlyfans with integrated private payments",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polyfans",
+    "slug": "polyfans-brsw7",
+    "description": "A decentralized version of Patreon for web3 creators and their fans",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Pap3rs",
+    "slug": "pap3rs-rwk6o",
+    "description": "Academic papers published on IPFS. Papers can link to each other using metadata, are versioned on Ceramic, and a smart contract can be used to fund research projects.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Pasteis de Web3",
+    "slug": "pasteis-de-web3-bza80",
+    "description": "Pasteis a decentralized hackathon platform aims to make the hackathon experience more transparent and inclusive by having better features such as prize distribution and team-building.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Floppy",
+    "slug": "floppy-6zvhk",
+    "description": "Provide a private network/cloud space for sending data in a decentralized way.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "RAZE.MONEY",
+    "slug": "raze-money-2qq4d",
+    "description": "RAZE is a decentralized fundraising platform, created by L3gendary DAO, that assists with the delivery of liquidity of those who need it most and awards personalized impact certificate NFTs to contributors.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "POAPMAN",
+    "slug": "poapman-5mmkm",
+    "description": "POAPMAN - The all in one POAP Management assistant where creators can compile all their POAPs and manage seamlessly.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8i5pu"
+    ]
+  },
+  {
+    "name": "blankSpace - The DeSoC of Professionals",
+    "slug": "blankspace-the-desoc-of-professionals-9230w",
+    "description": "We are trying to bridge the gap between organizations and skilled people in web3. You can think of it as a decentralized society of professionals, who can interact with each other in a decentralized manner.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Supercluster",
+    "slug": "supercluster-t9x45",
+    "description": "Supercluster DApp is an application that allows content creators to create private IPFS networks, and enables non-technical users to participate in them.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "nbyyv",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "codstorage",
+    "slug": "codstorage-mi3q7",
+    "description": "Store your git repositories in IPFS, IPLD and commits on Ceramic",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "HealthWallet",
+    "slug": "healthwallet-ze6ae",
+    "description": "HealthWallet is a private silo for your medical data. Hide your data or make it accessible to medical researchers - the choice is only yours!",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Decentralized Ticketing Platform",
+    "slug": "decentralized-ticketing-platform-ok5fe",
+    "description": "A completely decentralized event ticketing platform designed to reduce the cost of hosting, attending and reducing platform dependency. There will also be a secondary market for tickets enabling creators to get a % of future sales (in the event of ticket arbitrage)",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "literals",
+    "slug": "literals-v22zq",
+    "description": "A Protocol To Create And Distribute Provable Facts To Enable Trust",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "3TIX",
+    "slug": "3tix-r2ivv",
+    "description": "Create, buy and sell the tickets on-chain. Whether in the Metaverse or on planet earth, 3TIX makes it easy to manage tickets for any event.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8i5pu",
+      "9zj01",
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Playground: Unity3D NFT Gallery Template",
+    "slug": "playground-unity3d-nft-gallery-template-m00qr",
+    "description": "Advanced Unity 3D NFT gallery starter template for game devs",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "/tweery",
+    "slug": "tweery-0fd3c",
+    "description": "A dapplet (re-)storing tweets on the fly from/into IPFS and seamlessly decentralizes Twitter operations on UX/UI level.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "DOSA project",
+    "slug": "dosa-project-pg2hw",
+    "description": "Decentralised infrastructure for chain-agnostic dynamic NFT metadata",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "b2u1b",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "BlocEvent",
+    "slug": "blocevent-e34j3",
+    "description": "A decentralized event app, where organizers can create, sell event tickets and airdrop poap to attendees",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "8i5pu",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "NFTConstructor",
+    "slug": "nftconstructor-dcah3",
+    "description": "NFT Collection Creator Platform. NFTC leverages Tablelands new NFTs structure based on SQL Tables and IPFS content addressed Files. It also make use of OpenZeppelin TransparentUpgradableProxy Pattern to deploy NFTContracts with only one Transaction.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Mint-my-files",
+    "slug": "mint-my-files-i4xhd",
+    "description": "IPFS & NFT Manager tools for Aquametaverse.org ecosystem and the Public. Uses Servers from Green Datacenters running of Water and Solar generated Electricity.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Ask2Web3",
+    "slug": "ask2web3-ozymk",
+    "description": "We are creating a community-based platform that will help users find solutions to their queries. Users will have the option to connect with the expert for that technology stack. Users can get vanity points and rewards based on their contributions.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8i5pu",
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "ShortGames",
+    "slug": "shortgames-j004y",
+    "description": "We are creating a utility platform where creators can promote their NFTs and users can play games and earn rewards. We will be creating small games that developers can directly integrate with their applications, which will be based on web3.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8i5pu",
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Untouched Archive",
+    "slug": "untouched-archive-7fe48",
+    "description": "Untouched Archive - is a decentralized and censorship proof solution to archive.org for the community to store Books, Newspapers, Documentaries, and historical Web pages on persistent storage powered by Filecoin - IPFS.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Legacy Forever",
+    "slug": "legacy-forever-s8r9u",
+    "description": "LegacyForever Legacy that Stays Forever!  Honor your loved ones by sharing their story, give tribute and keep their memory alive forever which can be easily accessible by future generations.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhostShare",
+    "slug": "ghostshare-z7c3y",
+    "description": "Ghostshare is the service you use to share a file in a private and decentralized way!",
+    "event": "HackFS 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xdat5",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "EtherGlance",
+    "slug": "etherglance-cjro9",
+    "description": "Developer tool to enable tabulation, computation, visualization, data management for developers to build solutions for the bottom of pyramid in the areas of healthcare using a variety of key blockchain protocols and solutions..",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "TagYourTree",
+    "slug": "tagyourtree-qcmgc",
+    "description": "TagYourTree provides a way to track proof of plantation leveraging geotagging technology, with its data stored on IPFS and reward the users with an #TGT NFT for taking care of plants consistently.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Haru's Hut",
+    "slug": "harus-hut-xce7o",
+    "description": "\"Haru's Hut\" is a cozy and friendly DAO for beginners in Web3 and people that don't know (yet) about DAOs, but want to take their first steps. Safe and sound and free forever on Mumbai testnet!",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Build3r",
+    "slug": "build3r-awy06",
+    "description": "Build3r is a multi-purpose web dApp builder platform with composable modules, similar to “legos”, that users drag and drop into a canvas for a  WYSIWYG experience. These modules are composable and interoperable meaning they can talk to each other.",
+    "event": "HackFS 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "pfyco",
+      "xdat5",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Butter",
+    "slug": "butter-vf5hz",
+    "description": "Butter is a quick and easy way to integrate token gating in your project. Integrate token-gating with minimum code and minimum fuss",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Split Protocol",
+    "slug": "split-protocol-h6r1a",
+    "description": "A DeFi protocol which lets you manage shared expenses. Unique about it is that everyone can pay their split in any token out there.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Cobweb",
+    "slug": "cobweb-y415p",
+    "description": "A web app that allows you to archive any website by taking a screenshot of the website and pinning it to IPFS using web3.storage.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTeach",
+    "slug": "nfteach-qopfs",
+    "description": "A platform for educators and students to learn new concepts. The educator can upload content and then issue SBTs to the students once they have completed a multiple choice test. This will allow for a clear and verifiable progression of tasks using NFTs/SBTs.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Interplanetary-box",
+    "slug": "interplanetary-box-3yx0f",
+    "description": "Secure decentralized file storage platform where users can safely store their files knowing that only they can access them",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Interplanetary Box",
+    "slug": "interplanetary-box-1u741",
+    "description": "A decentralized service to upload and share content with anyone",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Employement Reference",
+    "slug": "employement-reference-dq4da",
+    "description": "Employment Reference is a safeguard for employers and employees to track their professional references, ratings, and job history  all in one place. It is a dApp that brings transparency and accountability to all partners.",
+    "event": "HackFS 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f",
+      "xefox",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "De-Library",
+    "slug": "de-library-8zxi0",
+    "description": "De-library is programmed to provide a bridge between educators and learners through quality research papers and scientific discoveries. It’s tailored towards making the acquisition of papers that will aid research investigations for scientists and researchers.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Kasuwa",
+    "slug": "kasuwa-jb8iu",
+    "description": "Kasuwa is built on the new Seaport protocol, this marketplace allows users to mint nfts, create profiles, cross swap tokens and list nfts for other nfts and/or tokens.",
+    "event": "HackFS 2022",
+    "prizeCount": 7,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "8i5pu",
+      "eov0f",
+      "xefox",
+      "f7o0p",
+      "omyxt",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Park2Earn",
+    "slug": "park2earn-d3r6n",
+    "description": "We are building a park2earn protocol where users can park their money to fund public goods and earn Good deed POAP",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8i5pu"
+    ]
+  },
+  {
+    "name": "ValhallaMeta.io Artist DAO",
+    "slug": "valhallameta-io-artist-dao-6zeb8",
+    "description": "A POAP Issuance for Artists who have their work displayed in any ValhallaMeta.io Gallery.  The POAP will serve as Proof of Vote for the Artist Coalition DAO, which grants curation rights for the upcoming \"Artist's Choice\" Gallery.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8i5pu"
+    ]
+  },
+  {
+    "name": "Learnify",
+    "slug": "learnify-221ng",
+    "description": "An education platform allowing projects to outsource and incentives for the creation of high-quality learning materials.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Pasteblock",
+    "slug": "pasteblock-f9u8j",
+    "description": "Pastebin on IPFS: an easy way to send plain-text and code without the need to create an account or associate an identity.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zero Party Data",
+    "slug": "zero-party-data-jxdrv",
+    "description": "zeroPartData uses zero knowledge proof to verify eligibility for gifts & discount offers by Brands.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyDocs",
+    "slug": "polydocs-1oas6",
+    "description": "NFTs and DAOs are more than just deeds and clubs. They reflect rights and terms that require protecting. Polydocs makes it easy to create immutable, known agreements to ensure everyone is protected.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xdat5",
+      "omyxt",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "sawti",
+    "slug": "sawti-jioms",
+    "description": "Sawti, an audio hosting service to bring your sawt to the metaverse 😝",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "xefox"
+    ]
+  },
+  {
+    "name": "Toffi.bid",
+    "slug": "toffi-bid-ggeqc",
+    "description": "Toffi is a decentralized, public orderbook for NFT marketplaces. Place gasless bids/list NFTs without relying on the web2 infrastructure of isolated NFT marketplaces!",
+    "event": "HackFS 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "xefox",
+      "xdat5",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Blockify",
+    "slug": "blockify-u0ou2",
+    "description": "Blogify is a platform that works as service, so witihin a matter of seconds you can create and deploy new instance of a personal blog that is fully decentralized, as it leveraged blockchain, ceramic protocol, and IPFS.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gossip",
+    "slug": "gossip-wtfid",
+    "description": "still think about the idea and finalize this week. still think about the idea and finalize this week.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Treenet",
+    "slug": "treenet-b2s6u",
+    "description": "A decentralized app that rewards ordinary people for participating in reforestation, conservation efforts and green initiatives using carbon offsets and carbon tokens",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DecentraDrive",
+    "slug": "decentradrive-24a74",
+    "description": "DecentraDrive is a Dropbox-like application where users can encrypt files using Lit and upload them to IPFS.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kezayya",
+    "slug": "kezayya-qu66w",
+    "description": "A decentralized file storage and sharing system. This project intends to build a web3 version of google drive or dropbox for file storage and sharing.",
+    "event": "HackFS 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f",
+      "xefox",
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Fragments",
+    "slug": "fragments-pdxek",
+    "description": "An investment DAO solution with multichain fundraising, NFT to ERC-20 conversion, gasless voting and vault creation",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "i90pd"
+    ]
+  },
+  {
+    "name": "Interakt",
+    "slug": "interakt-z8dit",
+    "description": "Interakt is a web3 native way to own, store and monetize your interactions online. The project will have features including streaming ERC 20 tokens, storing your audio/video recording on IPFS and user owned access through profile NFTs",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Audiopium",
+    "slug": "audiopium-c6dc1",
+    "description": "No-code platform that allows music artists to create ERC-1155 NFT collection witch includes audio files as metadata. And music fans are able to own audio NFTs and listen to them.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BuidlVid",
+    "slug": "buidlvid-phoy8",
+    "description": "It's a decentalized video streaming platform with token-gating feature.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pod Protocol",
+    "slug": "pod-protocol-v3nne",
+    "description": "Pod Protocol: decentralized serverless functions and graph databases",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "lens-it",
+    "slug": "lens-it-f7xof",
+    "description": "App that lets you make private publications on Lens Protocol.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CHATTING APP",
+    "slug": "chatting-app-5c0xi",
+    "description": "A decentralised chat application using ipfs storage and metamask.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Games.space",
+    "slug": "web3games-space-1ttxx",
+    "description": "Web3Games.space is a platform/space which allows web2/web3 game developers to deploy and publish their browser based games on the Polygon blockchain. It leverages the IPFS technology to host the games efficiently for the users.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "NFT floor price prediction marketplace",
+    "slug": "nft-floor-price-prediction-marketplace-0k9te",
+    "description": "An NFT prediction marketplace that allows everybody to join the NFT movement to predict the floor price of NFT collections in a period of time.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "casino war",
+    "slug": "casino-war-g4qb3",
+    "description": "casino war game on ethereum network, minting cards before or during the game",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyWeb3Mail",
+    "slug": "polyweb3mail-odpxn",
+    "description": "A decentralized email and web3 platform where you can send encrypted email",
+    "event": "HackFS 2022",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "8i5pu",
+      "eov0f",
+      "xefox",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "OnDrip",
+    "slug": "ondrip-a4dww",
+    "description": "OnDrip is NFT Subscriptions platform - Subscription as NFT where users pay regularly and hold NFTs to access premium services. Think SaaS but with NFTs. We enable new avenues for Web2 merchants to enter the exciting world of Web3.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fireside Chat",
+    "slug": "fireside-chat-8zj5z",
+    "description": "A decentralized social network site where you can message other users and participate in servers.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8i5pu",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "E-IPFS",
+    "slug": "e-ipfs-tdu8g",
+    "description": "E-IPFS (Enterprise IPFS) is an IPFS cloud service for enterprises.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Elastic",
+    "slug": "elastic-gybwe",
+    "description": "NFT renting protocol inspired by Air B' n B. Includes a search aggregator function which highlights the benefits received as a part of renting and a user interface which mediates the fair exchange of assets.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trail Conservation",
+    "slug": "trail-conservation-1ejk3",
+    "description": "Trail conservation: decentralized hiking trail data discovery",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f",
+      "xefox"
+    ]
+  },
+  {
+    "name": "DappChat",
+    "slug": "dappchat-a3scm",
+    "description": "Decentralized chat application with document transfer capabilities and NFT services. A Dropbox-Telegram Decentralized Chimera!",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xefox",
+      "f7o0p",
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Self Sovereign Health Records",
+    "slug": "self-sovereign-health-records-mq03o",
+    "description": "A Dapp that enables you to Own and Safely Share your Personal and Medical data. SSHR enables you to Own and Safely Share your Personal and Medical data",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "96pd9",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "GPT3Bot",
+    "slug": "gpt3bot-ruqt8",
+    "description": "Can we create a bot that automatic response all our questions about IPFS using AI?  yes, just look @ OpenAIBot",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "zzzync",
+    "slug": "zzzync-xk96u",
+    "description": "Currently to replicate a database, another OrbitDB peer must be online. Using IPFS and IPNS pinning services we fix this! Stay synced with offline orbitdb peers using web3.storage and w3name!",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Optik",
+    "slug": "optik-fmm58",
+    "description": "Optik is a web3 enabled video conferencing application. Our platform provides a place for DAO contributors, teams and groups to host meetings, online events and more.",
+    "event": "HackFS 2022",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "u87dc",
+      "t4bwy",
+      "eov0f",
+      "nbyyv",
+      "xdat5",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Mimis",
+    "slug": "mimis-zd5sn",
+    "description": "𝔐𝔦̈𝔪𝔦𝔰 is a filesystem overlay for IPFS resources leveraging several novel approaches to organize content.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zinder: Match nomads through POAPs",
+    "slug": "zinder-match-nomads-through-poaps-js3py",
+    "description": "Zinder: Find ethereum vagabunds. Based on mutual POAPs you can match and message through XMTP",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "pfyco",
+      "8i5pu"
+    ]
+  },
+  {
+    "name": "SignReliably",
+    "slug": "signreliably-hewns",
+    "description": "SignReliably secures document endorsements with the secure immutability of the blockchain.   Lock down real-world contracts, inspections & approvals, petitions, & more.   Make it impractical for a dishonest party to modify the records with any credibility.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8i5pu",
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "reflect.fm",
+    "slug": "reflect-fm-owwxp",
+    "description": "A blazing fast decentralized podcast page for all existing podcasts",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Entropic",
+    "slug": "entropic-ft4ej",
+    "description": "Utility NFT platform enabling crypto collectibles to become actionable. NFTs can be combined and linked to utilities like tickets, coupons, giveaways and much more.",
+    "event": "HackFS 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "eov0f",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Plusheaven.eth",
+    "slug": "plusheaven-eth-04ybr",
+    "description": "Plusheaven.ETH - We created a decentralized gaming & betting platform!",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xefox"
+    ]
+  },
+  {
+    "name": "Chat Feature (Lens + XMTP)",
+    "slug": "chat-feature-lens-xmtp-41soo",
+    "description": "Messaging feature for Lenster (decentralized social media) using XMTP protocol. Also includes a push notification feature.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vigilance DAO",
+    "slug": "vigilance-dao-043jh",
+    "description": "A DAO to crowdsource scammers information as open source data on the chain",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Nature NFT Marketplace Event POAP",
+    "slug": "nature-nft-marketplace-event-poap-kp97z",
+    "description": "We designed, created and dropped a POAP to celebrate attendance at our Nature NFT Marketplace virtual trade show.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8i5pu"
+    ]
+  },
+  {
+    "name": "Pipele",
+    "slug": "pipele-w06zh",
+    "description": "Pipele is a \"self-sovereign platform\" that allows users to create private online spaces and share files securely.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "DaoReviews",
+    "slug": "daoreviews-eh6mx",
+    "description": "A decentralized Dao Review platform, where one can give review to the dao and helping community, and daos can get reviewed to assess themselves",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AudioX",
+    "slug": "audiox-huq8u",
+    "description": "Audio Call Dapp where user can connect with other people for audio call from wallet",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "web3 Fonts",
+    "slug": "web3-fonts-d1i5i",
+    "description": "IPFS based \"font delivery network\" that loads fonts in a decentralized manner. This is similar to fonts.google.com, but over IPFS",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPDrive",
+    "slug": "ipdrive-thna0",
+    "description": "InterPlanetary Drive is a decentralized drive built on top of IPFS",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "BeSync Phygit",
+    "slug": "besync-phygit-ogebz",
+    "description": "A BeSync Phygit identifies an asset according to owner, location, time, and spatial dimensions, using Web3.Storage, Filecoin, Tableland, and Polygon",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Manekiki",
+    "slug": "manekiki-vbg38",
+    "description": "Manekiki is a one-stop web3 accounting and budget authorization app that enables SMEs,DAOs, or any organizations to manage their crypto assets without any hassles.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "f7o0p",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Mail3",
+    "slug": "mail3-ytfhp",
+    "description": "Mail3 is a decentralized mail service based on ipfs storage. Traditional Email is ubiquitous and irreplaceable, only too old. We need a web3 based brand new mail service for crypto natives.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Atticc",
+    "slug": "atticc-cobrv",
+    "description": "Atticc is a crypto native social media for crypto native communities. Atticc returns ownership of identity, data and monetisation to communities and users themselves.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8i5pu",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Bountyz",
+    "slug": "bountyz-nj85m",
+    "description": "All-in-one crypto rewards & incentives platform that scale with your business",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "xefox",
+      "omyxt"
+    ]
+  },
+  {
+    "name": "InvesTriX",
+    "slug": "investrix-4ba1b",
+    "description": "Youth empowerment that enables financial literacy: InvesTriX is an investing app for GenZ! For the youth, by the youth! Empowering the future by empowering today's young generation with practicality is our mission.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAOFactoring",
+    "slug": "daofactoring-0tuvp",
+    "description": "Factoring app to allow daos to issue invoices to clients and sell the ownership of the invoices to increase capital efficiency",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Arigale",
+    "slug": "arigale-brwcg",
+    "description": "Building a markdown document editor like google docs but for repositories.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Dyve",
+    "slug": "dyve-pxsz9",
+    "description": "A brand New NFTFi Primitive that allows users to safely Lend, Rent, or Short NFTs",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "QuantumOracle",
+    "slug": "quantumoracle-r7mzi",
+    "description": "Quantum Oracle helps create verified screenshots - NFTs proving that whatever their minter found on the net actually existed at that moment.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "u87dc"
+    ]
+  },
+  {
+    "name": "Dapido",
+    "slug": "dapido-0h5pr",
+    "description": "rapido web app build on ipfs, polygon and Nextjs. We are looking to build more on this.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Om - zkDAO",
+    "slug": "om-zkdao-k94t2",
+    "description": "Om is a zkDAO that uses zero-knowledge proofs to provide a decentralized and private data storage layer solution.",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Roll NFT",
+    "slug": "roll-nft-io4mi",
+    "description": "Raffle roll application for NFT collections, designed to bring gambling aspect to NFT trades and exchanges",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Noir",
+    "slug": "noir-fe3rp",
+    "description": "Noir is a Chrome extension that enables easy and secure chatting across websites. Noir is also a social network in the sense that users can mint NFTs for websites they choose, providing easier and more personalized contact between anonymous Ethereum accounts.",
+    "event": "HackFS 2022",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "xefox",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "NeuralNFTs",
+    "slug": "neuralnfts-yxcg0",
+    "description": "Giving the sixth sense to NFTs by creating an ML model marketplace with some NFT analytics.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "9zj01",
+      "omyxt"
+    ]
+  },
+  {
+    "name": "-",
+    "slug": "-w4raf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id elit condimentum, ultricies arcu sed, sodales eros. Pellentesque ut turpis risus.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GitBlox",
+    "slug": "gitblox-w82i7",
+    "description": "Use IPFS as a storage mechanism for git repositories. Part of this effort will be a decentralized compute architecture to handle the git smart protocol responsible for packfiles.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Salespage",
+    "slug": "salespage-q9raq",
+    "description": "A Point of Sale platform built on Polygon and IPFS designed for restaurants and retail.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "potato.bond",
+    "slug": "potato-bond-e9239",
+    "description": "Teikei🇯🇵Community Supported Agriculture🇺🇸AMAP🇫🇷ASAT🇷🇴 leverages local coincidences of needs and wants for change. potato.bond aims to be infrastructure in service of such locally aware and globally conscious modes of production, distribution and ownership.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of rekt",
+    "slug": "proof-of-rekt-92prc",
+    "description": "@proofofrekt_ is a one-of-a-kind #web3community to share your 'rekt-periences' with PROOF!",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stark Protocol",
+    "slug": "stark-protocol-u64ub",
+    "description": "A defi protocol that enables everyone to borrow with no collateral.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aramid-history",
+    "slug": "aramid-history-iqhxd",
+    "description": "A web UI to interface with the transaction history of the Aramid bridge.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Slise",
+    "slug": "slise-3d8s4",
+    "description": "Slise is an NFT mint list analytics tool for web3 creators. We help creators to understand their audience, find opportunities for collaborations, predict sell-out, and make data-driven decisions, giving them full control over the collection launch.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "i90pd",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Bright Forest",
+    "slug": "bright-forest-a6zdy",
+    "description": "A dapp to gamify urban mobility with bicycle rides, public goods and web3 tools",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Teampod Finance",
+    "slug": "teampod-finance-vu1a8",
+    "description": "Teampod Finance is a platform meant to create a close segment of nodes financially networked in a circle of friends, families, workmates and partners.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meta Jungle",
+    "slug": "meta-jungle-7n6m0",
+    "description": "Meta Jungle is metaverse open world game, where user can play, challenge each other, visit other user's virtual world and talk.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "9zj01",
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Rubix",
+    "slug": "rubix-t4r6g",
+    "description": "Feeling bored at home? Rubix is your buddy. Play games, explore places and attend events with Rubix.",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Blocq☎️Book",
+    "slug": "blocq-book-kw8i2",
+    "description": "Picture a phonebook for the blockchain.  Or, if you never browsed the white-pages, an ios-contact app for all of the W3b.",
+    "event": "HackFS 2022",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "8i5pu",
+      "f7o0p",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Clover",
+    "slug": "clover-tf0u6",
+    "description": "Messaging and collective file storage for members of DAOs. Exchange important messages and files.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "9zj01"
+    ]
+  },
+  {
+    "name": "royalty-base-contract",
+    "slug": "royalty-base-contract-b7pe4",
+    "description": "A base contract to build off of when working with royalties. A percentage you set in the contract of eth sent to the contract will be sent to the specified address",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gummys",
+    "slug": "gummys-j07de",
+    "description": "Gummys is a WEB 3.0-powered video and streaming platform with a fully operable product allowing users to generate income by creating, minting and trading tokenised media content as NFT, watching video",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Elpis",
+    "slug": "elpis-d24pn",
+    "description": "Decentralised microblogging app where you own your content and can earn from it without third party involved",
+    "event": "HackFS 2022",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Mojo",
+    "slug": "mojo-11hkx",
+    "description": "Mojo is an audio/media streaming platform that empowers musicians, artists and content creators through web3 and blockchain technologies using IPFS.",
+    "event": "HackFS 2022",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "omyxt"
+    ]
+  },
+  {
+    "name": "Docs Universe",
+    "slug": "docs-universe-udeon",
+    "description": "Docs Universe is a web based Dapp that allows to store important assets on IPFS instance. Ownership of files is securely recorded on the Ethereum blockchain making it the best platform to store assets",
+    "event": "HackFS 2022",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

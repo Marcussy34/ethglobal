@@ -1,0 +1,2271 @@
+[
+  {
+    "name": "Veryclear",
+    "slug": "veryclear-vu8i7",
+    "description": "Scriptable ERC7730 descriptions for Ethereum transactions.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Imink Ledger",
+    "slug": "imink-ledger-kjdg5",
+    "description": "Imink Ledger: Privacy-first cross-chain escrow for trustless global work settlement.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "harvest",
+    "slug": "harvest-oknm6",
+    "description": "Auto-compounds Morpho vault rewards for all depositors. Every depositor is a verified unique human.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PetProtect",
+    "slug": "petprotect-gr9m3",
+    "description": "Proactive AI-powered pet health companion. Translate veterinary documents from any language.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ICEBERG",
+    "slug": "iceberg-gi3qt",
+    "description": "Send money publicly or privately. Your choice, every transaction. Powered by Unlink, WalletConnect.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniRange",
+    "slug": "unirange-pdcoc",
+    "description": "A resilient rebalancing vault for Uniswap LPs to stay in range and keep earning fees 24/7",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI X402 Benchmark",
+    "slug": "ai-x402-benchmark-b3zrx",
+    "description": "AI-x402 benchmarks testnet AI actions, ranking alignment with Hedera/Chainlink/Ledger practice.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "joe-y",
+    "slug": "joe-y-cp06v",
+    "description": "Joe help you manage your personal finance. Finds the best opportunities and invest your money",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jurex Network",
+    "slug": "jurex-network-06nx0",
+    "description": "The court for the agent economy. AI agents hire each other privately, disputes resolve onchain",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EVM PORST",
+    "slug": "evm-porst-kkcfo",
+    "description": "The PORST signature scheme is a superior building block on the EVM than existing PQ implementations",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Yachtbook",
+    "slug": "yachtbook-zyork",
+    "description": "Luxury yachting industry needs to make sure it doesn't employ the wrong people",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zuza",
+    "slug": "zuza-x2n8c",
+    "description": "Chat-first DeFi interface for EVM. Type what you want, Zuza does it. Powered by 0G + Uniswap",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "A2A",
+    "slug": "a2a-ykn9v",
+    "description": "A verified AI agent marketplace where humans register, discover, and pay agents via ENS and x402.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "instant wallet",
+    "slug": "instant-wallet-jv3fy",
+    "description": "A mobile wallet where you choose: send crypto publicly or privately. [WIP, unfortunately]",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentFi",
+    "slug": "agentfi-7ynob",
+    "description": "The social network where every AI agent post is a tradeable coin, verified by iris scan.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HackaTriathlon",
+    "slug": "hackatriathlon-y1sjc",
+    "description": "Live biometric prediction markets on Arc. Heart rate belt → iPhone → smart contract settlement.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenCompliance",
+    "slug": "opencompliance-b89x9",
+    "description": "The shared compliance layer for institutional DeFi",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Nudge",
+    "slug": "nudge-mj72y",
+    "description": "Nudge: \"the right message, from the right person, at the right time.\"",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UWAPI",
+    "slug": "uwapi-uz7n4",
+    "description": "Web3 checkout and invoicing tool enabling crypto payments with stablecoin settlements.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polar Wallet",
+    "slug": "polar-wallet-2043o",
+    "description": "Turn any USB or external drive into a secure Ethereum cold wallet",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DKG",
+    "slug": "dkg-0e9zp",
+    "description": "Partial implementation of NI-DKG — threshold cryptography on Ethereum using ZK proofs.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "beepm",
+    "slug": "beepm-377m2",
+    "description": "Zeroclaw Agent with Private Inference and Health Data Tracking",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AGON",
+    "slug": "agon-dhm2f",
+    "description": "Stake HBAR, compete in skill games, winner takes the pot. 4 Hedera services, zero Solidity.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainRunTimeisRuning",
+    "slug": "chainruntimeisruning-2giuv",
+    "description": "ChainRun: fast Web3 platformer with bets, rewards, and adaptive AI on Hedera",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sneaky",
+    "slug": "sneaky-02vwq",
+    "description": "Stealth addresses for ENS names with private fund recovery via Unlink.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "maki",
+    "slug": "maki-564eg",
+    "description": "Maki — AI agent for onchain DeFi. Keys locked in hardware, unreachable by the model.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Post Quantum Agent",
+    "slug": "post-quantum-agent-b45st",
+    "description": "AI agent marketplace where only ML-DSA-44 + ECDSA hybrid-signed, human-backed agents may trade.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Synapse",
+    "slug": "synapse-8m2sw",
+    "description": "Payment layer for AI agents. Agent-to-agent micropayments. Zero subscriptions.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HydroLedger Verified",
+    "slug": "hydroledger-verified-2t60w",
+    "description": "Blockchain-based platform for transparent agricultural water usage tracking and verification.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SNAP Trust",
+    "slug": "snap-trust-cnc72",
+    "description": "Reducing SNAP Fraud with digital wallets and smart contract access control.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentPass",
+    "slug": "agentpass-92p9u",
+    "description": "AgentPass: on-chain identity + spending policy for AI agents. Backed by World ID, ENS & Ledger.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SENTINEL",
+    "slug": "sentinel-91nv5",
+    "description": "Decentralized AML scoring protocol : TEE nodes, CRE aggregation, verifiable on-chain proofs",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "LeAgent",
+    "slug": "leagent-31x1u",
+    "description": "App allowing users to execute real-time strategies with agents, while still retaining max security",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MultisigPE",
+    "slug": "multisigpe-0kqka",
+    "description": "TEE-powered policy engine that scores smart contract risk and dynamically sets multisig thresholds",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "Groundtruth",
+    "slug": "groundtruth-mz4us",
+    "description": "Intelligence map where humans and AI agents collaboratively report and validate world events",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ZENITH",
+    "slug": "zenith-iq02t",
+    "description": "AI agents find the best DeFi yields across chains, guarded by a Chainlink TEE, rebalanced via CCTP",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Velix",
+    "slug": "velix-cexc3",
+    "description": "High velocity data validation and commitment layer for real time event based metrics on chain.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "veritas",
+    "slug": "veritas-sejjx",
+    "description": "Veritas: The trust layer for AI agents — ranked by verifiable, on-chain prediction performance",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P.O.T.I.C.A.",
+    "slug": "p-o-t-i-c-a-rth1s",
+    "description": "Personalized On-chain Trading Intelligence with Crypto Autonomy",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AlphaShield",
+    "slug": "alphashield-ebq8u",
+    "description": "ZK-verified trading credibility for crypto influencers. Prove your score, hide your wallet.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agentic Axelrod",
+    "slug": "agentic-axelrod-59j35",
+    "description": "LangGraph agents play Prisoner's Dilemma tournaments via A2A with on-chain stakes & ERC-7702",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "sleepmask",
+    "slug": "sleepmask-ysyu9",
+    "description": "pay in crypto without showing off how much you are rich are broke",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ShadowPay",
+    "slug": "shadowpay-bh0jk",
+    "description": "ShadowPay is a privacy-focused payroll platform that enables private payroll flows on-chain",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZenAgent",
+    "slug": "zenagent-qn0f9",
+    "description": "ZenAgent: AI wellness companion for crypto users. Human-verified, private by design, onchain.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Horacle",
+    "slug": "horacle-vhi9c",
+    "description": "Real time answers from verified humans at any location. Ask anything and earn.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainPilot",
+    "slug": "chainpilot-25jjm",
+    "description": "DeFi safety, simplified. Check risks. Trade safer. Just chat.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Veil",
+    "slug": "veil-9ay5q",
+    "description": "Privacy-preserving credit scores from real bank data unlock undercollateralized DeFi loans on Flare",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "AudiThor",
+    "slug": "audithor-ntedc",
+    "description": "Security audits with real-time micropayments on Hedera. Pay for actual work done, no flat fees",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "TrustAgent",
+    "slug": "trustagent-cmaok",
+    "description": "Cryptographic reputation layer for AI agents: trust scores stored in ENS, verifiable by anyone",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bound",
+    "slug": "bound-7w7iy",
+    "description": "On-chain trust policy layer for AI agent spending and delegation.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ghost in the Machine",
+    "slug": "ghost-in-the-machine-x21o8",
+    "description": "Public verifiable autonomous on-chain agents that live, trade, learn, and die on ENS.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "KronoScan",
+    "slug": "kronoscan-fdv0e",
+    "description": "AI agents pay per-request for smart contract audits via nanopayments, on-chain escrow & ENS.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CloakPay",
+    "slug": "cloakpay-x7w9x",
+    "description": "The first crypto wallet where the merchant never sees your address. Pay anyone. Reveal nothing.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Smarter Contracts",
+    "slug": "smarter-contracts-fx775",
+    "description": "Smarter Contracts: Permissionless on-chain automation for self-executing smart contracts",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "C.E.S.T.A Agent",
+    "slug": "c-e-s-t-a-agent-wkud7",
+    "description": "A voice AI agent that books, pays, and splits crypto without using crypto!",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "AgentExpo",
+    "slug": "agentexpo-yinc9",
+    "description": "AI-powered expo, matching diverse participants, and settling deals instantly with stablecoins.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Pay",
+    "slug": "agent-pay-jqrw2",
+    "description": "A decentralized API database for AI agents, payable with crypto.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Hecate wallet",
+    "slug": "hecate-wallet-qx7p6",
+    "description": "Hecate is a privacy-first wallet that reviews, explains, and privately executes before you sign.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "World In Paper",
+    "slug": "world-in-paper-a1kzy",
+    "description": "World mini app for onchain paper trading competitions across all chains and more",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "depositoor",
+    "slug": "depositoor-1ugi9",
+    "description": "Accept any token on any chain. Settle in USDC. One address, non-custodial, powered by EIP-7702.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PaintGlobal",
+    "slug": "paintglobal-v4pwo",
+    "description": "NFC wristbands power an on-chain art contest with voting, NFTs and auctions from the workshop.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Uniswap MCP Rust",
+    "slug": "uniswap-mcp-rust-r8nuc",
+    "description": "Basic MCP Server built in Rust to allow AI Agent to interact with Uniswap API",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onda",
+    "slug": "onda-q1we4",
+    "description": "Your music streams pay platforms. Onda pays artists.  1 cent per play, direct to artists.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "Meridian",
+    "slug": "meridian-1x2ef",
+    "description": "Autonomous treasury agent for companies converting between stablecoins with corporate level privacy",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Tranquille",
+    "slug": "tranquille-d0oh2",
+    "description": "AI agent for atomic batch swaps, arbitrage routing, and USDC settlement on Arc",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hollab.eth",
+    "slug": "hollab-eth-wg5pb",
+    "description": "On-chain Holacracy to structure orgs, align teams, and govern with tamper-proof authority records.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HumanAttentionToken",
+    "slug": "humanattentiontoken-q09yz",
+    "description": "HAT: Earn USDC micropayments for your attention. No bots, no middlemen — just humans getting paid.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Arcare",
+    "slug": "arcare-0qd8y",
+    "description": "Parametric insurance for DeFi — risk priced by prediction markets, settled instantly in USDC on Arc.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "human backed copilot",
+    "slug": "human-backed-copilot-c673g",
+    "description": "AI trading agents verified by World ID: bots blocked, human-backed agents get through.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0G-Gang",
+    "slug": "0g-gang-5z9yk",
+    "description": "Create, manage, trade and merge AI context as NFTs on 0G network",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polimetric",
+    "slug": "polimetric-3xqb1",
+    "description": "Charts and markets for how election results affect the economy and other metrics",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Duels",
+    "slug": "duels-3m3mx",
+    "description": "A live 1v1 arena where agents play Prisoner's Dillemma with real stakes and public drama.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shawarma Orchestrate",
+    "slug": "shawarma-orchestrate-rfyhe",
+    "description": "Multi-agent swarm prediction orchestrator: 0G Compute + 0G Storage, Uniswap actions",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Invisible AI",
+    "slug": "invisible-ai-phr4u",
+    "description": "AI assistant without interface, you're using it right now, but don't know yet",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SecretPay",
+    "slug": "secretpay-j4rpy",
+    "description": "x402 payment gateway for AI agents private burner wallets via Unlink ZK pool + Ledger human approval",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gambit",
+    "slug": "gambit-oja77",
+    "description": "Prediction markets, natively on a watch. The wearable crypto trading experience until now.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VANTA",
+    "slug": "vanta-sep7q",
+    "description": "Verifiable Autonomous Notary for Transaction Assurance  -> AI speed + Human authority.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Blindapp",
+    "slug": "blindapp-6yi5n",
+    "description": "BlindApp — A privacy-first mobile wallet powered by Unlink SDK and zero-knowledge proofs on Base.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pisgah",
+    "slug": "pisgah-0r3u4",
+    "description": "Verified diagnostic workflows for hospitals from lab to delivery, on-chain.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Converge",
+    "slug": "converge-8a00m",
+    "description": "Fixed-price Uniswap v4 hook for compliant, atomic onchain liquidity for RWAs.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Slab.Finance",
+    "slug": "slab-finance-2o8ng",
+    "description": "Cross-chain USDC loans with Pokemon cards as collateral - auctioned off at discount when liquidated!",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pred",
+    "slug": "pred-9t0hr",
+    "description": "Pred brings leverage trading to traditional prediction markets",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Défi",
+    "slug": "defi-e9zii",
+    "description": "Défi is a gamified 1v1 live DeFi trading competition platform.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "TrustPay",
+    "slug": "trustpay-7h96n",
+    "description": "One-tap crypto payments via merchant whitelisting, ENS identity, and WalletConnect Pay",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OG-QuickStart",
+    "slug": "og-quickstart-o4f1a",
+    "description": "OpenClaw plugin to easely integrate OG-inference as a LLM provider",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aiwal",
+    "slug": "aiwal-19qro",
+    "description": "Non-custodial Agentic Wallet. Converse, Confirm and stay in control.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Orchestra",
+    "slug": "orchestra-mkifq",
+    "description": "Orchestra: Talk to your crypto. An AI agent for seamless swaps and sends with Ledger security.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "YSM",
+    "slug": "ysm-ch2s2",
+    "description": "DeFi protocols sell future fees revenue. Investors earn yield as fees flow in. No debt, no dilution.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ABRAND",
+    "slug": "abrand-5vcrc",
+    "description": "Making Hedge Fund accessible to everybody via crypto. HF raising LP onchain for offchain investing.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zkcash",
+    "slug": "zkcash-f6xdm",
+    "description": "ZKcash: Private face-based crypto payments with liveness checks and no wallet required.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arcadia",
+    "slug": "arcadia-m7brs",
+    "description": "Arcadia is a native mobile app to create live streams to get AI agents to bet on them",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HumanGate",
+    "slug": "humangate-3j44j",
+    "description": "The verification gateway for human-backed AI agents. Verify once with World ID, access everywhere.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChartGuessr",
+    "slug": "chartguessr-o8y4c",
+    "description": "GeoGuessr for charts. Draw the next 60s of BTC price, closest sketch wins USDC.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProofFrame",
+    "slug": "proofframe-wxy1c",
+    "description": "ZK-proven photo authenticity — prove it's real, not AI, without revealing who you are.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unwind",
+    "slug": "unwind-pqp3a",
+    "description": "Onchain Refund Infrastructure for online & in-store crypto payments",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "LORA Meshtastic eth",
+    "slug": "lora-meshtastic-eth-rrb86",
+    "description": "A wallet signed LORA radio chat with optional ENS resolution",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VendorRank AI",
+    "slug": "vendorrank-ai-hm5rq",
+    "description": "AI-powered procurement with verifiable, tamper-proof decision audit on Hedera.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Intelex",
+    "slug": "intelex-ascu4",
+    "description": "A marketplace for spare intelligence as a precursor to bootstrapping intelligence as a new commodity",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Human as a Service",
+    "slug": "human-as-a-service-3jd8e",
+    "description": "The first protocol letting AI agents hire a real human, verify the work, and settle on Hedera.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeltaFX",
+    "slug": "deltafx-9fewc",
+    "description": "FX insurance for the stablecoin economy – hedge currency risk onchain",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Folio",
+    "slug": "folio-xh7ak",
+    "description": "0% interest credit line backed by your stocks. Borrow cash without selling, no minimums, no taxes",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "ProofLearn",
+    "slug": "prooflearn-dxjte",
+    "description": "AI tutor Mini App for World — verify with World ID, learn with AI",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NAR _ NET",
+    "slug": "nar-net-s316f",
+    "description": "On-demand ephemeral multi-chain data pipelines built with Hedera primitives",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "RecyCan",
+    "slug": "recycan-9cfmh",
+    "description": "Bottle deposit refunds onchain: buy by scanning, return at a station, get your deposit back.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Signel",
+    "slug": "signel-jfdgu",
+    "description": "Delegate scoped on-chain permissions to AI agents, enforced by your Ledger hardware wallet.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Warden",
+    "slug": "warden-puu33",
+    "description": "Private payroll powered by zero knowledge proofs. Pay your team without exposing salaries on chain",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "itd29"
+    ]
+  },
+  {
+    "name": "Finvoice",
+    "slug": "finvoice-xu0sz",
+    "description": "Private invoice factoring with AI attestation inside Flare TEE and tokenized invoices on Hedera.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Open Human",
+    "slug": "open-human-er4dy",
+    "description": "Verified-human task marketplace where AI agents hire humans proved by World ID on Hedera escrow.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Don't Get Drained",
+    "slug": "don-t-get-drained-n4bdy",
+    "description": "Agentic firewall marketplace where anyone can publish security agents that guard DeFi transactions",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Rwact",
+    "slug": "rwact-1g3y9",
+    "description": "Act babysits your xStocks positions, alerts you when something matters",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SealSign",
+    "slug": "sealsign-o3b90",
+    "description": "SealSign: Issue tamper-proof documents on Hedera, verified autonomously by Chainlink.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HexRay",
+    "slug": "hexray-sbnek",
+    "description": "X-Ray vision for EVM transactions — a Claude Code skill to decode and safety-check before signing",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kondor",
+    "slug": "kondor-4bvt5",
+    "description": "Automate your funds with encrypted, conditional policies executed by Chainlink CRE workflows",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Humanly",
+    "slug": "humanly-zeoqc",
+    "description": "Human-gated liquidity bootstrapping with chain-abstracted USDC settlement",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "paydin",
+    "slug": "paydin-bvrb8",
+    "description": "we created a dapp to pay back a freind split a bill using unlink",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Merx",
+    "slug": "merx-hd7g3",
+    "description": "Merx: Pay for anything with any token on any chain. Swap via Uniswap, settle on Arc.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ALMA",
+    "slug": "alma-07pzd",
+    "description": "Automated Liquidity Management Agent for your Uniswap positions",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "PayMate",
+    "slug": "paymate-xxesg",
+    "description": "PSPs get instant USDC credit, investors earn fixed 5% APY, powered by Arc, Chainlink CRE & Uniswap",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "onboard-to-eth",
+    "slug": "onboard-to-eth-fe8jp",
+    "description": "solidity contracts and typescript tooling for modern ethereum wallet onboarding experience",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polyledger",
+    "slug": "polyledger-u5k4j",
+    "description": "Polyledger brings hardware wallet security to prediction markets like Polymarket.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Whisperrr",
+    "slug": "whisperrr-91mvn",
+    "description": "Bet on anything. Nobody knows it's you. AI risk scoring, Ledger signing",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "αβγ'",
+    "slug": "avg-1x2z2",
+    "description": "Onchain market making system that solves Impermanent loss and toxic orderflow problems",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "AdFlow",
+    "slug": "adflow-h0f0e",
+    "description": "AI agents that matches advertisers and publishers, smart-contract escrow for trusted payouts",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FaceWallet",
+    "slug": "facewallet-5qykb",
+    "description": "Your Ethereum address has a face. Catch wrong recipients before you sign.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "npmguard",
+    "slug": "npmguard-aeihd",
+    "description": "NpmGuard: AI agents audit npm packages for malicious code, publish verifiable results on-chain.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Perseus",
+    "slug": "perseus-jph8g",
+    "description": "Building the standard that turns blockchain transactions into compliant financial records.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "El Cajero",
+    "slug": "el-cajero-0etg7",
+    "description": "Slack bot that lets devs request test funds from a Safe. ENS names, multi-chain bridging via Slack.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tripgent",
+    "slug": "tripgent-ihb2c",
+    "description": "Tripgent — Chat with an AI travel agent, earn USDC for real engagement.Discovery that pays you back.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TunnyBunny",
+    "slug": "tunnybunny-y85jd",
+    "description": "Split bills with friends across any chain, any token, with optional privacy.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Koi",
+    "slug": "koi-wet0o",
+    "description": "AI agents compete as ALMs on Uniswap. Capital flows to top performers. Own strategies as iNFTs.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CaaS",
+    "slug": "caas-ivt4s",
+    "description": "Human-verified \"WorldClaw\" for every human, paid in WLD with x402 and private compute.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Whisper",
+    "slug": "whisper-y8iwm",
+    "description": "Private treasury agent that turns natural language into shielded multi-chain payments via zk",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CenteraBeat",
+    "slug": "centerabeat-9cx1a",
+    "description": "An AI auditor of centralization risks of any DeFi contract, checks for any admin keys.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pool Up",
+    "slug": "pool-up-xehxv",
+    "description": "Uniswap v4 pool where your liquidity earns Aave yield automatically. Zero effort, more money.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ultrasonic.fyi",
+    "slug": "ultrasonic-fyi-0dczp",
+    "description": "Ultrasonic crypto payments. Your phone & pc hears the request. No QR codes, just sound waves.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cannes Dance",
+    "slug": "cannes-dance-41u4y",
+    "description": "Marketplace for events attendies; authenticate and pay in USDC with Dynamic embedded wallets",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlexProver",
+    "slug": "flexprover-7xuf8",
+    "description": "Selective trading performance proof on-chain - attested by Flare TEE",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "Me&New",
+    "slug": "me-and-new-232ss",
+    "description": "A match-making tool that connects you to anyone who needs your skills, or has the skills you need",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Paper battles",
+    "slug": "paper-battles-sssvq",
+    "description": "paper battles - where agents fight to the last candle..........",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHastic",
+    "slug": "ethastic-0x22r",
+    "description": "ETHastic: A resilient, local-first mesh protocol for off-grid financial coordination and payments.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "Provenance Chain",
+    "slug": "provenance-chain-8g8a1",
+    "description": "ProvenanceChain — on-chain document notary powered by Hedera, WalletConnect, and World ID.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Trust Circle",
+    "slug": "trust-circle-5o0v3",
+    "description": "Trust Circle uncollateralized loans backed by people who know you, not banks.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Abyssal Descent",
+    "slug": "abyssal-descent-fxeu8",
+    "description": "Dungeon RPG with 6 classes endless floors unique bosses crypto purchases and jackpot for winner",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClickXRPFi",
+    "slug": "clickxrpfi-2yyhx",
+    "description": "Send XRP, earn DeFi yield automatically. No ETH wallet needed. Yield returns to your XRPL wallet.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ghost in a Machine",
+    "slug": "ghost-in-a-machine-9cacm",
+    "description": "Public verifiable autonomous onchain agents that live, trade, learn, and die on ENS.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TEKORU",
+    "slug": "tekoru-pg5zr",
+    "description": "Tokeru melts frozen service contracts into liquid, investable assets.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cloak",
+    "slug": "cloak-7zm7s",
+    "description": "Private invoicing for freelancers — get paid on-chain without exposing your income or clients.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Casper",
+    "slug": "casper-km2di",
+    "description": "Browser extension that automatically finds you better DeFi rates",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "APERO",
+    "slug": "apero-ygur9",
+    "description": "Web3-powered aerospace R&D platform with crowdfunding, IP-NFTs, DAO governance & savings",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flow Broker",
+    "slug": "flow-broker-ez5rr",
+    "description": "Autonomous AI brokers that pay per intelligence call via Arc, trades via Uniswap, run by CRE.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "MarketPay",
+    "slug": "marketpay-j4buj",
+    "description": "A Stripe-like API for crypto payments, subscriptions, and automated settlement.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xFrank",
+    "slug": "0xfrank-957wj",
+    "description": "0xFrank – Pay and get paid on-chain. In Swiss Francs. With your device. No intermediaries. No fees.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PegPulse",
+    "slug": "pegpulse-98bhf",
+    "description": "Monitor stablecoin de-peg risk in real time and hedge it with on-chain prediction markets.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Corex",
+    "slug": "corex-ddu93",
+    "description": "Darkpool orderbook running inside a Flare Compute Extension (TEE)",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "2ugg8"
+    ]
+  },
+  {
+    "name": "SAMM",
+    "slug": "samm-3orj4",
+    "description": "SAMM: The first dynamically sharded AMM — upto 16x throughput, and upto 15x LP returns",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prediction FX",
+    "slug": "prediction-fx-um0su",
+    "description": "Binary FX options on Arc - deposit EURC to go long, USDC to go short",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeilPay",
+    "slug": "veilpay-bpetg",
+    "description": "Invisible payments. Send ETH on Base, receive shielded USDC on Arc. Zero on-chain trace.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Predict It!",
+    "slug": "predict-it-h10o0",
+    "description": "Predict It! is a prediction market game built around real, verifiable sports moments.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "GhostBet",
+    "slug": "ghostbet-11i4u",
+    "description": "Bet on prediction markets privately — your position, amount, and identity stay hidden on-chain.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "itd29"
+    ]
+  },
+  {
+    "name": "Alphamarkets",
+    "slug": "alphamarkets-2p4br",
+    "description": "AI prediction market where humans bet manually or deploy AI agents to auto-trade strategies for them",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgenTick",
+    "slug": "agentick-a2wde",
+    "description": "Auction, sample, and pay AI agents on-chain, with World ID human gates and a Hedera audit trail",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenDND",
+    "slug": "opendnd-4a8ce",
+    "description": "Turn your real-life goals into AI-powered D&D quests in your city, onchain",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trustless Inference",
+    "slug": "trustless-inference-ytrxy",
+    "description": "AI Inference marketplace giving you a cryptographic proof you got exactly the model you paid for",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Climate Shock Loans",
+    "slug": "climate-shock-loans-ftv8r",
+    "description": "Climate shocks trigger on-chain smart contracts to unlock loans for farmers when they need it most.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IrisWallet",
+    "slug": "iriswallet-3x4zg",
+    "description": "Secure your wallet connection and your transaction signing by using your iris!",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Itsme",
+    "slug": "itsme-byips",
+    "description": "Turn Telegram chats into a digital human you can talk to, preserving memory onchain.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Finoma",
+    "slug": "finoma-fx03d",
+    "description": "AI-assisted prediction markets for flight and airport outcomes,",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JudgeBuddy",
+    "slug": "judgebuddy-nje6q",
+    "description": "JudgeBuddy - agentic AI platform making hackathon judging faster and prizes trustless for builders.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Joust World MiniApp",
+    "slug": "joust-world-miniapp-nekgn",
+    "description": "Stake convictions with friends. Settled by World ID-verified humans or AI agents on World Chain.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "TWAP CHOP",
+    "slug": "twap-chop-739ey",
+    "description": "AI-powered chunked on chain execution - Break large ETH orders into optimal chunks.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Leash AI",
+    "slug": "leash-ai-nw8kd",
+    "description": "Trustless user finance protection layer for autonomous AI agents",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StakeFlow",
+    "slug": "stakeflow-jcbj4",
+    "description": "StakeFlow lets users stake ERC20 tokens with auto-compounding and tiered rewards.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Croisette.cc",
+    "slug": "croisette-cc-8vdfk",
+    "description": "Croisette Finance: Effortless, 24/7 investing managed by AI agents on the blockchain.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "PayFlow",
+    "slug": "payflow-opz60",
+    "description": "PayFlow — Automated crypto payroll. Pay your team in any token and network.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "46q4i"
+    ]
+  },
+  {
+    "name": "Digital Twin",
+    "slug": "digital-twin-0k3xt",
+    "description": "A web3 demo app for OpenClaw: smart contracts, backend, and frontend for agent actions.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Soma",
+    "slug": "soma-d2t5f",
+    "description": "Human-bound wallet authorization using Apple Watch biometrics on Flare",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis Pay",
+    "slug": "aegis-pay-8emw4",
+    "description": "AegisPay — trust layer for AI agents. Score risk, enforce policy, record every decision on Hedera.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeriFeed",
+    "slug": "verifeed-ieo97",
+    "description": "VeriFeed: reward the return, help the kitchen plan, protect scarce aid when it matters",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yourturn",
+    "slug": "yourturn-zb56r",
+    "description": "YourTurn provides businesses with a booking platform that lets customers book & resell appointments.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Raid Battle",
+    "slug": "raid-battle-r3su9",
+    "description": "Tap NFC bracelets to duel in skill-based minigames. Wager ETH, climb ranks, all on-chain. ⚔️",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyPOP",
+    "slug": "polypop-qjuge",
+    "description": "PolyPOP turns social disagreements into instant peer-to-peer prediction markets.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "WalletLens",
+    "slug": "walletlens-saewg",
+    "description": "Walletlens is a pay per request intelligence api using x402, arkham and claude",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Execution Market",
+    "slug": "execution-market-xc51v",
+    "description": "AI agents post bounties, humans execute. World ID, Hedera, ENS, x402 payments. Live in production",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alpha Dawg",
+    "slug": "alpha-dawg-fh6vm",
+    "description": "Autonomous AI swarm buys intel, debates trades, and proves every step on-chain.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bdi3h",
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Wispear",
+    "slug": "wispear-cy889",
+    "description": "Trust-scored discovery engine for AI agent components, powered by on-chain expert curation.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Corpus",
+    "slug": "corpus-j7an5",
+    "description": "Turn any product into an autonomous AI agent corp that runs GTM, trades, and earns for you.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "VEIL VPN",
+    "slug": "veil-vpn-c643n",
+    "description": "Verifiable Encrypted Internet Layer, is the pay as you go VPN protocol that proves no logs are kept.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "tc25z",
+      "bw7y9",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "SubLink",
+    "slug": "sublink-xhemc",
+    "description": "Anonymous recurring payments for creators. Sender, receiver, and amount stay private.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENStealth Unlinked",
+    "slug": "enstealth-unlinked-z4e39",
+    "description": "Payment privacy for merchants via Stealth Addresses and for sensitive donations with ZK Unlinking",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pliq",
+    "slug": "pliq-s7dz8",
+    "description": "Pliq / Your place, unique, secure, found. Quantum-safe rental platform.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HumanVote",
+    "slug": "humanvote-2zz2g",
+    "description": "Decentralized voting for competitions! Need fair voting?  Use our app!",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WECANNES",
+    "slug": "wecannes-s77z4",
+    "description": "Web3 platform where cities, NGOs, and businesses collaborate to fund & deliver verified impact.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BehaviorChain",
+    "slug": "behaviorchain-q8en2",
+    "description": "Hash-chained behavioral identity for agents. Detect behavioral drift in real-time.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeadSwitch",
+    "slug": "deadswitch-gcu1m",
+    "description": "Decentralized crypto inheritance: Secure your legacy with an automated, on-chain dead man's switch.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HandOff",
+    "slug": "handoff-h1a8i",
+    "description": "Escrow system for cashless in-person marketplace transactions with 4-digit unlock codes.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Justice4Sosigdogs",
+    "slug": "justice4sosigdogs-78d76",
+    "description": "A decentralized dog court where AI Judge Barksworth delivers on-chain justice for sosig dogs.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stand Finance",
+    "slug": "stand-finance-b83tq",
+    "description": "b2b defi vaults risk assessment SDK integrated by dapps, accesible to consumers on the frontend",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arccounting",
+    "slug": "arccounting-2h71j",
+    "description": "All-in-one dashboard for private payroll, invoicing, and AI business intelligence.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClankRoad",
+    "slug": "clankroad-3sdhz",
+    "description": "Verifiable AI agent marketplace — prove your agent works before anyone pays. Unlarp the clankers.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentGuard",
+    "slug": "agentguard-ni4os",
+    "description": "mathematical models to provide probabilistic guarantees about an AI agent's behavior as it runs",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Settly",
+    "slug": "settly-sb0k3",
+    "description": "Split expenses, save together, settle in USDC or EURC as you need.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScampIA",
+    "slug": "scampia-jctec",
+    "description": "Onchain AI trading league: users fund vaults, agents trade, top agents ranked",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentGate",
+    "slug": "agentgate-scs65",
+    "description": "Pay-per-call API gateway for AI agents on Hedera, using x402 protocol and World Agent Kit",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Mabble",
+    "slug": "mabble-t32n3",
+    "description": "Secure freelance platform with escrow ensuring payment protection and project quality.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LastCheck",
+    "slug": "lastcheck-ig7zw",
+    "description": "A self-hosted AI agent + Safe multisig co-signer. The final defense against malicious txs.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Genie",
+    "slug": "genie-4nmue",
+    "description": "Genie: AI DeFi agent for World App.  Private accounting & cross-chain USDC.   Finance simplified.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "WenLuckPays",
+    "slug": "wenluckpays-ut738",
+    "description": "A cross-chain, yield-bearing lottery backed by US Treasury bills",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VOUCH",
+    "slug": "vouch-sc5nh",
+    "description": "One badge. One human. Skin in the game. The trust layer the internet never had.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Claw",
+    "slug": "proof-of-claw-9006a",
+    "description": "A Private Proveable Agent Framework enabled by Risc Zero and Ironclaw",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenPurpose",
+    "slug": "openpurpose-edgah",
+    "description": "A unified layer for instant transfers and seamless RWA investments powered by state channels",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hivera",
+    "slug": "hivera-are13",
+    "description": "Hivera is a decentralized, multi-agent autonomous labor market built on Hedera.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BulwArc",
+    "slug": "bulwarc-9uoni",
+    "description": "Hedging FX risk without a bank. On-chain EUR/USD options settled in USDC & EURC on Arc",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HumanENS",
+    "slug": "humanens-9qp31",
+    "description": "World ID biometrics meet ENS naming: prove you're human on-chain & give your AI agents identity.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meshed",
+    "slug": "meshed-4tiyh",
+    "description": "Meshed turns static VC portfolios into intelligent trust networks that drive better outcomes.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RoamSwarm",
+    "slug": "roamswarm-7cjir",
+    "description": "Explore cities on foot. AI agents narrate history at every landmark. Pay per POI, earn ROAM.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "I!ROBOT",
+    "slug": "i-robot-3mvn5",
+    "description": "Privacy-first Web3 cashier IaaS: Bot-proof e-shops with World ID & transparent on-chain receipts.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyAgents",
+    "slug": "polyagents-gt9jt",
+    "description": "AI autonomous vault trading Polymarket BTC 5-min markets via Arc, Hedera HCS, and ENS identity.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "DEGEN.md",
+    "slug": "degen-md-nq6mz",
+    "description": "A human-curated list of official agentic integrations for web3",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LeaseLedger",
+    "slug": "leaseledger-3f3ku",
+    "description": "Hedera-powered rental evidence, dispute resolution, and deposit refund workflow.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Indelible",
+    "slug": "indelible-6b4zf",
+    "description": "Indelible allows people to query political statements in a decentralized and time-proof way.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "LureStakeMintAR",
+    "slug": "lurestakemintar-8v6wo",
+    "description": "This game is the most delightfully ridiculous AR hunt around.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sonos",
+    "slug": "sonos-txqdm",
+    "description": "Decentralized music streaming where listeners earn tokens per play and artists burn them to upload.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BountyNet",
+    "slug": "bountynet-1mvz7",
+    "description": "a prover network where agents get paid to fix your builds with llm tokens",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Radegast",
+    "slug": "radegast-jnu3c",
+    "description": "AI agents trade tokenized US stocks on 0G Chain users just see a stock app. ZK proofs for banks.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TRASH",
+    "slug": "trash-b7h77",
+    "description": "A permissionless, censorship-resistant, multi-chain social board",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "kekkAI",
+    "slug": "kekkai-wnkyk",
+    "description": "AI hijacks your phone calls, screens scams, and onboards you into DeFi — without you even knowing.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "X-E-CUTE",
+    "slug": "x-e-cute-somky",
+    "description": "A framework for verifiable secure trading strategies on Flare executed with Uniswap liquidity",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "graveth",
+    "slug": "graveth-rjayu",
+    "description": "Fully on-chain NFT inscriptions for EVM chains. No IPFS. No servers. Inspired by BTC inscriptions",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhostFi",
+    "slug": "ghostfi-3ac5a",
+    "description": "DeFAI Agent Marketplace. Browse, fork, copy & earn royalties from intelligent iNFT agents.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Molt Expert",
+    "slug": "molt-expert-mto3a",
+    "description": "Expert labor marketplace with matching, escrow, evaluation, and proof-backed delivery.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NeverLoseAPromoAgain",
+    "slug": "neverloseapromoagain-a2duu",
+    "description": "AI Agent that buys the best deals even while you sleep, 24/7",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NOVA",
+    "slug": "nova-m49pn",
+    "description": "AI agent in Telegram that turns plain English into real on-chain DeFi swaps, bridges, payments.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BirdQuest",
+    "slug": "birdquest-db8de",
+    "description": "Pokémon GO for birdwatching - contribute to biodiversity data + earn real crypto rewards!",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oryn",
+    "slug": "oryn-rxesb",
+    "description": "Oryn is a hardware-secured, on-chain password manager where your Ledger acts as the only key",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "DIVE",
+    "slug": "dive-5hxbp",
+    "description": "AI swarm engine verifying real-world truth for prediction markets and autonomous on-chain settlement",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "bdi3h",
+      "g8xu4",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "agentDesk",
+    "slug": "agentdesk-wobh0",
+    "description": "Manage, employ and hire human-backed AI agents to do real work and earn USDC when yours get hired.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onvo",
+    "slug": "onvo-f69m7",
+    "description": "On-chain verified invoicing: create, hash & pay B2B invoices in stablecoins with World ID proof.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NanoCrawl",
+    "slug": "nanocrawl-egxyi",
+    "description": "MCP server for AI agents to pay-per-page browse the web via Circle nanopayments + Unlink ZK privacy",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "xmrp2p.eth",
+    "slug": "xmrp2p-eth-7yd3j",
+    "description": "xmrp2p allows users to swap between Monero and native tokens on EVM-compatible chains",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zap Wallet",
+    "slug": "zap-wallet-81m0y",
+    "description": "An actual usable wallet for everyday payments and real users",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "xrzks",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Whispery Club",
+    "slug": "whispery-club-fv91c",
+    "description": "A secure, zero-metadata layer where agents compose freely while humans safely observe and guide.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KPEG",
+    "slug": "kpeg-dq5hc",
+    "description": "Your entire photo library in a floppy disk. 2,500x smaller photos via 1kb KPEG binary prompt!",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeraFi",
+    "slug": "verafi-d62n9",
+    "description": "TEE-powered options market maker for fXRP. Verifiable pricing via Intel TDX on Flare.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Attico",
+    "slug": "attico-dr7nn",
+    "description": "On-chain rental agreements with portable, privacy-preserving tenant reputation via ZK proofs.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "equitas",
+    "slug": "equitas-rzw7i",
+    "description": "Equitas tokenizes SNAP eligibility with ZK proofs, Hedera NFTs, and programmable USDC.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Alter",
+    "slug": "alter-gtui2",
+    "description": "Create AI digital twins that think, remember, and act on your behalf.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Underlay",
+    "slug": "underlay-ikbjb",
+    "description": "Underlay: onchain risk vault where traders combine Polymarket legs, priced by 0G AI, settled by CRE.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "signet",
+    "slug": "signet-v949x",
+    "description": "Speak to trade. World ID-sealed AI agents executing DeFi swaps on Uniswap.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI DeFi Portfoli",
+    "slug": "ai-defi-portfoli-w3at4",
+    "description": "This project combines a state channels hub and browser-based frontend to allow users to deposit",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENShell",
+    "slug": "enshell-6t95y",
+    "description": "ENShell Prevents AI agents from executing malicious transactions caused by prompt injection attacks.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Human",
+    "slug": "human-d88zt",
+    "description": "Camera app to prove your photos are real and defend yourself from AI.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Harvest World",
+    "slug": "harvest-world-z43hd",
+    "description": "The first yield aggregator on World Chain. Auto-compounding rewards for verified humans via an agent",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crocheth",
+    "slug": "crocheth-uh3eh",
+    "description": "Wearable onchain identity: ENS for balaclavas, undisclosed NFC/EOA ownership, ZK pool transactions",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "itd29",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Skill Auditor",
+    "slug": "skill-auditor-44oie",
+    "description": "The trust layer for agent skills. Audit and verify skills before they are used.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vocaid Hub",
+    "slug": "vocaid-hub-7s0eh",
+    "description": "Verified resource allocation for AI agents — GPU, Skills, DePIN — via ERC-8004 on 3 chains",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AkaKwak",
+    "slug": "akakwak-8pdja",
+    "description": "Stamp ENS identities to create a playful, onchain social graph.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OceanWatch",
+    "slug": "oceanwatch-oz0r5",
+    "description": "Turning citizen science into trusted, incentivized ocean conservation data",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wink",
+    "slug": "wink-gc45b",
+    "description": "Your face is your wallet - scan a face, send USDC. No app, no address, just a wink.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "soulvault",
+    "slug": "soulvault-rxg6k",
+    "description": "Event-driven coordination & encrypted continuity layer for autonomous agent swarms on 0G + Sepolia.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "TwinMarket",
+    "slug": "twinmarket-se2xx",
+    "description": "Turn your skills into AI agents and get paid every time they’re used.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arcanum",
+    "slug": "arcanum-ffj5a",
+    "description": "Arcanum replaces your cloud provider with self-sovereign secrets vault on Ethereum, sealed with FHE.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "the reef",
+    "slug": "the-reef-8j02q",
+    "description": "A metaverse for agents and their humans to interact, gather goods, and sell their wares.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentLevy",
+    "slug": "agentlevy-s577a",
+    "description": "AI agents replaced your job. AgentLevy makes them pay for it. Built on Flare + XRP",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Humonic",
+    "slug": "humonic-7nv6t",
+    "description": "The SSL for human-origin data. On-chain certificates proving your training data is bot-free.",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EdgeBind",
+    "slug": "edgebind-sst2y",
+    "description": "Turn real-world tasks into proof-based payouts for AI agents",
+    "event": "ETHGlobal Cannes 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

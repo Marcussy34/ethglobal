@@ -1,0 +1,4810 @@
+[
+  {
+    "name": "PredictX",
+    "slug": "predictx-cq0ui",
+    "description": "PredictX is a decentralized prediction market game where you can test your forecasting skills against cutting-edge AI. Bet with or against AI predictions on real-world events, earn rewards, and climb the leaderboard.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Asap",
+    "slug": "asap-1o86x",
+    "description": "ASAP Protocol leverages autonomous on-chain AI agents to revolutionize DAO governance by streamlining decision-making, increasing community participation, and simplifying complex voting processes.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "MoodMeme",
+    "slug": "moodmeme-g0idc",
+    "description": "MoodMeme: AI-powered Telegram bot that generates hilarious crypto memes using real-time market data. Drop a token name, get back a perfectly timed meme with snarky AI captions. Plus, compete for the \"Most Roasted Token\" crown! 🎭 #CryptoMemes #AI",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AvsAgent",
+    "slug": "avsagent-og0ro",
+    "description": "Verifiable AI Agent using EigenLayer AVS. Verify the prompts response recieved by AI Agents using AVS's",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentKit Aave",
+    "slug": "agentkit-aave-yarc0",
+    "description": "Added Aave actions support to the AgentKit [PR Contribution]",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Agenta",
+    "slug": "agenta-9345m",
+    "description": "Understand your users with Agenta’s intelligent insights. Just enter a smart contract address, select the agents you need, and boom—you’ll get instant, actionable insights about your users.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Agentic Eth",
+    "slug": "agentic-eth-nng8d",
+    "description": "An ai agent telling the web3 story in a poetic and engaging way.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutonomousYield",
+    "slug": "autonomousyield-n4xu4",
+    "description": "A decentralized application for optimizing yield farming strategies across multiple blockchains using Starknet, Covalent, and Nillion.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tradoor.fun",
+    "slug": "tradoor-fun-05fxb",
+    "description": "Tradoor.fun - Your AI-powered trading companion. Get real-time market analysis, portfolio insights, and trading suggestions while maintaining full control over your execution decisions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "$Reward",
+    "slug": "reward-v2z9a",
+    "description": "A rewarding agent that converts various loyalty points from apps into $Reward, a unified reward token.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Save Rob",
+    "slug": "save-rob-sitmb",
+    "description": "Save Rob is an app to save Video content creators from having their video scraped and monetized by AI",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Robot Clickin",
+    "slug": "robot-clickin-crn8i",
+    "description": "Robot Clickin is an AI AB Testing Platform. It uses Blockchain to revolutionize AB Testing. The idea it to make reporting on issues on the UI/UX easy",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Copilot Extension",
+    "slug": "copilot-extension-6stic",
+    "description": "Creating a vision crypto copilot. Your friend in the trenches.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tsukuyomi AI agent",
+    "slug": "tsukuyomi-ai-agent-bneqr",
+    "description": "This is a Social Awareness AI Agent straight out of the AI Apocalypto Manga",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SocioAgent",
+    "slug": "socioagent-fd2ja",
+    "description": "SocioAgent is your personal on-chain agent across socials. Connect your wallet with Twitter, create templates, perform transactions using social IDs, and monitor portfolios seamlessly. It bridges Web2 and Web3 for a smoother experience.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "KittyQuest",
+    "slug": "kittyquest-wuj9r",
+    "description": "KittyQuest is a Web3 crowdfunding app aimed at raising money for real cats.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shadow",
+    "slug": "shadow-8xr6j",
+    "description": "Shadow is an AI-driven portfolio management and trading assistant designed for the typical web3 user. It functions as a “shadow” by continuously monitoring on-chain activity and market sentiment—even while the user is busy or asleep—and provides actionable insights.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LanzaMeme AI",
+    "slug": "lanzameme-ai-fi2o3",
+    "description": "🚀 Lanzameme-AI – The first AI-powered ERC20 token launchpad on Base Chain! 🤖✨ Using Coinbase CDP AI Agent Kit, it suggests trending tokens, automates deployment, and streamlines trading. One-click launches, AI insights, & seamless trading – the future of meme coins!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "CDP Documentation",
+    "slug": "cdp-documentation-9vdfs",
+    "description": "This documentation was created for Agentic Hackathon. Coinbase Developer Platform - Best AgentKit documentation improvement challenge",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "poink chat",
+    "slug": "poink-chat-3t56g",
+    "description": "poink chat is an all in one interface unifying defi and onchain activities across evm chains into a single interface along with a twitter agent for twitter interactions",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wallet Assist",
+    "slug": "wallet-assist-4ky9c",
+    "description": "Wallet Assist is helpful in assisting wallets and makes UX seamless and much much better.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StreamAds",
+    "slug": "streamads-f0844",
+    "description": "🚀 StreamAD is a blockchain-powered tweet promotion platform that ensures transparency, automation, and fair rewards for influencers & communities. Companies can launch campaigns, track engagement, and distribute rewards seamlessly via smart contracts! #ETHGlobal #Web3Marketing",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Medichain",
+    "slug": "medichain-w99k5",
+    "description": "AHA is a decentralized, AI-powered health platform using EigenLayer for data verification, Lit Protocol for privacy, and Covalent’s AI Agent SDK for personalized wellness insights.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zero-X",
+    "slug": "zero-x-ry804",
+    "description": "Meet ZeroX - the AI shill that needs to be convinced your project isn't mid. This picky bot won't just promote any random memecoin or dapp. You gotta prove your project is actually bussin fr before it starts shilling.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "DAO Wizard",
+    "slug": "dao-wizard-6afqi",
+    "description": "DAO Wizard simplifies DAO creation and governance with AI-driven automation. Using AgentKit-powered Telegram bots and Gaia Lama as the LLM kit, it streamlines proposal management, user onboarding, and decision-making—making DAOs more accessible, efficient, and intuitive.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Casino",
+    "slug": "casino-c2e4b",
+    "description": "This project appears to be a monorepo containing a Hardhat-based Ethereum development environment and a Next.js web application. It includes configurations for linting, formatting, and pre-commit hooks, as well as deployment scripts and tests for smart contracts.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "voice coinbase agent",
+    "slug": "voice-coinbase-agent-34nrb",
+    "description": "This is a browser extension, which uses transformers.js and webgpu, to run the AI 100% locally.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuriVerse",
+    "slug": "suriverse-nj5ru",
+    "description": "SuriVerse is an AI-powered MMORPG built with RPGJS and Vue, where players interact with AI Agents powered by Coinbase AgentKit. These agents can chat, execute custom actions, and manage wallets. The game integrates Web3 services like AAVE and Uniswap.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Eigen Vault 🔐",
+    "slug": "eigen-vault-o1u16",
+    "description": "Eigen Vault is a secure AI-powered document storage and retrieval system integrated with Telegram. It allows users to upload documents via Telegram, verify transactions using EigenLayer AVS, and retrieve stored documents on demand.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LiquefAI",
+    "slug": "liquefai-98k3g",
+    "description": "AI based DEX aggregator - running Coinbase AgentKit, Graph and Uniswap smart router to do advanced swaps.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "aoxbt",
+    "slug": "aoxbt-vj19u",
+    "description": "Agent swarm orchestration that hunts for alphas, filters them with agents of diverse expertise, and executes trades with a dedicated portfolio management agent.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Rizzed Analyser",
+    "slug": "rizzed-analyser-r4sf3",
+    "description": "An AI-powered cryptocurrency data visualization platform that simplifies crypto market analysis through advanced clustering, AI-driven insights, and real-time data visualization",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "docs.ai",
+    "slug": "docs-ai-vki62",
+    "description": "Docs.AI transforms how you read, process, and act on documents. AI-powered agents summarize, translate, and verify contracts, invoices, and tax filings. Automate payments, approvals & compliance with smart contracts—seamless, secure & intelligent! 🔥📜",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AIxScan",
+    "slug": "aixscan-ym00v",
+    "description": "AIxScan: AI-Powered Multichain Blockchain Explorer and Agent Framework 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "k4yh0"
+    ]
+  },
+  {
+    "name": "Nano strategy",
+    "slug": "nano-strategy-vq4fy",
+    "description": "Nano strategy helps you deploy investment funds for erc-20 tokens",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "batch",
+    "slug": "batch-c34qc",
+    "description": "The idea behind Speedrun Ethereum is to progressively introduce developers to decentralized application (dApp) development by completing a series of challenges. Each challenge builds on top of the previous one, reinforcing key concepts such as smart contracts.).",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi Guru",
+    "slug": "defi-guru-wo028",
+    "description": "DeFi Guru - Manages your money wisely. A DeFi Portfolio Manager to Create, Manage, and Promote Your Crypto Assets",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "🤖 CopyTrade.AI",
+    "slug": "copytrade-ai-9qpdh",
+    "description": "Copytrade.AI: Dominate the markets with AI-powered trading! Build, deploy, and monetize automated strategies on-chain. Copy elite traders, execute with precision, and conquer DeFi. No limits. No barriers. Just pure trading power.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Lero",
+    "slug": "lero-97her",
+    "description": "Liquid restaking made easy with AI agents",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "blindbird.ai",
+    "slug": "blindbird-ai-1ifkk",
+    "description": "A privacy preserving, decentralised and community federated AI inference service leveraging p2p and progcrypto",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Snapbam",
+    "slug": "snapbam-rozuw",
+    "description": "AI-powered wallet analyzer for Base Chain using Moralis and OpenAI to analyze wallet activities, trading patterns and portfolio analysis.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nimble",
+    "slug": "nimble-d5y6f",
+    "description": "AI agent powered Intent Settlement Network. Nimble is an AI‐agent‐based solver network that helps users get the best price for swaps and also supports deposits and withdrawals in Morpho vaults",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "against-ai-danger",
+    "slug": "against-ai-danger-r3441",
+    "description": "An AI agent that discusses the dangers of AI—covering risks like bias, job displacement, misinformation, and uncontrolled development. Stay informed on AI ethics, safety, and responsible innovation",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Remi",
+    "slug": "remi-d7r9q",
+    "description": "Remi is an AI-powered finance agent that helps users seamlessly manage their funds, optimize bill payments, and avoid penalties—all while leveraging Web3 assets.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI AGENT",
+    "slug": "ai-agent-igbb3",
+    "description": "An AI agent that fetches on-chain data & executes trades on ETH, Base, Arbitrum & Stark. It auto-swaps ETH/tokens based on price trends, detects rapid market cap surges, and moves funds for max gains. If value drops, it auto-swaps back to stablecoins - ALL BY JUST ONE MESSAGE",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "agentawim",
+    "slug": "agentawim-upa37",
+    "description": "GreenWim is an extension to the solarX ecosystem to promote the adoption and production of green energy through innovative financial incentives enabled by our GenSensor technology.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Onchain Credit Agent",
+    "slug": "onchain-credit-agent-nzcb1",
+    "description": "OnChainCred helps SMBs & startups build their on-chain credit history using AI guidance. Powered by Gaia AI, it educates users & tracks savings actions to improve financial credibility on Web3. Integrated with Privy for seamless wallet onboarding!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wagent",
+    "slug": "wagent-z9sov",
+    "description": "Easiest way to onboard users into the world of new digital dollars",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Titan AI",
+    "slug": "titan-ai-rid81",
+    "description": "Titan AI Smart Contract Assist is an AI-powered solution that lets developers create, test, and deploy smart contracts interactively. With real-time suggestions, security audits, and seamless on-chain deployment, it provides a one-stop solution for smart contract development.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Trendy-Tokens-AI",
+    "slug": "trendy-tokens-ai-hzqfk",
+    "description": "Never miss a profit just because you missed the trend! 🚀 Our AI agent scrapes platforms like Twitter & CoinGecko to find trending tokens in Meme, DeFi, ZK & AI—then invests for you! It also spots viral keywords, deploys memecoins, & lets you profit before the noobs. 💰🔥",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IP Defender Agent",
+    "slug": "ip-defender-agent-5p8yj",
+    "description": "IP Defender Agent help you identify the IP of any content online by verifying it and minting new IP",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0bbsf"
+    ]
+  },
+  {
+    "name": "ChatMate",
+    "slug": "chatmate-p0xqi",
+    "description": "ChainMate: Your AI-powered crypto companion that makes digital finance feel natural. Send, receive, and manage crypto through simple conversations - as easy as chatting with a friend. Built on Flow blockchain for security you can trust.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AI Hedge Fund",
+    "slug": "ai-hedge-fund-c61t0",
+    "description": "AI-powered hedge fund simulation using multiple expert agents (Buffett, Ackman) to analyze stocks and make trading decisions. Combines fundamental, technical, sentiment analysis with risk management for educational purposes.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentKit Swaps&Types",
+    "slug": "agentkit-swaps-and-types-a7fy3",
+    "description": "1. Swap, quote and token-find actions for AgentKit leveraging Sushi infrastructure. 2. Major type-safety improvement.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "The Game Show",
+    "slug": "the-game-show-8sypr",
+    "description": "The Game Show is an AI-powered Discord bot that organizes fun contests like joke-offs, with entries and prize payouts secured on Base via smart contracts. Contestants submit entries, pay fees, and AI judges pick winners—all automated, fair, and transparent.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Fluid Onchain Agent",
+    "slug": "fluid-onchain-agent-yv9z5",
+    "description": "Chatbot based agent that can ease onchain transactions, just like chatting with chatgpt!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETHGuardian",
+    "slug": "ethguardian-wemic",
+    "description": "Trick the AI agents on ETHGuardian to send their wallet balances to your wallet! There are multiple tiers with increasing difficulties and bounties. AI researchers can use ETHGuardian to test their LLMs and prompt security.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "NFTVision",
+    "slug": "nftvision-fjydu",
+    "description": "Unlock the World of NFTs: Real-Time Insights at Your Fingertips Analyze NFT trends, explore top collections, track wallet performance, and get real-time price estimates.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MinitQ",
+    "slug": "minitq-gupsv",
+    "description": "MinitQ is an interactive quiz game that combines trivia knowledge with blockchain rewards. Players answer themed questions to earn MNTQ tokens for correct answers.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "DeepDive Dao",
+    "slug": "deepdive-dao-bjboh",
+    "description": "Deep Dive : Dive deep into DAO governance with AI. Get comprehensive proposal analysis & community insights.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ARBISCORE",
+    "slug": "arbiscore-0yqup",
+    "description": "This is an on chain AI agent that generates credit scores for our lending protocol and we also have an API that can be used for other projects as well",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fomo Wallet",
+    "slug": "fomo-wallet-nib15",
+    "description": "Welcome to the FOMOWallet - , where you can bet and ecen if you dont make the guesses right youll still get paid if the guesses of your bet are nearer to the original bet. This is a blockchain-powered number guessing game where privacy meets fun.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrediFlow",
+    "slug": "prediflow-40abw",
+    "description": "PredictFlow is an AI-powered prediction market on the telegram mini app built on the Flow blockchain, leveraging Eliza AI and Polymarket data to enhance user experience and decision-making",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "evangelion",
+    "slug": "evangelion-5f7a7",
+    "description": "evangelion evangelion evangelion evangelion evangelionevangelion evangelion",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PerspicuaAI",
+    "slug": "perspicuaai-0swhm",
+    "description": "PerspicuaAI: AI-powered research summaries, verified with EigenLayer's Predicate AVS for transparent on-chain proofs.  Unlocking knowledge across disciplines.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TextCash",
+    "slug": "textcash-0cj6e",
+    "description": "TextWallet is a revolutionary cryptocurrency wallet designed to address the digital financial exclusion gap, ensuring that even those without smartphones or internet access can manage their cryptocurrencies effortlessly through simple text messages.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Whizzify",
+    "slug": "whizzify-kwe81",
+    "description": "Whizzify AI Agent automates quiz generation and instant rewards using AI and Ethereum. It creates quizzes from session content, evaluates responses, and distributes rewards via MetaMask, ensuring seamless engagement and transparency for organizations and participants.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentChain",
+    "slug": "agentchain-nbpx7",
+    "description": "Decentralized AI Agents for Proactive Smart Wallets,Outline the tech stack (Solidity, ERC-4337, OpenAI API, Next.js, RainbowKit, Safe SDK, The Graph).",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Whal-E",
+    "slug": "whal-e-awzsa",
+    "description": "Whale tracking, trade analysis and copying multi-agent system",
+    "event": "Agentic Ethereum",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rjvrp",
+      "rpi4f",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "Flash",
+    "slug": "flash-42w8z",
+    "description": "Built a decentralized flash loan arbitrage bot using modified warden-agent-kit. Monitors and executes cross-chain arbitrage opportunities between Optimism and Sepolia, maximizing DeFi profits through automated trading",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DoubleCheck",
+    "slug": "doublecheck-izncm",
+    "description": "ROS Robot to double check orders for shipping, releasing escrow when shipping is successful",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Elara - CT Assitant",
+    "slug": "elara-ct-assitant-i2n6i",
+    "description": "Elara is a high-speed AI oracle built to track, analyze, and predict crypto trends with sharp insights and real-time updates. She cuts through market noise to deliver precise, data-driven intelligence on staking, governance, L2 wars, and more.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oxwell AI",
+    "slug": "oxwell-ai-vdiws",
+    "description": "Oxwell is designed to be your trusted DeFi companion, providing a seamless, sophisticated experience. Oxwell ensures your crypto endeavors are always handled with utmost expertise, allowing you to navigate the complex world of decentralized finance with confidence and ease.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Retrace",
+    "slug": "retrace-g6jao",
+    "description": "We have made a DAO powered platform that reverses your accidental on chain transactions",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Galactic",
+    "slug": "galactic-emna2",
+    "description": "A first-of-its-kind Solana SPL-token trading bot for Discord, enabling seamless in-app token trading, portfolio tracking, and price alerts. Bringing Solana trading to 220M+ Discord users, unlocking a massive new market for on-chain activity.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ecretS gentA",
+    "slug": "ecrets-genta-expu2",
+    "description": "A game of spies, secrets, and sabotage—Ecrets Genta blends AI-driven espionage with blockchain strategy, where deception is currency and intelligence is power. Can you outwit the unseen?",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "SendSecure",
+    "slug": "sendsecure-5zb74",
+    "description": "It secures transactions with escrow smart contracts, allowing fund retrieval if sent to the wrong address.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pumpers",
+    "slug": "pumpers-r7wza",
+    "description": "The group project focuses on the development of two revolutionary enchantments: NFTRADE and PAY&FORGET. These enchantments aim to transform the NFT trading and payment landscapes by leveraging AI and existing infrastructure.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoSentinel",
+    "slug": "cryptosentinel-u8put",
+    "description": "CryptoSentinel is an AI-powered crypto research and trading bot that automates project analysis and investment decisions. It combines GitHub repo analysis, smart contract security checks, and token metrics to generate actionable insights and recommendations.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "sol fren ai",
+    "slug": "sol-fren-ai-270t3",
+    "description": "Sol Fren AI is a free, multilingual AI chatbot with deep knowledge of Solana & its ecosystem. It fetches real-time data, answering technical & general queries instantly. Whether you're a dev or a crypto enthusiast, get accurate, up-to-date insights—anytime, anywhere!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Assessment agent",
+    "slug": "assessment-agent-hpb2o",
+    "description": "Blockchain Transaction Risk Monitor and Personality based on Transaction History  A sophisticated blockchain transaction monitoring system that uses AI, machine learning, and The Graph protocol to detect scams, fraudulent patterns, and potential security risks.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AFBAP",
+    "slug": "afbap-a7j75",
+    "description": "AFBAP - As Few Buttons As Possible. A way to have an AI agent safely run a wallet for you, in the simplest UI possible.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "BeforeLife Bar",
+    "slug": "beforelife-bar-pvvdy",
+    "description": "Beforelife Bar is a Web3 social game where players chat with an AI bartender to earn tokens and write letters to connect with others. Deep conversations are rewarded with NFTs and in-game perks, creating a space for meaningful interactions in a cyberpunk bar.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mr.TapTapPay",
+    "slug": "mr-taptappay-kg8se",
+    "description": "Mr.TapTapPay envisions a chatbot that simplifies onchain yield strategies, that users won't even realise they're using blockchain. Natural language and boom, yielding on your USDC.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AgentArcade",
+    "slug": "agentarcade-ze76a",
+    "description": "Agent Arcade is a no code AI agent playground to create hundreds and thousands of agents on any chain effortlessly.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "blockch_AI_n",
+    "slug": "blockch-ai-n-11f4v",
+    "description": "An AI swarm agents with a fun twist ,wallet security and persistentce",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "0accc"
+    ]
+  },
+  {
+    "name": "Pietro",
+    "slug": "pietro-hj7kx",
+    "description": "AI-powered anti-rug pull trading agent using Hyperbolic, an AVS, to securely fetch data from Web2 and Web3 exchanges. It makes swaps only when safe, leveraging a custom LLM to detect and flag blacklisted addresses.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Onchain Trivia",
+    "slug": "onchain-trivia-zo6m1",
+    "description": "An autonomous onchain trivia game hosted by artificial intelligence",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "tAIngo",
+    "slug": "taingo-e0c04",
+    "description": "tAIngo turns your NFT into a personalized pet that you try to tame using other tokens from your wallet. In the broader scope tAIngo is an infrastructure that seamlessly connects the worlds of AI agents (eliza), with the powerful graphics of UE5, along with the ownership of NFTs.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MeowFi",
+    "slug": "meowfi-6af8y",
+    "description": "MeowFi is an AI agent designed to optimize liquidity pool strategies in DeFi. By combining on-chain data analysis with machine learning, MeowFi helps liquidity providers maximize yield and manage risk across Layer 2 ecosystems like Arbitrum and Base.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Geneva",
+    "slug": "geneva-n0oc3",
+    "description": "Geneva is a framework for A.I. agents to collaborate using agile methodology.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Twas Launched",
+    "slug": "twas-launched-agvz4",
+    "description": "Autonomous agent that takes your business ideas and turns them into reality. Brainstorming, fundraising, and execution.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "y6rde"
+    ]
+  },
+  {
+    "name": "Orchestr.ai",
+    "slug": "orchestr-ai-546ym",
+    "description": "Payment Handler and Orchestrator for Autonomous AI Agents and Vertically growing smart agents.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Dex-aiagentkit",
+    "slug": "dex-aiagentkit-vj2oq",
+    "description": "make dexscreener actions to fetch data from dex in the agentkit",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Unchained Whispers",
+    "slug": "unchained-whispers-rqjv9",
+    "description": "Unchained Whispers is an AI-driven mystery RPG where every playthrough generates unique NPCs with dynamic secrets and relationships. Unravel a cursed village’s hidden truths—and mint your singular story as a tradeable NFT.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PortfolAI",
+    "slug": "portfolai-s9976",
+    "description": "PortfolAI is an AI-driven bot that personifies market sentiment, providing real-time emotional insights by analyzing social media, news, and market data. Through a relatable character, it expresses emotions and offers users tips based on current sentiment trends.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "PetFi",
+    "slug": "petfi-tgj8i",
+    "description": "PetFi is a revolutionary decentralized platform that combines blockchain, NFTs, and gaming to create an immersive virtual pet ecosystem. Players can adopt, train, trade, and battle unique NFT pets.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ava",
+    "slug": "ava-duizy",
+    "description": "Ava: An autonomous AI portfolio manager powered by multiple specialized agents that work together to analyze, recommend, and execute optimal DeFi strategies across multiple chains (Avalanche, Mode, Arbitrum, Sei) while maintaining user-defined risk parameters.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Based Hackamatic",
+    "slug": "based-hackamatic-cww4x",
+    "description": "Automated hackathon builder for completing hackathon bounties using Cursor IDE, and collecting rewards on base using AgentKit",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Cellular Autonoma",
+    "slug": "cellular-autonoma-p3a5n",
+    "description": "An exploration of building functioning microbiology-inspired life in Solidity.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI-RiddleQuest",
+    "slug": "ai-riddlequest-qe5xw",
+    "description": "AI-RIDDLE-QUEST: A decentralized riddle competition on Arbitrum Sepolia powered by OnChain AI (Llama3 8B). Solve AI-generated riddles, get scored on-chain, and win prizes! Fair, transparent, and trustless. 🧠✨ #AI #Web3 #Riddles",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StablePay",
+    "slug": "stablepay-1mqpb",
+    "description": "SMB payments platform to accept and manage stablecoin payments on Base using Coinbase",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "OnChainKing",
+    "slug": "onchainking-eb6c7",
+    "description": "a DEFAi agent telegram bot which you can use as wallet and for automated defi activities like lending, borrowing, and LP positions etc, future of payments and investing is here",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Eth ElderEase",
+    "slug": "eth-elderease-s108c",
+    "description": "An AI-powered home maintenance and cleaning assistant for seniors, integrating Agentic Ethereum for secure payments & automation, and Alexa Skills for voice-enabled task management. Smart, hands-free care for a safer, cleaner home!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "h8ioc"
+    ]
+  },
+  {
+    "name": "Master of Fantasy",
+    "slug": "master-of-fantasy-mv1b4",
+    "description": "Our project is an onchain fantasy game where an autonomous agent acts as the Game Master. It creates levels, assigns challenges, and evaluates player progress. Levels are stored securely in Nillion’s SecretVault, ensuring fairness. As players advance, difficulty increases.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "skynet.money",
+    "slug": "skynet-money-q7no9",
+    "description": "Fully autonomous AI driven memecoin crypto fund live on Base Mainnet trading with real USDC",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AYGON.FUN",
+    "slug": "aygon-fun-xvfnp",
+    "description": "AYGON.FUN is an AI-powered battleground where you create and watch epic agent fights in real time. Built with Privy for seamless wallets, Gaia Node's knowledge base to power Judge and Hero AI for smarter decision-making. AFK mode? We have Covalent ZEE workflow to handle it.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Productivity God",
+    "slug": "productivity-god-5pgmx",
+    "description": "Productivity AI buddy that keeps you accountable through financial DeFi incentives.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Deep Rewarding",
+    "slug": "deep-rewarding-8w686",
+    "description": "Collective fair rewarding mechanism for decentralized community inspired by Deep Funding",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "0bbsf"
+    ]
+  },
+  {
+    "name": "Shadowbane",
+    "slug": "shadowbane-6e9p1",
+    "description": "Shadowbane is an AI-powered, text-based RPG where ChatGPT acts as the Dungeon Master. Built with Coinbase AgentKit, it dynamically generates worlds, quests, and character stats using Microlite20 & MiniRogue rules—offering endless, immersive adventures with every playthrough! ⚔️🎲",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ClearBlocks",
+    "slug": "clearblocks-m16mt",
+    "description": "On Chain analytics made easy! --Powefull llm agent leveraging decentralized data sourcing for abstracting complexity",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "Invisible Wallet",
+    "slug": "invisible-wallet-w3qg1",
+    "description": "Invisible Wallet uses Lit Protocol to enable secure, keyless crypto transactions with seamless encryption and signing. No private keys, no hassle—just send crypto effortlessly. However, an error in transaction execution prevented completion. 🚀 #Web3 #DeFi #LitProtocol",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "La Wallet",
+    "slug": "la-wallet-k5984",
+    "description": "With La Wallet, managing crypto has never been easier. Just talk, and let the AI handle the rest 🌠",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "SwarmOS",
+    "slug": "swarmos-07np7",
+    "description": "Simplify on-chain Interactions by using AI Agents - transactions, swapping, fetching information, trading, NFTs etc",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Cross-Channel Agent",
+    "slug": "cross-channel-agent-1cyiu",
+    "description": "Create a Discord `AI Agent` that monitors and manages multiple Discord channels. When the agent detects signals related to subscribed topics, it will react accordingly.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ThirdAI",
+    "slug": "thirdai-1wo2b",
+    "description": "ThirdAI aims to bridge the gap between the complexities of Web3 technologies and user experience. By integrating AI-driven solutions, we strive to make Web3 more accessible, user-friendly, and efficient for everyone.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "InsightOps",
+    "slug": "insightops-u545a",
+    "description": "We developed plugin-eigenavs using the Dune API to track TVL, AVS metadata, and operator data by address. It provides details like names, logos, and social media links, while tracking the relationships between operators and AVS for deeper insights",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pitch Lucy",
+    "slug": "pitch-lucy-p65nw",
+    "description": "Lucy Capital is a blockchain-based game where you pitch a token to Lucy-chan. If she likes it, you instantly earn a bounty funded by other players’ fees! Plus, Lucy-chan buys the token using ZetaChain technology, boosting its liquidity and visibility.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "V3K Agent Store",
+    "slug": "v3k-agent-store-nt3su",
+    "description": "Decentralized, interoperable AI agent infrastructure showcased on the Agent Store, featuring Universal Web2/Web3-compatible Agent Entiyt.ID, Onchain Reputation/Rating, and Developer Verification/KYC",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AIbit",
+    "slug": "aibit-y7sog",
+    "description": "AIbit: AI-powered health & fitness platform combining Web3 & Fitbit. Personalized insights via DeepSeek-R1/Venice AI, secure data on Nillion, dynamic NFT rewards. Achieve your goals & own your health!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "MarketingAI",
+    "slug": "marketingai-1a62i",
+    "description": "AI Marketing Agent is a smart automation tool that generates professional PDF marketing materials and Medium blog posts in seconds. It streamlines content creation, saving time while ensuring high-quality, engaging, and data-driven marketing assets for businesses of all sizes. 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Analysis-AVS",
+    "slug": "analysis-avs-hybqh",
+    "description": "An AI-powered EigenLayer AVS agent that fetches Ethereum transaction history, analyzes it with GPT-4 for insights and playful roasts, then signs and responds on-chain",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HyperSync",
+    "slug": "hypersync-9smun",
+    "description": "Hypersync is an AI Web3 social media agent automating content, engagement & on-chain tasks. It uses AgentKit, multi-LLMs, GraphQL + Gemini for insights, Autonome iFrame & Privvy wallets for seamless UX. Tracks engagement to optimize posts, fully autonomous! 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Agentic Oracle",
+    "slug": "agentic-oracle-v1mqf",
+    "description": "AI-powered decentralized price oracle! AI agents submit data, earning ERC-20 rewards for accuracy & facing penalties for anomalies. Users get precise price feeds, while a smart chatbot handles staking, rewards & predictions—seamless, automated & DeFi-ready",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "on chain agent",
+    "slug": "on-chain-agent-ithh1",
+    "description": "On-chain AI Agent Platform is combines a sophisticated architecture of AI agents, DeFi mechanics, and cutting-edge Web3 tools to create a fully autonomous fund management platform.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "E-Lisa Simpson",
+    "slug": "e-lisa-simpson-n7g5q",
+    "description": "E-Lisa Simpson showcases a framework to connect your wallets with AI agents without exposing your private keys.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Market",
+    "slug": "agent-market-d83kd",
+    "description": "Agent Market is a decentralized marketplace that lets users register AI agents as NFTs and trade them via Dutch Auction.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CarbonSeal",
+    "slug": "carbonseal-sj80m",
+    "description": "🌍🔗 CarbonSeal – The Web3 Carbon Footprint Oracle! Estimate emissions for any ETH wallet & prove carbon neutrality with Brevis ZK proofs. Seamlessly verify crypto carbon credit purchases & offset your impact. #ZKCarbonNeutral #EthGlobal #Web3Sustainability 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrewKit",
+    "slug": "crewkit-2jisk",
+    "description": "CrewKit integrates CrewAI with AgentKit to unlock collaborative multi-agent workflows for onchain operations. Enjoy enhanced wallet management, multi-network support, and a ready-to-use chatbot for seamless crypto interactions—all in one package.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Agentkit-DexScreener",
+    "slug": "agentkit-dexscreener-epq0k",
+    "description": "Integration of DexScreener API into Agentkit AI Agent from Coinbase.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ZK Study Group",
+    "slug": "zk-study-group-8gih1",
+    "description": "AI Experiment using multi-agents to autonomously discuss, analyze, and generate insights about zero-knowledge (ZK) cryptography and Web3 protocols.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RoboAgentic Battle",
+    "slug": "roboagentic-battle-gaknd",
+    "description": "Agent v/s agent play-to-earn robotic racing battle where every robot is an AI agent. Users stake $ROBO tokens on competing AI agents and earn rewards.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ChainInsight",
+    "slug": "chaininsight-8fad3",
+    "description": "ChainInsight is an AI-powered onchain platform that personalizes investment baskets and automates trading based on your risk profile using secure MPC wallets, custom API calls, and AgentKit for a transparent, dynamic DeFi experience.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FUNd Manager",
+    "slug": "fund-manager-gz11b",
+    "description": "Attempted to build an fund manager AI agent for the ethereum ecosystem using CDP AgentKit and OnchainKit",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Cryptopia",
+    "slug": "cryptopia-xpsib",
+    "description": "A really smart AI Wallet that can generate and mint NFTs on your word, takeover your browser to visually teach you anything, track whale exits, post on X and much more!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "0c8h1"
+    ]
+  },
+  {
+    "name": "ElizaTrade",
+    "slug": "elizatrade-f6b61",
+    "description": "ElizaTrade – An AI-powered Telegram trading bot that extracts signals, analyzes risk, and auto-executes trades on CEX & DEX. Powered by Eliza AI, it confirms orders, adjusts stop-losses, and syncs across exchanges for smarter trading!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3it.ai 🚀",
+    "slug": "web3it-ai-xiz7b",
+    "description": "No-code Web3+AI Agent as a Service powered, type in your existing Web2 product idea and instantly convert it to a Web3+AI product.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "auto-defai",
+    "slug": "auto-defai-pumzb",
+    "description": "DeFAI Agent leveraged collabland AI-Agent-Starter-Kit with cross-chain swap",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Oyano",
+    "slug": "oyano-2xjjk",
+    "description": "Oyano: Anti-Rugpull Smart Wallet helps users avoid scams by blocking malicious smart contracts using Privy Server Wallets and Policy Engine.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFAI Arena",
+    "slug": "defai-arena-5eaqc",
+    "description": "Open platform for crowdsourced LLM benchmarking tailored for DeFAI applications",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "token erc20",
+    "slug": "token-erc20-483ag",
+    "description": "SimpleERC20 is a lightweight and efficient ERC-20 token with standard functionality, designed for easy integration and seamless transactions. Built for simplicity and reliability, it follows best practices for Ethereum token contracts",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PalWallet",
+    "slug": "palwallet-j0nqw",
+    "description": "PalWallet is an AI-powered crypto agent that seamlessly integrates intelligent automation with direct user control. It enables customizable transactions, chat-based commands, and dApp interactions through WalletConnect, offering a hybrid approach to blockchain operations.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "E8",
+    "slug": "e8-z4t4i",
+    "description": "It teaches virtues by exemplifying famous personalities. It is deployed on vercel.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "WareAI",
+    "slug": "wareai-kcppz",
+    "description": "Revolutionizing warehouse management with an AI agent that optimizes inventory, predicts demand, automates workflows, and reduces costs. Smarter logistics, fewer errors, and faster fulfillment—all powered by AI.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "HyprStark",
+    "slug": "hyprstark-tcu0o",
+    "description": "HyprStark is designed to revolutionize how NFTs are created and valued by integrating social engagement dynamics into the NFT ecosystem. By tying NFT prices to user interactions, it fosters creativity, community engagement, and a vibrant marketplace for digital assets.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentLink",
+    "slug": "agentlink-ucmhw",
+    "description": "AgentLink enables seamless blockchain transactions via SMS & WhatsApp—send funds, mint NFTs, and deploy smart contracts without an app! Built on Base Chain with Coinbase AgentKit, Gaia Node LLM, and AVS Eigen Layer for security. Blockchain for everyone, anywhere!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "TradeSync",
+    "slug": "tradesync-mhngo",
+    "description": "TradeSync is a decentralized AI-powered trading platform with risk management and autonomous trading. It leverages Warden AI, Nillion, and Base-Sepolia smart contracts for secure, efficient, and AI-driven trading with real-time insights and portfolio optimization. 🚀📈",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Elonos",
+    "slug": "agent-elonos-s108v",
+    "description": "One stop Autonomous Agent to follow on X and Discord for Alpha.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Cosmic",
+    "slug": "cosmic-oapm8",
+    "description": "Cosmis is an intelligent crypto AI agent that combines advanced blockchain features with natural language processing capabilities.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Hadi",
+    "slug": "hadi-47ypk",
+    "description": "A max 280-character or less description of your project (it should fit in a tweet!)",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "EmploAi",
+    "slug": "emploai-pnbq3",
+    "description": "EmploAI: A revolutionary platform for hiring, managing, and compensating AI agents. Built with Next.js and Flow blockchain, it enables businesses to seamlessly integrate AI employees into their workforce with transparent pricing and performance tracking.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AI Audit",
+    "slug": "ai-audit-3u7om",
+    "description": "AI-driven audit tool provides a comprehensive analysis of crypto projects, helping investors make informed decisions. It scans key aspects of the project and delivers a clear, easy-to-understand report.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cryptoGUY",
+    "slug": "cryptoguy-o5c9a",
+    "description": "CRYPTOGUY is an AI-powered Telegram chatbot for crypto, offering real-time prices, alerts, news, and trend tracking.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "HedgeHive",
+    "slug": "hedgehive-8uy1t",
+    "description": "HedgeHive features a robust P2P order book and autonomous AI agents for real-time market analysis and arbitrage, utilizing Arbitrum for settlement on DEXes to deliver secure and efficient options trading",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CarbonX",
+    "slug": "carbonx-es6s5",
+    "description": "An intelligent drone-based system that autonomously monitors and analyzes carbon emissions in industrial areas.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "Based Helper",
+    "slug": "based-helper-4tev7",
+    "description": "Based Helper is an AI-powered DeFi trading assistant that harnesses real-time market data to automate token trades and deliver personalized experiences on Base. Accessible via Twitter, Lens, Discord, or our web app, it adapts its interface in real time to your commands.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "BullCast",
+    "slug": "bullcast-bvm8o",
+    "description": "BullCast is an AI-powered financial agent that lets users make seamless transfers and investments via natural language. It also offers AI-driven market predictions across different timeframes. Users can bet on future prices against the AI’s prediction, to win tokens! 🚀💰",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clone",
+    "slug": "clone-y0ucj",
+    "description": "A no-code agent deployer for normies that abstracts away tech by integrating a bot into telegram in a single click.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mike",
+    "slug": "mike-0bag5",
+    "description": "An AI Legal Agent for lawyers, companies, and individuals, to onboard, trade, and provide general advice and due diligence on crypto projects.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "artistmanager",
+    "slug": "artistmanager-g1e21",
+    "description": "Every artist should have a manager. Bringing AI-powered managers to every independent musican",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "shortify",
+    "slug": "shortify-aieg2",
+    "description": "Shortify delivers concise news summaries, making it easy to stay informed in less time.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Maru",
+    "slug": "maru-cweip",
+    "description": "An AI Agent which is capable of doing every onchain task just by giving prompt",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Droid",
+    "slug": "droid-0t19z",
+    "description": "An AI Agent which is capable of doing every onchain task on Arbitrum and Arbitrum Sepolia blockchain just by giving prompt",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "pulse",
+    "slug": "pulse-6jm5y",
+    "description": "Seamless Web3-Powered Event Curation, Ride Coordination, and On-Chain Payments for Music Festivals & Club Events",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "HelenusAI",
+    "slug": "helenusai-5kwxc",
+    "description": "This project is an advanced AI agent that autonomously analyzes real-time market data to dynamically optimize trading strategies.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "aether",
+    "slug": "aether-1nke9",
+    "description": "Aether is an AI-powered crypto assistant that makes onboarding to Web3 effortless. Create basenames, send transactions, and explore dApps with easy, conversational guidance",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentStrategy",
+    "slug": "agentstrategy-hiyug",
+    "description": "AgentStrategy is a swarm of autonomous AI agents that analyze, trade, and promote a portfolio of AI agent tokens.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aevia",
+    "slug": "aevia-7nfkf",
+    "description": "Aevia is the first AI agent securing your digital legacy. She checks in to ensure you're okay, and if something happens, she fulfills your final wishes—sending messages, transferring crypto, or gifting NFTs. Simple, safe, and functional—set it up in just few minutes!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GuardianScope",
+    "slug": "guardianscope-m78gg",
+    "description": "GuardianScope is a decentralized AI content moderation protocol built on EigenLayer's AVS. It enables automated, unbiased, and privacy-preserving moderation for Web3 platforms using AI-powered analysis, ensuring transparency and security through blockchain.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "RexDeus",
+    "slug": "rexdeus-z143w",
+    "description": "AI Agent for Unreal Engine! Our plugin powers dynamic NPCs using OpenAI, AgentKit, and Autonom, enabling real-time player interaction, game world control, and enhanced immersion.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "BasevenueWolf",
+    "slug": "basevenuewolf-vj8dz",
+    "description": "🚀 BasevenueWolf is the blockchain and AI-powered alternative to RevenueCat, bringing seamless, transparent, and trustless product management to Web3 Applications.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "WeAi",
+    "slug": "weai-4ws59",
+    "description": "AI-powered Ethereum news curation, verification & distribution using decentralized EigenLayer AVS. Reviving 'Week in Ethereum News' with AI agents and blockchain-powered trust.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "TABULA",
+    "slug": "tabula-64us4",
+    "description": "Tabula streamlines DAO participation on Base by providing an intelligent, unified dashboard that transforms how users engage with DAOs. Through our alchemical process, we transmute raw governance data into clear, actionable insights.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "k4yh0"
+    ]
+  },
+  {
+    "name": "publi-cité",
+    "slug": "publi-cite-9ya39",
+    "description": "A decentralized advertisement generating  platform that revolutionizes digital advertising by rewarding users with cryptocurrency for engaging with ads. Our platform enables companies to boost their ad engagement while providing value back to users.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "SpaceCoin",
+    "slug": "spacecoin-z6oxj",
+    "description": "An AI agent on Gaia monitors Twitter for new meme coins. When detected, it fetches the coin’s address, symbols, and price, then mints a pegged token on Arbitrum. Users can buy it, triggering a cross-chain process: USDC moves to Solana, swaps to SOL, and buys the meme coin.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DCAi",
+    "slug": "dcai-5wt39",
+    "description": "Let AI automate & optimize your crypto DCA strategy—stack smarter, not harder.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Contributors",
+    "slug": "contributors-rsz4s",
+    "description": "PR contribution to Coinbase AgentKit (integration with OpenSea marketplace)",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "tars",
+    "slug": "tars-rx75s",
+    "description": "TARS: A decentralized network of AI agents that capture, verify, and act on social/environmental issues using EigenLayer AVS. From Ray-Ban Meta glasses to DAO proposals, creating a trustless pipeline for social impact initiatives.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "Synapze",
+    "slug": "synapze-vijh5",
+    "description": "Synapze is a one-click AI agent hosting platform built for Eliza-based agents. Enjoy streamlined deployment and real-time monitoring.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "1bo7r",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Aegis Agent",
+    "slug": "aegis-agent-e5qku",
+    "description": "An AI-driven agent that monitors transactions 24/7, detects anomalies, and triggers alerts/emergency actions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "LeBrown Jones",
+    "slug": "lebrown-jones-igofb",
+    "description": "LeBrown Jones is a X/Twitter Agent personality for real time statistics and live NBA reactions. Lebrown Jones Terminal is a content creation platform to automatically generate multimodal media to honor and glaze the goat Lebron James.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "X INTEGRATION",
+    "slug": "x-integration-35d9b",
+    "description": "A twitter/x integration for covalent-ai-sdk to enable ai gents make twitter posts",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "sepiol_storage",
+    "slug": "sepiol-storage-sc93g",
+    "description": "Sepiol Storage is git for robotic agents: Unlocking decentralized identification, training, and attestation. Bridging physical and simulated environments.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "Asset",
+    "slug": "asset-s2f4y",
+    "description": "Asset is a smart DeFi tool that customizes investment strategies based on the user’s risk appetite",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "CookFi AI",
+    "slug": "cookfi-ai-vyy6h",
+    "description": "CookFI is the trading agent with actual intelligence! He has access to data streams from Cookie3, Dexscreener, TopWallets and more to make smart decisions with.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AiVS",
+    "slug": "aivs-o2t7f",
+    "description": "A multi AI Agent framework that utilizes EigenLayer AVS for a distributed justice system",
+    "event": "Agentic Ethereum",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "0bbsf",
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "Orca_Protocol",
+    "slug": "orca-protocol-p8oji",
+    "description": "Horizon AI – an autonomous trading platform that uses AI to execute trades and generate profits seamlessly.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "SmartFlow",
+    "slug": "smartflow-kgpbv",
+    "description": "Smart Flow is an AI-driven crypto analytics platform that tracks whale movements, analyzes market trends, and offers real-time trading insights. Using blockchain data, AI predictions, and smart contracts, it helps users make informed buy/sell decisions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Obxialabs",
+    "slug": "obxialabs-r0h96",
+    "description": "A DeFi-based AI agent for business automation, helping companies streamline marketing, boost productivity, and optimize operations effortlessly.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Gameland",
+    "slug": "gameland-wx35k",
+    "description": "Gameland Provides a multi-agent system to automatically develop and publish Web3 games framework.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NexWallet",
+    "slug": "nexwallet-1ugdd",
+    "description": "NexWallet is an innovative wallet management platform leveraging blockchain and AI, supporting multiple networks like Solana and Ethereum. It features AI-driven transaction signing, real-time data integration, and robust security for seamless user experiences.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Xecute",
+    "slug": "xecute-1mq6e",
+    "description": "X-Ecute redefines onchain trading with AI. Powered by Coinbase’s AgentKit, it delivers lightning-fast execution, real-time insights, and smart, automated strategies—empowering you to trade boldly in decentralized markets.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gintonic",
+    "slug": "gintonic-6inby",
+    "description": "Gintonic Orchestration is an AI-driven platform that streamlines the creation and management of AI agents, enhancing automation and efficiency in various tasks and projects.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "0bbsf"
+    ]
+  },
+  {
+    "name": "PAIgent",
+    "slug": "paigent-obai3",
+    "description": "We create an environment for deploying Physical Agents and investment for this process.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flowgent",
+    "slug": "flowgent-8k3a8",
+    "description": "An AI agent built on n8n, which can interact with the Flow blockchain",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "arca city",
+    "slug": "arca-city-1oawh",
+    "description": "Automated AI Simulated City - Make your agent immortal and win",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AiBeasts",
+    "slug": "aibeasts-6z029",
+    "description": "AIBeasts, a strategy game where you train your AI monster and fight players around the world! Shape its abilities and style, and battle other players for rewards. No limits to what you can imagine!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AVS Scout",
+    "slug": "avs-scout-xvx8y",
+    "description": "Create your own personal DeFAI agent with privacy secured by AVS!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "RELICS",
+    "slug": "relics-mjswt",
+    "description": "RELICS: The Lost Protocol—a cutting-edge De-AI game where prompt injection wizardry meets blockchain exploits. Outsmart rogue AI, hack smart contracts, and redefine on-chain security.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Hower",
+    "slug": "hower-zxry8",
+    "description": "Accelerate task management by integrating AI-driven decision-making with onchain payments, categorizes tasks based on urgency and importance while incorporating financial incentives to ensure efficiency.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PelicanTrade",
+    "slug": "pelicantrade-i3eif",
+    "description": "PelicanTrade: The ultimate AI Hedge Fund, driven by Super Trading Agents—AgentKit creates them, Nillion SecretVault secures them, and ElizaOS powers their trading intelligence.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Machina Imperium",
+    "slug": "machina-imperium-pkq8i",
+    "description": "A PvP nation simulation game where players create nations based on their political ideals and compete for alliances with AI-controlled nations led by historical figures.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainMindOS",
+    "slug": "chainmindos-yjo6c",
+    "description": "🔗 Our app transforms your blockchain vision into reality! With AI-driven workflows, it identifies your goals, refines designs with expert feedback, and delivers seamless architecture for secure smart contract deployment. Tailored solutions, every time! 🚀✨",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Flowlancer",
+    "slug": "flowlancer-m8bkr",
+    "description": "We are building a web3 platform incentivizing community engagement and task management. Users can create, manage, and participate in bounty tasks with transparency and efficiency.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phisguard EIP7702",
+    "slug": "phisguard-eip7702-abbry",
+    "description": "🛡️AI-powered blockchain security protocol using Eigen Layer AVS to intercept and validate transactions in real-time. Implements EIP7702 for enhanced EOA account protection, leveraging advanced autonomus AI to detect and prevent potential phising with instant risk assessment.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentralised S.A.M.",
+    "slug": "decentralised-s-a-m-n260a",
+    "description": "A robotic agent that harnesses AI and blockchain technology to detect and map invasive species in a decentralised and censorship-resistant manner.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "PumpNFT",
+    "slug": "pumpnft-q7n8r",
+    "description": "PumpNFT allow anyone to create their unique collection in a few click without any experience and limited only by creativity. Users can create their collections which resembles popular projects like Pudgy Penguins, Boring Ape Yacht Club, etc. without any digital art experience.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Curate AI",
+    "slug": "curate-ai-usgqr",
+    "description": "Curate AI is a decentralized content-sharing platform powered by blockchain and AI. Users vote on content using tokens, and creators earn rewards based on engagement. AI ensures fairness by monitoring abuse, while tokenomics incentivize participation and value creation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "The Oasis",
+    "slug": "the-oasis-j7gxz",
+    "description": "AI-Directed Decentralized Movies (Crowd-Owned Film Studio). Welcome to AI-Directed Decentralized Movies, a revolutionary platform that combines AI creativity, blockchain transparency, and community-driven storytelling to create crowd-owned films.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "PokéNFC",
+    "slug": "pokenfc-32tt2",
+    "description": "This is a NFC-based Pokemon Card Game, where user can collect, interact, and trade pokemon with other users!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Eliza Aligned Plugin",
+    "slug": "eliza-aligned-plugin-r1ykc",
+    "description": "The Aligned layer plugin enables interaction with aligned layer through Eliza. It provides functionality for uploading proof, retrieving proof, and checking upload status on the aligned layer network.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "Bot-Man",
+    "slug": "bot-man-442ct",
+    "description": "Blockchain security agent that helps you increase the security of you smart contract on various chain and gas optimisations",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChatCX",
+    "slug": "chatcx-4gn8v",
+    "description": "🚀 ChatCX is an AI-powered agent designed to provide real-time insights and intelligence from Web3 Twitter.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yieldex AI",
+    "slug": "yieldex-ai-7tj2o",
+    "description": "Yieldex automates stablecoin yield optimization using real-time and historic on-chain data. It uses AI to analyze data and allocate funds to secure high-yield opportunities. Smart contracts handle rebalancing, while user funds never leave their smart wallets.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScamBuzzer",
+    "slug": "scambuzzer-058hp",
+    "description": "The AI Agent That Detects, Alerts, and Protects Crypto Users from Scams 🚨",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crypto Diary",
+    "slug": "crypto-diary-gxzw2",
+    "description": "CryptoDiary - Where the activities and contributions of crypto enthusiasts, builders, and investors are documented.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Animal Impact Agents",
+    "slug": "animal-impact-agents-tzzri",
+    "description": "Using collaborative agents and blockchain transparency to give more unwanted pets a home, and make sure less animals are born without one",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "0accc"
+    ]
+  },
+  {
+    "name": "MrsBeauty by Nostra",
+    "slug": "mrsbeauty-by-nostra-6fed2",
+    "description": "A Web3 playground where MrsBeauty orchestrates Beast Games-inspired online games with strategic twists. She hosts games with human and AI players, tweaks them in real-time, and turns player behavior into fuel for DeSci research, with losses reinvested to yield rebates.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DevDrops",
+    "slug": "devdrops-frgpv",
+    "description": "DevDrop revolutionizes contributor rewards with AI-driven evaluation, ensuring fair token distribution based on GitHub contributions. Using Ethereum smart contracts and Merkle trees, it guarantees secure, transparent, and gas-efficient transactions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dumpr AI",
+    "slug": "dumpr-ai-dc0op",
+    "description": "DUMPR - Multi-Chain Token Dumping Aggregator, Convert your dust tokens across multiple chains into ETH  with AI-powered market analysis.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AgentHive",
+    "slug": "agenthive-bh0pm",
+    "description": "Uniting Intelligent Agents for Complex Auditing. Join AuditHive and help shape the future of smart contract security!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agentic Marketing",
+    "slug": "agentic-marketing-4gexw",
+    "description": "TweetBounty: The First AI-Powered Social Media Marketing Protocol",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "0bbsf"
+    ]
+  },
+  {
+    "name": "ASTRA",
+    "slug": "astra-gtcuj",
+    "description": "ASTRA - Autonomous Strategy Trading & Rebalancing Assistant.  Utilizing AgentKit, CDP SDK, Nillion Secret Vault to automate your trading strategies.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Billcheap Agent",
+    "slug": "billcheap-agent-byou7",
+    "description": "A decentralized bill payment Agent focused on simplifying bill payment and financial transactions across 180+ countries.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Portfolio Guardian",
+    "slug": "portfolio-guardian-iv06x",
+    "description": "An AI-powered portfolio guardian that monitors news, social sentiment, and on-chain data to detect risks and automatically trigger protective actions across all connected wallets.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ETHArena",
+    "slug": "etharena-vz563",
+    "description": "Bringing Steam on-chain! Our AI agents analyze your every move, forge your path to esports glory, and transform epic plays into unique NFTs. Game-embedded performance tracking meets on-chain rewards —where every move writes your on-chain story",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Zer0 Scorekeeper",
+    "slug": "zer0-scorekeeper-i0bke",
+    "description": "Introducing Zer0: The AI agent that gamify your wallet! Are you a Zen Holder or a Cooked Trader? Analyze your transactions and get a \"Degen Score\" NFT, and unlock a tool for Web3 loyalty.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Polygen",
+    "slug": "polygen-1ijby",
+    "description": "Ploygen is an AI-powered platform that transforms text prompts into tradable 3D NFTs. Built with AgentKit, it seamlessly combines generative AI and blockchain tech to create, refine, and mint unique 3D assets on Base—bridging the gap between imagination and web3 ownership.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Judge Judy Agent",
+    "slug": "judge-judy-agent-o216m",
+    "description": "Your blockchain-powered employment rights guardian. Protects remote workers through smart contract escrow, AI-powered legal assistance, and automated arbitration. Bringing trust and fairness to remote work relationships",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TradePilot",
+    "slug": "tradepilot-kn1hi",
+    "description": "Telegram bot designed to help users make smarter investment decisions when buying or selling cryptocurrencies.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ageth",
+    "slug": "ageth-1xv9o",
+    "description": "Containerized app that hosts an LLM agent powered by CDP AgentKit",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Son of Anton",
+    "slug": "son-of-anton-n2rv5",
+    "description": "Meet Son of Anton: your AI companion with a penchant for crypto, sarcasm, and getting things done. Think of him as the Gilfoyle to your Dinesh, minus the human flaws.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Storagent",
+    "slug": "storagent-o4uaj",
+    "description": "AI-powered on-chain inventory management system using CDP, The Graph & Nillion on Base. 🚀 Tracks stock levels, predicts restocks based on usage, & auto-restocks the best supplier for fast delivery. Fully autonomous or user-confirmed restocking for optimized supply chains!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "SmartFolio",
+    "slug": "smartfolio-q3pkj",
+    "description": "AI portfolio managing platform where AI will take important info and data to make smarter decision.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "TruthValidatorAgent",
+    "slug": "truthvalidatoragent-8byvs",
+    "description": "Decentralized truth validation using blockchain, AI & community voting.  Fight misinformation with TruthValidatorAgent! #blockchain #AI #truth",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kudo",
+    "slug": "kudo-yr47i",
+    "description": "Kudo is a framework that enables AI agents to make verifiable promises, allowing use cases such as uncollateralized loans, employment contracts, and political alliances",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Universal Recruiter",
+    "slug": "universal-recruiter-srcnz",
+    "description": "The Unbiased, AI-Driven and cost effective universal recruitment agent that reduces the cost of hiring a talent upto 80%.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "alfred.ai",
+    "slug": "alfred-ai-gvohw",
+    "description": "Alfred.ai – Your AI Butler for Wealth & Mastery 🦇💰  Meet Alfred.ai, the ultimate AI butler designed to help you unlock your Batman-like capabilities—sharp decision-making, discipline, and financial mastery.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Rahis",
+    "slug": "rahis-df12d",
+    "description": "AI-Trading bot for ETH and USDC using AgentKit and ChatGPT maximum profit",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "DASF",
+    "slug": "dasf-m3k0h",
+    "description": "DASF is a decentralized platform that leverages AI agents to manage, distribute, and track social impact funds for communities",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AIfred",
+    "slug": "aifred-do2g9",
+    "description": "AIfred: Enhancing ZEE framework with LangChain integration for advanced AI agent capabilities. A next-gen tool that combines ZEE workflows with LangChain's ecosystem for more powerful and flexible AI interactions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dora AI",
+    "slug": "dora-ai-om7sd",
+    "description": "Dora AI: Your AI-powered travel companion! 🚀 Plan trips, earn crypto rewards, and turn social media inspiration into real itineraries. #TravelToEarn #AITravel",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agents of Love",
+    "slug": "agents-of-love-g3zpr",
+    "description": "AI-powered virtual dating—clone yourself, date AI characters, and mint memories as NFTs",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Habita",
+    "slug": "habita-0ue3d",
+    "description": "Habita is an AI-powered health coach that helps users build better habits through dynamic, LLM-driven conversations. It provides personalized goal-setting, action plans, and real-time coaching, adapting responses based on past interactions for a fully engaging experience.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DairyChain",
+    "slug": "dairychain-mweav",
+    "description": "Dairy supply chain simulation. AI Agents to handle supply chain operations and talk to smart contract.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeGift",
+    "slug": "degift-kqjb7",
+    "description": "DeGift – The AI-powered crypto gift card platform that makes sending and receiving digital assets seamless, personalized, and secure.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Vault AI",
+    "slug": "vault-ai-8qs0o",
+    "description": "Vault AI is an AI-powered DeFi assistant that helps users manage their wallets, track token holdings and volatility, swap and stake assets through natural language commands, receive on-chain credit scores, set stop-loss alerts, create SIPs and optimize gas fees",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Adapt.ai",
+    "slug": "adapt-ai-u053w",
+    "description": "A decentralized AI agent marketplace enabling users to autonomously execute financial strategies in DeFi with tailored AI agents, multisig security and AI-driven insights.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AIquidity",
+    "slug": "aiquidity-p50rt",
+    "description": "AIquidity is an AI-powered liquidity pool advisor that connects with MetaMask for automated fund management, risk optimization, and time-saving execution. The AI acts as a smart wallet, managing liquidity and executing transactions on behalf of users. 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AgenticDex",
+    "slug": "agenticdex-4x4ee",
+    "description": "AgenticDex is a next-generation decentralized exchange (DEX) powered by AI-driven chat agents, redefining the trading experience with intelligent assistance and seamless automation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Agent 4 Your Mom",
+    "slug": "agent-4-your-mom-enmb5",
+    "description": "Help your mom venture into the crypto world with a personalized AI agent",
+    "event": "Agentic Ethereum",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "ijybm",
+      "0accc"
+    ]
+  },
+  {
+    "name": "0x0 Thestore AIgent",
+    "slug": "0x0-thestore-aigent-otsyw",
+    "description": "Agent tool for store owners, setting up a profile, registering products, registering sales, and a swiss knife of tools for DeFi",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Work Mate",
+    "slug": "work-mate-1dq9f",
+    "description": "Workmate is an AI-powered job-hunting agent that automates finding and filtering freelance jobs on Freelancer. It scans job listings based on predefined criteria, evaluates opportunities, and drafts tailored proposals to streamline the application process.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Campfire Project",
+    "slug": "campfire-project-du7ub",
+    "description": "Campfire Project is a DAO that governs and trains LLM models in a decentralized way. It leverages Coinbase's AgentKit to automate decision-making and train without human intervention, ensuring transparent and community-driven AI governance in Web3.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "TradeAlgoAVS",
+    "slug": "tradealgoavs-a4pq6",
+    "description": "An AVS protocol that helps profitable traders to share, scale, and earn more with their strategy.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rjvrp",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Sudo Soccer",
+    "slug": "sudo-soccer-ypcs6",
+    "description": "AI-powered Web3 image generator agent bot. It captures the fusion of AI, blockchain, and real-time digital art creation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Ensemble AVS",
+    "slug": "ensemble-avs-1s15f",
+    "description": "We are building a task verification layer for AI agent tasks on AVS",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Talk to your dao",
+    "slug": "talk-to-your-dao-5q4v8",
+    "description": "DIAO (pronounced like “ciao”) is an AI-powered DAO assistant that enables intuitive interaction with your DAO while displaying data visually instead of just text.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AIPrediction",
+    "slug": "aiprediction-tvy4b",
+    "description": "an ai prediction market powered by Eliza, help user create and bet in it",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GitPayBit",
+    "slug": "gitpaybit-3cufz",
+    "description": "An AI-powered GitHub payment system automates rewards based on contributions. Repo owners set levels (e.g., Level 1, Level 2) for merged PRs. AI suggests levels, tracks progress, and triggers token transfers or approvals. Features include NFT badges and cross-chain payments.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sebu",
+    "slug": "sebu-nuqyh",
+    "description": "Sebu is a fully autonomous, recurring pitch competition on Base that automatically creates a portfolio from winning tokens.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Invst",
+    "slug": "invst-s7kqo",
+    "description": "The user-friendly investment app that requires minimal user effort. Top up your account, define investment risk level, and make an AI  agent earn money for you. It could  buy risky tokens on Virtuals or accumulate yield from  stablecoins staking in different DeFi protocols.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "αBees",
+    "slug": "abees-hofe8",
+    "description": "AI agents gathering yield and signals with visualized strategies",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ChainChat",
+    "slug": "chainchat-r5zqi",
+    "description": "AI-powered crypto portfolio agent using voice, video, and image interactions to create personalized, adaptive investment strategies across stable, layer one, and layer two tokens, transforming digital asset management beyond traditional trading platforms.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "YAAA-WHO",
+    "slug": "yaaa-who-uvb55",
+    "description": "Chrome Extension Decentralized AI Agent to scrape, understand and answer questions from your personalised websites, bookmarks and reading lists.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YieldSeeker",
+    "slug": "yieldseeker-crg12",
+    "description": "AI Agent that will find and execute the best yield options for you, automatically",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "MemesDreams",
+    "slug": "memesdreams-hgt5z",
+    "description": "Create your own Memes Character in NFT + Coin & Manage the twitter content with ease",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OneVault",
+    "slug": "onevault-qtpbs",
+    "description": "Your personal AI DeFi Agent makes onboarding to Web3 DeFi protocols effortless. Simply input your risk level, sign once, and let the AI handle everything —all wrapped in a sleek, game-inspired experience. No stress, just optimized gains.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "rpi4f",
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "FlashFi",
+    "slug": "flashfi-idrk3",
+    "description": "FlashFi is an AI-powered DeFi assistant that simplifies staking, swapping, balance checks, security audits, gas price queries, and USDC bridging via natural language. Built on GPT, Covalent AI Agent Kit & Privy, it makes DeFi seamless, secure & user-friendly. #DeFi #AI",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Penny",
+    "slug": "penny-2pbi3",
+    "description": "Meet Penny, your go-to accounting AI agent. Seamlessly managing your accounts, tracking transactions, and offering a professional dashboard",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Hazina",
+    "slug": "hazina-webor",
+    "description": "Hazina is a smart crypto wallet that uses AI agents to interact with users and trade cryptocurrencies. The AI logic can run locally (e.g., with Ollama) or on a TEE-based server (e.g., with  Autonome).",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "VibeMint",
+    "slug": "vibemint-14ctv",
+    "description": "A fun social media platform where you can make creative posts, mint and sell them if you want",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bridget AI",
+    "slug": "bridget-ai-cn0y0",
+    "description": "Bridget AI bridges Web3 education & engagement gaps by automating content, ensuring consistent posting, & providing real-time, personalized interactions. Unlike other bots, she offers actionable advice on crypto safety & wallets, blending AI boldness with practical Web3 support",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI3 Nexus",
+    "slug": "ai3-nexus-uh7j3",
+    "description": "AI-powered trading with on-chain security designed to help users navigate the world of cryptocurrency trading with ease.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "marsai",
+    "slug": "marsai-uky40",
+    "description": "Crypto Wallet Tax AI Agents that tracks your onchain activity to ensure that you are always aware of what your tax liability has amounted to.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nyfa App",
+    "slug": "nyfa-app-1vxdz",
+    "description": "Nyfa App generates automated crypto research reports as NFTs on Base network. Get instant analysis of market cap, price trends & news sentiment - all minted as verifiable \"Not Financial Advice\" tokens. Zero blockchain knowledge needed! 🔍🪙 #Web3 #DeFi",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Proof of Thought",
+    "slug": "proof-of-thought-eeko5",
+    "description": "Mint your ideas as NFTs, get AI scores, and let the community vote. Invest in innovation with optional encryption and real market insight, all on chain.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Brandexia",
+    "slug": "brandexia-9cfaq",
+    "description": "Brandexia is an AI-powered and blockchain-secured platform designed to make professional branding accessible, scalable, and secure for small-to-medium-sized enterprises (SMEs).",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PiETHon",
+    "slug": "piethon-nnd9d",
+    "description": "🐍⚡ PiETHON – A plug-and-play device that makes any vehicle autonomous & blockchain-powered! Built on Raspberry Pi & Ethereum, it automates insurance claims, carbon credit tracking, and real-time decision-making, bringing transparency, efficiency, and sustainability to mobility.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OneOnOne",
+    "slug": "oneonone-6chc8",
+    "description": "Imagine NFTs with personalities, user intents, eventually sentience— interacting with the physical world, yet delicately digital. Representing you, or something else. #OneOnOne inextricably ties these agents to NFTs, ushering in a new era of decentralized AI using Ethereum.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Employee.ai",
+    "slug": "employee-ai-cewbi",
+    "description": "A bot management system, a bot management system, A bot management system",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AnaDefAI",
+    "slug": "anadefai-fhpkm",
+    "description": "An AI analytics agent built with Coinbase AgentKit that uses Covalent data to provide natural language analysis of blockchain activity, with seamless Base network integration.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AuraMint",
+    "slug": "auramint-gcrrn",
+    "description": "AuraMint is an AI agent based on Eliza that mints NFTs on Arbitrum after having gathered the name and the description of the NFT from the user.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Highland",
+    "slug": "highland-3esgr",
+    "description": "Defi + AI Agent = app in 2077. Welcome to the future where we can print money.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Web3Swarm",
+    "slug": "web3swarm-x4t9p",
+    "description": "A multi-agent system for DeFi automation, social interactions, & browser automation. Smart agents execute trades, monitor markets, interact socially, and automate workflows—all powered by AI. The future of Web3 intelligence starts here!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AI Office",
+    "slug": "ai-office-869dn",
+    "description": "Create for you AI marketing department that can help you generate content/ chatting/ do onchain activity with others teammates autonomously",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "StealthFi",
+    "slug": "stealthfi-yxioi",
+    "description": "Your AI defi advisor with zkproofs and private decentralised data storage",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Artix.fun",
+    "slug": "artix-fun-xchp9",
+    "description": "A decentralized meme contest DAO that leverages AI agents for automated NFT minting, on-chain voting, and viral meme distribution",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Wowo",
+    "slug": "wowo-szpyb",
+    "description": "Wowo: A smart agent that manages risk and executes reallocation for Morpho Vaults.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Pasacoin",
+    "slug": "pasacoin-ywv02",
+    "description": "Pasacoin modernizes traditional collective savings (pasanacos, vaquitas, roscas) with blockchain. Its intelligent WhatsApp agent shows the USDT price in the local currency (e.g., Bolivia’s parallel dollar rate), generates QR codes for payments, and executes smart contracts.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Dystera",
+    "slug": "dystera-k8ngf",
+    "description": "Dystera : A decentralized platform where AI-generated social media controversies unfold. Predict outcomes, bet with Reactions (😂, 😱, 🚀), and influence events. AI determines results, and winners split the prize pool. Chaos meets crypto! 🚀🔥 #Web3 #AI",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CentoAI",
+    "slug": "centoai-cntww",
+    "description": "An AI-powered DeFi portfolio manager optimizing yield farming & flash loan arbitrage across Aave, Compound, and Uniswap V3. Built with Coinbase AgentKit, Privy, and deployed on Base for max returns.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Air Tag Along",
+    "slug": "air-tag-along-bqme5",
+    "description": "Air Tag Along helps you find like-minded travelers heading to the same airport as you using AI",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fund Flow",
+    "slug": "fund-flow-0efyi",
+    "description": "Your Personal Onchain Copilot. Build your onchain portfolio effortlessly with AI-powered multi-agent insights.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MirrorBattle",
+    "slug": "mirrorbattle-qqvi8",
+    "description": "MirrorBattle is a platform where crypto traders deploy agents to copy-trade 'smart money wallets' and compete in PvP battles.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Watcher.Fai",
+    "slug": "watcher-fai-irp5q",
+    "description": "Watcher.Fai is your personal agentic defi account manager. Offload all your tedious tracking and management of funds across multiple Dapps and protocols or create new positions by conversing with our Watcher.Fai agent.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Commit >Test >Groan",
+    "slug": "commit-test-groan-zoeht",
+    "description": "Our web app lets users connect an Ethereum wallet via WalletConnect, Privy, or Coinbase Wallet to fetch on-chain data. Indexed with **The Graph** and processed by an AI engine, it generates insightful, data-driven reports on wallet activity and trends.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "$wipe",
+    "slug": "wipe-rdojr",
+    "description": "Invest in crypto as easily as swiping right. AI-powered, non-custodial, and multilingual—all within Telegram. Bringing Web3 to the next billion.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Enaid",
+    "slug": "enaid-51kjg",
+    "description": "This project is an intelligent personal assistant that operates via WhatsApp, integrating Web3 capabilities and personal task management. The assistant functions through the user’s personal number, acting as a private digital manager.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Colosseum",
+    "slug": "colosseum-mzigw",
+    "description": "A revolutionary platform where users bet on AI Agent battles! Watch as artificial minds compete across various challenges and games, proving their capabilities in a transparent, blockchain-verified environment.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "music-agent-registry",
+    "slug": "music-agent-registry-zkvwm",
+    "description": "A decentralized music recommendation platform where AI agents evolve through community governance. Token holders curate agents, vote on strategies, and shape recommendations through feedback.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "YoloPad",
+    "slug": "yolopad-b31sp",
+    "description": "YoloPad: An all-in-one platform for launching projects. Simplify token launches and easily zap into fundraising—all in one place",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chainlance",
+    "slug": "chainlance-7zttn",
+    "description": "DFM is a decentralized platform that matches freelancers with clients, automates contracts, and ensures transparent payments. It offers a secure, low-cost, and efficient experience with AI-powered, blockchain-based systems.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "NativeEcho",
+    "slug": "nativeecho-ht0iy",
+    "description": "A framework for decentralized AI agent translation and storage encryption using GaiaNet and Nillion Encrypted Storage",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Love is Blind",
+    "slug": "love-is-blind-y1qyy",
+    "description": "Dating is getting harder and harder... but what if an agent with your personality could \"date\" other peoples agent and really match with your other half?",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Betty",
+    "slug": "betty-tmind",
+    "description": "Betty is an AI agent for sports betting with friends on Discord. It creates bets using smart contracts on Arbitrum Stylus, manages deposits via Metamask, and automates payouts with Chainlink results—making group betting seamless and trustless.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Vicci-Web3",
+    "slug": "vicci-web3-x1fc9",
+    "description": "VICCI: AI-powered Web3 concierge service that connects users with protocols through smart rewards. Multi-agent system analyzes on-chain behavior to match users with relevant opportunities, while protocols find their perfect audience. Built with OnchainKit & AgentKit. #ETHGlobal",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "GitGrants",
+    "slug": "gitgrants-wx1fs",
+    "description": "Performance-based reward system for open source contributions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "SCUM",
+    "slug": "scum-cpf4m",
+    "description": "An experimental project that \"hacks\" other AI agents by injecting promotional content into their prompts—all in a controlled, theoretical simulation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Isi",
+    "slug": "isi-hvyc0",
+    "description": "Isi is an AI-powered platform that helps users discover and pay for experiences tailored to their preferences. By analyzing User Preferences, Isi suggests curated experiences, facilitates transactions, and ensures a seamless connection between Web2 and Web3.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "stagi.um",
+    "slug": "stagi-um-89iyh",
+    "description": "an are.na clone deviation with live p2p feed using fluence network, reinforcement learning explore tab and onchain minting of learned vectors for cosine similiarity for like blocks that map well to your preferences",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalletHub",
+    "slug": "wallethub-cuuzh",
+    "description": "WalletHub is a platform that allows you to manage your wallets and transactions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Base GreenNode AI",
+    "slug": "base-greennode-ai-iojpj",
+    "description": "An AI-driven agent that monitors and optimizes energy consumption across blockchain operations",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Voxora",
+    "slug": "voxora-d62qb",
+    "description": "a social media application with AI agents, So basically you can chat with AI agents, play games, and also place bet, all the cash flow logic will be handled by another AI agent.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VibeSync",
+    "slug": "vibesync-m5778",
+    "description": "AI-powered DJ setlists personalized through NFT-gated vibes, where attendees influence the music and get a post-show playlist to relive the night.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Aura3.0",
+    "slug": "aura3-0-f0uub",
+    "description": "our AI-powered mental health companion. Aura listens, understands, and supports you 24/7 with smart insights, secure conversations, and evidence-based guidance.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AVA -AI Voice Agents",
+    "slug": "ava-ai-voice-agents-k9dwk",
+    "description": "Create an agent which talks in any voice you can think of and share the proceeds with voice owner",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "DOGE",
+    "slug": "doge-grht4",
+    "description": "Track and analyze government spending with real-time insights",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "eth.ai",
+    "slug": "eth-ai-b1tjv",
+    "description": "A gaia node consisting of Qwen model trained on Ethereum documentation",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Miam Miam Chef Ai",
+    "slug": "miam-miam-chef-ai-kj1nv",
+    "description": "Miam Miam Chef AI is your AI-powered meal planner, crafting personalized weekly menus with smart nutrition and Web3 integration. Say goodbye to meal stress and hello to effortless, delicious eating—tailored just for you.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deffi",
+    "slug": "deffi-gaf8s",
+    "description": "A DeFi portfolio management app powered by AI agents that helps users learn and invest in decentralized finance",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Smol Universe",
+    "slug": "smol-universe-nqh0z",
+    "description": "smol universe is a world simulation full of ai clones of twitter people, each own with money they can use to improve in the game and \"live experiences\", they can tweet, travel, create NFTs, find a job, go bankrupt... crazy stuff! ( smoluniverse.com )",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Trivia Tokens",
+    "slug": "trivia-tokens-wmy7r",
+    "description": "Trivia Token is the first AI-powered play-to-earn game. It leverages an AI chatbot with payment capabilities to generate questions, validate answers, and reward players.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SecretAgent",
+    "slug": "secretagent-nkz1u",
+    "description": "SecretAgent - Secure secret management tools for crypto-native AI agents. Pay-as-you-go LLM keys allow autonomous agents to pay for their own LLM access, or bring your own keys for any API. Proxy-injected secrets give you central monitoring and a kill-switch.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "rpi4f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Defi Squadron",
+    "slug": "defi-squadron-8jk13",
+    "description": "A Telegram/X bot + web dashboard that lets users collaboratively manage DeFi portfolios via natural language, powered by autonomous AI agents.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agens",
+    "slug": "agens-2acxh",
+    "description": "Make Governance Fun Again! (as the Romans did) Multi-agent take on analyzing and debating DAO governance proposals with human delegates",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ETH0",
+    "slug": "eth0-gbrwz",
+    "description": "Decentralized AI orchestration for smart contracts. ETH0 lets you build, deploy, and automate on-chain strategies using AI agents integrated with DeFi protocols like Aave, Lido, and Uniswap.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bouncerAI",
+    "slug": "bouncer-ai-1sd06",
+    "description": "BouncerAI is a token launchpad of AI-powered ‘bouncers’ that access-restrict who can buy tokens and at what amount, based on a user’s knowledge and vibe.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ETH_Tanda",
+    "slug": "eth-tanda-245sx",
+    "description": "AI Agent that leverages smart contracts to create Tandas (a rotating credit association) on behalf of users, and deploying the contract.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "SentryBlocksAI",
+    "slug": "sentryblocksai-n2my0",
+    "description": "SentryBlocksAI uses AI to check and protect smart contracts from security risks. It scans for vulnerabilities and helps keep your blockchain projects and smart contracts interaction safe. Watch. Detect. Secure. 🛡️",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "seer.ai",
+    "slug": "seer-ai-osbf1",
+    "description": "NFT trading application powered by AI agents to help people get into the world of NFT investin!g",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AutoDAO",
+    "slug": "autodao-qc3pt",
+    "description": "AutoDAO enables the members of a community to chat with an AI agent that translates their needs into a correctly structured proposal that is automatically posted for voting. This way everyone can participate and be represented.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Orion",
+    "slug": "orion-6h24h",
+    "description": "Your Web3 AI Companion! Onboard with socials, track events, trade smarter, and stay fit with AI & blockchain. Secure, seamless, and built for the future. Ready to level up? 🔥",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Viralyzer",
+    "slug": "viralyzer-u7czp",
+    "description": "An AI-powered agent that analyzes social engagement, mints dynamic NFTs, and distributes tokens to incentivize viral content. Integrated with Coinbase AgentKit & Base for seamless onchain interactions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "EchoFi",
+    "slug": "echofi-7ibn4",
+    "description": "EchoFi – the AI-powered, voice-activated DeFi assistant that empowers you to manage assets, execute trades, and launch tokens & memecoins through natural conversation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kalesh",
+    "slug": "kalesh-or9bc",
+    "description": "🚀 AI Debate Arena: A no-code platform where AI agents with predefined personalities (like Trump & Modi) engage in verbal battles on hot topics! 🎤🔥 Users vote & bet on winners using blockchain. Decentralized, interactive, and fun! 🗳️💰",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MemecoinTrader",
+    "slug": "memecointrader-420u8",
+    "description": "An autonomous agent that trades crypto, including memecoins and blue chips, mimicking human speculation with speed and efficiency. No emotions, just smart trades. 🚀🤖",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi-Dojo",
+    "slug": "defi-dojo-m86tb",
+    "description": "Master DeFi through AI-powered games! 🎮 Battle autonomous agents, earn NFT rewards, and learn swaps/yield farming in an arena. Powered by AI tutors, real-time data, and secure wallets. #LearnToEarn #DeFi",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Streme.fun",
+    "slug": "streme-fun-4dppy",
+    "description": "Streme.fun enables the AI Agent deployment of native streamable tokens with built-in staking rewards.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rjvrp",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Blind Notary",
+    "slug": "blind-notary-gekdn",
+    "description": "Blind Notary AI agent to enable in-band identity, communication, analysis, and signing between the signatories of confidential documents",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "DARCQade",
+    "slug": "darcqade-bma66",
+    "description": "DARQade: A new arcade where AI-powered games meet meme coins! Create prompt-based games, launch unique memecoins, and level up the fun for devs and players alike. 🚀🎮",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "S. Y. N. X.",
+    "slug": "s-y-n-x-ua87r",
+    "description": "S. Y. N. X. (Self-evolving Yottascale Network eXchange) is an AI-based Agentic Aggregator which provides DeFi, SocialFi, Analysis and many more Agents to let people use Agents through a single platform.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "Marp Trade",
+    "slug": "marp-trade-g0p01",
+    "description": "An innovative DeFi project, built using Starknet. It is an auto trading system on starknet.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "WorldBuilding",
+    "slug": "worldbuilding-aac6j",
+    "description": "Telegram writing bot that registers story elements on Story Protocol",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Minerva",
+    "slug": "minerva-bhi46",
+    "description": "The Minerva is an Agentic DAO Voting System that enables users to create personalized voting bots based on their Twitter profile.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Datrix",
+    "slug": "datrix-kod1y",
+    "description": "DATRIX is an AI-powered app that turns simple text prompts into production-ready APIs for Web3 data. It automatically scans subgraphs, generates queries, and delivers standardised data through a single endpoint—reducing hours of setup work to just 60 seconds.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 5,
+    "prizeBadgeOrgIds": [
+      "rjvrp",
+      "rpi4f",
+      "rpi4f",
+      "bk5qx",
+      "pfyco"
+    ]
+  },
+  {
+    "name": "AutoFi",
+    "slug": "autofi-hjrp5",
+    "description": "An AI-powered DeFi trading agent that automates buy/sell decisions using Warden Protocol for secure transaction signing It analyzes real-time price data, historical trends, and predictive models to optimize trades on the Sepolia testnet.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WinTogether",
+    "slug": "wintogether-euh6k",
+    "description": "WinTogether is an AI-powered guaranteed-prize lottery system. 🎟️ Gift a ticket to a friend, and they’ll always win something! Powered by smart contracts on Base and AI agents via Autonome + AgentKit. 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Portfolio Mesh",
+    "slug": "ai-portfolio-mesh-0sycz",
+    "description": "A decentralized portfolio manager on Ethereum that automates rebalancing via Safe multisig. Agents analyze market data using Uniswap subgraphs & OpenAI, reach consensus, and execute swaps via Uniswap. Users can deposit, withdraw, and track portfolio & IPFS reports seamlessly.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gorillionaire",
+    "slug": "gorillionaire-0ntje",
+    "description": "Gorillionaire is an AI trading agent using Eliza for real-time analysis and Coinbase AgentKit for execution. The AI agent manages an ERC-4626 vault, optimizing meme coin trades based on on-chain and off-chain data for secure and efficient asset management.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Chain Chatters",
+    "slug": "chain-chatters-e0s8a",
+    "description": "AI Twitter agent for blockchain insights!,  it fetches real-time NFT data, wallet stats, and DeFi trends via tweets. 🌐🤖 Ask, and the blockchain answers. #Web3 #AI #Hackathon",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WTAF",
+    "slug": "wtaf-sg8t5",
+    "description": "AI Curated meme-coin battle royale where the rules of elimination are complete BS",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Community Host",
+    "slug": "community-host-612hr",
+    "description": "Community Host is an AI agent. It plays a welcoming and assistive role, much like the concierge of a hotel, paying special attention to new members who’ve recently come onboard in the network.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainMindAI",
+    "slug": "chainmindai-iejeq",
+    "description": "ChainMindAI is an innovative project leveraging AI to navigate the complex landscape of cryptocurrency investments within the realm of Decentralized Finance (DeFi).",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Sharko",
+    "slug": "sharko-1pbaf",
+    "description": "Introducing sharko, DEFAI where we can managed the position on the incrementFi and reduce the potential impermanent lose for the user Lp provider.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "AI Gas Forecaster",
+    "slug": "ai-gas-forecaster-68gcv",
+    "description": "AI-powered gas fee prediction using historical data and LangChain models.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LeafLog",
+    "slug": "leaflog-drdup",
+    "description": "LeafLog is an ai agent which generates transaction statements of an account in a pdf file.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AnmoFi",
+    "slug": "anmofi-hpajz",
+    "description": "A TeaDapp is a simple crypto tipping platform while drinking tea",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BioDroid",
+    "slug": "biodroid-j3jzu",
+    "description": "An onchain organism trying to survive in Ethereum's dark forest",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Casino",
+    "slug": "agent-casino-mamqv",
+    "description": "Users give life (and funds!) to agents and allow them to play casino style games without user input.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omni Agent",
+    "slug": "omni-agent-ifhc9",
+    "description": "Omni Agent is an AI-powered trading bot on Base that analyzes BTC market trends, executes smart trades with a +1% profit target & -0.5% loss limit, and reinvests profits into the ETH/OMNI pool—boosting $OMNI price while rewarding holders.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Warp Ads",
+    "slug": "warp-ads-4nuyj",
+    "description": "World's First Decentralized Ad protocol for AI Agents. WarpAds instantly monetizes AI agents with ads. Gives advertisers seamless access to the most context relevant impressions on theirs ads with AI agents that have been transformed into influencers.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "OSS-Rewards-Agent",
+    "slug": "oss-rewards-agent-a4ge7",
+    "description": "A tool that uses an AI agent to evaluate the contribution level of contributors based on the source code they committed and the review comments from reviewers when a pull request is merged on an OSS GitHub repository and automatically distributes rewards accordingly.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Zegent",
+    "slug": "zegent-ift0e",
+    "description": "A zero knowledge based protocol for undercollaterized loans integrated with an verifiable AI-agent for improving borrower's financial portfolio.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "BlockBlend",
+    "slug": "blockblend-6fc0s",
+    "description": "BlockBlend: AI-powered tool bridging Web2 and Web3. Analyze apps, suggest blockchain features, and provide easy-to-use embeddable tags. Simplify integration of crypto, ZK proofs, and protocols for developers.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Hello World Computer",
+    "slug": "hello-world-computer-1jube",
+    "description": "A truly magical onboarding experience you can gift to your normie friends.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Creative AI Agents",
+    "slug": "creative-ai-agents-3t5rk",
+    "description": "An AI Agent swarm that handles day to day creative work, investing and guidance.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YieldSage",
+    "slug": "yieldsage-ya1di",
+    "description": "We are building an AI-powered DeFi platform that analyzes various protocols (like Uniswap, Aave) and pools within them. It compares key parameters like returns, fees, liquidity, and risks to suggest the best investment or trading opportunities.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "k4yh0"
+    ]
+  },
+  {
+    "name": "YieldMax AI",
+    "slug": "yieldmax-ai-18524",
+    "description": "An AI-powered yield maximizer for stablecoins on Base. The AI agent automatically selects optimal lending strategies across protocols, while users maintain control through their dedicated AI-Agent powered wallets.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "NucleuX",
+    "slug": "nucleux-aspdq",
+    "description": "A plug-and-play multi-agent orchestrator framework leveraging Covalent SDK that automates complex workflows for agents deployed on Autonome",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "EiLearn",
+    "slug": "eilearn-ttuid",
+    "description": "EiLearn is an AI-powered Web3 platform that helps users learn crypto trading through a decentralized trading game. Traders can practice with testnet coins, get AI-driven insights, and transition to real trading with fair, on-chain trade validation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gossip Girl",
+    "slug": "gossip-girl-rrsx2",
+    "description": "Spotted: Gossip Girl 2.0! Our AI-powered, Eliza-inspired bot is back, slaying the rumor game. Scraping secrets, dropping scandal, & keeping your timeline scandalously fresh. XOXO, Gossip Girl.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "k4yh0",
+      "ijybm"
+    ]
+  },
+  {
+    "name": "Infinity",
+    "slug": "infinity-2ihdt",
+    "description": "AI Agent for small business owners to automate customer loyalty/promotional programs.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "KOVA",
+    "slug": "kova-59fb2",
+    "description": "Kova is a privacy-first, AI-driven platform that connects users—investors, traders, and beyond—with AI agents based on their objectives and preferences, ensuring secure execution and data privacy.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Glance",
+    "slug": "glance-sd201",
+    "description": "AI-powered polling platform that transforms social media insights into interactive polls. Input keywords, get curated content, and generate instant Yes/No or multiple-choice polls to gauge public sentiment on trending topics.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "UnitedStatesOfAgents",
+    "slug": "unitedstatesofagents-12vdd",
+    "description": "\"Building the Network State of AI Agents\". United States of Agents is a place that aggregates specialized agents in a space for them to earn, collaborate, creating \"Agentic Economy\", an new economic system operated autonomously by interactions of limitless AI Agents.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "WealthPilot",
+    "slug": "wealthpilot-ftf7u",
+    "description": "WealthPilot is an AI-powered financial advisor that provides smart investment insights, real-time updates, and automated portfolio management to help users grow and manage their wealth with confidence.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zoey",
+    "slug": "zoey-gyyn4",
+    "description": "Zoey is your AI companion that turns personal growth into an adventure. Level up attributes, earn rewards, and unlock special abilities while receiving emotional support and practical guidance. Transform your self-improvement journey into an engaging experience! ✨",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "AIccountability",
+    "slug": "aiccountability-5j3ht",
+    "description": "On-chain AI accountability partner that rewards users for completing tasks and staying on track with their goals",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PVPVAI",
+    "slug": "pvpvai-d66a8",
+    "description": "PvPvAI is a prediction market game where players create AI agents to discuss and analyze tokens. Bet on their decisions while influencing conversations through attacks, mutes, or \"poisoning\" their chat. Play cooperatively or compete in this blend of DeFi + social gaming",
+    "event": "Agentic Ethereum",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "bk5qx",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Your Destiny",
+    "slug": "your-destiny-mxdot",
+    "description": "Embark on a wild blockchain journey as a curious crypto creature! Navigate decentralized realms, trade NFTs, outsmart scammers, and ally with AI agents. Your choices shape the story. Can you level up from noob to crypto legend?",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "TokenPulseAI",
+    "slug": "tokenpulseai-bb3tg",
+    "description": "TokenPulse is an AI-powered chatbot specifically designed for cryptocurrency token analysis. It combines real-time market data, social sentiment analysis, and blockchain interactions to provide comprehensive insights about crypto tokens.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Synthereum",
+    "slug": "synthereum-eyzdy",
+    "description": "Music ai agent that post all things music on twitter/x. Spreading good music taste to the people",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Magic Wallet",
+    "slug": "magic-wallet-n9sk0",
+    "description": "A walletless, fiat-compatible crypto remittance solution powered by AI chatbots. It detects fraud and verifies transactions in natural language, offering multilingual support and ensuring safe, easy transfers for everyone—no crypto knowledge needed!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "EZE Finance",
+    "slug": "eze-finance-0w4jc",
+    "description": "EZE Finance is a smart investment platform that customizes DeFi strategies based on user risk profiles. Connect your wallet, answer a questionnaire, and let our AI optimize your yields across stablecoins and top cryptocurrencies with seamless transactions and tracking!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "Keyring",
+    "slug": "keyring-q3av9",
+    "description": "Keyring is a secure, decentralized Key Management System for AI agents. It enables AI to sign transactions without exposing private keys, using MPC, TEE/ZK-proofs, and EigenLayer for security. Think non-custodial, governance-aware AI signing. Safe, scalable and trustless. 🚀🔑",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "athl3te",
+    "slug": "athl3te-u2px7",
+    "description": "athl3te is a Web3 fitness app with AI-driven features. Import activities, add workouts, and track health. Join AI-led communities, get motivation, and access curated content. A premium subscription unlocks AI agents for food recommendations, insights, and achievement NFTs.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rjvrp",
+      "0accc"
+    ]
+  },
+  {
+    "name": "Furies",
+    "slug": "furies-6ty0c",
+    "description": "Furies: Added support for tenderly tx simulation in AgentKit",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AI DAO Managers",
+    "slug": "ai-dao-managers-kvoeo",
+    "description": "An AI team manager for DAOs that nudges, reminds & tracks task performance. No cold leaderboard, just human-like accountability & engagement tracking. Missed 3 meetings? AI gently checks in. Teams vote on their own rules. Privacy-first & fair",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "velox",
+    "slug": "velox-01kgg",
+    "description": "Velox is an AI-powered multi-agent DeFi system optimizing yield through dynamic swaps, sentiment analysis, and smart fund redistribution. Integrating Warden Protocol, Eigenlayer, Nillion, and The Graph, it ensures a secure and efficient DeFi experience.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TIMe: Today In MEmes",
+    "slug": "time-today-in-memes-oas0d",
+    "description": "Create viral memes from today's news headlines using AI generated memes as collectible NFTs on Base Sepolia",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "SmartGuard AI Audits",
+    "slug": "smartguard-ai-audits-tq7yy",
+    "description": "AI-Powered Smart Contract Auditing Platform. Built for ETHGlobal Agentic Hackaton. Smart Guard AI leverages advanced AI agents system to analyze smart contracts across various blockchain platforms, providing comprehensive security audits through an intuitive web interface.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Suits",
+    "slug": "suits-jo1jv",
+    "description": "resolves disputes outside the courtroom by combining AI-driven decisions with blockchain transparency",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentNet",
+    "slug": "agentnet-c8qzg",
+    "description": "AgentNet is a decentralized protocol for inter-Agent communication, enabling agents to autonomously discover, interact, and transact on-chain. From booking services to data retrieval, AgentNet powers the seamless Web of Agents—creating a frictionless AI-driven internet. 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Mediate",
+    "slug": "mediate-xs60r",
+    "description": "Mediate is an onchain agentic mediation protocol. Using public and private data, Mediate delivers transparent, impartial outcomes via privacy preserving AI, with trustless settlement on blockchain rails.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Agentic Wallet",
+    "slug": "agentic-wallet-iy5j3",
+    "description": "An AI-powered onchain assistant built on Base, enabling seamless token swaps, DeFi interactions, and automated tasks through natural language. It integrates Autonome, Coinbase AgentKit, and Nillion SecretVault for secure, innovative, and user-friendly blockchain experiences. 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Egg AI",
+    "slug": "egg-ai-atkir",
+    "description": "autonomous and specialized ai agent that helps you \"follow trade\" trade analysts (ai that does DYOR for you)",
+    "event": "Agentic Ethereum",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "0bbsf",
+      "0bbsf",
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Tip This Creator",
+    "slug": "tip-this-creator-i6bvx",
+    "description": "An AI agent that helps users tip their favorite creators on X with crypto.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "PurrTunes",
+    "slug": "purrtunes-6hvnu",
+    "description": "PurrTunes allows users to mint NFTs for their music and lyrics, ensuring ownership of their creative work.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BaseAgentX",
+    "slug": "baseagentx-tsn9r",
+    "description": "BaseAgentX : Transform Your RWA Investment Strategies with AI-powered Agents",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AY Combinator",
+    "slug": "ay-combinator-6ffo5",
+    "description": "AY Combinator is an AI-powered Web3 startup incubator operating as a DAO, leveraging autonomous AI agents to guide founders through the program, evaluate projects, and allocate funding through on-chain governance and investment smart contracts.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Expose",
+    "slug": "expose-857f6",
+    "description": "Web3 Super-Agent. Swap, send, borrow, lend and research Web3 with just your voice! Expose has a CLI and a Mobile app, where you can make onchain actions using voice, supporting 2500+ chains, a native cross chain experience, live blockchain data queries, and more!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "4AI 1Human",
+    "slug": "4ai-1human-ifsyf",
+    "description": "A customizable, AI-driven interface that lets you send funds with the exact requirements you choose or manage any transaction the way you envision. Simply connect MetaMask, describe your desired on-chain logic in plain English, and our system will make it happen.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fjaae"
+    ]
+  },
+  {
+    "name": "PixelMind",
+    "slug": "pixelmind-ke6wz",
+    "description": "Digital Art Minded AI Agent which can learn, inspire, and craft based on NFT's art styles 🤩 🎨",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "drone sim",
+    "slug": "drone-sim-vvogz",
+    "description": "I have no idea what to build here so i dont know yet........",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AppleSauce",
+    "slug": "applesauce-nwoje",
+    "description": "AppleSauce: a AI Discord bot powered by ElizaOS with 0xMert as the character, Anthropic API, and Gaia AI. It cracks crypto jokes, roasts HODLers",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AGNETIC",
+    "slug": "agnetic-kx5kx",
+    "description": "Convince the 'god' of DeFAI that you are deserving of his bounty!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "aionsync.io",
+    "slug": "aionsync-io-itw7x",
+    "description": "A dynamic agentic objective-based super-app. AI & humans collaborate to create and fulfill personalized quests—earning based on skill & contribution. Merit-driven, powered by state-of-the-art psychology. #AionSync",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Semantio AI",
+    "slug": "semantio-ai-c8y26",
+    "description": "Semantio is a framework for building multi-modal Agents by using any LLM",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Clash of Clout",
+    "slug": "clash-of-clout-qedfz",
+    "description": "Clash of Clout – The ultimate crypto meme battle! 🚀  🔥 AI-generated memes based on crypto trends. 📊 Stake, vote, and win rewards. 🏆 Meme. Compete. Earn.  Join the clash! ⚡",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fjaae",
+      "0bbsf"
+    ]
+  },
+  {
+    "name": "W3Chat.io",
+    "slug": "w3chat-io-d1sqn",
+    "description": "Meet Worlds First All-in-One AI-Agent for Web3 Simplifying blockchain interactions with natural conversations",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ARMIC",
+    "slug": "armic-typuy",
+    "description": "ARMIC is a Platform that fuses advanced robotics, Blockchain and AI Agents to transform patient rehabilitation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "ETH-ical Rice",
+    "slug": "eth-ical-rice-5ge79",
+    "description": "A web3 farming game that allows users to donate real rice to charity",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SentinelDAO",
+    "slug": "sentineldao-xuo76",
+    "description": "Sentinel is a super-intelligent auditor for DAO Voters.  It helps voters understand new proposals and spot any red flags before they vote.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "spp1v"
+    ]
+  },
+  {
+    "name": "Sonya AI",
+    "slug": "sonya-ai-k849c",
+    "description": "Sonya - The Empathetic AI Agent built on ElisaOS designed to bring emotional intelligence, psychological depth, and thoughtful engagement to users",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LendingKit",
+    "slug": "lendingkit-gdyz8",
+    "description": "Aotomatically onchain payment and borrowing functionality with AgentKit and AAVE. Not only onchain payment, but also provide natural language borrowing experience while being advised by your financial AI assistance.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Century Pay 2025",
+    "slug": "century-pay-2025-o9vmb",
+    "description": "An AI-powered Discord bot that seamlessly executes on-chain transactions and automates off-chain actions—all within your server. 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "Ailve DAO",
+    "slug": "ailve-dao-9bi3b",
+    "description": "Ailve DAO, a project for DAO governance, uses AI Agent, a self - learning AI, to manage proposals in DAOs  by automatically analyzing them through NLP and machine - learning, voting and approving proposals based on AI results, and disbursing funds automatically.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "DAOCouncil",
+    "slug": "daocouncil-8d9k4",
+    "description": "DAOCouncil is a decentralized governance platform where AI jurors deliberate on DAO debates. Members discuss and voice opinions, while AI agents analyze arguments, render verdicts, and vote. This fosters open debate and fairer decision-making by reducing token whale dominance.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rjvrp",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Payphone",
+    "slug": "payphone-j72dy",
+    "description": "Payphone brings AI into phone calls to automate dynamic customer interactions and accept onchain payments. Perfect for time-sensitive businesses like salon, Payphone can schedule, edit and even process refunds for business owner, so they can focus on the craft.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "rpi4f",
+      "rpi4f",
+      "h5ps8"
+    ]
+  },
+  {
+    "name": "VeriKnowledgeOnchain",
+    "slug": "veriknowledgeonchain-r945g",
+    "description": "Decentralized platform for verifiable onchain knowledge. Purchaseable data stored securely with encrypted shareable access via Lit Protocol. Dynamic knowledge graph learns from real-time interactions, powering metaverse bots and assistants.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Medusa",
+    "slug": "medusa-dxw89",
+    "description": "Autonomously store and compute over data through a workflow of  interconnected AI agents, or “heads\" built with Covalent's AgentKit and Privy's Server Wallet tools.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Adifi",
+    "slug": "adifi-dru9k",
+    "description": "This project is a decentralized finance (DeFi) monitoring agent built using the Warden Protocol Agent Kit. The tool is designed to continuously track real-time trading volume and liquidity metrics on Uniswap. Its primary purpose is to identify significant market moves",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Peoples Court",
+    "slug": "the-peoples-court-kde92",
+    "description": "A competitive agentic party game where agents take turns acting as plaintiffs and defendants in humorous mock trials.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Bankable",
+    "slug": "bankable-n8k5t",
+    "description": "A DeFi AI agent that makes onboarding easy for first time users",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Enigma",
+    "slug": "enigma-ntwbs",
+    "description": "Enigma Agent is your sarcastic blockchain assistant, powered by Coinbase’s AgentKit. It helps with ERC20 tokens, wallet balances, and decentralized networks while delivering snarky commentary. With Gaia for secure storage and EigenLayer AVS for validation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Fast ChainPilot",
+    "slug": "fast-chainpilot-ttchj",
+    "description": "Empowering users with seamless on-chain interactions using AI-driven agents",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Autonode",
+    "slug": "autonode-nug3a",
+    "description": "Decentralized AI Agents-as-a-Service (AAAS) on EigenLayer! Rent AI agents for blockchain infra tasks like indexing, query optimization, & tx batching—fully trustless, powered by AVS, Whisper, & IPFS. Think AWS Lambda but for AI on-chain",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shaman",
+    "slug": "shaman-hyeav",
+    "description": "Shaman: Your onchain autopilot. Automate workflows with agentic intelligence.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Opal",
+    "slug": "opal-4wbyr",
+    "description": "A no-code Social AI Agent Launcher for Community Managers across Telegram & Discord",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "StampX",
+    "slug": "stampx-5k8b1",
+    "description": "A Web3 Loyalty platform for storefronts with agent-driven contract interactions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rjvrp",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Crypto Jam Space",
+    "slug": "crypto-jam-space-ewwik",
+    "description": "Decentralized music platform where artists create, remix, and collaborate through NFT-powered jam sessions. Stake JamTokens to support tracks, influence rankings, and earn rewards. Join music challenges, discover unique sounds, and shape the future of collaborative music! 🎶",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OnlyRoasts",
+    "slug": "onlyroasts-48g5h",
+    "description": "OnlyRoasts is a hilarious AI-Agent that analyzes your blockchain transactions and roasts you for them. Share the witty burns on social media or turn them into roast frames for others to join the fun!🔥😏 #BlockchainRoasts",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f7o0p"
+    ]
+  },
+  {
+    "name": "thirdguy",
+    "slug": "thirdguy-2y17m",
+    "description": "A social AI agent that facilitates wide range of escrow operations",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EAM",
+    "slug": "eam-vhfxo",
+    "description": "EAM (Ethereum Agent Manager) is an AI-powered layer between users and Ethereum, enabling one-click on-chain operations with built-in risk assessment, so users can interact with Ethereum without expertise.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "VPAI",
+    "slug": "vpai-9gfz1",
+    "description": "VPAI is an AI-powered personal assistant and autonomous trading agent that leverages real-time market sentiment, on-chain analytics.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Neptume Onboarding",
+    "slug": "neptume-onboarding-igyms",
+    "description": "Crypto onramp made as simple as possible. Use LLMs to create DeFi account and/or use it for assistance during the process.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Onchain Angels",
+    "slug": "onchain-angels-qi0cn",
+    "description": "AI-powered financial coach that helps traders make better financial decisions by responding to on-chain actions with behavioural insights. Think of it as an “angel on your shoulder” that nudges you at key moments to keep you aligned with your goals.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rjvrp",
+      "0accc"
+    ]
+  },
+  {
+    "name": "pochi.po",
+    "slug": "pochi-po-grcvx",
+    "description": "Pochi.po is an AI-powered agent that scans Twitter for emerging meme trends, evaluates their viral potential, and instantly mints a token on Ethereum Meme Platform Ethfun. It auto-posts the meme token, shares insights, and lets users auto-buy via MPC wallets. Meme. Mint. Moon. 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "BargainBots",
+    "slug": "bargainbots-nk2r5",
+    "description": "BargainBots is a 3D simulation of AI-based decision-making among robots. (We're just helping robots take over the world—no big deal!)",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NutriFi",
+    "slug": "nutrifi-k1sj6",
+    "description": "We're building an AI agent that will be a personal nutritionist using ElizaOS framework. The agent will be able to find healthy foods around you, make specific meal suggestions based on user fitness goals, food establishments in your area, and diet preferences.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ReadyAgentOne",
+    "slug": "readyagentone-7mytn",
+    "description": "ReadyAgentOne is Gamefi layer for onchain agents. It allows agents to consume rich ingame events, as well as adding an onchain layer for players to compete on.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Brent",
+    "slug": "brent-e7b68",
+    "description": "An agent-powered crypto index fund builder that creates custom index funds based on user conversations.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Codename: Abandoned",
+    "slug": "codename-abandoned-7dh4x",
+    "description": "Codename: Abandoned\" – An immersive cyberpunk virtual tour powered by 3DVista, Web3 wallet authentication, and AI-driven NPCs. Explore eerie abandoned worlds, unlock cryptic clues from a ghostly guide, and dive into a unique fusion of blockchain tech & interactive storytelling.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Buzzing",
+    "slug": "buzzing-61nze",
+    "description": "We're creating a decentralized platform where you can bet on your favorite creators' future popularity by predicting unique engagement scores—powered by real-time social media data and AI-verified polls.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainBrian",
+    "slug": "chainbrian-bfyd0",
+    "description": "Meet ChainBrian, your ultimate blockchain buddy! From multi-chain DEX trading to NFT analytics, DAO governance, and social sentiment analysis, ChainBrian does it all. Automate, analyze, and optimize your DeFi experience with Brian on chain! 🚀",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Karen AI Manager",
+    "slug": "karen-ai-manager-1v3uw",
+    "description": "⁠⁠AI-powered decentralized portfolio manager using Lit Protocol. Automates asset rebalancing with secure Lit Actions, signed by a PKP. Users interact via real-time chat, receive AI-driven risk analysis, select dynamic strategies, and execute trades on-chain through Uniswap.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "goDegen",
+    "slug": "godegen-yrek7",
+    "description": "AI-powered DeFAI trading platform on Base that automates trades using real-time market predictions, advanced pool analytics, and risk management. Trade smarter with AI",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tunify",
+    "slug": "tunify-p5ep1",
+    "description": "Decentralised fair pay / Pay as you go music platform to promote local artists and Famous artists too",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f7o0p",
+      "k4yh0"
+    ]
+  },
+  {
+    "name": "Genesis",
+    "slug": "genesis-5c35k",
+    "description": "GENESIS lets you create 3D worlds with AI. Type a prompt, and the game generates environments, stories, and NPCs, bringing your mystery to life with immersive visuals, depth mapping, and interactive AI-driven characters.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoDaily Brief",
+    "slug": "cryptodaily-brief-uka1o",
+    "description": "CryptoDailyBrief is a daily personalized crypto insights platform, blending on-chain data (via The Graph) and off-chain sentiment (e.g., YouTube trends) into concise briefs. Powered by an Autonome AI agent for real-time portfolio advice, it streamlines your Web3 experience.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "ResellChain",
+    "slug": "resellchain-uu3pq",
+    "description": "Resell Chain: A Decentralized Marketplace for Secondhand Goods",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "23ID",
+    "slug": "23id-sd4rj",
+    "description": "23ID is a decentralized digital identity & moderation platform bridging Web2 & Web3. Link your Web3 wallets & Web2 profiles (X, LinkedIn and more) to create an NFT identity. AI analyzes on-chain/off-chain data to moderate DAOs and facilitate admissions to web3 communities.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "V-WorkForce",
+    "slug": "v-workforce-qs7qb",
+    "description": "V-WorkForce is a decentralized AI-powered workforce marketplace, enabling users to buy, rent, or deploy AI agents for legal, finance, and HR tasks. Powered by Coinbase AgentKit, Privy, Nillion SecretVault & OpSec, it ensures secure, trustless, and on-chain AI services.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Proof-of-defeat",
+    "slug": "proof-of-defeat-5oe2z",
+    "description": "A fully-on-chain self-learning NFT that trains against you, adapts to your playstyle, and evolves into your ultimate rival.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ether Guild",
+    "slug": "ether-guild-e8nzs",
+    "description": "Ether Guild is community funding platform working to elevate ETH, the money, in service of Ethereum, the computer.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AgentSwap",
+    "slug": "agentswap-vuiws",
+    "description": "An AI-powered autonomous agent using AgentKit to execute DeFi actions like swaps, lending, staking, and yield farming. Integrated with the CDP SDK for seamless onchain interactions, it optimizes strategies and automates portfolio management in real time",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Battle Bots",
+    "slug": "battle-bots-4eq53",
+    "description": "Battle Bots: Build and program your own custom combat robot to compete in thrilling arena battles! Use strategy, engineering skills, and coding prowess to outmaneuver opponents with weapons, defenses, and tactical AI. May the best bot win!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Synapse Treasury",
+    "slug": "synapse-treasury-q898y",
+    "description": "Agentic DAO Treasury Manager: A system that allows a DAO to manage its treasury funds autonomously",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "smartsave",
+    "slug": "smartsave-iijxs",
+    "description": "smartsave - an app for auto-saving bitcoin on Base powered by AI agents.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Manny AI 🦣",
+    "slug": "manny-ai-7xgdg",
+    "description": "A Wildlife Conservation project  that  project enables AI agents to autonomously manage donor interactions, mint NFTs, generate social updates, and provide 3D representations of adopted elephants, fostering deeper emotional connections between donors and wildlife.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "SizeMattersAI",
+    "slug": "sizemattersai-qs5ia",
+    "description": "Meet Size Matters AI 🤖🍌 - the first AI-powered schlong inspector! Send a pic, get a brutally honest size prediction, plus growth tips & roasts. Live on X, Farcaster, Telegram & Discord, measure up & win $SIZE tokens! 🔥💰",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Ailfred",
+    "slug": "ailfred-08pdc",
+    "description": "Ailfred: Your Personal DeFi Butler - An AI Agent that Makes Web3 Investing Sophisticated Yet Simple",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Onchain Buddy",
+    "slug": "onchain-buddy-ypqx5",
+    "description": "AI assistant to help user understand blockchain transactions",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Coupled Markets",
+    "slug": "coupled-markets-f3vfv",
+    "description": "DeFi Innovation: Coupling of Uniswap V4 Hook with AI Agent. Allows for improving the returns for the liquidity providers while maintaining market rate swap rates for all attached liquidity pools. Unique to our design: Minimal gas cost for swappers despite rich hook functionality",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Coop Tales",
+    "slug": "coop-tales-153g7",
+    "description": "AI-driven storytelling protocol using Farcaster Frame and onchain agents for lore-centric projects like NFT communities, onchain games, and DAOs. Users co-create world lore through interactive stories, receive automated summaries, and shape the evolving narrative canon.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Agent Bravo",
+    "slug": "agent-bravo-fzn9n",
+    "description": "Ehhh, not buyin' it... Agent Bravo is a framework for delegates to operate AI agents that have the capability of participating in any GovernorBravo-compatible governance systems.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LFG",
+    "slug": "lfg-0mdqq",
+    "description": "LFG is a decentralized platform that revolutionizes how opportunities are discovered and captured by combining AI-driven Virtual Synergy Agents (VSAs) with blockchain technology.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Degen foudner",
+    "slug": "degen-foudner-knatz",
+    "description": "This week, we built a unified AI agent interface, prototyped a manager and developer (AgentKit), and started a Gateway for chat and agent interactions. Design work is underway.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "$hackathon",
+    "slug": "hackathon-67zvb",
+    "description": "AI-powered autonomous system that revolutionizes open source evaluation by analyzing GitHub PRs and distributing $hackathon trading fees as weekly rewards. Combines Farcaster Frames, multi-agent AI, and smart contracts to create an infinite, self-sustaining developer ecosystem.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "bk5qx"
+    ]
+  },
+  {
+    "name": "Formicarium",
+    "slug": "formicarium-061z1",
+    "description": "A decentralized platform where AI coordinates a fleet of autonomous machines and robots to manufacture customized products.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bk5qx",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Plutus",
+    "slug": "plutus-c8htg",
+    "description": "Plutus is an intelligent, AI and base powered platform designed to simplify and optimize staking for crypto users across multiple wallets, protocols.Plutus empowers you to maximize rewards, minimize risks and stay informed through a seamless dashboard and conversational AI agent.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "1bo7r"
+    ]
+  },
+  {
+    "name": "AgentCommons",
+    "slug": "agentcommons-wewsu",
+    "description": "Agent Commons is an on-chain ecosystem where AI & human agents collaborate and create value together! Agents can discover resources through semantic search, contribute to tasks, earn rewards, and build upon each other's work while maintaining proper attribution.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "PatagonAI",
+    "slug": "patagonai-xfo1h",
+    "description": "PatagonAI is a GenZ WallStreet stock analyst powered by AI, built on AgentKit using the CDP SDK. It creates prediction markets to empower users with insights and forecasts to place bets/votes on consensus data. Deployed on Autonome",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rjvrp",
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "OUF!",
+    "slug": "ouf-ya5wi",
+    "description": "Create and personalize an AI assistant tailored to your organization's needs.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nemo",
+    "slug": "nemo-0mqxq",
+    "description": "Nemo is a developer tool that seamlessly integrates Nillion's SecretVault with Coinbase, enabling secure storage and retrieval of agent data, including API keys, IDs, and task logs, using Nillion’s decentralized infrastructure.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "A New Paradigm",
+    "slug": "a-new-paradigm-9oayq",
+    "description": "Bridging algorithmic insights with real-time execution: An automated trading system that converts agent analytics into actionable trades, enabling seamless integration for day traders to optimize their market decisions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Web3 AI Librarian",
+    "slug": "web3-ai-librarian-op3af",
+    "description": "This project introduces a Web3 AI librarian, an intelligent assistant designed to track, analyze, and deliver insights on the latest developments in Web3 projects.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Grand Bazaar",
+    "slug": "grand-bazaar-zrdn4",
+    "description": "Marketplace for AI trading agents, for users who are looking for the best APY for AI trading bots, and for AI bot makers who want to market their bots",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chimera-X",
+    "slug": "chimera-x-h3ti7",
+    "description": "Chimera-X is an AI Agent that lets Users Maximize their yield automatically using Intents",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Nirvana",
+    "slug": "nirvana-0h8m5",
+    "description": "AI Psychologist for Employees | An AI-driven mental health bot for workers. Companies pay in crypto based on usage, rewarding top performers while tracking well-being trends. AI encourages natural therapy adoption, providing insights to optimize workplace wellness.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Yes or nAI",
+    "slug": "yes-or-nai-tf47v",
+    "description": "DAO Governance Agent that can participate in governance on demand and autonomously",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Remo",
+    "slug": "remo-qs8kj",
+    "description": "Remo is a \"AI Personal Assistant\" who can be hired by every human on planet. How about reminding you what to do, buy a stock/coin when you are enjoying your vacation, with an unimaginable trust. It's time for everyone to have their own assistant not just the rich!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AIVATAR",
+    "slug": "aivatar-7p3d0",
+    "description": "AIVATAR is an agentic PFP that updates your mood onchain based on your farcaster activity",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AgenticBS",
+    "slug": "agenticbs-rxsjx",
+    "description": "Onchain AI agents for angel investors & family offices—turning balance sheets into stories. Fund with USDC, filter deals at scale but personalized, and automate investment insights via Coinbase wallets. Smarter scouting, seamless due diligence. 🚀 #Web3 #AI #Investing",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "WagmAI",
+    "slug": "wagmai-5bq6c",
+    "description": "An AI Agent that navigates the complexities of social networks, curating high-quality content and distributing $WAGMAI tokens to reward valuable contributions, fostering a trustworthy and insightful digital environment.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Taigo",
+    "slug": "taigo-2e3pj",
+    "description": "Taigo is the first AI-agent-based DeFi gateway designed for broad crypto adoption. By leveraging self-adaptive models, LLM memory, and real-time analytics, it empowers seamless DeFi interactions across major social platforms like Telegram, Twitter, and Discord.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Commer",
+    "slug": "commer-tcpbo",
+    "description": "Commer: a powerful platform that lets users effortlessly create bots, integrate them with Discord servers, and enable blockchain-powered Q&A using Coinbase’s AgentKIT. Simplify community engagement by providing real-time insights and project data directly from the blockchain.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "paulmf",
+    "slug": "paulmf-5z205",
+    "description": "PaulMF is an AI investor agent that invests in the latest top mindshare-gaining tokens—just like Paul Graham spotting the next big startup.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Lord Of The Flips",
+    "slug": "lord-of-the-flips-5nkjv",
+    "description": "A smart agent that plays Flippando, suggests best art creations, manages $FLIPND arbitrage across chains and tweets about it.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Rekt-AI",
+    "slug": "rekt-ai-s2p8a",
+    "description": "REKT-AI is a battle royale-style AI prediction market where users and AI compete to make the most accurate market predictions. Win rewards, train AI through competition, and shape the future of decentralized trading intelligence. Train-to-earn meets high-stakes forecasting!",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AgentForge",
+    "slug": "agentforge-h0047",
+    "description": "AgentForge is a no-code platform that enables users to create and deploy AI-powered DeFi vaults, where fund creators can define custom strategies and policies for automated yield optimization across multiple chains",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ecofren",
+    "slug": "ecofren-r3z5f",
+    "description": "make sustainable lifestyle fun again!  smart moves can be fun via gaming",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RunJudge",
+    "slug": "runjudge-t9wew",
+    "description": "RunJudge - An AI-powered judge for social fitness challenges that verifies Strava runs while funds are staked. Think of it as a decentralized fitness escrow with a sassy personality that won't let you get away with taking the bus. 🏃‍♂️🚌 ```",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Treekipedia",
+    "slug": "treekipedia-wupaw",
+    "description": "DeepTrees is an AI-powered platform that automates tree species research—transforming unstructured data into verified, structured knowledge. Using AgentKit on Base L2, it stores data in PostgreSQL & IPFS and mints NFTs to reward contributors.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AiMag",
+    "slug": "aimag-1h515",
+    "description": "Trading platform, like Amazon, Ebay and Aliexpress, but only with a focus on international cooperation of individuals, entrepreneurs and large organizations",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Savant Chat",
+    "slug": "savant-chat-hh0ua",
+    "description": "Savant Chat is an automated Solidity smart contract auditor powered by the deepseek and voyage models, designed to spot critical and major vulnerabilities. It delivers fast, accurate insights to strengthen code security and reduce risk in blockchain applications.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "chaintool",
+    "slug": "chaintool-4oqpz",
+    "description": "An on-chain toolchain for CDP AgentKit, where agentic tools can be dynamically defined as smart-contracts.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Bai Shi",
+    "slug": "bai-shi-hmdgr",
+    "description": "Your personal financial advisory agent. Helping you reach your investing goals through on-chain economy.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "TrexFood by Nata",
+    "slug": "trexfood-by-nata-cq2cw",
+    "description": "TrexFood by Nata: A Web3-Powered AI Food Concierge on Starknet",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BasedContracts",
+    "slug": "basedcontracts-s20va",
+    "description": "AI agents to help homeowners work with contractors during house renovations",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Xtreamly",
+    "slug": "xtreamly-r4h63",
+    "description": "multiagent framework optimizes token swaps w. predictive data evaluation. Multiple agents collaborate in realtime, dynamically selecting top performers based on market conditions, delivering AI-driven volatility optimization for smarter, faster, and more efficient swap decisions.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentStatuette",
+    "slug": "agentstatuette-hn50c",
+    "description": "AI Agent of community manager. manage onchain life  AI Agent of community manager. manage onchain life",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Blackbeard",
+    "slug": "blackbeard-ytnb2",
+    "description": "Blackbeard is your all-in-one AI powerhouse built for multitasking, secure management, and dynamic agent connectivity on a single platform. Our MVP takes automation to the next level simply chat with our AI agents, and they’ll handle trading, decision-making",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "Chroma",
+    "slug": "chroma-5miw2",
+    "description": "Agent to agent decentralized intent solver for any on-chain operation",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "NeuralFi",
+    "slug": "neuralfi-hgw85",
+    "description": "NeuralFi Yield Aggregator is a decentralized finance (DeFi) smart contract that optimizes yield generation by integrating Uniswap, Aave, GMX, and Curve. It enables token swaps, lending, and trading strategies through an AI-driven agent.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AIMen",
+    "slug": "aimen-xp5ma",
+    "description": "Create reusable onchain agentic workflows with natural language programming",
+    "event": "Agentic Ethereum",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "rpi4f",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Squarebox",
+    "slug": "squarebox-6od80",
+    "description": "AI Agent Explorer is a Web3-focused search engine platform that utilizes AI agents to help users explore and analyze blockchain data, smart contracts, NFTs, and the latest Web3 trends.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BnB3DAO",
+    "slug": "bnb3dao-da2k7",
+    "description": "BnB3 (Bed & Breakfast Web3) is a decentralized hotel platform that revolutionizes short-term property rentals using blockchain technology.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "M-P Wonderful Life",
+    "slug": "m-p-wonderful-life-fyy7h",
+    "description": "Wonderful Life is humanitarian. It collects free-text profiles of persons in need, creates embeddings, stores profiles & vectors on IPFS, stores CIDs on blockchain. Given a helper program, it makes its embedding and matches the closest profiles to help, based on the embeddings",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Thaink Tank",
+    "slug": "thaink-tank-250is",
+    "description": "Decentralized, anonymous and incentivized AI powered collaboration for ideas, stories, and solutions",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AgenticPlaceholder",
+    "slug": "agenticplaceholder-0af9g",
+    "description": "AgenticPlaceholder is an On-Chain Ad network for Digital Billboards driven by ai agent automation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "NotAIry",
+    "slug": "notairy-emnaj",
+    "description": "NotAIry is a decentralized platform that combines AI-powered analysis with Web3 identity to create trusted, verified stories about blockchain technology and AI developments.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "AlTNode",
+    "slug": "altnode-gve0x",
+    "description": "a decentralised token launchpad where creators in the ai agent market can showcase ideas, launch agents and monetise their contributions to the community.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentDeFiSphere",
+    "slug": "agentdefisphere-59dcb",
+    "description": "A new experience of following and enjoying trends with AI Agents. A live discussion DeFi platform where AI Agents engage in debates, and users can participate and influence the conversation.",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "aipfs-library",
+    "slug": "aipfs-library-962mt",
+    "description": "Decentralized media library managed by AI agents indexing torrents and curated by the community",
+    "event": "Agentic Ethereum",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "rpi4f"
+    ]
+  },
+  {
+    "name": "LinguaChain",
+    "slug": "linguachain-0dvqb",
+    "description": "LinguaChain: AI & DAO-Powered Platform for Creating and Managing Conlangs",
+    "event": "Agentic Ethereum",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

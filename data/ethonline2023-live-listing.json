@@ -1,0 +1,4872 @@
+[
+  {
+    "name": "Procodes",
+    "slug": "procodes-qt5t6",
+    "description": "A Solidity smart contract-powered fundraising platform using Ethereum, React.js, and Foundry for efficient, secure, and transparent fundraising campaigns.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "volatility-fee-hook",
+    "slug": "volatility-fee-hook-yd3ce",
+    "description": "volatility fee hook is to reduce impermanence loss. As a result, liquidity increases, which also benefits users.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "NextIdWorld",
+    "slug": "nextidworld-qt2yh",
+    "description": "Example of  a game where you use NextId to log in , and you can store data related to your avatar",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "TG Payments",
+    "slug": "tg-payments-qmmq5",
+    "description": "Creating full onchain txs via telegram mini apps. You create a swap and then execute via the app",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "WhoDapp",
+    "slug": "whodapp-uo6eh",
+    "description": "privacy face scanner removing your digital footprint and creating privacy filters",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Noir LSP Doc Symbols",
+    "slug": "noir-lsp-doc-symbols-mvkyo",
+    "description": "Implemented textDocument/documentSymbol for nargo/noir LSP in the main noir repo's LSP crate",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "Route",
+    "slug": "route-i7rc8",
+    "description": "Ensuring authenticity, elevating supply chain operations: Provenance powered by Route",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "PlayVerse",
+    "slug": "playverse-uhi91",
+    "description": "Ann immersive, impartial and inclusive Web3 Game Streaming & Community Management Platform",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "MyCrowdfunding",
+    "slug": "mycrowdfunding-06foj",
+    "description": "A smart contract in solidity for crowdfunding projects. Using this anyone can raise funds for their crowdfunding projects.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "xCat",
+    "slug": "xcat-93q1c",
+    "description": "The Cross Chain NFT Cat Feeding Game lets users care for their NFT cats across different blockchain habitats. They can send food tokens to nourish their cats, enhancing their well-being and creating an engaging experience for collectors.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AxeWallet",
+    "slug": "axewallet-9zqmb",
+    "description": "Your Assets Your Chain Your NFT Your Preference, next time save your preferences before receiving assets",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Skill Link",
+    "slug": "skill-link-rjzdr",
+    "description": "Skill Link is here to reshape the freelancing landscape, making it a win-win for all parties involved",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Web3Agent",
+    "slug": "web3agent-t6vjn",
+    "description": "Web3Agent simplifies your crypto journey! No more technical hassle – manage blockchain transactions through easy chat. Create , do transcation, defi opration and audit smart contracts with AI-assisted prompts. Dive into Web3 with confidence and ease",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "SudoChain",
+    "slug": "sudochain-n8r5h",
+    "description": "Solve, submit, overplay your competitors and get an NFT! All deployed on state of art Layer 2s.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "CCTTRPG",
+    "slug": "ccttrpg-y6do0",
+    "description": "The aim of this project is to create a decentralized crosschain tabletop experience!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Shout Protocol",
+    "slug": "shout-protocol-7fik4",
+    "description": "Shout protocol is a social media platform that lets user boost their content reach with yield.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Storylok",
+    "slug": "storylok-ptwry",
+    "description": "World's first AI powered text-based RPG game that rewards tradable NFT memories on Scroll",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "NomadBooking",
+    "slug": "nomadbooking-y1emg",
+    "description": "Digital nomad hostel booking system. We help nomad to match their idea homes.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkSwap",
+    "slug": "zkswap-d4rfo",
+    "description": "zkSwap leverages the zkERC20 proposal to offer not just asset movement obfuscation, but also complex swap tracking between multiple assets, ensuring superior privacy for users. 🔒💱 #zkSwap #PrivacySwap",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BINGO",
+    "slug": "bingo-5iucu",
+    "description": "BINGO is a decentalized elivery platform for ecommerce or social markets that allows for smooth end to end delivery flow and dispute resolution",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "CrossSync Protocol",
+    "slug": "crosssync-protocol-da47b",
+    "description": "Cross chain Messaging Aggregater Protocol. Interact with Hyperlane, Connext, Wormhole, Axelar, CCIP from a single gateway",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Scroll CoinFlip",
+    "slug": "scroll-coinflip-nrqn8",
+    "description": "Revolutionize gaming with our Blockchain Coin Flip Game! Trust the blockchain for tamper-proof results, automated payouts, and a fair, decentralized gaming experience.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Botblock",
+    "slug": "botblock-vujsi",
+    "description": "With the rise of AI, the general public is now aware of it and how much money companies are making/loosing out of it.  But how do they gather information to keep relevant and up to date? keep looking into this project to find out",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "DAO",
+    "slug": "dao-wsnoe",
+    "description": "DelegatedDAO is a cutting-edge blockchain-based project that empowers decentralized decision-making and governance.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "RP3G",
+    "slug": "rp3g-ui7om",
+    "description": "It is a WIP but I am creating a game to practice my skills in Web3",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalletWise",
+    "slug": "walletwise-xqb6d",
+    "description": "WalletWise: Streamline group expense sharing. Create groups, import profiles, and divide expenses across chains with ease. Secure data storage, push notifications.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Artrack",
+    "slug": "artrack-fz2dn",
+    "description": "Revolutionizing music sharing with decentralized ownership and secure data storage. Experience the future of music with us! 🎶",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Databuff",
+    "slug": "databuff-k1f0c",
+    "description": "Engage provides a platform for creators to track audience metrics and analytics",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Borrow-Lending",
+    "slug": "borrow-lending-g97k3",
+    "description": "Cross-chain application, users can borrow and lend tokens. First users need to stake their assets and then they will receive tokens in exchange which they can use in the cross-chain ecosystem",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "3Jocks",
+    "slug": "3jocks-ywshn",
+    "description": "Revolutionizing NFT ownership by harnessing the power of Safe's Account Abstraction making NFT ownership accessible to everyone.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "NexArb",
+    "slug": "nexarb-7qtvx",
+    "description": "Cross-Chain Yield Aggregator. Allows users to collect and gain the best yield across platforms in different chains.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hyperlane Autopilot",
+    "slug": "hyperlane-autopilot-8c0ej",
+    "description": "AutoPilot Hyperlane is a tool which automates deployment of hyperlane and warp routes to chains and generates a warp route web app url for the same",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "AnswerNFT",
+    "slug": "answernft-ifjko",
+    "description": "Minting Qusetions, Riddles and Puzzles as NFTs and sellingownerships via solutions!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "UniProfile",
+    "slug": "uniprofile-dkr49",
+    "description": "Uni-Profile is a versatile and efficient project designed to retrieve user profiles from a wide range of domains. It offers a seamless and unified solution for collecting, organizing, and presenting user information",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhostPay",
+    "slug": "ghostpay-od9f1",
+    "description": "Send and receive crypto to anyone privately with just a link",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Splitty",
+    "slug": "splitty-fhobv",
+    "description": "Payment splitter written in Solidity for the Ethereum network",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKcoin",
+    "slug": "zkcoin-sb6dz",
+    "description": "A USD - pegged stablecoin on Scroll with ZK proofs of identity using Sismo, payments through Stripe. Our goal is to privacy-focused stablecoin on Scroll that uses ZK-proof from Proof of Identity using Sismo.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Auditopia",
+    "slug": "auditopia-pzybc",
+    "description": "A decentralized smart contract auditing platform for the budding security engineers.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "SnapLink",
+    "slug": "snaplink-j2v75",
+    "description": "Snaplink is a social Dapp featuring UMA-powered ad verification and XMTP-based chat functionality for a secure and engaging experience.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "ZaapBot",
+    "slug": "zaapbot-keikp",
+    "description": "Optimistic Oracles for trustless prediction markets fully onchain",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "chainrift",
+    "slug": "chainrift-3vv5o",
+    "description": "ChainRift is a groundbreaking Web3 Ethereum project, redefining the future of decentralized finance",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ProFi",
+    "slug": "profi-eg2xz",
+    "description": "Welcome to ProFi, the ultimate platform designed to simplify crypto trading for newbies. Our risk-adjusted safeness scores, calculated through a highly accurate algorithm, ensure a hassle-free trading experience.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "LandChain",
+    "slug": "landchain-ikvdb",
+    "description": "\"LandChain\" refers to a blockchain-based system or platform specifically designed for land registry and property management purposes.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XMTPNotifi",
+    "slug": "xmtpnotifi-byjao",
+    "description": "Linking XMTP and Notifi service to help users receive a web3 service notification on receiving an XMTP message",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScrollLend",
+    "slug": "scrolllend-n0yb0",
+    "description": "Welcome to ScrollLend! It's your ticket to secure and flexible financial services on the \"Scroll Sepolia\" testnet blockchain. Whether you're a borrower or a lender, we've got you covered with our user-friendly DeFi smart contract.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "SplitPayment via TBA",
+    "slug": "splitpayment-via-tba-n5mef",
+    "description": "A portal where user can choose to pay for a transaction using multiple account",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HyperTrack",
+    "slug": "hypertrack-tstzx",
+    "description": "Hypertrack is a diagnosis and analytics platform built for hyperlane interchain deployments.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tic-Tac-Chain",
+    "slug": "tic-tac-chain-pbhoo",
+    "description": "Unleash the Power of Cross-Chain Tic Tac Toe: Where Blockchain Meets Classic Fun!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "v9u3u"
+    ]
+  },
+  {
+    "name": "MoonHub",
+    "slug": "moonhub-19y08",
+    "description": "MoonHub is a groundbreaking blockchain-based git repository that leverages IPFS for decentralized storage and Arcana authentication for enhanced security, enabling developers to collaborate on coding projects with transparency and trust.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Loyo",
+    "slug": "loyo-05xdt",
+    "description": "Loyo is the loyalty program infrastructure.  No personal data required to get and spend loyalty rewards, all loyalty opportunities at one place. For businesses: 500x less infrastructure costs and open decentralized data with endless insight opportunities.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Resolve Protocol",
+    "slug": "resolve-protocol-cu6r7",
+    "description": "Resolver, which resolves hacked wallet address to your new wallet address. Preserves your web3 history. No-matter you had 100s of hacked wallet. It will still resolve to your 101th, start from any number.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Parently",
+    "slug": "parently-zbatf",
+    "description": "Revolutionizing parental support in Tunisia with our blockchain-powered app, connecting families for carpooling and more while ensuring regulatory compliance.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lifafa.xyz",
+    "slug": "lifafa-xyz-8wp81",
+    "description": "About A simple gamified campaign bringing the traditional red envelope gifting into the digital payments world.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Blockmail",
+    "slug": "blockmail-fhnky",
+    "description": "Blockmail is a decentralized mail system, where you can send and receive mails using wallet addresses, ensuring secured and decentralized data transactions",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alumni Trust",
+    "slug": "alumni-trust-7ypdu",
+    "description": "Alumni Trust education data app empowers institutions to publish student records on the blockchain using IPFS and the Graph protocol. Users can run instant background checks with just two parameters, ensuring data integrity and privacy.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scroll-Fund",
+    "slug": "scroll-fund-scy19",
+    "description": "Scroll-Fund is a platform where user can create on chain profile and incentivize.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "401Chain",
+    "slug": "401chain-7k7wt",
+    "description": "401Chain is a Decentralized pension Dapp based 401(k) Pension scheme",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "CircleChange",
+    "slug": "circlechange-k07ut",
+    "description": "A Dex platform without need to pay gas in native token , you can easily exchange your token in a newly created wallet or first time in another network",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "AWEI",
+    "slug": "awei-z327t",
+    "description": "Enhance market incentives in Autonomous World (AW) by seamlessly recording contributions as NFTs through on-chain data, fostering a dynamic ecosystem. Additionally, identify and compensate MEV victims with tokens for Uniswap v4 pool access, promoting fair play and innovation.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Event Mint",
+    "slug": "event-mint-m3u4e",
+    "description": "Simple web3 event app where you can stake to block your spot for the event",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Art & Chai",
+    "slug": "art-and-chai-iysp5",
+    "description": "Art & Chai is a transparent decentralized dating app where users will get their matches based on their skills and creativity.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "CaseChain",
+    "slug": "casechain-6n6wy",
+    "description": "CaseChain is a blockchain-based evidence management system to prevent manipulation in courts.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GitGift",
+    "slug": "gitgift-rr8ch",
+    "description": "GitGift: Reward open-source heroes with Polygon Matic or Ape Coin donations 🎁 Gasless claims via ERC-4337 & verify with Sismo Connect. Built with React, Node & Thirdweb. #Web3 #OpenSourceLove",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cartesign",
+    "slug": "cartesign-970cp",
+    "description": "CarteSign is a Handwritten Biometrics tool which can bring old school security to the world of Digital signature based smart contracts.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AA Dashboard",
+    "slug": "aa-dashboard-c31zc",
+    "description": "Check the complete history of any Safe{Wallet} address for any chain",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTLoyalty",
+    "slug": "nftloyalty-4nas1",
+    "description": "Empowering brand loyalty with NFTs: Enhance user engagement through digital rewards and experience seamless, gasless transactions.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniDAO",
+    "slug": "unidao-8t271",
+    "description": "This project offers university DAOs a template to onboard members using Privy's wallets on Scroll. It simplifies crypto for students, promoting on-chain engagement with a Web2 approach.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EzPay",
+    "slug": "ezpay-rj5ne",
+    "description": "A dApp that can enable users send, receive red envelopes across your favorite chains.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Invoicify",
+    "slug": "invoicify-t7o38",
+    "description": "Ride on the highway of Interchain transactions with Invoicify",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "SimpleDao",
+    "slug": "simpledao-og4wm",
+    "description": "The DAO smart contract is a decentralized organization on a blockchain, enabling members to create, vote on, and execute proposals for transparent and collective decision-making and resource management.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Butterfly",
+    "slug": "butterfly-7nyuz",
+    "description": "Butterfly a SocialFi web application using Account Abstraction to create a monetized version of tiktok",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CopyBallot",
+    "slug": "copyballot-m2pfh",
+    "description": "Generates calldata required for diva token voting from Rocket Pool node",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shadow",
+    "slug": "shadow-cx729",
+    "description": "Transfer Funds anonymously on the Blockchain without reveling your real address",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PatronStaking",
+    "slug": "patronstaking-rcsuy",
+    "description": "A patron platform that encourages long-term activities by staking USDC on individuals such as OSS contributors, public goods builder, and researchers working in DAO forums. Will be a public good and new ERC standard; NO management fee",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "MoveFlow",
+    "slug": "moveflow-ceo16",
+    "description": "MoveFlow is a programmable payment protocol that enables pre-defined transaction rules based on time and events.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "GrapeVine",
+    "slug": "grapevine-zbs9j",
+    "description": "GrapeVine: A chat app where friends can easily send messages and make ETH transactions. Say goodbye to address copying and welcome secure real-time crypto conversations.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GeekGather",
+    "slug": "geekgather-gpu4m",
+    "description": "GeeksGather: Where like-minded tech enthusiasts unite in gated communities, verifying expertise and fostering genuine connections. Join us to expand your network and knowledge.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "LIT Memories",
+    "slug": "lit-memories-ow98o",
+    "description": "An application built using LIT Protocol and deployed on Scroll network by using which anyone can create encrypted NFTs in few seconds.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Web3Property",
+    "slug": "web3property-wuv5f",
+    "description": "Web3 property sales platform using NFTs. Automate the sale and transfer of your properties.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BiPrompt",
+    "slug": "biprompt-ij860",
+    "description": "A decentralized image prompt marketplace to securely manage and license prompts.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "AnonYSurf",
+    "slug": "anonysurf-5f1mt",
+    "description": "Leveraging web2 Social with Anonymous Authentication and Verification",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "ZK Reports",
+    "slug": "zk-reports-vovbc",
+    "description": "ZK Reports: Elevating document verification to a new level of security and privacy, revealing only what’s necessary, and protecting what matters most.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Samurai",
+    "slug": "ai-samurai-gvpzu",
+    "description": "AI Samurai: Decentralized Hackers to Make AI SaferHarness global perspectives for unbiased AI assessment. Dive into an inclusive AI future, beyond closed doors.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Happy Planet",
+    "slug": "happy-planet-wd5s8",
+    "description": "Happy Planet trains different styles of AI models for artists, and users generate their favorite NFT avatars through smart contracts and drawings.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "All Hail Hades",
+    "slug": "all-hail-hades-9f0ri",
+    "description": "A novel Gnosis SAFE module for blockchain-based inheritance, utilizing Lit Protocol encryption and automated verification of user activity. Ensures secure and timely transfer of signer rights upon prolonged inactivity, potentially indicating the user’s demise.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Protecc",
+    "slug": "protecc-w9gak",
+    "description": "Create pools on Uniswap V4 and automatically use Spark Protocol to maximize yield for LPs.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t4tb4",
+      "hoadp",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Citizen",
+    "slug": "citizen-1o8yd",
+    "description": "Citizen is a Anonymous Aadhar Verified Crypto Web3 Compliant Wallet",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DevMate",
+    "slug": "devmate-k6rkd",
+    "description": "DevMate: Find your dream hack team, and turn your ideas into winning innovations!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "PRIDE APP",
+    "slug": "pride-app-ekqcg",
+    "description": "Our solution leverages a combination of proof of ownership via Zero Knowledge and the secure storage of transactions on L2 to facilitate private transactions within any blockchain network.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Clovers",
+    "slug": "clovers-6gdex",
+    "description": "Clover is a DAO framework for the FVM, built with the aim of reducing latency, and enabling storage for DAOs.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "SalaryFi",
+    "slug": "salaryfi-yb1uk",
+    "description": "\"Introducing 🚀 SalaryFi: Dive into the DeFi world and access your earned salary ahead of time! Tokenize invoices, borrow DAI, and manage finances seamlessly. Why wait for payday? The future of salary is here!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Xeno",
+    "slug": "xeno-twtub",
+    "description": "Xeno, a dApp on the Scroll Blockchain, enables communities to easily create/manage decentralized top-level domains (dTLDs) like \".eth\" without coding. It offers a user-friendly interface, making dTLD management accessible to all, regardless of technical expertise.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "DeFiDiversify",
+    "slug": "defidiversify-zd100",
+    "description": "Maximize sDAI yields with diversification. 🔄 Seamlessly connect to MakerDAO's liquidity via SparkConduits. Automate and optimize your DeFi investments. 🚀",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HyperSafe",
+    "slug": "hypersafe-0yopy",
+    "description": "One stop solution for all your cross chain needs. A seamless cross chain native token swap.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Faucetation Station",
+    "slug": "faucetation-station-kp09n",
+    "description": "FaucetationStation: A community-owned, bot-resistant faucet service for blockchain developers. Buidl without the drain! #Autonolas #Gnosis #IPFS",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "yip67"
+    ]
+  },
+  {
+    "name": "CryptoCounsel Pro",
+    "slug": "cryptocounsel-pro-3zh48",
+    "description": "Empowering Your Financial Future on Web3: Seamless, Secure, and Smart.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "La Cartera",
+    "slug": "la-cartera-go3wz",
+    "description": "\"La Cartera\" is a smart contract wallet that makes sending and receiving pesos (and other crypto) in Mexico, as easy as a SPEI (Bank ACH transfer equivalent).",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FreeMerchant",
+    "slug": "freemerchant-z9y56",
+    "description": "The definitive App for crypto financial inclusion in crisis countries.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "LancersZK",
+    "slug": "lancerszk-wcv5k",
+    "description": "A Cross-chain, Privacy-Preserving Gig Marketplace with Verifiable Credentials",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Project C",
+    "slug": "project-c-y6m3x",
+    "description": "Dive into the cosmic engineering that propels your personalized galaxy of knowledge.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Swigg Tickets",
+    "slug": "swigg-tickets-5z1gf",
+    "description": "A virtual events and community platform with microaccess and gated community access and discounts. Using decentralized storage to permanently store the best educational material.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "DinoGame",
+    "slug": "dinogame-sgmbq",
+    "description": "You play this game and if you score above certain score then you earn tokens.  You can then use those tokens to buy ad space in the game.  This can give the token some value and incentivise people to play more.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Sav3r",
+    "slug": "sav3r-7eq6g",
+    "description": "Sav3r the Dapp that uses blockchain to combat food waste. t's a real answer to the problem of food waste. Operating on the Ethereum, Polygon and Scroll chains, our Dapp is powered by our own SV3R token, an ERC-20 inherited from BAYC..",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "RWA-Conduits",
+    "slug": "rwa-conduits-wa3ki",
+    "description": "Conduits for Real World Applications , starting with Home Loans with lower Interest!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "locker room",
+    "slug": "locker-room-ep4ur",
+    "description": "Save L1 rollup cost by utilizing calldata cache smart contract",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Za Waarudo",
+    "slug": "za-waarudo-6eyi7",
+    "description": "Trustless subdomain using Worldcoin on Optimism network implementing EIP-3668",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Forta",
+    "slug": "forta-fqz18",
+    "description": "Create a Multi-Signature Wallet using the Safe-SDK on Polygon zkEVM. This wallet offers enhanced security through multi-signature support, a user-friendly interface, and compatibility with the Polygon zkEVM network, providing fast and cost-effective transactions.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "nflinks",
+    "slug": "nflinks-6335f",
+    "description": "NFLinks is friend.tech but for all NFTs. It will build meaningful links between NFTs with a pricing model like friend.tech, that money goes to the owner of NFT. Thanks to UMA it's chain agnostic atleast EVM chains.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "NFT Collection",
+    "slug": "nft-collection-igm4f",
+    "description": "\"Welcome to ArtVerse Creations! Mint your exclusive NFTs in our presale, or join the public mint event for incredible NFTs, art, and collectibles. Customize, create, and experience the NFT revolution. Join us and be part of the ArtVerse community today!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Audity",
+    "slug": "audity-j130t",
+    "description": "Audity is a B2B system designed for the document auditing process, with a focus on ensuring traceability and preserving the integrity of data and information within the business-to-business (B2B) environment.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "GBP",
+    "slug": "gbp-pco19",
+    "description": "Create token-gated bounties with ERC20/721-based access control.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "10a1v",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Meteoroid",
+    "slug": "meteoroid-vq6nm",
+    "description": "to bridge between two networks - scroll and sepolia , how bridges work in general",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Orderbook Hook",
+    "slug": "orderbook-hook-vsmt9",
+    "description": "A uniswap v4 hook to interoperate both automated market maker and orderbook exchange",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PeerPurse",
+    "slug": "peerpurse-yq3we",
+    "description": "An under-collateralized P2P credit delegation borrowing protocol with verifiable credibility using zkProofs",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Audit Registry",
+    "slug": "audit-registry-qci0s",
+    "description": "A simple dapp to check if the contract you're interacting with has a valid audit!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Supermeets",
+    "slug": "supermeets-kza2j",
+    "description": "Supermeets is a platform designed to ease community-building in the crypto world. By harnessing the power of NFT ownership, it connects crypto enthusiasts, NFT collectors, and blockchain community members through random video chats. It's inspired by the idea of The Network State",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFTHUB",
+    "slug": "nfthub-tp6x2",
+    "description": "NFTHUB is an NFT AI tool where users can mint their pictures as NFTs, use AI to generate Images for NFT, list their NFTs for sale, buy NFTs from other users, and stake their NFTS to earn rewards.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZTF",
+    "slug": "ztf-xnvwb",
+    "description": "Decentralized cross-chain bounty and crisis management protocol.  A.k.a. On-chain ctf with claimable bounty using zero-knowledge proof.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67",
+      "v9u3u",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Safdocs",
+    "slug": "safdocs-e4kg1",
+    "description": "Safdoc is a secure document storage solution that keeps you document safe aas possible by multiple layers of protection like 2FA, Biometric verification.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Irada",
+    "slug": "irada-kiyxt",
+    "description": "Your personal web3 voice assistant to seamlessly enable intent based transaction",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Early Adopters Space",
+    "slug": "early-adopters-space-75zww",
+    "description": "Allow early adopters to help you create the next big thing and be a part of your success",
+    "event": "ETHOnline 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "jzpj5",
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "GRP",
+    "slug": "grp-7sddn",
+    "description": "Pioneers the first ZK trustless Activity Scoring Protocol on the EVM, offering a trustless gas reimbursement solution",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "yip67"
+    ]
+  },
+  {
+    "name": "R Portal",
+    "slug": "r-portal-4zv11",
+    "description": "Rings Portal is a TcpProxy implementation based on the Rings DHT. It allows for the anonymous establishment of tunnels on the network in a centralized manner, aiming to offer decentralized services with enhanced privacy and security.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniLasso",
+    "slug": "unilasso-ety8e",
+    "description": "UniLasso is a hook that is limit order allowing you to sit back and relax!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "safe lock",
+    "slug": "safe-lock-yaw7r",
+    "description": "safe lockdown module, a simple hook that adds an additional layer of protection",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "safeX",
+    "slug": "safex-8gn3f",
+    "description": "Safe-x is a Cross Chain Multisig built using Hyperlane ,Push protocol's Showrunners framework powering Notifications and Circle's CCTP for Cross chain asset sharing.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pager",
+    "slug": "pager-a39t1",
+    "description": "The novel crypto application that melds the vintage charm of pixel art with the cutting-edge capabilities of blockchain technology. In an era where communication is often inundated with countless features, Pager offers a simple yet secure solution for messaging.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "web3supplychain",
+    "slug": "web3supplychain-dd1aj",
+    "description": "A tool to allow maintaining data for different stages of the 3D printing process",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LNX",
+    "slug": "lnx-fyje5",
+    "description": "LNX enables the usage of Linux-powered dApps across all the blockchain ecosystems.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockDrive",
+    "slug": "blockdrive-okmtx",
+    "description": "BlockDrive is a blockchain-based file storage web app using IPFS for decentralized file storage and blockchain for metadata, enabling users to download files from the IPFS network.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zil",
+    "slug": "zil-xickc",
+    "description": "Unlock private transactions with untraceable Stealth Addresses on the mantle and scroll Networks.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "FaceLink",
+    "slug": "facelink-zs2su",
+    "description": "Send messages or tokens to anyone you have a picture of! Instead of remembering wallet addresses, just use their face.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Artemis",
+    "slug": "artemis-dapyu",
+    "description": "Anonymous DAO voting through the use of Polygon ID Verifiable Credentials.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Takara",
+    "slug": "takara-3vu1q",
+    "description": "Takara is a no loss game where you have to find \"Takara the radish\" in the garden to earn the prize",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Decentraclasss",
+    "slug": "decentraclasss-fwo7y",
+    "description": "Decentraclasses is India's Learn-to-Earn ed-tech Platform with staking. Our main motto is to make education courses an asset and decentralise education so everyone can Learn-to-Earn and monetise the learnings by staking their own courses.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "Ape Lucky Coin",
+    "slug": "ape-lucky-coin-uwk1z",
+    "description": "Luck and Support is what we're all seeking during this challenging crypto winter 🍀",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Meteorite",
+    "slug": "meteorite-2tz6q",
+    "description": "Introducing Meteorite 🌠: A pixel arcade sidescroller where players collect coins, dodge meteors, and mint rewards as NFTs and ERC-20 tokens. Engage with others using XMTP and play on Mantle, Filecoin, and Scroll. Dive into a monochrome world of adventure!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "WalletWrapper",
+    "slug": "walletwrapper-fdgeb",
+    "description": "Using Account Abstraction structure for allowing users to be able to use Ethereum with any wallets.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "z2048",
+    "slug": "z2048-4c5fk",
+    "description": "We've built the classic puzzle sliding game 2048 fully on-chain leveraging ZKP (Plonk) for scalable and provably-fair gameplay while preserving in-game information imperfection.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Tribes",
+    "slug": "tribes-y8hnc",
+    "description": "Tribes is the web 3 creator´s economy enabler, helping to build and share value",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "New Year Scroll",
+    "slug": "new-year-scroll-khyxh",
+    "description": "The application ensures a delightful surprise for every user, with each gift set to unveil itself after January 1st. The suspense doesn't just end there. Inside every digital gift is a memorable NFT avatar.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "safebot",
+    "slug": "safebot-jwcz3",
+    "description": "Safe telegram wallet with two factor authentication.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VoteChain",
+    "slug": "votechain-51oqz",
+    "description": "VoteChain is a secure and transparent voting platform designed to revolutionize the electoral process in Nigeria and other African countries.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Want3",
+    "slug": "want3-5wi6z",
+    "description": "Want3 innovates communal wish-granting online, enabling crowdsourced wish fulfillment from group gifts to KOL projects.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Whistec",
+    "slug": "whistec-86zkr",
+    "description": "Library for integrating private Aztec transactions to Web2 Applications.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PlutoniumWallet",
+    "slug": "plutoniumwallet-ud4h0",
+    "description": "Account Abstraction based Telegram wallet. Easily create wallets and do gasless transactions, bundled transactions, onramp, fund transfers, smart contract deployment, multi-account management. Scan QR codes for payments in crypto just like UPI apps, making crypto mainstream.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "BubbleSwitch",
+    "slug": "bubbleswitch-rgiv0",
+    "description": "Dive into new cities with instant community connections and top spots using BubbleSwitch.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Martian Mosaic",
+    "slug": "martian-mosaic-gpqdr",
+    "description": "A gamified NFT Marketplace, focuses on preserving value of NFTs and NFT Projects",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "HyperCompute",
+    "slug": "hypercompute-5fvw1",
+    "description": "Hypercompute: Offload heavy computations to L2 chains, slash gas fees, and boost scalability without compromising security or decentralization. Unleash the power of L2 chains!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Pindependent",
+    "slug": "pindependent-3zvmd",
+    "description": "A composable smart contract, incentive system which pays users of a DeFi app to host its front end on the Filecoin Virtual Machine",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Dual Dialogue",
+    "slug": "dual-dialogue-h1wwp",
+    "description": "Building a platform to encourage dialogue between two sides in potentially controversial topics.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "NFT Vote to Earn",
+    "slug": "nft-vote-to-earn-z5j4o",
+    "description": "This is a NFT floor price voting sytem to earn the prize like airdrop. You can guess the floor price of the NFT collection, up or down. That is it. If you are correct you can get airdrop of the native token listing that NFTs",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "carbonUMArket",
+    "slug": "carbonumarket-zmj5h",
+    "description": "Demo of a Carbon Market where people can trade carbon credits and the credits are verified by validator who can gain capital if they can prove that the institution emitting credits don't deliver their promised carbon offset",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "DeFund",
+    "slug": "defund-97szq",
+    "description": "Defund creates a borderless, community-driven financial ecosystem. A seeker can list their project and can ask for funding from the investors. A voting system is there for checking the legitimacy of the funding.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "iKnowSpots",
+    "slug": "iknowspots-1vqmx",
+    "description": "Event Hosting & Ticketing Platform With NFTs & RSVP Escrow To Improve Event Participation",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Axioms",
+    "slug": "axioms-ztpae",
+    "description": "Axioms provides organizations a one-stop shop for certificate issuance and verification. Organizations are Safe Multi-Sig Wallets. Certificates are stored indefinitely on Arweave and user verification is done with zkProofs via Sismo Connect.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "weaax",
+      "4i0qt"
+    ]
+  },
+  {
+    "name": "UniWel Protocol",
+    "slug": "uniwel-protocol-5yv6c",
+    "description": "Enabling transparent utilsation of goverment schemes and benefits.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "AxelART",
+    "slug": "axelart-04koy",
+    "description": "Unleashing the Future of Social Media, Digital Art NFTs with Seamless Interchain Minting, Web3Auth Login, AI Art Generation, and Real-time pAInt Token Streaming.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Contributors Haven",
+    "slug": "contributors-haven-jh806",
+    "description": "Our project helps communities and projects grow by rewarding contributors who can improve the project and community",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "उत्सव Go",
+    "slug": "go-zkx1b",
+    "description": "UtsavGo is a blockchain-powered platform leveraging NFT technology to revolutionize event ticketing, ensuring authenticity, transparency, and secure peer-to-peer exchanges.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PortAcc",
+    "slug": "portacc-sgnd9",
+    "description": "Create crypto wallet in one click and use all the benefints of web3",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onboardr",
+    "slug": "onboardr-6w4pj",
+    "description": "Experience onboarding innovation with Onboardr. Generate pre-calculated blockchain addresses using socials or email, initiate messaging, payments, and rewards for newcomers. The power to connect before they're onboarded.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "t4bwy",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "AztecGravix",
+    "slug": "aztecgravix-fag8m",
+    "description": "Decentralized perpetual exchange built on ZK-contracts empowering full user privacy",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nhs1x"
+    ]
+  },
+  {
+    "name": "EvmGravix",
+    "slug": "evmgravix-f89r3",
+    "description": "EvmGravix is a derivative exchange that provides the possibility to trading any type of assets, BTC,ETH, Gold and other currencyies",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Plurality",
+    "slug": "plurality-d1o7w",
+    "description": "A web3 onboarding protocol that enables the social media users and content creators to migrate to blockchain based web3 social networks by linking, verifying and aggregating their existing social reputation and interests while preserving privacy using zk-proofs.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flat",
+    "slug": "flat-y09bq",
+    "description": "FLAT is an ensemble of new contracts and dapps that connect together to form DIY CPI inflation hedging products that are fungible, liquid, composable, and cross-chain.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "ClubCast",
+    "slug": "clubcast-2gr03",
+    "description": "ClubCast - a DAO clubhouse where the member have the power to decide the topics members truly care about. Buy a \"club fragment\", vote on the topic and ensure every session you attend is truly worth your time.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Remix For Noir",
+    "slug": "remix-for-noir-4nswg",
+    "description": "Remix For Noir offers a user-friendly interface to write, test, and deploy Noir circuits and their Solidity Verifiers.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "RPS Onchain",
+    "slug": "rps-onchain-bp55v",
+    "description": "This is a simple on chain Rock, Paper, Scissors game where users can have fun challenge other users, win ERC20 point tokens per match, challenge other users stake and win rewards, Earn rare NFTs as achievements.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Leveraged sDAI",
+    "slug": "leveraged-sdai-izyct",
+    "description": "The vault leverages the DAI Savings Vault from Spark through GHO. To optimize for scalability and revenues we use Yarn V3 Vault standard in combination with Paladin's Dullahan protocol to have max discounted GHO. The protocol offer cheap leverage on mainnet using flash-loans.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "Active NFT",
+    "slug": "active-nft-zgxr9",
+    "description": "Experience the future of AI-generated art with OpenAI, Stable Diffusion. Simply prompt the AI to generate unique images, and seamlessly mint them as NFTs in your browser",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "aoq",
+    "slug": "aoq-qy4ow",
+    "description": "AI Agents on the blockchain using XMTP. It's a SaaS product that every user can take advantage of for their business or personal needs!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gas Protocol",
+    "slug": "gas-protocol-46m74",
+    "description": "Gas Protocol: Unlocking gasless on-chain transactions for new Web3 users. Integrate, automate, and secure transactions effortlessly.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkDisperse",
+    "slug": "zkdisperse-gtyvn",
+    "description": "A permissionless zk version of disperse.app to enable any projects or entity looking to disperse funds securely and privately across any chains.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Donate3-InOne",
+    "slug": "donate3-inone-079jo",
+    "description": "Donate3-inone is a cross-chain donation tool that allows recipients to receive donations from different chains on one chain with just a simple configuration. We hope to lower the barrier to using blockchain and make charity+web3 even simpler.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ContractBridger",
+    "slug": "contractbridger-vatb6",
+    "description": "A tool for taking a (verified) contract that is already deployed on one chain, and automatically deploying it on another chain",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unscripted",
+    "slug": "unscripted-pi3a4",
+    "description": "A script writing platform for screenwriters creating movies and looking to monetize them",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Coffee",
+    "slug": "coffee-ox3sc",
+    "description": "RWA Defi App depends on the change in the price of coffee.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Space Command",
+    "slug": "space-command-jdatr",
+    "description": "As a space cadet navigating the DeFi universe, I've found the ultimate spaceship! It's equipped with advanced tools from Mask, XMTP, ZK Rollups, and more, making my journey smoother and safer. Plus, interplanetary achievements and communication are game-changers!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67",
+      "pn953"
+    ]
+  },
+  {
+    "name": "Tap2Pay",
+    "slug": "tap2pay-ohbr2",
+    "description": "Revolutionizing digital transactions with Tap2Pay's Ultrasonic Payment System, making payments as simple as a card tap.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liquisafe",
+    "slug": "liquisafe-mxsid",
+    "description": "Protect your liquidities against price declines, choose the price at which you want to withdraw your cash and protect yourself against major losses.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "IFTTS",
+    "slug": "iftts-1iu50",
+    "description": "If This Then Sign (IFTTS) is a protocol to decentralize the trigger of operations based on multi-chain facts, using Threshold Scheme Signatures (TSS). Flexible to accommodate different use cases from bridges, push alerts, or cross-chain oracles. TSS over Waku = unmatched speed",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "SherLOCKED",
+    "slug": "sherlocked-0ux91",
+    "description": "An FHE based privacy enabling infrastructure for EVM blockchains.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "yip67",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Lit🔥Tornado🌪",
+    "slug": "lit-tornado-9wokg",
+    "description": "Developed Lit Tornado at the hackathon, a mixer app like Tornado Cash but using Lit Protocol - achieving confidential transactions without zero-knowledge proofs!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67",
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "Rio",
+    "slug": "rio-fyams",
+    "description": "A \"pay you back later\" web3 and smart contract product where user can pay each other back in crypto if, say, one friend pays for everyone's Uber",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "TraceItAcross",
+    "slug": "traceitacross-8wxc5",
+    "description": "From farm to cup, from factory to home - TraceItAcross unveils the authentic journey of products with the power of blockchain, ensuring you know the story behind what you buy.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Super Assistant",
+    "slug": "super-assistant-oxsux",
+    "description": "Super Assistant revolutionizes data querying for non-technical users by providing a seamless and intuitive interface that harnesses the power of natural language processing, enabling effortless access to data from Tableland and the graph",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "ChainGuard",
+    "slug": "chainguard-j3cph",
+    "description": "Enable encryption and decryption of data based on a custom combination of cross chain and natural language statements.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 6,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "qy8m3",
+      "4i0qt",
+      "yip67",
+      "yip67",
+      "v9u3u"
+    ]
+  },
+  {
+    "name": "eAAts",
+    "slug": "eaats-zz3yz",
+    "description": "We combined blockchain technology with delivery platforms to save on delivery fees and support various cryptocurrencies. Users can conveniently access our service through social login and automatic payment. #blockchain #deliveryapp #cryptocurrency",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Cannabis RFQ",
+    "slug": "cannabis-rfq-cx13u",
+    "description": "We are creating a Request for Quote circuit for cannabis products that will allow requests for quotes. Selected quote price will be private via ZKP, and lab results will remain public.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKSafePaymaster",
+    "slug": "zksafepaymaster-xhuff",
+    "description": "ZK-Safe-Paymaster, where Safe Multisigs become decentralized paymasters through our innovative plugin. It's secure, transparent, and boosts blockchain efficiency. Join us to reshape the future of blockchain transactions.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ax v2",
+    "slug": "ax-v2-vc41g",
+    "description": "An anonymous exchange based on Semaphore protocol. Sellers list assets on the exchange, buyers deposit funds to the exchange. And Semaphore allows buyers to make the purchase anonymously.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "zkLC",
+    "slug": "zklc-b531b",
+    "description": "A trustless documentary letter of credit service for international buyers/sellers using the legal UCP standard for letters of credit (MT700 SWIFT form) without the banks!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "The Wait",
+    "slug": "the-wait-xrrzu",
+    "description": "sDAI yield for waiting times between stages in public goods funding rounds",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GM - A Social Dapp",
+    "slug": "gm-a-social-dapp-hirb9",
+    "description": "Using XMTP we are providing on-chat Multisig-Safe Creation using Safe SDK ,Apecoin Staking and sending,NFT sharing and Crypto Payments with USDC and Apecoin .",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Show Up",
+    "slug": "show-up-cq2w9",
+    "description": "Onchain RSVP and Event management that allows you to earn $$ by showing up at events!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "kaamify",
+    "slug": "kaamify-oq3pb",
+    "description": "Trustless work verification, swift project deployment via VS Code extension to IPFS, enabling versioned code snapshots for flexible, secure collaboration.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Lifelog",
+    "slug": "lifelog-9m36y",
+    "description": "the go-to app when you want to keep a record of those special moments that make up your life. It's like your personal diary, but way cooler because it stores everything securely on the blockchain.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "HouseLedger",
+    "slug": "houseledger-q6gwp",
+    "description": "Tokenization of  Real Estate which you help in easy selling and buying of Physical properties. It will also reduce the number of frauds and enhance security and trust in this space.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NEBULA",
+    "slug": "nebula-vos6a",
+    "description": "Solution for the mass adoption of web3 on mobile devices with NFC & QR",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "DashBid",
+    "slug": "dashbid-pc02m",
+    "description": "Marketplace for data analysts. Through a unique reverse auction mechanism, businesses set dashboard prices while analysts bid, ensuring quality analytics at the best rate.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "fp1x1",
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Fan Engage",
+    "slug": "fan-engage-rz5y6",
+    "description": "Introducing FanEngage: A revolutionary platform connecting fans and their idols. Attend events, receive exclusive NFTs, and earn rankings for personalized gifts from your favorite artists and figures. Join us in redefining fan engagement and rewarding true admirers.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFi-Wage",
+    "slug": "defi-wage-8qh3m",
+    "description": "DeFi Wage is a platform that enables companies/organisations make swift salary payments and enables their employees take loans",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "ethtools",
+    "slug": "ethtools-mh262",
+    "description": "Explore Ethtools, your go-to web companion for Ethereum and compatible blockchain development. From unit conversion to timestamp calculations, keccak256 hashing, ABI encoding, and a treasure trove of public contract addresses, we've got your essential tools covered!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omnitrace",
+    "slug": "omnitrace-376by",
+    "description": "A blockchain data visualization tool to help with browsing, investigation and education",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "TheRegistry",
+    "slug": "theregistry-fj5rt",
+    "description": "The project, called \"TheRegistry,\" is a blockchain-based decentralized application that enables Issuers to securely issue and trace digital documents to Users, improving authenticity and accessibility while simplifying the process, all in a gasless and user-friendly manner.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Pattern Pulse",
+    "slug": "pattern-pulse-j8pfc",
+    "description": "A social step-challenge platform where users stake, compete, and validate their achievements through zero-knowledge proofs on Polygon ID.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "HOOK Finance",
+    "slug": "hook-finance-w29rb",
+    "description": "Welcome to the world of HOOK Finance (HOOK), where perps trading is reimagined  to work on Uniswap V4",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "NoFakeChain",
+    "slug": "nofakechain-9v0xf",
+    "description": "Ensuring the authenticity of videos leveraging the power of blockchain.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Uniswap V4 Hook",
+    "slug": "uniswap-v4-hook-f2uyk",
+    "description": "A hook that executes stop loss orders when prices move down. Instead of a free ride on the swap that initiated the price decrease, there is gas accountability",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StarLight",
+    "slug": "starlight-w1p47",
+    "description": "Built a simple DEX and deployed it on Scroll Sepolia Testnet",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Minhub",
+    "slug": "minhub-yswow",
+    "description": "MinHub is a one-stop service for all NFT creators. MinHub allows you to generate and deploy a ERC721 contract on the Scroll blockchain with any information and features without knowing how to code.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Eth Maintenance",
+    "slug": "eth-maintenance-w2cr6",
+    "description": "Developers tools to enable preventive and reactive maintenance of industrial grade machine using iot devices, sensors and Ethereum blockcahin, Web3 ecosystem tools",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "9zj01",
+      "yip67"
+    ]
+  },
+  {
+    "name": "unstarted ai project",
+    "slug": "unstarted-ai-project-ft6f1",
+    "description": "i did not get to start it really, but: run open-source LLMs from anywhere on a decentralized compute network",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlashMarket",
+    "slug": "flashmarket-omey2",
+    "description": "A peer to peer flash loan protocol. Any EOA (or contract) can now lend liquidity with his own chosen fees to anyone during a tx just by doing a token approval.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scroll Cash",
+    "slug": "scroll-cash-5it23",
+    "description": "Scroll Cash provides private Ether transactions with Zero-Knowledge Proofs on Scroll. In layman's terms, it allows you to send and receive Ether without anyone being able to track your transaction.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "0xLeague",
+    "slug": "0xleague-by25h",
+    "description": "Decentralized marketplace for smart-contract audits. Browse auditors, get quote, reicieve security badge as NFT!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "EtherGov",
+    "slug": "ethergov-r2hh0",
+    "description": "Chainless DAO-as-a-service. A chain-agnostic treasury account for DAOs, with customizable payload and extensible voting primitives.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Trans Fund",
+    "slug": "trans-fund-f0e2e",
+    "description": "This project aims to help any individual or organization create and operate an open fund. Individual participants are divided according to the profits that the entire fund has.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GeneLink",
+    "slug": "genelink-bhq38",
+    "description": "Our technology stack relies on Arcana Auth for web3-based authentication, ensuring robust security. Using the LIT protocol, we encrypt users' DNA, maintaining the privacy and integrity of biological information. To stor",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "jindo",
+    "slug": "jindo-ut75v",
+    "description": "Gain insights into your profit and loss in relation to your initial positions within the lending protocol. It's easy, accurate, and user-friendly. #InvestmentTracking #ProfitLoss",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Morgante",
+    "slug": "morgante-244vb",
+    "description": "A financial instrument to gain a yield by providing flash loans and investing in other activities to diversify the risk.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Stream2Own",
+    "slug": "stream2own-4yygz",
+    "description": "NFTs that are owned by the address with highest real-time token stream",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alpha NFT",
+    "slug": "alpha-nft-fo5nj",
+    "description": "Crosschain alpha NFT project on zkEVM with mint logic that depends on owning an asset on Ethereum",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BlockCraft",
+    "slug": "blockcraft-chrq5",
+    "description": "A 3D adventure block-building game. Users have personal spaces, solo/multiplayer collaboration. Free base assets; buy or trade in-game NFT assets. Avatars linked to social profiles. Invite friends, chat, create NFTs, trade worlds for an immersive blockchain gaming experience",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "CryptoDeReport",
+    "slug": "cryptodereport-k4r21",
+    "description": "A crypto asset tracker similar to CoinGecko that utilizes a decentralized database.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "SCBridgeAccount",
+    "slug": "scbridgeaccount-ivyas",
+    "description": "Building a 4337 compatible wallet which is a bridge into multi-chain state channel network. Send off-chain payments with your 4337 account.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Treasure Go!",
+    "slug": "treasure-go-f0q23",
+    "description": "Set some treasure and go, go, go! A user can set an amount of crypto to be picked up by anyone who arrives at a set latitude and longitude- kind of like Pokemon Go! but with crypto.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Teracy",
+    "slug": "teracy-qjbzk",
+    "description": "It is a decentralized game where users will be competing to each other and winning some rewards as Nfts and in-game tokens. Teracy is different from other P2E games as it is based on liquidity pool made game modes. Simply is a Gamefi + Defi",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "ZK-Ticket",
+    "slug": "zk-ticket-1d6ws",
+    "description": "A zero-knowledge proof-based ticketing system aims to provide a solution that protects user privacy and ensures the security and reliability of ticket transactions. It allows users to verify the validity of a ticket without revealing the actual ticket information.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Camerton",
+    "slug": "camerton-uastc",
+    "description": "Gasless bridge aggregator. Transfer token between EVM chains without native token.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Lending Circle",
+    "slug": "lending-circle-zs6j3",
+    "description": "Cooperative financing put on-chain for full transparency and credit building.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Collab",
+    "slug": "collab-hkse8",
+    "description": "collabs a constantly evolving fully onchain and decentralized space to collaboratively draw and contribute to a single art piece, with each snapshot showing a moment in time, with fully onchain authentication for those who contributed using IPFS attestation and layering.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "GoldSmith Fin.",
+    "slug": "goldsmith-fin-wrwhs",
+    "description": "Buy, Lend & Borrow tokenized Precious Metals with ease with a buttery smooth UX!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MangaKorner",
+    "slug": "mangakorner-wha5f",
+    "description": "MangaKorner is an innovative marketplace where users can bring their dream manga characters and dialogues to life through AI-generated content.These creations are then tokenized as NFTs, enabling users to buy, sell, and trade their one-of-a-kind manga characters and stories.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "Blackpool",
+    "slug": "blackpool-e0kok",
+    "description": "Eternal (onchain) damnation of crypto phishing websites. Blackpool is an open and decentralized blocklist of phishing websites, maintained and supported by the Ethereum community.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "AztecLend",
+    "slug": "azteclend-fpkys",
+    "description": "AztecLend allows for private lending operations to DeFi lending protocol, such as Spark and Compound from Aztec, a private zk-rollup.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "XchainBridge",
+    "slug": "xchainbridge-t8xkd",
+    "description": "A cross-chain bridge supported by LzyerZero and Chainlink Data feeds",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "HamsterPocket",
+    "slug": "hamsterpocket-w2p2t",
+    "description": "HamsterPocket is your personal magic piggy bank. You place one type of token inside, and over time, it transforms into another type, all by itself.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Arena Mayhem",
+    "slug": "arena-mayhem-zfdgz",
+    "description": "A one-on-one auto-battler game on-chain where users can bet on the outcome of the battle.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKredit",
+    "slug": "zkredit-vw2kk",
+    "description": "ZKredit encompasses a world where every individual, irrespective of their government credit score or financial history, has equitable access to financial resources.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Smart-Portal",
+    "slug": "smart-portal-q1p8x",
+    "description": "Experience the future of token transfers with our project! Send tokens to multiple recipients across different blockchain networks in a single transaction, simplifying your digital asset management.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "FusionFi",
+    "slug": "fusionfi-5rwpb",
+    "description": "FusionFi is a cutting-edge DeFi derivative project that utilizes Liquid Staking to offer users more than a 5% Annual Percentage Rate (APR) over your LST tokens.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Savex-ZK",
+    "slug": "savex-zk-m37qq",
+    "description": "Open source ZK modules to the EVM-compatible wallet, such as Savex, Trustwallet",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "IGL Dex",
+    "slug": "igl-dex-3h8ft",
+    "description": "Introducing a gasless DEX leveraging ERC20 permit functions! 🚀 Sign in with wallet, generate VRS hash & send. Executors rewarded with gas fees, a 0.20% token bonus, plus 0.05% for our protocol.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MegaMask",
+    "slug": "megamask-kv55j",
+    "description": "MegaMask Protocol addressing the inconvenience of manually sharing wallet addresses and the complications arising from unlinked payments and invoices, MegaMask provides an intuitive platform for users.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Napoléon AI",
+    "slug": "napoleon-ai-v377m",
+    "description": "An AI driven version of our Napoléon, we want to create an AI model to evaluate NFT value and then make every NFT can enter to our Stacking pool accomplished our own new NFT model.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniMint",
+    "slug": "unimint-7dr9i",
+    "description": "UniMint: The universal hub for minting and managing your assets through SparkLend. Elevate your DeFi experience by tapping into optimized lending pools. Why settle for less when you can UniMint? 🌌 #UniMint #DeFi #SparkLend\"",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HideRealIP",
+    "slug": "hiderealip-mdfyg",
+    "description": "Hide Real IP - Blockchain-Powered Reverse Proxy for Your Website",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Peanut",
+    "slug": "peanut-96x69",
+    "description": "Peanut is a platform where developers can raise funds for their open-source work",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Spark On-Ramp",
+    "slug": "spark-on-ramp-4ei2n",
+    "description": "Spark On-Ramp allows users without crypto background earn interest in Spark Protocol",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fly Direct",
+    "slug": "fly-direct-anmjj",
+    "description": "Exchange Health Information using IPFS and Identity based signing",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "ChainFlow",
+    "slug": "chainflow-70trf",
+    "description": "Bridging Real World Assets (RWAs) On-Chain with Business Process Automation (BPA)",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Renaissance of NFTs",
+    "slug": "renaissance-of-nfts-wzxpc",
+    "description": "A paradigm to utilize existing WEB2.5 infrastructures (including Mask Network, Safe AA, Chainlink Functions, etc.) to revive NFT IPs and onboard WEB2 users through socialized gaming.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Block-DeFi",
+    "slug": "block-defi-dr2kt",
+    "description": "Using block based programming the application will allow users to easily interact with DeFi",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "ZKP-Hype",
+    "slug": "zkp-hype-n7f2n",
+    "description": "Moving ZKP computation to a more affordable chain saving a ton of gas fees for the user",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "yip67"
+    ]
+  },
+  {
+    "name": "MultiSig Wallet",
+    "slug": "multisig-wallet-twwem",
+    "description": "A MultiSig wallet where 2 or more user can open a join/shared wallet.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WeathHedge",
+    "slug": "weathhedge-h4yky",
+    "description": "Our DApp enables users to trade weather derivatives seamlessly, providing a decentralized and efficient platform to hedge against weather-related financial risks. Harness the power of blockchain for precise risk management.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Momentswap",
+    "slug": "momentswap-hej1n",
+    "description": "Moments Swap is a social program where you can share text, pictures and videos. All shares posted on Moments Swap are by default an NFT, and other users can buy, rent your NFT shares",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GitRaven",
+    "slug": "gitraven-ighb8",
+    "description": "Introducing GitRaven! (get revenue) An opensource web3 & DeFi platform to support developers who contribute to opensource projects.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "ZKMSocial",
+    "slug": "zkmsocial-ooxwk",
+    "description": "A new take on social media, using ZKML to ensure posts are honest and giving users more control over what they see. Making online sharing more genuine and trusted.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Fast Reach",
+    "slug": "fast-reach-jxqk6",
+    "description": "Connect and network with web 3 friends, message them, say gm and expand your network.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Snowball Quest",
+    "slug": "snowball-quest-cwxd6",
+    "description": "Last player to roll the snowball wins it all, otherwise the snowball gets bigger. That's the snowball effect!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Social Valley",
+    "slug": "social-valley-ip6ob",
+    "description": "Trust without trust, communication channeling system cross Social-Fi platforms. Share essential information regarding users’ reputation, to provide reasonable decision-makings. Each address is mapped to a reputation point \"Valley_point\", a factor that serve high utilities.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Token Bound Accounts",
+    "slug": "token-bound-accounts-kg5gr",
+    "description": "This is a simple implementation of ERC 6551, the non-fungible token bound accounts standard.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bear Bonds",
+    "slug": "bear-bonds-2pjsd",
+    "description": "The ETH Maxis favorite bond during a bear market. An omnichain bond that rewards long term eth holders.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "hoadp",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Memories",
+    "slug": "memories-84gg4",
+    "description": "Record events on database and verify its integrity on-chain.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Outlay Worm module",
+    "slug": "outlay-worm-module-xttf3",
+    "description": "Outlay is a Point of Sale application and tipping links, that uses Wormhole to make cross chain payments, in order to boost Crypto and web3 adoption.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DexTech",
+    "slug": "dextech-x13s5",
+    "description": "The First Gamified Social Dex - Trade, track, and chat with the best traders directly on dex.tech",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Web3MBTI",
+    "slug": "web3mbti-9xgw6",
+    "description": "Web3MBTI: Discover your true self on the blockchain! 🔗✨ Unleash your personality type securely with this cutting-edge web3 app.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Cryptopolis",
+    "slug": "cryptopolis-2yns0",
+    "description": "Cryptopolis brings back the original city simulator that started it all in 1989 to the crypto era. Build a city using the same game engine but with real economics.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Cabal Sorel",
+    "slug": "cabal-sorel-uwvfa",
+    "description": "Cabal Sorel presents an innovative project aimed at revolutionizing web3 social platforms. Our vision is to develop a cutting-edge feed algorithm service that enhances existing web3 social sites by harnessing the power of the Mask Network RelationService.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "pn953"
+    ]
+  },
+  {
+    "name": "AGRAA",
+    "slug": "agraa-23k5o",
+    "description": "Decentraloan revolutionizes lending with blockchain and smart contracts. Borrowers access loans with ease, while lenders enjoy automated repayments. NFT collateral adds security. Trust, transparency, and efficiency in one platform.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "FinTok",
+    "slug": "fintok-0qtoh",
+    "description": "FinTok is an open-source, DeFi Trading robot that captures users stake to make outstanding returns.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Discovey",
+    "slug": "discovey-tuywc",
+    "description": "By providing  own data and survey data, etc..., earn a profit and use the data for various services or advertisements, and provide services that can be expanded to recruitment.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "Chaser",
+    "slug": "chaser-cte1q",
+    "description": "Chaser leverages Graph protocol subgraphs and the UMA optimistic oracle to facilitate advanced investment strategies with historical DeFi data",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "f8ku2",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "MultiDeploy",
+    "slug": "multideploy-epzn6",
+    "description": "With MultiDeploy, you can effortlessly execute smart contract deployments on numerous chains, all while utilising your funds from a single source in just one seamless transaction.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Delegated Liquidity",
+    "slug": "delegated-liquidity-pas1o",
+    "description": "Vote with your governance tokens while providing liquidity to Uniswap v4",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Filecoin App",
+    "slug": "filecoin-app-ip3ur",
+    "description": "ProofAnchor: A decentralized app leveraging Filecoin blockchain for proof of document existence, enabling users to verify document integrity by storing its hash on the blockchain, with Filecoin integration for additional proof and storage layers. #Blockchain #Filecoin",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AttackOnWallet",
+    "slug": "attackonwallet-z03u4",
+    "description": "AttackOnWallet is a onchain battle game with your own character, created by your wallet. This game gives a seamless UX backed by Account Abstraction with Session Key.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TAP",
+    "slug": "tap-xo4u6",
+    "description": "TAP: Redefining gaming with DeFi, NFTs, secure transactions, and charity. User-centric, innovative gaming experience. Utilizies Safe Kits, Tableland, Push and APE.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omni-sDAI",
+    "slug": "omni-sdai-qxg77",
+    "description": "Making sDAI (from SparkDAO) multichain using UMA. Users can deposit DAI, USDC, ETH and get access to Maker's DAI savings rate via Spark on their host chains starting with Scroll.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "t4tb4",
+      "yip67"
+    ]
+  },
+  {
+    "name": "ICE Alerts",
+    "slug": "ice-alerts-49tib",
+    "description": "ICE Alerts is a platform to manage smart medical or emergency alert tags using NFC, mobile app and the Blockchain",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "SubsCrypto",
+    "slug": "subscrypto-26hur",
+    "description": "Rapid prototypers making new APIs/services can now accept cryptocurrency payments for fast access to a global market, without the delays & costs to incorporate & set up traditional payment rails. Test product-market fit before incorporation!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "LP Conduit",
+    "slug": "lp-conduit-jcz0d",
+    "description": "Leveraged Uniswap LPs using Maker Conduits as a DAI credit facility",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "gm Fam!",
+    "slug": "gm-fam-ayigu",
+    "description": "Migrate your NFT community from the original one accompanied by your Frens, wrapping the NFTs into a new diverged Smart Contract. Because with \"gm Fam!\", we believe that the best communities are the ones we choose to build together!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Way2Pay",
+    "slug": "way2pay-fnyaz",
+    "description": "Payment platform integrating non-custodial multi-chain cryptocurrency payments in E-Commerce",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "soakmydeck",
+    "slug": "soakmydeck-6c9bz",
+    "description": "we're planning to do a crypto exchange with a backdoor that ends up as a cash grabbing ponzi scheme.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gastly",
+    "slug": "gastly-ybz7j",
+    "description": "The one wallet to rule them all. Pay for gas using any token from any wallet, across all chains.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67",
+      "ygz83"
+    ]
+  },
+  {
+    "name": "PledgePost",
+    "slug": "pledgepost-eeyus",
+    "description": "The platform aims to create a sustainable and equitable funding mechanism for article posts and provide writers with the opportunity to earn income from their contributions. User donations unlock commenting functionality and enable support through Quadratic Funding.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "DappHack",
+    "slug": "dapphack-4tjef",
+    "description": "An on-chain web3 hackathon portal for blockchain devs to come together and build something amazing with on-chain interactions",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "Siganon",
+    "slug": "siganon-zyy11",
+    "description": "Our project, \"Siganon\", is a blockchain-based solution that allows parties to sign contracts anonymously, similar to DocuSign. The identities of the parties remain hidden unless a dispute arises, at which point the necessary information is revealed for off-chain resolution.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Private Chat",
+    "slug": "private-chat-4yqh3",
+    "description": "Private Messages on Blockchain using Asymmetric encryption + Symmetric encryption",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "n3rdz DAO",
+    "slug": "n3rdz-dao-pd94d",
+    "description": "A decentralized autonomous organizations that use the Polygon Mainnet- L2. Build for n3rdz community.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wasup Wallet",
+    "slug": "wasup-wallet-kyzze",
+    "description": "Use WhatsApp as a wallet to send and receive crypto payments.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "yip67"
+    ]
+  },
+  {
+    "name": "AAbstractor",
+    "slug": "aabstractor-nn56q",
+    "description": "Browser extension wallet for your ERC-6551 token-bound accounts.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ETH-Line",
+    "slug": "eth-line-ygmy8",
+    "description": "A platform for connecting Ethereum addresses via facetime, voice calls and chats.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "10a1v"
+    ]
+  },
+  {
+    "name": "Shortcuts",
+    "slug": "shortcuts-50t04",
+    "description": "Shortcuts allow users to send ETH to human readable addresses to bridge, swap, earn, mint or leverage directly from your wallet.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "dCustody bridge",
+    "slug": "dcustody-bridge-0t5u5",
+    "description": "We will build a layer (as a smart contract) to help bridging and swap assets to facilitate the common human interaction. Using crosschain messaging like Chainlink-CCIP / Wormhole",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeCA",
+    "slug": "deca-6h842",
+    "description": "A dynamic protocol enabling gas-less, periodical automated token swaps. Users deposit funds into a periodic swap amount, and decentralized keepers trigger swaps on beat. Potential features include double-side staking, governance voting, asset-bundling, and adaptive fees.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SplitPay",
+    "slug": "splitpay-06oqo",
+    "description": "My DApp will allow 6551 NFT accounts to make a single payment but with different accounts",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "yip67"
+    ]
+  },
+  {
+    "name": "WalletPass",
+    "slug": "walletpass-ejhf5",
+    "description": "WalletPass is an Identity Provider Platform focused on enabling dapp developers to onboard users with a simple API, while also making multi-chain wallet management easy for end-users 🔑⏭️",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "De-Research",
+    "slug": "de-research-f2jyd",
+    "description": "De-Research can be used to store open access papers and journals. They can store (as proofs) the results of reproducible experiments and provide incentives for scientists to upload new papers over time.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DHandle",
+    "slug": "dhandle-5ti3f",
+    "description": "Because fair and portable web3 social handles matter! So we're building a new naming system for pure user handles, not domains.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WUW-WhatYouWant",
+    "slug": "wuw-whatyouwant-kho2c",
+    "description": "WUW is a SocialFi Network using PushAPI, XMTP, Huddle01. Multichain content, tips and ownership. Bridges useful features in one place",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "#console",
+    "slug": "console-gutbc",
+    "description": "Dive into a Web3-powered fantasy console! Merge retro gaming nostalgia with a touch of true ownership. Low-code, mobile-ready, and brimming with endless possibilities. Own, create, play!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "DFaST",
+    "slug": "dfast-rc2u7",
+    "description": "A decentralized ride share service increasing value for both rider and driver, cutting down the middle-man from the equation!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kiwi Wallet",
+    "slug": "kiwi-wallet-kz7r3",
+    "description": "Smart Contract Wallet with pure native web2 experience written in flutter",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Worlds Best.FYI",
+    "slug": "worlds-best-fyi-j98qx",
+    "description": "WorldsBest.fyi is a decentralized voting platform enabling accurate crowdsourced ratings, piloting as a system for ETHGlobal to create a community-judged prize for hackathons.  Hackers are given a finite number of tokens to allocate to their favorite projects built by others.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Caravan",
+    "slug": "caravan-7evbj",
+    "description": "Cross chain ERC 4337 compatible contract accounts as browser extensions",
+    "event": "ETHOnline 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "jzpj5",
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Noir-KZG",
+    "slug": "noir-kzg-j561c",
+    "description": "This work contains an implementation of the KZG commitment scheme for polynomials using the Noir language.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GBPC System",
+    "slug": "gbpc-system-7juzf",
+    "description": "The project is about a collateralized stable coin pegged to the GBP. It will be governed by a DAO, which can propose various protocol adjustments, such as adding a new token as collateral or setting important system parameters.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IPSProtocol",
+    "slug": "ipsprotocol-z3xha",
+    "description": "IPSProtocol aims to erradicate Web3 hacks by embedding smart contract security directly into the protocol's layer and consensus process. Our goal is to offer dapps the tools to analyze, detect hacks and reverse malicious transactions,  ensuring a safer ecosystem.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fake Buster",
+    "slug": "fake-buster-3yqek",
+    "description": "Fake buster is a social media network that fact checks fake news and rewards colaborators for combating false information spread in the internet",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "BTree",
+    "slug": "btree-o5jpr",
+    "description": "A decentralised barcode generator and small-business-oriented DAO.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Covariance",
+    "slug": "covariance-kzj0k",
+    "description": "We build a network focused on helping projects solve their most urgent goals. We want to build a POC that demonstrate how a network of collaborators can help unlock value for projects when the right incentive are put in place",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Gopher Router",
+    "slug": "gopher-router-3j4dw",
+    "description": "Send funds from multiple accounts and networks in a single click.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ygz83"
+    ]
+  },
+  {
+    "name": "GaloisGuilds",
+    "slug": "galoisguilds-ofxdi",
+    "description": "Empowering Web3 communities: A 100% decentralized social platform where users can create public groups, fostering easy access to Web3 and unified communication.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Scroll Game",
+    "slug": "scroll-game-cvwvy",
+    "description": "A game inside a smart-contract deployed on Scroll and use zero-knowledge proofs",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Tuna",
+    "slug": "tuna-9rxef",
+    "description": "Everything is securely stored and easily accessible within the Tuna, a robust and feature-packed wallet.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Vanna Engine",
+    "slug": "vanna-engine-7xs2s",
+    "description": "Vanna Engine is the first on-chain ML-driven risk engine that aims to provide dynamic risk metrics for risk management in cross-chain DeFi.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "gt566"
+    ]
+  },
+  {
+    "name": "Atlas Data DAO",
+    "slug": "atlas-data-dao-u42p8",
+    "description": "Atlas Data DAO - community of scientists and amateur astronomers who observe the starry sky and update the star map",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nebula Protocol",
+    "slug": "nebula-protocol-stx0h",
+    "description": "Nebula is your digital universe. Every user is an Element, each with its unique identity Atoms. Manage them securely in our Atom Registry. We verify their authenticity, giving you control to shape your online persona. Nebula, where you're at the center of your digital world.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SparkDeltaPrime",
+    "slug": "sparkdeltaprime-zvotx",
+    "description": "Optimizes user liquidity by placing liquidity, leveraging capital managers through zk proofs, generating effective and sustainable returns.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "CompoundCharts",
+    "slug": "compoundcharts-obk9c",
+    "description": "A dashboard inspired by DefiLlama and TokenTerminal, designed for Compound v3.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nexus Network",
+    "slug": "nexus-network-ueajk",
+    "description": "Ethereum's rollup-centric roadmap ties up substantial ETH supply in bridges, lowering Ethereum security and rollup’s capital efficiency. Nexus Network solves this by securely and non-custodially staking ETH in bridges, yielding consistent returns for rollups",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "yip67"
+    ]
+  },
+  {
+    "name": "CryptoCommune",
+    "slug": "cryptocommune-1fyy5",
+    "description": "Introducing CryptoCommune: A decentralized savings protocol where users collaboratively deposit crypto assets , enabling investment purposals, emergency withdrawals through community voting. Secure your financial future with trusted peers.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "Win-Me",
+    "slug": "win-me-5kowo",
+    "description": "Unleash your inner racer in our NFT Racing Challenge Game, offering unique NFT rewards, daily tournaments, dynamic gameplay, and a smooth web2 onboarding experience. Race, compete, and earn real ApeCoins in this immersive, visually stunning adventure!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Builder Buddy",
+    "slug": "builder-buddy-ceukn",
+    "description": "Brings a link between Users and Workers, where user can place a request for any work services like construction, plumbing, electrical, etc.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CryptoVC",
+    "slug": "cryptovc-tgrn7",
+    "description": "Invest in projects with visible commitments and share allocation",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "t4tb4"
+    ]
+  },
+  {
+    "name": "Adroll",
+    "slug": "adroll-mxhuu",
+    "description": "A de-centralized Advertiser. Advertisements are rolled up on the platforms. Let's roll 👀!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "AbstraZ",
+    "slug": "abstraz-jihu7",
+    "description": "Cross-chain investments and DAO governance, fueled by wallet abstraction !",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperWallet",
+    "slug": "superwallet-wvqtj",
+    "description": "SuperWallet is a secure, unified multi-chain transaction system, allowing users to initiate payments using coins/tokens across multiple chains simultaneously with ease",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "hoadp",
+      "yip67"
+    ]
+  },
+  {
+    "name": "TICK3T",
+    "slug": "tick3t-ikpev",
+    "description": "Ticket selling platform that make us of account abstraction and web storage, delivering new user experince with passing between smart accounts and EAO seamlessly.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Perks",
+    "slug": "perks-gv9d1",
+    "description": "One rewards program to rule them all. Perks is a mobile app that rewards the user for their brand loyalty over multiple brands. Receive on-chain rewards and perks from your favorite businesses all in one place..",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "026zc",
+      "yip67"
+    ]
+  },
+  {
+    "name": "PropLedger",
+    "slug": "propledger-0cn4t",
+    "description": "PropLedger is a decentralized platform that enables fractionalized ownership of real estate using zero-knowledge proofs. Invest in properties with just a few dollars, and prove your ownership without revealing any sensitive information.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RadTrack",
+    "slug": "radtrack-74dsy",
+    "description": "An on-chain solution to tracking and optimizing radiation exposure for patients and employees across multiple facilities using NFTs.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SafeStreet",
+    "slug": "safestreet-fd4mo",
+    "description": "Safe Module Developer hub to monetize their published plugins.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "BatchSwap",
+    "slug": "batchswap-gju48",
+    "description": "A contract in which users can deposit ETH that gets batched and swapped for any token in UniswapV2. Benefit is saving gas in periods of high gas price, saving more than 50% of the swap cost, while the swapper gets a % of the value swapped as incentive to do so.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Adora.Promo",
+    "slug": "adora-promo-ia4yu",
+    "description": "An on-chain social media marketplace using AI to verify sponsored content. Advertisers send offers to creators with natural language requirements. Sponsored posts are verified via AI. Creators are paid based on the engagement their post receives.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "SHEERPAY",
+    "slug": "sheerpay-9haor",
+    "description": "A payment solution that uses Account Abstraction and a secured method to transfer payment using email addresses or social logins  (something that users are already familiar with). Leveraging AA's capabilities to facilitate cost-effective and instantaneous settlements.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Decentralinked",
+    "slug": "decentralinked-uan4g",
+    "description": "We are building a decentralized linkedin.  Unlike other attempts at decentralized professional networking we believe it is split key components and let them function independently. The components Chat, Search, Reputation, and Payments will function fully without any other.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Amicus Protocol",
+    "slug": "amicus-protocol-c5z5e",
+    "description": "Amicus Protocol is a general purpose blockchain protocol designed to address a fundamental aspect of user interaction and social connectivity in the Web3 era",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Safe Date",
+    "slug": "safe-date-8b70w",
+    "description": "Safe Date is a dating app that uses zero-knowledge proofs to verify that all users are human and have been verified. This helps to create a safer and more trustworthy dating environment.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "dhive",
+    "slug": "dhive-tbzub",
+    "description": "Dhive is an all-in-one hub where governance meets vibrant community dialogues. Monitor proposals, engage in a decentralized forum, and get personalized notifications.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "pn953"
+    ]
+  },
+  {
+    "name": "ShopConnect",
+    "slug": "shopconnect-0qanh",
+    "description": "Personalized eCommerce powered by ZKP, implementing a novel Proof-of-Purchase system based on Polygon ID",
+    "event": "ETHOnline 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "qy8m3",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "E.M.X",
+    "slug": "e-m-x-bergo",
+    "description": "A simple hardhat project to deploy and verify smart contract on scroll.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "RecurraPay",
+    "slug": "recurrapay-zc8e0",
+    "description": "Automate sending recurring payment on your favourite chain and across chains.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Cengli",
+    "slug": "cengli-8fhzj",
+    "description": "A digital wallet in Indonesia offering self-custody storage, cashless transactions, and P2P on/off ramping. Designed for locals, it provides a platform for daily financial activities and bridges users to wider opportunities",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "u7k8j"
+    ]
+  },
+  {
+    "name": "Dcollaborate",
+    "slug": "dcollaborate-yi8be",
+    "description": "Dcollaborate: A Dapp that promotes collaboration among DAOs and its members  through a Reputation Score. It offers competitive collateralized loan, enables multisig for impactful alliances, and provides 5% Yield Farming on unused collateral funds, enhancing collaborative DeFi.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "BlissFlix",
+    "slug": "blissflix-atp3f",
+    "description": "BlissFlix redefines adult content streaming, prioritizing privacy and liberation. With cutting-edge tech, we enable anonymous interactions for creators and viewers, ensuring confidentiality.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "pmnts",
+    "slug": "pmnts-pwj7r",
+    "description": "A payments focused superapp with defi integrations. Scan to pay, p2p payments, and earn points!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "mint-to-atst",
+    "slug": "mint-to-atst-sq9sf",
+    "description": "As soon as a NFT has been minted, issue an attestation in the atst system from OP - the  attestation sender is the deployer of the NFT contract and the receiver is the minter",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Liquid",
+    "slug": "liquid-vt0av",
+    "description": "Unveiling Liquid—a cutting-edge federated learning hub! Shape dynamic collaborator pools for AI training. Safely tap into distributed data while retaining privacy. Dive into Liquid, where privacy fuels progress. 💧",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "GovChainBoard",
+    "slug": "govchainboard-x64wa",
+    "description": "Smart Contracts, Smarter Statistics, Smart actions GovChainBoard es una herramienta interoperable con varias blockchain EVM que utilice un contrato del estandard Gobernor de OppenZeppelin.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "zkVRF",
+    "slug": "zkvrf-rt1d2",
+    "description": "A novel method for verifiable onchain randomness (VRF) enabled by ZKPs.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Help-A-Fren",
+    "slug": "help-a-fren-2nfbi",
+    "description": "Help-A-Fren is a solution for direct monetary donations with fair and unbiased distribution practices. Often, in times of disaster, there is a lack of a clear, designated entity to direct donations from people who desire to help. This application aims to solve this problem.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vigour Hall",
+    "slug": "vigour-hall-zbtvs",
+    "description": "Intends to be a community of fitness entusiasts, Commit to fitness and get rewarded with Vigour HAll",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Gitmod",
+    "slug": "gitmod-vq74z",
+    "description": "Modern decentralized community for game modders & players to  create and share mods for a variety of games in a decentralized fashion.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Deano",
+    "slug": "deano-t0hn9",
+    "description": "A Decentralized Data Annotation Platform leverages blockchain technology to revolutionize data labeling and annotation. It distributes tasks across a network, ensuring transparency, data privacy, and high quality.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "4i0qt",
+      "eov0f",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "Payper",
+    "slug": "payper-voj60",
+    "description": "PayPer is meant to be a pay per view newspaper for independent journalists.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DreamStarter",
+    "slug": "dreamstarter-8eso8",
+    "description": "Revolutionize Event using  crowdfunding with our blockchain app. Users propose, the community votes, and Contributors funds with NFTs , and we enable seamless funding and profit-sharing for physical events. From Pool Parties to Tomorrowland ,place for endless possibilities",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "yip67"
+    ]
+  },
+  {
+    "name": "ProfitPals",
+    "slug": "profitpals-bdkiz",
+    "description": "ProfitPals allows multi-user management of Uniswap positions via Safe smart wallets. Investors deposit; operators select optimal liquidity pools and trade.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgriTour ETH",
+    "slug": "agritour-eth-cq9zx",
+    "description": "This platform would enable farmers to offer agri-tourism experiences. These could range from farm stays and organic farming workshops to guided tours of their farms. This not only provides farmers with an additional source of income but also promotes educational tourism.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Push-Fi",
+    "slug": "push-fi-p31uc",
+    "description": "Our project is based on dao chat push protocol with token gated way chat/video call also using Universal api profiles encouraging members to connect with all-in-one social identity",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Zuko",
+    "slug": "zuko-cx92f",
+    "description": "Zuko is for individuals who value their privacy and seek a secure and confidential space to engage in online communities or forums.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "4i0qt",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "dripit",
+    "slug": "dripit-fnx61",
+    "description": "dripit is tokenizing music streaming royalties as NFTs, opening up new revenue streams for artists and elevating fans to stakeholders",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "Smart Pass",
+    "slug": "smart-pass-rvane",
+    "description": "Decentralized password manager that uses the Cometh network, Safe protocol, Web3.bio API, Mask Network, Tableland, IPFS, and Scroll network to provide users with a secure and convenient way to store and manage their passwords.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Pubit",
+    "slug": "pubit-rmo24",
+    "description": "Decenteralized licensing platform for handling license definition, creation, financial handling and querying",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Cosmic Cowboys",
+    "slug": "cosmic-cowboys-3q0co",
+    "description": "A dynamic on-chain game that involves interacting with stranded space cowboy NPCs, powered by AI and ERC-6551",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nbyyv",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "ChaseGem",
+    "slug": "chasegem-bog8c",
+    "description": "ChaseGem is a decentralized platform for finding, supporting trustable information source called Gems.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NET42",
+    "slug": "net42-5jcpp",
+    "description": "NFT-BASED RUNNING REWARDS FOR GOOD 🏃‍♂️🌍 Earn eco-friendly NFTs for your runs, supporting health, environment, and social causes. Join us in shaping the future of marathon running 🌱",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Spyd3r W3b",
+    "slug": "spyd3r-w3b-5a7og",
+    "description": "Empowering your web3 journey with robust security, insightful analytics, and unparallel software development workflow for your Dapps",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "t4bwy"
+    ]
+  },
+  {
+    "name": "whale.finance",
+    "slug": "whale-finance-2vby7",
+    "description": "whale.finance basically implements Decentralized Asset Management with ERC 6551. We want to give the opportunity to investors sees their money been managed with full security and auditability.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "AATBA Profile",
+    "slug": "aatba-profile-gut0k",
+    "description": "AATBA Profile: Fool-proof achievement verification. One account for all Sub-Profiles using Account Abstraction and Token Bound Account. Your achievements, securely verified.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "SuperFundrs",
+    "slug": "superfundrs-qt3ia",
+    "description": "DeFi proposals/funding platform for allowing public and private organizations receive proposals and funds from the their community in an easy, secure and fast way.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DaiDaddy",
+    "slug": "daidaddy-aso2d",
+    "description": "An easy-to-use web app (or pwa) that allows anyone to earn interest.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "kamu-lilypad",
+    "slug": "kamu-lilypad-5yvax",
+    "description": "A custom lilypad module for sql streaming through kamu.dev, this provides provenance, version control, and provenance of derivative datasets",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "9zj01"
+    ]
+  },
+  {
+    "name": "COMPensator",
+    "slug": "compensator-uyx8n",
+    "description": "COMPensator is a Vote Marketplace for Compound Governance for Delegates",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "j5u2x"
+    ]
+  },
+  {
+    "name": "0xInvoices",
+    "slug": "0xinvoices-wstpf",
+    "description": "Free invoice generator. Create secure and private on chain invoices at low-cost",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "MyJam",
+    "slug": "myjam-4w705",
+    "description": "a decentralized audio streaming platform that empowers musicians and engages audiences in real-time",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vibecheck",
+    "slug": "vibecheck-ohj87",
+    "description": "Vibecheck is a mobile turn-based RPG game that turns any casual encounters into your in-game ally.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "zkAccount",
+    "slug": "zkaccount-fb3im",
+    "description": "zkAccount seamlessly connects web2 identities to the web3 world using zero-knowledge proofs. Bridging traditional logins with decentralized platforms! 🌐🔒 #zkAccount #zkAA",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Buddy",
+    "slug": "buddy-fo8cv",
+    "description": "Multichain Person to Person Fiat-to-Crypto Exchange connecting individuals to trade fiat for cryptocurrencies with support for a wide range of payment options including Bank Transfer, Paypal",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Infinite Mapper",
+    "slug": "infinite-mapper-qfikk",
+    "description": "A gamified map generator enabling everyone to walk in the map and generate a rogue-like map with randomness. The entire map data will then be stored fully on-chain and open to integrate with any games.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenSurvey",
+    "slug": "opensurvey-sbjx2",
+    "description": "OpenSurvey is a decentralized and sybil-resistant survey dApp leveraging blockchain and zkProofs. It allows users to publish and answer surveys, aggregate data and reward survey contribution allows users to publish and answer surveys and aggregate data from them",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnyApe",
+    "slug": "anyape-mmh8x",
+    "description": "Gasless Cross-chain ApeCoin payment protocol implemented on an NFT marketplace.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t3zyt",
+      "f8ku2",
+      "yip67"
+    ]
+  },
+  {
+    "name": "The Session",
+    "slug": "the-session-yrdb3",
+    "description": "The Session is a DApp that builds a safe space for users and health professionals, where they can create support groups.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Aurify",
+    "slug": "aurify-ex3gq",
+    "description": "Aurify is a cutting-edge decentralized application (DApp) that introduces a groundbreaking approach to Web3 membership management through the innovative concept of \"lazy minting.\"",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zkeytune",
+    "slug": "zkeytune-tjgsg",
+    "description": "A zero knowledge messaging social app using web3 and zero knowledge to protect your privacy",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "PACKD",
+    "slug": "packd-na5bq",
+    "description": "PACKD is a project that allows users to create and share digital asset packs. These packs, which are NFTs that own their own accounts, can be filled with tokens, NFTs, and ETH for gas. They can be shared via a simple link and opened without the recipient needing to pay gas fees.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Safe MMSnap",
+    "slug": "safe-mmsnap-9gh21",
+    "description": "A MetaMask Snap that adds Safe multisig wallets support to MetaMask.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flash",
+    "slug": "flash-th53k",
+    "description": "Gasless and easy stablecoin payments via QR-Code. As easy as existing web2 solutions but without the centralization.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Apedul",
+    "slug": "apedul-r2hog",
+    "description": "\"Apedul is inspired by the Akinator guessing game, but instead of guessing something, we compile all of an NFT's traits into a table and employ some magic (we call it binary decision tree) to determine the best-suited NFT for the user.\"",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "guestbook",
+    "slug": "guestbook-unwpw",
+    "description": "Multi-chain guestbook built on Tableland that supports peer-to-peer messages",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "DAOvation",
+    "slug": "daovation-13pk2",
+    "description": "DAOvation catalyzes a new era of transparent, participatory, and equitable governance. Fusing innovative tools with core principles of engagement and privacy, we redefine how communities collaborate and decide together.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Enigma",
+    "slug": "enigma-q84ek",
+    "description": "Enigma introduces the Secret NFTs standard: a unique dual URI approach. Each NFT showcases a public and a private layer. Only owners have full access. From art to memberships, prioritizing privacy in the digital domain is paramount",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "yip67"
+    ]
+  },
+  {
+    "name": "CarFT",
+    "slug": "carft-hny3z",
+    "description": "We’re building web3 tools to help vehicle owners claim and transfer ownership of real world assets.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Kuala Bond",
+    "slug": "kuala-bond-d23x1",
+    "description": "Kuala Bond is designed to simplify cross chain value transfers through the use of bonds",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Meliora",
+    "slug": "meliora-t29av",
+    "description": "The game world of Meliora is a decentralized universe built on blockchain. Its inhabitants, plants, animals and elements are all derived from the core concepts of web3.  As players explore, build and level up, they learn the fundamentals of blockchain...without even realizing it!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrustBytes",
+    "slug": "trustbytes-mg2qr",
+    "description": "Empowering protocols to search for smart contract auditors that showcase their capabilities on chain. Implemented to store onchain with Tableland and truth verification of auditor competencies with PolygonID",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "eov0f"
+    ]
+  },
+  {
+    "name": "CentralGasStation",
+    "slug": "centralgasstation-6qwy6",
+    "description": "A gas token based on supply and demand instead of an oracle.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bot Corp",
+    "slug": "bot-corp-aoz9b",
+    "description": "A bot corporation - Provide a product requirement and an organisation made up entirely of bots (NFT gated prompt instances) generates the code for the product.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "3card poker",
+    "slug": "3card-poker-bbabp",
+    "description": "\"Game 3Card Poker\" is an online blockchain-based game where players can choose to view their own cards. The cards they have seen are displayed openly. Players are required to place their chips into the central prize pool on the table.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Safe - Scan",
+    "slug": "safe-scan-6y6v5",
+    "description": "this is one and only one safe - scan where you can see all newly create  safe accont's and id if the are linked in to",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Predictor",
+    "slug": "predictor-imjoh",
+    "description": "🚀 Get ready for the future of gaming with Predictor Game! 🎮 Join the DeFi revolution and make predictions to win rewards on the blockchain. No intermediaries, just pure fun and crypto excitement! #PredictorGame #DeFi #BlockchainGaming",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFlashLoan",
+    "slug": "deflashloan-62vnr",
+    "description": "🚀 Unleash your financial potential with DeFlashLoan! Deposit, earn, and take flash loans to maximize returns. Join the revolution today! 💰",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kompass",
+    "slug": "kompass-8zwpt",
+    "description": "This is the decentralized search engine everyone has been waiting for! It's a combination of a webcrawler, frontend where the result is stored on the blockchain!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "xNFT",
+    "slug": "xnft-uy2y0",
+    "description": "A Cross chain NFT renting protocol powered by connext, push and chainlink",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuppX",
+    "slug": "suppx-chb5u",
+    "description": "This project provides multichain vault (erc4626) with flashloan support",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Careerzen",
+    "slug": "careerzen-rg9ns",
+    "description": "Project Achievement Certification Platform based on NFT Career Profile",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "pfyco"
+    ]
+  },
+  {
+    "name": "Cadmus",
+    "slug": "cadmus-05onn",
+    "description": "NFT-based membership projects cater to all entities by providing memberships to subscribers. Because these memberships are backed by web3 and NFTs, they can also be sold independently of the entity on an open marketplace.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cryptopia",
+    "slug": "cryptopia-vtoqx",
+    "description": "A professional social platform for web3. Only verified project owner can post so less spams here.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "CrossCarbon",
+    "slug": "crosscarbon-gexsy",
+    "description": "CrossCarbon is the interoperable layer for purchasing tokenized carbon credits across the Ethereum ecosystem",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TotemParadox",
+    "slug": "totemparadox-h6bta",
+    "description": "Story-driven post-apocalyptic exploration web3 RPG utillizing NFT 2.0 ERCs to deliver a next-generation web3 gaming experience.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Whissage",
+    "slug": "whissage-9zu94",
+    "description": "Whissage enables private crypto Q&A conversations. Askers pay ETH directly to an address to incentivize answers. Robust encryption, wallet integration, incentives, and p2p dialogues foster secure engagement and knowledge exchange.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Refiq",
+    "slug": "refiq-a3tbh",
+    "description": "Refiq is a decentralized social media platform where users create unique NFT topics and set their own moderation policies. Users can engage by creating posts, commenting, and rewarding contents with Eth. It allows content creators and moderators to monetize their contributions.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "pfyco",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Qryptopost",
+    "slug": "qryptopost-foytg",
+    "description": "A mailing and marketing solution to send mails to any eth address, fast encrypted and in a decentralised manner with no storage limit.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "pn953"
+    ]
+  },
+  {
+    "name": "Searchable Project",
+    "slug": "searchable-project-ze4bo",
+    "description": "A Dapp to make it easy to Search for related projects and create SBT token with proof of ownership",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Send it!",
+    "slug": "send-it-j4n7q",
+    "description": "A mobile app easing cross-border remittance for non-crypto geeks, social media web2 login, collective collateral, lending, and borrowing. Simplifying crypto to cash conversions with local intermediaries(exchangers)",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "BillionZKVoters",
+    "slug": "billionzkvoters-hw1br",
+    "description": "Massive scale secret voting with on-chain results using Zero Knowledge technology",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "nhs1x",
+      "yip67"
+    ]
+  },
+  {
+    "name": "SpendNest",
+    "slug": "spendnest-ukj6v",
+    "description": "Decentralized banking app: deposit, withdraw, transfer between accounts, grant spending access, prioritizes transparency, no information withholding.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Umbrella",
+    "slug": "umbrella-revxr",
+    "description": "Payment application to create secure and safe web3 payments with the use of multi-layered safeguards",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Lock Box Market",
+    "slug": "lock-box-market-nx0er",
+    "description": "Gaming oriented market place. Trande NFTs and its assets with Token Bound Accounts EIP-6551 support.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "UMA Time Clock",
+    "slug": "uma-time-clock-qsjvj",
+    "description": "UMA Time Card is a decentralized app (DApp) that leverages UMA's optimistic oracle mechanism for secure and reliable employee time tracking. Say goodbye to traditional attendance machine and embrace the future of decentralized check-in and check-out!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "fp1x1",
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Spark-To-Flash",
+    "slug": "spark-to-flash-hrj5h",
+    "description": "Planning to build a DAPP called Spark-To-Flash , which interacts with the SPARK Lend protocol , and makes flash loans easy and accessible to the everyday user.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BOND",
+    "slug": "bond-w2cob",
+    "description": "BOND is a safe and secure wallet solution for crypto users. As there is an increasing adoption of cryptocurrencies around the world, losing private keys has remained a major issue. BOND is here to catalyze blockchain adoption.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Space_",
+    "slug": "space-i40oe",
+    "description": "A social platform seamlessly introduces Web2 users to Web3, without the complexities of crypto for quests or donations.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "PayToView",
+    "slug": "paytoview-oz48f",
+    "description": "A tool that helps users create pay-to-view NFTs and share links.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI-ducation",
+    "slug": "ai-ducation-trnzr",
+    "description": "AIducation uses AI and web3 to provide personalized learning paths, credentials via NFTs, and incentives aligned to knowledge growth.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "u7k8j"
+    ]
+  },
+  {
+    "name": "Decentro",
+    "slug": "decentro-a8iy7",
+    "description": "A trading card game, where artist can create card and earn money, and players can enjoy collecting and battling with cards.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkEmail Safe",
+    "slug": "zkemail-safe-z8dps",
+    "description": "Operate Safe multisigs through email verified using ZK proofs",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "EventCrib",
+    "slug": "eventcrib-wkv9m",
+    "description": "EventCrib is a decentralized event management and ticketing platform for event managers and event planners.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Event3",
+    "slug": "event3-nun3f",
+    "description": "An event ticketing platform with account abstraction where you can claim digital proofs of attendance, regardless of your Web3 experience",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HackMeet",
+    "slug": "hackmeet-za3mo",
+    "description": "our platform presents gateway to make NFT gated Meetings for specific  NFT holders",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NoChain Protocol",
+    "slug": "nochain-protocol-ifuf6",
+    "description": "Network & Token Abstraction CrossChain payment solution. Built solo by a 13-year old.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Token Tutor",
+    "slug": "token-tutor-bfyx4",
+    "description": "Token Tutor: Revolutionize how you create value.  🚀 Tutors, tokenize your time as a valuable asset. 🎓 Learners, gain direct access to experts or trade their time. 📈 A virtuous cycle that strengthens the Web3 ecosystem for all!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "eov0f",
+      "yip67",
+      "nbyyv"
+    ]
+  },
+  {
+    "name": "DAOOOR",
+    "slug": "daooor-ajqa7",
+    "description": "DAOOOR is a powerful tool for creating, joining and managing DAOs. Create a DAO with a treasury and a governance system in less than 2 minutes.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "VARQNet",
+    "slug": "varqnet-6su2j",
+    "description": "Protocol that allows for stablecoin creation for fiat that is pegged to USD",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Laputa",
+    "slug": "laputa-fg9ku",
+    "description": "Build spectacular floating cities together in an on-chain massive multiplayer game. Featuring a unique in-game economy that is both Free to Play & Play to Earn. Collaboratively build your kingdom, vye for resources and trade. Inspired by Stacklands, Islanders, and Pileup.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "qy8m3",
+      "yip67",
+      "u7k8j"
+    ]
+  },
+  {
+    "name": "Semakh Protocol",
+    "slug": "semakh-protocol-ugdhw",
+    "description": "This would provide a better environment for mobile users by leveraging zkp system (using circom and groth16``) to build up a protocol that can be used in all environments..",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EVM+",
+    "slug": "evm-x29ob",
+    "description": "EIP: Decimal math for EVM. If EVM is a basic calculator, EVM+ is a scientific calculator.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "BugLess",
+    "slug": "bugless-ymr4a",
+    "description": "A trustless bug bounty program for Linux RISC-V applications",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Character Sheet",
+    "slug": "character-sheet-q9yqa",
+    "description": "A Tokenbound Character Sheet that turns every NFT into an RPG character.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReliefReach",
+    "slug": "reliefreach-tnt66",
+    "description": "Streamlined relief fund donations platform connecting givers with global causes, making a difference in times of need.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "FundifyMe",
+    "slug": "fundifyme-aro10",
+    "description": "Fundify Me, is a decentralized application (dApp) built on blockchain technology with a specific focus on supporting developers and their projects through crowdfunding or fundraising.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Kyōdō Protocol",
+    "slug": "kyodo-protocol-fpvek",
+    "description": "The Future of Work Powered by Communities Kyōdō Protocol facilitates trusted connections between these professional parties with a decentralized, blockchain-driven solution",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "dchat.ai",
+    "slug": "dchat-ai-fakw9",
+    "description": "Easy to create AI bots, but also have a marketplace for embeddable browser AI chat bots",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Blue Chip",
+    "slug": "blue-chip-576c2",
+    "description": "Automated Crypto Index Fund for simplified, diversified cryptocurrency investments using Set-Protocol and Uniswap V3",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutonomousSwap",
+    "slug": "autonomousswap-ipg4a",
+    "description": "An autonomous/decentralized swap app for tokens transfer between 2 parties without third-party intermediation :D",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Trigon",
+    "slug": "trigon-jbbfn",
+    "description": "Trigon is a Digital Identity Wallet on Polygon ID, managing verifiable credentials securely. It's a trusted platform for verifiers to validate zero-knowledge proofs, all within the Trigon ecosystem.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "qy8m3"
+    ]
+  },
+  {
+    "name": "Certicryp",
+    "slug": "certicryp-2geoh",
+    "description": "Certificate Minter, Minted by Institution and viewed on a specific Grantee portal",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeppelinFinance",
+    "slug": "zeppelinfinance-gvawn",
+    "description": "Defi NFT financing RWA platform for ecommerce sellers, tap into the power of web3",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "qy8m3",
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Koinu",
+    "slug": "koinu-x8ced",
+    "description": "An npm library that provides hassle-free cross-chain token transfers in dapps. No more intensive dev work or deep blockchain knowledge needed. Simple UI for effortless transfers between blockchains. Secure & user-friendly cross-chain interactions with Axelar GMP.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "jzpj5",
+      "yip67",
+      "xdat5"
+    ]
+  },
+  {
+    "name": "troq",
+    "slug": "troq-61euo",
+    "description": "A self custodial chat-wallet for bartering that works  both offline and offchain.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "GoodPrompt",
+    "slug": "goodprompt-4w6dy",
+    "description": "on-chain peer-review for AI teaching data --- > GoodPrompt: transparent, decentralized, peer-reviewed data submission",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Nomis",
+    "slug": "nomis-wz0w1",
+    "description": "Nomis is a multichain identity and reputation protocol that leverages users' onchain activity data and ML-powered mathematical modeling technologies to help users build, manage and leverage their onchain reputation.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "MetaGallery",
+    "slug": "metagallery-va236",
+    "description": "Use bleeding-edge mixed reality technology to turn your room into an NFT gallery. Experience Web3 with Meta Quest 3, bringing your NFTs to life like never before.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Geppetto",
+    "slug": "geppetto-ogaf6",
+    "description": "Accounting & Management Software that permits reliable recording and tracking in natural language.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Deadman Switch",
+    "slug": "deadman-switch-s87or",
+    "description": "Anyone can post content that is hidden (encrypted) as long as they check-in on a regular basis. If they are unable to check-in the content becomes public.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "jzpj5"
+    ]
+  },
+  {
+    "name": "Kindred",
+    "slug": "kindred-0khmr",
+    "description": "A platform for 0% interest loans amongst trusted peers that generates compound interest in large group sums",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "yip67",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Bwise",
+    "slug": "bwise-j8o9e",
+    "description": "BWise: A Chrome extension leveraging Uniswap v4 hooks for optimized impermanent loss mitigation in DeFi ecosystems.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "t4tb4",
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Oddlung",
+    "slug": "oddlung-rtnua",
+    "description": "Operationalizing the Autonomy of the Commons with the Content Diversity Index Calculation",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ApeBlendr",
+    "slug": "apeblendr-4im17",
+    "description": "ApeBlendr is a no-loss savings game inspired by PoolTogether and built on top of the ApeCoin protocol. Currently, ApeCoin provides a staking program with juicy yields, so why not gamify it?",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Asterizm",
+    "slug": "asterizm-2pien",
+    "description": "Perform fast and confidential cross-chain transactions without overpaying",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Figitalism",
+    "slug": "figitalism-jmsvw",
+    "description": "We built a MVP of fygitally trading assets on existing web3 NFT marketplaces. Our current tool could onboard artisans  to Web3! https://twitter.com/figitalism",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Profile Pulse",
+    "slug": "profile-pulse-f2yw5",
+    "description": "cross-chain identity graph that utilitizes your web2 and web3 ownership",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mkulima Chain",
+    "slug": "mkulima-chain-g2v6z",
+    "description": "Agricultural DeFi that allows farmers to sell there coffee. with trust and transparency",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AutoSwapper",
+    "slug": "autoswapper-w09z1",
+    "description": "A multisig plugin that automatically swaps your tokens by computing the optimal path offchain",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "weaax"
+    ]
+  },
+  {
+    "name": "Payton.so",
+    "slug": "payton-so-dgc0k",
+    "description": "🚀Ditch the Chaos!🚀 Tired of juggling Google Sheets, notes & accountants for your team's crypto finance? Discover Payton.so to effortlessly accept payments, manage expenses & streamline your team’s crypto finance 👉 Gain back your control: payton.so",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "PeerPal",
+    "slug": "peerpal-mkymj",
+    "description": "PeerPal: Redefining DeFi for Peer-to-Peer Token Borrowing and Lending through mobile application",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Omnichain ERC6551",
+    "slug": "omnichain-erc6551-sgdck",
+    "description": "We built a game console NFT with an associated omnichain ERC-6551 Token Bound Account to enable chain-agnostic in game asset ownership..",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Money Talks",
+    "slug": "money-talks-0aovs",
+    "description": "A cross-chain chat app with a wallet that users can use to save/group-invest.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Llavero",
+    "slug": "llavero-ghd5j",
+    "description": "A personal non custodial wallet with enterprise security. Llavero is a cloudwallet will install in your personal cloud. It is call Software as MY Service (SaMS)  or CloudApps.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NFT Themer",
+    "slug": "nft-themer-rs7p4",
+    "description": "Transform ordinary NFTs into visually stunning artworks with unique styles, themes, and interactivity!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "One Click dApp",
+    "slug": "one-click-dapp-euzqw",
+    "description": "Generate pretty and functional front ends for your smart contract. Import them into your application as widgets.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "eov0f"
+    ]
+  },
+  {
+    "name": "Pandsal",
+    "slug": "pandsal-trsci",
+    "description": "Simplify Blockchain: Easy Onboarding, Endless Possibilities. Designed to guide everyday users and businesses into a user-friendly web3 experience. Walet-less, frictionless account creation, gasless transaction, and secured with multisig and ZK proof transactions.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Banker Smith",
+    "slug": "banker-smith-k2m9h",
+    "description": "xUSD is a cross-chain synthetic USD that offers capital efficiency with a 1:1 collateralization ratio without the risk of liquidation while providing a Web3 native yield. The protocol accepts ETH as collateral to back xUSD.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "gt566",
+      "yip67"
+    ]
+  },
+  {
+    "name": "DecOpt",
+    "slug": "decopt-t51zt",
+    "description": "Decentralized Stock Options Trading Platformas powered by Chainlink & Compound",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "iFrameSea",
+    "slug": "iframesea-4z6bx",
+    "description": "iFrameSea builds a Web3 metaverse using BabylonJS, Hardhat, and React/Next.js. Users can explore a virtual world with a marketplace, visualize DeFi portfolios, and connect real-world assets, showing the potential of merging metaverses, DeFi, and RW connectivity on Ethereum.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ajadao",
+    "slug": "ajadao-v8waq",
+    "description": "AjoDAO implements transparent savings circles on Ethereum. Key points:  Savings circles with potential treasury yield Governance can move funds to lending protocols Interest earned compounds member payouts Democratic control over treasury management",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FRKT",
+    "slug": "frkt-zzggk",
+    "description": "No-Code tools for Web2&3. FRKT(/frɪkt/) provides a frictionless UX for any app.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "t4bwy",
+      "yip67"
+    ]
+  },
+  {
+    "name": "Sorites",
+    "slug": "sorites-3hpuo",
+    "description": "Fixed-Yield Wrapper: allows users to deposit single-sided liquidity and earn fixed yield.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKlash",
+    "slug": "zklash-grui5",
+    "description": "Welcome to ZKlash, beat the rest of the players and smash on your favourite NFT, to win prizes! Based on Aztec noir, erc6551 and deployed on Scroll using the keynesian beauty contest!",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "BlockAIDS",
+    "slug": "blockaids-pg99j",
+    "description": "BlockAIDS - a decentralized ecosystem designed for millions of people living with HIV and key affected populations",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "FusionwaveNFT",
+    "slug": "fusionwavenft-j0kar",
+    "description": "FusionwaveNFT is a GenerativeAI enabled Modern NFT Marketplace that caters to the needs of web3 enthusiasts, NFT artists, and AI artists.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Nounce",
+    "slug": "nounce-9sk09",
+    "description": "Verified web3 announcements, bridging trust across blockchains.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Code Connect",
+    "slug": "code-connect-fj1h2",
+    "description": "An incentive mechanism for empowering open source coders to become stakeholders of projects.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "ZKC-in-action",
+    "slug": "zkc-in-action-5kbff",
+    "description": "Prove that you are a human older than 18 years old by obtaining a Passport ZK credential and verifying it through ZKP (Zero-Knowledge Proof) without revealing other data",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "crondex",
+    "slug": "crondex-vhaz8",
+    "description": "it's not a dex, it's a cross chain etheruem staking facilitator dapp",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "POP!",
+    "slug": "pop-b0avo",
+    "description": "Explore a new way to trade cars with POP!  Just snap a photo to create a digital twin of your car on the blockchain. Check its history, prove ownership, and join in on virtual car auctions",
+    "event": "ETHOnline 2023",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "jzpj5",
+      "eov0f",
+      "yip67"
+    ]
+  },
+  {
+    "name": "WalletX",
+    "slug": "walletx-q8oxg",
+    "description": "A non-custodial and state-of-the-art smart wallet browser extension for smarter blockchain interactions.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "CryptGate",
+    "slug": "cryptgate-f8p5z",
+    "description": "CryptGate: Crypto Payment Gateway for web2/web3 applications with account abstraction and zk-based identities",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aRwa",
+    "slug": "arwa-rr9vz",
+    "description": "The project is an oracle for tokenizing things from real life. Each user can tokenize their property, and then put it on the marketplace.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "ApePay",
+    "slug": "apepay-vr5js",
+    "description": "Welcome to the Safe ApeCoin Payment Gateway solution. ApePay is a secure online portal for merchants and institutions that wish to offer ApeCoin and other cryptocurrencies as a payment option.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cauldron Codes",
+    "slug": "cauldron-codes-fmqji",
+    "description": "A frontend web app that streamlines the creation of Solidity smart contracts. By selecting desired properties, users can swiftly produce both ERC-20 token contracts and corresponding test suites.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwapSmart",
+    "slug": "swapsmart-tprkx",
+    "description": "🌐 Swap Smart: Transforming Ghana cedis into tokens for seamless currency swapping and liquidity provision. Empowering users on the blockchain! 🚀 #SwapSmart #DeFi #GhanaCurrency",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Equilibra",
+    "slug": "equilibra-2o3pq",
+    "description": "Equilibra offers a unique approach to fund distribution through conviction voting",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgroFi",
+    "slug": "agrofi-uoc9m",
+    "description": "This is a staking contract which gives reward per token , to user",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "aiArena",
+    "slug": "aiarena-244z6",
+    "description": "A platform where you can engage in games against real opponents or AI models. Additionally, you can pit your trained AI against another user's model. Stake tokens before the game and earn rewards upon victory.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Care-Pass",
+    "slug": "care-pass-it0cp",
+    "description": "Electronic medical records management for patients traveling to international locations for medical procedure and doctors to perform global healthcare analysis.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Power Voting",
+    "slug": "power-voting-w2p7t",
+    "description": "Power Voting dApp aims to become the infrastructure for DAO governance.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "Key Kiss",
+    "slug": "key-kiss-4hc43",
+    "description": "A two-factor secure way to store your wallets private key ...",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bookies",
+    "slug": "bookies-pasu8",
+    "description": "Bookies is a decentralized, non-custiodal sports betting exchange where users can participant as a  bettor or bookmaker.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "fp1x1"
+    ]
+  },
+  {
+    "name": "Fractals",
+    "slug": "fractals-86p8z",
+    "description": "Puzzle game to collect randomised fractional NFTs. It's mainly for beginner Artist/Collector friendly platform. Build By the Artist for the Artists.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Safe Store",
+    "slug": "safe-store-y4ex2",
+    "description": "Safe Extensions Store : A marketplace of plugins for your safe smart accounts.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TheShadyProject",
+    "slug": "theshadyproject-u2xd3",
+    "description": "A decentralized audio streaming platform for indie music artists. A platform where artists can turn their tracks into fractional NFT and the fans can have a piece of the track for their own.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zkfresh",
+    "slug": "zkfresh-8gsac",
+    "description": "Decentralized marketplace on zk technology. Sell and buy what you need.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CloudX3-IoT",
+    "slug": "cloudx3-iot-g7ae9",
+    "description": "Leading IoT to the next generation and creating a decentralized, trustworthy and efficient IoT ecosystem",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moovie",
+    "slug": "moovie-q5anc",
+    "description": "Discover a new era of video sharing with our decentralized platform, where creators have the freedom to share their content without intermediaries. Say goodbye to central control and hello to a community-driven experience.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Werepl",
+    "slug": "werepl-xq6jn",
+    "description": "Our platform aims to empower users by providing them with a mechanism to report harmful web services and dApps, while also equipping web service providers with tools to identify and address these issues.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TradeCode",
+    "slug": "tradecode-ddxrp",
+    "description": "🌐 Introducing TradeCode: Our Web3 DApp fights counterfeiting & streamlines trademark registration using blockchain & NFTs. Secure, transparent, and efficient authentication for products & services. 🛡️🔗 #TradeCode #Blockchain #DApp #NFTs",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reveus",
+    "slug": "reveus-946ou",
+    "description": "The ultimate web3 review-to-earn platform, empowering businesses and startups with specialized reviews and vibrant communities for product success in the blockchain world.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  },
+  {
+    "name": "aHand",
+    "slug": "ahand-qt1p2",
+    "description": "A fully onchain gassles lightweight tool for person to find a solution to their problem via any social net by utilizing theory of n-degrees of separation and gamified incentive: raise a hand, shake it, give it and get rewarded",
+    "event": "ETHOnline 2023",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sentiment Drips",
+    "slug": "sentiment-drips-f7bin",
+    "description": "Sentiment Drips is a flexible Allo framework that gives you building blocks to deploy liquidity to fund impact projects. Allo is a sophisticated ecosystem on the Ethereum blockchain, enabling automated and decentralized fund allocation and distribution.",
+    "event": "ETHOnline 2023",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yip67"
+    ]
+  }
+]
